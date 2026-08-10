@@ -1,12 +1,93 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T23:12:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3498,
+    "updated_at": "2026-08-10T23:11:02Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-08-10T23:09:47Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-08-10T23:08:55Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56049,
-    "updated_at": "2026-08-10T22:59:21Z",
+    "stars": 56052,
+    "updated_at": "2026-08-10T23:12:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-08-10T23:03:39Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-08-10T23:01:43Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-10T23:01:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T23:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
+    "id": "retardingforcerightbank635/dm-gateway-bot",
+    "language": "Python",
+    "name": "retardingforcerightbank635/dm-gateway-bot",
+    "stars": 0,
+    "updated_at": "2026-08-10T23:00:11Z",
+    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -86,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24115,
-    "updated_at": "2026-08-10T22:57:06Z",
+    "updated_at": "2026-08-10T23:03:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T22:45:54Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T22:44:05Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T22:42:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10977,
-    "updated_at": "2026-08-10T22:58:50Z",
+    "updated_at": "2026-08-10T23:12:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -248,7 +311,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T22:49:42Z",
+    "updated_at": "2026-08-10T23:03:21Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/mrinmoyece/cortex"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-10T22:02:04Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 3,
-    "updated_at": "2026-08-10T22:58:22Z",
+    "updated_at": "2026-08-10T23:06:45Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T21:39:27Z",
     "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:39:25Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:39:24Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:39:22Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
-  },
-  {
-    "description": "Diff and regression-detect LLM agent execution traces",
-    "id": "sandeep-alluru/agentdelta",
-    "language": "Python",
-    "name": "sandeep-alluru/agentdelta",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:39:20Z",
-    "url": "https://github.com/sandeep-alluru/agentdelta"
-  },
-  {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:39:19Z",
-    "url": "https://github.com/vul-os/llmux"
-  },
-  {
-    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
-    "id": "mykolapodpriatov/agentbisect",
-    "language": "Python",
-    "name": "mykolapodpriatov/agentbisect",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:32:19Z",
-    "url": "https://github.com/mykolapodpriatov/agentbisect"
   }
 ]
