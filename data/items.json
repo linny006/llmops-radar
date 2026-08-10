@@ -1,12 +1,30 @@
 [
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "description": "See what every AI agent costs you, across every vendor, in one line. No account, no dependencies, no network calls, not ",
+    "id": "focxle/focxle-python",
+    "language": "Python",
+    "name": "focxle/focxle-python",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:45:01Z",
+    "url": "https://github.com/focxle/focxle-python"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24114,
+    "updated_at": "2026-08-10T19:44:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
     "stars": 2,
-    "updated_at": "2026-08-10T19:40:55Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "updated_at": "2026-08-10T19:41:55Z",
+    "url": "https://github.com/vul-os/llmux"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,17 +32,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-10T19:31:25Z",
+    "updated_at": "2026-08-10T19:41:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:35:58Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +41,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-10T19:30:32Z",
+    "updated_at": "2026-08-10T19:41:01Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:43:35Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:42:39Z",
+    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -63,21 +90,12 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24114,
-    "updated_at": "2026-08-10T19:28:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56045,
-    "updated_at": "2026-08-10T19:39:04Z",
+    "updated_at": "2026-08-10T19:41:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T19:27:54Z",
     "url": "https://github.com/itsnevu/Curb"
-  },
-  {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:27:30Z",
-    "url": "https://github.com/vul-os/llmux"
   },
   {
     "description": "LangGraph-first security regression testing for document agents",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29616,
-    "updated_at": "2026-08-10T19:40:43Z",
+    "updated_at": "2026-08-10T19:44:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -220,7 +229,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1055,
+    "stars": 1058,
     "updated_at": "2026-08-10T18:55:51Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T16:53:25Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 224,
-    "updated_at": "2026-08-10T16:44:01Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   }
 ]
