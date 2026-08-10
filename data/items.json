@@ -1,5 +1,86 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:20:49Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:17:06Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
+    "id": "Clawdlinux/agentic-operator-core",
+    "language": "Go",
+    "name": "Clawdlinux/agentic-operator-core",
+    "stars": 22,
+    "updated_at": "2026-08-10T20:17:03Z",
+    "url": "https://github.com/Clawdlinux/agentic-operator-core"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3485,
+    "updated_at": "2026-08-10T20:19:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T20:16:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:16:25Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:15:53Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Canonical trace format and verifier for agent execution attestation",
+    "id": "sandeep-alluru/notarize",
+    "language": "Python",
+    "name": "sandeep-alluru/notarize",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:14:56Z",
+    "url": "https://github.com/sandeep-alluru/notarize"
+  },
+  {
     "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
     "id": "itsnevu/Curb",
     "language": "TypeScript",
@@ -18,21 +99,12 @@
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T20:14:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56046,
-    "updated_at": "2026-08-10T20:11:45Z",
+    "updated_at": "2026-08-10T20:20:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10976,
-    "updated_at": "2026-08-10T20:05:02Z",
+    "updated_at": "2026-08-10T20:20:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -126,15 +189,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:08:35Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "See what every AI agent costs you, across every vendor, in one line. No account, no dependencies, no network calls, not ",
     "id": "focxle/focxle-python",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 24114,
     "updated_at": "2026-08-10T19:49:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:13:49Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29616,
-    "updated_at": "2026-08-10T20:13:46Z",
+    "updated_at": "2026-08-10T20:20:08Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -214,24 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T19:52:34Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:37:02Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:06:52Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -259,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-08-10T19:01:13Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3485,
-    "updated_at": "2026-08-10T20:14:35Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-10T16:55:11Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
-    "id": "Zonastery/bursar",
-    "language": "Python",
-    "name": "Zonastery/bursar",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:54:13Z",
-    "url": "https://github.com/Zonastery/bursar"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 95,
-    "updated_at": "2026-08-10T16:53:59Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
