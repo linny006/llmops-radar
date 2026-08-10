@@ -1,12 +1,93 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T15:25:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HTML",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-08-10T15:25:04Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-08-10T15:23:23Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7194,
-    "updated_at": "2026-08-10T15:15:25Z",
+    "updated_at": "2026-08-10T15:27:45Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:20:16Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10974,
+    "updated_at": "2026-08-10T15:20:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 3,
+    "updated_at": "2026-08-10T15:18:36Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
+    "id": "umeshkedimi/aic",
+    "language": "\u2014",
+    "name": "umeshkedimi/aic",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:16:32Z",
+    "url": "https://github.com/umeshkedimi/aic"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T15:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21274,
+    "updated_at": "2026-08-10T15:10:39Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32827,
-    "updated_at": "2026-08-10T15:07:52Z",
+    "updated_at": "2026-08-10T15:27:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-10T15:12:57Z",
+    "updated_at": "2026-08-10T15:27:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -41,26 +122,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27451,
-    "updated_at": "2026-08-10T15:11:47Z",
+    "updated_at": "2026-08-10T15:30:11Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T15:00:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10973,
-    "updated_at": "2026-08-10T15:00:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -81,15 +144,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T15:15:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:55:58Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
-    "id": "KIM3310/enterprise-llm-adoption-kit",
-    "language": "Python",
-    "name": "KIM3310/enterprise-llm-adoption-kit",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:54:56Z",
-    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
     "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
@@ -133,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T14:48:38Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21272,
-    "updated_at": "2026-08-10T15:10:39Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agentic Incident Command \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates prod",
-    "id": "umeshkedimi/aic",
-    "language": "\u2014",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:46:10Z",
-    "url": "https://github.com/umeshkedimi/aic"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -220,7 +247,7 @@
     "id": "openlit/openlit",
     "language": "TypeScript",
     "name": "openlit/openlit",
-    "stars": 2678,
+    "stars": 2679,
     "updated_at": "2026-08-10T14:27:56Z",
     "url": "https://github.com/openlit/openlit"
   },
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1638,
-    "updated_at": "2026-08-10T15:14:51Z",
+    "updated_at": "2026-08-10T15:29:43Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-10T14:24:24Z",
+    "updated_at": "2026-08-10T15:22:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -346,7 +373,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24107,
+    "stars": 24108,
     "updated_at": "2026-08-10T14:18:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,17 +383,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29612,
-    "updated_at": "2026-08-10T15:13:49Z",
+    "updated_at": "2026-08-10T15:23:40Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
-    "id": "KIM3310/llm-onprem-deployment-kit",
-    "language": "HTML",
-    "name": "KIM3310/llm-onprem-deployment-kit",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:16:17Z",
-    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T14:08:47Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:07:13Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2593,
-    "updated_at": "2026-08-10T14:06:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
