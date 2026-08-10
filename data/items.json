@@ -1,5 +1,50 @@
 [
   {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:59:21Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:59:05Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T08:56:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 528,
+    "updated_at": "2026-08-10T08:56:07Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2592,
+    "updated_at": "2026-08-10T08:55:44Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
     "id": "itsnevu/Curb",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 94,
-    "updated_at": "2026-08-10T08:54:32Z",
+    "updated_at": "2026-08-10T08:57:59Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -58,7 +103,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32800,
+    "stars": 32801,
     "updated_at": "2026-08-10T08:48:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -97,15 +142,6 @@
     "stars": 76,
     "updated_at": "2026-08-10T08:47:06Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T08:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11840,
-    "updated_at": "2026-08-10T08:53:38Z",
+    "updated_at": "2026-08-10T09:00:13Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:31:48Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -378,15 +405,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2592,
-    "updated_at": "2026-08-10T08:55:44Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
     "id": "sandeep-alluru/agentcrdt",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1635,
     "updated_at": "2026-08-10T08:08:11Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-10T08:05:40Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:05:28Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
   }
 ]
