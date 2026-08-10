@@ -1,12 +1,93 @@
 [
   {
+    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:27:34Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56049,
+    "updated_at": "2026-08-10T22:28:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24115,
-    "updated_at": "2026-08-10T22:15:30Z",
+    "updated_at": "2026-08-10T22:28:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-08-10T22:24:28Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:29:26Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7197,
+    "updated_at": "2026-08-10T22:22:37Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29618,
+    "updated_at": "2026-08-10T22:29:46Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T22:18:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 374,
+    "updated_at": "2026-08-10T22:14:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-10T22:12:36Z",
+    "updated_at": "2026-08-10T22:26:18Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -27,42 +108,6 @@
     "url": "https://github.com/relari-ai/continuous-eval"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:11:09Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56048,
-    "updated_at": "2026-08-10T22:14:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:09:37Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T22:08:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -70,15 +115,6 @@
     "stars": 49,
     "updated_at": "2026-08-10T22:01:34Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP-native agentic platform: planner/executor/critic over hybrid RAG, with per-run cost ceilings, three-tier memory, out",
@@ -151,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T21:44:31Z",
     "url": "https://github.com/mchittineni/ultimate-ai-engineering-guide"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32840,
+    "updated_at": "2026-08-10T21:42:11Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-10T21:43:59Z",
+    "updated_at": "2026-08-10T22:26:14Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-10T21:20:28Z",
+    "updated_at": "2026-08-10T22:26:32Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10976,
-    "updated_at": "2026-08-10T21:56:24Z",
+    "updated_at": "2026-08-10T22:29:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -358,15 +403,6 @@
     "stars": 3485,
     "updated_at": "2026-08-10T21:16:50Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29617,
-    "updated_at": "2026-08-10T22:14:01Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T20:08:51Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 5,
-    "updated_at": "2026-08-10T20:04:39Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-10T21:05:05Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "See what every AI agent costs you, across every vendor, in one line. No account, no dependencies, no network calls, not ",
-    "id": "focxle/focxle-python",
-    "language": "Python",
-    "name": "focxle/focxle-python",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:45:01Z",
-    "url": "https://github.com/focxle/focxle-python"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-10T19:28:44Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
