@@ -1,5 +1,122 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56049,
+    "updated_at": "2026-08-10T22:59:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
+    "id": "wordenneapolitan768/llm-pricing",
+    "language": "\u2014",
+    "name": "wordenneapolitan768/llm-pricing",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:58:44Z",
+    "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:57:22Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
+    "id": "Orlyoxidized462/py-prompt-versioner",
+    "language": "Python",
+    "name": "Orlyoxidized462/py-prompt-versioner",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:56:26Z",
+    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
+  },
+  {
+    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
+    "id": "Impure-platen433/crabllm",
+    "language": "Rust",
+    "name": "Impure-platen433/crabllm",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:56:15Z",
+    "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
+    "id": "recordrnase224/brix-protocol",
+    "language": "Python",
+    "name": "recordrnase224/brix-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:55:54Z",
+    "url": "https://github.com/recordrnase224/brix-protocol"
+  },
+  {
+    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
+    "id": "Citrous-districtline59/agent-trace",
+    "language": "Python",
+    "name": "Citrous-districtline59/agent-trace",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:55:48Z",
+    "url": "https://github.com/Citrous-districtline59/agent-trace"
+  },
+  {
+    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
+    "id": "ydavidcm9-wq/vigil",
+    "language": "JavaScript",
+    "name": "ydavidcm9-wq/vigil",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:53:31Z",
+    "url": "https://github.com/ydavidcm9-wq/vigil"
+  },
+  {
+    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
+    "id": "islaagnet27/llm-cost",
+    "language": "C++",
+    "name": "islaagnet27/llm-cost",
+    "stars": 1,
+    "updated_at": "2026-08-10T22:53:19Z",
+    "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24115,
+    "updated_at": "2026-08-10T22:57:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:47:22Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:45:54Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T22:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -54,15 +171,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56049,
-    "updated_at": "2026-08-10T22:45:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -70,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T22:40:07Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24115,
-    "updated_at": "2026-08-10T22:40:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:37:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -122,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10977,
-    "updated_at": "2026-08-10T22:40:30Z",
+    "updated_at": "2026-08-10T22:58:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -148,8 +238,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7198,
-    "updated_at": "2026-08-10T22:22:37Z",
+    "stars": 7199,
+    "updated_at": "2026-08-10T23:00:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -158,7 +248,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T22:34:00Z",
+    "updated_at": "2026-08-10T22:49:42Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -229,7 +319,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8235,
+    "stars": 8236,
     "updated_at": "2026-08-10T21:54:12Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 3,
-    "updated_at": "2026-08-10T21:51:42Z",
+    "updated_at": "2026-08-10T22:58:22Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -275,7 +365,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32841,
-    "updated_at": "2026-08-10T21:42:11Z",
+    "updated_at": "2026-08-10T22:57:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T21:32:19Z",
     "url": "https://github.com/mykolapodpriatov/agentbisect"
-  },
-  {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 10,
-    "updated_at": "2026-08-10T21:27:46Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
-  },
-  {
-    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
-    "id": "mykolapodpriatov/hedge-llm",
-    "language": "Go",
-    "name": "mykolapodpriatov/hedge-llm",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:27:46Z",
-    "url": "https://github.com/mykolapodpriatov/hedge-llm"
-  },
-  {
-    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
-    "id": "mykolapodpriatov/extract-regress",
-    "language": "Python",
-    "name": "mykolapodpriatov/extract-regress",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:27:42Z",
-    "url": "https://github.com/mykolapodpriatov/extract-regress"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:26:14Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:13:55Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-10T21:09:19Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-10T21:04:40Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 12,
-    "updated_at": "2026-08-10T20:59:06Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:59:06Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:30:30Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
