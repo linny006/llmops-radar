@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 7,
+    "updated_at": "2026-08-10T17:43:54Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T17:43:40Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:44:30Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56039,
+    "updated_at": "2026-08-10T17:40:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T17:39:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 374,
+    "updated_at": "2026-08-10T17:44:53Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:35:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10975,
-    "updated_at": "2026-08-10T17:35:06Z",
+    "updated_at": "2026-08-10T17:45:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 79,
+    "updated_at": "2026-08-10T17:42:57Z",
+    "url": "https://github.com/shyftlabs/continuum"
   },
   {
     "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
@@ -18,48 +90,12 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T17:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-10T17:30:11Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 374,
-    "updated_at": "2026-08-10T17:33:41Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T17:34:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32836,
-    "updated_at": "2026-08-10T17:25:54Z",
+    "updated_at": "2026-08-10T17:40:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-08-10T17:24:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56038,
-    "updated_at": "2026-08-10T17:24:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3485,
-    "updated_at": "2026-08-10T17:34:33Z",
+    "updated_at": "2026-08-10T17:44:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -239,7 +266,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T17:34:35Z",
+    "updated_at": "2026-08-10T17:42:57Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29612,
-    "updated_at": "2026-08-10T17:00:34Z",
+    "updated_at": "2026-08-10T17:38:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-10T16:06:45Z",
+    "updated_at": "2026-08-10T17:35:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T15:38:58Z",
     "url": "https://github.com/focxle/focxle-python"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3159,
-    "updated_at": "2026-08-10T15:33:14Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "TypeScript",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-10T15:31:57Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27452,
-    "updated_at": "2026-08-10T15:30:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
