@@ -1,5 +1,59 @@
 [
   {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 3,
+    "updated_at": "2026-08-10T21:51:42Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:50:48Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:47:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24115,
+    "updated_at": "2026-08-10T21:48:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:45:42Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "100+ AI, Gen AI, LLM, Agentic AI, Forward Deployed Engineer (FDE), AI Systems Architect, Applied AI, LLMOps, AI Platform",
     "id": "mchittineni/ultimate-ai-engineering-guide",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56047,
-    "updated_at": "2026-08-10T21:42:39Z",
+    "updated_at": "2026-08-10T21:55:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,24 +171,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-10T21:37:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24115,
-    "updated_at": "2026-08-10T21:36:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
     "id": "mykolapodpriatov/agentbisect",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T21:32:19Z",
     "url": "https://github.com/mykolapodpriatov/agentbisect"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
@@ -225,15 +252,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 3,
-    "updated_at": "2026-08-10T21:01:56Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -261,21 +279,12 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-10T21:41:24Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10976,
-    "updated_at": "2026-08-10T21:42:22Z",
+    "updated_at": "2026-08-10T21:56:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29617,
-    "updated_at": "2026-08-10T21:41:35Z",
+    "updated_at": "2026-08-10T21:47:59Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7197,
-    "updated_at": "2026-08-10T21:45:16Z",
+    "updated_at": "2026-08-10T21:56:09Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 5,
-    "updated_at": "2026-08-10T19:01:13Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   }
 ]
