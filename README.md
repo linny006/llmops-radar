@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 18:30 UTC
+> ⏰ Last updated: 2026-08-10 18:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56041 | Python | 2026-08-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10975 | Python | 2026-08-10 | AI Observability & Evaluation |
-| 3 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 13 | TypeScript | 2026-08-10 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
-| 4 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-08-10 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 5 | [aimd54/palan](https://github.com/aimd54/palan) | 0 | Go | 2026-08-10 | Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary. |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-10 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 7 | [Victoria824/SpanReplay](https://github.com/Victoria824/SpanReplay) | 0 | TypeScript | 2026-08-10 | OpenTelemetry observability and privacy-aware failure replay for production AI agents. |
-| 8 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 374 | Python | 2026-08-10 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-10 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56041 | Python | 2026-08-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10975 | Python | 2026-08-10 | AI Observability & Evaluation |
+| 5 | [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC) | 13 | TypeScript | 2026-08-10 | Open-source control plane for private, governed enterprise AI — one gateway for every model, composable governed pipelin |
+| 6 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-08-10 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 7 | [aimd54/palan](https://github.com/aimd54/palan) | 0 | Go | 2026-08-10 | Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary. |
+| 8 | [Victoria824/SpanReplay](https://github.com/Victoria824/SpanReplay) | 0 | TypeScript | 2026-08-10 | OpenTelemetry observability and privacy-aware failure replay for production AI agents. |
+| 9 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 374 | Python | 2026-08-10 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
 | 10 | [carroyo03/TraceGuard](https://github.com/carroyo03/TraceGuard) | 0 | Python | 2026-08-10 | LangGraph-first security regression testing for document agents |
 | 11 | [dgenio/intentflow](https://github.com/dgenio/intentflow) | 2 | Python | 2026-08-10 | An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int |
 | 12 | [fightheyyy/CATENA](https://github.com/fightheyyy/CATENA) | 0 | Go | 2026-08-10 | Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane. |
