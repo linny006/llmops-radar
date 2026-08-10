@@ -1,12 +1,84 @@
 [
   {
+    "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
+    "id": "itsnevu/Curb",
+    "language": "TypeScript",
+    "name": "itsnevu/Curb",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:14:52Z",
+    "url": "https://github.com/itsnevu/Curb"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 7,
+    "updated_at": "2026-08-10T20:14:39Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-10T19:57:56Z",
+    "updated_at": "2026-08-10T20:14:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56046,
+    "updated_at": "2026-08-10T20:11:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:08:51Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:06:00Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
+    "id": "bimal1023/AI-native-engineer",
+    "language": "\u2014",
+    "name": "bimal1023/AI-native-engineer",
+    "stars": 5,
+    "updated_at": "2026-08-10T20:04:39Z",
+    "url": "https://github.com/bimal1023/AI-native-engineer"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10976,
+    "updated_at": "2026-08-10T20:05:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -27,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 5,
-    "updated_at": "2026-08-10T19:53:13Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -54,30 +117,12 @@
     "url": "https://github.com/WellCod/automata"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56045,
-    "updated_at": "2026-08-10T20:00:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10976,
-    "updated_at": "2026-08-10T19:54:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 12,
-    "updated_at": "2026-08-10T19:47:07Z",
+    "updated_at": "2026-08-10T20:12:29Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-10T19:58:43Z",
+    "updated_at": "2026-08-10T20:08:35Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "See what every AI agent costs you, across every vendor, in one line. No account, no dependencies, no network calls, not ",
@@ -117,21 +153,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
-    "id": "vul-os/llmux",
-    "language": "Go",
-    "name": "vul-os/llmux",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:41:55Z",
-    "url": "https://github.com/vul-os/llmux"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T19:59:46Z",
+    "updated_at": "2026-08-10T20:13:49Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -162,15 +189,6 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
-    "id": "itsnevu/Curb",
-    "language": "TypeScript",
-    "name": "itsnevu/Curb",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:27:54Z",
-    "url": "https://github.com/itsnevu/Curb"
-  },
-  {
     "description": "LangGraph-first security regression testing for document agents",
     "id": "carroyo03/TraceGuard",
     "language": "Python",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29616,
-    "updated_at": "2026-08-10T19:58:33Z",
+    "updated_at": "2026-08-10T20:13:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-08-10T19:16:52Z",
+    "updated_at": "2026-08-10T20:06:52Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -220,9 +238,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32840,
+    "stars": 32841,
     "updated_at": "2026-08-10T19:12:00Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7196,
+    "updated_at": "2026-08-10T19:04:50Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3485,
-    "updated_at": "2026-08-10T19:56:08Z",
+    "updated_at": "2026-08-10T20:14:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -297,24 +324,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7195,
-    "updated_at": "2026-08-10T19:04:50Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Serve GGUF models straight from any OCI registry. Daemonless, runs offline, one static binary.",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:19:16Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
     "description": "OpenTelemetry observability and privacy-aware failure replay for production AI agents.",
     "id": "Victoria824/SpanReplay",
     "language": "TypeScript",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 374,
-    "updated_at": "2026-08-10T18:51:37Z",
+    "updated_at": "2026-08-10T20:09:57Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 6,
     "updated_at": "2026-08-10T17:51:58Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-10T17:43:54Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
