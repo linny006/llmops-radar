@@ -1,12 +1,48 @@
 [
   {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
+    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
+    "id": "Nokimalos/rag-ci",
     "language": "Python",
-    "name": "ashishki/telegram-research-agent",
+    "name": "Nokimalos/rag-ci",
+    "stars": 9,
+    "updated_at": "2026-08-10T09:15:12Z",
+    "url": "https://github.com/Nokimalos/rag-ci"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2593,
+    "updated_at": "2026-08-10T09:11:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32802,
+    "updated_at": "2026-08-10T09:10:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
+    "id": "itsnevu/Curb",
+    "language": "TypeScript",
+    "name": "itsnevu/Curb",
     "stars": 0,
-    "updated_at": "2026-08-10T08:59:21Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
+    "updated_at": "2026-08-10T09:10:50Z",
+    "url": "https://github.com/itsnevu/Curb"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-10T09:07:02Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-10T08:59:05Z",
+    "updated_at": "2026-08-10T09:05:45Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-10T09:03:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Self-hosted MCP/AI gateway for Codex, Cursor & Cline. Turn plain language into structured prompts with 9 governed tools ",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-10T09:01:03Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-10T08:56:27Z",
+    "updated_at": "2026-08-10T09:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:59:21Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
@@ -36,22 +99,13 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2592,
-    "updated_at": "2026-08-10T08:55:44Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
-    "id": "itsnevu/Curb",
-    "language": "TypeScript",
-    "name": "itsnevu/Curb",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:55:19Z",
-    "url": "https://github.com/itsnevu/Curb"
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5684,
+    "updated_at": "2026-08-10T08:56:00Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 94,
-    "updated_at": "2026-08-10T08:57:59Z",
+    "updated_at": "2026-08-10T09:14:03Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -99,21 +153,12 @@
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32801,
-    "updated_at": "2026-08-10T08:48:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3481,
-    "updated_at": "2026-08-10T08:48:06Z",
+    "updated_at": "2026-08-10T09:15:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
-    "id": "Nokimalos/rag-ci",
-    "language": "Python",
-    "name": "Nokimalos/rag-ci",
-    "stars": 9,
-    "updated_at": "2026-08-10T08:44:39Z",
-    "url": "https://github.com/Nokimalos/rag-ci"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -194,7 +230,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-10T08:42:36Z",
+    "updated_at": "2026-08-10T09:15:06Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21266,
-    "updated_at": "2026-08-10T08:37:22Z",
+    "updated_at": "2026-08-10T09:10:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -295,24 +331,6 @@
     "stars": 49,
     "updated_at": "2026-08-10T08:36:15Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Self-hosted MCP/AI gateway for Codex, Cursor & Cline. Turn plain language into structured prompts with 9 governed tools ",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-10T08:36:04Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-10T08:35:35Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -369,12 +387,21 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8226,
+    "updated_at": "2026-08-10T08:25:10Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56006,
-    "updated_at": "2026-08-10T08:24:42Z",
+    "updated_at": "2026-08-10T09:13:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -394,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T08:27:25Z",
     "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-10T08:22:34Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T08:10:34Z",
     "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-10T08:09:31Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1635,
-    "updated_at": "2026-08-10T08:08:11Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
