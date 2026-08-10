@@ -1,5 +1,113 @@
 [
   {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 75,
+    "updated_at": "2026-08-10T19:28:43Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
+    "id": "NadeemAhmad3/AI-Engineering-Lab",
+    "language": "Python",
+    "name": "NadeemAhmad3/AI-Engineering-Lab",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:28:23Z",
+    "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56045,
+    "updated_at": "2026-08-10T19:30:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Guardrails and circuit breakers for AI agents \u2014 stop runaway loops, cost blowups, and destructive tool calls with one po",
+    "id": "itsnevu/Curb",
+    "language": "TypeScript",
+    "name": "itsnevu/Curb",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:27:54Z",
+    "url": "https://github.com/itsnevu/Curb"
+  },
+  {
+    "description": "The sovereign OpenAI-compatible AI gateway \u2014 routing, fallbacks, per-key budgets, caching, and live cost across every pr",
+    "id": "vul-os/llmux",
+    "language": "Go",
+    "name": "vul-os/llmux",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:27:30Z",
+    "url": "https://github.com/vul-os/llmux"
+  },
+  {
+    "description": "LangGraph-first security regression testing for document agents",
+    "id": "carroyo03/TraceGuard",
+    "language": "Python",
+    "name": "carroyo03/TraceGuard",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:26:09Z",
+    "url": "https://github.com/carroyo03/TraceGuard"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:25:04Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:23:49Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:22:11Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:16:55Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:16:52Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -13,7 +121,7 @@
     "id": "bimal1023/AI-native-engineer",
     "language": "\u2014",
     "name": "bimal1023/AI-native-engineer",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-10T19:06:07Z",
     "url": "https://github.com/bimal1023/AI-native-engineer"
   },
@@ -27,24 +135,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
-    "id": "NadeemAhmad3/AI-Engineering-Lab",
-    "language": "Python",
-    "name": "NadeemAhmad3/AI-Engineering-Lab",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:14:39Z",
-    "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56044,
-    "updated_at": "2026-08-10T19:13:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -54,31 +144,13 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3485,
-    "updated_at": "2026-08-10T19:12:21Z",
+    "updated_at": "2026-08-10T19:30:20Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-10T18:57:25Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -94,7 +166,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1048,
+    "stars": 1050,
     "updated_at": "2026-08-10T18:55:51Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -108,21 +180,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:14:12Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10975,
-    "updated_at": "2026-08-10T19:06:01Z",
+    "updated_at": "2026-08-10T19:21:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "LangGraph-first security regression testing for document agents",
-    "id": "carroyo03/TraceGuard",
-    "language": "Python",
-    "name": "carroyo03/TraceGuard",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:14:58Z",
-    "url": "https://github.com/carroyo03/TraceGuard"
-  },
-  {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
     "id": "dgenio/intentflow",
     "language": "Python",
@@ -239,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24113,
-    "updated_at": "2026-08-10T18:07:01Z",
+    "updated_at": "2026-08-10T19:28:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -257,7 +311,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29615,
-    "updated_at": "2026-08-10T18:02:39Z",
+    "updated_at": "2026-08-10T19:25:19Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -279,24 +333,6 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "TypeScript",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:13:43Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:49:54Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
@@ -304,15 +340,6 @@
     "stars": 7,
     "updated_at": "2026-08-10T17:43:54Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 75,
-    "updated_at": "2026-08-10T17:42:15Z",
-    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T16:38:42Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10207,
-    "updated_at": "2026-08-10T18:52:32Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:18:29Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:16:46Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
   }
 ]
