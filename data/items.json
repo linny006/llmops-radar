@@ -1,12 +1,39 @@
 [
   {
+    "description": "Evaluation discipline for agentic apps, operated through your coding agent \u2014 honest, local-first scorecards where a gree",
+    "id": "EvalGlass/evalglass-core",
+    "language": "Python",
+    "name": "EvalGlass/evalglass-core",
+    "stars": 0,
+    "updated_at": "2026-08-10T00:02:02Z",
+    "url": "https://github.com/EvalGlass/evalglass-core"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T00:01:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
     "id": "becloudready/workshops",
     "language": "HTML",
     "name": "becloudready/workshops",
     "stars": 4,
-    "updated_at": "2026-08-09T23:59:29Z",
+    "updated_at": "2026-08-10T00:01:06Z",
     "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T00:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provider-free AI gateway + MCP server for Codex, Cursor, and Cline. Turn rough language into structured prompts with rep",
@@ -16,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T23:57:41Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-09T23:56:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -52,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-08-09T23:51:40Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T23:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8220,
-    "updated_at": "2026-08-09T23:50:30Z",
+    "updated_at": "2026-08-10T00:02:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-09T22:18:02Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
