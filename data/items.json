@@ -1,11 +1,65 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3485,
+    "updated_at": "2026-08-10T17:13:44Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-08-10T17:13:31Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56038,
+    "updated_at": "2026-08-10T17:13:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-10T17:08:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:01:39Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10975,
-    "updated_at": "2026-08-10T16:58:09Z",
+    "updated_at": "2026-08-10T17:10:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T16:58:03Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56037,
-    "updated_at": "2026-08-10T16:58:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-10T16:56:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -94,7 +130,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32833,
+    "stars": 32834,
     "updated_at": "2026-08-10T16:51:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -104,17 +140,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7196,
-    "updated_at": "2026-08-10T16:46:53Z",
+    "updated_at": "2026-08-10T17:09:21Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -158,17 +185,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-10T16:34:22Z",
+    "updated_at": "2026-08-10T17:14:03Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-08-10T16:49:50Z",
-    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Netflix/metaflow",
     "stars": 10207,
-    "updated_at": "2026-08-10T16:31:10Z",
+    "updated_at": "2026-08-10T17:05:06Z",
     "url": "https://github.com/Netflix/metaflow"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-10T16:31:07Z",
+    "updated_at": "2026-08-10T17:13:17Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29612,
-    "updated_at": "2026-08-10T16:59:33Z",
+    "updated_at": "2026-08-10T17:00:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T16:09:33Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3485,
-    "updated_at": "2026-08-10T16:59:01Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
@@ -315,15 +324,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:59:33Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21275,
-    "updated_at": "2026-08-10T15:43:20Z",
+    "updated_at": "2026-08-10T17:01:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
