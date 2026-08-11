@@ -1,12 +1,30 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56079,
-    "updated_at": "2026-08-11T06:05:17Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T06:13:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:13:11Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7212,
+    "updated_at": "2026-08-11T06:12:47Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-11T06:03:48Z",
+    "updated_at": "2026-08-11T06:12:34Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2600,
+    "updated_at": "2026-08-11T06:11:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
+    "id": "wanmol/goal-flow",
+    "language": "Python",
+    "name": "wanmol/goal-flow",
+    "stars": 72,
+    "updated_at": "2026-08-11T06:08:15Z",
+    "url": "https://github.com/wanmol/goal-flow"
+  },
+  {
+    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
+    "id": "Divya1S/CareMesh",
+    "language": "Python",
+    "name": "Divya1S/CareMesh",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:07:35Z",
+    "url": "https://github.com/Divya1S/CareMesh"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32858,
+    "updated_at": "2026-08-11T06:06:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:05:42Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:05:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56079,
+    "updated_at": "2026-08-11T06:10:51Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -70,33 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:00:29Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T05:57:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
-    "id": "wanmol/goal-flow",
-    "language": "Python",
-    "name": "wanmol/goal-flow",
-    "stars": 72,
-    "updated_at": "2026-08-11T05:56:43Z",
-    "url": "https://github.com/wanmol/goal-flow"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -234,13 +288,13 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:44:26Z",
-    "url": "https://github.com/aimd54/palan"
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11847,
+    "updated_at": "2026-08-11T05:44:30Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -324,15 +378,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:29:01Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -360,15 +405,6 @@
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7212,
-    "updated_at": "2026-08-11T05:21:23Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1644,
-    "updated_at": "2026-08-11T05:09:51Z",
+    "updated_at": "2026-08-11T06:08:52Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:07:04Z",
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:05:57Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-11T04:59:02Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:41:39Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Fact-level staleness detection for AI agent memory",
-    "id": "sandeep-alluru/foghorn",
-    "language": "Python",
-    "name": "sandeep-alluru/foghorn",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:20:08Z",
-    "url": "https://github.com/sandeep-alluru/foghorn"
   }
 ]
