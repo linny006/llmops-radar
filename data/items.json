@@ -1,11 +1,38 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56118,
+    "updated_at": "2026-08-11T16:45:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24132,
+    "updated_at": "2026-08-11T16:42:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7234,
+    "updated_at": "2026-08-11T16:39:12Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
     "name": "Juror-AI/juror",
     "stars": 80,
-    "updated_at": "2026-08-11T16:27:35Z",
+    "updated_at": "2026-08-11T16:38:49Z",
     "url": "https://github.com/Juror-AI/juror"
   },
   {
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-11T16:27:05Z",
+    "updated_at": "2026-08-11T16:36:47Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
+    "id": "CAOShurong/evalint",
+    "language": "Python",
+    "name": "CAOShurong/evalint",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:39:55Z",
+    "url": "https://github.com/CAOShurong/evalint"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32895,
+    "updated_at": "2026-08-11T16:32:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27469,
+    "updated_at": "2026-08-11T16:30:04Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:26:49Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56118,
-    "updated_at": "2026-08-11T16:28:44Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 374,
-    "updated_at": "2026-08-11T16:17:53Z",
+    "updated_at": "2026-08-11T16:36:40Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21310,
-    "updated_at": "2026-08-11T16:09:56Z",
+    "updated_at": "2026-08-11T16:40:25Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
-    "id": "CAOShurong/evalint",
-    "language": "Python",
-    "name": "CAOShurong/evalint",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:12:31Z",
-    "url": "https://github.com/CAOShurong/evalint"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -142,15 +178,6 @@
     "stars": 43,
     "updated_at": "2026-08-11T16:09:01Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32895,
-    "updated_at": "2026-08-11T16:19:10Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-11T15:53:49Z",
+    "updated_at": "2026-08-11T16:39:04Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -225,31 +252,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7233,
-    "updated_at": "2026-08-11T16:20:14Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10997,
-    "updated_at": "2026-08-11T16:29:24Z",
+    "updated_at": "2026-08-11T16:38:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24132,
-    "updated_at": "2026-08-11T16:19:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-11T16:29:54Z",
+    "updated_at": "2026-08-11T16:45:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-11T15:16:08Z",
+    "updated_at": "2026-08-11T16:42:37Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -369,15 +378,6 @@
     "url": "https://github.com/alexvervloet/knowledge-desk"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27466,
-    "updated_at": "2026-08-11T16:30:04Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
     "id": "kreftamarcio/prompt-forge",
     "language": "TypeScript",
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-11T15:35:20Z",
+    "updated_at": "2026-08-11T16:31:14Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
