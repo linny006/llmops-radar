@@ -1,12 +1,93 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24115,
+    "updated_at": "2026-08-11T00:44:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:41:05Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-11T00:39:50Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27454,
-    "updated_at": "2026-08-11T00:28:52Z",
+    "updated_at": "2026-08-11T00:41:01Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 24,
+    "updated_at": "2026-08-11T00:41:17Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56053,
+    "updated_at": "2026-08-11T00:41:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-11T00:37:50Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:34:44Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8236,
+    "updated_at": "2026-08-11T00:32:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T00:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T00:22:40Z",
     "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56053,
-    "updated_at": "2026-08-11T00:27:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -63,30 +135,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T00:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:15:24Z",
-    "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10978,
-    "updated_at": "2026-08-11T00:28:55Z",
+    "updated_at": "2026-08-11T00:43:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-08-11T00:11:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24115,
-    "updated_at": "2026-08-11T00:12:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T23:45:51Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-10T23:25:27Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-10T22:27:34Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-10T22:24:28Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7199,
-    "updated_at": "2026-08-10T23:58:39Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-11T00:25:57Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29618,
-    "updated_at": "2026-08-11T00:10:49Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
