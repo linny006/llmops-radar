@@ -1,12 +1,39 @@
 [
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
+    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
+    "id": "debshikhar-sec/private-ai-infra",
     "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
+    "name": "debshikhar-sec/private-ai-infra",
     "stars": 0,
-    "updated_at": "2026-08-11T02:27:54Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "updated_at": "2026-08-11T02:42:56Z",
+    "url": "https://github.com/debshikhar-sec/private-ai-infra"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56058,
+    "updated_at": "2026-08-11T02:44:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:38:12Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-11T02:36:32Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24118,
-    "updated_at": "2026-08-11T02:26:08Z",
+    "updated_at": "2026-08-11T02:39:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-11T02:33:25Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:27:54Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -31,7 +85,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7206,
+    "stars": 7208,
     "updated_at": "2026-08-11T02:23:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -52,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:18:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:16:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10980,
-    "updated_at": "2026-08-11T02:08:50Z",
+    "updated_at": "2026-08-11T02:32:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:04:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:56:55Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T01:52:55Z",
     "url": "https://github.com/tirth1263/LLM-and-RAG-Debugger-WFGY-16-Problem-Map"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56056,
-    "updated_at": "2026-08-11T02:27:08Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -171,24 +198,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-11T02:04:37Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:11:42Z",
-    "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
     "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 75,
-    "updated_at": "2026-08-11T01:32:37Z",
+    "updated_at": "2026-08-11T02:45:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8236,
-    "updated_at": "2026-08-11T02:05:21Z",
+    "updated_at": "2026-08-11T02:43:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-11T02:22:45Z",
+    "updated_at": "2026-08-11T02:40:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T01:17:20Z",
+    "updated_at": "2026-08-11T02:43:01Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 7,
-    "updated_at": "2026-08-11T00:48:21Z",
+    "updated_at": "2026-08-11T02:35:12Z",
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29620,
-    "updated_at": "2026-08-11T02:21:38Z",
+    "updated_at": "2026-08-11T02:43:12Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -382,7 +391,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3498,
+    "stars": 3499,
     "updated_at": "2026-08-10T23:11:02Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T22:58:44Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32845,
-    "updated_at": "2026-08-10T22:57:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
