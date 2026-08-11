@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 22:00 UTC
+> ⏰ Last updated: 2026-08-11 22:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,22 +43,22 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-11 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 2 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-11 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 3 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-11 | Open-source LLM observability and drift detection for AI apps |
-| 4 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-11 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 5 | [CAOShurong/evalint](https://github.com/CAOShurong/evalint) | 0 | Python | 2026-08-11 | Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c |
-| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 7 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1062 | Python | 2026-08-11 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 8 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-11 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
-| 9 | [SammyTourani/evestack](https://github.com/SammyTourani/evestack) | 1 | JavaScript | 2026-08-11 | The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0 |
-| 10 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-11 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56124 | Python | 2026-08-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 13 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 1 | Python | 2026-08-11 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 14 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-11 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32900 | TypeScript | 2026-08-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 16 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-11 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
-| 17 | [santifer/cv-santiago](https://github.com/santifer/cv-santiago) | 791 | HTML | 2026-08-11 | Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex |
+| 2 | [santifer/cv-santiago](https://github.com/santifer/cv-santiago) | 791 | HTML | 2026-08-11 | Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-11 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 5 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-11 | Open-source LLM observability and drift detection for AI apps |
+| 6 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-11 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 7 | [CAOShurong/evalint](https://github.com/CAOShurong/evalint) | 0 | Python | 2026-08-11 | Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c |
+| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 9 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1062 | Python | 2026-08-11 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 10 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-11 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
+| 11 | [SammyTourani/evestack](https://github.com/SammyTourani/evestack) | 1 | JavaScript | 2026-08-11 | The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0 |
+| 12 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-11 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 13 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56124 | Python | 2026-08-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 14 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 1 | Python | 2026-08-11 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 15 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-11 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 16 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32900 | TypeScript | 2026-08-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 17 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-11 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
 | 18 | [akshaymagapu/aisafeguard](https://github.com/akshaymagapu/aisafeguard) | 0 | Python | 2026-08-11 | Open-source LLM safety guardrails: prompt injection protection, PII redaction, toxicity filtering, and OpenAI-compatible |
 | 19 | [outskirtslabs/llx](https://github.com/outskirtslabs/llx) | 17 | Clojure | 2026-08-11 | Unified LLM API and agent runtime for Clojure, ClojureScript (and soon Clojure Dart) |
 | 20 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 220 | TeX | 2026-08-11 | A collection of tricks and tools to speed up transformer models |
