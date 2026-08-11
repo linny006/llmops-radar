@@ -1,11 +1,65 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:27:54Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24118,
+    "updated_at": "2026-08-11T02:26:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-11T02:24:19Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7206,
+    "updated_at": "2026-08-11T02:23:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 96,
+    "updated_at": "2026-08-11T02:20:40Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:18:17Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T02:15:27Z",
+    "updated_at": "2026-08-11T02:16:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -18,29 +72,11 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24117,
-    "updated_at": "2026-08-11T02:15:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-11T02:12:04Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1642,
+    "stars": 1643,
     "updated_at": "2026-08-11T02:11:55Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -49,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10979,
+    "stars": 10980,
     "updated_at": "2026-08-11T02:08:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11844,
-    "updated_at": "2026-08-11T01:56:54Z",
+    "updated_at": "2026-08-11T02:29:20Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56056,
-    "updated_at": "2026-08-11T02:15:53Z",
+    "updated_at": "2026-08-11T02:27:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T01:49:12Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:46:49Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:06:50Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 12,
-    "updated_at": "2026-08-11T01:39:20Z",
+    "updated_at": "2026-08-11T02:19:36Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-11T01:54:58Z",
+    "updated_at": "2026-08-11T02:22:45Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -247,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21286,
+    "stars": 21285,
     "updated_at": "2026-08-11T00:50:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29620,
-    "updated_at": "2026-08-11T00:31:45Z",
+    "updated_at": "2026-08-11T02:21:38Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T00:11:30Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7206,
-    "updated_at": "2026-08-11T02:15:09Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
@@ -439,14 +448,5 @@
     "stars": 32845,
     "updated_at": "2026-08-10T22:57:24Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:56:26Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
