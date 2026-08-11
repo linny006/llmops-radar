@@ -1,12 +1,84 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:57:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-11T17:12:11Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32895,
+    "updated_at": "2026-08-11T17:11:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 374,
+    "updated_at": "2026-08-11T17:10:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T17:09:24Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-11T17:08:50Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
+    "id": "umeshkedimi/aic",
+    "language": "Python",
+    "name": "umeshkedimi/aic",
+    "stars": 1,
+    "updated_at": "2026-08-11T17:08:30Z",
+    "url": "https://github.com/umeshkedimi/aic"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56118,
+    "updated_at": "2026-08-11T17:06:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 26,
+    "updated_at": "2026-08-11T17:07:30Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-11T17:05:27Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,8 +86,17 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-11T16:57:28Z",
+    "updated_at": "2026-08-11T17:01:43Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
@@ -40,7 +121,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7234,
+    "stars": 7235,
     "updated_at": "2026-08-11T16:52:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-11T16:51:05Z",
+    "updated_at": "2026-08-11T17:01:21Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -86,17 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21311,
-    "updated_at": "2026-08-11T16:48:46Z",
+    "updated_at": "2026-08-11T17:07:13Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56117,
-    "updated_at": "2026-08-11T16:45:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24132,
-    "updated_at": "2026-08-11T16:42:02Z",
+    "updated_at": "2026-08-11T17:07:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32895,
-    "updated_at": "2026-08-11T16:49:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 27469,
     "updated_at": "2026-08-11T16:30:04Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:47:17Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -194,17 +248,8 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T16:19:01Z",
+    "updated_at": "2026-08-11T17:12:38Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 374,
-    "updated_at": "2026-08-11T17:00:14Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -214,6 +259,15 @@
     "stars": 12,
     "updated_at": "2026-08-11T16:15:23Z",
     "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1301,
+    "updated_at": "2026-08-11T17:12:55Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -232,24 +286,6 @@
     "stars": 43,
     "updated_at": "2026-08-11T16:09:01Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:04:23Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:59:24Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10997,
-    "updated_at": "2026-08-11T16:54:16Z",
+    "updated_at": "2026-08-11T17:11:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29631,
-    "updated_at": "2026-08-11T15:22:48Z",
+    "updated_at": "2026-08-11T17:13:53Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-11T16:59:15Z",
+    "updated_at": "2026-08-11T17:14:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T15:11:28Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-11T16:12:28Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T14:13:51Z",
     "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-11T16:31:14Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:54:12Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-11T13:51:28Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
