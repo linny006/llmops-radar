@@ -1,10 +1,91 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T06:43:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 25,
+    "updated_at": "2026-08-11T06:42:29Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2600,
+    "updated_at": "2026-08-11T06:41:11Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
+    "id": "Divya1S/CareMesh",
+    "language": "Python",
+    "name": "Divya1S/CareMesh",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:37:44Z",
+    "url": "https://github.com/Divya1S/CareMesh"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24120,
+    "updated_at": "2026-08-11T06:37:16Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:34:24Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 11,
+    "updated_at": "2026-08-11T06:34:02Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-11T06:32:35Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T06:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7212,
+    "stars": 7213,
     "updated_at": "2026-08-11T06:27:58Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -22,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56080,
+    "stars": 56082,
     "updated_at": "2026-08-11T06:26:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -45,24 +126,6 @@
     "url": "https://github.com/wanmol/goal-flow"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T06:22:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 25,
-    "updated_at": "2026-08-11T06:29:38Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:15:57Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T06:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -99,24 +153,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2600,
-    "updated_at": "2026-08-11T06:11:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
-    "id": "Divya1S/CareMesh",
-    "language": "Python",
-    "name": "Divya1S/CareMesh",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:07:35Z",
-    "url": "https://github.com/Divya1S/CareMesh"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -130,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27457,
+    "stars": 27460,
     "updated_at": "2026-08-11T06:03:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11847,
-    "updated_at": "2026-08-11T05:44:30Z",
+    "updated_at": "2026-08-11T06:40:48Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-11T06:21:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -405,13 +432,13 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24120,
-    "updated_at": "2026-08-11T05:54:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "ComposioHQ/composio",
+    "stars": 29623,
+    "updated_at": "2026-08-11T05:26:09Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -421,32 +448,5 @@
     "stars": 10982,
     "updated_at": "2026-08-11T05:41:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-08-11T05:21:31Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-11T05:15:38Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1644,
-    "updated_at": "2026-08-11T06:29:54Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
