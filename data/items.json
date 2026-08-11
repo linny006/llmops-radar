@@ -1,12 +1,138 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T03:44:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-11T03:43:35Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:43:21Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:41:57Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Token-level streaming, runtime fan-out, and self-consistency voting for Go agent handlers",
+    "id": "thaicn1712/graphflow-stream-go",
+    "language": "Go",
+    "name": "thaicn1712/graphflow-stream-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:41:18Z",
+    "url": "https://github.com/thaicn1712/graphflow-stream-go"
+  },
+  {
+    "description": "Checkpoint and rollback for Go agent state",
+    "id": "thaicn1712/rollbackflow-go",
+    "language": "Go",
+    "name": "thaicn1712/rollbackflow-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:39:52Z",
+    "url": "https://github.com/thaicn1712/rollbackflow-go"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-11T03:39:48Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T03:39:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "DeepEval-style graded-score test suites for LLM output, in Go",
+    "id": "thaicn1712/evalflow-go",
+    "language": "Go",
+    "name": "thaicn1712/evalflow-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:39:21Z",
+    "url": "https://github.com/thaicn1712/evalflow-go"
+  },
+  {
+    "description": "Exact and semantic response caching for Go LLM tasks",
+    "id": "thaicn1712/cacheflow-go",
+    "language": "Go",
+    "name": "thaicn1712/cacheflow-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:38:40Z",
+    "url": "https://github.com/thaicn1712/cacheflow-go"
+  },
+  {
+    "description": "Long-term semantic memory for Go LLM agents: retrieve, inject, extract, resolve",
+    "id": "thaicn1712/memoryflow-go",
+    "language": "Go",
+    "name": "thaicn1712/memoryflow-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:38:35Z",
+    "url": "https://github.com/thaicn1712/memoryflow-go"
+  },
+  {
+    "description": "Lightweight LLM call observability for Go: latency, tokens, cost \u2014 no OpenTelemetry required",
+    "id": "thaicn1712/traceflow-go",
+    "language": "Go",
+    "name": "thaicn1712/traceflow-go",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:35:53Z",
+    "url": "https://github.com/thaicn1712/traceflow-go"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-11T03:28:18Z",
+    "updated_at": "2026-08-11T03:35:39Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56067,
+    "updated_at": "2026-08-11T03:33:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T03:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
@@ -18,21 +144,12 @@
     "url": "https://github.com/wanmol/goal-flow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56063,
-    "updated_at": "2026-08-11T03:26:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T03:24:45Z",
+    "updated_at": "2026-08-11T03:31:21Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -52,15 +169,6 @@
     "stars": 116,
     "updated_at": "2026-08-11T03:17:03Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -99,15 +207,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-11T03:07:53Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -121,7 +220,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32848,
+    "stars": 32849,
     "updated_at": "2026-08-11T03:05:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -149,17 +248,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 75,
-    "updated_at": "2026-08-11T03:08:21Z",
+    "updated_at": "2026-08-11T03:38:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:00:08Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -176,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7210,
-    "updated_at": "2026-08-11T03:13:41Z",
+    "updated_at": "2026-08-11T03:38:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-11T02:47:49Z",
+    "updated_at": "2026-08-11T03:38:20Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -252,15 +342,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:04:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "A 16-mode, map-based debugger that turns messy LLM / RAG bugs into reproducible failure modes, each linked to a concrete",
     "id": "tirth1263/LLM-and-RAG-Debugger-WFGY-16-Problem-Map",
     "language": "JavaScript",
@@ -270,15 +351,6 @@
     "url": "https://github.com/tirth1263/LLM-and-RAG-Debugger-WFGY-16-Problem-Map"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-11T01:42:59Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -286,15 +358,6 @@
     "stars": 12,
     "updated_at": "2026-08-11T02:19:36Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:36:44Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
@@ -385,68 +448,5 @@
     "stars": 386,
     "updated_at": "2026-08-11T00:26:34Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:22:40Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T00:16:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:11:30Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/PrismRefraction",
-    "language": "TypeScript",
-    "name": "kirklasalle/PrismRefraction",
-    "stars": 3,
-    "updated_at": "2026-08-10T23:48:01Z",
-    "url": "https://github.com/kirklasalle/PrismRefraction"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-10T23:31:34Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-10T23:26:51Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:16:56Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
   }
 ]
