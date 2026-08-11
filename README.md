@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 11:29 UTC
+> ⏰ Last updated: 2026-08-11 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Red1-Rahman/NiriZan](https://github.com/Red1-Rahman/NiriZan) | 0 | Jupyter Notebook | 2026-08-11 | Continuous Evaluation Infrastructure for Production AI |
-| 2 | [CAOShurong/evalint](https://github.com/CAOShurong/evalint) | 0 | Python | 2026-08-11 | Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32877 | TypeScript | 2026-08-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-11 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21299 | Python | 2026-08-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-11 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Red1-Rahman/NiriZan](https://github.com/Red1-Rahman/NiriZan) | 0 | Jupyter Notebook | 2026-08-11 | Continuous Evaluation Infrastructure for Production AI |
+| 3 | [CAOShurong/evalint](https://github.com/CAOShurong/evalint) | 0 | Python | 2026-08-11 | Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32877 | TypeScript | 2026-08-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-11 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21299 | Python | 2026-08-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-11 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
 | 8 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1062 | Python | 2026-08-11 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
 | 9 | [ashishki/telegram-research-agent](https://github.com/ashishki/telegram-research-agent) | 0 | Python | 2026-08-11 | Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca |
 | 10 | [ndom91/llama-dash](https://github.com/ndom91/llama-dash) | 12 | TypeScript | 2026-08-11 | The operations layer for your local LLM stack |
