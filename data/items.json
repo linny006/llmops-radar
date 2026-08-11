@@ -1,11 +1,20 @@
 [
   {
+    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
+    "id": "wanmol/goal-flow",
+    "language": "Python",
+    "name": "wanmol/goal-flow",
+    "stars": 72,
+    "updated_at": "2026-08-11T07:27:36Z",
+    "url": "https://github.com/wanmol/goal-flow"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 512,
-    "updated_at": "2026-08-11T07:14:34Z",
+    "stars": 517,
+    "updated_at": "2026-08-11T07:25:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -14,16 +23,70 @@
     "language": "Python",
     "name": "Divya1S/CareMesh",
     "stars": 0,
-    "updated_at": "2026-08-11T07:13:18Z",
+    "updated_at": "2026-08-11T07:24:54Z",
     "url": "https://github.com/Divya1S/CareMesh"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56087,
+    "updated_at": "2026-08-11T07:22:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-11T07:22:37Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-11T07:22:34Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T07:21:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:17:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
-    "stars": 96,
-    "updated_at": "2026-08-11T07:12:06Z",
+    "stars": 97,
+    "updated_at": "2026-08-11T07:29:34Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7215,
-    "updated_at": "2026-08-11T07:11:45Z",
+    "updated_at": "2026-08-11T07:24:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -81,24 +144,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:59:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -108,31 +153,13 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56086,
-    "updated_at": "2026-08-11T06:58:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1299,
-    "updated_at": "2026-08-11T07:08:09Z",
+    "updated_at": "2026-08-11T07:30:14Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T06:56:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11848,
-    "updated_at": "2026-08-11T07:03:33Z",
+    "updated_at": "2026-08-11T07:16:27Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 11,
-    "updated_at": "2026-08-11T06:34:02Z",
+    "updated_at": "2026-08-11T07:19:59Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -248,17 +275,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8237,
-    "updated_at": "2026-08-11T06:51:32Z",
+    "updated_at": "2026-08-11T07:19:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
-    "id": "wanmol/goal-flow",
-    "language": "Python",
-    "name": "wanmol/goal-flow",
-    "stars": 72,
-    "updated_at": "2026-08-11T06:23:56Z",
-    "url": "https://github.com/wanmol/goal-flow"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-11T06:12:34Z",
+    "updated_at": "2026-08-11T07:29:34Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:48:15Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:48:03Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:47:01Z",
-    "url": "https://github.com/dgenio/intentflow"
   }
 ]
