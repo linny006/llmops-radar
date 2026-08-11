@@ -1,11 +1,74 @@
 [
   {
+    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 24,
+    "updated_at": "2026-08-11T01:15:16Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-11T01:11:57Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-11T01:11:25Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-11T01:08:48Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8236,
+    "updated_at": "2026-08-11T01:04:03Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-11T01:01:06Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T01:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T00:58:37Z",
+    "updated_at": "2026-08-11T01:11:41Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -36,6 +99,15 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24117,
+    "updated_at": "2026-08-11T00:48:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
@@ -50,26 +122,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10979,
-    "updated_at": "2026-08-11T00:47:36Z",
+    "updated_at": "2026-08-11T01:03:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T00:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24115,
-    "updated_at": "2026-08-11T00:48:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
@@ -90,31 +144,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 24,
-    "updated_at": "2026-08-11T00:41:17Z",
-    "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56053,
-    "updated_at": "2026-08-11T00:58:46Z",
+    "updated_at": "2026-08-11T01:12:30Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 75,
-    "updated_at": "2026-08-11T00:53:29Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T00:34:44Z",
     "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8236,
-    "updated_at": "2026-08-11T00:32:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -189,15 +216,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-11T00:50:20Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -205,6 +223,15 @@
     "stars": 76,
     "updated_at": "2026-08-11T00:04:33Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7200,
+    "updated_at": "2026-08-10T23:58:39Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T23:26:51Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-10T23:45:51Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -340,6 +358,15 @@
     "stars": 1,
     "updated_at": "2026-08-10T22:58:44Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32842,
+    "updated_at": "2026-08-10T22:57:24Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T22:45:13Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your AI prompts with proven techniques like Chain-of-Thought and ReAct for superior reasoning and accuracy in ",
-    "id": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "Jitendra-kr-d/prompt-engineering-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:45:09Z",
-    "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:44:05Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-10T22:41:44Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
