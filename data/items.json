@@ -1,12 +1,30 @@
 [
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-11T03:15:15Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
+    "updated_at": "2026-08-11T03:28:18Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
+    "id": "wanmol/goal-flow",
+    "language": "Python",
+    "name": "wanmol/goal-flow",
+    "stars": 72,
+    "updated_at": "2026-08-11T03:27:26Z",
+    "url": "https://github.com/wanmol/goal-flow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56063,
+    "updated_at": "2026-08-11T03:26:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T03:13:44Z",
+    "updated_at": "2026-08-11T03:24:45Z",
     "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
+    "id": "debshikhar-sec/private-ai-infra",
+    "language": "Python",
+    "name": "debshikhar-sec/private-ai-infra",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:17:25Z",
+    "url": "https://github.com/debshikhar-sec/private-ai-infra"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 116,
+    "updated_at": "2026-08-11T03:17:03Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-11T03:15:15Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -41,17 +95,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 96,
-    "updated_at": "2026-08-11T03:12:25Z",
+    "updated_at": "2026-08-11T03:28:26Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56062,
-    "updated_at": "2026-08-11T03:08:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -76,7 +121,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32847,
+    "stars": 32848,
     "updated_at": "2026-08-11T03:05:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -108,24 +153,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local-first agent runtime assurance and governance: policy-as-code identity, enforced autonomy ceilings, owner-gated exe",
-    "id": "debshikhar-sec/private-ai-infra",
-    "language": "Python",
-    "name": "debshikhar-sec/private-ai-infra",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:12:12Z",
-    "url": "https://github.com/debshikhar-sec/private-ai-infra"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -135,6 +162,15 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2598,
+    "updated_at": "2026-08-11T02:59:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -142,15 +178,6 @@
     "stars": 7210,
     "updated_at": "2026-08-11T03:13:41Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
-    "id": "wanmol/goal-flow",
-    "language": "Python",
-    "name": "wanmol/goal-flow",
-    "stars": 72,
-    "updated_at": "2026-08-11T02:48:43Z",
-    "url": "https://github.com/wanmol/goal-flow"
   },
   {
     "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
@@ -207,24 +234,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:05:03Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2597,
-    "updated_at": "2026-08-11T02:59:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10980,
-    "updated_at": "2026-08-11T03:08:48Z",
+    "updated_at": "2026-08-11T03:27:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -337,7 +346,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21285,
+    "stars": 21286,
     "updated_at": "2026-08-11T00:50:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T23:16:56Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3499,
-    "updated_at": "2026-08-10T23:11:02Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
