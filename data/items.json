@@ -1,5 +1,77 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56126,
+    "updated_at": "2026-08-11T22:27:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-11T22:27:44Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10997,
+    "updated_at": "2026-08-11T22:25:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T22:25:36Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T22:23:03Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
+    "id": "SammyTourani/evestack",
+    "language": "JavaScript",
+    "name": "SammyTourani/evestack",
+    "stars": 1,
+    "updated_at": "2026-08-11T22:21:18Z",
+    "url": "https://github.com/SammyTourani/evestack"
+  },
+  {
+    "description": "Multi-agent AI analytics office on Hermes and Slack, with Dockerized operations, reproducible forecasting, CI, and priva",
+    "id": "Lee2379/multi-agent-ai-analytics-office",
+    "language": "Python",
+    "name": "Lee2379/multi-agent-ai-analytics-office",
+    "stars": 0,
+    "updated_at": "2026-08-11T22:20:48Z",
+    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T22:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T22:11:59Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56125,
-    "updated_at": "2026-08-11T22:15:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -63,13 +126,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Multi-agent AI analytics office on Hermes and Slack, with Dockerized operations, reproducible forecasting, CI, and priva",
-    "id": "Lee2379/multi-agent-ai-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/multi-agent-ai-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:08:30Z",
-    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24138,
+    "updated_at": "2026-08-11T22:21:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -79,15 +142,6 @@
     "stars": 43,
     "updated_at": "2026-08-11T22:04:18Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T22:03:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
@@ -144,15 +198,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "JavaScript",
-    "name": "SammyTourani/evestack",
-    "stars": 1,
-    "updated_at": "2026-08-11T21:47:31Z",
-    "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -207,15 +252,6 @@
     "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10997,
-    "updated_at": "2026-08-11T21:53:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T21:07:26Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-11T21:04:49Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "100+ AI, Gen AI, LLM, Agentic AI, Forward Deployed Engineer (FDE), AI Systems Architect, Applied AI, LLMOps, AI Platform",
@@ -342,15 +369,6 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24136,
-    "updated_at": "2026-08-11T22:04:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T20:23:25Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:23:19Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:21:44Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
