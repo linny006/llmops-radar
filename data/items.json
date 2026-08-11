@@ -1,5 +1,122 @@
 [
   {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-11T19:44:56Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:44:44Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T19:43:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56122,
+    "updated_at": "2026-08-11T19:41:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-11T19:40:36Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Can your agent hold a job? A 25-chair benchmark that measures whether an AI agent can be trusted with real work \u2014 dirty ",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:39:47Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10996,
+    "updated_at": "2026-08-11T19:42:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
+    "id": "CAOShurong/evalint",
+    "language": "Python",
+    "name": "CAOShurong/evalint",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:39:04Z",
+    "url": "https://github.com/CAOShurong/evalint"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:35:43Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "A tiny bash script that checks an AI reviewer actually looked at everything it approved",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:32:45Z",
+    "url": "https://github.com/justin-rhee/attest-check"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-11T19:32:45Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21313,
+    "updated_at": "2026-08-11T19:40:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
@@ -27,15 +144,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56121,
-    "updated_at": "2026-08-11T19:23:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -43,24 +151,6 @@
     "stars": 12,
     "updated_at": "2026-08-11T19:23:22Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T19:23:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Verify that a batched LLM reviewer named every item it reviewed. ~60 lines of bash, no dependencies.",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-11T19:21:48Z",
-    "url": "https://github.com/justin-rhee/attest-check"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -81,21 +171,12 @@
     "url": "https://github.com/carroyo03/TraceGuard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-11T19:19:49Z",
+    "updated_at": "2026-08-11T19:36:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -106,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T19:26:33Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10996,
-    "updated_at": "2026-08-11T19:17:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
-    "id": "CAOShurong/evalint",
-    "language": "Python",
-    "name": "CAOShurong/evalint",
-    "stars": 0,
-    "updated_at": "2026-08-11T19:10:40Z",
-    "url": "https://github.com/CAOShurong/evalint"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -178,15 +241,6 @@
     "stars": 3501,
     "updated_at": "2026-08-11T19:12:54Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:27:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
@@ -261,15 +315,6 @@
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21312,
-    "updated_at": "2026-08-11T19:30:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A secure file system for your agents to execute code",
     "id": "Tako-Research/TakoVM",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7237,
-    "updated_at": "2026-08-11T19:12:06Z",
+    "updated_at": "2026-08-11T19:44:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -315,20 +360,11 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 75,
-    "updated_at": "2026-08-11T19:27:40Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 605,
+    "stars": 608,
     "updated_at": "2026-08-11T18:02:23Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -412,41 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-11T17:07:30Z",
     "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-11T16:52:32Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10207,
-    "updated_at": "2026-08-11T16:49:29Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 80,
-    "updated_at": "2026-08-11T16:38:49Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27470,
-    "updated_at": "2026-08-11T16:30:04Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
