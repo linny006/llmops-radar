@@ -1,21 +1,93 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24131,
-    "updated_at": "2026-08-11T15:11:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "evilstar2016/skill-doctor",
+    "stars": 3,
+    "updated_at": "2026-08-11T15:25:55Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T15:22:48Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-11T15:21:44Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-11T15:20:43Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-11T15:16:08Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T15:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10995,
+    "stars": 10997,
     "updated_at": "2026-08-11T15:15:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24131,
+    "updated_at": "2026-08-11T15:27:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-11T15:11:28Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21308,
+    "updated_at": "2026-08-11T15:26:59Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -34,15 +106,6 @@
     "stars": 386,
     "updated_at": "2026-08-11T15:06:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21307,
-    "updated_at": "2026-08-11T15:09:20Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -67,18 +130,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32892,
+    "stars": 32894,
     "updated_at": "2026-08-11T15:02:16Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T15:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-11T15:05:56Z",
+    "updated_at": "2026-08-11T15:15:43Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T15:10:30Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-11T15:05:44Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -135,21 +180,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:45:48Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7231,
-    "updated_at": "2026-08-11T15:09:46Z",
+    "updated_at": "2026-08-11T15:17:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29630,
-    "updated_at": "2026-08-11T15:03:16Z",
+    "updated_at": "2026-08-11T15:22:48Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -184,7 +220,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27464,
+    "stars": 27465,
     "updated_at": "2026-08-11T14:32:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56116,
-    "updated_at": "2026-08-11T15:14:23Z",
+    "updated_at": "2026-08-11T15:23:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-11T14:56:40Z",
+    "updated_at": "2026-08-11T15:22:11Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1648,
-    "updated_at": "2026-08-11T13:33:49Z",
+    "updated_at": "2026-08-11T15:18:40Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:32:08Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Production RAG chatbot in Python \u2014 hybrid search (Qdrant + BM25), cross-encoder reranking, Redis session memory, and RAG",
-    "id": "zudyog/the-applied-ai-engineer",
-    "language": "Python",
-    "name": "zudyog/the-applied-ai-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:32:06Z",
-    "url": "https://github.com/zudyog/the-applied-ai-engineer"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:31:18Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:31:17Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
