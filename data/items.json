@@ -1,5 +1,77 @@
 [
   {
+    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
+    "id": "CAOShurong/evalint",
+    "language": "Python",
+    "name": "CAOShurong/evalint",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:09:02Z",
+    "url": "https://github.com/CAOShurong/evalint"
+  },
+  {
+    "description": "Verify that a batched LLM reviewer named every item it reviewed. ~60 lines of bash, no dependencies.",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:08:21Z",
+    "url": "https://github.com/justin-rhee/attest-check"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 374,
+    "updated_at": "2026-08-11T19:07:10Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "LangGraph-first security regression testing for document agents",
+    "id": "carroyo03/TraceGuard",
+    "language": "Python",
+    "name": "carroyo03/TraceGuard",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:07:04Z",
+    "url": "https://github.com/carroyo03/TraceGuard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24134,
+    "updated_at": "2026-08-11T19:05:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-11T19:00:56Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T19:00:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -32,7 +104,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-11T18:59:26Z",
+    "updated_at": "2026-08-11T19:08:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -41,17 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10996,
-    "updated_at": "2026-08-11T18:57:12Z",
+    "updated_at": "2026-08-11T19:07:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LangGraph-first security regression testing for document agents",
-    "id": "carroyo03/TraceGuard",
-    "language": "Python",
-    "name": "carroyo03/TraceGuard",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:52:02Z",
-    "url": "https://github.com/carroyo03/TraceGuard"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -72,31 +135,13 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T19:00:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
     "id": "WellCod/automata",
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-08-11T18:46:01Z",
+    "updated_at": "2026-08-11T19:08:25Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -106,15 +151,6 @@
     "stars": 49,
     "updated_at": "2026-08-11T18:45:39Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
-    "id": "CAOShurong/evalint",
-    "language": "Python",
-    "name": "CAOShurong/evalint",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:45:29Z",
-    "url": "https://github.com/CAOShurong/evalint"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -131,8 +167,17 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-11T18:43:19Z",
+    "updated_at": "2026-08-11T19:07:42Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1649,
+    "updated_at": "2026-08-11T18:37:08Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -180,15 +225,6 @@
     "url": "https://github.com/Tako-Research/TakoVM"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24133,
-    "updated_at": "2026-08-11T18:55:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
     "id": "Clawdlinux/agentic-operator-core",
     "language": "Go",
@@ -223,15 +259,6 @@
     "stars": 7237,
     "updated_at": "2026-08-11T18:24:41Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Verify that a batched LLM reviewer named every item it reviewed. ~60 lines of bash, no dependencies.",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:13:34Z",
-    "url": "https://github.com/justin-rhee/attest-check"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -275,7 +302,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-11T17:58:28Z",
+    "updated_at": "2026-08-11T19:08:44Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T17:56:41Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-11T17:56:15Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -311,17 +329,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32894,
-    "updated_at": "2026-08-11T18:30:24Z",
+    "updated_at": "2026-08-11T19:00:43Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 374,
-    "updated_at": "2026-08-11T18:50:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:25:09Z",
     "url": "https://github.com/enached134-ctrl/mcp-vitals"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1139,
-    "updated_at": "2026-08-11T16:24:06Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
