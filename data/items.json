@@ -1,12 +1,102 @@
 [
   {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-11T12:43:30Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
+    "id": "CAOShurong/evalint",
+    "language": "Python",
+    "name": "CAOShurong/evalint",
+    "stars": 0,
+    "updated_at": "2026-08-11T12:44:59Z",
+    "url": "https://github.com/CAOShurong/evalint"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:42:27Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T12:42:14Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "",
     "id": "sayon999-d/Limbi",
     "language": "Python",
     "name": "sayon999-d/Limbi",
     "stars": 3,
-    "updated_at": "2026-08-11T12:28:46Z",
+    "updated_at": "2026-08-11T12:41:28Z",
     "url": "https://github.com/sayon999-d/Limbi"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 97,
+    "updated_at": "2026-08-11T12:41:26Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:40:19Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32882,
+    "updated_at": "2026-08-11T12:45:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:35:41Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-11T12:35:25Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T12:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -18,21 +108,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T12:24:14Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
     "id": "Nokimalos/rag-ci",
     "language": "Python",
     "name": "Nokimalos/rag-ci",
     "stars": 10,
-    "updated_at": "2026-08-11T12:24:18Z",
+    "updated_at": "2026-08-11T12:43:18Z",
     "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
@@ -40,8 +121,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29630,
-    "updated_at": "2026-08-11T12:21:06Z",
+    "stars": 29629,
+    "updated_at": "2026-08-11T12:45:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/SammyTourani/evestack"
   },
   {
-    "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
-    "id": "CAOShurong/evalint",
-    "language": "Python",
-    "name": "CAOShurong/evalint",
-    "stars": 0,
-    "updated_at": "2026-08-11T12:17:06Z",
-    "url": "https://github.com/CAOShurong/evalint"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -70,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T12:12:09Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32881,
-    "updated_at": "2026-08-11T12:28:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AgentOps Evaluation & Observability Studio",
@@ -95,17 +158,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-11T12:17:25Z",
+    "updated_at": "2026-08-11T12:44:31Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-11T12:03:20Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-11T12:16:30Z",
+    "updated_at": "2026-08-11T12:40:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T12:01:09Z",
     "url": "https://github.com/KarthikRamesh9149/enterprise-ai-data-analyst-copilot"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:58:07Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Veris: agent-agnostic local LLM evaluation and regression testing gate. Runs golden datasets against any callable, score",
@@ -180,24 +225,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-11T12:28:05Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 97,
-    "updated_at": "2026-08-11T12:22:41Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
     "id": "MubashirShafique/enterprise-agentic-rag",
     "language": "Python",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21302,
-    "updated_at": "2026-08-11T12:25:01Z",
+    "updated_at": "2026-08-11T12:44:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -256,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56102,
+    "stars": 56105,
     "updated_at": "2026-08-11T11:10:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -288,6 +315,15 @@
     "url": "https://github.com/Zonastery/bursar"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27464,
+    "updated_at": "2026-08-11T11:03:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
     "id": "fightheyyy/CATENA",
     "language": "Go",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T11:02:48Z",
     "url": "https://github.com/fightheyyy/CATENA"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27463,
-    "updated_at": "2026-08-11T11:03:37Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1647,
-    "updated_at": "2026-08-11T12:28:23Z",
+    "updated_at": "2026-08-11T12:45:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -418,35 +445,8 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1199,
+    "stars": 1200,
     "updated_at": "2026-08-11T09:49:00Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-11T12:28:42Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11849,
-    "updated_at": "2026-08-11T12:19:08Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 2,
-    "updated_at": "2026-08-11T09:33:56Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
   }
 ]
