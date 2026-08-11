@@ -1,12 +1,66 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-11T19:14:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:13:30Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-11T19:13:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10996,
+    "updated_at": "2026-08-11T19:12:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:09:08Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Lint your LLM eval set. Reliability, items scored against a wrong answer, near-duplicates, and how many test cases you c",
     "id": "CAOShurong/evalint",
     "language": "Python",
     "name": "CAOShurong/evalint",
     "stars": 0,
-    "updated_at": "2026-08-11T19:09:02Z",
+    "updated_at": "2026-08-11T19:10:40Z",
     "url": "https://github.com/CAOShurong/evalint"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T19:08:44Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Verify that a batched LLM reviewer named every item it reviewed. ~60 lines of bash, no dependencies.",
@@ -54,24 +108,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-11T19:00:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3501,
-    "updated_at": "2026-08-11T18:57:17Z",
+    "updated_at": "2026-08-11T19:12:54Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56121,
-    "updated_at": "2026-08-11T18:53:13Z",
+    "updated_at": "2026-08-11T19:15:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -104,17 +140,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-11T19:08:08Z",
+    "updated_at": "2026-08-11T19:14:09Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10996,
-    "updated_at": "2026-08-11T19:07:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 12,
-    "updated_at": "2026-08-11T18:52:15Z",
+    "updated_at": "2026-08-11T19:11:59Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T18:42:21Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-11T19:07:42Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -216,6 +234,15 @@
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21312,
+    "updated_at": "2026-08-11T18:30:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A secure file system for your agents to execute code",
     "id": "Tako-Research/TakoVM",
     "language": "Python",
@@ -243,21 +270,12 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-11T18:54:32Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7237,
-    "updated_at": "2026-08-11T18:24:41Z",
+    "updated_at": "2026-08-11T19:12:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-11T18:04:51Z",
+    "updated_at": "2026-08-11T19:10:34Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 605,
     "updated_at": "2026-08-11T18:02:23Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-11T19:08:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32894,
-    "updated_at": "2026-08-11T19:00:43Z",
+    "updated_at": "2026-08-11T19:11:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 28,
     "updated_at": "2026-08-11T17:07:30Z",
     "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21311,
-    "updated_at": "2026-08-11T18:30:15Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
