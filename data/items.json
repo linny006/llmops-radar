@@ -1,5 +1,95 @@
 [
   {
+    "description": "MCP-native agentic platform: planner/executor/critic over hybrid RAG, with per-run cost ceilings, three-tier memory, out",
+    "id": "mrinmoyece/cortex",
+    "language": "Python",
+    "name": "mrinmoyece/cortex",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:29:36Z",
+    "url": "https://github.com/mrinmoyece/cortex"
+  },
+  {
+    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 28,
+    "updated_at": "2026-08-12T01:29:06Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56132,
+    "updated_at": "2026-08-12T01:29:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-12T01:27:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:27:29Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:23:08Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:23:01Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Full Portkey Admin API MCP server",
+    "id": "CodesWhat/portkey-admin-mcp",
+    "language": "TypeScript",
+    "name": "CodesWhat/portkey-admin-mcp",
+    "stars": 5,
+    "updated_at": "2026-08-12T01:17:55Z",
+    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-12T01:15:56Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -14,17 +104,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8245,
-    "updated_at": "2026-08-12T01:08:06Z",
+    "updated_at": "2026-08-12T01:26:14Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56132,
-    "updated_at": "2026-08-12T01:10:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -34,15 +115,6 @@
     "stars": 407,
     "updated_at": "2026-08-12T01:07:44Z",
     "url": "https://github.com/kimtth/azure-openai-llm-notes"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -63,6 +135,15 @@
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7243,
+    "updated_at": "2026-08-12T00:56:06Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -72,15 +153,6 @@
     "url": "https://github.com/api-evangelist/zenml"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T01:02:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -88,15 +160,6 @@
     "stars": 49,
     "updated_at": "2026-08-12T00:53:32Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Full Portkey Admin API MCP server",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 5,
-    "updated_at": "2026-08-12T01:13:48Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
     "description": "A secure file system for your agents to execute code",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10998,
-    "updated_at": "2026-08-12T01:14:55Z",
+    "updated_at": "2026-08-12T01:19:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7242,
-    "updated_at": "2026-08-12T00:56:06Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T23:17:19Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:14:48Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-11T23:25:06Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Multi-agent AI analytics office on Hermes and Slack, with Dockerized operations, Obsidian/OhMyWiki data collection and a",
-    "id": "Lee2379/multi-agent-ai-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/multi-agent-ai-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:05:57Z",
-    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
-  },
-  {
-    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:04:02Z",
-    "url": "https://github.com/justin-rhee/attest-check"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:52:18Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
-    "id": "santifer/cv-santiago",
-    "language": "HTML",
-    "name": "santifer/cv-santiago",
-    "stars": 791,
-    "updated_at": "2026-08-11T22:45:02Z",
-    "url": "https://github.com/santifer/cv-santiago"
   }
 ]
