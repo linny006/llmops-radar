@@ -1,12 +1,30 @@
 [
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-12T10:43:43Z",
-    "url": "https://github.com/byte5ai/omadia"
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T11:00:05Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 669,
+    "updated_at": "2026-08-12T10:54:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10209,
+    "updated_at": "2026-08-12T10:53:26Z",
+    "url": "https://github.com/Netflix/metaflow"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,26 +32,35 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T10:43:35Z",
+    "updated_at": "2026-08-12T10:56:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27479,
-    "updated_at": "2026-08-12T10:39:43Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:50:35Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56170,
-    "updated_at": "2026-08-12T10:43:07Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HCL",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:50:35Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 98,
+    "updated_at": "2026-08-12T10:48:45Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +68,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T10:30:25Z",
+    "updated_at": "2026-08-12T10:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-12T10:47:59Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56171,
+    "updated_at": "2026-08-12T10:43:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27479,
+    "updated_at": "2026-08-12T10:49:14Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32951,
-    "updated_at": "2026-08-12T10:45:07Z",
+    "updated_at": "2026-08-12T10:59:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -70,6 +124,15 @@
     "stars": 76,
     "updated_at": "2026-08-12T10:26:58Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29643,
+    "updated_at": "2026-08-12T10:25:05Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21329,
-    "updated_at": "2026-08-12T10:10:50Z",
+    "updated_at": "2026-08-12T10:46:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -189,21 +252,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 98,
-    "updated_at": "2026-08-12T10:37:09Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T09:55:00Z",
+    "updated_at": "2026-08-12T10:52:32Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5749,
-    "updated_at": "2026-08-12T10:44:18Z",
+    "updated_at": "2026-08-12T10:59:18Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T09:28:50Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T09:26:20Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -265,7 +310,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11009,
+    "stars": 11010,
     "updated_at": "2026-08-12T09:12:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1063,
-    "updated_at": "2026-08-12T09:10:46Z",
+    "updated_at": "2026-08-12T10:57:07Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7256,
-    "updated_at": "2026-08-12T10:02:36Z",
+    "updated_at": "2026-08-12T10:52:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T07:58:56Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T07:57:28Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-12T07:50:49Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "MCP-native agentic platform: planner/executor/critic over hybrid RAG, with per-run cost ceilings, three-tier memory, out",
-    "id": "mrinmoyece/cortex",
-    "language": "Python",
-    "name": "mrinmoyece/cortex",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:47:39Z",
-    "url": "https://github.com/mrinmoyece/cortex"
-  },
-  {
-    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
-    "id": "Zonastery/bursar",
-    "language": "Python",
-    "name": "Zonastery/bursar",
-    "stars": 2,
-    "updated_at": "2026-08-12T07:42:55Z",
-    "url": "https://github.com/Zonastery/bursar"
-  },
-  {
-    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
-    "id": "Divya1S/CareMesh",
-    "language": "Python",
-    "name": "Divya1S/CareMesh",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:33:27Z",
-    "url": "https://github.com/Divya1S/CareMesh"
   }
 ]
