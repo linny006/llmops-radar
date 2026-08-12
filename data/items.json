@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
+    "id": "ProofAgent-ai/proofagent-harness",
+    "language": "Python",
+    "name": "ProofAgent-ai/proofagent-harness",
+    "stars": 23,
+    "updated_at": "2026-08-12T20:56:56Z",
+    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-12T20:56:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 8,
+    "updated_at": "2026-08-12T20:56:07Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T20:55:35Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:55:27Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T20:55:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "JavaScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:54:29Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1290,
+    "updated_at": "2026-08-12T20:59:46Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:51:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8251,
-    "updated_at": "2026-08-12T20:43:49Z",
+    "updated_at": "2026-08-12T20:49:33Z",
     "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:46:41Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-12T20:44:56Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56197,
-    "updated_at": "2026-08-12T20:42:29Z",
+    "updated_at": "2026-08-12T20:57:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,21 +135,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T20:38:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-12T20:33:35Z",
+    "updated_at": "2026-08-12T20:56:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-12T20:22:07Z",
+    "updated_at": "2026-08-12T20:53:35Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -117,21 +216,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-12T20:08:45Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-12T20:05:18Z",
+    "updated_at": "2026-08-12T20:51:15Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -142,42 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T20:02:39Z",
     "url": "https://github.com/itstheraj/ruby_llm-dagcache"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-12T20:44:56Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T20:00:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:59:11Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T19:58:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "CI/CD and Production Quality Platform for LLM Applications",
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:49:21Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "JavaScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:47:00Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -234,21 +279,12 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T20:09:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7264,
-    "updated_at": "2026-08-12T20:25:34Z",
+    "updated_at": "2026-08-12T20:54:15Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T18:56:10Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 584,
-    "updated_at": "2026-08-12T20:35:11Z",
+    "updated_at": "2026-08-12T20:45:50Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -419,34 +446,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-12T20:43:25Z",
+    "updated_at": "2026-08-12T20:59:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
-    "id": "fluiq-AI/fluiq-sdk",
-    "language": "Python",
-    "name": "fluiq-AI/fluiq-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-12T17:19:48Z",
-    "url": "https://github.com/fluiq-AI/fluiq-sdk"
-  },
-  {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:19:42Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
-    "id": "sanketsudake/agentic-engineering",
-    "language": "Python",
-    "name": "sanketsudake/agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:19:46Z",
-    "url": "https://github.com/sanketsudake/agentic-engineering"
   }
 ]
