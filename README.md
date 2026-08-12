@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 16:30 UTC
+> ⏰ Last updated: 2026-08-12 16:35 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-12 | Temporal workers and clients for wrapping access to different LLMs |
-| 2 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-12 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27485 | Python | 2026-08-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [SignalLayerLabs/Marginal](https://github.com/SignalLayerLabs/Marginal) | 4 | Python | 2026-08-12 | Compute capital allocation for AI agents — fund only actions whose expected marginal value justifies tokens, cost, laten |
-| 5 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 583 | Python | 2026-08-12 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32972 | TypeScript | 2026-08-12 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 7 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 377 | Python | 2026-08-12 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 8 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 34 | Python | 2026-08-12 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 9 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-08-12 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56190 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-12 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 12 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-12 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 13 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 3 | Python | 2026-08-12 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 14 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-12 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 15 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 377 | Python | 2026-08-12 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-12 | Temporal workers and clients for wrapping access to different LLMs |
+| 4 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-12 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
+| 5 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27485 | Python | 2026-08-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 6 | [SignalLayerLabs/Marginal](https://github.com/SignalLayerLabs/Marginal) | 4 | Python | 2026-08-12 | Compute capital allocation for AI agents — fund only actions whose expected marginal value justifies tokens, cost, laten |
+| 7 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 583 | Python | 2026-08-12 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32972 | TypeScript | 2026-08-12 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 34 | Python | 2026-08-12 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 10 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-08-12 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
+| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56190 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-12 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 13 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-12 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
+| 14 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 3 | Python | 2026-08-12 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 15 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-12 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 16 | [tjdonley/AgentProf](https://github.com/tjdonley/AgentProf) | 0 | Python | 2026-08-12 | Local-first CLI for AI-agent failure-and-waste reports |
 | 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24171 | TypeScript | 2026-08-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 18 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 26 | TypeScript | 2026-08-12 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
