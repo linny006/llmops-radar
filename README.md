@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 20:38 UTC
+> ⏰ Last updated: 2026-08-12 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 76 | Python | 2026-08-12 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56196 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-12 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 5 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8251 | Rust | 2026-08-12 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 1 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8251 | Rust | 2026-08-12 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56197 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-12 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 76 | Python | 2026-08-12 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 6 | [WellCod/automata](https://github.com/WellCod/automata) | 1 | Python | 2026-08-12 | Painel para operar agentes de IA em produção: prompt versionado com rollback, troca de modelo sem reescrever instruções  |
 | 7 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-12 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
 | 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3487 | TypeScript | 2026-08-12 | The platform for LLM evaluations and AI agent testing |
