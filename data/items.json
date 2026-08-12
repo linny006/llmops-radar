@@ -1,12 +1,75 @@
 [
   {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 7,
+    "updated_at": "2026-08-12T09:42:39Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27478,
+    "updated_at": "2026-08-12T09:42:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1652,
+    "updated_at": "2026-08-12T09:41:29Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 98,
+    "updated_at": "2026-08-12T09:39:38Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T09:29:39Z",
+    "updated_at": "2026-08-12T09:39:30Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5749,
+    "updated_at": "2026-08-12T09:36:57Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56164,
+    "updated_at": "2026-08-12T09:36:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T09:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An open-source, steppable AI desktop automation agent for your IDE. Features a visual node-based builder, native UI tree",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T09:29:47Z",
+    "updated_at": "2026-08-12T09:42:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8248,
-    "updated_at": "2026-08-12T09:28:23Z",
+    "updated_at": "2026-08-12T09:45:00Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -76,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32947,
+    "stars": 32948,
     "updated_at": "2026-08-12T09:24:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -90,21 +153,12 @@
     "url": "https://github.com/fightheyyy/CATENA"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-12T09:25:17Z",
+    "updated_at": "2026-08-12T09:38:40Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -117,33 +171,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1652,
-    "updated_at": "2026-08-12T09:18:03Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56161,
-    "updated_at": "2026-08-12T09:12:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5749,
-    "updated_at": "2026-08-12T09:28:52Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
     "id": "ashishki/telegram-research-agent",
     "language": "Python",
@@ -153,13 +180,13 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27478,
-    "updated_at": "2026-08-12T09:08:14Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1063,
+    "updated_at": "2026-08-12T09:10:46Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "Production-grade, low-latency RAG pipeline powered by Gemini 2.5 Flash. Features an automated 3-hour dynamic vector sync",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:07:36Z",
     "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 98,
-    "updated_at": "2026-08-12T09:27:36Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11855,
-    "updated_at": "2026-08-12T09:26:00Z",
+    "updated_at": "2026-08-12T09:40:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T09:26:17Z",
+    "updated_at": "2026-08-12T09:44:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -400,7 +418,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29645,
+    "stars": 29646,
     "updated_at": "2026-08-12T06:58:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-12T06:40:02Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:37:48Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:29:01Z",
-    "url": "https://github.com/justin-rhee/attest-check"
   }
 ]
