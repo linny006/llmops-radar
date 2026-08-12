@@ -1,12 +1,93 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T23:29:15Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T23:28:03Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
     "description": "Production-grade multilingual RAG system using Qdrant, Hybrid Search, BGE-M3 embeddings, Cross-Encoder Reranking, FastAP",
     "id": "OnlyMrUsman/rag-system",
     "language": "Python",
     "name": "OnlyMrUsman/rag-system",
     "stars": 0,
-    "updated_at": "2026-08-12T23:15:56Z",
+    "updated_at": "2026-08-12T23:27:37Z",
     "url": "https://github.com/OnlyMrUsman/rag-system"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-12T23:26:58Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-12T23:23:45Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56202,
+    "updated_at": "2026-08-12T23:23:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-08-12T23:20:12Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-12T23:19:55Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-12T23:19:43Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T23:16:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -45,15 +126,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-12T23:04:21Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -72,24 +144,6 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T23:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T23:00:24Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 386,
     "updated_at": "2026-08-12T23:00:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56201,
-    "updated_at": "2026-08-12T23:08:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
@@ -158,7 +203,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 8,
-    "updated_at": "2026-08-12T23:12:59Z",
+    "updated_at": "2026-08-12T23:28:27Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -167,7 +212,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-12T22:56:51Z",
+    "updated_at": "2026-08-12T23:29:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -189,6 +234,15 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:36:46Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
     "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
     "id": "api-evangelist/agenta",
     "language": "\u2014",
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8251,
-    "updated_at": "2026-08-12T22:54:29Z",
+    "updated_at": "2026-08-12T23:28:04Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:07:19Z",
     "url": "https://github.com/shizheng-rlfresh/skim"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:06:32Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:06:08Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-12T22:04:59Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-08-12T22:04:49Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T23:10:54Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 45,
-    "updated_at": "2026-08-12T22:04:30Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
