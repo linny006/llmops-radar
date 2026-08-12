@@ -1,12 +1,12 @@
 [
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T15:11:48Z",
-    "url": "https://github.com/dshakes/clickllm"
+    "name": "future-agi/future-agi",
+    "stars": 1655,
+    "updated_at": "2026-08-12T15:27:55Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27483,
-    "updated_at": "2026-08-12T15:14:11Z",
+    "updated_at": "2026-08-12T15:19:22Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:18:30Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:17:24Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-12T15:23:39Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3506,
+    "updated_at": "2026-08-12T15:14:53Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56183,
+    "updated_at": "2026-08-12T15:19:29Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32967,
-    "updated_at": "2026-08-12T15:12:51Z",
+    "updated_at": "2026-08-12T15:30:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7261,
-    "updated_at": "2026-08-12T15:14:13Z",
+    "updated_at": "2026-08-12T15:25:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -63,21 +117,12 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T15:14:05Z",
+    "updated_at": "2026-08-12T15:24:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,26 +176,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21331,
-    "updated_at": "2026-08-12T15:13:46Z",
+    "updated_at": "2026-08-12T15:29:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1655,
-    "updated_at": "2026-08-12T14:44:09Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56182,
-    "updated_at": "2026-08-12T15:14:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11014,
-    "updated_at": "2026-08-12T14:59:49Z",
+    "updated_at": "2026-08-12T15:29:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24167,
-    "updated_at": "2026-08-12T15:15:26Z",
+    "updated_at": "2026-08-12T15:17:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29646,
-    "updated_at": "2026-08-12T15:13:27Z",
+    "updated_at": "2026-08-12T15:21:18Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-12T13:37:17Z",
+    "updated_at": "2026-08-12T15:15:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -342,15 +369,6 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-12T15:13:31Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T11:49:46Z",
     "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11856,
-    "updated_at": "2026-08-12T14:41:09Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Asynchronous AI content orchestration and omnichannel distribution engine built on n8n. Features in-memory binary proces",
-    "id": "Abolfazl-Afkhami/Autonomous-AI-Content-Engine",
-    "language": "\u2014",
-    "name": "Abolfazl-Afkhami/Autonomous-AI-Content-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:46:23Z",
-    "url": "https://github.com/Abolfazl-Afkhami/Autonomous-AI-Content-Engine"
   }
 ]
