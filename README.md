@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 21:26 UTC
+> ⏰ Last updated: 2026-08-12 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56198 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [AshwinUgale/tracelint](https://github.com/AshwinUgale/tracelint) | 1 | Python | 2026-08-12 | A deterministic linter for agent runs — reads the execution trace and flags structural bugs (ignored errors, schema viol |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-12 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
-| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29655 | TypeScript | 2026-08-12 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21335 | Python | 2026-08-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-12 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 8 | [ProofAgent-ai/proofagent-harness](https://github.com/ProofAgent-ai/proofagent-harness) | 23 | Python | 2026-08-12 | Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI |
-| 9 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-12 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 10 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-12 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 11 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1291 | Python | 2026-08-12 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 1 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1292 | Python | 2026-08-12 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 2 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29655 | TypeScript | 2026-08-12 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56198 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [AshwinUgale/tracelint](https://github.com/AshwinUgale/tracelint) | 1 | Python | 2026-08-12 | A deterministic linter for agent runs — reads the execution trace and flags structural bugs (ignored errors, schema viol |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-12 | fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro |
+| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21335 | Python | 2026-08-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 8 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-12 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 9 | [ProofAgent-ai/proofagent-harness](https://github.com/ProofAgent-ai/proofagent-harness) | 23 | Python | 2026-08-12 | Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI |
+| 10 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-12 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 11 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-12 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 12 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-12 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 13 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 8 | Ruby | 2026-08-12 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
 | 14 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-08-12 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
