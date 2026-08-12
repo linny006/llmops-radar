@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "koate-kpai/agentic-platform-aws",
     "stars": 0,
-    "updated_at": "2026-08-12T17:29:03Z",
+    "updated_at": "2026-08-12T17:39:40Z",
     "url": "https://github.com/koate-kpai/agentic-platform-aws"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:38:43Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-12T17:40:00Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:34:47Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-12T17:33:40Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T17:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56193,
+    "updated_at": "2026-08-12T17:40:47Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM eval gate as CI: RAGAS golden set, faithfulness quality bar >= 0.90, LLM-as-judge, zero-cost mock mode. The eval lay",
@@ -25,15 +79,6 @@
     "stars": 32973,
     "updated_at": "2026-08-12T17:24:11Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-12T17:22:13Z",
-    "url": "https://github.com/WellCod/automata"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T17:18:03Z",
+    "updated_at": "2026-08-12T17:40:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -81,21 +126,12 @@
     "url": "https://github.com/sanketsudake/agentic-engineering"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11015,
-    "updated_at": "2026-08-12T17:16:35Z",
+    "updated_at": "2026-08-12T17:34:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-12T17:13:25Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T17:12:20Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56192,
-    "updated_at": "2026-08-12T17:25:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first CLI for AI-agent failure-and-waste reports",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24171,
-    "updated_at": "2026-08-12T17:07:21Z",
+    "updated_at": "2026-08-12T17:36:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -288,6 +306,15 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7262,
+    "updated_at": "2026-08-12T16:27:56Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-12T17:13:02Z",
+    "updated_at": "2026-08-12T17:40:20Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -324,6 +351,15 @@
     "url": "https://github.com/iblai/os"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21332,
+    "updated_at": "2026-08-12T16:12:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -340,24 +376,6 @@
     "stars": 44,
     "updated_at": "2026-08-12T16:09:16Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21331,
-    "updated_at": "2026-08-12T16:12:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7261,
-    "updated_at": "2026-08-12T16:27:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "MCP server giving AI agents guarded, audited, read-only access to ops tooling, plus a triage agent that diagnoses an inj",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T15:17:24Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3507,
-    "updated_at": "2026-08-12T15:14:53Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "CI gate for RAG pipelines: golden-set recall and MRR scoring against pgvector on every PR, failing builds that degrade r",
-    "id": "ShreyAC962/rag-regression-ci",
-    "language": "Python",
-    "name": "ShreyAC962/rag-regression-ci",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:10:33Z",
-    "url": "https://github.com/ShreyAC962/rag-regression-ci"
   }
 ]
