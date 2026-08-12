@@ -1,5 +1,50 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-12T15:34:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-12T15:33:49Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-12T15:33:13Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32967,
+    "updated_at": "2026-08-12T15:36:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -9,12 +54,21 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1301,
+    "updated_at": "2026-08-12T15:21:45Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27483,
-    "updated_at": "2026-08-12T15:19:22Z",
+    "updated_at": "2026-08-12T15:35:18Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -36,24 +90,6 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-12T15:23:39Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -68,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56183,
-    "updated_at": "2026-08-12T15:19:29Z",
+    "updated_at": "2026-08-12T15:34:20Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32967,
-    "updated_at": "2026-08-12T15:30:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -115,15 +142,6 @@
     "stars": 583,
     "updated_at": "2026-08-12T15:00:38Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3487,
-    "updated_at": "2026-08-12T15:24:55Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11014,
-    "updated_at": "2026-08-12T15:29:03Z",
+    "updated_at": "2026-08-12T15:36:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-12T15:14:34Z",
+    "updated_at": "2026-08-12T15:34:03Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -266,7 +284,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2610,
-    "updated_at": "2026-08-12T13:45:13Z",
+    "updated_at": "2026-08-12T15:36:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -293,7 +311,7 @@
     "language": "JavaScript",
     "name": "sjfakharian/zerospend",
     "stars": 0,
-    "updated_at": "2026-08-12T14:10:46Z",
+    "updated_at": "2026-08-12T15:34:38Z",
     "url": "https://github.com/sjfakharian/zerospend"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 377,
-    "updated_at": "2026-08-12T13:16:27Z",
+    "updated_at": "2026-08-12T15:36:08Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -367,15 +385,6 @@
     "stars": 14,
     "updated_at": "2026-08-12T12:58:02Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-12T13:28:17Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T12:03:39Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Production-grade, low-latency RAG pipeline powered by Gemini 2.5 Flash. Features an automated 3-hour dynamic vector sync",
-    "id": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
-    "language": "\u2014",
-    "name": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:49:46Z",
-    "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
   }
 ]
