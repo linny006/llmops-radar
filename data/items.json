@@ -1,5 +1,122 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:44:41Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 8,
+    "updated_at": "2026-08-12T22:40:46Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-12T22:39:32Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:37:51Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:36:39Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:36:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T22:35:21Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8251,
+    "updated_at": "2026-08-12T22:35:16Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-12T22:34:51Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:31:42Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:30:53Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T22:30:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
     "id": "Frayagronomist166/LiteRT.js-Mocap",
     "language": "\u2014",
@@ -41,17 +158,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56199,
-    "updated_at": "2026-08-12T22:27:17Z",
+    "updated_at": "2026-08-12T22:34:19Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8251,
-    "updated_at": "2026-08-12T22:26:37Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -63,15 +171,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T22:30:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -79,6 +178,24 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:24:25Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11020,
+    "updated_at": "2026-08-12T22:22:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32983,
+    "updated_at": "2026-08-12T22:22:32Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -97,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:20:38Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:24:04Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -133,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:17:11Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T22:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -187,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:07:19Z",
     "url": "https://github.com/shizheng-rlfresh/skim"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32982,
-    "updated_at": "2026-08-12T22:22:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
@@ -275,7 +365,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T21:55:05Z",
+    "updated_at": "2026-08-12T22:41:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -288,15 +378,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T21:51:55Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
@@ -304,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T21:51:55Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T21:50:55Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -351,24 +423,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-12T21:44:02Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:42:59Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T21:37:29Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11019,
-    "updated_at": "2026-08-12T22:22:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3507,
-    "updated_at": "2026-08-12T21:35:20Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1293,
-    "updated_at": "2026-08-12T21:28:09Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21337,
-    "updated_at": "2026-08-12T21:55:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Production-grade multilingual RAG system using Qdrant, Hybrid Search, BGE-M3 embeddings, Cross-Encoder Reranking, FastAP",
-    "id": "OnlyMrUsman/rag-system",
-    "language": "\u2014",
-    "name": "OnlyMrUsman/rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:11:20Z",
-    "url": "https://github.com/OnlyMrUsman/rag-system"
-  },
-  {
-    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
-    "id": "ProofAgent-ai/proofagent-harness",
-    "language": "Python",
-    "name": "ProofAgent-ai/proofagent-harness",
-    "stars": 23,
-    "updated_at": "2026-08-12T21:10:15Z",
-    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
   }
 ]
