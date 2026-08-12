@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56194,
+    "updated_at": "2026-08-12T18:35:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human ",
+    "id": "Ricky-7-Yan/intelligent-audit-system",
+    "language": "Python",
+    "name": "Ricky-7-Yan/intelligent-audit-system",
+    "stars": 1167,
+    "updated_at": "2026-08-12T18:32:23Z",
+    "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T18:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 11016,
     "updated_at": "2026-08-12T18:29:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56194,
-    "updated_at": "2026-08-12T18:27:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -43,15 +61,6 @@
     "stars": 386,
     "updated_at": "2026-08-12T18:25:03Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T18:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24174,
-    "updated_at": "2026-08-12T18:26:59Z",
+    "updated_at": "2026-08-12T18:35:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-08-12T18:28:58Z",
+    "updated_at": "2026-08-12T18:35:41Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32974,
-    "updated_at": "2026-08-12T17:24:11Z",
+    "updated_at": "2026-08-12T18:31:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 3,
-    "updated_at": "2026-08-12T16:45:26Z",
+    "updated_at": "2026-08-12T18:31:03Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T15:58:34Z",
     "url": "https://github.com/ShreyAC962/mcp-incident-copilot"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2612,
-    "updated_at": "2026-08-12T15:43:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
