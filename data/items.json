@@ -1,11 +1,83 @@
 [
   {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:11:48Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27483,
+    "updated_at": "2026-08-12T15:14:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32967,
+    "updated_at": "2026-08-12T15:12:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7261,
+    "updated_at": "2026-08-12T15:14:13Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
+    "id": "ur-grue/toptop",
+    "language": "Rust",
+    "name": "ur-grue/toptop",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:03:01Z",
+    "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:02:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 583,
+    "updated_at": "2026-08-12T15:00:38Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T14:59:02Z",
+    "updated_at": "2026-08-12T15:14:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 49,
     "updated_at": "2026-08-12T14:59:01Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:59:22Z",
-    "url": "https://github.com/ur-grue/toptop"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:54:39Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:54:33Z",
-    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -77,17 +131,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21331,
-    "updated_at": "2026-08-12T14:47:56Z",
+    "updated_at": "2026-08-12T15:13:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T14:45:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "future-agi/future-agi",
+    "stars": 1655,
+    "updated_at": "2026-08-12T14:44:09Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56182,
-    "updated_at": "2026-08-12T14:43:58Z",
+    "updated_at": "2026-08-12T15:14:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32966,
-    "updated_at": "2026-08-12T14:58:22Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-12T14:50:43Z",
+    "updated_at": "2026-08-12T15:14:34Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -153,40 +198,13 @@
     "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27481,
-    "updated_at": "2026-08-12T14:28:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24167,
-    "updated_at": "2026-08-12T14:26:58Z",
+    "updated_at": "2026-08-12T15:15:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:22:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7260,
-    "updated_at": "2026-08-12T14:00:38Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29646,
-    "updated_at": "2026-08-12T13:49:26Z",
+    "updated_at": "2026-08-12T15:13:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T13:39:30Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1654,
-    "updated_at": "2026-08-12T14:44:09Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T14:47:36Z",
+    "updated_at": "2026-08-12T15:13:31Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-12T13:27:32Z",
+    "updated_at": "2026-08-12T15:05:34Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T11:46:23Z",
     "url": "https://github.com/Abolfazl-Afkhami/Autonomous-AI-Content-Engine"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:20:14Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   }
 ]
