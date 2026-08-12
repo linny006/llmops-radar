@@ -1,11 +1,101 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2606,
+    "updated_at": "2026-08-12T07:14:40Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T07:13:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5748,
+    "updated_at": "2026-08-12T07:11:57Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56156,
+    "updated_at": "2026-08-12T07:08:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 49,
+    "updated_at": "2026-08-12T07:08:16Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-12T07:07:13Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:04:36Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 98,
+    "updated_at": "2026-08-12T07:04:10Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-12T07:00:36Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T07:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8247,
-    "updated_at": "2026-08-12T06:58:40Z",
+    "updated_at": "2026-08-12T07:05:43Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -22,8 +112,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32932,
-    "updated_at": "2026-08-12T06:54:20Z",
+    "stars": 32934,
+    "updated_at": "2026-08-12T07:11:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1651,
-    "updated_at": "2026-08-12T06:51:08Z",
+    "updated_at": "2026-08-12T07:14:35Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -54,24 +144,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56155,
-    "updated_at": "2026-08-12T06:49:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T06:45:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 21325,
     "updated_at": "2026-08-12T06:54:57Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-12T06:42:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27475,
-    "updated_at": "2026-08-12T06:36:47Z",
+    "updated_at": "2026-08-12T07:14:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -121,7 +184,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7252,
+    "stars": 7253,
     "updated_at": "2026-08-12T06:31:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -135,15 +198,6 @@
     "url": "https://github.com/justin-rhee/attest-check"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2605,
-    "updated_at": "2026-08-12T06:27:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -151,24 +205,6 @@
     "stars": 6,
     "updated_at": "2026-08-12T06:27:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 98,
-    "updated_at": "2026-08-12T06:47:57Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T06:24:04Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11854,
-    "updated_at": "2026-08-12T06:11:54Z",
+    "updated_at": "2026-08-12T07:11:30Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -238,7 +274,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11005,
+    "stars": 11006,
     "updated_at": "2026-08-12T06:05:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -261,15 +297,6 @@
     "url": "https://github.com/Zonastery/bursar"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-12T05:41:40Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
     "id": "SemeAIPletinnya/semeai-gate-basic",
     "language": "Python",
@@ -283,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24151,
+    "stars": 24153,
     "updated_at": "2026-08-12T05:08:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T06:58:26Z",
+    "updated_at": "2026-08-12T07:06:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -376,15 +403,6 @@
     "stars": 44,
     "updated_at": "2026-08-12T04:05:41Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-12T06:10:43Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -430,23 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-12T03:47:20Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Long-term semantic memory for Java LLM agents: retrieve, inject, extract, resolve",
-    "id": "thaicn1712/memoryflow-java",
-    "language": "Java",
-    "name": "thaicn1712/memoryflow-java",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:44:31Z",
-    "url": "https://github.com/thaicn1712/memoryflow-java"
-  },
-  {
-    "description": "Policy-as-code (deny-overrides, fail-closed) for AI agent tool calls, in Java",
-    "id": "thaicn1712/actionguard-java",
-    "language": "Java",
-    "name": "thaicn1712/actionguard-java",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:44:30Z",
-    "url": "https://github.com/thaicn1712/actionguard-java"
   }
 ]
