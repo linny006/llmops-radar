@@ -1,12 +1,84 @@
 [
   {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "JavaScript",
-    "name": "jasonneo99/agent-workflow",
+    "description": "VCR cassettes for RubyLLM agent trajectories \u2014 record agent runs as DAGs, replay the canonical path, only pay the LLM fo",
+    "id": "itstheraj/ruby_llm-dagcache",
+    "language": "Ruby",
+    "name": "itstheraj/ruby_llm-dagcache",
     "stars": 0,
-    "updated_at": "2026-08-12T19:47:00Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
+    "updated_at": "2026-08-12T19:59:18Z",
+    "url": "https://github.com/itstheraj/ruby_llm-dagcache"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:59:11Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T19:58:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11017,
+    "updated_at": "2026-08-12T20:00:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-12T19:55:31Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56194,
+    "updated_at": "2026-08-12T19:54:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CI/CD and Production Quality Platform for LLM Applications",
+    "id": "Harshrudrawar/OpenEval",
+    "language": "Python",
+    "name": "Harshrudrawar/OpenEval",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:53:04Z",
+    "url": "https://github.com/Harshrudrawar/OpenEval"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-12T19:52:29Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:49:21Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T19:45:26Z",
+    "updated_at": "2026-08-12T19:47:16Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "JavaScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:47:00Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -45,24 +126,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56194,
-    "updated_at": "2026-08-12T19:42:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "CI/CD and Production Quality Platform for LLM Applications",
-    "id": "Harshrudrawar/OpenEval",
-    "language": "Python",
-    "name": "Harshrudrawar/OpenEval",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:39:45Z",
-    "url": "https://github.com/Harshrudrawar/OpenEval"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -70,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T19:35:16Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T19:34:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -103,18 +157,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32978,
+    "stars": 32979,
     "updated_at": "2026-08-12T19:27:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11017,
-    "updated_at": "2026-08-12T19:37:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7264,
+    "updated_at": "2026-08-12T19:25:24Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -167,17 +221,8 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-12T19:07:43Z",
+    "updated_at": "2026-08-12T20:00:24Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:45:43Z",
-    "url": "https://github.com/WellCod/automata"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -198,6 +243,15 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
+    "description": "VCR cassettes for agent trajectories: record agent runs as DAGs, replay the canonical path, only call the LLM for net-ne",
+    "id": "itstheraj/dag_cache",
+    "language": "Python",
+    "name": "itstheraj/dag_cache",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:04:57Z",
+    "url": "https://github.com/itstheraj/dag_cache"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -211,7 +265,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24178,
+    "stars": 24179,
     "updated_at": "2026-08-12T18:59:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -297,15 +351,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-12T18:00:57Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -333,21 +378,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:38:43Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-12T18:52:34Z",
+    "updated_at": "2026-08-12T19:58:22Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 113,
     "updated_at": "2026-08-12T16:58:58Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 6,
-    "updated_at": "2026-08-12T16:51:51Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Production-minded AI service with provider routing, fallback, tracing and cost accounting.",
-    "id": "DanHiigara/production-ai-platform",
-    "language": "Python",
-    "name": "DanHiigara/production-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:42:39Z",
-    "url": "https://github.com/DanHiigara/production-ai-platform"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 208,
-    "updated_at": "2026-08-12T16:37:21Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 378,
-    "updated_at": "2026-08-12T16:32:54Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
