@@ -1,21 +1,66 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T08:13:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T08:29:39Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32941,
-    "updated_at": "2026-08-12T08:13:04Z",
+    "stars": 32943,
+    "updated_at": "2026-08-12T08:29:00Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5748,
+    "updated_at": "2026-08-12T08:26:29Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 75,
+    "updated_at": "2026-08-12T08:25:17Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Aegis - Dynamic LLM-Driven Agentic Planning Loop Autonomous SRE Incident Orchestrator",
+    "id": "imshawan/aegis-dapl-agent",
+    "language": "TypeScript",
+    "name": "imshawan/aegis-dapl-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:29:42Z",
+    "url": "https://github.com/imshawan/aegis-dapl-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T08:21:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-12T08:16:47Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,8 +68,26 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2606,
-    "updated_at": "2026-08-12T08:12:25Z",
+    "updated_at": "2026-08-12T08:16:16Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:15:24Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8248,
-    "updated_at": "2026-08-12T08:06:15Z",
+    "updated_at": "2026-08-12T08:18:47Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -68,17 +131,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T08:11:13Z",
+    "updated_at": "2026-08-12T08:21:44Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1652,
-    "updated_at": "2026-08-12T08:00:53Z",
+    "updated_at": "2026-08-12T08:29:42Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T07:59:26Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -135,15 +180,6 @@
     "url": "https://github.com/mrinmoyece/cortex"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-12T08:07:11Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -167,8 +203,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7254,
-    "updated_at": "2026-08-12T08:15:00Z",
+    "updated_at": "2026-08-12T08:16:31Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21326,
+    "updated_at": "2026-08-12T07:34:17Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T07:00:36Z",
+    "updated_at": "2026-08-12T08:25:45Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T06:50:14Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21325,
-    "updated_at": "2026-08-12T07:34:17Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -306,30 +342,12 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-12T06:13:37Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:15:24Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11854,
-    "updated_at": "2026-08-12T07:53:46Z",
+    "updated_at": "2026-08-12T08:29:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -338,7 +356,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-12T06:05:25Z",
+    "updated_at": "2026-08-12T08:26:48Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-12T04:26:42Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 44,
-    "updated_at": "2026-08-12T04:05:41Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T04:49:52Z",
-    "url": "https://github.com/dshakes/clickllm"
   }
 ]
