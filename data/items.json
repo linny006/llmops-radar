@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32948,
+    "updated_at": "2026-08-12T09:56:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-12T09:52:08Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8248,
+    "updated_at": "2026-08-12T09:50:41Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2606,
+    "updated_at": "2026-08-12T09:52:10Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\u7e41\u4e2d AI / LLM \u5b78\u7fd2\u8def\u5f91 + \u9762\u8a66\u6e96\u5099\u6559\u6750 + 2024-2025 \u7814\u7a76\u524d\u6cbf\u3002",
+    "id": "markl-a/My-AI-Learning-Notes",
+    "language": "Jupyter Notebook",
+    "name": "markl-a/My-AI-Learning-Notes",
+    "stars": 22,
+    "updated_at": "2026-08-12T09:46:56Z",
+    "url": "https://github.com/markl-a/My-AI-Learning-Notes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T09:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
     "id": "NaCode-Studios/Kmemo",
     "language": "Kotlin",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27478,
-    "updated_at": "2026-08-12T09:42:06Z",
+    "updated_at": "2026-08-12T09:54:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1652,
-    "updated_at": "2026-08-12T09:41:29Z",
+    "updated_at": "2026-08-12T09:53:08Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T09:39:30Z",
+    "updated_at": "2026-08-12T09:55:00Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -59,17 +113,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56164,
-    "updated_at": "2026-08-12T09:36:16Z",
+    "updated_at": "2026-08-12T09:58:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An open-source, steppable AI desktop automation agent for your IDE. Features a visual node-based builder, native UI tree",
@@ -95,17 +140,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T09:42:32Z",
+    "updated_at": "2026-08-12T09:54:39Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8248,
-    "updated_at": "2026-08-12T09:45:00Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-12T09:27:18Z",
+    "updated_at": "2026-08-12T09:49:56Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -124,24 +160,6 @@
     "stars": 7,
     "updated_at": "2026-08-12T09:26:20Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2606,
-    "updated_at": "2026-08-12T09:26:19Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32948,
-    "updated_at": "2026-08-12T09:24:14Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7256,
-    "updated_at": "2026-08-12T09:16:45Z",
+    "updated_at": "2026-08-12T09:56:41Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21328,
-    "updated_at": "2026-08-12T09:28:14Z",
+    "updated_at": "2026-08-12T09:55:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11855,
-    "updated_at": "2026-08-12T09:40:31Z",
+    "updated_at": "2026-08-12T09:58:07Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -302,7 +320,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-12T08:21:50Z",
+    "updated_at": "2026-08-12T09:58:14Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T09:44:19Z",
+    "updated_at": "2026-08-12T09:46:34Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-12T07:13:14Z",
+    "updated_at": "2026-08-12T09:58:31Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -418,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29646,
+    "stars": 29644,
     "updated_at": "2026-08-12T06:58:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-12T06:51:06Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:39:50Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-12T06:40:02Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
   }
 ]
