@@ -1,5 +1,50 @@
 [
   {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 6,
+    "updated_at": "2026-08-12T11:13:31Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T11:12:40Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27479,
+    "updated_at": "2026-08-12T11:09:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-12T11:05:47Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:02:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -16,24 +61,6 @@
     "stars": 26,
     "updated_at": "2026-08-12T11:01:22Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T11:00:05Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T10:56:24Z",
+    "updated_at": "2026-08-12T11:15:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -99,15 +126,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27479,
-    "updated_at": "2026-08-12T10:49:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
     "id": "NaCode-Studios/Kmemo",
     "language": "Kotlin",
@@ -139,7 +157,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29643,
+    "stars": 29644,
     "updated_at": "2026-08-12T10:25:05Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21329,
-    "updated_at": "2026-08-12T10:46:47Z",
+    "updated_at": "2026-08-12T11:04:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 143,
     "updated_at": "2026-08-12T10:10:08Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-12T10:04:06Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Approval gates and a measured spend ceiling for autonomous LLM agents, enforced by PreToolUse hooks instead of prompts. ",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1652,
-    "updated_at": "2026-08-12T11:02:47Z",
+    "updated_at": "2026-08-12T11:15:05Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5749,
-    "updated_at": "2026-08-12T10:59:18Z",
+    "updated_at": "2026-08-12T11:11:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7256,
-    "updated_at": "2026-08-12T10:52:42Z",
+    "updated_at": "2026-08-12T11:07:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1301,
     "updated_at": "2026-08-12T10:03:03Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-12T07:58:56Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
