@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T08:56:32Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:56:31Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56160,
+    "updated_at": "2026-08-12T08:56:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5689,
+    "updated_at": "2026-08-12T08:55:54Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Production-grade, low-latency RAG pipeline powered by Gemini 2.5 Flash. Features an automated 3-hour dynamic vector sync",
+    "id": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
+    "language": "\u2014",
+    "name": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:52:38Z",
+    "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32944,
+    "updated_at": "2026-08-12T08:58:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-12T08:51:08Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2606,
+    "updated_at": "2026-08-12T08:49:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
+    "id": "leeryong/NELLA",
+    "language": "TypeScript",
+    "name": "leeryong/NELLA",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:47:52Z",
+    "url": "https://github.com/leeryong/NELLA"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 155,
+    "updated_at": "2026-08-12T08:45:15Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -18,40 +117,13 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2606,
-    "updated_at": "2026-08-12T08:38:26Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Routing and Observability for Reliable AI \u2014 a self-hosted AI gateway.",
     "id": "owlfoundry/owlrora",
     "language": "Rust",
     "name": "owlfoundry/owlrora",
     "stars": 0,
-    "updated_at": "2026-08-12T08:35:42Z",
+    "updated_at": "2026-08-12T08:53:35Z",
     "url": "https://github.com/owlfoundry/owlrora"
-  },
-  {
-    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
-    "id": "leeryong/NELLA",
-    "language": "TypeScript",
-    "name": "leeryong/NELLA",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:31:48Z",
-    "url": "https://github.com/leeryong/NELLA"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aegis - Dynamic LLM-Driven Agentic Planning Loop Autonomous SRE Incident Orchestrator",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T08:29:42Z",
     "url": "https://github.com/imshawan/aegis-dapl-agent"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T08:29:39Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32943,
-    "updated_at": "2026-08-12T08:42:43Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 75,
-    "updated_at": "2026-08-12T08:25:17Z",
+    "updated_at": "2026-08-12T08:47:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -131,17 +185,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27476,
-    "updated_at": "2026-08-12T08:12:21Z",
+    "updated_at": "2026-08-12T08:49:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56158,
-    "updated_at": "2026-08-12T08:42:01Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8248,
-    "updated_at": "2026-08-12T08:44:21Z",
+    "updated_at": "2026-08-12T08:46:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T08:38:14Z",
+    "updated_at": "2026-08-12T08:56:17Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1652,
-    "updated_at": "2026-08-12T08:29:42Z",
+    "updated_at": "2026-08-12T08:49:49Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11007,
-    "updated_at": "2026-08-12T07:46:14Z",
+    "updated_at": "2026-08-12T08:54:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7254,
-    "updated_at": "2026-08-12T08:36:50Z",
+    "updated_at": "2026-08-12T08:46:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -247,8 +292,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21326,
-    "updated_at": "2026-08-12T07:34:17Z",
+    "stars": 21328,
+    "updated_at": "2026-08-12T08:53:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -373,8 +418,8 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11854,
-    "updated_at": "2026-08-12T08:43:22Z",
+    "stars": 11855,
+    "updated_at": "2026-08-12T08:46:35Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T05:19:41Z",
     "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24154,
-    "updated_at": "2026-08-12T05:08:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:05:12Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1140,
-    "updated_at": "2026-08-12T04:59:13Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-12T05:04:39Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-12T07:38:18Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
