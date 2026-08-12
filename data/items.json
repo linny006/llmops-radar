@@ -1,5 +1,104 @@
 [
   {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:15:15Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1140,
+    "updated_at": "2026-08-12T17:14:45Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-12T17:13:25Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:12:20Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Local-first CLI for AI-agent failure-and-waste reports",
+    "id": "tjdonley/AgentProf",
+    "language": "Python",
+    "name": "tjdonley/AgentProf",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:08:04Z",
+    "url": "https://github.com/tjdonley/AgentProf"
+  },
+  {
+    "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:05:01Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11015,
+    "updated_at": "2026-08-12T17:15:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27485,
+    "updated_at": "2026-08-12T17:04:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "JavaScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:01:20Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:00:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -32,17 +131,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24171,
-    "updated_at": "2026-08-12T16:59:39Z",
+    "updated_at": "2026-08-12T17:07:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T16:54:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -68,17 +158,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56191,
-    "updated_at": "2026-08-12T16:58:49Z",
+    "updated_at": "2026-08-12T17:10:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T16:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-minded AI service with provider routing, fallback, tracing and cost accounting.",
@@ -88,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T16:42:39Z",
     "url": "https://github.com/DanHiigara/production-ai-platform"
-  },
-  {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:42:04Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
-    "id": "lordbasilaiassistant-sudo/company-bench",
-    "language": "JavaScript",
-    "name": "lordbasilaiassistant-sudo/company-bench",
-    "stars": 1,
-    "updated_at": "2026-08-12T16:40:32Z",
-    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -135,21 +198,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27485,
-    "updated_at": "2026-08-12T16:37:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32973,
-    "updated_at": "2026-08-12T16:51:28Z",
+    "updated_at": "2026-08-12T17:12:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -194,17 +248,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-12T16:27:28Z",
+    "updated_at": "2026-08-12T17:13:02Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "JavaScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:22:01Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -216,15 +261,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11015,
-    "updated_at": "2026-08-12T16:50:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -232,15 +268,6 @@
     "stars": 16,
     "updated_at": "2026-08-12T16:18:32Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Local-first CLI for AI-agent failure-and-waste reports",
-    "id": "tjdonley/AgentProf",
-    "language": "Python",
-    "name": "tjdonley/AgentProf",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:55:45Z",
-    "url": "https://github.com/tjdonley/AgentProf"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T16:58:25Z",
+    "updated_at": "2026-08-12T17:04:10Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -378,6 +405,15 @@
     "url": "https://github.com/truera/trulens"
   },
   {
+    "description": "CI gate for RAG pipelines: golden-set recall and MRR scoring against pgvector on every PR, failing builds that degrade r",
+    "id": "ShreyAC962/rag-regression-ci",
+    "language": "Python",
+    "name": "ShreyAC962/rag-regression-ci",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:10:33Z",
+    "url": "https://github.com/ShreyAC962/rag-regression-ci"
+  },
+  {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
     "id": "ur-grue/toptop",
     "language": "Rust",
@@ -405,24 +441,6 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-12T14:48:00Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:37:16Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
     "id": "WellCod/automata",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T14:37:07Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:31:32Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 76,
-    "updated_at": "2026-08-12T16:58:08Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
