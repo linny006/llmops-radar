@@ -1,12 +1,21 @@
 [
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T22:07:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
     "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 76,
-    "updated_at": "2026-08-12T21:58:54Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:07:26Z",
+    "url": "https://github.com/dshakes/clickllm"
   },
   {
     "description": "Inspect, annotate, and review AI agent trajectories and artifacts. Local-first, with CLI, TUI, and Web UI surfaces shari",
@@ -14,8 +23,98 @@
     "language": "Python",
     "name": "shizheng-rlfresh/skim",
     "stars": 1,
-    "updated_at": "2026-08-12T21:59:36Z",
+    "updated_at": "2026-08-12T22:07:19Z",
     "url": "https://github.com/shizheng-rlfresh/skim"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32981,
+    "updated_at": "2026-08-12T22:07:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
+    "id": "KewalPra/agent-sdk",
+    "language": "Python",
+    "name": "KewalPra/agent-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:06:32Z",
+    "url": "https://github.com/KewalPra/agent-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
+    "id": "rsaudio/second-brain",
+    "language": "\u2014",
+    "name": "rsaudio/second-brain",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:06:08Z",
+    "url": "https://github.com/rsaudio/second-brain"
+  },
+  {
+    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
+    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "language": "Python",
+    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:04:59Z",
+    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:04:49Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-12T22:04:43Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 45,
+    "updated_at": "2026-08-12T22:04:30Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:02:37Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-12T22:03:25Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -54,15 +153,6 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T21:59:43Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56199,
-    "updated_at": "2026-08-12T21:53:32Z",
+    "updated_at": "2026-08-12T22:07:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T21:45:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -135,15 +216,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T21:42:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -153,12 +225,21 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29656,
+    "updated_at": "2026-08-12T21:41:56Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "CI/CD and Production Quality Platform for LLM Applications",
     "id": "Harshrudrawar/OpenEval",
     "language": "Python",
     "name": "Harshrudrawar/OpenEval",
     "stars": 0,
-    "updated_at": "2026-08-12T21:38:08Z",
+    "updated_at": "2026-08-12T22:03:51Z",
     "url": "https://github.com/Harshrudrawar/OpenEval"
   },
   {
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11019,
-    "updated_at": "2026-08-12T21:45:47Z",
+    "updated_at": "2026-08-12T22:06:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8251,
-    "updated_at": "2026-08-12T21:31:34Z",
+    "updated_at": "2026-08-12T22:03:26Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 1293,
     "updated_at": "2026-08-12T21:28:09Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29655,
-    "updated_at": "2026-08-12T21:41:56Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -261,15 +333,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T21:53:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -293,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7265,
-    "updated_at": "2026-08-12T21:50:19Z",
+    "updated_at": "2026-08-12T22:07:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/itstheraj/dag_cache"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32980,
-    "updated_at": "2026-08-12T21:55:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-12T19:34:54Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Research code testing whether a critic-fixer agent loop helps or hurts code generation, depending on the base model's ca",
-    "id": "kalyan-venk/agentic-llmops",
-    "language": "Shell",
-    "name": "kalyan-venk/agentic-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:14:09Z",
-    "url": "https://github.com/kalyan-venk/agentic-llmops"
-  },
-  {
-    "description": "Deterministic diff for agent behaviour. Record an agent run, re-drive it after a change, and get a rule-based verdict on",
-    "id": "GautamTalksDev/Vernier",
-    "language": "Python",
-    "name": "GautamTalksDev/Vernier",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:13:35Z",
-    "url": "https://github.com/GautamTalksDev/Vernier"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:08:25Z",
-    "url": "https://github.com/ur-grue/toptop"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-12T19:06:18Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:05:03Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 3,
-    "updated_at": "2026-08-12T18:36:15Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
