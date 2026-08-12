@@ -1,5 +1,50 @@
 [
   {
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 7,
+    "updated_at": "2026-08-12T10:29:36Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32951,
+    "updated_at": "2026-08-12T10:29:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T10:26:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56167,
+    "updated_at": "2026-08-12T10:23:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -18,6 +63,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21329,
+    "updated_at": "2026-08-12T10:10:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get",
     "id": "QuesmaOrg/awesome-ai-tokenomics",
     "language": "Python",
@@ -25,24 +79,6 @@
     "stars": 143,
     "updated_at": "2026-08-12T10:10:08Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32949,
-    "updated_at": "2026-08-12T10:14:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21328,
-    "updated_at": "2026-08-12T10:10:50Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -81,33 +117,6 @@
     "url": "https://github.com/satwiksps/tracelet"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-12T09:58:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56165,
-    "updated_at": "2026-08-12T09:58:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -144,21 +153,12 @@
     "url": "https://github.com/markl-a/My-AI-Learning-Notes"
   },
   {
-    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 7,
-    "updated_at": "2026-08-12T09:42:39Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27478,
-    "updated_at": "2026-08-12T10:11:10Z",
+    "updated_at": "2026-08-12T10:16:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -221,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T10:15:22Z",
+    "updated_at": "2026-08-12T10:20:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11855,
-    "updated_at": "2026-08-12T10:12:31Z",
+    "updated_at": "2026-08-12T10:25:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {

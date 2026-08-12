@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 10:15 UTC
+> ⏰ Last updated: 2026-08-12 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 44 | — | 2026-08-12 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 2 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 3 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 143 | Python | 2026-08-12 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32949 | TypeScript | 2026-08-12 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21328 | Python | 2026-08-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-12 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 7 | [Prime-agentai/agent-approval-gate](https://github.com/Prime-agentai/agent-approval-gate) | 1 | Python | 2026-08-12 | Approval gates and a measured spend ceiling for autonomous LLM agents, enforced by PreToolUse hooks instead of prompts.  |
-| 8 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-12 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 9 | [satwiksps/tracelet](https://github.com/satwiksps/tracelet) | 1 | TypeScript | 2026-08-12 | A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local  |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 11 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-12 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56165 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 13 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-12 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 14 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8248 | Rust | 2026-08-12 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 15 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2606 | C++ | 2026-08-12 | Community maintained hardware plugin for vLLM on Ascend |
-| 16 | [markl-a/My-AI-Learning-Notes](https://github.com/markl-a/My-AI-Learning-Notes) | 22 | Jupyter Notebook | 2026-08-12 | 繁中 AI / LLM 學習路徑 + 面試準備教材 + 2024-2025 研究前沿。 |
-| 17 | [NaCode-Studios/Kmemo](https://github.com/NaCode-Studios/Kmemo) | 7 | Kotlin | 2026-08-12 | Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co |
+| 1 | [NaCode-Studios/Kmemo](https://github.com/NaCode-Studios/Kmemo) | 7 | Kotlin | 2026-08-12 | Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32951 | TypeScript | 2026-08-12 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 3 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-12 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56167 | Python | 2026-08-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 44 | — | 2026-08-12 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21329 | Python | 2026-08-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 9 | [QuesmaOrg/awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) | 143 | Python | 2026-08-12 | A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get |
+| 10 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-12 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 11 | [Prime-agentai/agent-approval-gate](https://github.com/Prime-agentai/agent-approval-gate) | 1 | Python | 2026-08-12 | Approval gates and a measured spend ceiling for autonomous LLM agents, enforced by PreToolUse hooks instead of prompts.  |
+| 12 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 0 | HTML | 2026-08-12 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 13 | [satwiksps/tracelet](https://github.com/satwiksps/tracelet) | 1 | TypeScript | 2026-08-12 | A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local  |
+| 14 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-12 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 15 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8248 | Rust | 2026-08-12 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 16 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2606 | C++ | 2026-08-12 | Community maintained hardware plugin for vLLM on Ascend |
+| 17 | [markl-a/My-AI-Learning-Notes](https://github.com/markl-a/My-AI-Learning-Notes) | 22 | Jupyter Notebook | 2026-08-12 | 繁中 AI / LLM 學習路徑 + 面試準備教材 + 2024-2025 研究前沿。 |
 | 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27478 | Python | 2026-08-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 19 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1652 | Python | 2026-08-12 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
 | 20 | [api7/aisix](https://github.com/api7/aisix) | 98 | Rust | 2026-08-12 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
