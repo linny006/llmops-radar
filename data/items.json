@@ -1,5 +1,86 @@
 [
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1140,
+    "updated_at": "2026-08-12T19:44:13Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-12T19:44:01Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:43:08Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56194,
+    "updated_at": "2026-08-12T19:42:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CI/CD and Production Quality Platform for LLM Applications",
+    "id": "Harshrudrawar/OpenEval",
+    "language": "Python",
+    "name": "Harshrudrawar/OpenEval",
+    "stars": 0,
+    "updated_at": "2026-08-12T19:39:45Z",
+    "url": "https://github.com/Harshrudrawar/OpenEval"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-12T19:35:16Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T19:34:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-12T19:34:54Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T19:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -9,20 +90,11 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T19:29:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32977,
+    "stars": 32978,
     "updated_at": "2026-08-12T19:27:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -32,26 +104,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11017,
-    "updated_at": "2026-08-12T19:26:52Z",
+    "updated_at": "2026-08-12T19:37:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-12T19:27:21Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:22:26Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -61,15 +115,6 @@
     "stars": 21,
     "updated_at": "2026-08-12T19:19:49Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Research code testing whether a critic-fixer agent loop helps or hurts code generation, depending on the base model's ca",
@@ -95,26 +140,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T19:25:29Z",
+    "updated_at": "2026-08-12T19:43:12Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1140,
-    "updated_at": "2026-08-12T19:10:49Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "CI/CD and Production Quality Platform for LLM Applications",
-    "id": "Harshrudrawar/OpenEval",
-    "language": "Python",
-    "name": "Harshrudrawar/OpenEval",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:09:53Z",
-    "url": "https://github.com/Harshrudrawar/OpenEval"
   },
   {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
@@ -153,15 +180,6 @@
     "url": "https://github.com/WellCod/automata"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56194,
-    "updated_at": "2026-08-12T19:08:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -178,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T19:05:03Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-12T19:20:05Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -439,14 +448,5 @@
     "stars": 378,
     "updated_at": "2026-08-12T16:32:54Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-12T16:28:32Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   }
 ]
