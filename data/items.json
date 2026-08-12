@@ -1,5 +1,104 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T08:13:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32941,
+    "updated_at": "2026-08-12T08:13:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2606,
+    "updated_at": "2026-08-12T08:12:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27476,
+    "updated_at": "2026-08-12T08:12:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56158,
+    "updated_at": "2026-08-12T08:10:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8248,
+    "updated_at": "2026-08-12T08:06:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-12T08:08:05Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1301,
+    "updated_at": "2026-08-12T08:11:13Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1652,
+    "updated_at": "2026-08-12T08:00:53Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:59:26Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -18,24 +117,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32939,
-    "updated_at": "2026-08-12T07:59:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8248,
-    "updated_at": "2026-08-12T07:53:03Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -43,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-12T07:50:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-12T07:54:05Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "MCP-native agentic platform: planner/executor/critic over hybrid RAG, with per-run cost ceilings, three-tier memory, out",
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5748,
-    "updated_at": "2026-08-12T07:52:08Z",
+    "updated_at": "2026-08-12T08:07:11Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T07:59:26Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -88,24 +151,6 @@
     "stars": 11007,
     "updated_at": "2026-08-12T07:46:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T07:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1652,
-    "updated_at": "2026-08-12T08:00:26Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7254,
-    "updated_at": "2026-08-12T08:00:03Z",
+    "updated_at": "2026-08-12T08:15:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -135,24 +180,6 @@
     "url": "https://github.com/Divya1S/CareMesh"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27475,
-    "updated_at": "2026-08-12T07:57:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2606,
-    "updated_at": "2026-08-12T07:42:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 19,
     "updated_at": "2026-08-12T07:20:46Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56158,
-    "updated_at": "2026-08-12T07:37:36Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -279,15 +297,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:17:59Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -311,7 +320,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-12T06:12:11Z",
+    "updated_at": "2026-08-12T08:15:24Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T04:23:43Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1301,
-    "updated_at": "2026-08-12T07:52:56Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
