@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11016,
+    "updated_at": "2026-08-12T18:29:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56194,
+    "updated_at": "2026-08-12T18:27:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T18:25:14Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T18:25:03Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 386,
+    "updated_at": "2026-08-12T18:25:03Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T18:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -31,8 +85,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24173,
-    "updated_at": "2026-08-12T18:08:12Z",
+    "stars": 24174,
+    "updated_at": "2026-08-12T18:26:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-08-12T18:11:04Z",
+    "updated_at": "2026-08-12T18:28:58Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T18:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
     "id": "responsibleai/assert-ai-action",
     "language": "Python",
@@ -151,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T17:59:44Z",
     "url": "https://github.com/responsibleai/assert-ai-action"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T17:58:38Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56194,
-    "updated_at": "2026-08-12T18:05:44Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -187,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T17:55:08Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11016,
-    "updated_at": "2026-08-12T18:13:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:45:07Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T17:19:42Z",
     "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-12T17:51:14Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
@@ -383,7 +383,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7263,
-    "updated_at": "2026-08-12T18:15:29Z",
+    "updated_at": "2026-08-12T18:16:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -409,7 +409,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21333,
+    "stars": 21334,
     "updated_at": "2026-08-12T16:12:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
