@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 375,
+    "updated_at": "2026-08-12T13:12:24Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:10:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T13:08:50Z",
+    "updated_at": "2026-08-12T13:14:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 76,
     "updated_at": "2026-08-12T13:02:42Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32957,
-    "updated_at": "2026-08-12T13:08:06Z",
+    "updated_at": "2026-08-12T13:12:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -175,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56177,
+    "stars": 56176,
     "updated_at": "2026-08-12T12:22:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-12T13:04:03Z",
+    "updated_at": "2026-08-12T13:14:10Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11856,
-    "updated_at": "2026-08-12T11:48:12Z",
+    "updated_at": "2026-08-12T13:10:50Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -266,7 +275,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-12T13:04:10Z",
+    "updated_at": "2026-08-12T13:11:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5749,
     "updated_at": "2026-08-12T12:27:38Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "An open-source, steppable AI desktop automation agent for your IDE. Features a visual node-based builder, native UI tree",
-    "id": "satwiksps/mobius",
-    "language": "Python",
-    "name": "satwiksps/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-12T09:30:18Z",
-    "url": "https://github.com/satwiksps/mobius"
   }
 ]
