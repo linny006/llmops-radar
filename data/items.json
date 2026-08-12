@@ -1,12 +1,57 @@
 [
   {
+    "description": "CI/CD and Production Quality Platform for LLM Applications",
+    "id": "Harshrudrawar/OpenEval",
+    "language": "Python",
+    "name": "Harshrudrawar/OpenEval",
+    "stars": 0,
+    "updated_at": "2026-08-12T18:45:07Z",
+    "url": "https://github.com/Harshrudrawar/OpenEval"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56194,
-    "updated_at": "2026-08-12T18:35:18Z",
+    "updated_at": "2026-08-12T18:41:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-12T18:40:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-12T18:37:28Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 3,
+    "updated_at": "2026-08-12T18:36:15Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T18:35:51Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AuditPilot: auditable enterprise AI agents for evidence-grounded workflows, governed tools, evaluation harnesses, human ",
@@ -18,13 +63,13 @@
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T18:30:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32975,
+    "updated_at": "2026-08-12T18:31:33Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11016,
-    "updated_at": "2026-08-12T18:29:23Z",
+    "updated_at": "2026-08-12T18:42:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,24 +104,15 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T18:25:03Z",
+    "updated_at": "2026-08-12T18:38:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-12T18:15:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 583,
+    "stars": 584,
     "updated_at": "2026-08-12T18:14:53Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
@@ -115,24 +151,6 @@
     "stars": 34,
     "updated_at": "2026-08-12T18:06:56Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-08-12T18:35:41Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "CI/CD and Production Quality Platform for LLM Applications",
-    "id": "Harshrudrawar/OpenEval",
-    "language": "Python",
-    "name": "Harshrudrawar/OpenEval",
-    "stars": 0,
-    "updated_at": "2026-08-12T18:05:10Z",
-    "url": "https://github.com/Harshrudrawar/OpenEval"
   },
   {
     "description": "The Requesty integration package for the Vercel AI SDK.",
@@ -250,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T17:58:56Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32974,
-    "updated_at": "2026-08-12T18:31:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
@@ -396,21 +405,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 3,
-    "updated_at": "2026-08-12T18:31:03Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-12T17:26:44Z",
+    "updated_at": "2026-08-12T18:38:51Z",
     "url": "https://github.com/iblai/os"
   },
   {
