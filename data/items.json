@@ -1,5 +1,131 @@
 [
   {
+    "description": "Long-term semantic memory for Java LLM agents: retrieve, inject, extract, resolve",
+    "id": "thaicn1712/memoryflow-java",
+    "language": "Java",
+    "name": "thaicn1712/memoryflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:44:31Z",
+    "url": "https://github.com/thaicn1712/memoryflow-java"
+  },
+  {
+    "description": "Policy-as-code (deny-overrides, fail-closed) for AI agent tool calls, in Java",
+    "id": "thaicn1712/actionguard-java",
+    "language": "Java",
+    "name": "thaicn1712/actionguard-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:44:30Z",
+    "url": "https://github.com/thaicn1712/actionguard-java"
+  },
+  {
+    "description": "Token-level streaming, runtime fan-out, and self-consistency voting for Java agent handlers",
+    "id": "thaicn1712/graphflow-stream-java",
+    "language": "Java",
+    "name": "thaicn1712/graphflow-stream-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:44:23Z",
+    "url": "https://github.com/thaicn1712/graphflow-stream-java"
+  },
+  {
+    "description": "DeepEval-style graded-score test suites for LLM output, in Java",
+    "id": "thaicn1712/evalflow-java",
+    "language": "Java",
+    "name": "thaicn1712/evalflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:43:48Z",
+    "url": "https://github.com/thaicn1712/evalflow-java"
+  },
+  {
+    "description": "Checkpoint and rollback for Java agent state",
+    "id": "thaicn1712/rollbackflow-java",
+    "language": "Java",
+    "name": "thaicn1712/rollbackflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:43:48Z",
+    "url": "https://github.com/thaicn1712/rollbackflow-java"
+  },
+  {
+    "description": "Lightweight LLM call observability for Java: latency, tokens, cost \u2014 no OpenTelemetry required",
+    "id": "thaicn1712/traceflow-java",
+    "language": "Java",
+    "name": "thaicn1712/traceflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:41:28Z",
+    "url": "https://github.com/thaicn1712/traceflow-java"
+  },
+  {
+    "description": "Exact and semantic response caching for Java LLM tasks",
+    "id": "thaicn1712/cacheflow-java",
+    "language": "Java",
+    "name": "thaicn1712/cacheflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:41:24Z",
+    "url": "https://github.com/thaicn1712/cacheflow-java"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21318,
+    "updated_at": "2026-08-12T03:41:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24145,
+    "updated_at": "2026-08-12T03:41:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56144,
+    "updated_at": "2026-08-12T03:42:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Validators and a retry-until-valid guard for LLM output, in Java",
+    "id": "thaicn1712/guardflow-java",
+    "language": "Java",
+    "name": "thaicn1712/guardflow-java",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:34:53Z",
+    "url": "https://github.com/thaicn1712/guardflow-java"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-12T03:33:09Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T03:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:30:29Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
     "id": "acr3463/systemprompt-demo",
     "language": "\u2014",
@@ -67,18 +193,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27473,
+    "stars": 27474,
     "updated_at": "2026-08-12T03:22:27Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24145,
-    "updated_at": "2026-08-12T03:22:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -126,15 +243,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21317,
-    "updated_at": "2026-08-12T03:25:17Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -142,15 +250,6 @@
     "stars": 10999,
     "updated_at": "2026-08-12T03:29:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56142,
-    "updated_at": "2026-08-12T03:17:27Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -169,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T03:15:51Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T03:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -342,21 +432,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-12T03:22:18Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-12T03:26:46Z",
+    "updated_at": "2026-08-12T03:31:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T02:56:34Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-12T02:56:12Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-12T02:51:42Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Roadmap 30 hari + catatan konsep untuk belajar MLOps & Data Engineering dari nol, dalam Bahasa Indonesia. Mencakup data ",
-    "id": "LindungiLw/mechine-learning-and-data-pipeline",
-    "language": "\u2014",
-    "name": "LindungiLw/mechine-learning-and-data-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-12T02:50:16Z",
-    "url": "https://github.com/LindungiLw/mechine-learning-and-data-pipeline"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-12T02:49:27Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-12T02:49:08Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 79,
-    "updated_at": "2026-08-12T02:46:49Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:16:12Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7246,
-    "updated_at": "2026-08-12T02:45:01Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-12T02:44:47Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
