@@ -1,10 +1,55 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21321,
+    "updated_at": "2026-08-12T05:30:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-12T05:26:09Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-12T05:23:44Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Release-control gate for AI answers: SHOW / REVIEW / BLOCK before user release",
+    "id": "SemeAIPletinnya/semeai-gate-basic",
+    "language": "Python",
+    "name": "SemeAIPletinnya/semeai-gate-basic",
+    "stars": 1,
+    "updated_at": "2026-08-12T05:19:41Z",
+    "url": "https://github.com/SemeAIPletinnya/semeai-gate-basic"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T05:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24148,
+    "stars": 24150,
     "updated_at": "2026-08-12T05:08:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -27,13 +72,13 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7249,
+    "updated_at": "2026-08-12T05:04:20Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56150,
-    "updated_at": "2026-08-12T04:58:43Z",
+    "updated_at": "2026-08-12T05:26:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11002,
-    "updated_at": "2026-08-12T04:56:10Z",
+    "updated_at": "2026-08-12T05:22:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T04:53:31Z",
     "url": "https://github.com/justin-rhee/attest-check"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-12T04:52:47Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -126,15 +162,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7248,
-    "updated_at": "2026-08-12T05:04:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
     "id": "memoturn/memoturn",
     "language": "TypeScript",
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-12T04:27:55Z",
+    "updated_at": "2026-08-12T05:21:10Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5748,
-    "updated_at": "2026-08-12T05:14:42Z",
+    "updated_at": "2026-08-12T05:18:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/thaicn1712/cacheflow-java"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21320,
-    "updated_at": "2026-08-12T05:13:22Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Validators and a retry-until-valid guard for LLM output, in Java",
     "id": "thaicn1712/guardflow-java",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T03:19:14Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:20:12Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:17:53Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
