@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32960,
+    "updated_at": "2026-08-12T13:43:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 5,
+    "updated_at": "2026-08-12T13:39:30Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21330,
+    "updated_at": "2026-08-12T13:38:44Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-12T13:37:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:43:24Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
     "id": "sjfakharian/zerospend",
     "language": "JavaScript",
     "name": "sjfakharian/zerospend",
     "stars": 0,
-    "updated_at": "2026-08-12T13:29:54Z",
+    "updated_at": "2026-08-12T13:30:56Z",
     "url": "https://github.com/sjfakharian/zerospend"
   },
   {
@@ -14,17 +68,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2608,
-    "updated_at": "2026-08-12T13:28:31Z",
+    "updated_at": "2026-08-12T13:45:13Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32958,
-    "updated_at": "2026-08-12T13:29:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -36,15 +81,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:26:11Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -52,6 +88,15 @@
     "stars": 27479,
     "updated_at": "2026-08-12T13:23:09Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A secure local RAG framework featuring guardrail evaluation, interactive Streamlit chat interface, and MLflow tracking.",
+    "id": "Mrkarthikgaharwar/llmops-guard",
+    "language": "Python",
+    "name": "Mrkarthikgaharwar/llmops-guard",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:20:59Z",
+    "url": "https://github.com/Mrkarthikgaharwar/llmops-guard"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -90,15 +135,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T13:25:39Z",
+    "updated_at": "2026-08-12T13:45:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -144,6 +180,15 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7259,
+    "updated_at": "2026-08-12T13:00:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -162,30 +207,12 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7258,
-    "updated_at": "2026-08-12T13:00:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21330,
-    "updated_at": "2026-08-12T12:52:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 386,
-    "updated_at": "2026-08-12T13:25:32Z",
+    "updated_at": "2026-08-12T13:37:33Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1653,
-    "updated_at": "2026-08-12T12:45:37Z",
+    "updated_at": "2026-08-12T13:37:46Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T10:04:05Z",
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local ",
-    "id": "satwiksps/tracelet",
-    "language": "TypeScript",
-    "name": "satwiksps/tracelet",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:02:23Z",
-    "url": "https://github.com/satwiksps/tracelet"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-12T09:52:08Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "\u7e41\u4e2d AI / LLM \u5b78\u7fd2\u8def\u5f91 + \u9762\u8a66\u6e96\u5099\u6559\u6750 + 2024-2025 \u7814\u7a76\u524d\u6cbf\u3002",
-    "id": "markl-a/My-AI-Learning-Notes",
-    "language": "Jupyter Notebook",
-    "name": "markl-a/My-AI-Learning-Notes",
-    "stars": 22,
-    "updated_at": "2026-08-12T09:46:56Z",
-    "url": "https://github.com/markl-a/My-AI-Learning-Notes"
   }
 ]
