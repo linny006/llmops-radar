@@ -1,5 +1,50 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T01:10:43Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8245,
+    "updated_at": "2026-08-12T01:08:06Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56132,
+    "updated_at": "2026-08-12T01:10:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-notes",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-notes",
+    "stars": 407,
+    "updated_at": "2026-08-12T01:07:44Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-notes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -18,15 +63,6 @@
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56131,
-    "updated_at": "2026-08-12T01:00:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -41,7 +77,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-12T00:53:42Z",
+    "updated_at": "2026-08-12T01:02:58Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 5,
-    "updated_at": "2026-08-12T00:55:11Z",
+    "updated_at": "2026-08-12T01:13:48Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
@@ -77,17 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10998,
-    "updated_at": "2026-08-12T00:46:35Z",
+    "updated_at": "2026-08-12T01:14:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T00:45:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24140,
-    "updated_at": "2026-08-12T00:49:51Z",
+    "updated_at": "2026-08-12T01:02:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -207,6 +234,15 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-12T00:12:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T23:46:21Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8244,
-    "updated_at": "2026-08-12T00:50:13Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -421,32 +448,5 @@
     "stars": 791,
     "updated_at": "2026-08-11T22:45:02Z",
     "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:40:59Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:23:03Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "JavaScript",
-    "name": "SammyTourani/evestack",
-    "stars": 1,
-    "updated_at": "2026-08-11T22:21:18Z",
-    "url": "https://github.com/SammyTourani/evestack"
   }
 ]
