@@ -1,11 +1,47 @@
 [
   {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:58:06Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8251,
+    "updated_at": "2026-08-13T00:57:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2612,
+    "updated_at": "2026-08-13T00:54:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-13T00:44:42Z",
+    "updated_at": "2026-08-13T00:46:30Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-13T00:44:52Z",
+    "updated_at": "2026-08-13T00:59:29Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -27,21 +63,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:37:05Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56203,
-    "updated_at": "2026-08-13T00:43:01Z",
+    "updated_at": "2026-08-13T00:54:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T00:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21339,
-    "updated_at": "2026-08-13T00:22:52Z",
+    "updated_at": "2026-08-13T00:50:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -140,7 +158,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-13T00:09:41Z",
+    "updated_at": "2026-08-13T00:58:17Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-12T23:50:45Z",
+    "updated_at": "2026-08-13T00:57:36Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:38:45Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8251,
-    "updated_at": "2026-08-13T00:41:19Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:30:53Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:29:59Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
