@@ -1,5 +1,86 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-13T17:13:09Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T17:13:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33052,
+    "updated_at": "2026-08-13T17:09:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-13T17:03:48Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs",
+    "id": "ya-yara/codex-watchtower",
+    "language": "\u2014",
+    "name": "ya-yara/codex-watchtower",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:02:45Z",
+    "url": "https://github.com/ya-yara/codex-watchtower"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:09:35Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:01:32Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:00:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -18,13 +99,13 @@
     "url": "https://github.com/SConv11/watchy"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T16:58:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-13T16:59:31Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -45,13 +126,13 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:00:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-13T16:55:29Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T16:52:51Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:56:28Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -88,24 +160,6 @@
     "stars": 17,
     "updated_at": "2026-08-13T16:50:59Z",
     "url": "https://github.com/adepeju4/attest"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33051,
-    "updated_at": "2026-08-13T17:00:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
@@ -144,13 +198,13 @@
     "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
+    "description": "CI gate that blocks a pull request when RAG retrieval quality regresses and confirms when a change genuinely improved it",
+    "id": "sivananda1995/Rag-regression-gate",
     "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
+    "name": "sivananda1995/Rag-regression-gate",
     "stars": 0,
-    "updated_at": "2026-08-13T16:29:28Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+    "updated_at": "2026-08-13T16:30:33Z",
+    "url": "https://github.com/sivananda1995/Rag-regression-gate"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56266,
-    "updated_at": "2026-08-13T17:00:19Z",
+    "updated_at": "2026-08-13T17:13:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/KazKozDev/prompt-playoff"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-13T16:38:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -243,30 +288,12 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-13T16:55:29Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:59:31Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T16:53:06Z",
+    "updated_at": "2026-08-13T17:13:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7289,
-    "updated_at": "2026-08-13T16:42:00Z",
+    "updated_at": "2026-08-13T17:03:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,24 +311,15 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11033,
-    "updated_at": "2026-08-13T15:59:15Z",
+    "updated_at": "2026-08-13T17:10:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-13T16:58:46Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 739,
+    "stars": 746,
     "updated_at": "2026-08-13T15:36:48Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3508,
-    "updated_at": "2026-08-13T16:13:01Z",
+    "updated_at": "2026-08-13T17:02:46Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1667,
-    "updated_at": "2026-08-13T15:22:48Z",
+    "updated_at": "2026-08-13T17:12:27Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -364,7 +382,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1310,
+    "stars": 1311,
     "updated_at": "2026-08-13T15:19:54Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-13T15:53:38Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 5,
-    "updated_at": "2026-08-13T14:58:39Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-13T14:54:02Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
