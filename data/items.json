@@ -1,11 +1,74 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-13T15:35:41Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:35:14Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3508,
+    "updated_at": "2026-08-13T15:32:27Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2623,
+    "updated_at": "2026-08-13T15:31:49Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:31:33Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 715,
+    "updated_at": "2026-08-13T15:36:48Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33048,
-    "updated_at": "2026-08-13T15:29:43Z",
+    "updated_at": "2026-08-13T15:37:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11033,
-    "updated_at": "2026-08-13T15:27:22Z",
+    "updated_at": "2026-08-13T15:30:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,24 +133,6 @@
     "stars": 10,
     "updated_at": "2026-08-13T15:17:22Z",
     "url": "https://github.com/pabroux/llm-engineers-handbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:09:44Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Decision-grade comparison: LangSmith vs Langfuse vs Arize Phoenix vs Braintrust vs MLflow 3 for multi-team agent observa",
@@ -180,15 +225,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 714,
-    "updated_at": "2026-08-13T14:43:35Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-13T15:09:32Z",
+    "updated_at": "2026-08-13T15:35:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 56261,
     "updated_at": "2026-08-13T15:24:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-13T15:22:44Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -333,15 +360,6 @@
     "url": "https://github.com/KazKozDev/prompt-playoff"
   },
   {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
-    "language": "Python",
-    "name": "dshakes/clickllm",
-    "stars": 1,
-    "updated_at": "2026-08-13T15:23:54Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
     "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
     "id": "Zonastery/bursar",
     "language": "Python",
@@ -405,15 +423,6 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2623,
-    "updated_at": "2026-08-13T12:49:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
     "id": "sufengx/vera",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:45:26Z",
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:44:34Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   }
 ]
