@@ -1,11 +1,65 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-13T08:56:49Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
+    "id": "alexvervloet/deep-dive-capstone",
+    "language": "Python",
+    "name": "alexvervloet/deep-dive-capstone",
+    "stars": 1,
+    "updated_at": "2026-08-13T08:56:43Z",
+    "url": "https://github.com/alexvervloet/deep-dive-capstone"
+  },
+  {
+    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
+    "id": "wanmol/goal-flow",
+    "language": "Python",
+    "name": "wanmol/goal-flow",
+    "stars": 131,
+    "updated_at": "2026-08-13T08:55:08Z",
+    "url": "https://github.com/wanmol/goal-flow"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-13T08:54:53Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-13T08:54:02Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T08:49:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 584,
-    "updated_at": "2026-08-13T08:49:14Z",
+    "stars": 585,
+    "updated_at": "2026-08-13T08:59:02Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -18,39 +72,12 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-08-13T08:46:49Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T08:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-13T08:45:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7280,
-    "updated_at": "2026-08-13T08:49:22Z",
+    "updated_at": "2026-08-13T08:54:47Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T08:44:05Z",
+    "updated_at": "2026-08-13T08:52:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -67,7 +94,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8254,
+    "stars": 8255,
     "updated_at": "2026-08-13T08:38:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1664,
-    "updated_at": "2026-08-13T08:34:59Z",
+    "updated_at": "2026-08-13T08:50:26Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -104,17 +131,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33020,
-    "updated_at": "2026-08-13T08:48:40Z",
+    "updated_at": "2026-08-13T08:59:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
-    "id": "wanmol/goal-flow",
-    "language": "Python",
-    "name": "wanmol/goal-flow",
-    "stars": 131,
-    "updated_at": "2026-08-13T08:29:14Z",
-    "url": "https://github.com/wanmol/goal-flow"
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5694,
+    "updated_at": "2026-08-13T08:33:15Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21347,
-    "updated_at": "2026-08-13T08:14:51Z",
+    "updated_at": "2026-08-13T09:00:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/Nokimalos/rag-ci"
   },
   {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5693,
-    "updated_at": "2026-08-13T08:33:15Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
     "id": "asale-ai/llm-verify",
     "language": "Rust",
@@ -338,17 +356,8 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-13T08:49:24Z",
+    "updated_at": "2026-08-13T09:00:21Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-13T08:49:03Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11858,
-    "updated_at": "2026-08-13T08:40:57Z",
+    "updated_at": "2026-08-13T08:59:24Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T07:12:41Z",
     "url": "https://github.com/zudyog/the-applied-ai-engineer"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 80,
-    "updated_at": "2026-08-13T07:12:03Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
