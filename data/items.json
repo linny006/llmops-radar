@@ -1,12 +1,48 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2618,
+    "updated_at": "2026-08-13T03:59:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Deterministic AI prompt evaluation workbench with transparent fixtures, failure diffs, and optional provider boundaries.",
+    "id": "opanai404/evalforge-ai",
+    "language": "TypeScript",
+    "name": "opanai404/evalforge-ai",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:58:44Z",
+    "url": "https://github.com/opanai404/evalforge-ai"
+  },
+  {
+    "description": "A self-hosted Agent Skills marketplace",
+    "id": "nanoinfraorg/skills-server",
+    "language": "Go",
+    "name": "nanoinfraorg/skills-server",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:58:38Z",
+    "url": "https://github.com/nanoinfraorg/skills-server"
+  },
+  {
     "description": "Self-hosted autonomous AI assistant running 24/7 on a single 898MB VM \u2014 7-provider LLM failover, verified multi-step exe",
     "id": "rushikeshgoud19/MY-AI",
     "language": "Python",
     "name": "rushikeshgoud19/MY-AI",
     "stars": 2,
-    "updated_at": "2026-08-13T03:44:33Z",
+    "updated_at": "2026-08-13T03:57:59Z",
     "url": "https://github.com/rushikeshgoud19/MY-AI"
+  },
+  {
+    "description": "Safety-first context routing for AI agents. Exact facts stay exact while stale context takes an appropriate, explainable",
+    "id": "XioAISolutions/CrumbContext",
+    "language": "Python",
+    "name": "XioAISolutions/CrumbContext",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:56:24Z",
+    "url": "https://github.com/XioAISolutions/CrumbContext"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,8 +50,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-13T03:43:59Z",
+    "updated_at": "2026-08-13T03:51:58Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:50:23Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-13T03:46:05Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T03:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56212,
+    "updated_at": "2026-08-13T03:44:02Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -25,6 +97,15 @@
     "stars": 5749,
     "updated_at": "2026-08-13T03:44:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24185,
+    "updated_at": "2026-08-13T03:55:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -45,40 +126,13 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56210,
-    "updated_at": "2026-08-13T03:44:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24184,
-    "updated_at": "2026-08-13T03:43:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-13T03:39:42Z",
+    "updated_at": "2026-08-13T03:46:14Z",
     "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T03:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -104,7 +158,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-13T03:43:52Z",
+    "updated_at": "2026-08-13T03:52:00Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "A self-hosted Agent Skills marketplace",
-    "id": "nanoinfraorg/skills-server",
-    "language": "Go",
-    "name": "nanoinfraorg/skills-server",
-    "stars": 0,
-    "updated_at": "2026-08-13T03:16:11Z",
-    "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 7,
-    "updated_at": "2026-08-13T02:44:34Z",
+    "updated_at": "2026-08-13T03:59:05Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2618,
-    "updated_at": "2026-08-13T02:43:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AgentOps Evaluation & Observability Studio",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11856,
-    "updated_at": "2026-08-13T03:45:09Z",
+    "updated_at": "2026-08-13T03:54:25Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 21342,
     "updated_at": "2026-08-13T00:50:50Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:46:30Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 76,
-    "updated_at": "2026-08-13T03:06:59Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-13T00:43:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7273,
-    "updated_at": "2026-08-13T00:41:51Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
