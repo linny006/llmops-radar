@@ -1,29 +1,11 @@
 [
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-13T01:15:14Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29661,
-    "updated_at": "2026-08-13T01:12:54Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "JavaScript",
     "name": "jasonneo99/agent-workflow",
     "stars": 0,
-    "updated_at": "2026-08-13T01:11:18Z",
+    "updated_at": "2026-08-13T01:29:26Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
@@ -31,9 +13,99 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11020,
-    "updated_at": "2026-08-13T01:12:57Z",
+    "stars": 11021,
+    "updated_at": "2026-08-13T01:28:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:22:22Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:22:16Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56203,
+    "updated_at": "2026-08-13T01:21:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29661,
+    "updated_at": "2026-08-13T01:20:05Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-13T01:17:26Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8251,
+    "updated_at": "2026-08-13T01:17:14Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-13T01:21:08Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
+    "id": "Tches-git/CodeEvo",
+    "language": "Python",
+    "name": "Tches-git/CodeEvo",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:10:52Z",
+    "url": "https://github.com/Tches-git/CodeEvo"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24184,
+    "updated_at": "2026-08-13T01:06:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -45,58 +117,13 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T01:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:58:06Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8251,
-    "updated_at": "2026-08-13T00:57:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56204,
-    "updated_at": "2026-08-13T00:54:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2612,
-    "updated_at": "2026-08-13T00:54:39Z",
+    "updated_at": "2026-08-13T01:26:48Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24183,
-    "updated_at": "2026-08-13T01:06:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -130,7 +157,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7269,
+    "stars": 7270,
     "updated_at": "2026-08-13T00:41:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -160,15 +187,6 @@
     "stars": 30,
     "updated_at": "2026-08-13T00:33:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:29:48Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -238,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32987,
+    "stars": 32988,
     "updated_at": "2026-08-13T00:02:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-13T00:57:36Z",
+    "updated_at": "2026-08-13T01:23:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T23:46:08Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1063,
-    "updated_at": "2026-08-12T22:54:06Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:48:46Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
   }
 ]
