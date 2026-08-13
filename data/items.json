@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T18:58:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33053,
-    "updated_at": "2026-08-13T18:44:53Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-13T18:59:23Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -14,17 +23,8 @@
     "language": "HTML",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-13T18:39:11Z",
+    "updated_at": "2026-08-13T18:55:25Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 8,
-    "updated_at": "2026-08-13T18:39:05Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -32,8 +32,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-13T18:37:43Z",
+    "updated_at": "2026-08-13T18:54:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-08-13T18:51:03Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -41,8 +50,26 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-13T18:36:35Z",
+    "updated_at": "2026-08-13T18:49:59Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 781,
+    "updated_at": "2026-08-13T18:49:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-13T18:49:40Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +77,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T18:36:29Z",
+    "updated_at": "2026-08-13T18:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33053,
+    "updated_at": "2026-08-13T18:46:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 8,
+    "updated_at": "2026-08-13T18:53:25Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21355,
+    "updated_at": "2026-08-13T18:46:29Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29675,
-    "updated_at": "2026-08-13T18:22:33Z",
+    "updated_at": "2026-08-13T18:47:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24206,
-    "updated_at": "2026-08-13T18:17:02Z",
+    "updated_at": "2026-08-13T19:00:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:54:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -169,15 +214,6 @@
     "stars": 2686,
     "updated_at": "2026-08-13T17:48:08Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3487,
-    "updated_at": "2026-08-13T18:43:04Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7291,
-    "updated_at": "2026-08-13T18:38:34Z",
+    "updated_at": "2026-08-13T18:52:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -302,7 +338,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-13T18:36:39Z",
+    "updated_at": "2026-08-13T18:58:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21354,
-    "updated_at": "2026-08-13T18:37:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
     "id": "Sentragent/sentragent-sdk",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 82,
     "updated_at": "2026-08-13T16:49:25Z",
     "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27502,
-    "updated_at": "2026-08-13T16:25:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-hosted AI platform for companies: connect any provider and model, run and govern agents, track token spend, and gro",
-    "id": "maestrokj/Achilles",
-    "language": "Python",
-    "name": "maestrokj/Achilles",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:22:22Z",
-    "url": "https://github.com/maestrokj/Achilles"
-  },
-  {
-    "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
-    "id": "clearml/clearml-agent",
-    "language": "Python",
-    "name": "clearml/clearml-agent",
-    "stars": 311,
-    "updated_at": "2026-08-13T16:16:27Z",
-    "url": "https://github.com/clearml/clearml-agent"
   }
 ]
