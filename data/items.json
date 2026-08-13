@@ -1,11 +1,65 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-13T03:12:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56208,
+    "updated_at": "2026-08-13T03:13:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24184,
+    "updated_at": "2026-08-13T03:10:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-13T03:06:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5749,
+    "updated_at": "2026-08-13T03:08:25Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T03:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 12,
-    "updated_at": "2026-08-13T02:58:25Z",
+    "updated_at": "2026-08-13T03:06:36Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -16,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T02:57:35Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56208,
-    "updated_at": "2026-08-13T02:49:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8252,
-    "updated_at": "2026-08-13T02:38:15Z",
+    "updated_at": "2026-08-13T03:13:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 30,
     "updated_at": "2026-08-13T02:28:24Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24184,
-    "updated_at": "2026-08-13T02:27:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -205,15 +232,6 @@
     "stars": 54,
     "updated_at": "2026-08-13T02:06:17Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5749,
-    "updated_at": "2026-08-13T02:25:01Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -351,6 +369,15 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21340,
+    "updated_at": "2026-08-13T00:50:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
     "id": "brunovicco/verifiable-ai-governance",
     "language": "Python",
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-13T02:30:05Z",
+    "updated_at": "2026-08-13T03:06:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -382,7 +409,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7271,
+    "stars": 7272,
     "updated_at": "2026-08-13T00:41:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -405,21 +432,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21339,
-    "updated_at": "2026-08-13T00:50:50Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 98,
-    "updated_at": "2026-08-13T02:56:53Z",
+    "updated_at": "2026-08-13T03:09:06Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -427,26 +445,8 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1660,
+    "stars": 1661,
     "updated_at": "2026-08-13T00:18:15Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-13T00:14:39Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:04:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   }
 ]
