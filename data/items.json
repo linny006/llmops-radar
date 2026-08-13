@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8259,
+    "updated_at": "2026-08-13T18:27:27Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T18:24:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56269,
+    "updated_at": "2026-08-13T18:22:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29675,
+    "updated_at": "2026-08-13T18:22:33Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T18:18:37Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-13T18:28:16Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T18:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
     "id": "alinafe82/persistent-cognitive-infrastructure",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56268,
-    "updated_at": "2026-08-13T18:15:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24206,
-    "updated_at": "2026-08-13T18:10:17Z",
+    "updated_at": "2026-08-13T18:17:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T18:00:45Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T18:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T18:15:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-13T18:05:08Z",
+    "updated_at": "2026-08-13T18:28:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7291,
-    "updated_at": "2026-08-13T18:09:50Z",
+    "updated_at": "2026-08-13T18:30:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,17 +239,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33053,
-    "updated_at": "2026-08-13T18:15:12Z",
+    "updated_at": "2026-08-13T18:26:38Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8259,
-    "updated_at": "2026-08-13T17:55:05Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -257,7 +284,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-13T18:11:14Z",
+    "updated_at": "2026-08-13T18:29:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21354,
-    "updated_at": "2026-08-13T16:51:33Z",
+    "updated_at": "2026-08-13T18:22:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T16:06:20Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 45,
-    "updated_at": "2026-08-13T16:04:09Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11033,
-    "updated_at": "2026-08-13T18:03:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 770,
-    "updated_at": "2026-08-13T15:36:48Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
