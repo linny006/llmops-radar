@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
+    "description": "CI gate that blocks a pull request when RAG retrieval quality regresses and confirms when a change genuinely improved it",
+    "id": "sivananda1995/Rag-regression-gate",
+    "language": "Python",
+    "name": "sivananda1995/Rag-regression-gate",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:14:48Z",
+    "url": "https://github.com/sivananda1995/Rag-regression-gate"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
     "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-13T19:59:45Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "name": "api7/aisix",
+    "stars": 101,
+    "updated_at": "2026-08-13T20:12:10Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
@@ -14,8 +23,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-13T19:58:47Z",
+    "updated_at": "2026-08-13T20:11:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56273,
+    "updated_at": "2026-08-13T20:08:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33054,
+    "updated_at": "2026-08-13T20:06:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:04:16Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 1,
+    "updated_at": "2026-08-13T20:03:11Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-13T19:59:45Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -36,15 +99,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:55:37Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -52,42 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T19:54:29Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
-    "id": "KazKozDev/prompt-playoff",
-    "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
-    "stars": 1,
-    "updated_at": "2026-08-13T20:00:22Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56272,
-    "updated_at": "2026-08-13T19:59:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 101,
-    "updated_at": "2026-08-13T19:48:03Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T19:45:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -112,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 812,
+    "stars": 815,
     "updated_at": "2026-08-13T19:35:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-13T19:56:20Z",
+    "updated_at": "2026-08-13T20:11:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -229,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24207,
+    "stars": 24208,
     "updated_at": "2026-08-13T19:23:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -295,6 +313,15 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:18:54Z",
     "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7292,
+    "updated_at": "2026-08-13T19:17:14Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -387,15 +414,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7292,
-    "updated_at": "2026-08-13T19:17:14Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29677,
-    "updated_at": "2026-08-13T18:47:01Z",
+    "updated_at": "2026-08-13T20:13:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 21357,
     "updated_at": "2026-08-13T18:46:29Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33053,
-    "updated_at": "2026-08-13T19:56:22Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 8,
-    "updated_at": "2026-08-13T18:53:25Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
