@@ -5,8 +5,71 @@
     "language": "TypeScript",
     "name": "evilstar2016/skill-doctor",
     "stars": 5,
-    "updated_at": "2026-08-13T09:42:06Z",
+    "updated_at": "2026-08-13T09:59:19Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27498,
+    "updated_at": "2026-08-13T09:58:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33030,
+    "updated_at": "2026-08-13T09:59:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:53:27Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-13T09:56:21Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7280,
+    "updated_at": "2026-08-13T09:59:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2621,
+    "updated_at": "2026-08-13T09:46:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
@@ -23,26 +86,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T09:37:24Z",
+    "updated_at": "2026-08-13T09:51:17Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33025,
-    "updated_at": "2026-08-13T09:43:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T09:29:50Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27497,
-    "updated_at": "2026-08-13T09:36:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21347,
-    "updated_at": "2026-08-13T09:45:16Z",
+    "updated_at": "2026-08-13T09:45:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 34,
     "updated_at": "2026-08-13T09:06:09Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7280,
-    "updated_at": "2026-08-13T09:39:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
@@ -158,17 +185,8 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-13T08:54:02Z",
+    "updated_at": "2026-08-13T09:45:57Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-13T09:37:17Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8255,
-    "updated_at": "2026-08-13T09:13:28Z",
+    "updated_at": "2026-08-13T09:45:25Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -239,7 +257,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-13T08:24:27Z",
+    "updated_at": "2026-08-13T10:00:04Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 120,
-    "updated_at": "2026-08-13T09:29:51Z",
+    "updated_at": "2026-08-13T09:59:30Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T08:00:23Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2621,
-    "updated_at": "2026-08-13T07:56:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Regression testing and configuration sweeps for RAG pipelines, with the statistics to know whether a change actually hel",
@@ -382,7 +391,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56243,
+    "stars": 56246,
     "updated_at": "2026-08-13T07:44:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -392,7 +401,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-13T09:41:13Z",
+    "updated_at": "2026-08-13T10:00:08Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-13T09:32:06Z",
+    "updated_at": "2026-08-13T09:51:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2685,
     "updated_at": "2026-08-13T07:53:19Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 49,
-    "updated_at": "2026-08-13T07:17:49Z",
-    "url": "https://github.com/sxueck/llm-gateway"
   }
 ]
