@@ -1,5 +1,77 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T17:38:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:37:04Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
+    "id": "alinafe82/persistent-cognitive-infrastructure",
+    "language": "Python",
+    "name": "alinafe82/persistent-cognitive-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:38:25Z",
+    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
+  },
+  {
+    "description": "Multi-table RAG QA telemetry + decision-grade RAG Ops notebook for retrieval attribution, hallucination risk slicing, an",
+    "id": "tarekmasryo/rag-qa-logs-and-corpus",
+    "language": "Jupyter Notebook",
+    "name": "tarekmasryo/rag-qa-logs-and-corpus",
+    "stars": 3,
+    "updated_at": "2026-08-13T17:31:53Z",
+    "url": "https://github.com/tarekmasryo/rag-qa-logs-and-corpus"
+  },
+  {
+    "description": "Decision-ready LLMOps telemetry dashboard for reliability, latency, cost, routing-policy review, triage thresholds, drif",
+    "id": "tarekmasryo/llmops-telemetry-command-center",
+    "language": "Python",
+    "name": "tarekmasryo/llmops-telemetry-command-center",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:31:45Z",
+    "url": "https://github.com/tarekmasryo/llmops-telemetry-command-center"
+  },
+  {
+    "description": "Synthetic multi-table RAG QA telemetry benchmark (corpus\u2192chunks\u2192retrieval\u2192eval): labels for correctness/faithfulness/hal",
+    "id": "tarekmasryo/rag-qa-logs-corpus-data",
+    "language": "Python",
+    "name": "tarekmasryo/rag-qa-logs-corpus-data",
+    "stars": 3,
+    "updated_at": "2026-08-13T17:31:32Z",
+    "url": "https://github.com/tarekmasryo/rag-qa-logs-corpus-data"
+  },
+  {
+    "description": "Production-grade synthetic dataset for LLMOps: interaction-level telemetry (latency/cost/tokens), failure RCA, tool-use ",
+    "id": "tarekmasryo/llm-system-ops-production-telemetry-sft-data",
+    "language": "Python",
+    "name": "tarekmasryo/llm-system-ops-production-telemetry-sft-data",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:31:30Z",
+    "url": "https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
     "id": "NadeemAhmad3/AI-Engineering-Lab",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T17:29:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56266,
-    "updated_at": "2026-08-13T17:29:30Z",
+    "updated_at": "2026-08-13T17:33:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,6 +106,15 @@
     "stars": 17,
     "updated_at": "2026-08-13T17:27:31Z",
     "url": "https://github.com/adepeju4/attest"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7290,
+    "updated_at": "2026-08-13T17:26:36Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:16:14Z",
     "url": "https://github.com/sivananda1995/llm-spend-attributor"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -329,17 +392,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T17:26:51Z",
+    "updated_at": "2026-08-13T17:33:15Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7289,
-    "updated_at": "2026-08-13T17:26:36Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -355,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 750,
+    "stars": 752,
     "updated_at": "2026-08-13T15:36:48Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -394,59 +448,5 @@
     "stars": 2623,
     "updated_at": "2026-08-13T16:33:45Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1063,
-    "updated_at": "2026-08-13T15:29:11Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1667,
-    "updated_at": "2026-08-13T17:12:27Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1312,
-    "updated_at": "2026-08-13T15:19:54Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 8,
-    "updated_at": "2026-08-13T15:29:08Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:19:29Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-13T15:18:09Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
