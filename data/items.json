@@ -1,5 +1,167 @@
 [
   {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:44:34Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24198,
+    "updated_at": "2026-08-13T12:44:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:41:02Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:39:22Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:37:30Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
+    "id": "retardingforcerightbank635/dm-gateway-bot",
+    "language": "Python",
+    "name": "retardingforcerightbank635/dm-gateway-bot",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:36:00Z",
+    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
+    "id": "waalwalker1/knovaryn",
+    "language": "Python",
+    "name": "waalwalker1/knovaryn",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:40:11Z",
+    "url": "https://github.com/waalwalker1/knovaryn"
+  },
+  {
+    "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
+    "id": "harshadmehmood/ai-engineering-academy",
+    "language": "JavaScript",
+    "name": "harshadmehmood/ai-engineering-academy",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:35:23Z",
+    "url": "https://github.com/harshadmehmood/ai-engineering-academy"
+  },
+  {
+    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
+    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "language": "Python",
+    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:34:35Z",
+    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
+  },
+  {
+    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
+    "id": "wordenneapolitan768/llm-pricing",
+    "language": "\u2014",
+    "name": "wordenneapolitan768/llm-pricing",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:34:33Z",
+    "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-13T12:32:46Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-13T12:44:34Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
+    "id": "Orlyoxidized462/py-prompt-versioner",
+    "language": "Python",
+    "name": "Orlyoxidized462/py-prompt-versioner",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:32:21Z",
+    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33039,
+    "updated_at": "2026-08-13T12:43:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
+    "id": "Citrous-districtline59/agent-trace",
+    "language": "Python",
+    "name": "Citrous-districtline59/agent-trace",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:32:04Z",
+    "url": "https://github.com/Citrous-districtline59/agent-trace"
+  },
+  {
+    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
+    "id": "Impure-platen433/crabllm",
+    "language": "Rust",
+    "name": "Impure-platen433/crabllm",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:31:51Z",
+    "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
+    "id": "recordrnase224/brix-protocol",
+    "language": "Python",
+    "name": "recordrnase224/brix-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:31:45Z",
+    "url": "https://github.com/recordrnase224/brix-protocol"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -18,15 +180,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:27:53Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -34,15 +187,6 @@
     "stars": 21350,
     "updated_at": "2026-08-13T12:25:47Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:24:44Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -59,7 +203,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 12,
-    "updated_at": "2026-08-13T12:22:02Z",
+    "updated_at": "2026-08-13T12:45:17Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -153,15 +297,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T12:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "chowki \u2014 durable execution for LLM agents: crash recovery, step memoization, human approval gates, secret redaction, and",
     "id": "Git-Uzair/chowki",
     "language": "Python",
@@ -176,17 +311,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T12:26:39Z",
+    "updated_at": "2026-08-13T12:43:40Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-13T12:18:35Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -194,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7286,
-    "updated_at": "2026-08-13T12:16:08Z",
+    "updated_at": "2026-08-13T12:39:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -205,33 +331,6 @@
     "stars": 690,
     "updated_at": "2026-08-13T12:06:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
-    "id": "harshadmehmood/ai-engineering-academy",
-    "language": "JavaScript",
-    "name": "harshadmehmood/ai-engineering-academy",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:06:45Z",
-    "url": "https://github.com/harshadmehmood/ai-engineering-academy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33038,
-    "updated_at": "2026-08-13T12:29:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
-    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "language": "Python",
-    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:05:24Z",
-    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T12:22:21Z",
+    "updated_at": "2026-08-13T12:43:05Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -284,7 +383,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-13T11:51:35Z",
+    "updated_at": "2026-08-13T12:40:48Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-13T12:18:13Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8257,
-    "updated_at": "2026-08-13T11:15:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5555,
-    "updated_at": "2026-08-13T11:09:30Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:51:04Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-13T11:06:14Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27501,
-    "updated_at": "2026-08-13T11:04:50Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
-    "id": "waalwalker1/knovaryn",
-    "language": "Python",
-    "name": "waalwalker1/knovaryn",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:28:46Z",
-    "url": "https://github.com/waalwalker1/knovaryn"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56255,
-    "updated_at": "2026-08-13T10:59:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted AI platform for companies: connect any provider and model, run and govern agents, track token spend, and gro",
-    "id": "maestrokj/Achilles",
-    "language": "Python",
-    "name": "maestrokj/Achilles",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:45:22Z",
-    "url": "https://github.com/maestrokj/Achilles"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-08-13T10:37:51Z",
-    "url": "https://github.com/ur-grue/toptop"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 45,
-    "updated_at": "2026-08-13T10:26:22Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1141,
-    "updated_at": "2026-08-13T10:22:03Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
