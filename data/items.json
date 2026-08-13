@@ -1,21 +1,75 @@
 [
   {
-    "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
-    "id": "harshadmehmood/ai-engineering-academy",
-    "language": "JavaScript",
-    "name": "harshadmehmood/ai-engineering-academy",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:04:15Z",
-    "url": "https://github.com/harshadmehmood/ai-engineering-academy"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21346,
-    "updated_at": "2026-08-13T11:03:15Z",
+    "updated_at": "2026-08-13T11:10:54Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 99,
+    "updated_at": "2026-08-13T11:10:10Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7281,
+    "updated_at": "2026-08-13T11:15:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:07:10Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-13T11:06:14Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:05:57Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T11:05:48Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
+    "id": "harshadmehmood/ai-engineering-academy",
+    "language": "JavaScript",
+    "name": "harshadmehmood/ai-engineering-academy",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:15:17Z",
+    "url": "https://github.com/harshadmehmood/ai-engineering-academy"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "waalwalker1/knovaryn",
     "stars": 1,
-    "updated_at": "2026-08-13T11:00:36Z",
+    "updated_at": "2026-08-13T11:12:18Z",
     "url": "https://github.com/waalwalker1/knovaryn"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -86,17 +131,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T11:01:45Z",
+    "updated_at": "2026-08-13T11:06:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:03:11Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -144,21 +180,12 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T11:05:48Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2621,
-    "updated_at": "2026-08-13T10:09:59Z",
+    "updated_at": "2026-08-13T11:14:19Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 54,
     "updated_at": "2026-08-13T10:06:20Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-13T10:05:06Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T09:53:27Z",
     "url": "https://github.com/SConv11/watchy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7280,
-    "updated_at": "2026-08-13T10:12:34Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Graph-Orchestrated Agent Loop \u2014 a production-grade framework on LangGraph. Combine workflow graphs and agent loops, tran",
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8255,
-    "updated_at": "2026-08-13T09:45:25Z",
+    "updated_at": "2026-08-13T11:15:07Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1664,
-    "updated_at": "2026-08-13T11:04:27Z",
+    "updated_at": "2026-08-13T11:11:32Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5554,
-    "updated_at": "2026-08-13T11:00:50Z",
+    "updated_at": "2026-08-13T11:09:30Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 14,
     "updated_at": "2026-08-13T07:54:45Z",
     "url": "https://github.com/Nokimalos/rag-ci"
-  },
-  {
-    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
-    "id": "asale-ai/llm-verify",
-    "language": "Rust",
-    "name": "asale-ai/llm-verify",
-    "stars": 1,
-    "updated_at": "2026-08-13T07:46:58Z",
-    "url": "https://github.com/asale-ai/llm-verify"
   }
 ]
