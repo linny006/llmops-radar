@@ -1,12 +1,75 @@
 [
   {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 45,
-    "updated_at": "2026-08-13T10:26:22Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
+    "description": "Self-hosted AI platform for companies: connect any provider and model, run and govern agents, track token spend, and gro",
+    "id": "maestrokj/Achilles",
+    "language": "Python",
+    "name": "maestrokj/Achilles",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:45:22Z",
+    "url": "https://github.com/maestrokj/Achilles"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27498,
+    "updated_at": "2026-08-13T10:44:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-13T10:44:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:38:46Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-13T10:38:40Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
+    "id": "ur-grue/toptop",
+    "language": "Rust",
+    "name": "ur-grue/toptop",
+    "stars": 1,
+    "updated_at": "2026-08-13T10:37:51Z",
+    "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:33:24Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -18,22 +81,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:16:49Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 45,
+    "updated_at": "2026-08-13T10:26:22Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33032,
-    "updated_at": "2026-08-13T10:20:21Z",
+    "updated_at": "2026-08-13T10:40:32Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-13T10:28:55Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -90,15 +135,6 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:04:37Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
     "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
     "id": "Prime-agentai/agent-approval-gate",
     "language": "Python",
@@ -126,15 +162,6 @@
     "url": "https://github.com/evilstar2016/skill-doctor"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27498,
-    "updated_at": "2026-08-13T10:21:41Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
     "id": "SConv11/watchy",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T09:53:27Z",
     "url": "https://github.com/SConv11/watchy"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-13T10:11:15Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T10:16:22Z",
+    "updated_at": "2026-08-13T10:32:32Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21347,
-    "updated_at": "2026-08-13T10:22:48Z",
+    "updated_at": "2026-08-13T10:37:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-13T09:06:09Z",
+    "updated_at": "2026-08-13T10:40:12Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 2562,
     "updated_at": "2026-08-13T09:03:24Z",
     "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:34:36Z",
-    "url": "https://github.com/ur-grue/toptop"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -436,17 +445,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56250,
+    "stars": 56251,
     "updated_at": "2026-08-13T07:44:29Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted OpenAI-compatible AI gateway and MCP server for Codex, Cursor and Cline, with local prompt enhancement and p",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 4,
-    "updated_at": "2026-08-13T10:30:22Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   }
 ]
