@@ -1,5 +1,68 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-13T09:29:50Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27497,
+    "updated_at": "2026-08-13T09:28:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33023,
+    "updated_at": "2026-08-13T09:26:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 4,
+    "updated_at": "2026-08-13T09:27:00Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:21:23Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-13T09:26:37Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -23,17 +86,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21347,
-    "updated_at": "2026-08-13T09:08:21Z",
+    "updated_at": "2026-08-13T09:25:01Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33021,
-    "updated_at": "2026-08-13T09:12:10Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -50,17 +104,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7280,
-    "updated_at": "2026-08-13T09:07:01Z",
+    "updated_at": "2026-08-13T09:19:28Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T08:56:49Z",
+    "updated_at": "2026-08-13T09:19:41Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -108,21 +153,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:49:13Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T09:09:43Z",
+    "updated_at": "2026-08-13T09:20:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-13T09:14:19Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
     "id": "clearml/clearml-agent",
     "language": "Python",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "apache/burr",
     "stars": 2509,
-    "updated_at": "2026-08-13T08:49:19Z",
+    "updated_at": "2026-08-13T09:27:06Z",
     "url": "https://github.com/apache/burr"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27497,
-    "updated_at": "2026-08-13T09:05:08Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -250,15 +268,6 @@
     "stars": 76,
     "updated_at": "2026-08-13T08:12:52Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
-    "id": "SignalLayerLabs/Marginal",
-    "language": "Python",
-    "name": "SignalLayerLabs/Marginal",
-    "stars": 4,
-    "updated_at": "2026-08-13T09:13:04Z",
-    "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -275,7 +284,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 120,
-    "updated_at": "2026-08-13T08:08:37Z",
+    "updated_at": "2026-08-13T09:29:51Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -364,7 +373,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56240,
+    "stars": 56241,
     "updated_at": "2026-08-13T07:44:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -374,7 +383,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-13T09:14:44Z",
+    "updated_at": "2026-08-13T09:23:41Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11858,
-    "updated_at": "2026-08-13T09:13:46Z",
+    "updated_at": "2026-08-13T09:29:05Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-13T07:13:35Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   }
 ]
