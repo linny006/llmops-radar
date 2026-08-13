@@ -5,17 +5,89 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27495,
-    "updated_at": "2026-08-13T06:59:12Z",
+    "updated_at": "2026-08-13T07:15:17Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:14:30Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-13T07:13:35Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Production RAG chatbot in Python \u2014 hybrid search (Qdrant + BM25), cross-encoder reranking, Redis session memory, and RAG",
+    "id": "zudyog/the-applied-ai-engineer",
+    "language": "Python",
+    "name": "zudyog/the-applied-ai-engineer",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:12:41Z",
+    "url": "https://github.com/zudyog/the-applied-ai-engineer"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 80,
+    "updated_at": "2026-08-13T07:12:03Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1664,
+    "updated_at": "2026-08-13T07:14:23Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21344,
+    "updated_at": "2026-08-13T07:09:52Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56226,
-    "updated_at": "2026-08-13T06:59:42Z",
+    "stars": 56227,
+    "updated_at": "2026-08-13T07:13:53Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 11,
+    "updated_at": "2026-08-13T07:01:26Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -31,7 +103,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33010,
+    "stars": 33012,
     "updated_at": "2026-08-13T06:52:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -54,31 +126,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-13T06:57:00Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
     "name": "8monkey-ai/hebo-gateway",
     "stars": 25,
-    "updated_at": "2026-08-13T06:46:56Z",
+    "updated_at": "2026-08-13T07:08:52Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "Tches-git/CodeEvo",
     "stars": 0,
-    "updated_at": "2026-08-13T06:40:23Z",
+    "updated_at": "2026-08-13T07:14:45Z",
     "url": "https://github.com/Tches-git/CodeEvo"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1664,
-    "updated_at": "2026-08-13T06:47:40Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11857,
-    "updated_at": "2026-08-13T06:35:53Z",
+    "updated_at": "2026-08-13T07:05:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -149,17 +194,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8253,
-    "updated_at": "2026-08-13T06:30:01Z",
+    "updated_at": "2026-08-13T07:14:18Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:29:17Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "The emergency brake for multi-agent systems. Stop runaway LangChain & CrewAI agents before they burn your budget.",
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5692,
-    "updated_at": "2026-08-13T06:13:05Z",
+    "updated_at": "2026-08-13T07:13:21Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T06:09:18Z",
+    "updated_at": "2026-08-13T07:14:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21344,
-    "updated_at": "2026-08-13T05:42:10Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
     "id": "thesecretrapper786-netizen/catalyst-n1",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T05:35:12Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29664,
-    "updated_at": "2026-08-13T05:31:40Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:30:30Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:29:46Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
   }
 ]
