@@ -1,5 +1,32 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T16:32:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-13T16:33:35Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T16:29:28Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T16:28:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 451,
-    "updated_at": "2026-08-13T16:27:13Z",
+    "updated_at": "2026-08-13T16:31:13Z",
     "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56266,
+    "updated_at": "2026-08-13T16:24:48Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -81,15 +108,6 @@
     "url": "https://github.com/Sentragent/sentragent-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
     "id": "KazKozDev/prompt-playoff",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33048,
-    "updated_at": "2026-08-13T16:29:44Z",
+    "updated_at": "2026-08-13T16:31:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T16:24:10Z",
+    "updated_at": "2026-08-13T16:33:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-13T15:53:01Z",
+    "updated_at": "2026-08-13T16:32:38Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -257,17 +275,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2623,
-    "updated_at": "2026-08-13T16:17:21Z",
+    "updated_at": "2026-08-13T16:33:45Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56265,
-    "updated_at": "2026-08-13T16:24:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-13T14:54:43Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
-    "id": "harshadmehmood/ai-engineering-academy",
-    "language": "JavaScript",
-    "name": "harshadmehmood/ai-engineering-academy",
-    "stars": 0,
-    "updated_at": "2026-08-13T14:09:14Z",
-    "url": "https://github.com/harshadmehmood/ai-engineering-academy"
   }
 ]
