@@ -1,5 +1,104 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-13T12:57:23Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 12,
+    "updated_at": "2026-08-13T12:56:35Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:55:57Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 691,
+    "updated_at": "2026-08-13T12:53:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
+    "id": "waalwalker1/knovaryn",
+    "language": "Python",
+    "name": "waalwalker1/knovaryn",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:52:24Z",
+    "url": "https://github.com/waalwalker1/knovaryn"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-13T12:52:58Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Open-source observability platform for production AI systems. Detect model drift, diagnose failures, and automatically m",
+    "id": "sufengx/vera",
+    "language": "Python",
+    "name": "sufengx/vera",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:48:12Z",
+    "url": "https://github.com/sufengx/vera"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-13T13:00:17Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5695,
+    "updated_at": "2026-08-13T12:45:39Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:45:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:45:26Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -16,15 +115,6 @@
     "stars": 24198,
     "updated_at": "2026-08-13T12:44:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:41:02Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:36:00Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
-    "id": "waalwalker1/knovaryn",
-    "language": "Python",
-    "name": "waalwalker1/knovaryn",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:40:11Z",
-    "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
     "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
@@ -99,15 +180,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-13T12:44:34Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33039,
-    "updated_at": "2026-08-13T12:43:55Z",
+    "updated_at": "2026-08-13T12:58:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/recordrnase224/brix-protocol"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T12:30:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21350,
-    "updated_at": "2026-08-13T12:25:47Z",
+    "updated_at": "2026-08-13T12:46:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T12:23:18Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 12,
-    "updated_at": "2026-08-13T12:45:17Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -239,7 +293,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2622,
-    "updated_at": "2026-08-13T12:20:55Z",
+    "updated_at": "2026-08-13T12:49:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -256,7 +310,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1303,
+    "stars": 1304,
     "updated_at": "2026-08-13T12:19:54Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T12:43:40Z",
+    "updated_at": "2026-08-13T12:54:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -320,17 +374,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7286,
-    "updated_at": "2026-08-13T12:39:08Z",
+    "updated_at": "2026-08-13T12:54:05Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 690,
-    "updated_at": "2026-08-13T12:06:50Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "dshakes/clickllm",
     "stars": 1,
-    "updated_at": "2026-08-13T12:05:16Z",
+    "updated_at": "2026-08-13T12:54:17Z",
     "url": "https://github.com/dshakes/clickllm"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T12:43:05Z",
+    "updated_at": "2026-08-13T12:59:46Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -383,7 +428,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-13T12:40:48Z",
+    "updated_at": "2026-08-13T12:46:04Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T11:43:21Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1664,
-    "updated_at": "2026-08-13T12:26:02Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
-    "id": "NadeemAhmad3/AI-Engineering-Lab",
-    "language": "Python",
-    "name": "NadeemAhmad3/AI-Engineering-Lab",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:29:49Z",
-    "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:27:12Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-13T11:27:42Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-13T12:18:13Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
