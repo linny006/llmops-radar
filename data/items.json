@@ -1,12 +1,75 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24212,
+    "updated_at": "2026-08-13T23:14:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T23:14:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-13T23:13:52Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:13:10Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI Agent hooks for LLM Observability.",
+    "id": "HikaruEgashira/otel-hooks",
+    "language": "Python",
+    "name": "HikaruEgashira/otel-hooks",
+    "stars": 9,
+    "updated_at": "2026-08-13T23:12:55Z",
+    "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-13T23:09:05Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T23:00:26Z",
+    "updated_at": "2026-08-13T23:01:12Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56275,
+    "updated_at": "2026-08-13T23:14:28Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -16,15 +79,6 @@
     "stars": 76,
     "updated_at": "2026-08-13T22:59:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T22:59:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-13T22:58:45Z",
+    "updated_at": "2026-08-13T23:13:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:53:05Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 1063,
     "updated_at": "2026-08-13T22:41:34Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-13T22:34:49Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -130,7 +166,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33059,
+    "stars": 33060,
     "updated_at": "2026-08-13T22:34:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56274,
-    "updated_at": "2026-08-13T23:00:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/clickllm",
     "language": "Python",
@@ -171,15 +198,6 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24212,
-    "updated_at": "2026-08-13T23:00:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Padrao aberto para governar sistemas com agentes de IA: invariantes de seguranca e de custo impostos por codigo, nao por",
     "id": "MCorsato78/constituicao-executavel",
     "language": "Python",
@@ -187,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-08-13T22:12:59Z",
     "url": "https://github.com/MCorsato78/constituicao-executavel"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7294,
+    "updated_at": "2026-08-13T22:12:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -216,15 +243,6 @@
     "url": "https://github.com/justin-rhee/attest-check"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7293,
-    "updated_at": "2026-08-13T22:12:49Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "JavaScript",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:35:02Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-13T22:41:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "OpenTelemetry + Wireshark + Cloudflare for AI Agents. Monitor, inspect, secure, replay, and optimize all traffic between",
@@ -409,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 870,
+    "stars": 873,
     "updated_at": "2026-08-13T19:35:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-13T19:32:39Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "A secure file system for your agents to execute code",
-    "id": "Tako-Research/TakoVM",
-    "language": "Python",
-    "name": "Tako-Research/TakoVM",
-    "stars": 84,
-    "updated_at": "2026-08-13T19:33:20Z",
-    "url": "https://github.com/Tako-Research/TakoVM"
   }
 ]
