@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
+    "id": "Sentragent/sentragent-sdk",
+    "language": "Python",
+    "name": "Sentragent/sentragent-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:44:34Z",
+    "url": "https://github.com/Sentragent/sentragent-sdk"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11033,
+    "updated_at": "2026-08-13T15:43:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-13T15:42:53Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7289,
+    "updated_at": "2026-08-13T15:38:06Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:37:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33048,
+    "updated_at": "2026-08-13T15:43:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 715,
+    "updated_at": "2026-08-13T15:36:48Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -45,31 +108,13 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 715,
-    "updated_at": "2026-08-13T15:36:48Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33048,
-    "updated_at": "2026-08-13T15:37:10Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "BerriAI/litellm",
+    "stars": 56263,
+    "updated_at": "2026-08-13T15:24:25Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T15:18:09Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11033,
-    "updated_at": "2026-08-13T15:30:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM Engineer's Handbook by Paul Iusztin and Maxime Labonne with pixi.",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-13T15:21:23Z",
+    "updated_at": "2026-08-13T15:40:11Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-13T14:46:15Z",
+    "updated_at": "2026-08-13T15:37:34Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T15:29:52Z",
+    "updated_at": "2026-08-13T15:39:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 24204,
     "updated_at": "2026-08-13T14:30:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56261,
-    "updated_at": "2026-08-13T15:24:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -342,15 +369,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7288,
-    "updated_at": "2026-08-13T15:29:15Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
     "id": "KazKozDev/prompt-playoff",
     "language": "Python",
@@ -396,15 +414,6 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-13T14:46:07Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 5695,
     "updated_at": "2026-08-13T13:13:27Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:45:26Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
