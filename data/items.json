@@ -1,5 +1,95 @@
 [
   {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-13T01:45:08Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:44:49Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:41:27Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T01:40:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:40:18Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 149 skills, plugins, MCP serve",
+    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "language": "Python",
+    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "stars": 4,
+    "updated_at": "2026-08-13T01:34:58Z",
+    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
+  },
+  {
+    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
+    "id": "leeryong/NELLA",
+    "language": "TypeScript",
+    "name": "leeryong/NELLA",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:34:36Z",
+    "url": "https://github.com/leeryong/NELLA"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-13T01:34:13Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
+    "id": "Tches-git/CodeEvo",
+    "language": "Python",
+    "name": "Tches-git/CodeEvo",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:33:30Z",
+    "url": "https://github.com/Tches-git/CodeEvo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "JavaScript",
@@ -14,26 +104,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11021,
-    "updated_at": "2026-08-13T01:28:57Z",
+    "updated_at": "2026-08-13T01:42:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:22:22Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:22:16Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56203,
-    "updated_at": "2026-08-13T01:21:37Z",
+    "updated_at": "2026-08-13T01:32:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,35 +140,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8251,
-    "updated_at": "2026-08-13T01:17:14Z",
+    "updated_at": "2026-08-13T01:44:13Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T01:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-13T01:21:08Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
-    "id": "Tches-git/CodeEvo",
-    "language": "Python",
-    "name": "Tches-git/CodeEvo",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:10:52Z",
-    "url": "https://github.com/Tches-git/CodeEvo"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24184,
-    "updated_at": "2026-08-13T01:06:21Z",
+    "updated_at": "2026-08-13T01:44:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -256,7 +301,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32988,
+    "stars": 32989,
     "updated_at": "2026-08-13T00:02:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -286,15 +331,6 @@
     "stars": 6,
     "updated_at": "2026-08-13T01:23:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:48:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:06:30Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-12T23:01:30Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 386,
-    "updated_at": "2026-08-12T23:00:22Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:55:48Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-12T23:46:08Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
   }
 ]
