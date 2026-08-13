@@ -1,5 +1,41 @@
 [
   {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 45,
+    "updated_at": "2026-08-13T10:26:22Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-13T10:29:47Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:16:49Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,22 +45,22 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33032,
+    "updated_at": "2026-08-13T10:20:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-13T10:12:05Z",
+    "updated_at": "2026-08-13T10:28:55Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33031,
-    "updated_at": "2026-08-13T10:12:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -81,15 +117,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27498,
-    "updated_at": "2026-08-13T10:03:46Z",
+    "updated_at": "2026-08-13T10:21:41Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T10:10:56Z",
+    "updated_at": "2026-08-13T10:16:22Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21347,
-    "updated_at": "2026-08-13T10:13:30Z",
+    "updated_at": "2026-08-13T10:22:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 28,
     "updated_at": "2026-08-13T08:54:53Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-13T09:45:57Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1664,
-    "updated_at": "2026-08-13T10:11:08Z",
+    "updated_at": "2026-08-13T10:24:10Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -418,7 +436,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56249,
+    "stars": 56250,
     "updated_at": "2026-08-13T07:44:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -428,25 +446,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-13T10:13:18Z",
+    "updated_at": "2026-08-13T10:30:22Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Proxima lets existing GPUs serve 4x more concurrent requests ",
-    "id": "Tenosra/Proxima",
-    "language": "Python",
-    "name": "Tenosra/Proxima",
-    "stars": 18,
-    "updated_at": "2026-08-13T07:29:15Z",
-    "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-08-13T08:06:34Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
