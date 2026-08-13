@@ -1,21 +1,12 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T22:01:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
+    "id": "sjfakharian/zerospend",
+    "language": "JavaScript",
+    "name": "sjfakharian/zerospend",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:14:45Z",
+    "url": "https://github.com/sjfakharian/zerospend"
   },
   {
     "description": "Padrao aberto para governar sistemas com agentes de IA: invariantes de seguranca e de custo impostos por codigo, nao por",
@@ -23,17 +14,8 @@
     "language": "Python",
     "name": "MCorsato78/constituicao-executavel",
     "stars": 0,
-    "updated_at": "2026-08-13T21:58:13Z",
+    "updated_at": "2026-08-13T22:12:59Z",
     "url": "https://github.com/MCorsato78/constituicao-executavel"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56274,
-    "updated_at": "2026-08-13T22:01:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -41,8 +23,71 @@
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T21:55:14Z",
+    "updated_at": "2026-08-13T22:11:42Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T22:09:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enterprise AI Agent Platform powered by LangGraph FSM, Hybrid RAG (ChromaDB + BM25), Model Fallback (GPT-4o -> Claude), ",
+    "id": "udaysinghkushwah/enterprise-ai-agent-platform",
+    "language": "Python",
+    "name": "udaysinghkushwah/enterprise-ai-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:07:15Z",
+    "url": "https://github.com/udaysinghkushwah/enterprise-ai-agent-platform"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-13T22:07:06Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 45,
+    "updated_at": "2026-08-13T22:04:52Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:09:10Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:03:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56274,
+    "updated_at": "2026-08-13T22:13:16Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
@@ -70,6 +115,15 @@
     "stars": 8259,
     "updated_at": "2026-08-13T21:49:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7293,
+    "updated_at": "2026-08-13T22:12:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -104,7 +158,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-13T21:46:46Z",
+    "updated_at": "2026-08-13T22:10:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "Juror-AI/juror",
     "stars": 82,
-    "updated_at": "2026-08-13T21:24:47Z",
+    "updated_at": "2026-08-13T22:14:28Z",
     "url": "https://github.com/Juror-AI/juror"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:17:11Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
-    "id": "sjfakharian/zerospend",
-    "language": "JavaScript",
-    "name": "sjfakharian/zerospend",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:23:07Z",
-    "url": "https://github.com/sjfakharian/zerospend"
   },
   {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33055,
-    "updated_at": "2026-08-13T21:52:27Z",
+    "updated_at": "2026-08-13T22:11:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -214,6 +259,15 @@
     "stars": 8,
     "updated_at": "2026-08-13T20:59:16Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11034,
+    "updated_at": "2026-08-13T20:46:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -232,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T20:37:08Z",
     "url": "https://github.com/LesterALeong/llm-evalgate"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11033,
-    "updated_at": "2026-08-13T20:46:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "CI gate that blocks a pull request when RAG retrieval quality regresses and confirms when a change genuinely improved it",
@@ -301,7 +346,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 852,
+    "stars": 859,
     "updated_at": "2026-08-13T19:35:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-13T22:03:08Z",
+    "updated_at": "2026-08-13T22:11:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:24:03Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24212,
-    "updated_at": "2026-08-13T19:23:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:21:55Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:21:23Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:21:19Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:21:05Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
