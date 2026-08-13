@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 7,
+    "updated_at": "2026-08-13T02:44:34Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2617,
+    "updated_at": "2026-08-13T02:43:15Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 49,
+    "updated_at": "2026-08-13T02:41:32Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:45:22Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56206,
+    "updated_at": "2026-08-13T02:41:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8252,
+    "updated_at": "2026-08-13T02:38:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AgentOps Evaluation & Observability Studio",
+    "id": "KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio",
+    "language": "Python",
+    "name": "KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:32:59Z",
+    "url": "https://github.com/KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio"
+  },
+  {
+    "description": "Enterprise RAG and agentic knowledge platform with FastAPI, Next.js, pgvector, RBAC, audit logs, evals, and human review",
+    "id": "KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform",
+    "language": "Python",
+    "name": "KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:32:59Z",
+    "url": "https://github.com/KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform"
+  },
+  {
+    "description": "Enterprise AI data analyst copilot with governed SQL, forecasting, MLflow, DuckDB, FastAPI, Next.js, and OpenAI integrat",
+    "id": "KarthikRamesh9149/enterprise-ai-data-analyst-copilot",
+    "language": "Python",
+    "name": "KarthikRamesh9149/enterprise-ai-data-analyst-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:32:58Z",
+    "url": "https://github.com/KarthikRamesh9149/enterprise-ai-data-analyst-copilot"
+  },
+  {
+    "description": "Controlled OpenAI-powered autonomous software-engineering agent workbench with sandboxing, tests, repair loops, security",
+    "id": "KarthikRamesh9149/autonomous-swe-agent-workbench",
+    "language": "Python",
+    "name": "KarthikRamesh9149/autonomous-swe-agent-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:32:58Z",
+    "url": "https://github.com/KarthikRamesh9149/autonomous-swe-agent-workbench"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -54,24 +153,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 7,
-    "updated_at": "2026-08-13T02:22:07Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "Python",
@@ -99,15 +180,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8252,
-    "updated_at": "2026-08-13T02:06:15Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -117,15 +189,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2617,
-    "updated_at": "2026-08-13T02:02:36Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T01:59:53Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56205,
-    "updated_at": "2026-08-13T02:24:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -171,15 +225,6 @@
     "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
   },
   {
-    "description": "Controlled OpenAI-powered autonomous software-engineering agent workbench with sandboxing, tests, repair loops, security",
-    "id": "KarthikRamesh9149/autonomous-swe-agent-workbench",
-    "language": "Python",
-    "name": "KarthikRamesh9149/autonomous-swe-agent-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:53:52Z",
-    "url": "https://github.com/KarthikRamesh9149/autonomous-swe-agent-workbench"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "JavaScript",
@@ -205,33 +250,6 @@
     "stars": 8,
     "updated_at": "2026-08-13T01:51:53Z",
     "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
-    "description": "Enterprise RAG and agentic knowledge platform with FastAPI, Next.js, pgvector, RBAC, audit logs, evals, and human review",
-    "id": "KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform",
-    "language": "Python",
-    "name": "KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:50:56Z",
-    "url": "https://github.com/KarthikRamesh9149/Enterprise-Agentic-Knowledge-Intelligence-Platform"
-  },
-  {
-    "description": "AgentOps Evaluation & Observability Studio",
-    "id": "KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio",
-    "language": "Python",
-    "name": "KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:50:52Z",
-    "url": "https://github.com/KarthikRamesh9149/AgentOps-Evaluation-Observability-Studio"
-  },
-  {
-    "description": "Enterprise AI data analyst copilot with governed SQL, forecasting, MLflow, DuckDB, FastAPI, Next.js, and OpenAI integrat",
-    "id": "KarthikRamesh9149/enterprise-ai-data-analyst-copilot",
-    "language": "Python",
-    "name": "KarthikRamesh9149/enterprise-ai-data-analyst-copilot",
-    "stars": 1,
-    "updated_at": "2026-08-13T01:50:51Z",
-    "url": "https://github.com/KarthikRamesh9149/enterprise-ai-data-analyst-copilot"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 98,
-    "updated_at": "2026-08-13T00:20:16Z",
+    "updated_at": "2026-08-13T02:38:52Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -382,7 +400,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1658,
+    "stars": 1659,
     "updated_at": "2026-08-13T00:18:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -418,7 +436,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32991,
+    "stars": 32992,
     "updated_at": "2026-08-13T00:02:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:53:17Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27490,
-    "updated_at": "2026-08-12T23:51:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-13T02:19:01Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
