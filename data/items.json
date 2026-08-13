@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33044,
-    "updated_at": "2026-08-13T13:58:18Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 8,
+    "updated_at": "2026-08-13T14:14:38Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:10:09Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "Free offline course on AI engineering, context engineering and production AI system design. 46 lessons, 14 application c",
@@ -14,7 +23,7 @@
     "language": "JavaScript",
     "name": "harshadmehmood/ai-engineering-academy",
     "stars": 0,
-    "updated_at": "2026-08-13T13:55:43Z",
+    "updated_at": "2026-08-13T14:09:14Z",
     "url": "https://github.com/harshadmehmood/ai-engineering-academy"
   },
   {
@@ -23,8 +32,80 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-13T13:59:19Z",
+    "updated_at": "2026-08-13T14:12:13Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-13T14:13:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 380,
+    "updated_at": "2026-08-13T14:12:07Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:04:47Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33045,
+    "updated_at": "2026-08-13T14:12:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:01:28Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Safety-first context routing for AI agents. Exact facts stay exact while stale context takes an appropriate, explainable",
+    "id": "XioAISolutions/CrumbContext",
+    "language": "Python",
+    "name": "XioAISolutions/CrumbContext",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:59:25Z",
+    "url": "https://github.com/XioAISolutions/CrumbContext"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11032,
+    "updated_at": "2026-08-13T13:57:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -72,24 +153,6 @@
     "url": "https://github.com/Zonastery/bursar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T13:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 379,
-    "updated_at": "2026-08-13T13:45:23Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -99,21 +162,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-13T14:00:12Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-13T13:54:12Z",
+    "updated_at": "2026-08-13T14:08:36Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/WellCod/automata"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11031,
-    "updated_at": "2026-08-13T13:57:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -142,15 +187,6 @@
     "stars": 7288,
     "updated_at": "2026-08-13T13:52:01Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-13T13:23:13Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -166,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56255,
+    "stars": 56256,
     "updated_at": "2026-08-13T13:21:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -229,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 691,
+    "stars": 697,
     "updated_at": "2026-08-13T13:02:58Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-13T12:32:46Z",
+    "updated_at": "2026-08-13T14:00:38Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T12:29:07Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21350,
-    "updated_at": "2026-08-13T13:44:14Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-13T12:23:18Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:21:51Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:21:19Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
