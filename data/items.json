@@ -1,11 +1,74 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-13T02:28:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24184,
+    "updated_at": "2026-08-13T02:27:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:23:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
+    "id": "Tches-git/CodeEvo",
+    "language": "Python",
+    "name": "Tches-git/CodeEvo",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:23:22Z",
+    "url": "https://github.com/Tches-git/CodeEvo"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-13T02:17:08Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:20:54Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
     "id": "bytebeast/check-endpoint",
     "language": "Python",
     "name": "bytebeast/check-endpoint",
     "stars": 7,
-    "updated_at": "2026-08-13T02:15:01Z",
+    "updated_at": "2026-08-13T02:22:07Z",
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5749,
-    "updated_at": "2026-08-13T02:06:01Z",
+    "updated_at": "2026-08-13T02:25:01Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -58,18 +121,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2615,
+    "stars": 2617,
     "updated_at": "2026-08-13T02:02:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56205,
-    "updated_at": "2026-08-13T02:14:22Z",
+    "updated_at": "2026-08-13T02:24:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T01:40:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
     "id": "leeryong/NELLA",
     "language": "TypeScript",
@@ -223,24 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T01:34:36Z",
     "url": "https://github.com/leeryong/NELLA"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-13T02:04:13Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Evaluation-gated, evidence-grounded multi-agent code review platform",
-    "id": "Tches-git/CodeEvo",
-    "language": "Python",
-    "name": "Tches-git/CodeEvo",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:47:28Z",
-    "url": "https://github.com/Tches-git/CodeEvo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -270,15 +297,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24184,
-    "updated_at": "2026-08-13T02:05:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-13T01:00:57Z",
+    "updated_at": "2026-08-13T02:30:05Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T00:36:56Z",
     "url": "https://github.com/OnlyMrUsman/rag-system"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthro",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-13T00:33:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -409,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32990,
+    "stars": 32991,
     "updated_at": "2026-08-13T00:02:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -427,7 +436,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27489,
+    "stars": 27490,
     "updated_at": "2026-08-12T23:51:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-13T01:23:12Z",
+    "updated_at": "2026-08-13T02:19:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-08-12T23:47:43Z",
-    "url": "https://github.com/api-evangelist/raindrop"
   }
 ]
