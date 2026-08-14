@@ -1,12 +1,75 @@
 [
   {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
+    "language": "Python",
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:59:39Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
+    "language": "Python",
+    "name": "clearml/clearml",
+    "stars": 6820,
+    "updated_at": "2026-08-14T20:59:03Z",
+    "url": "https://github.com/clearml/clearml"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 14,
+    "updated_at": "2026-08-14T20:57:40Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11053,
+    "updated_at": "2026-08-14T20:59:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-14T20:57:02Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:48:52Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T20:45:25Z",
+    "updated_at": "2026-08-14T20:47:14Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 9,
+    "updated_at": "2026-08-14T20:53:43Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T20:44:02Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6820,
-    "updated_at": "2026-08-14T20:42:04Z",
-    "url": "https://github.com/clearml/clearml"
   },
   {
     "description": "Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered",
@@ -59,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7320,
-    "updated_at": "2026-08-14T20:39:41Z",
+    "updated_at": "2026-08-14T20:50:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 49,
     "updated_at": "2026-08-14T20:34:20Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11053,
-    "updated_at": "2026-08-14T20:39:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 9,
-    "updated_at": "2026-08-14T20:45:57Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3491,
-    "updated_at": "2026-08-14T20:45:11Z",
+    "updated_at": "2026-08-14T20:58:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -166,7 +202,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29689,
+    "stars": 29690,
     "updated_at": "2026-08-14T19:57:59Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -196,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-08-14T19:49:53Z",
     "url": "https://github.com/blake-hamm/kube-ai-stack"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 14,
-    "updated_at": "2026-08-14T20:46:40Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -238,7 +265,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24237,
+    "stars": 24235,
     "updated_at": "2026-08-14T19:24:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8267,
-    "updated_at": "2026-08-14T20:27:03Z",
+    "updated_at": "2026-08-14T20:54:57Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -319,7 +346,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1257,
+    "stars": 1260,
     "updated_at": "2026-08-14T18:14:09Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -358,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:53:01Z",
     "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 76,
-    "updated_at": "2026-08-14T20:43:33Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:04:48Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
-    "id": "openlit/website",
-    "language": "TypeScript",
-    "name": "openlit/website",
-    "stars": 10,
-    "updated_at": "2026-08-14T16:58:51Z",
-    "url": "https://github.com/openlit/website"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27519,
-    "updated_at": "2026-08-14T16:55:19Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
