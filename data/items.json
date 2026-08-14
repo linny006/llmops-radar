@@ -1,12 +1,39 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56305,
-    "updated_at": "2026-08-14T07:43:09Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-14T07:59:24Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
+    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "language": "Python",
+    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:59:14Z",
+    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-14T07:57:12Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-14T07:58:14Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,16 +41,61 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T07:41:27Z",
+    "updated_at": "2026-08-14T07:53:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-14T07:48:28Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27511,
+    "updated_at": "2026-08-14T07:47:31Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-14T07:45:48Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T07:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56304,
+    "updated_at": "2026-08-14T07:43:09Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33080,
-    "updated_at": "2026-08-14T07:38:51Z",
+    "stars": 33081,
+    "updated_at": "2026-08-14T07:56:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -43,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T07:36:31Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-14T07:45:12Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-14T07:35:23Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI testing platform \u2014 model & MCP playground, full request logs, and an OpenAI-compatible gateway. One Node ",
@@ -103,18 +148,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7304,
+    "stars": 7305,
     "updated_at": "2026-08-14T07:22:04Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27510,
-    "updated_at": "2026-08-14T07:42:53Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-14T07:33:10Z",
+    "updated_at": "2026-08-14T07:51:12Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1303,
-    "updated_at": "2026-08-14T07:34:21Z",
+    "updated_at": "2026-08-14T08:00:40Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1674,
-    "updated_at": "2026-08-14T07:40:15Z",
+    "updated_at": "2026-08-14T07:59:19Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -394,15 +430,6 @@
     "stars": 5696,
     "updated_at": "2026-08-14T06:43:10Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
-    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "language": "Python",
-    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:40:37Z",
-    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
     "description": "Enterprise AI Agent Platform powered by LangGraph FSM, Hybrid RAG (ChromaDB + BM25), Model Fallback (GPT-4o -> Claude), ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T05:16:40Z",
     "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 230,
-    "updated_at": "2026-08-14T05:18:35Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24222,
-    "updated_at": "2026-08-14T05:13:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 114,
-    "updated_at": "2026-08-14T05:12:23Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
