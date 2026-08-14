@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 16:30 UTC
+> ⏰ Last updated: 2026-08-14 16:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1201 | Python | 2026-08-14 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [andrelair-platform/aisystemmaster](https://github.com/andrelair-platform/aisystemmaster) | 0 | — | 2026-08-14 | AI Systems Engineer Playbook — career roadmap, discipline references, and 3 flagship project specs for regulated-industr |
-| 3 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1304 | Cuda | 2026-08-14 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 4 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 1 | Go | 2026-08-14 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 6 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 382 | Python | 2026-08-14 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 7 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-14 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11052 | Python | 2026-08-14 | AI Observability & Evaluation |
-| 9 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-08-14 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33104 | TypeScript | 2026-08-14 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56340 | Python | 2026-08-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1201 | Python | 2026-08-14 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 3 | [andrelair-platform/aisystemmaster](https://github.com/andrelair-platform/aisystemmaster) | 0 | — | 2026-08-14 | AI Systems Engineer Playbook — career roadmap, discipline references, and 3 flagship project specs for regulated-industr |
+| 4 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1304 | Cuda | 2026-08-14 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 5 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 1 | Go | 2026-08-14 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 7 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 382 | Python | 2026-08-14 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 8 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-14 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11052 | Python | 2026-08-14 | AI Observability & Evaluation |
+| 10 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-08-14 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33104 | TypeScript | 2026-08-14 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56340 | Python | 2026-08-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 13 | [ndom91/llama-dash](https://github.com/ndom91/llama-dash) | 12 | TypeScript | 2026-08-14 | The operations layer for your local LLM stack |
 | 14 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 114 | Rust | 2026-08-14 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
 | 15 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-14 | A governed, auditable workflow engine for an agent-driven software factory. |
