@@ -1,12 +1,75 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-14T13:29:28Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T13:27:05Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33091,
-    "updated_at": "2026-08-14T13:15:06Z",
+    "stars": 33093,
+    "updated_at": "2026-08-14T13:29:49Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 11,
+    "updated_at": "2026-08-14T13:23:19Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21378,
+    "updated_at": "2026-08-14T13:22:39Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56325,
+    "updated_at": "2026-08-14T13:29:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3508,
+    "updated_at": "2026-08-14T13:24:53Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-14T13:29:55Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,8 +77,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T13:11:53Z",
+    "updated_at": "2026-08-14T13:19:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:17:15Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:15:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -23,8 +104,17 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-14T13:09:34Z",
+    "updated_at": "2026-08-14T13:24:01Z",
     "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3489,
+    "updated_at": "2026-08-14T13:29:17Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -63,30 +153,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T13:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T12:56:48Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-14T12:52:27Z",
+    "updated_at": "2026-08-14T13:16:36Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -97,6 +169,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T12:48:41Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29684,
+    "updated_at": "2026-08-14T13:23:25Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -122,7 +203,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 9,
-    "updated_at": "2026-08-14T12:51:08Z",
+    "updated_at": "2026-08-14T13:26:07Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -162,15 +243,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-08-14T13:11:36Z",
-    "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -187,15 +259,6 @@
     "stars": 54,
     "updated_at": "2026-08-14T12:05:01Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56325,
-    "updated_at": "2026-08-14T13:12:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
@@ -225,15 +288,6 @@
     "url": "https://github.com/outskirtslabs/llx"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3489,
-    "updated_at": "2026-08-14T13:09:06Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
     "id": "asale-ai/llm-verify",
     "language": "Rust",
@@ -241,6 +295,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T11:03:34Z",
     "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1636,
+    "updated_at": "2026-08-14T10:58:04Z",
+    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -288,20 +351,11 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21376,
-    "updated_at": "2026-08-14T13:11:29Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1148,
+    "stars": 1159,
     "updated_at": "2026-08-14T10:25:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -338,7 +392,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2632,
-    "updated_at": "2026-08-14T09:58:12Z",
+    "updated_at": "2026-08-14T13:29:32Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -349,15 +403,6 @@
     "stars": 451,
     "updated_at": "2026-08-14T09:47:12Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:36:43Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
@@ -401,52 +446,7 @@
     "language": "JavaScript",
     "name": "project-arbr/arbr-control-plane",
     "stars": 10,
-    "updated_at": "2026-08-14T13:07:10Z",
+    "updated_at": "2026-08-14T13:29:53Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 230,
-    "updated_at": "2026-08-14T08:50:32Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1675,
-    "updated_at": "2026-08-14T08:42:55Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
-    "id": "adwitiyashukla/process-twin",
-    "language": "Python",
-    "name": "adwitiyashukla/process-twin",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:41:36Z",
-    "url": "https://github.com/adwitiyashukla/process-twin"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-08-14T08:08:37Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 76,
-    "updated_at": "2026-08-14T11:39:19Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
