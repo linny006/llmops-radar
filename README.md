@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [satwiksps/tracelet](https://github.com/satwiksps/tracelet) | 1 | TypeScript | 2026-08-14 | A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local  |
-| 2 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 382 | Python | 2026-08-14 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-14 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 4 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-14 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 5 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | HTML | 2026-08-14 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [satwiksps/tracelet](https://github.com/satwiksps/tracelet) | 1 | TypeScript | 2026-08-14 | A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local  |
+| 3 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 382 | Python | 2026-08-14 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-14 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 5 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-08-14 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 6 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | HTML | 2026-08-14 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
 | 7 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-14 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 8 | [theagentplane/tokenops](https://github.com/theagentplane/tokenops) | 12 | Python | 2026-08-14 | An operational field guide and reference architecture for treating tokens as a first-class infrastructure resource. Buil |
 | 9 | [sharyaropensource/crew-incident-triage](https://github.com/sharyaropensource/crew-incident-triage) | 0 | Python | 2026-08-14 | Sequential multi-agent CrewAI pipeline for incident postmortems — tested at unit + integration level via GitHub Actions  |
