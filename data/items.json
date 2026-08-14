@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:43:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3489,
+    "updated_at": "2026-08-14T10:00:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:58:26Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2631,
+    "updated_at": "2026-08-14T09:58:12Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:56:22Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33085,
+    "updated_at": "2026-08-14T09:57:34Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T09:43:21Z",
+    "updated_at": "2026-08-14T09:54:53Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27512,
-    "updated_at": "2026-08-14T09:40:29Z",
+    "updated_at": "2026-08-14T09:56:20Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 451,
+    "updated_at": "2026-08-14T09:47:12Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -58,8 +112,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56312,
-    "updated_at": "2026-08-14T09:25:20Z",
+    "stars": 56313,
+    "updated_at": "2026-08-14T09:57:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,30 +126,12 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33084,
-    "updated_at": "2026-08-14T09:40:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2630,
-    "updated_at": "2026-08-14T09:34:43Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11860,
-    "updated_at": "2026-08-14T09:17:39Z",
+    "updated_at": "2026-08-14T09:54:58Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -103,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1085,
+    "stars": 1087,
     "updated_at": "2026-08-14T09:17:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-14T09:33:40Z",
+    "updated_at": "2026-08-14T09:59:40Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-14T09:29:21Z",
+    "updated_at": "2026-08-14T09:51:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-08-14T08:51:05Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 451,
-    "updated_at": "2026-08-14T09:39:59Z",
-    "url": "https://github.com/SynaLinks/synalinks"
   },
   {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
@@ -216,15 +243,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:19:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -232,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T08:15:03Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:13:35Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7307,
-    "updated_at": "2026-08-14T09:44:21Z",
+    "updated_at": "2026-08-14T09:58:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1303,
-    "updated_at": "2026-08-14T09:37:50Z",
+    "updated_at": "2026-08-14T09:52:29Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-14T06:44:18Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:38:15Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   }
 ]
