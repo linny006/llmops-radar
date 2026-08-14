@@ -1,12 +1,48 @@
 [
   {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
     "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 3,
-    "updated_at": "2026-08-14T00:14:10Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5748,
+    "updated_at": "2026-08-14T00:28:59Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:28:23Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-14T00:27:56Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:27:03Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56276,
+    "updated_at": "2026-08-14T00:27:38Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,8 +50,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T00:13:07Z",
+    "updated_at": "2026-08-14T00:24:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-14T00:16:58Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T00:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 3,
+    "updated_at": "2026-08-14T00:14:10Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -36,21 +99,12 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56276,
-    "updated_at": "2026-08-14T00:15:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T00:13:20Z",
+    "updated_at": "2026-08-14T00:30:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 21,
     "updated_at": "2026-08-14T00:02:50Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-13T23:57:06Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -126,15 +162,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-13T23:27:18Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -142,15 +169,6 @@
     "stars": 24212,
     "updated_at": "2026-08-13T23:24:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-13T23:15:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27503,
-    "updated_at": "2026-08-13T21:21:56Z",
+    "updated_at": "2026-08-14T00:26:17Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "katanemo/plano",
     "stars": 6998,
-    "updated_at": "2026-08-13T20:56:43Z",
+    "updated_at": "2026-08-14T00:24:10Z",
     "url": "https://github.com/katanemo/plano"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 102,
     "updated_at": "2026-08-13T22:42:48Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
-    "id": "KazKozDev/prompt-playoff",
-    "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
-    "stars": 1,
-    "updated_at": "2026-08-13T20:03:11Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1672,
-    "updated_at": "2026-08-13T19:47:33Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
