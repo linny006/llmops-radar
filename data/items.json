@@ -1,12 +1,12 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-14T17:28:17Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
+    "id": "obervinov/readme-spotlight",
+    "language": "Go",
+    "name": "obervinov/readme-spotlight",
+    "stars": 0,
+    "updated_at": "2026-08-14T17:35:17Z",
+    "url": "https://github.com/obervinov/readme-spotlight"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56345,
-    "updated_at": "2026-08-14T17:28:04Z",
+    "updated_at": "2026-08-14T17:36:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-14T17:33:24Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1217,
+    "updated_at": "2026-08-14T17:33:11Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11052,
+    "updated_at": "2026-08-14T17:32:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -23,8 +50,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T17:26:17Z",
+    "updated_at": "2026-08-14T17:31:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-14T17:28:17Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T17:24:50Z",
+    "updated_at": "2026-08-14T17:36:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -59,17 +104,8 @@
     "language": "TypeScript",
     "name": "Yacine-ai-tech/RAGeval",
     "stars": 1,
-    "updated_at": "2026-08-14T17:16:56Z",
+    "updated_at": "2026-08-14T17:36:54Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -153,15 +189,6 @@
     "url": "https://github.com/openlit/website"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1215,
-    "updated_at": "2026-08-14T16:56:11Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -187,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T16:51:56Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11052,
-    "updated_at": "2026-08-14T17:15:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
@@ -286,15 +304,6 @@
     "stars": 21386,
     "updated_at": "2026-08-14T16:20:21Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Compose your GitHub profile README from styled SVG sections (banner, focus, tech, open-source contributions) and keep it",
-    "id": "obervinov/readme-spotlight",
-    "language": "Go",
-    "name": "obervinov/readme-spotlight",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:59:14Z",
-    "url": "https://github.com/obervinov/readme-spotlight"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -439,14 +448,5 @@
     "stars": 3508,
     "updated_at": "2026-08-14T16:08:33Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:34:17Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
