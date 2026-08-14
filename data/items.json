@@ -1,12 +1,84 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-14T05:28:32Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8263,
+    "updated_at": "2026-08-14T05:25:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27506,
+    "updated_at": "2026-08-14T05:25:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Enterprise AI Agent Platform powered by LangGraph FSM, Hybrid RAG (ChromaDB + BM25), Model Fallback (GPT-4o -> Claude), ",
+    "id": "udaysinghkushwah/enterprise-ai-agent-platform",
+    "language": "Python",
+    "name": "udaysinghkushwah/enterprise-ai-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:20:08Z",
+    "url": "https://github.com/udaysinghkushwah/enterprise-ai-agent-platform"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T05:13:55Z",
+    "updated_at": "2026-08-14T05:18:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-14T05:16:56Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:16:40Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 230,
+    "updated_at": "2026-08-14T05:18:35Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56297,
-    "updated_at": "2026-08-14T05:07:22Z",
+    "updated_at": "2026-08-14T05:27:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T05:08:23Z",
+    "updated_at": "2026-08-14T05:26:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T05:04:57Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Auto-generated Java Client for Langfuse API",
@@ -99,24 +162,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-14T04:55:22Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 230,
-    "updated_at": "2026-08-14T04:55:55Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T04:52:13Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27506,
-    "updated_at": "2026-08-14T05:14:02Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1673,
-    "updated_at": "2026-08-14T04:29:20Z",
+    "updated_at": "2026-08-14T05:26:39Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T04:48:08Z",
+    "updated_at": "2026-08-14T05:16:20Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -301,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33075,
+    "stars": 33076,
     "updated_at": "2026-08-14T03:23:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -338,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-14T05:11:05Z",
+    "updated_at": "2026-08-14T05:24:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11859,
-    "updated_at": "2026-08-14T04:36:59Z",
+    "updated_at": "2026-08-14T05:17:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T02:15:28Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:14:02Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:12:34Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:10:36Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:09:58Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
