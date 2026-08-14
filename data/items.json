@@ -1,12 +1,57 @@
 [
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T04:27:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
+    "name": "BerriAI/litellm",
+    "stars": 56296,
+    "updated_at": "2026-08-14T04:27:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-14T04:24:31Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 25,
+    "updated_at": "2026-08-14T04:24:56Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 83,
+    "updated_at": "2026-08-14T04:20:21Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
     "stars": 0,
-    "updated_at": "2026-08-14T04:16:40Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
+    "updated_at": "2026-08-14T04:18:56Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T04:15:27Z",
+    "updated_at": "2026-08-14T04:17:33Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-14T04:16:40Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T04:06:41Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T04:06:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-14T03:58:35Z",
+    "updated_at": "2026-08-14T04:21:26Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 76,
     "updated_at": "2026-08-14T04:02:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56294,
-    "updated_at": "2026-08-14T04:05:32Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -212,7 +248,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1301,
-    "updated_at": "2026-08-14T04:15:52Z",
+    "updated_at": "2026-08-14T04:24:56Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T01:59:50Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-08-14T01:59:02Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-14T01:56:38Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-08-14T01:55:13Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Open-source SDK to test AI agents before they break in production adversarial scenarios generated from your own agent's ",
-    "id": "Sentragent/sentragent-sdk",
-    "language": "Python",
-    "name": "Sentragent/sentragent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-14T01:48:42Z",
-    "url": "https://github.com/Sentragent/sentragent-sdk"
   }
 ]
