@@ -1,12 +1,75 @@
 [
   {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-14T20:30:06Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:28:11Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:26:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered",
+    "id": "fauzan111/TrustGate",
+    "language": "Python",
+    "name": "fauzan111/TrustGate",
+    "stars": 0,
+    "updated_at": "2026-08-14T20:22:10Z",
+    "url": "https://github.com/fauzan111/TrustGate"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3491,
+    "updated_at": "2026-08-14T20:30:03Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-14T20:19:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T20:14:01Z",
+    "updated_at": "2026-08-14T20:15:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11053,
+    "updated_at": "2026-08-14T20:27:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -27,6 +90,15 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7318,
+    "updated_at": "2026-08-14T20:05:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "HTML",
@@ -41,17 +113,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 9,
-    "updated_at": "2026-08-14T20:08:58Z",
+    "updated_at": "2026-08-14T20:30:18Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered",
-    "id": "fauzan111/TrustGate",
-    "language": "Python",
-    "name": "fauzan111/TrustGate",
-    "stars": 0,
-    "updated_at": "2026-08-14T19:58:32Z",
-    "url": "https://github.com/fauzan111/TrustGate"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -61,24 +124,6 @@
     "stars": 29688,
     "updated_at": "2026-08-14T19:57:59Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3491,
-    "updated_at": "2026-08-14T20:14:23Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T19:51:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
@@ -108,30 +153,12 @@
     "url": "https://github.com/blake-hamm/kube-ai-stack"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-14T19:47:47Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-14T19:46:05Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-14T19:44:52Z",
+    "updated_at": "2026-08-14T20:20:50Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11052,
-    "updated_at": "2026-08-14T20:13:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -176,8 +194,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21388,
-    "updated_at": "2026-08-14T19:32:53Z",
+    "updated_at": "2026-08-14T20:19:22Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24237,
+    "updated_at": "2026-08-14T19:24:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8267,
-    "updated_at": "2026-08-14T19:11:02Z",
+    "updated_at": "2026-08-14T20:27:03Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -211,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56349,
+    "stars": 56350,
     "updated_at": "2026-08-14T19:09:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -234,15 +261,6 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-14T20:02:09Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 114,
-    "updated_at": "2026-08-14T20:04:03Z",
+    "updated_at": "2026-08-14T20:23:25Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -274,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1252,
+    "stars": 1253,
     "updated_at": "2026-08-14T18:14:09Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -295,15 +313,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T18:05:15Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7319,
-    "updated_at": "2026-08-14T20:05:04Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T20:15:22Z",
+    "updated_at": "2026-08-14T20:26:03Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -387,15 +396,6 @@
     "url": "https://github.com/MartinBlomqvistDev/prasine-index"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24235,
-    "updated_at": "2026-08-14T19:24:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -412,6 +412,15 @@
     "stars": 10,
     "updated_at": "2026-08-14T16:58:51Z",
     "url": "https://github.com/openlit/website"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27519,
+    "updated_at": "2026-08-14T16:55:19Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-14T16:49:58Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-14T16:43:40Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
   }
 ]
