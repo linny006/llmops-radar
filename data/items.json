@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T18:28:47Z",
+    "updated_at": "2026-08-14T18:43:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56347,
+    "updated_at": "2026-08-14T18:43:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-14T18:42:50Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -23,7 +32,7 @@
     "language": "HTML",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-14T18:25:49Z",
+    "updated_at": "2026-08-14T18:42:10Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -32,8 +41,26 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 114,
-    "updated_at": "2026-08-14T18:22:33Z",
+    "updated_at": "2026-08-14T18:40:26Z",
     "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21388,
+    "updated_at": "2026-08-14T18:33:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:32:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -45,20 +72,11 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56346,
-    "updated_at": "2026-08-14T18:24:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1228,
+    "stars": 1232,
     "updated_at": "2026-08-14T18:14:09Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T18:28:42Z",
+    "updated_at": "2026-08-14T18:44:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7319,
-    "updated_at": "2026-08-14T18:22:04Z",
+    "updated_at": "2026-08-14T18:40:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -103,7 +121,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3490,
+    "stars": 3491,
     "updated_at": "2026-08-14T18:02:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T18:06:17Z",
+    "updated_at": "2026-08-14T18:35:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33109,
-    "updated_at": "2026-08-14T18:07:52Z",
+    "updated_at": "2026-08-14T18:43:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21387,
-    "updated_at": "2026-08-14T16:20:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T15:28:02Z",
     "url": "https://github.com/satwiksps/tracelet"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-14T15:25:18Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
