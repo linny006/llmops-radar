@@ -1,12 +1,39 @@
 [
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 9,
-    "updated_at": "2026-08-14T11:15:18Z",
-    "url": "https://github.com/AixleHQ/flow"
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:20:28Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-14T11:20:20Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-14T11:19:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33089,
+    "updated_at": "2026-08-14T11:25:58Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27514,
-    "updated_at": "2026-08-14T11:14:55Z",
+    "updated_at": "2026-08-14T11:17:00Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 9,
+    "updated_at": "2026-08-14T11:25:48Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified LLM API and agent runtime for Clojure, ClojureScript (and soon Clojure Dart)",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3489,
-    "updated_at": "2026-08-14T11:14:40Z",
+    "updated_at": "2026-08-14T11:18:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -108,15 +144,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33087,
-    "updated_at": "2026-08-14T11:12:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Run ASSERT evals in CI and gate pull requests on paired safety regressions.",
     "id": "responsibleai/assert-ai-action",
     "language": "Python",
@@ -126,11 +153,20 @@
     "url": "https://github.com/responsibleai/assert-ai-action"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7309,
+    "updated_at": "2026-08-14T10:53:14Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56316,
+    "stars": 56317,
     "updated_at": "2026-08-14T10:52:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-14T11:06:24Z",
+    "updated_at": "2026-08-14T11:20:21Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-14T10:50:36Z",
+    "updated_at": "2026-08-14T11:20:12Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-14T11:01:12Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -202,7 +229,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1108,
+    "stars": 1111,
     "updated_at": "2026-08-14T10:25:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -232,15 +259,6 @@
     "stars": 45,
     "updated_at": "2026-08-14T10:05:05Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7308,
-    "updated_at": "2026-08-14T10:53:14Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11860,
-    "updated_at": "2026-08-14T10:50:24Z",
+    "updated_at": "2026-08-14T11:17:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T07:29:49Z",
     "url": "https://github.com/HSPK/loom"
-  },
-  {
-    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
-    "id": "baabakk/versioned-store",
-    "language": "TypeScript",
-    "name": "baabakk/versioned-store",
-    "stars": 0,
-    "updated_at": "2026-08-14T07:27:52Z",
-    "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-08-14T08:06:25Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
