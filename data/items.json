@@ -1,5 +1,95 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1222,
+    "updated_at": "2026-08-14T18:14:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T18:13:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:14:40Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56345,
+    "updated_at": "2026-08-14T18:08:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 49,
+    "updated_at": "2026-08-14T18:07:53Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 7,
+    "updated_at": "2026-08-14T18:05:15Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11052,
+    "updated_at": "2026-08-14T18:09:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7319,
+    "updated_at": "2026-08-14T18:03:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3490,
+    "updated_at": "2026-08-14T18:02:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
     "id": "baabakk/versioned-store",
     "language": "TypeScript",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T17:50:59Z",
+    "updated_at": "2026-08-14T18:06:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33109,
-    "updated_at": "2026-08-14T17:48:29Z",
+    "updated_at": "2026-08-14T18:07:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -99,24 +189,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T17:47:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -126,21 +198,12 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56346,
-    "updated_at": "2026-08-14T17:57:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-14T17:37:37Z",
+    "updated_at": "2026-08-14T18:02:52Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -160,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:35:17Z",
     "url": "https://github.com/obervinov/readme-spotlight"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1221,
-    "updated_at": "2026-08-14T17:33:11Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11052,
-    "updated_at": "2026-08-14T17:59:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -220,8 +265,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24234,
-    "updated_at": "2026-08-14T17:05:27Z",
+    "stars": 24235,
+    "updated_at": "2026-08-14T18:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1304,
-    "updated_at": "2026-08-14T16:43:46Z",
+    "updated_at": "2026-08-14T18:10:21Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -328,7 +373,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21386,
+    "stars": 21387,
     "updated_at": "2026-08-14T16:20:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-14T15:25:18Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27518,
-    "updated_at": "2026-08-14T16:55:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:11:27Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "An operational field guide and reference architecture for treating tokens as a first-class infrastructure resource. Buil",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 12,
-    "updated_at": "2026-08-14T15:12:22Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "Sequential multi-agent CrewAI pipeline for incident postmortems \u2014 tested at unit + integration level via GitHub Actions ",
-    "id": "sharyaropensource/crew-incident-triage",
-    "language": "Python",
-    "name": "sharyaropensource/crew-incident-triage",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:08:56Z",
-    "url": "https://github.com/sharyaropensource/crew-incident-triage"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:04:44Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   }
 ]
