@@ -1,5 +1,113 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-14T15:11:27Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "An operational field guide and reference architecture for treating tokens as a first-class infrastructure resource. Buil",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 12,
+    "updated_at": "2026-08-14T15:12:22Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Sequential multi-agent CrewAI pipeline for incident postmortems \u2014 tested at unit + integration level via GitHub Actions ",
+    "id": "sharyaropensource/crew-incident-triage",
+    "language": "Python",
+    "name": "sharyaropensource/crew-incident-triage",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:08:56Z",
+    "url": "https://github.com/sharyaropensource/crew-incident-triage"
+  },
+  {
+    "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
+    "id": "openlit/website",
+    "language": "TypeScript",
+    "name": "openlit/website",
+    "stars": 10,
+    "updated_at": "2026-08-14T15:08:19Z",
+    "url": "https://github.com/openlit/website"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:06:49Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:06:15Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33101,
+    "updated_at": "2026-08-14T15:05:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-14T15:04:54Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:04:44Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-14T15:03:09Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T15:00:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T15:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -23,26 +131,8 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3508,
-    "updated_at": "2026-08-14T14:55:17Z",
+    "updated_at": "2026-08-14T15:09:18Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "An operational field guide and reference architecture for treating tokens as a first-class infrastructure resource. Buil",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 12,
-    "updated_at": "2026-08-14T14:54:48Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:59:17Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -50,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-14T14:53:39Z",
+    "updated_at": "2026-08-14T15:04:45Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -58,7 +148,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56332,
+    "stars": 56334,
     "updated_at": "2026-08-14T14:49:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,30 +162,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T14:46:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21379,
-    "updated_at": "2026-08-14T14:55:30Z",
+    "updated_at": "2026-08-14T15:02:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 27517,
     "updated_at": "2026-08-14T14:48:13Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Sequential multi-agent CrewAI pipeline for incident postmortems \u2014 tested at unit + integration level via GitHub Actions ",
-    "id": "sharyaropensource/crew-incident-triage",
-    "language": "Python",
-    "name": "sharyaropensource/crew-incident-triage",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:42:12Z",
-    "url": "https://github.com/sharyaropensource/crew-incident-triage"
   },
   {
     "description": "A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local ",
@@ -131,35 +194,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7313,
-    "updated_at": "2026-08-14T14:58:52Z",
+    "updated_at": "2026-08-14T15:03:57Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33099,
-    "updated_at": "2026-08-14T15:00:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:58:01Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:37:12Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -221,17 +257,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3490,
-    "updated_at": "2026-08-14T14:58:13Z",
+    "updated_at": "2026-08-14T15:09:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-14T14:57:47Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T14:09:37Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:07:31Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:07:13Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:07:02Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
