@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 05:45 UTC
+> ⏰ Last updated: 2026-08-14 05:53 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 2 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5696 | Go | 2026-08-14 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 3 | [ya-yara/codex-watchtower](https://github.com/ya-yara/codex-watchtower) | 0 | Python | 2026-08-14 | Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs |
-| 4 | [lokeshkundi15/ai-incident-monitoring-rca-agent](https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent) | 0 | Python | 2026-08-14 | An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 3 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5696 | Go | 2026-08-14 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 4 | [ya-yara/codex-watchtower](https://github.com/ya-yara/codex-watchtower) | 0 | Python | 2026-08-14 | Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs |
+| 5 | [lokeshkundi15/ai-incident-monitoring-rca-agent](https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent) | 0 | Python | 2026-08-14 | An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut |
 | 6 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 26 | TypeScript | 2026-08-14 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
 | 7 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8263 | Rust | 2026-08-14 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27506 | Python | 2026-08-14 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
@@ -54,8 +54,8 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-14 | ThakiCloud Tech Blog |
 | 11 | [shinjaehyun20/ai-workflow-kits](https://github.com/shinjaehyun20/ai-workflow-kits) | 0 | Python | 2026-08-14 | Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot. |
 | 12 | [ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway) | 230 | Go | 2026-08-14 | Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro |
-| 13 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 113 | Rust | 2026-08-14 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24221 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24222 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 14 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 113 | Rust | 2026-08-14 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
 | 15 | [huzjie/harnesskit](https://github.com/huzjie/harnesskit) | 0 | Python | 2026-08-14 | harnesskit - plugin-first AI agent runtime (everything is a plugin): 跨 Provider 可插拔 Agent 运行时 |
 | 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56297 | Python | 2026-08-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 17 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3488 | TypeScript | 2026-08-14 | The platform for LLM evaluations and AI agent testing |
