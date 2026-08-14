@@ -1,11 +1,47 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 9,
+    "updated_at": "2026-08-14T11:15:18Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27514,
+    "updated_at": "2026-08-14T11:14:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Unified LLM API and agent runtime for Clojure, ClojureScript (and soon Clojure Dart)",
+    "id": "outskirtslabs/llx",
+    "language": "Clojure",
+    "name": "outskirtslabs/llx",
+    "stars": 17,
+    "updated_at": "2026-08-14T11:13:16Z",
+    "url": "https://github.com/outskirtslabs/llx"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-14T11:11:28Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3489,
-    "updated_at": "2026-08-14T10:59:41Z",
+    "updated_at": "2026-08-14T11:14:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -14,8 +50,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T10:58:09Z",
+    "updated_at": "2026-08-14T11:06:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 1,
+    "updated_at": "2026-08-14T11:03:34Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-14T11:02:08Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33087,
-    "updated_at": "2026-08-14T11:00:08Z",
+    "updated_at": "2026-08-14T11:12:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -67,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56315,
+    "stars": 56316,
     "updated_at": "2026-08-14T10:52:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-14T10:52:24Z",
+    "updated_at": "2026-08-14T11:06:24Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
-    "id": "asale-ai/llm-verify",
-    "language": "Rust",
-    "name": "asale-ai/llm-verify",
-    "stars": 1,
-    "updated_at": "2026-08-14T10:50:35Z",
-    "url": "https://github.com/asale-ai/llm-verify"
-  },
-  {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
     "id": "genieincodebottle/aiml-companion",
     "language": "Jupyter Notebook",
@@ -106,15 +160,6 @@
     "stars": 68,
     "updated_at": "2026-08-14T10:48:10Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T10:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-14T10:48:25Z",
+    "updated_at": "2026-08-14T11:01:12Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -148,7 +193,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21374,
+    "stars": 21375,
     "updated_at": "2026-08-14T10:30:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -157,7 +202,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1106,
+    "stars": 1108,
     "updated_at": "2026-08-14T10:25:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -180,15 +225,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 9,
-    "updated_at": "2026-08-14T10:07:04Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -207,31 +243,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-14T09:58:26Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2631,
+    "stars": 2632,
     "updated_at": "2026-08-14T09:58:12Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27514,
-    "updated_at": "2026-08-14T09:56:20Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
@@ -430,23 +448,5 @@
     "stars": 27,
     "updated_at": "2026-08-14T08:06:25Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-14T07:20:34Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-14T10:53:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
