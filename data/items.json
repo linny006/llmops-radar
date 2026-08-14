@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27506,
+    "updated_at": "2026-08-14T06:29:16Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:27:43Z",
+    "url": "https://github.com/justin-rhee/attest-check"
+  },
+  {
+    "description": "Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs",
+    "id": "ya-yara/codex-watchtower",
+    "language": "Python",
+    "name": "ya-yara/codex-watchtower",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:24:31Z",
+    "url": "https://github.com/ya-yara/codex-watchtower"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T06:30:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2626,
+    "updated_at": "2026-08-14T06:23:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:17:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -36,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T06:11:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T06:10:55Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:10:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -81,6 +126,15 @@
     "url": "https://github.com/api7/aisix"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8265,
+    "updated_at": "2026-08-14T06:07:56Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
     "id": "Alpha-W0lf/alphaguard",
     "language": "Python",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
-    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:05:08Z",
-    "url": "https://github.com/justin-rhee/attest-check"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -106,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-08-14T06:04:34Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -135,15 +171,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs",
-    "id": "ya-yara/codex-watchtower",
-    "language": "Python",
-    "name": "ya-yara/codex-watchtower",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:41:39Z",
-    "url": "https://github.com/ya-yara/codex-watchtower"
-  },
-  {
     "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
     "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
     "language": "Python",
@@ -153,31 +180,13 @@
     "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8264,
-    "updated_at": "2026-08-14T06:07:56Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56298,
-    "updated_at": "2026-08-14T05:27:28Z",
+    "stars": 56297,
+    "updated_at": "2026-08-14T06:23:40Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27506,
-    "updated_at": "2026-08-14T06:06:04Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Enterprise AI Agent Platform powered by LangGraph FSM, Hybrid RAG (ChromaDB + BM25), Model Fallback (GPT-4o -> Claude), ",
@@ -193,7 +202,7 @@
     "id": "shinjaehyun20/ai-workflow-kits",
     "language": "Python",
     "name": "shinjaehyun20/ai-workflow-kits",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-14T05:16:40Z",
     "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
   },
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T06:10:05Z",
+    "updated_at": "2026-08-14T06:30:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -387,15 +396,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2625,
-    "updated_at": "2026-08-14T03:46:28Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
     "id": "USTechAutomations/agent-audit",
     "language": "Python",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33079,
-    "updated_at": "2026-08-14T03:23:15Z",
+    "updated_at": "2026-08-14T06:26:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
