@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 09:43 UTC
+> ⏰ Last updated: 2026-08-14 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27512 | Python | 2026-08-14 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 3 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-14 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 4 | [krunlp/AI-Prep-Buddy](https://github.com/krunlp/AI-Prep-Buddy) | 0 | HTML | 2026-08-14 | 1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en |
-| 5 | [SignalLayerLabs/Marginal](https://github.com/SignalLayerLabs/Marginal) | 4 | Python | 2026-08-14 | Compute capital allocation for AI agents — fund only actions whose expected marginal value justifies tokens, cost, laten |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-14 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27512 | Python | 2026-08-14 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 4 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-14 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 5 | [krunlp/AI-Prep-Buddy](https://github.com/krunlp/AI-Prep-Buddy) | 0 | HTML | 2026-08-14 | 1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en |
+| 6 | [SignalLayerLabs/Marginal](https://github.com/SignalLayerLabs/Marginal) | 4 | Python | 2026-08-14 | Compute capital allocation for AI agents — fund only actions whose expected marginal value justifies tokens, cost, laten |
 | 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56312 | Python | 2026-08-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 8 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-14 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33084 | TypeScript | 2026-08-14 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
