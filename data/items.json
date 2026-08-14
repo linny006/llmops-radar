@@ -1,11 +1,29 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2628,
+    "updated_at": "2026-08-14T07:16:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-14T07:13:09Z",
+    "updated_at": "2026-08-14T07:17:27Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -27,15 +45,6 @@
     "url": "https://github.com/HSPK/loom"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2628,
-    "updated_at": "2026-08-14T07:06:07Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27510,
-    "updated_at": "2026-08-14T07:04:58Z",
+    "updated_at": "2026-08-14T07:18:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-08-14T06:51:46Z",
     "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
