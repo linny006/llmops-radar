@@ -1,11 +1,101 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T09:00:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2629,
+    "updated_at": "2026-08-14T08:56:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33083,
+    "updated_at": "2026-08-14T08:58:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 73,
+    "updated_at": "2026-08-14T08:55:01Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 10,
+    "updated_at": "2026-08-14T08:53:06Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21372,
+    "updated_at": "2026-08-14T08:59:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-14T08:51:18Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 230,
+    "updated_at": "2026-08-14T08:50:32Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-14T08:58:42Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 8,
-    "updated_at": "2026-08-14T08:44:07Z",
+    "updated_at": "2026-08-14T08:51:05Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -27,15 +117,6 @@
     "url": "https://github.com/responsibleai/assert-ai-action"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:42:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
     "id": "adwitiyashukla/process-twin",
     "language": "Python",
@@ -45,40 +126,13 @@
     "url": "https://github.com/adwitiyashukla/process-twin"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T08:45:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-14T08:39:56Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1064,
-    "updated_at": "2026-08-14T08:38:59Z",
+    "stars": 1068,
+    "updated_at": "2026-08-14T09:00:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-14T08:37:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27511,
-    "updated_at": "2026-08-14T08:27:04Z",
+    "updated_at": "2026-08-14T08:49:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -104,34 +158,16 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-14T08:25:40Z",
+    "updated_at": "2026-08-14T09:00:24Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 26,
-    "updated_at": "2026-08-14T08:40:51Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33083,
-    "updated_at": "2026-08-14T08:42:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56308,
-    "updated_at": "2026-08-14T08:21:05Z",
+    "stars": 56309,
+    "updated_at": "2026-08-14T08:51:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T08:19:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2629,
-    "updated_at": "2026-08-14T08:38:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T08:42:33Z",
+    "updated_at": "2026-08-14T08:46:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T07:57:12Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 10,
-    "updated_at": "2026-08-14T08:15:14Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-08-14T08:33:39Z",
+    "updated_at": "2026-08-14T08:58:58Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3489,
     "updated_at": "2026-08-14T08:26:29Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
-    "id": "justin-rhee/attest-check",
-    "language": "Shell",
-    "name": "justin-rhee/attest-check",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:27:43Z",
-    "url": "https://github.com/justin-rhee/attest-check"
-  },
-  {
-    "description": "Local-first observability and evidence-backed summaries for autonomous OpenAI Codex CLI runs",
-    "id": "ya-yara/codex-watchtower",
-    "language": "Python",
-    "name": "ya-yara/codex-watchtower",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:24:31Z",
-    "url": "https://github.com/ya-yara/codex-watchtower"
   }
 ]
