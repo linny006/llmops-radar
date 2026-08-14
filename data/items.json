@@ -1,10 +1,37 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-14T10:38:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33086,
+    "updated_at": "2026-08-14T10:39:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T10:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1095,
+    "stars": 1099,
     "updated_at": "2026-08-14T10:25:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -27,15 +54,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 387,
-    "updated_at": "2026-08-14T10:23:09Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -43,24 +61,6 @@
     "stars": 30,
     "updated_at": "2026-08-14T10:20:47Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33086,
-    "updated_at": "2026-08-14T10:30:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T10:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -108,12 +108,21 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7308,
+    "updated_at": "2026-08-14T09:58:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3489,
-    "updated_at": "2026-08-14T10:26:42Z",
+    "updated_at": "2026-08-14T10:40:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56314,
-    "updated_at": "2026-08-14T09:57:57Z",
+    "updated_at": "2026-08-14T10:31:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -148,7 +157,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27512,
+    "stars": 27513,
     "updated_at": "2026-08-14T09:56:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -189,6 +198,15 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5749,
+    "updated_at": "2026-08-14T09:32:54Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11860,
-    "updated_at": "2026-08-14T09:54:58Z",
+    "updated_at": "2026-08-14T10:38:00Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-14T10:27:51Z",
+    "updated_at": "2026-08-14T10:40:21Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 382,
-    "updated_at": "2026-08-14T08:09:01Z",
+    "updated_at": "2026-08-14T10:40:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7307,
-    "updated_at": "2026-08-14T09:58:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 29685,
     "updated_at": "2026-08-14T07:00:09Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:10:29Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   }
 ]
