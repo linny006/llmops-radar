@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11052,
+    "updated_at": "2026-08-14T19:28:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-14T19:27:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21388,
+    "updated_at": "2026-08-14T19:26:22Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 382,
+    "updated_at": "2026-08-14T19:20:19Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-14T19:20:32Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:18:45Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T19:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56349,
+    "updated_at": "2026-08-14T19:09:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33110,
+    "updated_at": "2026-08-14T19:04:36Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T19:03:11Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29688,
+    "updated_at": "2026-08-14T19:28:29Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -25,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-14T19:00:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -61,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T18:53:08Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56348,
-    "updated_at": "2026-08-14T19:09:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -104,17 +176,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 114,
-    "updated_at": "2026-08-14T18:40:26Z",
+    "updated_at": "2026-08-14T19:24:44Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21388,
-    "updated_at": "2026-08-14T18:33:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -130,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1241,
+    "stars": 1246,
     "updated_at": "2026-08-14T18:14:09Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -153,15 +216,6 @@
     "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11052,
-    "updated_at": "2026-08-14T18:48:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3491,
-    "updated_at": "2026-08-14T18:02:51Z",
+    "updated_at": "2026-08-14T19:29:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33109,
-    "updated_at": "2026-08-14T19:04:36Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -223,15 +268,6 @@
     "stars": 28,
     "updated_at": "2026-08-14T17:48:22Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 382,
-    "updated_at": "2026-08-14T19:10:15Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -261,15 +297,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29687,
-    "updated_at": "2026-08-14T19:03:08Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24235,
-    "updated_at": "2026-08-14T19:00:38Z",
+    "updated_at": "2026-08-14T19:24:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-14T18:51:57Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:45:04Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2633,
-    "updated_at": "2026-08-14T15:36:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "An open-source, steppable AI desktop automation agent for your IDE. Features a visual node-based builder, native UI tree",
-    "id": "satwiksps/mobius",
-    "language": "Python",
-    "name": "satwiksps/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:32:32Z",
-    "url": "https://github.com/satwiksps/mobius"
   }
 ]
