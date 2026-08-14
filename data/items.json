@@ -1,21 +1,84 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T19:00:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T18:43:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-14T19:00:19Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:56:18Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-14T18:53:08Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56347,
-    "updated_at": "2026-08-14T18:43:14Z",
+    "stars": 56348,
+    "updated_at": "2026-08-14T18:50:58Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:50:49Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:50:44Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T18:47:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -25,15 +88,6 @@
     "stars": 27,
     "updated_at": "2026-08-14T18:42:50Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:42:10Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -54,15 +108,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:32:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -76,7 +121,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1232,
+    "stars": 1236,
     "updated_at": "2026-08-14T18:14:09Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T18:44:45Z",
+    "updated_at": "2026-08-14T18:48:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -144,24 +189,6 @@
     "url": "https://github.com/krunlp/AI-Prep-Buddy"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-14T17:52:24Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-14T17:51:39Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -171,30 +198,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-14T17:50:47Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T17:49:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33109,
-    "updated_at": "2026-08-14T18:43:15Z",
+    "updated_at": "2026-08-14T18:48:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 382,
-    "updated_at": "2026-08-14T18:31:58Z",
+    "updated_at": "2026-08-14T18:47:12Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1304,
-    "updated_at": "2026-08-14T18:21:23Z",
+    "updated_at": "2026-08-14T18:50:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-14T16:23:07Z",
+    "updated_at": "2026-08-14T18:51:57Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T15:32:32Z",
     "url": "https://github.com/satwiksps/mobius"
-  },
-  {
-    "description": "A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local ",
-    "id": "satwiksps/tracelet",
-    "language": "TypeScript",
-    "name": "satwiksps/tracelet",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:28:02Z",
-    "url": "https://github.com/satwiksps/tracelet"
   }
 ]
