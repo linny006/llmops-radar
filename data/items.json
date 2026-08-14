@@ -1,12 +1,30 @@
 [
   {
-    "description": "A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local ",
-    "id": "satwiksps/tracelet",
-    "language": "TypeScript",
-    "name": "satwiksps/tracelet",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:37:58Z",
-    "url": "https://github.com/satwiksps/tracelet"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21379,
+    "updated_at": "2026-08-14T14:45:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27517,
+    "updated_at": "2026-08-14T14:43:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Sequential multi-agent CrewAI pipeline for incident postmortems \u2014 tested at unit + integration level via GitHub Actions ",
+    "id": "sharyaropensource/crew-incident-triage",
+    "language": "Python",
+    "name": "sharyaropensource/crew-incident-triage",
+    "stars": 0,
+    "updated_at": "2026-08-14T14:42:12Z",
+    "url": "https://github.com/sharyaropensource/crew-incident-triage"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T14:37:44Z",
+    "updated_at": "2026-08-14T14:42:04Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "A native VS Code extension bridging cloud-based LLM observability platforms (LangSmith, Langfuse, OTel) with your local ",
+    "id": "satwiksps/tracelet",
+    "language": "TypeScript",
+    "name": "satwiksps/tracelet",
+    "stars": 1,
+    "updated_at": "2026-08-14T14:42:03Z",
+    "url": "https://github.com/satwiksps/tracelet"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7312,
+    "updated_at": "2026-08-14T14:41:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3508,
+    "updated_at": "2026-08-14T14:41:11Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33098,
+    "updated_at": "2026-08-14T14:39:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T14:38:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -25,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T14:37:27Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T14:37:12Z",
+    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -95,35 +167,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3490,
-    "updated_at": "2026-08-14T14:36:24Z",
+    "updated_at": "2026-08-14T14:39:06Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Sequential multi-agent CrewAI pipeline for incident postmortems \u2014 tested at unit + integration level via GitHub Actions ",
-    "id": "sharyaropensource/crew-incident-triage",
-    "language": "Python",
-    "name": "sharyaropensource/crew-incident-triage",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:31:33Z",
-    "url": "https://github.com/sharyaropensource/crew-incident-triage"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33096,
-    "updated_at": "2026-08-14T14:30:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-14T14:35:26Z",
+    "updated_at": "2026-08-14T14:42:57Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-14T14:38:33Z",
+    "updated_at": "2026-08-14T14:38:39Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-14T14:20:55Z",
+    "updated_at": "2026-08-14T14:41:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 56330,
     "updated_at": "2026-08-14T14:10:16Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7311,
-    "updated_at": "2026-08-14T14:27:34Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T13:59:36Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-14T13:59:18Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-14T13:54:43Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21378,
-    "updated_at": "2026-08-14T14:14:31Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-14T13:52:23Z",
-    "url": "https://github.com/recetariodmix/garak"
   }
 ]
