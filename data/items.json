@@ -1,21 +1,30 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1222,
-    "updated_at": "2026-08-14T18:14:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T18:13:54Z",
+    "updated_at": "2026-08-14T18:28:47Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:25:49Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 114,
+    "updated_at": "2026-08-14T18:22:33Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -23,7 +32,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-14T18:14:40Z",
+    "updated_at": "2026-08-14T18:19:51Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -31,9 +40,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56345,
-    "updated_at": "2026-08-14T18:08:17Z",
+    "stars": 56346,
+    "updated_at": "2026-08-14T18:24:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1228,
+    "updated_at": "2026-08-14T18:14:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T18:09:36Z",
+    "updated_at": "2026-08-14T18:28:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7319,
-    "updated_at": "2026-08-14T18:03:18Z",
+    "updated_at": "2026-08-14T18:22:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
     "id": "baabakk/versioned-store",
     "language": "TypeScript",
@@ -97,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:59:51Z",
     "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:54:36Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 114,
-    "updated_at": "2026-08-14T17:53:56Z",
-    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 382,
-    "updated_at": "2026-08-14T17:44:19Z",
+    "updated_at": "2026-08-14T18:28:51Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -238,7 +238,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29686,
+    "stars": 29687,
     "updated_at": "2026-08-14T17:22:29Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -356,7 +356,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1304,
-    "updated_at": "2026-08-14T18:10:21Z",
+    "updated_at": "2026-08-14T18:21:23Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
