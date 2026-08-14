@@ -1,12 +1,111 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56282,
+    "updated_at": "2026-08-14T02:30:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2623,
+    "updated_at": "2026-08-14T02:28:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-14T02:27:21Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:24:31Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T02:14:30Z",
+    "updated_at": "2026-08-14T02:24:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
+    "id": "leeryong/NELLA",
+    "language": "TypeScript",
+    "name": "leeryong/NELLA",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:24:08Z",
+    "url": "https://github.com/leeryong/NELLA"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:22:54Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:22:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:22:01Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:17:12Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:15:28Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -99,33 +198,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56281,
-    "updated_at": "2026-08-14T02:13:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T02:04:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:04:18Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -198,15 +270,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2623,
-    "updated_at": "2026-08-14T01:54:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -268,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T01:40:43Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T01:38:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
@@ -346,18 +400,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7297,
+    "stars": 7298,
     "updated_at": "2026-08-14T01:23:37Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-14T02:06:32Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
@@ -374,7 +419,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-14T02:06:22Z",
+    "updated_at": "2026-08-14T02:28:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27503,
-    "updated_at": "2026-08-14T01:44:09Z",
+    "updated_at": "2026-08-14T02:24:58Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:51:06Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21361,
-    "updated_at": "2026-08-14T00:50:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-14T01:21:40Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:45:33Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:38:52Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:37:15Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
