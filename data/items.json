@@ -1,47 +1,11 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1201,
-    "updated_at": "2026-08-14T16:30:04Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI Systems Engineer Playbook \u2014 career roadmap, discipline references, and 3 flagship project specs for regulated-industr",
-    "id": "andrelair-platform/aisystemmaster",
-    "language": "\u2014",
-    "name": "andrelair-platform/aisystemmaster",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:29:36Z",
-    "url": "https://github.com/andrelair-platform/aisystemmaster"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1304,
-    "updated_at": "2026-08-14T16:28:17Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
     "id": "orkcom-tech/cogitorium",
     "language": "Go",
     "name": "orkcom-tech/cogitorium",
     "stars": 1,
-    "updated_at": "2026-08-14T16:27:18Z",
+    "updated_at": "2026-08-14T16:43:40Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
@@ -50,8 +14,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T16:25:20Z",
+    "updated_at": "2026-08-14T16:42:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-14T16:42:38Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56341,
+    "updated_at": "2026-08-14T16:41:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
+    "id": "ProofAgent-ai/proofagent-harness",
+    "language": "Python",
+    "name": "ProofAgent-ai/proofagent-harness",
+    "stars": 23,
+    "updated_at": "2026-08-14T16:38:45Z",
+    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
+  },
+  {
+    "description": "AI Systems Engineer Playbook \u2014 career roadmap, discipline references, and 3 flagship project specs for regulated-industr",
+    "id": "andrelair-platform/aisystemmaster",
+    "language": "TypeScript",
+    "name": "andrelair-platform/aisystemmaster",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:37:01Z",
+    "url": "https://github.com/andrelair-platform/aisystemmaster"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 114,
+    "updated_at": "2026-08-14T16:43:03Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 12,
+    "updated_at": "2026-08-14T16:34:52Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-14T16:33:57Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1207,
+    "updated_at": "2026-08-14T16:31:04Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:31:03Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1304,
+    "updated_at": "2026-08-14T16:43:46Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 382,
-    "updated_at": "2026-08-14T16:24:27Z",
+    "updated_at": "2026-08-14T16:35:19Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T16:19:53Z",
+    "updated_at": "2026-08-14T16:36:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -99,39 +153,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56340,
-    "updated_at": "2026-08-14T16:16:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 12,
-    "updated_at": "2026-08-14T16:12:38Z",
-    "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 114,
-    "updated_at": "2026-08-14T16:11:44Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-14T16:13:10Z",
+    "updated_at": "2026-08-14T16:35:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 387,
-    "updated_at": "2026-08-14T15:52:11Z",
+    "updated_at": "2026-08-14T16:40:27Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24232,
-    "updated_at": "2026-08-14T16:06:29Z",
+    "updated_at": "2026-08-14T16:45:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3490,
-    "updated_at": "2026-08-14T16:25:18Z",
+    "updated_at": "2026-08-14T16:42:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T14:28:01Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:27:22Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:26:48Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-14T16:01:14Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
