@@ -1,5 +1,86 @@
 [
   {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:28:31Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:28:26Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 25,
+    "updated_at": "2026-08-14T01:28:23Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 103,
+    "updated_at": "2026-08-14T01:25:02Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-14T01:23:33Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2623,
+    "updated_at": "2026-08-14T01:30:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56279,
+    "updated_at": "2026-08-14T01:28:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-14T01:16:16Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -7,6 +88,15 @@
     "stars": 30,
     "updated_at": "2026-08-14T01:14:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7296,
+    "updated_at": "2026-08-14T01:23:37Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -36,33 +126,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 103,
-    "updated_at": "2026-08-14T01:13:28Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56278,
-    "updated_at": "2026-08-14T01:12:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
     "id": "api-evangelist/evidently",
     "language": "\u2014",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:56:06Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:56:06Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
@@ -90,12 +144,21 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21360,
+    "updated_at": "2026-08-14T00:50:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5748,
-    "updated_at": "2026-08-14T00:46:46Z",
+    "updated_at": "2026-08-14T01:21:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T01:04:55Z",
+    "updated_at": "2026-08-14T01:25:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T00:05:31Z",
+    "updated_at": "2026-08-14T01:29:54Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -229,7 +292,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24212,
+    "stars": 24213,
     "updated_at": "2026-08-13T23:24:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -283,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33065,
+    "stars": 33067,
     "updated_at": "2026-08-13T22:34:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -313,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T22:12:59Z",
     "url": "https://github.com/MCorsato78/constituicao-executavel"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7295,
-    "updated_at": "2026-08-14T01:13:57Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T21:06:41Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:05:47Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:13:17Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 113,
-    "updated_at": "2026-08-14T00:42:21Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 6998,
-    "updated_at": "2026-08-14T00:24:10Z",
-    "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 8,
-    "updated_at": "2026-08-13T20:59:16Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11035,
-    "updated_at": "2026-08-13T20:46:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
