@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 21:15 UTC
+> ⏰ Last updated: 2026-08-14 21:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-14 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 2 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | CSS | 2026-08-14 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
-| 3 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-14 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 4 | [fauzan111/TrustGate](https://github.com/fauzan111/TrustGate) | 0 | Python | 2026-08-14 | Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered |
-| 5 | [dshakes/clickllm](https://github.com/dshakes/clickllm) | 1 | Python | 2026-08-14 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | CSS | 2026-08-14 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 2 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-14 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 2 | Python | 2026-08-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-14 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 5 | [fauzan111/TrustGate](https://github.com/fauzan111/TrustGate) | 0 | Python | 2026-08-14 | Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered |
+| 6 | [dshakes/clickllm](https://github.com/dshakes/clickllm) | 1 | Python | 2026-08-14 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
 | 7 | [clearml/clearml](https://github.com/clearml/clearml) | 6820 | Python | 2026-08-14 | ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra |
 | 8 | [dshakes/distil](https://github.com/dshakes/distil) | 14 | Python | 2026-08-14 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11053 | Python | 2026-08-14 | AI Observability & Evaluation |
@@ -80,7 +80,7 @@ expired items removed — so you can rely on what you see being current.
 | 36 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33113 | TypeScript | 2026-08-14 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 37 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 1 | TypeScript | 2026-08-14 | Drop-in LLMOps observability for RAG — multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT |
 | 38 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 114 | Rust | 2026-08-14 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 39 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1260 | Python | 2026-08-14 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 39 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1262 | Python | 2026-08-14 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 40 | [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) | 49 | TypeScript | 2026-08-14 | Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi |
 | 41 | [bytebeast/check-endpoint](https://github.com/bytebeast/check-endpoint) | 7 | Python | 2026-08-14 | Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each |
 | 42 | [baabakk/versioned-store](https://github.com/baabakk/versioned-store) | 0 | TypeScript | 2026-08-14 | Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb |
