@@ -1,5 +1,50 @@
 [
   {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:04:18Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
+    "id": "GaBySuGy/agent-guardrails",
+    "language": "Shell",
+    "name": "GaBySuGy/agent-guardrails",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:02:00Z",
+    "url": "https://github.com/GaBySuGy/agent-guardrails"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:01:49Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:00:35Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-14T01:53:52Z",
+    "updated_at": "2026-08-14T02:04:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T01:59:01Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-14T01:42:42Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-14T01:50:49Z",
+    "updated_at": "2026-08-14T02:02:20Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 24214,
     "updated_at": "2026-08-13T23:24:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:15:06Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-08-13T23:12:55Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
-    "id": "sjfakharian/zerospend",
-    "language": "JavaScript",
-    "name": "sjfakharian/zerospend",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:53:31Z",
-    "url": "https://github.com/sjfakharian/zerospend"
   }
 ]
