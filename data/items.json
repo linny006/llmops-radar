@@ -1,5 +1,68 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-14T01:14:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:11:33Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-14T01:08:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27503,
+    "updated_at": "2026-08-14T01:08:18Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 103,
+    "updated_at": "2026-08-14T01:13:28Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56278,
+    "updated_at": "2026-08-14T01:12:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
     "id": "api-evangelist/evidently",
     "language": "\u2014",
@@ -16,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:56:06Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:55:54Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-14T00:52:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
@@ -63,15 +108,6 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -79,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-14T00:42:36Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56278,
-    "updated_at": "2026-08-14T00:56:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:37:15Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-14T00:57:45Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T00:59:34Z",
+    "updated_at": "2026-08-14T01:04:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8261,
-    "updated_at": "2026-08-14T00:31:26Z",
+    "updated_at": "2026-08-14T01:05:20Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,7 +239,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-14T00:59:12Z",
+    "updated_at": "2026-08-14T01:15:06Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -265,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33062,
+    "stars": 33065,
     "updated_at": "2026-08-13T22:34:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7295,
-    "updated_at": "2026-08-13T22:12:49Z",
+    "updated_at": "2026-08-14T01:13:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 28,
     "updated_at": "2026-08-13T21:29:12Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27503,
-    "updated_at": "2026-08-14T00:26:17Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -436,17 +445,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11034,
+    "stars": 11035,
     "updated_at": "2026-08-13T20:46:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-13T20:41:42Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
