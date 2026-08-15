@@ -1,12 +1,84 @@
 [
   {
+    "description": "Type-safe {{variable}} renderer for .md files",
+    "id": "bug3/prompt-render",
+    "language": "TypeScript",
+    "name": "bug3/prompt-render",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:13:21Z",
+    "url": "https://github.com/bug3/prompt-render"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 49,
+    "updated_at": "2026-08-15T18:09:38Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T18:09:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Action receipts and chain-of-custody for AI agents",
     "id": "sandeep-alluru/groundcrew",
     "language": "Python",
     "name": "sandeep-alluru/groundcrew",
     "stars": 0,
-    "updated_at": "2026-08-15T17:59:37Z",
+    "updated_at": "2026-08-15T18:08:57Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T18:07:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:13:00Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:06:13Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56412,
+    "updated_at": "2026-08-15T18:10:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T18:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -16,24 +88,6 @@
     "stars": 11063,
     "updated_at": "2026-08-15T17:59:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T17:58:58Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56411,
-    "updated_at": "2026-08-15T17:58:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T17:53:19Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T17:49:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -171,15 +216,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:20:11Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -193,7 +229,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1551,
+    "stars": 1552,
     "updated_at": "2026-08-15T17:19:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:07:11Z",
     "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:04:13Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
@@ -306,15 +333,6 @@
     "url": "https://github.com/dshakes/clickllm"
   },
   {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 49,
-    "updated_at": "2026-08-15T16:22:36Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -322,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-08-15T16:21:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:19:23Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24256,
-    "updated_at": "2026-08-15T15:50:19Z",
+    "updated_at": "2026-08-15T18:10:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -405,15 +414,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-15T16:10:38Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -428,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1304,
-    "updated_at": "2026-08-15T15:41:04Z",
+    "updated_at": "2026-08-15T18:07:25Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
