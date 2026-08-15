@@ -1,12 +1,102 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T13:15:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:11:36Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 4,
+    "updated_at": "2026-08-15T13:11:31Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "AI systems engineering portfolio and open-source work",
+    "id": "bryllim/bryllim",
+    "language": "\u2014",
+    "name": "bryllim/bryllim",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:11:27Z",
+    "url": "https://github.com/bryllim/bryllim"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2635,
+    "updated_at": "2026-08-15T13:09:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Offline evaluation toolkit for retrieval quality, citations, and evidence-grounded RAG",
+    "id": "bryllim/evidence-rag",
+    "language": "Python",
+    "name": "bryllim/evidence-rag",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:12:49Z",
+    "url": "https://github.com/bryllim/evidence-rag"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:06:54Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-15T12:57:08Z",
+    "updated_at": "2026-08-15T13:06:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:05:06Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 31,
+    "updated_at": "2026-08-15T13:04:18Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -18,15 +108,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 4,
-    "updated_at": "2026-08-15T12:56:53Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T12:46:50Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-15T12:31:21Z",
+    "updated_at": "2026-08-15T13:11:46Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T12:36:18Z",
+    "updated_at": "2026-08-15T13:04:44Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 44,
     "updated_at": "2026-08-15T12:11:11Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-15T12:34:37Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
@@ -171,15 +234,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2635,
-    "updated_at": "2026-08-15T12:25:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -193,25 +247,16 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1435,
+    "stars": 1439,
     "updated_at": "2026-08-15T10:56:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-15T10:48:28Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1340,
+    "stars": 1341,
     "updated_at": "2026-08-15T10:42:51Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -221,7 +266,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 9,
-    "updated_at": "2026-08-15T11:57:40Z",
+    "updated_at": "2026-08-15T13:12:27Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -238,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56396,
+    "stars": 56399,
     "updated_at": "2026-08-15T10:24:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -355,7 +400,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33143,
+    "stars": 33144,
     "updated_at": "2026-08-15T07:58:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -387,15 +432,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-15T07:06:24Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
     "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
     "id": "Zonastery/bursar",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-15T06:53:34Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-15T06:52:16Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:47:11Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:37:48Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-15T06:33:38Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   }
 ]
