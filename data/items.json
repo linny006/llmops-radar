@@ -1,12 +1,84 @@
 [
   {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T15:13:08Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-15T15:12:34Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-15T15:08:24Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
     "id": "josondev/neuronworks-travel-agent",
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-15T14:57:36Z",
+    "updated_at": "2026-08-15T15:07:42Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24254,
+    "updated_at": "2026-08-15T15:15:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1304,
+    "updated_at": "2026-08-15T15:05:40Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T15:11:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T15:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27524,
+    "updated_at": "2026-08-15T15:00:16Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -36,15 +108,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T14:46:59Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
     "id": "siva010928/agnos-proxy-oss",
     "language": "Python",
@@ -54,13 +117,13 @@
     "url": "https://github.com/siva010928/agnos-proxy-oss"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-15T14:55:50Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 74,
+    "updated_at": "2026-08-15T14:43:07Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -81,15 +144,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 73,
-    "updated_at": "2026-08-15T14:43:07Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
     "id": "ajaypv/fde101",
     "language": "MDX",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:27:16Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:24:55Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -144,6 +189,15 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 5,
+    "updated_at": "2026-08-15T14:18:22Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -171,15 +225,6 @@
     "url": "https://github.com/evilstar2016/skill-doctor"
   },
   {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 4,
-    "updated_at": "2026-08-15T14:18:22Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T14:29:10Z",
+    "updated_at": "2026-08-15T15:02:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56404,
-    "updated_at": "2026-08-15T13:54:00Z",
+    "updated_at": "2026-08-15T15:13:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -223,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T13:41:47Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24254,
-    "updated_at": "2026-08-15T13:33:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-15T13:33:23Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
@@ -360,20 +387,11 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27524,
-    "updated_at": "2026-08-15T15:00:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1477,
+    "stars": 1486,
     "updated_at": "2026-08-15T10:56:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -394,15 +412,6 @@
     "stars": 9,
     "updated_at": "2026-08-15T13:12:27Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-15T14:55:39Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -427,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29693,
+    "stars": 29692,
     "updated_at": "2026-08-15T10:05:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -439,14 +448,5 @@
     "stars": 45,
     "updated_at": "2026-08-15T10:05:04Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
-    "id": "Prime-agentai/agent-approval-gate",
-    "language": "Python",
-    "name": "Prime-agentai/agent-approval-gate",
-    "stars": 1,
-    "updated_at": "2026-08-15T10:05:24Z",
-    "url": "https://github.com/Prime-agentai/agent-approval-gate"
   }
 ]
