@@ -1,11 +1,38 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1407,
+    "updated_at": "2026-08-15T10:56:27Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T10:55:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-15T10:48:28Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-15T10:45:23Z",
+    "updated_at": "2026-08-15T10:46:28Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1402,
-    "updated_at": "2026-08-15T10:32:27Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -67,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56386,
+    "stars": 56387,
     "updated_at": "2026-08-15T10:24:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T10:19:17Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T10:16:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -256,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33139,
+    "stars": 33140,
     "updated_at": "2026-08-15T07:58:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T06:16:32Z",
     "url": "https://github.com/sandeep-alluru/normsync"
-  },
-  {
-    "description": "CRDTs for distributed AI agent state and conflict-free belief merging",
-    "id": "sandeep-alluru/agentcrdt",
-    "language": "Python",
-    "name": "sandeep-alluru/agentcrdt",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:16:28Z",
-    "url": "https://github.com/sandeep-alluru/agentcrdt"
   }
 ]
