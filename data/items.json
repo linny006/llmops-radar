@@ -1,12 +1,21 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T09:46:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-15T09:52:16Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2635,
+    "updated_at": "2026-08-15T09:50:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-15T09:45:25Z",
+    "updated_at": "2026-08-15T09:48:34Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T09:46:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -27,30 +45,12 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-15T09:38:43Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2635,
-    "updated_at": "2026-08-15T09:35:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7323,
-    "updated_at": "2026-08-15T09:33:56Z",
+    "updated_at": "2026-08-15T09:51:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -58,7 +58,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56384,
+    "stars": 56385,
     "updated_at": "2026-08-15T09:31:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -121,7 +121,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1391,
+    "stars": 1392,
     "updated_at": "2026-08-15T09:23:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -148,7 +148,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24247,
+    "stars": 24248,
     "updated_at": "2026-08-15T08:52:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
