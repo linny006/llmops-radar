@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56368,
+    "updated_at": "2026-08-15T04:39:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T04:36:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T04:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -36,30 +63,12 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:25:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T04:25:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8268,
-    "updated_at": "2026-08-15T04:22:16Z",
+    "updated_at": "2026-08-15T04:39:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 45,
     "updated_at": "2026-08-15T04:05:26Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56367,
-    "updated_at": "2026-08-15T04:24:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -148,7 +148,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24240,
+    "stars": 24241,
     "updated_at": "2026-08-15T03:29:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +167,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-15T03:11:38Z",
+    "updated_at": "2026-08-15T04:41:08Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -232,6 +232,15 @@
     "stars": 2634,
     "updated_at": "2026-08-15T03:56:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T02:34:26Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -320,8 +329,17 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-15T04:23:15Z",
+    "updated_at": "2026-08-15T04:40:21Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3168,
+    "updated_at": "2026-08-15T01:04:14Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -414,6 +432,15 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 592,
+    "updated_at": "2026-08-14T23:58:41Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T00:15:15Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-14T23:54:16Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
-    "id": "dgenio/intentflow",
-    "language": "Python",
-    "name": "dgenio/intentflow",
-    "stars": 2,
-    "updated_at": "2026-08-14T23:52:59Z",
-    "url": "https://github.com/dgenio/intentflow"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-08-15T04:01:23Z",
-    "url": "https://github.com/boundflow/boundflow"
   }
 ]
