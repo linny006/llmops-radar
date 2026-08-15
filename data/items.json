@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T12:57:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:41:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-15T12:56:54Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
@@ -14,8 +23,26 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-15T12:45:10Z",
+    "updated_at": "2026-08-15T12:56:53Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T12:46:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T12:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -63,15 +90,6 @@
     "url": "https://github.com/fightheyyy/CATENA"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T12:29:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T12:18:10Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T12:15:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -202,7 +211,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1339,
+    "stars": 1340,
     "updated_at": "2026-08-15T10:42:51Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -310,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24252,
+    "stars": 24253,
     "updated_at": "2026-08-15T08:52:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -346,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33142,
+    "stars": 33143,
     "updated_at": "2026-08-15T07:58:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 19,
     "updated_at": "2026-08-15T06:33:38Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-08-15T06:30:08Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
