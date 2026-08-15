@@ -1,12 +1,111 @@
 [
   {
+    "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
+    "id": "adwitiyashukla/process-twin",
+    "language": "Python",
+    "name": "adwitiyashukla/process-twin",
+    "stars": 0,
+    "updated_at": "2026-08-15T07:00:09Z",
+    "url": "https://github.com/adwitiyashukla/process-twin"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-15T06:59:07Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:58:00Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
+    "id": "Zonastery/bursar",
+    "language": "Python",
+    "name": "Zonastery/bursar",
+    "stars": 2,
+    "updated_at": "2026-08-15T06:57:00Z",
+    "url": "https://github.com/Zonastery/bursar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T06:58:21Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-15T06:53:34Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:52:16Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:47:11Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
     "description": "Local LLM trace inspection in VS Code, with Python instrumentation and OTLP, LangSmith, and Langfuse support.",
     "id": "satwiksps/tracelet",
     "language": "TypeScript",
     "name": "satwiksps/tracelet",
     "stars": 1,
-    "updated_at": "2026-08-15T06:44:22Z",
+    "updated_at": "2026-08-15T06:46:55Z",
     "url": "https://github.com/satwiksps/tracelet"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:45:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T06:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24244,
+    "updated_at": "2026-08-15T06:52:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -16,15 +115,6 @@
     "stars": 83,
     "updated_at": "2026-08-15T06:43:12Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:42:29Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
     "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
@@ -70,33 +160,6 @@
     "stars": 19,
     "updated_at": "2026-08-15T06:33:38Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:31:07Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T06:31:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T06:30:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T05:51:51Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:51:32Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:51:07Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Human-in-the-loop checkpoints and approval gates for AI agents",
-    "id": "sandeep-alluru/humanproof",
-    "language": "Python",
-    "name": "sandeep-alluru/humanproof",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:49:54Z",
-    "url": "https://github.com/sandeep-alluru/humanproof"
-  },
-  {
-    "description": "World-state belief management and contradiction repair for AI agents",
-    "id": "sandeep-alluru/worldoracle",
-    "language": "Python",
-    "name": "sandeep-alluru/worldoracle",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:49:49Z",
-    "url": "https://github.com/sandeep-alluru/worldoracle"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:49:09Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:47:53Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:45:29Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
