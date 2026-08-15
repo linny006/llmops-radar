@@ -1,12 +1,84 @@
 [
   {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:15:04Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T14:13:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-15T14:14:39Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 4,
-    "updated_at": "2026-08-15T13:59:26Z",
+    "updated_at": "2026-08-15T14:12:14Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-15T14:10:47Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:06:55Z",
+    "url": "https://github.com/ajaypv/fde101"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:05:56Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-15T14:05:30Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-15T13:59:08Z",
+    "updated_at": "2026-08-15T14:15:15Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
@@ -27,22 +99,22 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56401,
+    "updated_at": "2026-08-15T13:54:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "OpenAI-compatible LLM governance gateway: own the control plane (auth, guardrails, budgets, encrypted key vault, cost + ",
     "id": "siva010928/agnos-proxy-oss",
     "language": "Python",
     "name": "siva010928/agnos-proxy-oss",
     "stars": 0,
-    "updated_at": "2026-08-15T13:57:58Z",
+    "updated_at": "2026-08-15T14:04:14Z",
     "url": "https://github.com/siva010928/agnos-proxy-oss"
-  },
-  {
-    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
-    "id": "ajaypv/fde101",
-    "language": "MDX",
-    "name": "ajaypv/fde101",
-    "stars": 1,
-    "updated_at": "2026-08-15T13:52:50Z",
-    "url": "https://github.com/ajaypv/fde101"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -54,31 +126,13 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T13:50:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-15T13:44:20Z",
+    "updated_at": "2026-08-15T14:11:39Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T13:43:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
@@ -108,15 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:33:31Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -144,15 +189,6 @@
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56400,
-    "updated_at": "2026-08-15T13:54:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -160,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T13:29:18Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-15T13:59:12Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -216,15 +243,6 @@
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
-    "description": "AI systems engineering portfolio and open-source work",
-    "id": "bryllim/bryllim",
-    "language": "\u2014",
-    "name": "bryllim/bryllim",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:11:27Z",
-    "url": "https://github.com/bryllim/bryllim"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -232,15 +250,6 @@
     "stars": 2635,
     "updated_at": "2026-08-15T13:09:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Offline evaluation toolkit for retrieval quality, citations, and evidence-grounded RAG",
-    "id": "bryllim/evidence-rag",
-    "language": "Python",
-    "name": "bryllim/evidence-rag",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:12:49Z",
-    "url": "https://github.com/bryllim/evidence-rag"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -288,24 +297,6 @@
     "url": "https://github.com/fightheyyy/CATENA"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-15T13:23:58Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:18:10Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -337,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1456,
+    "stars": 1460,
     "updated_at": "2026-08-15T10:56:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -448,5 +439,14 @@
     "stars": 1,
     "updated_at": "2026-08-15T08:48:57Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:07:41Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
