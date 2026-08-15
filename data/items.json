@@ -1,11 +1,47 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T12:15:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-15T12:15:16Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-15T12:11:11Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 4,
+    "updated_at": "2026-08-15T12:09:43Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-15T11:57:39Z",
+    "updated_at": "2026-08-15T12:00:30Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-15T11:57:20Z",
+    "updated_at": "2026-08-15T12:10:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/siva010928/agnos-proxy-playground"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T11:27:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
@@ -61,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-08-15T11:27:15Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7325,
+    "updated_at": "2026-08-15T11:26:28Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27524,
-    "updated_at": "2026-08-15T11:53:14Z",
+    "updated_at": "2026-08-15T12:07:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T11:47:18Z",
+    "updated_at": "2026-08-15T12:08:37Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -121,7 +157,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1429,
+    "stars": 1433,
     "updated_at": "2026-08-15T10:56:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -166,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56388,
+    "stars": 56391,
     "updated_at": "2026-08-15T10:24:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -178,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-08-15T10:19:17Z",
     "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8271,
+    "updated_at": "2026-08-15T10:14:33Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -207,15 +252,6 @@
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7324,
-    "updated_at": "2026-08-15T11:26:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "From written SOP to governed agent workflow: a KYC/CDD process twin that finds where practice diverges from policy, comp",
     "id": "adwitiyashukla/process-twin",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T09:30:23Z",
     "url": "https://github.com/adwitiyashukla/process-twin"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8269,
-    "updated_at": "2026-08-15T10:14:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "OpenAI-compatible LLM governance gateway: own the control plane (auth, guardrails, budgets, encrypted key vault, cost + ",
@@ -414,15 +441,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:22:24Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Spatial scene graphs and belief state for embodied agents",
     "id": "sandeep-alluru/polaroid",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T06:21:48Z",
     "url": "https://github.com/sandeep-alluru/polaroid"
-  },
-  {
-    "description": "Content-addressed GUI action facts for computer-use agents",
-    "id": "sandeep-alluru/clickproof",
-    "language": "Python",
-    "name": "sandeep-alluru/clickproof",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:16:47Z",
-    "url": "https://github.com/sandeep-alluru/clickproof"
-  },
-  {
-    "description": "Economy balance analysis and exploit detection for AI game agents",
-    "id": "sandeep-alluru/balancelab",
-    "language": "Python",
-    "name": "sandeep-alluru/balancelab",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:16:38Z",
-    "url": "https://github.com/sandeep-alluru/balancelab"
   }
 ]
