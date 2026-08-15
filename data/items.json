@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 5,
+    "updated_at": "2026-08-15T04:55:46Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8269,
+    "updated_at": "2026-08-15T04:54:48Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-15T04:53:39Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56368,
-    "updated_at": "2026-08-15T04:39:11Z",
+    "stars": 56370,
+    "updated_at": "2026-08-15T04:52:35Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T04:45:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T04:36:03Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T04:27:06Z",
+    "updated_at": "2026-08-15T04:54:01Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8268,
-    "updated_at": "2026-08-15T04:39:27Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
@@ -79,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-15T04:08:34Z",
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11056,
+    "updated_at": "2026-08-15T04:07:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -148,7 +175,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24241,
+    "stars": 24242,
     "updated_at": "2026-08-15T03:29:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -160,15 +187,6 @@
     "stars": 76,
     "updated_at": "2026-08-15T03:27:34Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-15T04:41:08Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -297,15 +315,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11055,
-    "updated_at": "2026-08-15T04:07:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -382,7 +391,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1334,
+    "stars": 1335,
     "updated_at": "2026-08-15T00:35:24Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 592,
     "updated_at": "2026-08-14T23:58:41Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-15T00:15:15Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   }
 ]
