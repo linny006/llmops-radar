@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T16:29:45Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T16:44:57Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56408,
+    "updated_at": "2026-08-15T16:44:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Catch what your coding agent wrote before it bills you. A static-analysis CLI + GitHub Action that flags loop-bound, fan",
+    "id": "srikalachallagundla32-cloud/finops-guard",
+    "language": "Go",
+    "name": "srikalachallagundla32-cloud/finops-guard",
+    "stars": 0,
+    "updated_at": "2026-08-15T16:42:23Z",
+    "url": "https://github.com/srikalachallagundla32-cloud/finops-guard"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-15T16:38:01Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,17 +41,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-15T16:28:41Z",
+    "updated_at": "2026-08-15T16:36:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/clickllm",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56407,
-    "updated_at": "2026-08-15T16:24:28Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "dshakes/clickllm",
+    "stars": 1,
+    "updated_at": "2026-08-15T16:32:28Z",
+    "url": "https://github.com/dshakes/clickllm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T16:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T16:29:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -81,15 +126,6 @@
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:29:59Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T16:04:04Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-15T16:00:56Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-15T15:42:52Z",
+    "updated_at": "2026-08-15T16:37:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -225,21 +252,12 @@
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:16:50Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T16:10:43Z",
+    "updated_at": "2026-08-15T16:31:31Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -301,7 +319,7 @@
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
     "name": "evilstar2016/skill-doctor",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-15T14:15:23Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
   },
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-15T12:11:11Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7326,
-    "updated_at": "2026-08-15T11:26:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1520,
-    "updated_at": "2026-08-15T10:56:27Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
