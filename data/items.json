@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T03:11:09Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-15T03:10:49Z",
+    "updated_at": "2026-08-15T03:11:38Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24237,
-    "updated_at": "2026-08-15T03:10:58Z",
+    "updated_at": "2026-08-15T03:14:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,6 +72,15 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56364,
+    "updated_at": "2026-08-15T03:07:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -70,15 +88,6 @@
     "stars": 30,
     "updated_at": "2026-08-15T03:05:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -180,15 +189,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56363,
-    "updated_at": "2026-08-15T03:07:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-15T02:59:48Z",
+    "updated_at": "2026-08-15T03:14:39Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
