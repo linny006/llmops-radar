@@ -1,11 +1,56 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:15:08Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T17:10:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:07:11Z",
+    "url": "https://github.com/TheusHen/eleanity"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T17:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:04:13Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-15T16:59:29Z",
+    "updated_at": "2026-08-15T17:12:05Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56407,
-    "updated_at": "2026-08-15T16:58:34Z",
+    "updated_at": "2026-08-15T17:10:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T16:58:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -157,18 +193,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1531,
+    "stars": 1535,
     "updated_at": "2026-08-15T16:53:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T16:52:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
@@ -261,15 +288,6 @@
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:00:14Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-15T16:37:23Z",
+    "updated_at": "2026-08-15T17:01:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -376,15 +394,6 @@
     "stars": 3492,
     "updated_at": "2026-08-15T16:10:38Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:56:42Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:42:57Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33148,
-    "updated_at": "2026-08-15T14:19:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
