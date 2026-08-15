@@ -1,30 +1,12 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-15T23:44:03Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T23:43:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T23:42:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "BerriAI/litellm",
+    "stars": 56423,
+    "updated_at": "2026-08-15T23:55:48Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -32,8 +14,53 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-15T23:41:17Z",
+    "updated_at": "2026-08-15T23:51:39Z",
     "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T23:51:26Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-15T23:50:53Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1148,
+    "updated_at": "2026-08-15T23:50:13Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T23:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-15T23:44:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "The State of AI Observability: Q2 2026. A snapshot of production monitoring practice for LLM, RAG, and agentic systems, ",
@@ -52,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T23:40:19Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1148,
-    "updated_at": "2026-08-15T23:36:40Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56423,
-    "updated_at": "2026-08-15T23:44:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
@@ -194,7 +203,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 10,
-    "updated_at": "2026-08-15T23:38:33Z",
+    "updated_at": "2026-08-15T23:56:40Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 76,
     "updated_at": "2026-08-15T23:08:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-15T23:12:16Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "State-first, resumable LLM software-build harness with provider-neutral execution and deterministic verification",
@@ -248,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-15T23:29:22Z",
+    "updated_at": "2026-08-15T23:56:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
