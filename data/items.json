@@ -1,11 +1,56 @@
 [
   {
+    "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
+    "id": "fredritchie/local-ai-assistant-ollama",
+    "language": "HCL",
+    "name": "fredritchie/local-ai-assistant-ollama",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:30:06Z",
+    "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
+  },
+  {
+    "description": "\ud83c\udf80 Evolution Ledger \u2014 append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis \u2192 change \u2192 eval \u2192 r",
+    "id": "Zijian-Ni/evolution-ledger",
+    "language": "JavaScript",
+    "name": "Zijian-Ni/evolution-ledger",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:27:44Z",
+    "url": "https://github.com/Zijian-Ni/evolution-ledger"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1148,
+    "updated_at": "2026-08-15T19:27:45Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "HTML",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:25:36Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:24:23Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-15T19:08:30Z",
+    "updated_at": "2026-08-15T19:24:17Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56414,
-    "updated_at": "2026-08-15T19:12:50Z",
+    "updated_at": "2026-08-15T19:24:09Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-15T19:21:15Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-15T19:20:53Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:19:50Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:15:31Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T19:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T19:11:08Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T19:01:59Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
@@ -67,7 +148,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1575,
+    "stars": 1578,
     "updated_at": "2026-08-15T18:54:34Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -86,7 +167,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 114,
-    "updated_at": "2026-08-15T18:52:28Z",
+    "updated_at": "2026-08-15T19:21:50Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -126,24 +207,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:15:20Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T18:35:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -153,15 +216,6 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:32:58Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -169,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:28:42Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-15T18:28:29Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-15T18:25:58Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-15T19:10:04Z",
+    "updated_at": "2026-08-15T19:19:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:08:57Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-15T19:08:28Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Spatial scene graphs and belief state for embodied agents",
@@ -415,38 +442,11 @@
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/clickllm",
+    "id": "dshakes/onpar",
     "language": "Python",
-    "name": "dshakes/clickllm",
+    "name": "dshakes/onpar",
     "stars": 1,
     "updated_at": "2026-08-15T16:32:28Z",
-    "url": "https://github.com/dshakes/clickllm"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-15T16:21:14Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 5,
-    "updated_at": "2026-08-15T16:09:00Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:04:04Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
+    "url": "https://github.com/dshakes/onpar"
   }
 ]
