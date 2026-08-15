@@ -1,21 +1,12 @@
 [
   {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 4,
-    "updated_at": "2026-08-15T13:15:47Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "GenesisClawbot/llm-drift",
     "stars": 3,
-    "updated_at": "2026-08-15T13:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-08-15T13:29:18Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,8 +14,80 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-15T13:16:04Z",
+    "updated_at": "2026-08-15T13:30:24Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-15T13:27:53Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 4,
+    "updated_at": "2026-08-15T13:30:23Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T13:26:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:26:15Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 387,
+    "updated_at": "2026-08-15T13:25:38Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:20:19Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:18:15Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:17:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
@@ -81,15 +144,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:05:06Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
     "description": "Open-source forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployme",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -108,22 +162,13 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
     "stars": 1,
-    "updated_at": "2026-08-15T12:46:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:35:59Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
+    "updated_at": "2026-08-15T12:53:45Z",
+    "url": "https://github.com/ajaypv/fde101"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -133,24 +178,6 @@
     "stars": 73,
     "updated_at": "2026-08-15T12:35:56Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-15T12:33:11Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:11:46Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-15T13:04:44Z",
+    "updated_at": "2026-08-15T13:23:58Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-15T11:27:15Z",
+    "updated_at": "2026-08-15T13:29:32Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
@@ -247,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1440,
+    "stars": 1445,
     "updated_at": "2026-08-15T10:56:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56399,
-    "updated_at": "2026-08-15T10:24:43Z",
+    "updated_at": "2026-08-15T13:29:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -310,7 +337,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29694,
+    "stars": 29693,
     "updated_at": "2026-08-15T10:05:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T07:26:56Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 14,
-    "updated_at": "2026-08-15T07:21:09Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
-    "id": "Zonastery/bursar",
-    "language": "Python",
-    "name": "Zonastery/bursar",
-    "stars": 2,
-    "updated_at": "2026-08-15T07:26:01Z",
-    "url": "https://github.com/Zonastery/bursar"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-15T06:53:34Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
