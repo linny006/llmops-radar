@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 19:30 UTC
+> ⏰ Last updated: 2026-08-16 19:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-16 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 2 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-16 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3492 | TypeScript | 2026-08-16 | The platform for LLM evaluations and AI agent testing |
-| 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 5 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
-| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-16 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 8 | [jochi2018/Soup](https://github.com/jochi2018/Soup) | 0 | Python | 2026-08-16 | Fine-tune and post-train LLMs with one command—no SSH, no config hell. |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-16 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 3 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-16 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3492 | TypeScript | 2026-08-16 | The platform for LLM evaluations and AI agent testing |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 7 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 8 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-16 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 9 | [jochi2018/Soup](https://github.com/jochi2018/Soup) | 0 | Python | 2026-08-16 | Fine-tune and post-train LLMs with one command—no SSH, no config hell. |
 | 10 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-16 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
-| 11 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1957 | Python | 2026-08-16 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 11 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1958 | Python | 2026-08-16 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 12 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-16 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
 | 13 | [erjonb19/Security-Constrained-Agent-Runtime](https://github.com/erjonb19/Security-Constrained-Agent-Runtime) | 0 | Python | 2026-08-16 | Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d |
 | 14 | [kreftamarcio/prompt-forge](https://github.com/kreftamarcio/prompt-forge) | 0 | TypeScript | 2026-08-16 | A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for |
