@@ -1,21 +1,12 @@
 [
   {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-16T20:59:55Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
     "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
+    "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-16T20:59:26Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
+    "updated_at": "2026-08-16T21:13:38Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "Jwuthri/Tracely",
     "stars": 643,
-    "updated_at": "2026-08-16T20:59:03Z",
+    "updated_at": "2026-08-16T21:12:05Z",
     "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 1,
+    "updated_at": "2026-08-16T21:12:24Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -32,8 +32,35 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-16T20:51:32Z",
+    "updated_at": "2026-08-16T21:05:18Z",
     "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56474,
+    "updated_at": "2026-08-16T21:12:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T21:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T21:05:59Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33195,
-    "updated_at": "2026-08-16T20:59:43Z",
+    "updated_at": "2026-08-16T21:06:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -63,15 +90,6 @@
     "url": "https://github.com/simplepractice/langfuse-rb"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T20:45:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -79,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:42:11Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 11,
+    "updated_at": "2026-08-16T20:34:09Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-16T20:58:21Z",
+    "updated_at": "2026-08-16T21:13:32Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -265,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1974,
+    "stars": 1977,
     "updated_at": "2026-08-16T19:09:52Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56472,
-    "updated_at": "2026-08-16T20:59:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
     "id": "SUDARSHANCHAUDHARI/FoldBackAI",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T17:00:47Z",
     "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-16T20:56:16Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:56:25Z",
-    "url": "https://github.com/api-evangelist/seldon"
   }
 ]
