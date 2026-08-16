@@ -1,11 +1,47 @@
 [
   {
+    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
+    "id": "adil-bahir/lights-out-agents",
+    "language": "Python",
+    "name": "adil-bahir/lights-out-agents",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:57:38Z",
+    "url": "https://github.com/adil-bahir/lights-out-agents"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:55:29Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "Self-hosted LLM inference platform \u2014 point your agents at your own hardware. Anthropic- and OpenAI-compatible APIs over ",
+    "id": "orchestra-hq/atlas",
+    "language": "Go",
+    "name": "orchestra-hq/atlas",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:53:35Z",
+    "url": "https://github.com/orchestra-hq/atlas"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33175,
+    "updated_at": "2026-08-16T11:48:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T11:43:24Z",
+    "updated_at": "2026-08-16T11:45:22Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "dshakes/onpar",
     "stars": 1,
-    "updated_at": "2026-08-16T11:41:49Z",
+    "updated_at": "2026-08-16T11:57:33Z",
     "url": "https://github.com/dshakes/onpar"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 10,
-    "updated_at": "2026-08-16T11:41:25Z",
+    "updated_at": "2026-08-16T11:53:51Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33174,
-    "updated_at": "2026-08-16T11:44:53Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:40:29Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
-  },
-  {
-    "description": "Self-hosted LLM inference platform \u2014 point your agents at your own hardware. Anthropic- and OpenAI-compatible APIs over ",
-    "id": "orchestra-hq/atlas",
-    "language": "Go",
-    "name": "orchestra-hq/atlas",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:37:19Z",
-    "url": "https://github.com/orchestra-hq/atlas"
   },
   {
     "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
@@ -70,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T11:34:37Z",
     "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:33:08Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
-  },
-  {
-    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
-    "id": "adil-bahir/lights-out-agents",
-    "language": "Python",
-    "name": "adil-bahir/lights-out-agents",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:33:02Z",
-    "url": "https://github.com/adil-bahir/lights-out-agents"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -167,7 +167,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 120,
-    "updated_at": "2026-08-16T11:01:42Z",
+    "updated_at": "2026-08-16T11:54:02Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8283,
-    "updated_at": "2026-08-16T11:41:02Z",
+    "updated_at": "2026-08-16T11:48:18Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -202,8 +202,8 @@
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-16T10:47:50Z",
+    "stars": 22,
+    "updated_at": "2026-08-16T11:55:36Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {

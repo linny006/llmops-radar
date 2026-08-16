@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 11:45 UTC
+> ⏰ Last updated: 2026-08-16 11:58 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 2 | [dshakes/onpar](https://github.com/dshakes/onpar) | 1 | Python | 2026-08-16 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
-| 3 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 10 | Ruby | 2026-08-16 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33174 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 5 | [josondev/neuronworks-travel-agent](https://github.com/josondev/neuronworks-travel-agent) | 0 | Python | 2026-08-16 | A Travel Agent Built using a MCP server which is deployed in streamlit  |
-| 6 | [orchestra-hq/atlas](https://github.com/orchestra-hq/atlas) | 0 | Go | 2026-08-16 | Self-hosted LLM inference platform — point your agents at your own hardware. Anthropic- and OpenAI-compatible APIs over  |
-| 7 | [SUDARSHANCHAUDHARI/FoldBackAI](https://github.com/SUDARSHANCHAUDHARI/FoldBackAI) | 1 | Python | 2026-08-16 | Lossless context compression for LLM agents — fold it down, fold it back. Compresses tool outputs/logs before the model, |
-| 8 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-08-16 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
-| 9 | [siva010928/agnos-proxy-oss](https://github.com/siva010928/agnos-proxy-oss) | 0 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault |
-| 10 | [adil-bahir/lights-out-agents](https://github.com/adil-bahir/lights-out-agents) | 0 | Python | 2026-08-16 | Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai |
+| 1 | [adil-bahir/lights-out-agents](https://github.com/adil-bahir/lights-out-agents) | 0 | Python | 2026-08-16 | Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai |
+| 2 | [siva010928/agnos-proxy-oss](https://github.com/siva010928/agnos-proxy-oss) | 0 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault |
+| 3 | [orchestra-hq/atlas](https://github.com/orchestra-hq/atlas) | 0 | Go | 2026-08-16 | Self-hosted LLM inference platform — point your agents at your own hardware. Anthropic- and OpenAI-compatible APIs over  |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33175 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [dshakes/onpar](https://github.com/dshakes/onpar) | 1 | Python | 2026-08-16 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
+| 7 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 10 | Ruby | 2026-08-16 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
+| 8 | [josondev/neuronworks-travel-agent](https://github.com/josondev/neuronworks-travel-agent) | 0 | Python | 2026-08-16 | A Travel Agent Built using a MCP server which is deployed in streamlit  |
+| 9 | [SUDARSHANCHAUDHARI/FoldBackAI](https://github.com/SUDARSHANCHAUDHARI/FoldBackAI) | 1 | Python | 2026-08-16 | Lossless context compression for LLM agents — fold it down, fold it back. Compresses tool outputs/logs before the model, |
+| 10 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-08-16 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
 | 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-16 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
 | 12 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-16 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
 | 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8283 | Rust | 2026-08-16 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 21 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27531 | Python | 2026-08-16 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 22 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 7 | TypeScript | 2026-08-16 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
-| 23 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-08-16 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 23 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-16 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
 | 24 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2639 | C++ | 2026-08-16 | Community maintained hardware plugin for vLLM on Ascend |
 | 25 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1877 | Python | 2026-08-16 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 26 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 74 | Python | 2026-08-16 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
