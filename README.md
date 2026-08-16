@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 15:15 UTC
+> ⏰ Last updated: 2026-08-16 15:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [basantchoudhary/ai-assurance-catalog](https://github.com/basantchoudhary/ai-assurance-catalog) | 0 | HTML | 2026-08-16 | Test obligations for AI applications, by architecture archetype. A catalog, not a framework. |
-| 2 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 211 | Rust | 2026-08-16 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 3 | [ashishki/telegram-research-agent](https://github.com/ashishki/telegram-research-agent) | 0 | Python | 2026-08-16 | Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24272 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33182 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 211 | Rust | 2026-08-16 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [basantchoudhary/ai-assurance-catalog](https://github.com/basantchoudhary/ai-assurance-catalog) | 0 | HTML | 2026-08-16 | Test obligations for AI applications, by architecture archetype. A catalog, not a framework. |
+| 4 | [ashishki/telegram-research-agent](https://github.com/ashishki/telegram-research-agent) | 0 | Python | 2026-08-16 | Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24272 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33182 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 7 | [tonydzi/verbatim-citation-gate](https://github.com/tonydzi/verbatim-citation-gate) | 3 | Python | 2026-08-16 | Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo |
 | 8 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is LLM ai model which can run locally on your device. |
 | 9 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | — | 2026-08-16 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
