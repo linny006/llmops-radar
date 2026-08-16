@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-16T08:00:01Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:59:13Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:58:54Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T07:58:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -63,15 +99,6 @@
     "url": "https://github.com/lisn0/tidal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T07:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -79,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-08-16T07:45:00Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T07:58:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -243,6 +261,15 @@
     "url": "https://github.com/theo-ai-lab/plimsoll"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1305,
+    "updated_at": "2026-08-16T06:48:38Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "Production AI systems, agents, and LLM engineering \u2014 architecture, safety, evaluation, observability, and real-world cas",
     "id": "adastra42/portfolio",
     "language": "\u2014",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T07:58:23Z",
+    "updated_at": "2026-08-16T08:00:13Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-16T07:43:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:13:10Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:05:01Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "sno-ai/llmix",
-    "language": "Python",
-    "name": "sno-ai/llmix",
-    "stars": 131,
-    "updated_at": "2026-08-16T04:54:03Z",
-    "url": "https://github.com/sno-ai/llmix"
   }
 ]
