@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-16T15:42:05Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-08-16T15:35:02Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "basantchoudhary/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "basantchoudhary/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:32:21Z",
+    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T15:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
     "id": "malkreide/zh-education-mcp",
     "language": "Python",
@@ -27,21 +63,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "basantchoudhary/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "basantchoudhary/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:25:39Z",
-    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-16T15:23:02Z",
+    "updated_at": "2026-08-16T15:36:38Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-16T15:19:21Z",
+    "updated_at": "2026-08-16T15:32:48Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -72,20 +99,11 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T15:17:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33184,
+    "stars": 33185,
     "updated_at": "2026-08-16T15:16:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -184,7 +202,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1918,
+    "stars": 1922,
     "updated_at": "2026-08-16T14:45:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-16T14:59:54Z",
+    "updated_at": "2026-08-16T15:44:11Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-16T15:08:25Z",
+    "updated_at": "2026-08-16T15:36:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T13:01:20Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T13:00:46Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 27,
-    "updated_at": "2026-08-16T12:55:03Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
