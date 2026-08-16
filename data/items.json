@@ -1,12 +1,84 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 74,
+    "updated_at": "2026-08-16T13:14:45Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-16T13:14:33Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T13:11:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 10,
+    "updated_at": "2026-08-16T13:10:05Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-16T13:08:15Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 5,
-    "updated_at": "2026-08-16T12:57:51Z",
+    "updated_at": "2026-08-16T13:07:31Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
+    "id": "NadeemAhmad3/AI-Engineering-Lab",
+    "language": "Python",
+    "name": "NadeemAhmad3/AI-Engineering-Lab",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:04:07Z",
+    "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27531,
+    "updated_at": "2026-08-16T13:02:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:01:20Z",
+    "url": "https://github.com/Traigent/tvl"
   },
   {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T12:54:03Z",
+    "updated_at": "2026-08-16T13:00:46Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T13:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -36,15 +117,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T12:47:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -54,13 +126,13 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T12:41:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1306,
+    "updated_at": "2026-08-16T12:44:15Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
@@ -99,30 +171,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:26:41Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:22:59Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33178,
-    "updated_at": "2026-08-16T12:22:44Z",
+    "stars": 33179,
+    "updated_at": "2026-08-16T13:12:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8283,
-    "updated_at": "2026-08-16T12:19:53Z",
+    "updated_at": "2026-08-16T13:02:25Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/orchestra-hq/atlas"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 10,
-    "updated_at": "2026-08-16T11:53:51Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
     "id": "SUDARSHANCHAUDHARI/FoldBackAI",
     "language": "Python",
@@ -266,17 +311,8 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3173,
-    "updated_at": "2026-08-16T11:00:24Z",
+    "updated_at": "2026-08-16T13:05:55Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27531,
-    "updated_at": "2026-08-16T12:57:55Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -310,18 +346,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1888,
+    "stars": 1891,
     "updated_at": "2026-08-16T10:35:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 74,
-    "updated_at": "2026-08-16T12:50:39Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T13:00:23Z",
+    "updated_at": "2026-08-16T13:06:51Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:48:58Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-16T09:35:39Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
-    "id": "NadeemAhmad3/AI-Engineering-Lab",
-    "language": "Python",
-    "name": "NadeemAhmad3/AI-Engineering-Lab",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:05:13Z",
-    "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
-  },
-  {
-    "description": "Check LLM requests against provider rules before sending. Offline CLI for JSON Schema subsets and prompt-cache safety.",
-    "id": "Hotragn/schemaport",
-    "language": "Python",
-    "name": "Hotragn/schemaport",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:55:42Z",
-    "url": "https://github.com/Hotragn/schemaport"
   }
 ]
