@@ -1,5 +1,32 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:59:22Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-15T23:59:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-15T23:57:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -18,15 +45,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-15T23:51:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -43,15 +61,6 @@
     "stars": 1148,
     "updated_at": "2026-08-15T23:50:13Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-15T23:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T23:38:25Z",
     "url": "https://github.com/ab2954-rgb/lights-out-agents"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-15T23:28:19Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
@@ -301,7 +301,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 642,
+    "stars": 643,
     "updated_at": "2026-08-15T21:36:04Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
