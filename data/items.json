@@ -1,5 +1,59 @@
 [
   {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "basantchoudhary/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "basantchoudhary/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:08:20Z",
+    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 211,
+    "updated_at": "2026-08-16T15:06:41Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:06:09Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24272,
+    "updated_at": "2026-08-16T15:07:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33182,
+    "updated_at": "2026-08-16T15:00:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T15:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
     "id": "tonydzi/verbatim-citation-gate",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "basantchoudhary/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "basantchoudhary/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:58:05Z",
-    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
-  },
-  {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
     "id": "runcycles/cycles-server-admin",
     "language": "Java",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "siva010928/agnos-proxy-oss",
     "stars": 0,
-    "updated_at": "2026-08-16T14:57:24Z",
+    "updated_at": "2026-08-16T15:08:58Z",
     "url": "https://github.com/siva010928/agnos-proxy-oss"
   },
   {
@@ -67,18 +112,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27531,
+    "stars": 27532,
     "updated_at": "2026-08-16T14:52:08Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33182,
-    "updated_at": "2026-08-16T14:55:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
@@ -90,20 +126,11 @@
     "url": "https://github.com/tonydzi/awesome-verified-agents"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T14:47:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1913,
+    "stars": 1916,
     "updated_at": "2026-08-16T14:45:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-16T14:45:32Z",
+    "updated_at": "2026-08-16T15:09:36Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-16T14:51:10Z",
+    "updated_at": "2026-08-16T15:12:16Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-16T14:41:31Z",
+    "updated_at": "2026-08-16T15:08:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7342,
-    "updated_at": "2026-08-16T13:31:10Z",
+    "updated_at": "2026-08-16T15:13:25Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 27,
     "updated_at": "2026-08-16T12:55:03Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1306,
-    "updated_at": "2026-08-16T14:43:42Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 211,
-    "updated_at": "2026-08-16T14:55:25Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/onpar",
-    "language": "Python",
-    "name": "dshakes/onpar",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:16:27Z",
-    "url": "https://github.com/dshakes/onpar"
   }
 ]
