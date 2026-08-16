@@ -1,12 +1,75 @@
 [
   {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-08-16T03:44:32Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-08-16T03:43:24Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T03:42:41Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
     "description": "",
     "id": "sayon999-d/Limbi",
     "language": "Python",
     "name": "sayon999-d/Limbi",
     "stars": 1,
-    "updated_at": "2026-08-16T03:33:01Z",
+    "updated_at": "2026-08-16T03:39:14Z",
     "url": "https://github.com/sayon999-d/Limbi"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 1,
+    "updated_at": "2026-08-16T03:39:12Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-16T03:37:52Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
+    "stars": 1,
+    "updated_at": "2026-08-16T03:35:33Z",
+    "url": "https://github.com/ajaypv/fde101"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T03:33:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -27,15 +90,6 @@
     "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T03:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
     "id": "Jwuthri/Tracely",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 643,
     "updated_at": "2026-08-16T03:29:41Z",
     "url": "https://github.com/Jwuthri/Tracely"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-16T03:26:24Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -68,24 +113,15 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-16T03:22:55Z",
+    "updated_at": "2026-08-16T03:41:15Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T03:20:35Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56429,
+    "stars": 56430,
     "updated_at": "2026-08-16T03:20:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-16T03:20:01Z",
+    "updated_at": "2026-08-16T03:43:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-08-16T03:18:19Z",
+    "updated_at": "2026-08-16T03:42:49Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -149,7 +185,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-16T03:04:28Z",
+    "updated_at": "2026-08-16T03:45:17Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -364,7 +400,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7333,
+    "stars": 7334,
     "updated_at": "2026-08-16T00:52:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T00:10:06Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 54,
-    "updated_at": "2026-08-16T00:07:04Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-08-16T00:06:19Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "The State of AI Observability: Q2 2026. A snapshot of production monitoring practice for LLM, RAG, and agentic systems, ",
-    "id": "vkorost/state-of-ai-observability-2026",
-    "language": "\u2014",
-    "name": "vkorost/state-of-ai-observability-2026",
-    "stars": 1,
-    "updated_at": "2026-08-15T23:41:58Z",
-    "url": "https://github.com/vkorost/state-of-ai-observability-2026"
-  },
-  {
-    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
-    "id": "ab2954-rgb/lights-out-agents",
-    "language": "Python",
-    "name": "ab2954-rgb/lights-out-agents",
-    "stars": 0,
-    "updated_at": "2026-08-15T23:38:25Z",
-    "url": "https://github.com/ab2954-rgb/lights-out-agents"
   }
 ]
