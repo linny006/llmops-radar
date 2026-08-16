@@ -1,21 +1,39 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-16T22:30:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-16T22:27:14Z",
+    "updated_at": "2026-08-16T22:34:32Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-16T22:31:03Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-16T22:44:10Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -31,18 +49,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29718,
+    "stars": 29721,
     "updated_at": "2026-08-16T22:21:06Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T22:20:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -139,8 +148,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56479,
-    "updated_at": "2026-08-16T21:40:51Z",
+    "stars": 56480,
+    "updated_at": "2026-08-16T22:44:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7346,
-    "updated_at": "2026-08-16T21:15:37Z",
+    "updated_at": "2026-08-16T22:36:37Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -328,7 +337,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1988,
+    "stars": 1990,
     "updated_at": "2026-08-16T19:09:52Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -418,7 +427,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24278,
+    "stars": 24279,
     "updated_at": "2026-08-16T18:05:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 211,
     "updated_at": "2026-08-16T18:03:41Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
-    "id": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "language": "Python",
-    "name": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:19:54Z",
-    "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
   }
 ]
