@@ -1,11 +1,56 @@
 [
   {
+    "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
+    "id": "Illuminfti/flow",
+    "language": "Python",
+    "name": "Illuminfti/flow",
+    "stars": 6,
+    "updated_at": "2026-08-16T19:44:03Z",
+    "url": "https://github.com/Illuminfti/flow"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:42:50Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "\ud83c\udf80 Evolution Ledger \u2014 append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis \u2192 change \u2192 eval \u2192 r",
+    "id": "Zijian-Ni/evolution-ledger",
+    "language": "JavaScript",
+    "name": "Zijian-Ni/evolution-ledger",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:41:07Z",
+    "url": "https://github.com/Zijian-Ni/evolution-ledger"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:44:19Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-08-16T19:37:28Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T19:30:22Z",
+    "updated_at": "2026-08-16T19:31:58Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-16T19:27:52Z",
+    "updated_at": "2026-08-16T19:42:46Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T19:29:26Z",
+    "updated_at": "2026-08-16T19:37:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T19:24:18Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:29:18Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -94,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1958,
+    "stars": 1960,
     "updated_at": "2026-08-16T19:09:52Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:02:31Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:59:30Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-16T18:52:38Z",
+    "updated_at": "2026-08-16T19:37:01Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 643,
     "updated_at": "2026-08-16T18:10:41Z",
     "url": "https://github.com/Jwuthri/Tracely"
-  },
-  {
-    "description": "\ud83c\udf80 Evolution Ledger \u2014 append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis \u2192 change \u2192 eval \u2192 r",
-    "id": "Zijian-Ni/evolution-ledger",
-    "language": "JavaScript",
-    "name": "Zijian-Ni/evolution-ledger",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:09:45Z",
-    "url": "https://github.com/Zijian-Ni/evolution-ledger"
   },
   {
     "description": "Provider-agnostic local API usage, balance, quota, and rate-limit monitor",
@@ -301,7 +319,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56469,
+    "stars": 56470,
     "updated_at": "2026-08-16T17:46:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T16:52:52Z",
     "url": "https://github.com/Zonastery/bursar"
-  },
-  {
-    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:49:42Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:45:56Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
