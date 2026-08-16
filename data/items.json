@@ -1,5 +1,86 @@
 [
   {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-16T08:59:21Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:58:00Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:56:15Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:56:13Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Check LLM requests against provider rules before sending. Offline CLI for JSON Schema subsets and prompt-cache safety.",
+    "id": "Hotragn/schemaport",
+    "language": "Python",
+    "name": "Hotragn/schemaport",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:55:42Z",
+    "url": "https://github.com/Hotragn/schemaport"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T08:51:26Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-16T08:51:25Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Evaluation harness for LLM apps: YAML suites over golden datasets, deterministic scorers and LLM-as-judge, and case-by-c",
+    "id": "ridwanspace/llm-eval-harness",
+    "language": "Python",
+    "name": "ridwanspace/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:48:51Z",
+    "url": "https://github.com/ridwanspace/llm-eval-harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T08:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
     "id": "ashishki/telegram-research-agent",
     "language": "Python",
@@ -14,26 +95,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T08:45:08Z",
+    "updated_at": "2026-08-16T08:55:11Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T08:37:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T08:37:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -52,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-08-16T08:42:57Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:32:51Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -90,15 +144,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Evaluation harness for LLM apps: YAML suites over golden datasets, deterministic scorers and LLM-as-judge, and case-by-c",
-    "id": "ridwanspace/llm-eval-harness",
-    "language": "Python",
-    "name": "ridwanspace/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:25:44Z",
-    "url": "https://github.com/ridwanspace/llm-eval-harness"
-  },
-  {
     "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
     "id": "runcycles/langchain-runcycles",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T08:23:59Z",
     "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:21:51Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -157,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1829,
+    "stars": 1836,
     "updated_at": "2026-08-16T08:02:37Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -180,15 +216,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Check LLM requests against provider rules before sending. Offline CLI for JSON Schema subsets and prompt-cache safety.",
-    "id": "Hotragn/schemaport",
-    "language": "Python",
-    "name": "Hotragn/schemaport",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:45:04Z",
-    "url": "https://github.com/Hotragn/schemaport"
-  },
-  {
     "description": "OpenAI-compatible gateway for LLM traffic: tiered routing by task complexity, provider fallback with circuit breaking, p",
     "id": "ridwanspace/llm-cost-gateway",
     "language": "Python",
@@ -207,15 +234,6 @@
     "url": "https://github.com/lisn0/tidal"
   },
   {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-16T07:45:00Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -232,15 +250,6 @@
     "stars": 8282,
     "updated_at": "2026-08-16T07:20:33Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-16T07:09:27Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -329,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1305,
-    "updated_at": "2026-08-16T06:48:38Z",
+    "updated_at": "2026-08-16T08:59:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11069,
     "updated_at": "2026-08-16T06:02:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27529,
-    "updated_at": "2026-08-16T05:53:52Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
