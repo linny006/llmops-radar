@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T17:57:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "acblabs/agent-assure",
     "stars": 0,
-    "updated_at": "2026-08-16T17:55:31Z",
+    "updated_at": "2026-08-16T17:57:52Z",
     "url": "https://github.com/acblabs/agent-assure"
   },
   {
@@ -54,6 +63,15 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56466,
+    "updated_at": "2026-08-16T17:46:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -61,15 +79,6 @@
     "stars": 49,
     "updated_at": "2026-08-16T17:50:32Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T17:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83c\udf80 Evolution Ledger \u2014 append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis \u2192 change \u2192 eval \u2192 r",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T16:28:39Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:22:32Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
