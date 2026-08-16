@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-16T13:26:06Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "basantchoudhary/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "basantchoudhary/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:24:07Z",
+    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:22:55Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T13:22:35Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 6,
+    "updated_at": "2026-08-16T13:22:27Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 5,
+    "updated_at": "2026-08-16T13:18:52Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27531,
+    "updated_at": "2026-08-16T13:18:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T13:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 10,
-    "updated_at": "2026-08-16T13:10:05Z",
+    "updated_at": "2026-08-16T13:18:20Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 5,
-    "updated_at": "2026-08-16T13:07:31Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Practical AI engineering experiments, implementations, benchmarks, and production patterns \u2014 from ML & deep learning to ",
     "id": "NadeemAhmad3/AI-Engineering-Lab",
     "language": "Python",
@@ -63,13 +126,13 @@
     "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27531,
-    "updated_at": "2026-08-16T13:02:55Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8282,
+    "updated_at": "2026-08-16T13:02:25Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -90,15 +153,6 @@
     "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T13:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -113,7 +167,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-16T12:48:33Z",
+    "updated_at": "2026-08-16T13:27:15Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T12:46:18Z",
+    "updated_at": "2026-08-16T13:26:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,17 +185,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1306,
-    "updated_at": "2026-08-16T12:44:15Z",
+    "updated_at": "2026-08-16T13:23:55Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "basantchoudhary/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "basantchoudhary/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:41:20Z",
-    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -176,17 +221,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33179,
-    "updated_at": "2026-08-16T13:12:50Z",
+    "updated_at": "2026-08-16T13:22:41Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8283,
-    "updated_at": "2026-08-16T13:02:25Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T12:16:27Z",
     "url": "https://github.com/dshakes/onpar"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:37:13Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Mission-control dashboard over the LLM ops seam \u2014 cost burn-down, eval regression diffs, circuit-breaker health, prompt-",
@@ -261,15 +288,6 @@
     "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T11:24:34Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
     "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 120,
-    "updated_at": "2026-08-16T11:54:02Z",
+    "updated_at": "2026-08-16T13:23:18Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3173,
-    "updated_at": "2026-08-16T13:05:55Z",
+    "updated_at": "2026-08-16T13:24:04Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -346,7 +364,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1891,
+    "stars": 1895,
     "updated_at": "2026-08-16T10:35:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T13:06:51Z",
+    "updated_at": "2026-08-16T13:20:27Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T09:57:52Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-16T09:42:18Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:48:58Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   }
 ]
