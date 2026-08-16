@@ -1,21 +1,93 @@
 [
   {
-    "description": "Nexus-LLM is a ai model which can run locally on your device.",
+    "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
+    "id": "tonydzi/verbatim-citation-gate",
+    "language": "Python",
+    "name": "tonydzi/verbatim-citation-gate",
+    "stars": 3,
+    "updated_at": "2026-08-16T15:00:07Z",
+    "url": "https://github.com/tonydzi/verbatim-citation-gate"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-16T14:45:52Z",
+    "updated_at": "2026-08-16T14:59:12Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "\u2014",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:58:44Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T14:58:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "basantchoudhary/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "basantchoudhary/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:58:05Z",
+    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-08-16T14:55:40Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
+    "id": "siva010928/agnos-proxy-oss",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1910,
-    "updated_at": "2026-08-16T14:45:49Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:57:24Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27531,
+    "updated_at": "2026-08-16T14:52:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33182,
+    "updated_at": "2026-08-16T14:55:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "tonydzi/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "tonydzi/awesome-verified-agents",
+    "stars": 1,
+    "updated_at": "2026-08-16T14:48:51Z",
+    "url": "https://github.com/tonydzi/awesome-verified-agents"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +95,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T14:45:27Z",
+    "updated_at": "2026-08-16T14:47:18Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1913,
+    "updated_at": "2026-08-16T14:45:49Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -41,17 +122,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-16T14:41:52Z",
+    "updated_at": "2026-08-16T14:59:54Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "basantchoudhary/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "basantchoudhary/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:39:46Z",
-    "url": "https://github.com/basantchoudhary/ai-assurance-catalog"
   },
   {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
@@ -63,15 +135,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33181,
-    "updated_at": "2026-08-16T14:37:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T14:36:31Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
-    "id": "tonydzi/awesome-verified-agents",
-    "language": "\u2014",
-    "name": "tonydzi/awesome-verified-agents",
-    "stars": 1,
-    "updated_at": "2026-08-16T14:36:06Z",
-    "url": "https://github.com/tonydzi/awesome-verified-agents"
   },
   {
     "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T14:46:03Z",
+    "updated_at": "2026-08-16T14:56:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,21 +189,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:27:37Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-16T14:23:36Z",
+    "updated_at": "2026-08-16T14:51:10Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -205,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T14:20:10Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T14:19:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27531,
-    "updated_at": "2026-08-16T14:46:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
@@ -292,7 +319,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7341,
+    "stars": 7342,
     "updated_at": "2026-08-16T13:31:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-16T13:22:55Z",
+    "updated_at": "2026-08-16T14:54:57Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 211,
-    "updated_at": "2026-08-16T12:36:08Z",
+    "updated_at": "2026-08-16T14:55:25Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T12:16:27Z",
     "url": "https://github.com/dshakes/onpar"
-  },
-  {
-    "description": "Mission-control dashboard over the LLM ops seam \u2014 cost burn-down, eval regression diffs, circuit-breaker health, prompt-",
-    "id": "ridwanspace/llm-flightdeck",
-    "language": "TypeScript",
-    "name": "ridwanspace/llm-flightdeck",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:10:23Z",
-    "url": "https://github.com/ridwanspace/llm-flightdeck"
-  },
-  {
-    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
-    "id": "adil-bahir/lights-out-agents",
-    "language": "Python",
-    "name": "adil-bahir/lights-out-agents",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:58:11Z",
-    "url": "https://github.com/adil-bahir/lights-out-agents"
-  },
-  {
-    "description": "Self-hosted LLM inference platform \u2014 point your agents at your own hardware. Anthropic- and OpenAI-compatible APIs over ",
-    "id": "orchestra-hq/atlas",
-    "language": "Go",
-    "name": "orchestra-hq/atlas",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:53:35Z",
-    "url": "https://github.com/orchestra-hq/atlas"
   }
 ]
