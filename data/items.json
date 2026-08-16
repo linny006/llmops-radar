@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1810,
+    "updated_at": "2026-08-16T07:57:13Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:54:32Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Check LLM requests against provider rules before sending. Offline CLI for JSON Schema subsets and prompt-cache safety.",
+    "id": "Hotragn/schemaport",
+    "language": "Python",
+    "name": "Hotragn/schemaport",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:53:19Z",
+    "url": "https://github.com/Hotragn/schemaport"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:53:55Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "OpenAI-compatible gateway for LLM traffic: tiered routing by task complexity, provider fallback with circuit breaking, p",
+    "id": "ridwanspace/llm-cost-gateway",
+    "language": "Python",
+    "name": "ridwanspace/llm-cost-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:49:01Z",
+    "url": "https://github.com/ridwanspace/llm-cost-gateway"
+  },
+  {
+    "description": "Evaluation harness for LLM apps: YAML suites over golden datasets, deterministic scorers and LLM-as-judge, and case-by-c",
+    "id": "ridwanspace/llm-eval-harness",
+    "language": "Python",
+    "name": "ridwanspace/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:48:53Z",
+    "url": "https://github.com/ridwanspace/llm-eval-harness"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:46:35Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -9,31 +81,13 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 1805,
-    "updated_at": "2026-08-16T07:44:03Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-16T07:42:15Z",
+    "updated_at": "2026-08-16T07:58:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T07:44:01Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -52,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T07:33:28Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T07:32:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T07:42:54Z",
+    "updated_at": "2026-08-16T07:56:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -207,24 +252,6 @@
     "url": "https://github.com/adastra42/portfolio"
   },
   {
-    "description": "OpenAI-compatible gateway for LLM traffic: tiered routing by task complexity, provider fallback with circuit breaking, p",
-    "id": "ridwanspace/llm-cost-gateway",
-    "language": "Python",
-    "name": "ridwanspace/llm-cost-gateway",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:40:20Z",
-    "url": "https://github.com/ridwanspace/llm-cost-gateway"
-  },
-  {
-    "description": "Evaluation harness for LLM apps: YAML suites over golden datasets, deterministic scorers and LLM-as-judge, and case-by-c",
-    "id": "ridwanspace/llm-eval-harness",
-    "language": "Python",
-    "name": "ridwanspace/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:40:11Z",
-    "url": "https://github.com/ridwanspace/llm-eval-harness"
-  },
-  {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
     "id": "dshakes/onpar",
     "language": "Python",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T07:44:17Z",
+    "updated_at": "2026-08-16T07:58:23Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 131,
     "updated_at": "2026-08-16T04:54:03Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T04:28:51Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:26:44Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:25:53Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
