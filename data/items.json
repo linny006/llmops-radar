@@ -1,21 +1,57 @@
 [
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-16T13:53:21Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27531,
-    "updated_at": "2026-08-16T13:49:02Z",
+    "updated_at": "2026-08-16T13:59:59Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:54:52Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
+    "id": "runcycles/cycles-openai-agents",
+    "language": "Python",
+    "name": "runcycles/cycles-openai-agents",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:54:22Z",
+    "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T13:53:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway that splits your control plane (auth, guardrails, budgets, encrypted key vault",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:56:17Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-16T13:53:06Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -25,15 +61,6 @@
     "stars": 30,
     "updated_at": "2026-08-16T13:48:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T13:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u9762\u5411 OA\u3001ERP\u3001CRM\u3001\u5de5\u5355\u7b49\u4f01\u4e1a\u7cfb\u7edf\u5feb\u901f\u6784\u5efa\u667a\u80fd\u4f53\uff0c\u8ba9 AI \u5728\u6743\u9650\u3001\u5ba1\u8ba1\u4e0e\u6cbb\u7406\u7ea6\u675f\u4e0b\u5b89\u5168\u8c03\u7528\u771f\u5b9e\u4e1a\u52a1\u80fd\u529b\u3002Build agents quickly for enterprise systems such as OA, ERP, CR",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33180,
-    "updated_at": "2026-08-16T13:37:18Z",
+    "updated_at": "2026-08-16T13:58:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 74,
     "updated_at": "2026-08-16T13:14:45Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-16T13:53:06Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3173,
-    "updated_at": "2026-08-16T13:24:04Z",
+    "updated_at": "2026-08-16T13:55:34Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -391,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1900,
+    "stars": 1901,
     "updated_at": "2026-08-16T10:35:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T13:52:32Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
-    "id": "Prime-agentai/agent-approval-gate",
-    "language": "Python",
-    "name": "Prime-agentai/agent-approval-gate",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:07:26Z",
-    "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:05:09Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
   }
 ]
