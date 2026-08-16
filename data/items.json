@@ -1,12 +1,84 @@
 [
   {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 5,
+    "updated_at": "2026-08-16T06:57:15Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-16T06:54:46Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
     "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
     "id": "josondev/neuronworks-travel-agent",
     "language": "Python",
     "name": "josondev/neuronworks-travel-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T06:43:07Z",
+    "updated_at": "2026-08-16T06:54:37Z",
     "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:50:52Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Change your AI agent without fear \u2014 see exactly what broke before it ships. Runs in CI in seconds; deterministic, no LLM",
+    "id": "theo-ai-lab/plimsoll",
+    "language": "Python",
+    "name": "theo-ai-lab/plimsoll",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:49:35Z",
+    "url": "https://github.com/theo-ai-lab/plimsoll"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:48:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T06:46:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:56:46Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T06:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production AI systems, agents, and LLM engineering \u2014 architecture, safety, evaluation, observability, and real-world cas",
@@ -63,15 +135,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:37:50Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -124,42 +187,6 @@
     "stars": 27,
     "updated_at": "2026-08-16T06:33:21Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:32:56Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T06:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:33:28Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T06:25:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
@@ -279,15 +306,6 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 5,
-    "updated_at": "2026-08-16T05:43:10Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
     "id": "bimal1023/AI-native-engineer",
     "language": "\u2014",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-16T06:10:38Z",
+    "updated_at": "2026-08-16T06:52:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T04:16:42Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:13:46Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:13:35Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
