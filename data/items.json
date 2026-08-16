@@ -1,12 +1,57 @@
 [
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-16T07:45:00Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 1805,
+    "updated_at": "2026-08-16T07:44:03Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T07:42:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-16T07:31:34Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+    "updated_at": "2026-08-16T07:44:01Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:34:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 5,
+    "updated_at": "2026-08-16T07:33:28Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T07:30:25Z",
+    "updated_at": "2026-08-16T07:32:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:31:34Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -36,48 +90,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T07:26:59Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T07:25:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 5,
-    "updated_at": "2026-08-16T07:25:24Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-16T07:23:02Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T07:24:13Z",
+    "updated_at": "2026-08-16T07:42:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-16T07:04:46Z",
+    "updated_at": "2026-08-16T07:44:21Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-16T06:07:37Z",
+    "updated_at": "2026-08-16T07:44:17Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-16T06:52:30Z",
+    "updated_at": "2026-08-16T07:43:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T04:25:53Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:25:22Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:25:19Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
