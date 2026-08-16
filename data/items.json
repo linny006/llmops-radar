@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T18:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:30:12Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-08-16T18:28:15Z",
+    "updated_at": "2026-08-16T18:31:43Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:17:30Z",
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T18:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -171,6 +180,15 @@
     "url": "https://github.com/acblabs/agent-assure"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24276,
+    "updated_at": "2026-08-16T18:05:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7342,
-    "updated_at": "2026-08-16T18:18:06Z",
+    "updated_at": "2026-08-16T18:30:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:40:09Z",
     "url": "https://github.com/orchestra-hq/atlas"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:36:58Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:35:40Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   }
 ]
