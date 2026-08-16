@@ -1,12 +1,75 @@
 [
   {
+    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
+    "id": "adil-bahir/lights-out-agents",
+    "language": "Python",
+    "name": "adil-bahir/lights-out-agents",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:29:50Z",
+    "url": "https://github.com/adil-bahir/lights-out-agents"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 10,
+    "updated_at": "2026-08-16T11:28:51Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T11:24:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T11:24:34Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:23:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
     "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
     "name": "vinhnguyenthanhdn/bedrock-eval-harness",
     "stars": 0,
-    "updated_at": "2026-08-16T11:15:47Z",
+    "updated_at": "2026-08-16T11:23:21Z",
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-16T11:19:04Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:17:48Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T11:15:28Z",
+    "updated_at": "2026-08-16T11:16:32Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "siva010928/agnos-proxy-oss",
     "stars": 0,
-    "updated_at": "2026-08-16T11:14:57Z",
+    "updated_at": "2026-08-16T11:28:38Z",
     "url": "https://github.com/siva010928/agnos-proxy-oss"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33172,
-    "updated_at": "2026-08-16T11:12:04Z",
+    "updated_at": "2026-08-16T11:28:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -112,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1874,
+    "stars": 1875,
     "updated_at": "2026-08-16T10:35:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -126,15 +189,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T11:16:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Cycles budget and action guard for OpenClaw agents",
     "id": "runcycles/cycles-openclaw-budget-guard",
     "language": "TypeScript",
@@ -142,24 +196,6 @@
     "stars": 7,
     "updated_at": "2026-08-16T10:23:52Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
-    "id": "adil-bahir/lights-out-agents",
-    "language": "Python",
-    "name": "adil-bahir/lights-out-agents",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:22:59Z",
-    "url": "https://github.com/adil-bahir/lights-out-agents"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-16T10:21:51Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -171,15 +207,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:20:20Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T10:15:45Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T10:12:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -252,15 +270,6 @@
     "url": "https://github.com/ajaypv/fde101"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 10,
-    "updated_at": "2026-08-16T10:07:23Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
     "id": "SoraVantia/cli-modelarium",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T09:42:18Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T09:40:03Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-16T07:58:54Z",
+    "updated_at": "2026-08-16T11:20:50Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
