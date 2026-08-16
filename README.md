@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 17:30 UTC
+> ⏰ Last updated: 2026-08-16 17:43 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 2 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
-| 3 | [Zijian-Ni/evolution-ledger](https://github.com/Zijian-Ni/evolution-ledger) | 0 | JavaScript | 2026-08-16 | 🎀 Evolution Ledger — append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis → change → eval → r |
-| 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 5 | [SUDARSHANCHAUDHARI/FoldBackAI](https://github.com/SUDARSHANCHAUDHARI/FoldBackAI) | 1 | Python | 2026-08-16 | Lossless context compression for LLM agents — fold it down, fold it back. Compresses tool outputs/logs before the model, |
-| 6 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-16 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 8 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7341 | Go | 2026-08-16 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33188 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 10 | [dshakes/onpar](https://github.com/dshakes/onpar) | 1 | Python | 2026-08-16 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
-| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-16 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 12 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-16 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 13 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29714 | TypeScript | 2026-08-16 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 1 | [Zijian-Ni/evolution-ledger](https://github.com/Zijian-Ni/evolution-ledger) | 0 | JavaScript | 2026-08-16 | 🎀 Evolution Ledger — append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis → change → eval → r |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-16 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 3 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29715 | TypeScript | 2026-08-16 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [SUDARSHANCHAUDHARI/FoldBackAI](https://github.com/SUDARSHANCHAUDHARI/FoldBackAI) | 1 | Python | 2026-08-16 | Lossless context compression for LLM agents — fold it down, fold it back. Compresses tool outputs/logs before the model, |
+| 8 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-16 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-16 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7341 | Go | 2026-08-16 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33189 | TypeScript | 2026-08-16 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 12 | [dshakes/onpar](https://github.com/dshakes/onpar) | 1 | Python | 2026-08-16 | Prove which open model can replace your closed one — on your traffic, your hardware, your budget. Then move you there wi |
+| 13 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-16 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
 | 14 | [owlfoundry/owlrora](https://github.com/owlfoundry/owlrora) | 0 | Rust | 2026-08-16 | Routing and Observability for Reliable AI — a self-hosted AI gateway. |
 | 15 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-08-16 | ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s |
 | 16 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-16 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
