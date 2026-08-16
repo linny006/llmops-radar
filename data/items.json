@@ -1,12 +1,39 @@
 [
   {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-16T20:00:09Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
     "description": "A dynamic-workflow engine for any agent, any model: concurrent leaves, cost-aware routing, schema enforcement, crash-res",
     "id": "Illuminfti/flow",
     "language": "Python",
     "name": "Illuminfti/flow",
     "stars": 6,
-    "updated_at": "2026-08-16T19:53:29Z",
+    "updated_at": "2026-08-16T19:55:11Z",
     "url": "https://github.com/Illuminfti/flow"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 76,
+    "updated_at": "2026-08-16T19:54:10Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T19:53:49Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:46:40Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T19:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
@@ -148,7 +166,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 1961,
+    "stars": 1963,
     "updated_at": "2026-08-16T19:09:52Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -306,15 +324,6 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:46:50Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T16:50:54Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
-    "id": "Zonastery/bursar",
-    "language": "Python",
-    "name": "Zonastery/bursar",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:52:52Z",
-    "url": "https://github.com/Zonastery/bursar"
   }
 ]
