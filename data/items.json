@@ -1,12 +1,84 @@
 [
   {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-16T07:14:29Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-16T07:11:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:09:27Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:08:37Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "A drop-in confidence gate for LLM agents: turn token logprobs into an accept / verify / ask-a-human routing decision, wi",
+    "id": "shaxzodbek-uzb/mcp-confidence",
+    "language": "Python",
+    "name": "shaxzodbek-uzb/mcp-confidence",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:09:07Z",
+    "url": "https://github.com/shaxzodbek-uzb/mcp-confidence"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-16T07:04:46Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
     "stars": 1,
-    "updated_at": "2026-08-16T06:58:05Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+    "updated_at": "2026-08-16T07:02:36Z",
+    "url": "https://github.com/ajaypv/fde101"
+  },
+  {
+    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
+    "id": "josondev/neuronworks-travel-agent",
+    "language": "Python",
+    "name": "josondev/neuronworks-travel-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:00:48Z",
+    "url": "https://github.com/josondev/neuronworks-travel-agent"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-16T07:00:48Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T06:57:30Z",
+    "updated_at": "2026-08-16T07:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:58:05Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "Self-hosted AI gateway: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact+semantic response cache",
@@ -34,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-08-16T06:54:46Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "A Travel Agent Built using a MCP server which is deployed in streamlit ",
-    "id": "josondev/neuronworks-travel-agent",
-    "language": "Python",
-    "name": "josondev/neuronworks-travel-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:54:37Z",
-    "url": "https://github.com/josondev/neuronworks-travel-agent"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -72,21 +144,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-16T06:59:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-16T06:56:46Z",
+    "updated_at": "2026-08-16T07:09:50Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:37:32Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -198,15 +252,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
-    "id": "ajaypv/fde101",
-    "language": "MDX",
-    "name": "ajaypv/fde101",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:25:17Z",
-    "url": "https://github.com/ajaypv/fde101"
-  },
-  {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
     "id": "Jwuthri/Tracely",
     "language": "Python",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-16T06:15:25Z",
+    "updated_at": "2026-08-16T07:09:00Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 11069,
     "updated_at": "2026-08-16T06:02:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A drop-in confidence gate for LLM agents: turn token logprobs into an accept / verify / ask-a-human routing decision, wi",
-    "id": "shaxzodbek-uzb/mcp-confidence",
-    "language": "Python",
-    "name": "shaxzodbek-uzb/mcp-confidence",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:09:39Z",
-    "url": "https://github.com/shaxzodbek-uzb/mcp-confidence"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T04:25:19Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:23:54Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:22:06Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:20:23Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:16:56Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
