@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 07:45 UTC
+> ⏰ Last updated: 2026-08-17 07:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 2 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3493 | TypeScript | 2026-08-17 | The platform for LLM evaluations and AI agent testing |
-| 3 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1687 | Python | 2026-08-17 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 4 | [api7/aisix](https://github.com/api7/aisix) | 106 | Rust | 2026-08-17 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 5 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5698 | Go | 2026-08-17 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 6 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-17 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3493 | TypeScript | 2026-08-17 | The platform for LLM evaluations and AI agent testing |
+| 4 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1687 | Python | 2026-08-17 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 5 | [api7/aisix](https://github.com/api7/aisix) | 106 | Rust | 2026-08-17 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 6 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5698 | Go | 2026-08-17 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 7 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-17 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 8 | [royalpinto007/awesome-llm-guardrails](https://github.com/royalpinto007/awesome-llm-guardrails) | 0 | HTML | 2026-08-17 | A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf |
 | 9 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-08-17 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
 | 10 | [skalaliya/llm-ledger](https://github.com/skalaliya/llm-ledger) | 0 | Python | 2026-08-17 | FinOps for LLMs — Dagster + dbt/DuckDB medallion pipeline turning LLM-gateway logs into cost, latency & error analytics, |
