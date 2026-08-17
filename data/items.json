@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 391,
+    "updated_at": "2026-08-17T10:42:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:40:14Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/onpar",
+    "language": "Python",
+    "name": "dshakes/onpar",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:38:31Z",
+    "url": "https://github.com/dshakes/onpar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-17T10:27:09Z",
+    "updated_at": "2026-08-17T10:36:14Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T10:45:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-17T10:31:30Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 11,
+    "updated_at": "2026-08-17T10:31:23Z",
+    "url": "https://github.com/8pig/llm-ops"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,8 +68,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-17T10:22:54Z",
+    "updated_at": "2026-08-17T10:30:50Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T10:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-08-17T10:29:43Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:29:33Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -31,7 +112,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33233,
+    "stars": 33235,
     "updated_at": "2026-08-17T10:21:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -52,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-17T10:20:26Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T10:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -104,7 +176,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T10:27:14Z",
+    "updated_at": "2026-08-17T10:34:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -153,33 +225,6 @@
     "url": "https://github.com/asale-ai/llm-verify"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T10:30:08Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:49:01Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-17T09:40:21Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
     "id": "SignalLayerLabs/Marginal",
     "language": "Python",
@@ -189,21 +234,12 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:29:33Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21422,
-    "updated_at": "2026-08-17T09:34:20Z",
+    "updated_at": "2026-08-17T10:35:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1689,
-    "updated_at": "2026-08-17T10:12:37Z",
+    "updated_at": "2026-08-17T10:32:07Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 391,
-    "updated_at": "2026-08-17T10:26:23Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1065,
-    "updated_at": "2026-08-17T09:21:40Z",
+    "updated_at": "2026-08-17T10:45:19Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-08-17T09:07:35Z",
+    "updated_at": "2026-08-17T10:44:07Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -274,7 +301,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8288,
+    "stars": 8289,
     "updated_at": "2026-08-17T09:06:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -310,7 +337,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56522,
+    "stars": 56523,
     "updated_at": "2026-08-17T09:00:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -319,7 +346,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24303,
+    "stars": 24302,
     "updated_at": "2026-08-17T09:00:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T07:27:37Z",
     "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-08-17T07:24:29Z",
-    "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "FinOps for LLMs \u2014 Dagster + dbt/DuckDB medallion pipeline turning LLM-gateway logs into cost, latency & error analytics,",
-    "id": "skalaliya/llm-ledger",
-    "language": "Python",
-    "name": "skalaliya/llm-ledger",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:24:00Z",
-    "url": "https://github.com/skalaliya/llm-ledger"
-  },
-  {
-    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
-    "id": "Rodiun/frugon",
-    "language": "Python",
-    "name": "Rodiun/frugon",
-    "stars": 209,
-    "updated_at": "2026-08-17T07:23:37Z",
-    "url": "https://github.com/Rodiun/frugon"
   }
 ]
