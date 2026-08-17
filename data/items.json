@@ -1,5 +1,68 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T14:14:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T14:13:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-17T14:12:42Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 156,
+    "updated_at": "2026-08-17T14:13:12Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:09:52Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33242,
+    "updated_at": "2026-08-17T14:13:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T14:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 21426,
     "updated_at": "2026-08-17T13:59:48Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T13:59:32Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
@@ -50,17 +104,8 @@
     "language": "Go",
     "name": "Clawdlinux/agentic-operator-core",
     "stars": 23,
-    "updated_at": "2026-08-17T13:46:37Z",
+    "updated_at": "2026-08-17T14:09:37Z",
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T13:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
@@ -77,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7367,
-    "updated_at": "2026-08-17T13:42:57Z",
+    "updated_at": "2026-08-17T14:02:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T13:42:23Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T13:59:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -135,15 +171,6 @@
     "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33241,
-    "updated_at": "2026-08-17T13:55:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T13:27:28Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 156,
-    "updated_at": "2026-08-17T13:27:07Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
@@ -214,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T13:26:06Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:25:36Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1691,
-    "updated_at": "2026-08-17T13:32:55Z",
+    "updated_at": "2026-08-17T14:12:18Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-17T12:59:17Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-17T12:54:43Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
