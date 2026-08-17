@@ -1,5 +1,95 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T18:00:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-17T17:59:03Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1065,
+    "updated_at": "2026-08-17T18:03:18Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56538,
+    "updated_at": "2026-08-17T18:03:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:02:46Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33259,
+    "updated_at": "2026-08-17T17:51:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and ",
+    "id": "inferock/inferock-bench",
+    "language": "TypeScript",
+    "name": "inferock/inferock-bench",
+    "stars": 138,
+    "updated_at": "2026-08-17T17:51:22Z",
+    "url": "https://github.com/inferock/inferock-bench"
+  },
+  {
+    "description": "The Infra layer that Agentic AI applications run on. If the LLM is the CPU, this is the Operating System: durable agent ",
+    "id": "vishalgoyal25/AI_Keystone",
+    "language": "\u2014",
+    "name": "vishalgoyal25/AI_Keystone",
+    "stars": 1,
+    "updated_at": "2026-08-17T17:47:51Z",
+    "url": "https://github.com/vishalgoyal25/AI_Keystone"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1637,
+    "updated_at": "2026-08-17T17:53:42Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T17:43:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
     "id": "shaikn6/shaikn6",
     "language": "Python",
@@ -9,13 +99,13 @@
     "url": "https://github.com/shaikn6/shaikn6"
   },
   {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1637,
-    "updated_at": "2026-08-17T17:39:27Z",
-    "url": "https://github.com/AgentEra/Agently"
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-17T17:42:38Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
@@ -32,17 +122,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8297,
-    "updated_at": "2026-08-17T17:37:07Z",
+    "updated_at": "2026-08-17T17:58:19Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T17:35:41Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -67,9 +148,18 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29736,
+    "stars": 29737,
     "updated_at": "2026-08-17T17:25:30Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-17T17:50:25Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -108,31 +198,13 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33258,
-    "updated_at": "2026-08-17T17:20:28Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1065,
-    "updated_at": "2026-08-17T17:27:25Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56537,
-    "updated_at": "2026-08-17T17:39:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "comet-ml/opik",
+    "stars": 21430,
+    "updated_at": "2026-08-17T17:55:05Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -171,31 +243,13 @@
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T17:02:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-17T17:40:17Z",
+    "updated_at": "2026-08-17T17:47:47Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21429,
-    "updated_at": "2026-08-17T17:20:11Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 392,
-    "updated_at": "2026-08-17T17:37:19Z",
+    "updated_at": "2026-08-17T18:02:25Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1694,
-    "updated_at": "2026-08-17T17:36:50Z",
+    "updated_at": "2026-08-17T17:56:39Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24312,
-    "updated_at": "2026-08-17T17:40:21Z",
+    "updated_at": "2026-08-17T17:57:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -382,7 +436,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7372,
+    "stars": 7374,
     "updated_at": "2026-08-17T15:44:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T15:34:15Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
-    "id": "shinjaehyun20/ai-workflow-kits",
-    "language": "Python",
-    "name": "shinjaehyun20/ai-workflow-kits",
-    "stars": 3,
-    "updated_at": "2026-08-17T15:30:31Z",
-    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-17T17:30:04Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:09:27Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11088,
-    "updated_at": "2026-08-17T17:38:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 1,
-    "updated_at": "2026-08-17T14:59:00Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "Proxima lets existing GPUs serve 4x more concurrent requests ",
-    "id": "Tenosra/Proxima",
-    "language": "Python",
-    "name": "Tenosra/Proxima",
-    "stars": 20,
-    "updated_at": "2026-08-17T14:57:19Z",
-    "url": "https://github.com/Tenosra/Proxima"
   }
 ]
