@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11088,
+    "updated_at": "2026-08-17T21:58:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56551,
+    "updated_at": "2026-08-17T21:57:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T21:49:09Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -18,13 +45,13 @@
     "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T21:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24318,
+    "updated_at": "2026-08-17T21:44:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T21:44:32Z",
+    "updated_at": "2026-08-17T21:58:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -45,21 +72,12 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24317,
-    "updated_at": "2026-08-17T21:44:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-17T21:49:02Z",
+    "updated_at": "2026-08-17T21:54:01Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 76,
-    "updated_at": "2026-08-17T21:39:08Z",
+    "updated_at": "2026-08-17T21:53:13Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T21:38:18Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56550,
-    "updated_at": "2026-08-17T21:48:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -148,8 +157,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33263,
-    "updated_at": "2026-08-17T21:25:53Z",
+    "stars": 33264,
+    "updated_at": "2026-08-17T21:56:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-17T21:46:10Z",
+    "updated_at": "2026-08-17T21:57:14Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-17T21:23:35Z",
+    "updated_at": "2026-08-17T21:55:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "brunovicco/verifiable-ai-governance",
     "stars": 0,
-    "updated_at": "2026-08-17T20:15:34Z",
+    "updated_at": "2026-08-17T21:55:49Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:13:43Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
