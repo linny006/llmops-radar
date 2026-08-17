@@ -1,5 +1,50 @@
 [
   {
+    "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2351,
+    "updated_at": "2026-08-17T09:21:15Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T09:22:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1065,
+    "updated_at": "2026-08-17T09:21:40Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33229,
+    "updated_at": "2026-08-17T09:17:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T09:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
     "id": "SignalLayerLabs/Marginal",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21421,
-    "updated_at": "2026-08-17T09:11:56Z",
+    "updated_at": "2026-08-17T09:19:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 30,
     "updated_at": "2026-08-17T09:09:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T09:15:08Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1688,
-    "updated_at": "2026-08-17T09:03:57Z",
+    "updated_at": "2026-08-17T09:15:22Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T09:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 56520,
     "updated_at": "2026-08-17T09:00:23Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33227,
-    "updated_at": "2026-08-17T09:09:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -130,7 +148,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2648,
+    "stars": 2649,
     "updated_at": "2026-08-17T08:48:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -319,7 +337,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2053,
+    "stars": 2055,
     "updated_at": "2026-08-17T07:21:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -364,7 +382,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7359,
+    "stars": 7360,
     "updated_at": "2026-08-17T07:07:47Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T06:49:47Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Control plane for team LLM access through LiteLLM.",
-    "id": "anggaprytn/loom",
-    "language": "TypeScript",
-    "name": "anggaprytn/loom",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:46:08Z",
-    "url": "https://github.com/anggaprytn/loom"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-08-17T08:06:03Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
