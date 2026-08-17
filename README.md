@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 05:00 UTC
+> ⏰ Last updated: 2026-08-17 05:07 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-08-17 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5755 | Python | 2026-08-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 3 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-17 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 4 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 27 | TypeScript | 2026-08-17 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 6 | [simplepractice/langfuse-rb](https://github.com/simplepractice/langfuse-rb) | 12 | Ruby | 2026-08-17 | 🪢 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
-| 7 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 1 | Go | 2026-08-17 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-17 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 10 | [ajaypv/fde101](https://github.com/ajaypv/fde101) | 1 | MDX | 2026-08-17 | A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph,  |
-| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-08-17 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
+| 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5755 | Python | 2026-08-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 5 | [pom11/hscc](https://github.com/pom11/hscc) | 3 | Python | 2026-08-17 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 6 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 27 | TypeScript | 2026-08-17 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [simplepractice/langfuse-rb](https://github.com/simplepractice/langfuse-rb) | 12 | Ruby | 2026-08-17 | 🪢 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
+| 9 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 1 | Go | 2026-08-17 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
+| 10 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-17 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 11 | [ajaypv/fde101](https://github.com/ajaypv/fde101) | 1 | MDX | 2026-08-17 | A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph,  |
 | 12 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-17 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
 | 13 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-17 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 14 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-17 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
