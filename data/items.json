@@ -1,5 +1,86 @@
 [
   {
+    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
+    "id": "Unseengap/boxclaw",
+    "language": "TypeScript",
+    "name": "Unseengap/boxclaw",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:44:22Z",
+    "url": "https://github.com/Unseengap/boxclaw"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:44:08Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T20:41:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56547,
+    "updated_at": "2026-08-17T20:39:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Source-available MCP server for context optimization, agent memory, and self-hosted AI workflows.",
+    "id": "Snipara/snipara-server",
+    "language": "Python",
+    "name": "Snipara/snipara-server",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:38:49Z",
+    "url": "https://github.com/Snipara/snipara-server"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "simplepractice/langfuse-rb",
+    "language": "Ruby",
+    "name": "simplepractice/langfuse-rb",
+    "stars": 12,
+    "updated_at": "2026-08-17T20:37:33Z",
+    "url": "https://github.com/simplepractice/langfuse-rb"
+  },
+  {
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/PrismRefraction",
+    "language": "TypeScript",
+    "name": "kirklasalle/PrismRefraction",
+    "stars": 3,
+    "updated_at": "2026-08-17T20:33:06Z",
+    "url": "https://github.com/kirklasalle/PrismRefraction"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:31:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T20:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -18,6 +99,15 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:28:17Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
     "id": "acr3463/systemprompt-demo",
     "language": "\u2014",
@@ -25,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:27:45Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:27:18Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   },
   {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
@@ -43,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T20:26:27Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:26:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56544,
-    "updated_at": "2026-08-17T20:26:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 76,
-    "updated_at": "2026-08-17T20:23:49Z",
+    "updated_at": "2026-08-17T20:33:36Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -108,24 +189,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T20:21:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T20:21:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:21:13Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
-    "id": "Unseengap/boxclaw",
-    "language": "TypeScript",
-    "name": "Unseengap/boxclaw",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:17:59Z",
-    "url": "https://github.com/Unseengap/boxclaw"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 393,
-    "updated_at": "2026-08-17T20:16:12Z",
+    "updated_at": "2026-08-17T20:41:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T20:25:33Z",
+    "updated_at": "2026-08-17T20:44:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -187,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:15:34Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24315,
+    "updated_at": "2026-08-17T20:15:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33262,
-    "updated_at": "2026-08-17T20:26:37Z",
+    "updated_at": "2026-08-17T20:40:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
-    "id": "kirklasalle/PrismRefraction",
-    "language": "TypeScript",
-    "name": "kirklasalle/PrismRefraction",
-    "stars": 3,
-    "updated_at": "2026-08-17T19:55:15Z",
-    "url": "https://github.com/kirklasalle/PrismRefraction"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T19:54:03Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:53:53Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:49:09Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Record, replay and regression-test LLM agents. Deterministic cassettes, cache-aware cost accounting, and a CI gate that ",
-    "id": "GokulRaj2210/agent-flight-recorder",
-    "language": "Python",
-    "name": "GokulRaj2210/agent-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:48:51Z",
-    "url": "https://github.com/GokulRaj2210/agent-flight-recorder"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:46:51Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:46:45Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-17T19:46:33Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
