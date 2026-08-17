@@ -1,12 +1,93 @@
 [
   {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 0,
+    "updated_at": "2026-08-17T08:28:59Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T08:25:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-17T08:22:42Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 155,
+    "updated_at": "2026-08-17T08:22:03Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 600,
+    "updated_at": "2026-08-17T08:21:08Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-08-17T08:15:21Z",
+    "updated_at": "2026-08-17T08:17:48Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T08:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T08:27:25Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33222,
+    "updated_at": "2026-08-17T08:29:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 529,
+    "updated_at": "2026-08-17T08:14:14Z",
+    "url": "https://github.com/superlinked/VectorHub"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-17T08:11:07Z",
+    "updated_at": "2026-08-17T08:15:29Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-17T08:13:14Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 21421,
     "updated_at": "2026-08-17T08:08:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T08:07:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -63,13 +126,13 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T08:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 107,
+    "updated_at": "2026-08-17T08:26:25Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T07:59:13Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33221,
-    "updated_at": "2026-08-17T08:14:58Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -115,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T07:48:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T08:15:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 106,
-    "updated_at": "2026-08-17T08:02:11Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -198,20 +234,11 @@
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
   },
   {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:22:39Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2047,
+    "stars": 2048,
     "updated_at": "2026-08-17T07:21:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -248,7 +275,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T08:11:06Z",
+    "updated_at": "2026-08-17T08:30:17Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11870,
-    "updated_at": "2026-08-17T08:12:56Z",
+    "updated_at": "2026-08-17T08:22:26Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-17T07:46:42Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:37:30Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:37:01Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:36:57Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
