@@ -1,11 +1,65 @@
 [
   {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-17T08:58:26Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33227,
+    "updated_at": "2026-08-17T08:57:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compute capital allocation for AI agents \u2014 fund only actions whose expected marginal value justifies tokens, cost, laten",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 7,
+    "updated_at": "2026-08-17T08:57:27Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T08:49:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2647,
+    "updated_at": "2026-08-17T08:48:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T08:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5554,
-    "updated_at": "2026-08-17T08:42:29Z",
+    "updated_at": "2026-08-17T08:45:31Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -27,31 +81,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T08:37:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T08:37:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33225,
-    "updated_at": "2026-08-17T08:45:19Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "dataelement/bisheng",
+    "stars": 11871,
+    "updated_at": "2026-08-17T08:38:51Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 600,
-    "updated_at": "2026-08-17T08:21:08Z",
+    "updated_at": "2026-08-17T08:55:27Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1687,
-    "updated_at": "2026-08-17T08:10:47Z",
+    "updated_at": "2026-08-17T08:52:33Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21421,
-    "updated_at": "2026-08-17T08:30:37Z",
+    "updated_at": "2026-08-17T08:52:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -247,18 +283,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2049,
+    "stars": 2052,
     "updated_at": "2026-08-17T07:21:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2645,
-    "updated_at": "2026-08-17T07:21:02Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -284,7 +311,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T08:37:32Z",
+    "updated_at": "2026-08-17T08:58:25Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 74,
     "updated_at": "2026-08-17T08:37:35Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11870,
-    "updated_at": "2026-08-17T08:38:51Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T06:42:39Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:41:10Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:39:35Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
