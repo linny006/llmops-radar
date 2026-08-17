@@ -1,5 +1,59 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-17T04:23:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T04:21:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:20:20Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/onpar",
+    "language": "Python",
+    "name": "dshakes/onpar",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:17:29Z",
+    "url": "https://github.com/dshakes/onpar"
+  },
+  {
+    "description": "Prove your AI agent survives a model swap \u2014 statistical certification & porting of agent configs, no eval suite required",
+    "id": "internet-zero/hypergeometric-ai",
+    "language": "Python",
+    "name": "internet-zero/hypergeometric-ai",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:17:21Z",
+    "url": "https://github.com/internet-zero/hypergeometric-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T04:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -16,33 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T04:10:41Z",
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T04:10:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Prove your AI agent survives a model swap \u2014 statistical certification & porting of agent configs, no eval suite required",
-    "id": "internet-zero/hypergeometric-ai",
-    "language": "Python",
-    "name": "internet-zero/hypergeometric-ai",
-    "stars": 0,
-    "updated_at": "2026-08-17T04:08:36Z",
-    "url": "https://github.com/internet-zero/hypergeometric-ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-17T04:12:38Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
@@ -79,15 +106,6 @@
     "stars": 44,
     "updated_at": "2026-08-17T04:04:20Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
@@ -257,17 +275,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 27,
-    "updated_at": "2026-08-17T03:35:34Z",
+    "updated_at": "2026-08-17T04:18:04Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/onpar",
-    "language": "Python",
-    "name": "dshakes/onpar",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:59:32Z",
-    "url": "https://github.com/dshakes/onpar"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -284,7 +293,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2640,
-    "updated_at": "2026-08-17T03:58:17Z",
+    "updated_at": "2026-08-17T04:15:23Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-17T02:21:55Z",
+    "updated_at": "2026-08-17T04:15:55Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T03:53:46Z",
+    "updated_at": "2026-08-17T04:17:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T00:50:01Z",
     "url": "https://github.com/fauzan111/Evaluation-Lab-TrustGate"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-17T00:49:39Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
