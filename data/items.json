@@ -1,11 +1,38 @@
 [
   {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 14,
+    "updated_at": "2026-08-17T01:28:58Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2640,
+    "updated_at": "2026-08-17T01:23:04Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406",
+    "id": "data-infra/cube-studio",
+    "language": "Python",
+    "name": "data-infra/cube-studio",
+    "stars": 2419,
+    "updated_at": "2026-08-17T01:22:20Z",
+    "url": "https://github.com/data-infra/cube-studio"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-17T01:15:28Z",
+    "updated_at": "2026-08-17T01:19:02Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -90,6 +117,15 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21418,
+    "updated_at": "2026-08-17T00:49:35Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-17T01:10:12Z",
+    "updated_at": "2026-08-17T01:29:46Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "dshakes/onpar",
     "stars": 1,
-    "updated_at": "2026-08-17T01:15:00Z",
+    "updated_at": "2026-08-17T01:20:39Z",
     "url": "https://github.com/dshakes/onpar"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 14,
-    "updated_at": "2026-08-17T01:06:09Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -166,7 +193,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1398,
+    "stars": 1400,
     "updated_at": "2026-08-17T00:22:16Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -175,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56482,
+    "stars": 56483,
     "updated_at": "2026-08-17T00:20:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T00:20:13Z",
     "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21419,
-    "updated_at": "2026-08-17T00:49:35Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-17T01:16:50Z",
+    "updated_at": "2026-08-17T01:29:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,6 +403,15 @@
     "stars": 1,
     "updated_at": "2026-08-16T23:20:38Z",
     "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7347,
+    "updated_at": "2026-08-16T23:17:47Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T23:13:01Z",
     "url": "https://github.com/Jitendra-kr-d/prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:12:02Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-16T23:10:45Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-16T23:09:48Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
