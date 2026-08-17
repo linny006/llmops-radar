@@ -1,12 +1,57 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56539,
+    "updated_at": "2026-08-17T18:29:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8297,
+    "updated_at": "2026-08-17T18:28:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 11,
+    "updated_at": "2026-08-17T18:25:32Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-17T18:12:38Z",
+    "updated_at": "2026-08-17T18:25:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:19:42Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T18:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T18:06:17Z",
+    "updated_at": "2026-08-17T18:17:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1065,
-    "updated_at": "2026-08-17T18:09:55Z",
+    "updated_at": "2026-08-17T18:28:26Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 22,
     "updated_at": "2026-08-17T18:04:51Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T18:04:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -68,17 +104,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-17T18:06:33Z",
+    "updated_at": "2026-08-17T18:26:38Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56538,
-    "updated_at": "2026-08-17T18:14:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33259,
-    "updated_at": "2026-08-17T17:51:59Z",
+    "updated_at": "2026-08-17T18:21:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-17T17:42:38Z",
+    "updated_at": "2026-08-17T18:20:22Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T17:39:14Z",
     "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8297,
-    "updated_at": "2026-08-17T18:10:08Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -184,8 +202,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29737,
-    "updated_at": "2026-08-17T17:25:30Z",
+    "stars": 29738,
+    "updated_at": "2026-08-17T18:26:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-17T17:50:25Z",
+    "updated_at": "2026-08-17T18:29:50Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 11,
-    "updated_at": "2026-08-17T16:42:09Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
     "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24312,
-    "updated_at": "2026-08-17T18:11:21Z",
+    "updated_at": "2026-08-17T18:30:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 43,
     "updated_at": "2026-08-17T15:52:34Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7374,
-    "updated_at": "2026-08-17T15:44:21Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
