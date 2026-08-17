@@ -1,11 +1,38 @@
 [
   {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-08-17T00:12:13Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-08-17T00:09:52Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-17T00:12:02Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-16T23:56:58Z",
+    "updated_at": "2026-08-17T00:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 11,
-    "updated_at": "2026-08-16T23:59:06Z",
+    "updated_at": "2026-08-17T00:14:45Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27534,
-    "updated_at": "2026-08-16T23:41:24Z",
+    "updated_at": "2026-08-17T00:14:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 76,
-    "updated_at": "2026-08-16T23:59:56Z",
+    "updated_at": "2026-08-17T00:09:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3492,
-    "updated_at": "2026-08-16T23:48:44Z",
+    "updated_at": "2026-08-17T00:10:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -364,7 +391,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29722,
+    "stars": 29723,
     "updated_at": "2026-08-16T22:21:06Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T21:36:35Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33199,
-    "updated_at": "2026-08-16T21:34:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 14,
-    "updated_at": "2026-08-16T23:37:04Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7346,
-    "updated_at": "2026-08-16T23:17:47Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
