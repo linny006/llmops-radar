@@ -1,11 +1,47 @@
 [
   {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-17T15:09:27Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T15:09:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24311,
+    "updated_at": "2026-08-17T15:14:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 108,
+    "updated_at": "2026-08-17T15:05:23Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-17T15:00:26Z",
+    "updated_at": "2026-08-17T15:02:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/Tenosra/Proxima"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24309,
-    "updated_at": "2026-08-17T14:52:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
     "id": "spanlens/Spanlens",
     "language": "TypeScript",
@@ -43,15 +70,6 @@
     "stars": 12,
     "updated_at": "2026-08-17T14:50:50Z",
     "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T15:02:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -88,6 +106,15 @@
     "stars": 33249,
     "updated_at": "2026-08-17T15:00:31Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "60 deep-dive markdown notes on Retrieval-Augmented Generation \u2014 from embeddings and vector search to agentic RAG, GraphR",
+    "id": "somiljainx2811/RAG_Notes",
+    "language": "\u2014",
+    "name": "somiljainx2811/RAG_Notes",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:36:30Z",
+    "url": "https://github.com/somiljainx2811/RAG_Notes"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -157,7 +184,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8295,
+    "stars": 8296,
     "updated_at": "2026-08-17T14:16:44Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T14:47:05Z",
+    "updated_at": "2026-08-17T15:09:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T13:15:02Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-08-17T13:14:48Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 212,
-    "updated_at": "2026-08-17T13:14:36Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:14:30Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
