@@ -1,5 +1,77 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:28:26Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
+    "id": "fluiq-AI/fluiq-sdk",
+    "language": "Python",
+    "name": "fluiq-AI/fluiq-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-17T03:28:45Z",
+    "url": "https://github.com/fluiq-AI/fluiq-sdk"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-17T03:26:04Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-17T03:29:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 11,
+    "updated_at": "2026-08-17T03:22:25Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-17T03:17:13Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 85,
+    "updated_at": "2026-08-17T03:15:58Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24287,
-    "updated_at": "2026-08-17T03:11:48Z",
+    "updated_at": "2026-08-17T03:23:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T03:09:10Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:07:06Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -72,21 +135,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-17T02:59:25Z",
+    "updated_at": "2026-08-17T03:22:39Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-08-17T02:29:07Z",
-    "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5755,
-    "updated_at": "2026-08-17T02:25:05Z",
+    "updated_at": "2026-08-17T03:23:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-17T03:09:31Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -212,7 +248,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T01:59:54Z",
+    "updated_at": "2026-08-17T03:28:40Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11866,
-    "updated_at": "2026-08-17T03:03:21Z",
+    "updated_at": "2026-08-17T03:16:50Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 8284,
     "updated_at": "2026-08-17T01:32:18Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:00:50Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -355,7 +382,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56489,
+    "stars": 56490,
     "updated_at": "2026-08-17T00:20:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T23:30:25Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-08-16T23:28:45Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:27:12Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Companion code for the book Production AI Agents. A reference SRE incident-response agent and a synthetic production env",
-    "id": "llm-books/sre-agent",
-    "language": "Python",
-    "name": "llm-books/sre-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:26:08Z",
-    "url": "https://github.com/llm-books/sre-agent"
   }
 ]
