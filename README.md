@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 23:15 UTC
+> ⏰ Last updated: 2026-08-17 23:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-17 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56557 | Python | 2026-08-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-08-17 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-17 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56557 | Python | 2026-08-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-08-17 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
 | 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29738 | TypeScript | 2026-08-17 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 7 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-17 | Open-source LLM observability and drift detection for AI apps |
 | 8 | [justin-rhee/attest-check](https://github.com/justin-rhee/attest-check) | 0 | Shell | 2026-08-17 | A tiny bash script that checks an AI agent actually looked at everything it approved |
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [Unseengap/boxclaw](https://github.com/Unseengap/boxclaw) | 0 | TypeScript | 2026-08-17 | OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat  |
 | 20 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-17 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
 | 21 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-17 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 22 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33267 | TypeScript | 2026-08-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 22 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33268 | TypeScript | 2026-08-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 23 | [kirklasalle/PrismRefraction](https://github.com/kirklasalle/PrismRefraction) | 3 | TypeScript | 2026-08-17 | The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure  |
 | 24 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-17 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
 | 25 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-17 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
