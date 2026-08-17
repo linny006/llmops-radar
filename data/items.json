@@ -1,12 +1,75 @@
 [
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1307,
+    "updated_at": "2026-08-17T07:14:18Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T07:12:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-17T07:11:52Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T07:13:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
     "id": "beastofbayarea/mistral-studio-marketing",
     "language": "\u2014",
     "name": "beastofbayarea/mistral-studio-marketing",
     "stars": 0,
-    "updated_at": "2026-08-17T06:58:46Z",
+    "updated_at": "2026-08-17T07:06:48Z",
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33218,
+    "updated_at": "2026-08-17T07:06:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T07:04:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T07:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -45,13 +108,13 @@
     "url": "https://github.com/GenesisClawbot/llm-drift"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33216,
-    "updated_at": "2026-08-17T06:53:23Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11870,
+    "updated_at": "2026-08-17T06:52:50Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
@@ -99,15 +162,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T07:00:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -126,15 +180,6 @@
     "url": "https://github.com/anggaprytn/loom"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T06:46:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -142,15 +187,6 @@
     "stars": 27,
     "updated_at": "2026-08-17T06:45:56Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:45:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "owlfoundry/owlrora",
     "stars": 0,
-    "updated_at": "2026-08-17T06:43:48Z",
+    "updated_at": "2026-08-17T07:05:40Z",
     "url": "https://github.com/owlfoundry/owlrora"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-17T06:39:18Z",
+    "updated_at": "2026-08-17T07:13:42Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "AgentEra/Agently",
     "stars": 1636,
-    "updated_at": "2026-08-17T06:22:42Z",
+    "updated_at": "2026-08-17T07:10:41Z",
     "url": "https://github.com/AgentEra/Agently"
   },
   {
@@ -369,21 +405,12 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T06:59:36Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7357,
-    "updated_at": "2026-08-17T06:12:11Z",
+    "updated_at": "2026-08-17T07:07:47Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T06:01:17Z",
     "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
-    "id": "asale-ai/llm-verify",
-    "language": "Rust",
-    "name": "asale-ai/llm-verify",
-    "stars": 2,
-    "updated_at": "2026-08-17T05:57:08Z",
-    "url": "https://github.com/asale-ai/llm-verify"
-  },
-  {
-    "description": "FinOps for LLMs \u2014 Dagster + dbt/DuckDB medallion pipeline turning LLM-gateway logs into cost, latency & error analytics,",
-    "id": "skalaliya/llm-ledger",
-    "language": "Python",
-    "name": "skalaliya/llm-ledger",
-    "stars": 0,
-    "updated_at": "2026-08-17T05:53:05Z",
-    "url": "https://github.com/skalaliya/llm-ledger"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 599,
-    "updated_at": "2026-08-17T05:49:34Z",
-    "url": "https://github.com/mikehasa/agentacct"
   }
 ]
