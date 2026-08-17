@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2063,
+    "updated_at": "2026-08-17T11:41:15Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2650,
+    "updated_at": "2026-08-17T11:41:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-08-17T11:40:49Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 11,
+    "updated_at": "2026-08-17T11:40:04Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T11:36:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 74,
+    "updated_at": "2026-08-17T11:31:00Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T11:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T11:30:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "CairnOps \u2014 AI-powered expedition planning engine built as an LLMOps learning project. LangGraph agent pipeline pulls rea",
     "id": "Hilalalpak/CairnOps",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T11:24:43Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2650,
-    "updated_at": "2026-08-17T11:24:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,39 +117,12 @@
     "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T11:20:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:30:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 74,
-    "updated_at": "2026-08-17T11:19:56Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33237,
-    "updated_at": "2026-08-17T11:29:21Z",
+    "updated_at": "2026-08-17T11:44:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -103,7 +139,7 @@
     "id": "Gaussian-id/gaussmeridian",
     "language": "Rust",
     "name": "Gaussian-id/gaussmeridian",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-17T11:14:53Z",
     "url": "https://github.com/Gaussian-id/gaussmeridian"
   },
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 391,
-    "updated_at": "2026-08-17T11:13:27Z",
+    "updated_at": "2026-08-17T11:40:38Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -122,17 +158,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7362,
-    "updated_at": "2026-08-17T11:27:32Z",
+    "updated_at": "2026-08-17T11:41:49Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T11:03:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 234,
-    "updated_at": "2026-08-17T10:59:42Z",
+    "updated_at": "2026-08-17T11:39:18Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T11:28:10Z",
+    "updated_at": "2026-08-17T11:41:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21423,
-    "updated_at": "2026-08-17T11:28:46Z",
+    "updated_at": "2026-08-17T11:41:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T11:02:32Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 11,
-    "updated_at": "2026-08-17T11:11:02Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11873,
-    "updated_at": "2026-08-17T11:11:56Z",
+    "updated_at": "2026-08-17T11:44:17Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T11:28:54Z",
+    "updated_at": "2026-08-17T11:30:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-17T11:24:37Z",
+    "updated_at": "2026-08-17T11:32:03Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56524,
-    "updated_at": "2026-08-17T09:00:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24302,
-    "updated_at": "2026-08-17T09:00:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
