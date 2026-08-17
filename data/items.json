@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:12:16Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:10:41Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T04:10:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove your AI agent survives a model swap \u2014 statistical certification & porting of agent configs, no eval suite required",
+    "id": "internet-zero/hypergeometric-ai",
+    "language": "Python",
+    "name": "internet-zero/hypergeometric-ai",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:08:36Z",
+    "url": "https://github.com/internet-zero/hypergeometric-ai"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-17T04:12:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:05:46Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:04:58Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:04:28Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 44,
+    "updated_at": "2026-08-17T04:04:20Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T04:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
+    "stars": 1,
+    "updated_at": "2026-08-17T03:59:51Z",
+    "url": "https://github.com/ajaypv/fde101"
+  },
+  {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
     "id": "starbringer/AI-Insights",
     "language": "TypeScript",
@@ -36,15 +135,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Prove your AI agent survives a model swap \u2014 statistical certification & porting of agent configs, no eval suite required",
-    "id": "internet-zero/hypergeometric-ai",
-    "language": "Python",
-    "name": "internet-zero/hypergeometric-ai",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:55:53Z",
-    "url": "https://github.com/internet-zero/hypergeometric-ai"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -72,24 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-17T03:59:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T03:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -104,26 +176,8 @@
     "language": "Python",
     "name": "Tches-git/CodeEvo",
     "stars": 0,
-    "updated_at": "2026-08-17T03:44:05Z",
+    "updated_at": "2026-08-17T04:00:54Z",
     "url": "https://github.com/Tches-git/CodeEvo"
-  },
-  {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:38:13Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:32:28Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
     "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -394,59 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-17T00:49:39Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21418,
-    "updated_at": "2026-08-17T00:49:35Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-17T00:40:34Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1407,
-    "updated_at": "2026-08-17T00:22:16Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56491,
-    "updated_at": "2026-08-17T00:20:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-08-17T00:09:52Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-17T00:12:02Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   }
 ]
