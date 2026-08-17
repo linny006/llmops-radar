@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 23:56 UTC
+> ⏰ Last updated: 2026-08-17 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1398 | Python | 2026-08-16 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
-| 2 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 11 | Ruby | 2026-08-16 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1398 | Python | 2026-08-16 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 3 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 11 | Ruby | 2026-08-16 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
 | 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27534 | Python | 2026-08-16 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 5 | [jochi2018/Soup](https://github.com/jochi2018/Soup) | 0 | Python | 2026-08-16 | Fine-tune and post-train LLMs with one command—no SSH, no config hell. |
 | 6 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 76 | Python | 2026-08-16 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
