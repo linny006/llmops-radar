@@ -1,12 +1,102 @@
 [
   {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-08-17T19:12:40Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2128,
+    "updated_at": "2026-08-17T19:12:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
+    "id": "Unseengap/boxclaw",
+    "language": "TypeScript",
+    "name": "Unseengap/boxclaw",
+    "stars": 0,
+    "updated_at": "2026-08-17T19:10:34Z",
+    "url": "https://github.com/Unseengap/boxclaw"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-17T18:58:42Z",
+    "updated_at": "2026-08-17T19:08:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-17T19:14:53Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-17T19:07:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-17T19:06:14Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56543,
+    "updated_at": "2026-08-17T19:15:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33261,
+    "updated_at": "2026-08-17T19:03:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-17T19:03:03Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-17T19:05:16Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,26 +104,8 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-17T18:56:27Z",
+    "updated_at": "2026-08-17T19:00:29Z",
     "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:00:02Z",
-    "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56541,
-    "updated_at": "2026-08-17T18:59:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -43,15 +115,6 @@
     "stars": 22,
     "updated_at": "2026-08-17T19:00:16Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2126,
-    "updated_at": "2026-08-17T18:53:45Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -70,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T18:51:04Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-17T18:57:30Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
-    "id": "Unseengap/boxclaw",
-    "language": "TypeScript",
-    "name": "Unseengap/boxclaw",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:47:40Z",
-    "url": "https://github.com/Unseengap/boxclaw"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +162,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:00:06Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -133,24 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T18:38:20Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 78,
-    "updated_at": "2026-08-17T18:37:40Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33260,
-    "updated_at": "2026-08-17T18:58:08Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "Yacine-ai-tech/RAGeval",
     "stars": 1,
-    "updated_at": "2026-08-17T18:33:40Z",
+    "updated_at": "2026-08-17T19:13:38Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24313,
-    "updated_at": "2026-08-17T18:30:09Z",
+    "updated_at": "2026-08-17T19:15:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 11,
-    "updated_at": "2026-08-17T18:33:46Z",
+    "updated_at": "2026-08-17T19:13:38Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T18:17:43Z",
+    "updated_at": "2026-08-17T19:12:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 392,
-    "updated_at": "2026-08-17T18:53:37Z",
+    "updated_at": "2026-08-17T19:14:53Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21430,
-    "updated_at": "2026-08-17T18:54:05Z",
+    "updated_at": "2026-08-17T19:12:06Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 604,
-    "updated_at": "2026-08-17T18:54:05Z",
+    "updated_at": "2026-08-17T19:14:11Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -376,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T17:05:14Z",
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:00:13Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 388,
-    "updated_at": "2026-08-17T18:45:50Z",
+    "updated_at": "2026-08-17T19:10:13Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-17T16:44:50Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
-    "id": "runcycles/cycles-server-admin",
-    "language": "Java",
-    "name": "runcycles/cycles-server-admin",
-    "stars": 1,
-    "updated_at": "2026-08-17T16:44:27Z",
-    "url": "https://github.com/runcycles/cycles-server-admin"
   }
 ]
