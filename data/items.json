@@ -4,9 +4,72 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33229,
-    "updated_at": "2026-08-17T09:43:35Z",
+    "stars": 33232,
+    "updated_at": "2026-08-17T10:00:18Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2649,
+    "updated_at": "2026-08-17T09:51:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-17T09:50:46Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T09:48:30Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-17T10:00:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T09:47:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-17T09:49:01Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T09:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -27,15 +90,6 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2649,
-    "updated_at": "2026-08-17T09:39:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -45,31 +99,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:36:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
     "id": "Netis/heron",
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 85,
-    "updated_at": "2026-08-17T09:32:35Z",
+    "updated_at": "2026-08-17T09:48:57Z",
     "url": "https://github.com/Netis/heron"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T09:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
@@ -88,15 +124,6 @@
     "stars": 391,
     "updated_at": "2026-08-17T09:26:16Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-17T09:43:43Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data ",
@@ -126,15 +153,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T09:09:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
@@ -148,7 +166,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8287,
+    "stars": 8288,
     "updated_at": "2026-08-17T09:06:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -193,7 +211,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56520,
+    "stars": 56519,
     "updated_at": "2026-08-17T09:00:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -202,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24302,
+    "stars": 24303,
     "updated_at": "2026-08-17T09:00:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11872,
-    "updated_at": "2026-08-17T09:39:37Z",
+    "updated_at": "2026-08-17T09:53:04Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 529,
     "updated_at": "2026-08-17T08:14:14Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-17T08:15:29Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -373,7 +382,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2056,
+    "stars": 2057,
     "updated_at": "2026-08-17T07:21:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -401,7 +410,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1307,
-    "updated_at": "2026-08-17T09:11:52Z",
+    "updated_at": "2026-08-17T09:59:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "JoniMartin27/lookspan",
     "stars": 7,
-    "updated_at": "2026-08-17T07:11:52Z",
+    "updated_at": "2026-08-17T09:59:05Z",
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7361,
-    "updated_at": "2026-08-17T07:07:47Z",
+    "updated_at": "2026-08-17T09:50:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T06:56:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 74,
-    "updated_at": "2026-08-17T08:37:35Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
