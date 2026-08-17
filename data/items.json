@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:34:15Z",
-    "url": "https://github.com/cognifityai/verdict"
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 43,
+    "updated_at": "2026-08-17T15:44:25Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33250,
+    "updated_at": "2026-08-17T15:40:58Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,8 +23,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-17T15:31:06Z",
+    "updated_at": "2026-08-17T15:38:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T15:37:47Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:34:15Z",
+    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
@@ -27,15 +54,6 @@
     "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T15:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-08-17T15:29:34Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24310,
+    "updated_at": "2026-08-17T15:28:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -81,6 +108,15 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21428,
+    "updated_at": "2026-08-17T15:21:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -90,13 +126,13 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24311,
-    "updated_at": "2026-08-17T15:28:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11087,
+    "updated_at": "2026-08-17T15:07:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -104,17 +140,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 108,
-    "updated_at": "2026-08-17T15:05:23Z",
+    "updated_at": "2026-08-17T15:38:48Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33250,
-    "updated_at": "2026-08-17T15:33:25Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7368,
-    "updated_at": "2026-08-17T14:47:52Z",
+    "updated_at": "2026-08-17T15:44:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -211,7 +238,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8296,
+    "stars": 8297,
     "updated_at": "2026-08-17T14:16:44Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T15:32:18Z",
+    "updated_at": "2026-08-17T15:43:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 76,
     "updated_at": "2026-08-17T14:00:01Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21427,
-    "updated_at": "2026-08-17T15:21:56Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T13:20:46Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 392,
-    "updated_at": "2026-08-17T15:34:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:17:43Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
