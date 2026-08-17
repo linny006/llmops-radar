@@ -1,5 +1,50 @@
 [
   {
+    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
+    "id": "brunovicco/verifiable-ai-governance",
+    "language": "Python",
+    "name": "brunovicco/verifiable-ai-governance",
+    "stars": 0,
+    "updated_at": "2026-08-17T22:45:09Z",
+    "url": "https://github.com/brunovicco/verifiable-ai-governance"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56556,
+    "updated_at": "2026-08-17T22:44:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 76,
+    "updated_at": "2026-08-17T22:40:34Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-17T22:39:26Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -36,15 +81,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56554,
-    "updated_at": "2026-08-17T22:22:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -63,24 +99,6 @@
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T22:19:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 76,
-    "updated_at": "2026-08-17T22:19:18Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
     "id": "Unseengap/boxclaw",
     "language": "TypeScript",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-17T22:17:42Z",
+    "updated_at": "2026-08-17T22:39:02Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -104,7 +122,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-17T22:16:22Z",
+    "updated_at": "2026-08-17T22:30:29Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Vendor-neutral platform for risk-based, evidence-driven and verifiable AI governance, from intake and conditional approv",
-    "id": "brunovicco/verifiable-ai-governance",
-    "language": "Python",
-    "name": "brunovicco/verifiable-ai-governance",
-    "stars": 0,
-    "updated_at": "2026-08-17T22:04:09Z",
-    "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
     "description": "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and ",
     "id": "inferock/inferock-bench",
     "language": "TypeScript",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29738,
-    "updated_at": "2026-08-17T22:01:01Z",
+    "updated_at": "2026-08-17T22:38:28Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24318,
-    "updated_at": "2026-08-17T22:18:42Z",
+    "updated_at": "2026-08-17T22:45:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-17T21:43:15Z",
+    "updated_at": "2026-08-17T22:40:57Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-17T22:28:56Z",
+    "updated_at": "2026-08-17T22:32:19Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:26:40Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 45,
-    "updated_at": "2026-08-17T20:26:07Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
   }
 ]
