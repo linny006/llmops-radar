@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 17:00 UTC
+> ⏰ Last updated: 2026-08-17 17:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21429 | Python | 2026-08-17 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 3 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29734 | TypeScript | 2026-08-17 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 4 | [sanketsudake/agentic-engineering](https://github.com/sanketsudake/agentic-engineering) | 0 | Python | 2026-08-17 | Agentic Engineering Worksheet — a trace-first handbook with labs, tiered Q&A, and per-level exams |
-| 5 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-17 | Temporal workers and clients for wrapping access to different LLMs |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56537 | Python | 2026-08-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-08-17 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [runcycles/cycles-runaway-demo](https://github.com/runcycles/cycles-runaway-demo) | 3 | Python | 2026-08-17 | Runaway AI agent spend prevention — demo using Cycles ($6 in 30s → hard stop at $1) |
-| 10 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 387 | Python | 2026-08-17 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 11 | [runcycles/cycles-openclaw-budget-guard](https://github.com/runcycles/cycles-openclaw-budget-guard) | 7 | TypeScript | 2026-08-17 | Cycles budget and action guard for OpenClaw agents |
-| 12 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-17 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56537 | Python | 2026-08-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-17 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-08-17 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21429 | Python | 2026-08-17 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29734 | TypeScript | 2026-08-17 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 7 | [sanketsudake/agentic-engineering](https://github.com/sanketsudake/agentic-engineering) | 0 | Python | 2026-08-17 | Agentic Engineering Worksheet — a trace-first handbook with labs, tiered Q&A, and per-level exams |
+| 8 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-17 | Temporal workers and clients for wrapping access to different LLMs |
+| 9 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-08-17 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
+| 10 | [runcycles/cycles-runaway-demo](https://github.com/runcycles/cycles-runaway-demo) | 3 | Python | 2026-08-17 | Runaway AI agent spend prevention — demo using Cycles ($6 in 30s → hard stop at $1) |
+| 11 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 387 | Python | 2026-08-17 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
+| 12 | [runcycles/cycles-openclaw-budget-guard](https://github.com/runcycles/cycles-openclaw-budget-guard) | 7 | TypeScript | 2026-08-17 | Cycles budget and action guard for OpenClaw agents |
 | 13 | [runcycles/cycles-server-admin](https://github.com/runcycles/cycles-server-admin) | 1 | Java | 2026-08-17 | Admin API for Cycles — tenants, budgets, API keys, webhooks, audit, and governance |
 | 14 | [spanlens/Spanlens](https://github.com/spanlens/Spanlens) | 12 | TypeScript | 2026-08-17 | Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost |
 | 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33255 | TypeScript | 2026-08-17 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |

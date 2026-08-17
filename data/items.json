@@ -1,12 +1,39 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56537,
+    "updated_at": "2026-08-17T17:01:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-17T16:58:22Z",
+    "updated_at": "2026-08-17T17:00:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-17T17:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-17T17:02:08Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56537,
-    "updated_at": "2026-08-17T16:57:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
     "id": "runcycles/cycles-client-typescript",
     "language": "TypeScript",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T16:45:57Z",
     "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-17T16:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Runaway AI agent spend prevention \u2014 demo using Cycles ($6 in 30s \u2192 hard stop at $1)",
@@ -99,15 +108,6 @@
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-17T16:58:34Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
     "id": "runcycles/cycles-server-admin",
     "language": "Java",
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33255,
-    "updated_at": "2026-08-17T16:53:21Z",
+    "updated_at": "2026-08-17T17:01:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-17T16:37:50Z",
+    "updated_at": "2026-08-17T17:01:58Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 392,
-    "updated_at": "2026-08-17T16:43:02Z",
+    "updated_at": "2026-08-17T17:00:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
