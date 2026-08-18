@@ -1,12 +1,57 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-18T08:14:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "\u2014",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:12:35Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-18T08:15:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33306,
+    "updated_at": "2026-08-18T08:08:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-18T08:00:42Z",
+    "updated_at": "2026-08-18T08:07:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:05:56Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T08:00:30Z",
+    "updated_at": "2026-08-18T08:01:45Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7381,
+    "updated_at": "2026-08-18T08:01:32Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -27,31 +81,13 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "\u2014",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8309,
     "updated_at": "2026-08-18T07:55:07Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33303,
-    "updated_at": "2026-08-18T07:59:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7380,
-    "updated_at": "2026-08-18T08:01:32Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21443,
-    "updated_at": "2026-08-18T07:52:51Z",
+    "updated_at": "2026-08-18T08:02:41Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 27,
-    "updated_at": "2026-08-18T07:29:21Z",
+    "updated_at": "2026-08-18T08:13:05Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-18T07:36:17Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-18T07:38:25Z",
+    "updated_at": "2026-08-18T08:14:25Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -247,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56608,
+    "stars": 56610,
     "updated_at": "2026-08-18T07:00:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1701,
-    "updated_at": "2026-08-18T07:36:14Z",
+    "updated_at": "2026-08-18T08:08:18Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -306,21 +333,12 @@
     "url": "https://github.com/RoofTopDude/pau-profiler"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:59:49Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
     "id": "orkcom-tech/cogitorium",
     "language": "Go",
     "name": "orkcom-tech/cogitorium",
     "stars": 2,
-    "updated_at": "2026-08-18T07:48:32Z",
+    "updated_at": "2026-08-18T08:12:51Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11878,
-    "updated_at": "2026-08-18T07:22:43Z",
+    "updated_at": "2026-08-18T08:15:23Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -376,15 +394,6 @@
     "stars": 11091,
     "updated_at": "2026-08-18T07:27:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8308,
-    "updated_at": "2026-08-18T07:55:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The core FortifyRoot LLMOps SDK for Python.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T05:22:39Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 108,
-    "updated_at": "2026-08-18T05:22:32Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
