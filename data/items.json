@@ -1,21 +1,21 @@
 [
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8302,
-    "updated_at": "2026-08-18T00:12:52Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T00:29:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
     "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-18T00:14:16Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1065,
+    "updated_at": "2026-08-18T00:29:24Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56559,
-    "updated_at": "2026-08-18T00:12:13Z",
+    "updated_at": "2026-08-18T00:28:58Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:21:24Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "A helm chart to enable the latest AI/ML open source tools in kubernetes.",
+    "id": "blake-hamm/kube-ai-stack",
+    "language": "Go Template",
+    "name": "blake-hamm/kube-ai-stack",
+    "stars": 6,
+    "updated_at": "2026-08-18T00:19:59Z",
+    "url": "https://github.com/blake-hamm/kube-ai-stack"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-18T00:16:48Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -32,8 +59,26 @@
     "language": "Python",
     "name": "dshakes/onpar",
     "stars": 1,
-    "updated_at": "2026-08-18T00:14:59Z",
+    "updated_at": "2026-08-18T00:16:13Z",
     "url": "https://github.com/dshakes/onpar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T00:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8302,
+    "updated_at": "2026-08-18T00:12:52Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T00:05:33Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T00:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T23:56:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -292,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33270,
+    "stars": 33271,
     "updated_at": "2026-08-17T22:11:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11088,
-    "updated_at": "2026-08-17T23:46:55Z",
+    "updated_at": "2026-08-18T00:26:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T22:57:54Z",
+    "updated_at": "2026-08-18T00:18:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T21:18:55Z",
     "url": "https://github.com/prajwal2308/LLMOps-Control-Plane"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-08-17T21:24:31Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-17T21:06:14Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 130,
-    "updated_at": "2026-08-17T20:57:26Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
   }
 ]
