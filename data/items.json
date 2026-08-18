@@ -1,12 +1,66 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-17T23:56:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8302,
+    "updated_at": "2026-08-18T00:12:52Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:14:16Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56559,
+    "updated_at": "2026-08-18T00:12:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
+    "id": "dshakes/onpar",
+    "language": "Python",
+    "name": "dshakes/onpar",
+    "stars": 1,
+    "updated_at": "2026-08-18T00:14:59Z",
+    "url": "https://github.com/dshakes/onpar"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-08-18T00:08:42Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
+    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "language": "Python",
+    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:08:27Z",
+    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:05:33Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-17T23:45:17Z",
+    "updated_at": "2026-08-18T00:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-17T23:56:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -45,33 +108,6 @@
     "url": "https://github.com/evilstar2016/skill-doctor"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:59:07Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56559,
-    "updated_at": "2026-08-17T23:59:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
-    "id": "dshakes/onpar",
-    "language": "Python",
-    "name": "dshakes/onpar",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:55:33Z",
-    "url": "https://github.com/dshakes/onpar"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -99,6 +135,15 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7377,
+    "updated_at": "2026-08-17T23:23:24Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
     "id": "GenesisClawbot/llm-drift",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-17T23:34:33Z",
+    "updated_at": "2026-08-18T00:11:22Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -139,18 +184,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27548,
+    "stars": 27550,
     "updated_at": "2026-08-17T23:19:06Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:58:05Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29738,
-    "updated_at": "2026-08-17T23:14:53Z",
+    "updated_at": "2026-08-18T00:05:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24318,
-    "updated_at": "2026-08-17T23:42:36Z",
+    "updated_at": "2026-08-18T00:14:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
-    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "language": "Python",
-    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-17T22:21:19Z",
-    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
     "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
     "id": "Unseengap/boxclaw",
     "language": "TypeScript",
@@ -257,7 +284,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-17T23:55:28Z",
+    "updated_at": "2026-08-18T00:08:03Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -302,7 +329,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-17T22:05:05Z",
+    "updated_at": "2026-08-18T00:08:07Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 130,
     "updated_at": "2026-08-17T20:57:26Z",
     "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-17T21:02:12Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 393,
-    "updated_at": "2026-08-17T23:59:43Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:46:44Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
