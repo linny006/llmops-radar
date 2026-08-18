@@ -1,12 +1,30 @@
 [
   {
+    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 8,
+    "updated_at": "2026-08-18T05:59:21Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-18T05:53:55Z",
+    "updated_at": "2026-08-18T05:57:11Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 2,
+    "updated_at": "2026-08-18T05:57:03Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -14,8 +32,17 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-18T05:52:14Z",
+    "updated_at": "2026-08-18T05:54:30Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T05:54:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -34,15 +61,6 @@
     "stars": 11091,
     "updated_at": "2026-08-18T05:47:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T05:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
@@ -184,7 +202,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29743,
+    "stars": 29744,
     "updated_at": "2026-08-18T05:10:30Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1700,
-    "updated_at": "2026-08-18T05:53:14Z",
+    "updated_at": "2026-08-18T05:58:49Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T03:30:00Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Governed LLM gateway \u2014 PHI guardrails (redact/block), multi-provider routing with fallback, and per-call cost accounting",
-    "id": "skalaliya/medgate",
-    "language": "Python",
-    "name": "skalaliya/medgate",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:27:02Z",
-    "url": "https://github.com/skalaliya/medgate"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11877,
-    "updated_at": "2026-08-18T05:51:14Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
