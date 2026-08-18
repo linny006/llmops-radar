@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 15:44 UTC
+> ⏰ Last updated: 2026-08-18 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-18 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33330 | TypeScript | 2026-08-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-18 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 4 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-18 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
-| 5 | [becloudready/workshops](https://github.com/becloudready/workshops) | 5 | HTML | 2026-08-18 | Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps. |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | JavaScript | 2026-08-18 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33330 | TypeScript | 2026-08-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-18 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 5 | [GenesisClawbot/llm-drift](https://github.com/GenesisClawbot/llm-drift) | 3 | Python | 2026-08-18 | LLM drift detector — know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host |
+| 6 | [becloudready/workshops](https://github.com/becloudready/workshops) | 5 | HTML | 2026-08-18 | Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps. |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11095 | Python | 2026-08-18 | AI Observability & Evaluation |
 | 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24343 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-18 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
