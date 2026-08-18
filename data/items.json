@@ -1,12 +1,84 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-18T06:59:14Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T06:59:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-18T06:58:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-18T06:54:00Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:51:27Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-18T06:42:00Z",
+    "updated_at": "2026-08-18T06:51:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:46:59Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 27,
+    "updated_at": "2026-08-18T06:55:36Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "Jwuthri/Tracely",
     "stars": 643,
-    "updated_at": "2026-08-18T06:41:36Z",
+    "updated_at": "2026-08-18T06:56:50Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
   {
@@ -59,44 +131,8 @@
     "language": "Python",
     "name": "SignalLayerLabs/Marginal",
     "stars": 8,
-    "updated_at": "2026-08-18T06:38:23Z",
+    "updated_at": "2026-08-18T06:59:33Z",
     "url": "https://github.com/SignalLayerLabs/Marginal"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T06:37:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:36:40Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T06:35:52Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:35:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1150,
-    "updated_at": "2026-08-18T06:35:01Z",
+    "updated_at": "2026-08-18T06:54:51Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -113,8 +149,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7380,
-    "updated_at": "2026-08-18T06:40:48Z",
+    "updated_at": "2026-08-18T06:58:17Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 236,
+    "updated_at": "2026-08-18T06:54:38Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "Local-first context utilization profiler for AI agents. Measures token load, PAU pressure, replay, duplication, and cont",
@@ -139,8 +184,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56596,
-    "updated_at": "2026-08-18T06:15:30Z",
+    "stars": 56599,
+    "updated_at": "2026-08-18T06:57:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -175,7 +220,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2656,
+    "stars": 2657,
     "updated_at": "2026-08-18T06:15:00Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -184,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33296,
+    "stars": 33297,
     "updated_at": "2026-08-18T06:11:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -194,17 +239,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-18T06:33:25Z",
+    "updated_at": "2026-08-18T06:57:22Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 237,
-    "updated_at": "2026-08-18T06:29:53Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "aimd54/palan",
     "stars": 0,
-    "updated_at": "2026-08-18T06:04:10Z",
+    "updated_at": "2026-08-18T06:53:29Z",
     "url": "https://github.com/aimd54/palan"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11878,
-    "updated_at": "2026-08-18T06:41:52Z",
+    "updated_at": "2026-08-18T06:47:03Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11091,
-    "updated_at": "2026-08-18T06:39:27Z",
+    "updated_at": "2026-08-18T06:47:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-08-18T06:18:54Z",
+    "updated_at": "2026-08-18T06:54:34Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29744,
-    "updated_at": "2026-08-18T06:38:53Z",
+    "updated_at": "2026-08-18T06:54:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T05:21:03Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
-    "id": "Prime-agentai/agent-approval-gate",
-    "language": "Python",
-    "name": "Prime-agentai/agent-approval-gate",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:17:11Z",
-    "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6827,
-    "updated_at": "2026-08-18T04:14:34Z",
-    "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-18T04:05:22Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:03:01Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   }
 ]
