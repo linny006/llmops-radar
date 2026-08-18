@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 11:59 UTC
+> ⏰ Last updated: 2026-08-18 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-18 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 2 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-18 | Your LLM bill tells you what you spent. valuemaxx tells you what it bought — then finds you a cheaper way to buy it. |
-| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33316 | TypeScript | 2026-08-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29752 | TypeScript | 2026-08-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2661 | C++ | 2026-08-18 | Community maintained hardware plugin for vLLM on Ascend |
-| 6 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-08-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21445 | Python | 2026-08-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 8 | [hari9618/atlas-agentic-research](https://github.com/hari9618/atlas-agentic-research) | 1 | Python | 2026-08-18 | Autonomous multi-agent due-diligence desk — LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-18 | Nexus-LLM is LLM ai model which can run locally on your device. |
+| 3 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-18 | Your LLM bill tells you what you spent. valuemaxx tells you what it bought — then finds you a cheaper way to buy it. |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33316 | TypeScript | 2026-08-18 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29752 | TypeScript | 2026-08-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2661 | C++ | 2026-08-18 | Community maintained hardware plugin for vLLM on Ascend |
+| 7 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-08-18 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21445 | Python | 2026-08-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 9 | [hari9618/atlas-agentic-research](https://github.com/hari9618/atlas-agentic-research) | 1 | Python | 2026-08-18 | Autonomous multi-agent due-diligence desk — LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving |
 | 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56632 | Python | 2026-08-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 11 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2220 | Python | 2026-08-18 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 12 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-18 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
