@@ -1,12 +1,57 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27566,
+    "updated_at": "2026-08-18T18:59:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:59:58Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56663,
-    "updated_at": "2026-08-18T18:44:17Z",
+    "stars": 56664,
+    "updated_at": "2026-08-18T18:59:16Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 130,
+    "updated_at": "2026-08-18T18:49:03Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T18:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:44:17Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -27,29 +72,11 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T18:32:03Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:44:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Session-layer circuit breaker for LLM & agent traffic \u2014 a transparent streaming proxy that meters every session and kill",
     "id": "marceloribeiro/turnstile",
     "language": "Go",
     "name": "marceloribeiro/turnstile",
-    "stars": 1,
+    "stars": 6,
     "updated_at": "2026-08-18T18:31:13Z",
     "url": "https://github.com/marceloribeiro/turnstile"
   },
@@ -59,17 +86,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-18T18:38:46Z",
+    "updated_at": "2026-08-18T18:46:26Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 130,
-    "updated_at": "2026-08-18T18:40:05Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -94,7 +112,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 750,
+    "stars": 751,
     "updated_at": "2026-08-18T18:22:18Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:30:23Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11095,
-    "updated_at": "2026-08-18T18:35:27Z",
+    "updated_at": "2026-08-18T18:55:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1708,
-    "updated_at": "2026-08-18T18:38:38Z",
+    "updated_at": "2026-08-18T18:53:34Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -382,7 +391,7 @@
     "id": "AshwinUgale/tracelint",
     "language": "Python",
     "name": "AshwinUgale/tracelint",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-18T16:54:47Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-18T17:33:19Z",
+    "updated_at": "2026-08-18T18:57:05Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T16:50:20Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
-    "id": "umeshkedimi/aic",
-    "language": "Python",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-08-18T16:49:43Z",
-    "url": "https://github.com/umeshkedimi/aic"
   }
 ]
