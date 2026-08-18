@@ -1,12 +1,39 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7397,
-    "updated_at": "2026-08-18T14:14:03Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3496,
+    "updated_at": "2026-08-18T14:29:40Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1065,
+    "updated_at": "2026-08-18T14:22:28Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-18T14:19:40Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T14:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "orkcom-tech/cogitorium",
     "stars": 2,
-    "updated_at": "2026-08-18T14:15:00Z",
+    "updated_at": "2026-08-18T14:23:39Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
@@ -23,8 +50,53 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33327,
-    "updated_at": "2026-08-18T14:14:53Z",
+    "updated_at": "2026-08-18T14:28:42Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7397,
+    "updated_at": "2026-08-18T14:18:30Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 78,
+    "updated_at": "2026-08-18T14:24:38Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T14:10:39Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21446,
+    "updated_at": "2026-08-18T14:23:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24342,
+    "updated_at": "2026-08-18T14:03:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -45,15 +117,6 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T14:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T14:08:16Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T14:10:39Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -94,7 +148,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11094,
+    "stars": 11095,
     "updated_at": "2026-08-18T13:50:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -117,31 +171,13 @@
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 78,
-    "updated_at": "2026-08-18T14:10:40Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T13:46:41Z",
+    "updated_at": "2026-08-18T14:28:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21446,
-    "updated_at": "2026-08-18T14:09:31Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -162,15 +198,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3496,
-    "updated_at": "2026-08-18T14:09:18Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 108,
     "updated_at": "2026-08-18T13:34:28Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-18T13:31:37Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -229,18 +247,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56641,
+    "stars": 56647,
     "updated_at": "2026-08-18T13:14:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1065,
-    "updated_at": "2026-08-18T13:54:24Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 393,
-    "updated_at": "2026-08-18T14:14:20Z",
+    "updated_at": "2026-08-18T14:26:55Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -338,7 +347,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2662,
-    "updated_at": "2026-08-18T11:52:30Z",
+    "updated_at": "2026-08-18T14:17:37Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -355,7 +364,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2231,
+    "stars": 2233,
     "updated_at": "2026-08-18T11:39:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:36:34Z",
     "url": "https://github.com/kkrlstrm/codex-logger"
-  },
-  {
-    "description": "Runtime controls for Claude Code derived from real tool-call telemetry. Pair with cc-logger to observe failures, promote",
-    "id": "kkrlstrm/agent-guard",
-    "language": "Python",
-    "name": "kkrlstrm/agent-guard",
-    "stars": 3,
-    "updated_at": "2026-08-18T10:36:32Z",
-    "url": "https://github.com/kkrlstrm/agent-guard"
   }
 ]
