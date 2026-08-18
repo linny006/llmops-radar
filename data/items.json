@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T06:42:00Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 643,
+    "updated_at": "2026-08-18T06:41:36Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:41:10Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:39:09Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
+    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "language": "Python",
+    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:38:50Z",
+    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 19,
+    "updated_at": "2026-08-18T06:38:39Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 8,
+    "updated_at": "2026-08-18T06:38:23Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T06:37:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:36:40Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:35:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:35:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -9,40 +108,13 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T06:34:21Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T06:33:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7380,
-    "updated_at": "2026-08-18T06:30:28Z",
+    "updated_at": "2026-08-18T06:40:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first context utilization profiler for AI agents. Measures token load, PAU pressure, replay, duplication, and cont",
@@ -67,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56594,
+    "stars": 56596,
     "updated_at": "2026-08-18T06:15:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -103,7 +175,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2655,
+    "stars": 2656,
     "updated_at": "2026-08-18T06:15:00Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -112,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33295,
+    "stars": 33296,
     "updated_at": "2026-08-18T06:11:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -144,13 +216,13 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
-    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
-    "id": "SignalLayerLabs/Marginal",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "SignalLayerLabs/Marginal",
-    "stars": 8,
-    "updated_at": "2026-08-18T06:33:36Z",
-    "url": "https://github.com/SignalLayerLabs/Marginal"
+    "name": "dataelement/bisheng",
+    "stars": 11878,
+    "updated_at": "2026-08-18T06:41:52Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11091,
-    "updated_at": "2026-08-18T06:08:42Z",
+    "updated_at": "2026-08-18T06:39:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 8307,
     "updated_at": "2026-08-18T05:46:05Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
-    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "language": "Python",
-    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:43:40Z",
-    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
     "description": "The core FortifyRoot LLMOps SDK for Python.",
@@ -205,15 +268,6 @@
     "stars": 21442,
     "updated_at": "2026-08-18T05:41:38Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:35:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -243,15 +297,6 @@
     "url": "https://github.com/msanket9/stillsane"
   },
   {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-18T05:28:32Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
     "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
     "id": "xorbitsai/xrouter-llm",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 35,
     "updated_at": "2026-08-18T05:31:31Z",
     "url": "https://github.com/xorbitsai/xrouter-llm"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-18T05:26:16Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29744,
-    "updated_at": "2026-08-18T05:10:30Z",
+    "updated_at": "2026-08-18T06:38:53Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1700,
-    "updated_at": "2026-08-18T06:05:37Z",
+    "updated_at": "2026-08-18T06:38:38Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T04:03:01Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-08-18T03:59:39Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24324,
-    "updated_at": "2026-08-18T03:57:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5755,
-    "updated_at": "2026-08-18T03:50:37Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:50:07Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
   }
 ]
