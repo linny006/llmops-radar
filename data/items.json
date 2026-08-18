@@ -1,21 +1,21 @@
 [
   {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-18T06:59:14Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2658,
+    "updated_at": "2026-08-18T07:14:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T06:59:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:12:52Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,8 +23,98 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-18T06:58:55Z",
+    "updated_at": "2026-08-18T07:15:16Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T07:11:13Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T07:10:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:10:20Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33298,
+    "updated_at": "2026-08-18T07:15:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7380,
+    "updated_at": "2026-08-18T07:09:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
+    "id": "SignalLayerLabs/Marginal",
+    "language": "Python",
+    "name": "SignalLayerLabs/Marginal",
+    "stars": 8,
+    "updated_at": "2026-08-18T07:06:38Z",
+    "url": "https://github.com/SignalLayerLabs/Marginal"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:03:36Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56602,
+    "updated_at": "2026-08-18T07:00:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T07:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-18T06:59:14Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -45,39 +135,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T06:51:15Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:46:59Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T06:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 27,
-    "updated_at": "2026-08-18T06:55:36Z",
+    "updated_at": "2026-08-18T07:14:40Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -126,13 +189,13 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
-    "id": "SignalLayerLabs/Marginal",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "SignalLayerLabs/Marginal",
-    "stars": 8,
-    "updated_at": "2026-08-18T06:59:33Z",
-    "url": "https://github.com/SignalLayerLabs/Marginal"
+    "name": "future-agi/future-agi",
+    "stars": 1701,
+    "updated_at": "2026-08-18T07:14:19Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -144,21 +207,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7380,
-    "updated_at": "2026-08-18T06:58:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 236,
-    "updated_at": "2026-08-18T06:54:38Z",
+    "updated_at": "2026-08-18T07:14:07Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T06:26:35Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56599,
-    "updated_at": "2026-08-18T06:57:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -216,33 +261,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2657,
-    "updated_at": "2026-08-18T06:15:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33297,
-    "updated_at": "2026-08-18T06:11:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:57:22Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
     "id": "aimd54/palan",
     "language": "Go",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11878,
-    "updated_at": "2026-08-18T06:47:03Z",
+    "updated_at": "2026-08-18T07:05:45Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11091,
-    "updated_at": "2026-08-18T06:47:11Z",
+    "updated_at": "2026-08-18T07:11:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -283,7 +301,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8307,
+    "stars": 8308,
     "updated_at": "2026-08-18T05:46:05Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29744,
-    "updated_at": "2026-08-18T06:54:09Z",
+    "updated_at": "2026-08-18T07:01:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/8pig/llm-ops"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1700,
-    "updated_at": "2026-08-18T06:38:38Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "An AI-powered LLM output consistency / nondeterminism profiler - runs a prompt K times, measures output variance across ",
     "id": "jay-tank/unwaver",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-18T04:20:28Z",
     "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-18T05:21:03Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   }
 ]
