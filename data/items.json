@@ -1,5 +1,32 @@
 [
   {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 758,
+    "updated_at": "2026-08-18T21:16:29Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56668,
+    "updated_at": "2026-08-18T21:17:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T21:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -7,15 +34,6 @@
     "stars": 44,
     "updated_at": "2026-08-18T21:11:09Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56667,
-    "updated_at": "2026-08-18T21:12:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 79,
-    "updated_at": "2026-08-18T21:04:40Z",
+    "updated_at": "2026-08-18T21:18:16Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 8,
     "updated_at": "2026-08-18T21:02:17Z",
     "url": "https://github.com/requestyai/ai-sdk-requesty"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T21:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-18T20:43:24Z",
+    "updated_at": "2026-08-18T21:16:32Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -328,7 +337,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24344,
+    "stars": 24345,
     "updated_at": "2026-08-18T18:28:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T18:23:35Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 758,
-    "updated_at": "2026-08-18T18:22:18Z",
-    "url": "https://github.com/Jwuthri/Tracely"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -382,7 +382,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2277,
+    "stars": 2278,
     "updated_at": "2026-08-18T18:09:39Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
