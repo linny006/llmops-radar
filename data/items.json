@@ -1,21 +1,66 @@
 [
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T01:13:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-18T01:29:56Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-18T01:26:36Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56560,
-    "updated_at": "2026-08-18T01:15:24Z",
+    "stars": 56561,
+    "updated_at": "2026-08-18T01:22:43Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 108,
+    "updated_at": "2026-08-18T01:18:14Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-notes",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-notes",
+    "stars": 407,
+    "updated_at": "2026-08-18T01:17:53Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-notes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T01:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T01:30:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -25,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T01:11:32Z",
     "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-18T01:11:19Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -63,15 +99,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "sandeep-alluru/worldoracle",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:54Z",
+    "updated_at": "2026-08-18T01:29:55Z",
     "url": "https://github.com/sandeep-alluru/worldoracle"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "sandeep-alluru/humanproof",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:52Z",
+    "updated_at": "2026-08-18T01:29:53Z",
     "url": "https://github.com/sandeep-alluru/humanproof"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "sandeep-alluru/normsync",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:51Z",
+    "updated_at": "2026-08-18T01:29:51Z",
     "url": "https://github.com/sandeep-alluru/normsync"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "sandeep-alluru/agentdelta",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:49Z",
+    "updated_at": "2026-08-18T01:29:50Z",
     "url": "https://github.com/sandeep-alluru/agentdelta"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "sandeep-alluru/clickproof",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:48Z",
+    "updated_at": "2026-08-18T01:29:48Z",
     "url": "https://github.com/sandeep-alluru/clickproof"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "sandeep-alluru/polaroid",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:46Z",
+    "updated_at": "2026-08-18T01:29:46Z",
     "url": "https://github.com/sandeep-alluru/polaroid"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "sandeep-alluru/groundcrew",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:45Z",
+    "updated_at": "2026-08-18T01:29:45Z",
     "url": "https://github.com/sandeep-alluru/groundcrew"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "sandeep-alluru/balancelab",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:43Z",
+    "updated_at": "2026-08-18T01:29:43Z",
     "url": "https://github.com/sandeep-alluru/balancelab"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "sandeep-alluru/rulegraph",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:42Z",
+    "updated_at": "2026-08-18T01:29:41Z",
     "url": "https://github.com/sandeep-alluru/rulegraph"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "sandeep-alluru/notarize",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:40Z",
+    "updated_at": "2026-08-18T01:29:40Z",
     "url": "https://github.com/sandeep-alluru/notarize"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "sandeep-alluru/agentcrdt",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:38Z",
+    "updated_at": "2026-08-18T01:29:38Z",
     "url": "https://github.com/sandeep-alluru/agentcrdt"
   },
   {
@@ -185,8 +212,17 @@
     "language": "Python",
     "name": "sandeep-alluru/foghorn",
     "stars": 0,
-    "updated_at": "2026-08-18T00:57:37Z",
+    "updated_at": "2026-08-18T01:29:36Z",
     "url": "https://github.com/sandeep-alluru/foghorn"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11087,
+    "updated_at": "2026-08-18T00:47:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM agent reliability & eval harness: replayable JSONL traces, side-effect evals, fault injection, and prompt-injection ",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1065,
-    "updated_at": "2026-08-18T00:29:24Z",
+    "updated_at": "2026-08-18T01:21:00Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-18T01:13:04Z",
+    "updated_at": "2026-08-18T01:30:10Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-08-18T00:19:59Z",
     "url": "https://github.com/blake-hamm/kube-ai-stack"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-08-18T00:16:48Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Prove which open model can replace your closed one \u2014 on your traffic, your hardware, your budget. Then move you there wi",
@@ -297,6 +324,15 @@
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29739,
+    "updated_at": "2026-08-18T00:05:45Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 76,
-    "updated_at": "2026-08-17T23:57:51Z",
+    "updated_at": "2026-08-18T01:28:45Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-18T00:59:31Z",
+    "updated_at": "2026-08-18T01:16:58Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 1695,
     "updated_at": "2026-08-17T23:04:43Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29738,
-    "updated_at": "2026-08-18T00:05:45Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T22:45:09Z",
     "url": "https://github.com/brunovicco/verifiable-ai-governance"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-17T22:39:26Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-17T22:24:08Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
-    "id": "Unseengap/boxclaw",
-    "language": "TypeScript",
-    "name": "Unseengap/boxclaw",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:13:16Z",
-    "url": "https://github.com/Unseengap/boxclaw"
   }
 ]
