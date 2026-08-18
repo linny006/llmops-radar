@@ -5,44 +5,26 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-18T11:45:26Z",
+    "updated_at": "2026-08-18T11:58:22Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Your LLM bill tells you what you spent. valuemaxx tells you what it bought \u2014 then finds you a cheaper way to buy it.",
+    "id": "monaal10/valuemaxx",
+    "language": "Python",
+    "name": "monaal10/valuemaxx",
+    "stars": 0,
+    "updated_at": "2026-08-18T11:57:04Z",
+    "url": "https://github.com/monaal10/valuemaxx"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33314,
-    "updated_at": "2026-08-18T11:44:30Z",
+    "stars": 33316,
+    "updated_at": "2026-08-18T11:56:54Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2219,
-    "updated_at": "2026-08-18T11:39:38Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:39:37Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T11:39:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -50,8 +32,35 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29752,
-    "updated_at": "2026-08-18T11:38:16Z",
+    "updated_at": "2026-08-18T11:53:47Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2661,
+    "updated_at": "2026-08-18T11:52:30Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-18T11:50:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21445,
+    "updated_at": "2026-08-18T11:46:37Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
@@ -59,8 +68,35 @@
     "language": "Python",
     "name": "hari9618/atlas-agentic-research",
     "stars": 1,
-    "updated_at": "2026-08-18T11:38:13Z",
+    "updated_at": "2026-08-18T11:46:19Z",
     "url": "https://github.com/hari9618/atlas-agentic-research"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T11:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56632,
+    "updated_at": "2026-08-18T11:44:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2220,
+    "updated_at": "2026-08-18T11:39:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T11:31:13Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21445,
-    "updated_at": "2026-08-18T11:35:09Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1065,
-    "updated_at": "2026-08-18T11:32:05Z",
+    "updated_at": "2026-08-18T11:59:17Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 108,
-    "updated_at": "2026-08-18T11:40:04Z",
+    "updated_at": "2026-08-18T11:51:11Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7388,
-    "updated_at": "2026-08-18T11:43:42Z",
+    "updated_at": "2026-08-18T11:58:34Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3494,
-    "updated_at": "2026-08-18T11:41:17Z",
+    "updated_at": "2026-08-18T11:59:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-18T11:14:13Z",
+    "updated_at": "2026-08-18T11:48:15Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-18T10:58:38Z",
+    "updated_at": "2026-08-18T11:57:41Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1309,
-    "updated_at": "2026-08-18T11:41:22Z",
+    "updated_at": "2026-08-18T11:47:59Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:09:49Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:06:44Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:05:46Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 54,
-    "updated_at": "2026-08-18T10:04:43Z",
-    "url": "https://github.com/avikalpg/byok-relay"
   }
 ]
