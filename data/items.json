@@ -1,11 +1,20 @@
 [
   {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:29:59Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T23:17:20Z",
+    "updated_at": "2026-08-18T23:26:06Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -14,7 +23,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-18T23:17:12Z",
+    "updated_at": "2026-08-18T23:25:48Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -22,9 +31,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56676,
-    "updated_at": "2026-08-18T23:16:04Z",
+    "stars": 56678,
+    "updated_at": "2026-08-18T23:27:41Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-18T23:19:24Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T23:15:33Z",
+    "updated_at": "2026-08-18T23:17:31Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7407,
+    "updated_at": "2026-08-18T23:17:26Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 0,
-    "updated_at": "2026-08-18T23:09:35Z",
+    "updated_at": "2026-08-18T23:29:11Z",
     "url": "https://github.com/memoturn/memoturn"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29762,
-    "updated_at": "2026-08-18T23:01:16Z",
+    "updated_at": "2026-08-18T23:29:48Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-18T22:20:23Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -133,15 +151,6 @@
     "stars": 43,
     "updated_at": "2026-08-18T22:03:51Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7406,
-    "updated_at": "2026-08-18T23:17:26Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -160,15 +169,6 @@
     "stars": 30,
     "updated_at": "2026-08-18T21:27:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-18T22:23:00Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11096,
-    "updated_at": "2026-08-18T22:39:35Z",
+    "updated_at": "2026-08-18T23:19:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -409,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2295,
+    "stars": 2297,
     "updated_at": "2026-08-18T18:09:39Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
