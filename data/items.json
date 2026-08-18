@@ -1,20 +1,83 @@
 [
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1705,
+    "updated_at": "2026-08-18T14:57:24Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-18T14:53:59Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3496,
+    "updated_at": "2026-08-18T14:59:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:47:26Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T14:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-08-18T14:45:22Z",
+    "updated_at": "2026-08-18T14:56:28Z",
     "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 78,
+    "updated_at": "2026-08-18T14:38:53Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:38:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7398,
-    "updated_at": "2026-08-18T14:34:16Z",
+    "stars": 7399,
+    "updated_at": "2026-08-18T14:48:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T14:31:16Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T14:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3496,
-    "updated_at": "2026-08-18T14:44:17Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -81,31 +126,13 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-18T14:19:40Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33327,
-    "updated_at": "2026-08-18T14:45:10Z",
+    "updated_at": "2026-08-18T14:56:22Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 78,
-    "updated_at": "2026-08-18T14:38:53Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-18T14:40:22Z",
+    "updated_at": "2026-08-18T14:55:34Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21446,
-    "updated_at": "2026-08-18T14:39:31Z",
+    "updated_at": "2026-08-18T14:57:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24342,
-    "updated_at": "2026-08-18T14:36:08Z",
+    "updated_at": "2026-08-18T14:59:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 27,
-    "updated_at": "2026-08-18T13:52:39Z",
+    "updated_at": "2026-08-18T14:54:06Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:38:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-18T14:31:44Z",
+    "updated_at": "2026-08-18T14:58:30Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1704,
-    "updated_at": "2026-08-18T14:41:53Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
     "id": "AcruxCore/AcruxCore",
     "language": "TypeScript",
@@ -373,7 +382,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2234,
+    "stars": 2236,
     "updated_at": "2026-08-18T11:39:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -437,16 +446,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-08-18T11:04:09Z",
+    "updated_at": "2026-08-18T14:57:06Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Recoverability-first runtime controls for the OpenAI Codex CLI: learn from real tool-call telemetry, nudge repeated mist",
-    "id": "kkrlstrm/codex-guard",
-    "language": "Python",
-    "name": "kkrlstrm/codex-guard",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:36:36Z",
-    "url": "https://github.com/kkrlstrm/codex-guard"
   }
 ]
