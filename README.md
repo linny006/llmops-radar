@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 23:15 UTC
+> ⏰ Last updated: 2026-08-18 23:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 542 | JavaScript | 2026-08-18 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56675 | Python | 2026-08-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [threejay20/homelab-ai-stack](https://github.com/threejay20/homelab-ai-stack) | 1 | Python | 2026-08-18 | Production-grade local AI stack — multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability.  |
-| 4 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-18 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
-| 5 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29762 | TypeScript | 2026-08-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-18 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 8 | [Unseengap/boxclaw](https://github.com/Unseengap/boxclaw) | 0 | Python | 2026-08-18 | OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat  |
-| 9 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 44 | TypeScript | 2026-08-18 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
-| 10 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 78 | Python | 2026-08-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 12 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-18 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 13 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-18 | ThakiCloud Tech Blog |
+| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-18 | ThakiCloud Tech Blog |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56676 | Python | 2026-08-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 542 | JavaScript | 2026-08-18 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
+| 6 | [threejay20/homelab-ai-stack](https://github.com/threejay20/homelab-ai-stack) | 1 | Python | 2026-08-18 | Production-grade local AI stack — multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability.  |
+| 7 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 0 | TypeScript | 2026-08-18 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
+| 8 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29762 | TypeScript | 2026-08-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 9 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-18 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 10 | [Unseengap/boxclaw](https://github.com/Unseengap/boxclaw) | 0 | Python | 2026-08-18 | OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat  |
+| 11 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 44 | TypeScript | 2026-08-18 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
+| 12 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 78 | Python | 2026-08-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 13 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-18 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
 | 14 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-18 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 15 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-18 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
 | 16 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7406 | Go | 2026-08-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
