@@ -1,11 +1,101 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-18T08:44:21Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2661,
+    "updated_at": "2026-08-18T08:43:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:41:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56612,
+    "updated_at": "2026-08-18T08:35:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-18T08:35:39Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2196,
+    "updated_at": "2026-08-18T08:34:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:33:58Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7384,
+    "updated_at": "2026-08-18T08:32:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T08:44:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T08:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-18T08:29:57Z",
+    "updated_at": "2026-08-18T08:38:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33309,
-    "updated_at": "2026-08-18T08:26:04Z",
+    "updated_at": "2026-08-18T08:43:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,17 +113,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-18T08:25:23Z",
+    "updated_at": "2026-08-18T08:40:45Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T08:25:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Netis/heron"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-18T08:23:12Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
     "id": "beastofbayarea/mistral-studio-marketing",
     "language": "\u2014",
@@ -63,21 +135,12 @@
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T08:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
     "id": "aibim-ai/AI-Supply-Chain-Trust",
     "language": "Rust",
     "name": "aibim-ai/AI-Supply-Chain-Trust",
     "stars": 2,
-    "updated_at": "2026-08-18T08:14:28Z",
+    "updated_at": "2026-08-18T08:43:11Z",
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
@@ -90,13 +153,13 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7382,
-    "updated_at": "2026-08-18T08:01:32Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21444,
+    "updated_at": "2026-08-18T08:02:41Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8309,
-    "updated_at": "2026-08-18T07:55:07Z",
+    "updated_at": "2026-08-18T08:44:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -130,7 +193,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1150,
+    "stars": 1151,
     "updated_at": "2026-08-18T07:46:44Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -144,15 +207,6 @@
     "url": "https://github.com/Zane456/harness-check"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:42:27Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
     "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
     "language": "Python",
@@ -162,15 +216,6 @@
     "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21443,
-    "updated_at": "2026-08-18T08:02:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Your LLM bill tells you what you spent. valuemaxx tells you what it bought \u2014 then finds you a cheaper way to buy it.",
     "id": "monaal10/valuemaxx",
     "language": "Python",
@@ -178,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T07:39:04Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-18T07:37:01Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:35:53Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -232,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T07:19:18Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2661,
-    "updated_at": "2026-08-18T07:14:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -283,18 +301,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29747,
+    "stars": 29746,
     "updated_at": "2026-08-18T07:01:07Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56610,
-    "updated_at": "2026-08-18T08:15:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -310,7 +319,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 643,
+    "stars": 652,
     "updated_at": "2026-08-18T06:56:50Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1701,
-    "updated_at": "2026-08-18T08:08:18Z",
+    "updated_at": "2026-08-18T08:37:10Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -387,12 +396,21 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27558,
+    "updated_at": "2026-08-18T05:55:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11878,
-    "updated_at": "2026-08-18T08:28:10Z",
+    "updated_at": "2026-08-18T08:34:08Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T06:54:34Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 130,
-    "updated_at": "2026-08-18T05:49:01Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:29:46Z",
-    "url": "https://github.com/msanket9/stillsane"
   }
 ]
