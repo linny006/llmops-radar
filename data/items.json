@@ -1,5 +1,86 @@
 [
   {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "JavaScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:44:41Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33330,
+    "updated_at": "2026-08-18T15:42:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T15:33:08Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
+    "id": "GenesisClawbot/llm-drift",
+    "language": "Python",
+    "name": "GenesisClawbot/llm-drift",
+    "stars": 3,
+    "updated_at": "2026-08-18T15:44:28Z",
+    "url": "https://github.com/GenesisClawbot/llm-drift"
+  },
+  {
+    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 5,
+    "updated_at": "2026-08-18T15:30:41Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T15:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11095,
+    "updated_at": "2026-08-18T15:30:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24343,
+    "updated_at": "2026-08-18T15:43:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:29:06Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -18,21 +99,12 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T15:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-08-18T15:14:28Z",
+    "updated_at": "2026-08-18T15:44:00Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-18T15:28:34Z",
+    "updated_at": "2026-08-18T15:42:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -54,21 +126,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33329,
-    "updated_at": "2026-08-18T15:11:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56653,
-    "updated_at": "2026-08-18T15:09:14Z",
+    "stars": 56655,
+    "updated_at": "2026-08-18T15:43:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-08-18T15:09:12Z",
+    "updated_at": "2026-08-18T15:40:49Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24343,
-    "updated_at": "2026-08-18T15:29:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
     "id": "Arize-ai/arize-skills",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 45,
     "updated_at": "2026-08-18T14:59:50Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T15:17:58Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -158,7 +203,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T15:26:51Z",
+    "updated_at": "2026-08-18T15:36:17Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -167,35 +212,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7399,
-    "updated_at": "2026-08-18T15:24:50Z",
+    "updated_at": "2026-08-18T15:42:39Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
-    "id": "becloudready/workshops",
-    "language": "HTML",
-    "name": "becloudready/workshops",
-    "stars": 5,
-    "updated_at": "2026-08-18T15:30:24Z",
-    "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
-    "id": "GenesisClawbot/llm-drift",
-    "language": "Python",
-    "name": "GenesisClawbot/llm-drift",
-    "stars": 3,
-    "updated_at": "2026-08-18T14:32:57Z",
-    "url": "https://github.com/GenesisClawbot/llm-drift"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:29:06Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
@@ -261,15 +279,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11095,
-    "updated_at": "2026-08-18T15:30:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-18T15:24:15Z",
+    "updated_at": "2026-08-18T15:36:19Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1637,
     "updated_at": "2026-08-18T11:30:15Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
-    "id": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "language": "Python",
-    "name": "lokeshkundi15/ai-incident-monitoring-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T11:17:54Z",
-    "url": "https://github.com/lokeshkundi15/ai-incident-monitoring-rca-agent"
   }
 ]
