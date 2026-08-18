@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7403,
+    "updated_at": "2026-08-18T19:29:05Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-18T19:25:39Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:23:56Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 79,
+    "updated_at": "2026-08-18T19:22:09Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-18T19:20:40Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56664,
+    "updated_at": "2026-08-18T19:19:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:15:33Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T19:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -18,6 +90,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T19:06:20Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -25,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T19:05:49Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T19:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-18T19:05:20Z",
+    "updated_at": "2026-08-18T19:19:02Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -59,17 +131,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1709,
-    "updated_at": "2026-08-18T19:05:20Z",
+    "updated_at": "2026-08-18T19:24:56Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56664,
-    "updated_at": "2026-08-18T19:14:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -81,21 +144,12 @@
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:44:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-18T18:34:55Z",
+    "updated_at": "2026-08-18T19:25:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -103,7 +157,7 @@
     "id": "marceloribeiro/turnstile",
     "language": "Go",
     "name": "marceloribeiro/turnstile",
-    "stars": 11,
+    "stars": 13,
     "updated_at": "2026-08-18T18:31:13Z",
     "url": "https://github.com/marceloribeiro/turnstile"
   },
@@ -113,17 +167,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-18T19:14:47Z",
+    "updated_at": "2026-08-18T19:30:12Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7402,
-    "updated_at": "2026-08-18T19:11:41Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-18T18:29:20Z",
+    "updated_at": "2026-08-18T19:28:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/vishalgoyal25/AI_Keystone"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-18T18:11:04Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -189,21 +225,12 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T19:06:20Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33340,
-    "updated_at": "2026-08-18T19:12:31Z",
+    "updated_at": "2026-08-18T19:30:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T16:53:04Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-18T16:52:06Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-08-18T16:51:46Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:15:17Z",
-    "url": "https://github.com/venkathub/dosadash"
   }
 ]
