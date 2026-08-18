@@ -1,21 +1,57 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:33:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-18T10:32:05Z",
+    "stars": 3494,
+    "updated_at": "2026-08-18T10:45:08Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21445,
+    "updated_at": "2026-08-18T10:44:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Recoverability-first runtime controls for the OpenAI Codex CLI: learn from real tool-call telemetry, nudge repeated mist",
+    "id": "kkrlstrm/codex-guard",
+    "language": "Python",
+    "name": "kkrlstrm/codex-guard",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:36:36Z",
+    "url": "https://github.com/kkrlstrm/codex-guard"
+  },
+  {
+    "description": "Telemetry for the OpenAI Codex CLI, read from ~/.codex/sessions rollout files. The Codex sibling of cc-logger.",
+    "id": "kkrlstrm/codex-logger",
+    "language": "Python",
+    "name": "kkrlstrm/codex-logger",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:36:34Z",
+    "url": "https://github.com/kkrlstrm/codex-logger"
+  },
+  {
+    "description": "Runtime controls for Claude Code derived from real tool-call telemetry. Pair with cc-logger to observe failures, promote",
+    "id": "kkrlstrm/agent-guard",
+    "language": "Python",
+    "name": "kkrlstrm/agent-guard",
+    "stars": 3,
+    "updated_at": "2026-08-18T10:36:32Z",
+    "url": "https://github.com/kkrlstrm/agent-guard"
+  },
+  {
+    "description": "Local observability for Claude Code. Captures sessions, sub-agents, and tool calls to Postgres via HTTP hooks.",
+    "id": "kkrlstrm/cc-logger",
+    "language": "Python",
+    "name": "kkrlstrm/cc-logger",
+    "stars": 11,
+    "updated_at": "2026-08-18T10:36:30Z",
+    "url": "https://github.com/kkrlstrm/cc-logger"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T10:30:26Z",
+    "updated_at": "2026-08-18T10:34:38Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:33:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "LLM drift detector \u2014 know within 5 min when GPT-4o, Claude, or Gemini silently changes behaviour. Open source, self-host",
@@ -49,7 +94,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2207,
+    "stars": 2209,
     "updated_at": "2026-08-18T10:25:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -68,7 +113,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-08-18T10:24:59Z",
+    "updated_at": "2026-08-18T10:43:47Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -94,7 +139,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7387,
+    "stars": 7388,
     "updated_at": "2026-08-18T10:23:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-18T10:25:36Z",
+    "updated_at": "2026-08-18T10:34:55Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33312,
-    "updated_at": "2026-08-18T10:29:51Z",
+    "updated_at": "2026-08-18T10:44:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 108,
-    "updated_at": "2026-08-18T10:19:08Z",
+    "updated_at": "2026-08-18T10:42:55Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 78,
-    "updated_at": "2026-08-18T10:33:36Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2661,
-    "updated_at": "2026-08-18T09:34:44Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 12,
-    "updated_at": "2026-08-18T09:30:22Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21444,
-    "updated_at": "2026-08-18T10:28:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 3,
-    "updated_at": "2026-08-18T09:22:20Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
   }
 ]
