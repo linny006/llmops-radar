@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
-    "id": "aibim-ai/AI-Supply-Chain-Trust",
-    "language": "Rust",
-    "name": "aibim-ai/AI-Supply-Chain-Trust",
-    "stars": 2,
-    "updated_at": "2026-08-18T01:43:05Z",
-    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-18T01:57:32Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "A self-hosted Agent Skills marketplace",
+    "id": "nanoinfraorg/skills-server",
+    "language": "Go",
+    "name": "nanoinfraorg/skills-server",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:55:45Z",
+    "url": "https://github.com/nanoinfraorg/skills-server"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -14,8 +23,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-18T01:41:56Z",
+    "updated_at": "2026-08-18T01:55:35Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56566,
+    "updated_at": "2026-08-18T01:59:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A tiny bash script that checks an AI agent actually looked at everything it approved",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:52:36Z",
+    "url": "https://github.com/justin-rhee/attest-check"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-18T01:51:05Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T01:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
+    "id": "aibim-ai/AI-Supply-Chain-Trust",
+    "language": "Rust",
+    "name": "aibim-ai/AI-Supply-Chain-Trust",
+    "stars": 2,
+    "updated_at": "2026-08-18T01:43:05Z",
+    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5755,
-    "updated_at": "2026-08-18T01:43:36Z",
+    "updated_at": "2026-08-18T01:51:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -40,18 +94,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2652,
+    "stars": 2651,
     "updated_at": "2026-08-18T01:38:10Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56564,
-    "updated_at": "2026-08-18T01:37:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -144,15 +189,6 @@
     "url": "https://github.com/sandeep-alluru/groundcrew"
   },
   {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-18T01:32:16Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
     "description": "Declarative rule graphs for AI agent policy and constraint enforcement",
     "id": "sandeep-alluru/rulegraph",
     "language": "Python",
@@ -180,15 +216,6 @@
     "url": "https://github.com/sandeep-alluru/foghorn"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T01:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -196,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T01:30:10Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1307,
+    "updated_at": "2026-08-18T01:23:08Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 76,
-    "updated_at": "2026-08-18T01:28:45Z",
+    "updated_at": "2026-08-18T01:54:13Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 78,
     "updated_at": "2026-08-18T01:43:43Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83c\udf80 Evolution Ledger \u2014 append-only, tamper-evident audit trail for AI agent self-evolution: hypothesis \u2192 change \u2192 eval \u2192 r",
-    "id": "Zijian-Ni/evolution-ledger",
-    "language": "JavaScript",
-    "name": "Zijian-Ni/evolution-ledger",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:20:05Z",
-    "url": "https://github.com/Zijian-Ni/evolution-ledger"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:15:46Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1695,
-    "updated_at": "2026-08-17T23:04:43Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-08-18T01:42:02Z",
-    "url": "https://github.com/cognifityai/verdict"
   }
 ]
