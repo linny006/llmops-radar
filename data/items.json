@@ -1,12 +1,48 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7397,
+    "updated_at": "2026-08-18T14:14:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:15:00Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33326,
-    "updated_at": "2026-08-18T13:57:16Z",
+    "stars": 33327,
+    "updated_at": "2026-08-18T14:14:53Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2351,
+    "updated_at": "2026-08-18T14:01:19Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 156,
+    "updated_at": "2026-08-18T14:00:44Z",
+    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-18T13:55:35Z",
+    "updated_at": "2026-08-18T14:00:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:08:16Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-18T13:55:19Z",
+    "updated_at": "2026-08-18T14:10:39Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 78,
-    "updated_at": "2026-08-18T13:47:27Z",
+    "updated_at": "2026-08-18T14:10:40Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21446,
-    "updated_at": "2026-08-18T14:00:01Z",
+    "updated_at": "2026-08-18T14:09:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-18T13:58:37Z",
+    "updated_at": "2026-08-18T14:09:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 22,
     "updated_at": "2026-08-18T13:31:37Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7395,
-    "updated_at": "2026-08-18T13:30:26Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -193,7 +229,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56640,
+    "stars": 56641,
     "updated_at": "2026-08-18T13:14:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -205,15 +241,6 @@
     "stars": 1065,
     "updated_at": "2026-08-18T13:54:24Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2351,
-    "updated_at": "2026-08-18T13:36:57Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -252,21 +279,12 @@
     "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:57:57Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 393,
-    "updated_at": "2026-08-18T13:36:11Z",
+    "updated_at": "2026-08-18T14:14:20Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -319,7 +337,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2661,
+    "stars": 2662,
     "updated_at": "2026-08-18T11:52:30Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -337,7 +355,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2229,
+    "stars": 2231,
     "updated_at": "2026-08-18T11:39:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:46:45Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
     "description": "Recoverability-first runtime controls for the OpenAI Codex CLI: learn from real tool-call telemetry, nudge repeated mist",
     "id": "kkrlstrm/codex-guard",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-18T10:36:32Z",
     "url": "https://github.com/kkrlstrm/agent-guard"
-  },
-  {
-    "description": "Local observability for Claude Code. Captures sessions, sub-agents, and tool calls to Postgres via HTTP hooks.",
-    "id": "kkrlstrm/cc-logger",
-    "language": "Python",
-    "name": "kkrlstrm/cc-logger",
-    "stars": 11,
-    "updated_at": "2026-08-18T10:36:30Z",
-    "url": "https://github.com/kkrlstrm/cc-logger"
   }
 ]
