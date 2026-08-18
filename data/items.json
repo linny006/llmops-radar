@@ -1,5 +1,77 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2655,
+    "updated_at": "2026-08-18T06:15:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-18T06:14:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:10:19Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Local-first context utilization profiler for AI agents. Measures token load, PAU pressure, replay, duplication, and cont",
+    "id": "RoofTopDude/pau-profiler",
+    "language": "TypeScript",
+    "name": "RoofTopDude/pau-profiler",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:10:14Z",
+    "url": "https://github.com/RoofTopDude/pau-profiler"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-18T06:15:05Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-18T06:13:59Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:04:10Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
     "id": "SignalLayerLabs/Marginal",
     "language": "Python",
@@ -9,40 +81,13 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-18T05:57:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
     "id": "orkcom-tech/cogitorium",
     "language": "Go",
     "name": "orkcom-tech/cogitorium",
     "stars": 2,
-    "updated_at": "2026-08-18T05:57:03Z",
+    "updated_at": "2026-08-18T06:15:26Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-18T05:54:30Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-18T05:54:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -59,8 +104,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11091,
-    "updated_at": "2026-08-18T05:47:21Z",
+    "updated_at": "2026-08-18T06:08:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8305,
+    "updated_at": "2026-08-18T05:46:05Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "An autonomous, production-inspired Level-1 SRE Incident Triage Agent built with LangGraph, FastMCP, and FastAPI that cut",
@@ -86,7 +140,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-18T05:46:12Z",
+    "updated_at": "2026-08-18T06:14:08Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -112,8 +166,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56589,
-    "updated_at": "2026-08-18T05:32:07Z",
+    "stars": 56590,
+    "updated_at": "2026-08-18T06:15:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:26:05Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7379,
-    "updated_at": "2026-08-18T05:52:42Z",
+    "updated_at": "2026-08-18T06:01:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 238,
-    "updated_at": "2026-08-18T05:03:58Z",
+    "updated_at": "2026-08-18T06:06:07Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 393,
     "updated_at": "2026-08-18T04:54:05Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8304,
-    "updated_at": "2026-08-18T05:46:05Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1700,
-    "updated_at": "2026-08-18T05:58:49Z",
+    "updated_at": "2026-08-18T06:05:37Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -364,7 +400,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24320,
+    "stars": 24321,
     "updated_at": "2026-08-18T03:57:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -412,41 +448,5 @@
     "stars": 49,
     "updated_at": "2026-08-18T03:32:32Z",
     "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:31:37Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:31:02Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:30:37Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:30:00Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
