@@ -1,11 +1,65 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7424,
+    "updated_at": "2026-08-19T11:36:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33380,
+    "updated_at": "2026-08-19T11:37:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T11:35:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-19T11:31:33Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:29:30Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21469,
-    "updated_at": "2026-08-19T11:28:58Z",
+    "updated_at": "2026-08-19T11:34:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -18,24 +72,6 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T11:26:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33380,
-    "updated_at": "2026-08-19T11:29:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T11:22:47Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:29:30Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -63,15 +90,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
     "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T11:15:14Z",
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7424,
-    "updated_at": "2026-08-19T11:19:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T11:12:06Z",
+    "updated_at": "2026-08-19T11:36:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "clearml/clearml",
     "stars": 6827,
-    "updated_at": "2026-08-19T11:11:45Z",
+    "updated_at": "2026-08-19T11:35:04Z",
     "url": "https://github.com/clearml/clearml"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-19T10:46:36Z",
+    "updated_at": "2026-08-19T11:37:48Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1712,
-    "updated_at": "2026-08-19T11:30:00Z",
+    "updated_at": "2026-08-19T11:30:51Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 79,
     "updated_at": "2026-08-19T11:05:48Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-19T10:57:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "The core FortifyRoot LLMOps SDK for Python.",
