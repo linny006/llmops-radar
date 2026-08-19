@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 09:28 UTC
+> ⏰ Last updated: 2026-08-19 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anmolsharma152/Disha](https://github.com/anmolsharma152/Disha) | 0 | Python | 2026-08-19 | Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33372 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1065 | Python | 2026-08-19 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-19 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 5 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3496 | TypeScript | 2026-08-19 | The platform for LLM evaluations and AI agent testing |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anmolsharma152/Disha](https://github.com/anmolsharma152/Disha) | 0 | Python | 2026-08-19 | Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33372 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1065 | Python | 2026-08-19 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 30 | Go | 2026-08-19 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 6 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3496 | TypeScript | 2026-08-19 | The platform for LLM evaluations and AI agent testing |
 | 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21461 | Python | 2026-08-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 8 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7418 | Go | 2026-08-19 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 9 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-19 | A11 is a concurrent action and streaming runtime for building AI agents — including distributed ones that span processes |
@@ -80,7 +80,7 @@ expired items removed — so you can rely on what you see being current.
 | 36 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-08-19 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
 | 37 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-19 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 38 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-08-19 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 39 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11105 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 39 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11106 | Python | 2026-08-19 | AI Observability & Evaluation |
 | 40 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-08-19 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 41 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-08-19 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
 | 42 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-08-19 | Scan AI-generated code for security, performance, and code quality issues before they ship |
