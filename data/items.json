@@ -1,20 +1,65 @@
 [
   {
-    "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
-    "id": "sushantlokhande14/portcullis",
-    "language": "Rust",
-    "name": "sushantlokhande14/portcullis",
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2663,
+    "updated_at": "2026-08-19T06:14:17Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T06:12:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33361,
+    "updated_at": "2026-08-19T06:07:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-19T05:58:06Z",
-    "url": "https://github.com/sushantlokhande14/portcullis"
+    "updated_at": "2026-08-19T06:06:59Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
+    "id": "hanmahong5-arch/lumen",
+    "language": "Python",
+    "name": "hanmahong5-arch/lumen",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:06:40Z",
+    "url": "https://github.com/hanmahong5-arch/lumen"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 239,
+    "updated_at": "2026-08-19T06:03:38Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56706,
-    "updated_at": "2026-08-19T05:58:03Z",
+    "stars": 56707,
+    "updated_at": "2026-08-19T06:08:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T05:54:39Z",
+    "updated_at": "2026-08-19T06:00:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
+    "id": "sushantlokhande14/portcullis",
+    "language": "Rust",
+    "name": "sushantlokhande14/portcullis",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:00:22Z",
+    "url": "https://github.com/sushantlokhande14/portcullis"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-19T05:51:11Z",
+    "updated_at": "2026-08-19T06:15:21Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T05:48:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -72,6 +117,15 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11888,
+    "updated_at": "2026-08-19T05:38:59Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -79,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T05:34:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21457,
+    "updated_at": "2026-08-19T05:34:13Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -99,6 +162,15 @@
     "url": "https://github.com/esanmohammad/Anvil"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27573,
+    "updated_at": "2026-08-19T05:18:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -113,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7414,
-    "updated_at": "2026-08-19T05:45:30Z",
+    "updated_at": "2026-08-19T06:14:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 20,
     "updated_at": "2026-08-19T04:17:23Z",
     "url": "https://github.com/Tenosra/Proxima"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-19T05:58:41Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -243,21 +306,12 @@
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11889,
-    "updated_at": "2026-08-19T05:38:59Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5697,
-    "updated_at": "2026-08-19T05:03:15Z",
+    "updated_at": "2026-08-19T06:02:56Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T03:31:41Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2663,
-    "updated_at": "2026-08-19T03:19:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 108,
-    "updated_at": "2026-08-19T02:34:12Z",
+    "updated_at": "2026-08-19T06:14:38Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1309,
-    "updated_at": "2026-08-19T05:31:15Z",
+    "updated_at": "2026-08-19T06:11:57Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-19T02:00:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-08-19T02:00:49Z",
-    "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-08-19T01:58:31Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-19T01:58:13Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 44,
-    "updated_at": "2026-08-19T05:30:47Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-19T01:59:37Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
