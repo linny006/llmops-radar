@@ -1,21 +1,57 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3496,
+    "updated_at": "2026-08-19T09:14:15Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21461,
+    "updated_at": "2026-08-19T09:12:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-19T08:59:57Z",
+    "updated_at": "2026-08-19T09:12:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33372,
+    "updated_at": "2026-08-19T09:09:37Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7416,
-    "updated_at": "2026-08-19T08:53:44Z",
+    "stars": 7418,
+    "updated_at": "2026-08-19T09:04:33Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:03:21Z",
+    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,17 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T08:53:01Z",
+    "updated_at": "2026-08-19T09:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33370,
-    "updated_at": "2026-08-19T08:58:40Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-19T08:58:47Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -59,8 +95,17 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1712,
-    "updated_at": "2026-08-19T08:48:18Z",
+    "updated_at": "2026-08-19T09:13:38Z",
     "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56724,
+    "updated_at": "2026-08-19T08:46:35Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,7 +131,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1310,
-    "updated_at": "2026-08-19T08:59:50Z",
+    "updated_at": "2026-08-19T09:13:51Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T08:34:26Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21460,
-    "updated_at": "2026-08-19T08:52:59Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -157,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2351,
+    "stars": 2354,
     "updated_at": "2026-08-19T08:18:45Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -166,7 +202,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8317,
+    "stars": 8318,
     "updated_at": "2026-08-19T08:14:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -180,21 +216,12 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56722,
-    "updated_at": "2026-08-19T08:46:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-19T08:10:59Z",
+    "updated_at": "2026-08-19T09:02:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -207,22 +234,22 @@
     "url": "https://github.com/FortifyRoot/ocelle-py"
   },
   {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1amacOS \u98ce\u683c\u7684 Kubernetes \u591a\u96c6\u7fa4\u63a7\u5236\u53f0\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883\u3002",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 70,
+    "updated_at": "2026-08-19T07:36:40Z",
+    "url": "https://github.com/togettoyou/zke"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 108,
-    "updated_at": "2026-08-19T08:09:46Z",
+    "updated_at": "2026-08-19T09:03:04Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3496,
-    "updated_at": "2026-08-19T08:45:37Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T06:59:43Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
-    "id": "sushantlokhande14/portcullis",
-    "language": "Rust",
-    "name": "sushantlokhande14/portcullis",
-    "stars": 0,
-    "updated_at": "2026-08-19T06:59:34Z",
-    "url": "https://github.com/sushantlokhande14/portcullis"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-19T07:04:04Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-19T06:58:29Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
   }
 ]
