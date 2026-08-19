@@ -1,5 +1,59 @@
 [
   {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T08:50:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33370,
+    "updated_at": "2026-08-19T08:49:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 44,
+    "updated_at": "2026-08-19T08:48:39Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:47:26Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1712,
+    "updated_at": "2026-08-19T08:48:18Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T08:45:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -7,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T08:43:03Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33369,
-    "updated_at": "2026-08-19T08:41:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T08:41:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -54,31 +90,22 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T08:32:07Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 44,
-    "updated_at": "2026-08-19T08:37:46Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21460,
-    "updated_at": "2026-08-19T08:32:12Z",
+    "updated_at": "2026-08-19T08:51:27Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11893,
+    "updated_at": "2026-08-19T08:25:18Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -135,15 +162,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11892,
-    "updated_at": "2026-08-19T08:25:18Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56722,
-    "updated_at": "2026-08-19T08:12:00Z",
+    "updated_at": "2026-08-19T08:46:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 389,
     "updated_at": "2026-08-19T08:10:59Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1713,
-    "updated_at": "2026-08-19T08:35:06Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "The core FortifyRoot LLMOps SDK for Python.",
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-19T08:37:18Z",
+    "updated_at": "2026-08-19T08:45:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:05:55Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Governance for AI agents \u2014 fund the next action only when its expected marginal value justifies the cost, latency and ri",
-    "id": "SignalLayerLabs/Marginal",
-    "language": "Python",
-    "name": "SignalLayerLabs/Marginal",
-    "stars": 9,
-    "updated_at": "2026-08-19T07:05:22Z",
-    "url": "https://github.com/SignalLayerLabs/Marginal"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
