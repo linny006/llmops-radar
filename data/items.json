@@ -1,12 +1,111 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3497,
+    "updated_at": "2026-08-19T19:30:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7433,
+    "updated_at": "2026-08-19T19:26:45Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
+    "id": "tanveerkanala-cmd/ai-calibrator",
+    "language": "Python",
+    "name": "tanveerkanala-cmd/ai-calibrator",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:27:30Z",
+    "url": "https://github.com/tanveerkanala-cmd/ai-calibrator"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:22:26Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
     "id": "thanhpt1110/claude-for-poor-folks",
     "language": "JavaScript",
     "name": "thanhpt1110/claude-for-poor-folks",
     "stars": 2,
-    "updated_at": "2026-08-19T19:14:53Z",
+    "updated_at": "2026-08-19T19:22:25Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
+  },
+  {
+    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:22:15Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:29:52Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:20:24Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 7004,
+    "updated_at": "2026-08-19T19:29:08Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11114,
+    "updated_at": "2026-08-19T19:22:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:13:45Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56762,
-    "updated_at": "2026-08-19T19:12:07Z",
+    "updated_at": "2026-08-19T19:29:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,15 +126,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11114,
-    "updated_at": "2026-08-19T19:14:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
     "id": "api-evangelist/log10",
     "language": "\u2014",
@@ -43,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T19:05:17Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T19:03:13Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-19T19:08:22Z",
+    "updated_at": "2026-08-19T19:25:22Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -126,33 +207,6 @@
     "url": "https://github.com/Souptik-Hazra/meeting-summarizer"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:13:53Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3497,
-    "updated_at": "2026-08-19T19:13:34Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
-    "id": "tanveerkanala-cmd/ai-calibrator",
-    "language": "Python",
-    "name": "tanveerkanala-cmd/ai-calibrator",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:47:30Z",
-    "url": "https://github.com/tanveerkanala-cmd/ai-calibrator"
-  },
-  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -169,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T18:41:59Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:41:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7433,
-    "updated_at": "2026-08-19T19:00:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
@@ -207,15 +243,6 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:31:56Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:31:37Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:13:45Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 396,
-    "updated_at": "2026-08-19T18:27:46Z",
+    "updated_at": "2026-08-19T19:25:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -310,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2418,
+    "stars": 2419,
     "updated_at": "2026-08-19T17:44:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-19T18:23:44Z",
+    "updated_at": "2026-08-19T19:26:45Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:35:25Z",
     "url": "https://github.com/shailendraya/LLMOps"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29780,
-    "updated_at": "2026-08-19T16:28:43Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21486,
-    "updated_at": "2026-08-19T16:27:32Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
