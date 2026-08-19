@@ -1,11 +1,56 @@
 [
   {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-19T04:58:55Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T05:00:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:57:32Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T04:50:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56702,
+    "updated_at": "2026-08-19T04:55:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-19T04:48:52Z",
+    "updated_at": "2026-08-19T04:59:24Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T04:46:16Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T04:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56701,
-    "updated_at": "2026-08-19T04:49:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -72,15 +99,6 @@
     "url": "https://github.com/apache/hamilton"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T04:49:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -88,15 +106,6 @@
     "stars": 28,
     "updated_at": "2026-08-19T04:26:40Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:46:32Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Proxima lets existing GPUs serve 4x more concurrent requests ",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 44,
-    "updated_at": "2026-08-19T04:40:10Z",
+    "updated_at": "2026-08-19T05:00:23Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 27572,
     "updated_at": "2026-08-19T00:36:23Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:33:58Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
