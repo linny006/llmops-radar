@@ -1,30 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56760,
-    "updated_at": "2026-08-19T17:46:40Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-19T17:59:52Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T17:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2411,
-    "updated_at": "2026-08-19T17:44:21Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "Arize-ai/phoenix",
+    "stars": 11113,
+    "updated_at": "2026-08-19T17:56:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
@@ -32,17 +23,44 @@
     "language": "JavaScript",
     "name": "thanhpt1110/claude-for-poor-folks",
     "stars": 1,
-    "updated_at": "2026-08-19T17:45:14Z",
+    "updated_at": "2026-08-19T17:54:46Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-19T17:44:48Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33392,
+    "updated_at": "2026-08-19T17:59:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T17:49:10Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56760,
+    "updated_at": "2026-08-19T17:55:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2412,
+    "updated_at": "2026-08-19T17:44:21Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
@@ -99,15 +117,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11112,
-    "updated_at": "2026-08-19T17:36:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T17:44:54Z",
+    "updated_at": "2026-08-19T17:56:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +180,6 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33391,
-    "updated_at": "2026-08-19T17:48:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-19T17:29:44Z",
+    "updated_at": "2026-08-19T17:57:49Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-19T16:43:16Z",
+    "updated_at": "2026-08-19T17:59:55Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -256,7 +256,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21483,
+    "stars": 21484,
     "updated_at": "2026-08-19T16:27:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-19T17:25:49Z",
+    "updated_at": "2026-08-19T18:00:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -355,7 +355,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1725,
+    "stars": 1726,
     "updated_at": "2026-08-19T15:41:28Z",
     "url": "https://github.com/future-agi/future-agi"
   },
