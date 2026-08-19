@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 16:11 UTC
+> ⏰ Last updated: 2026-08-19 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11112 | Python | 2026-08-19 | AI Observability & Evaluation |
-| 2 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-19 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 3 | [simplepractice/langfuse-rb](https://github.com/simplepractice/langfuse-rb) | 12 | Ruby | 2026-08-19 | 🪢 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
-| 4 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-08-19 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
-| 5 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-19 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-19 | A11 is a concurrent action and streaming runtime for building AI agents — including distributed ones that span processes |
-| 8 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-19 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21481 | Python | 2026-08-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33389 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33390 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-19 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11112 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 5 | [iblai/os](https://github.com/iblai/os) | 16 | TypeScript | 2026-08-19 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 6 | [simplepractice/langfuse-rb](https://github.com/simplepractice/langfuse-rb) | 12 | Ruby | 2026-08-19 | 🪢 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework |
+| 7 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-08-19 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
+| 8 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-19 | A11 is a concurrent action and streaming runtime for building AI agents — including distributed ones that span processes |
+| 9 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 2 | JavaScript | 2026-08-19 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21481 | Python | 2026-08-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 11 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 395 | Python | 2026-08-19 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
 | 12 | [api7/aisix](https://github.com/api7/aisix) | 109 | Rust | 2026-08-19 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
 | 13 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | TypeScript | 2026-08-19 |  |
