@@ -1,30 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56766,
-    "updated_at": "2026-08-19T22:44:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T22:45:04Z",
+    "updated_at": "2026-08-19T22:59:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
+    "id": "baabakk/versioned-store",
+    "language": "TypeScript",
+    "name": "baabakk/versioned-store",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:53:54Z",
+    "url": "https://github.com/baabakk/versioned-store"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27586,
-    "updated_at": "2026-08-19T22:39:42Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "BerriAI/litellm",
+    "stars": 56766,
+    "updated_at": "2026-08-19T22:59:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:53:35Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-19T22:49:57Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T22:31:58Z",
+    "updated_at": "2026-08-19T22:45:34Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27586,
+    "updated_at": "2026-08-19T22:59:48Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-19T22:30:45Z",
+    "updated_at": "2026-08-19T22:48:18Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-19T22:21:13Z",
+    "updated_at": "2026-08-19T22:58:19Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 29785,
     "updated_at": "2026-08-19T22:17:53Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-19T22:43:10Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7434,
-    "updated_at": "2026-08-19T22:40:21Z",
+    "updated_at": "2026-08-19T22:53:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-19T22:40:38Z",
+    "updated_at": "2026-08-19T22:51:42Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T21:47:45Z",
+    "updated_at": "2026-08-19T22:59:48Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -166,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33402,
+    "stars": 33403,
     "updated_at": "2026-08-19T21:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8322,
-    "updated_at": "2026-08-19T20:48:50Z",
+    "updated_at": "2026-08-19T22:53:52Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
-    "id": "baabakk/versioned-store",
-    "language": "TypeScript",
-    "name": "baabakk/versioned-store",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:12:05Z",
-    "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
     "description": "Multi-tenant LLM prompt management + evaluation platform with a RAG agent. Versioned prompts, batch evals (4 judges), li",
     "id": "TheWerbinator/promptforge",
     "language": "Python",
@@ -369,15 +378,6 @@
     "url": "https://github.com/api-evangelist/tensorzero"
   },
   {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:44:06Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
     "description": "Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to",
     "id": "adriencr81/Check-Alfred",
     "language": "Python",
@@ -391,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2435,
+    "stars": 2436,
     "updated_at": "2026-08-19T19:41:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
