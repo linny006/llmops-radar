@@ -1,30 +1,93 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2663,
-    "updated_at": "2026-08-19T06:14:17Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-19T06:12:56Z",
+    "updated_at": "2026-08-19T06:27:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-19T06:26:10Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-19T06:25:29Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56708,
+    "updated_at": "2026-08-19T06:23:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2664,
+    "updated_at": "2026-08-19T06:22:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33361,
-    "updated_at": "2026-08-19T06:07:51Z",
+    "stars": 33362,
+    "updated_at": "2026-08-19T06:22:33Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-19T06:20:51Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29766,
+    "updated_at": "2026-08-19T06:16:36Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:15:38Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -54,24 +117,6 @@
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56707,
-    "updated_at": "2026-08-19T06:08:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T06:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
     "id": "sushantlokhande14/portcullis",
     "language": "Rust",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-19T06:15:21Z",
+    "updated_at": "2026-08-19T06:19:48Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1712,
-    "updated_at": "2026-08-19T05:58:57Z",
+    "updated_at": "2026-08-19T06:27:39Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11888,
-    "updated_at": "2026-08-19T05:38:59Z",
+    "updated_at": "2026-08-19T06:29:54Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -139,7 +184,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21457,
+    "stars": 21458,
     "updated_at": "2026-08-19T05:34:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -171,21 +216,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 78,
-    "updated_at": "2026-08-19T05:15:17Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7414,
-    "updated_at": "2026-08-19T06:14:13Z",
+    "updated_at": "2026-08-19T06:26:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5697,
-    "updated_at": "2026-08-19T06:02:56Z",
+    "updated_at": "2026-08-19T06:22:31Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-19T02:51:32Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\u4e13\u6ce8\u5728\u667a\u80fd\u8fd0\u7ef4\u3001\u81ea\u52a8\u5316\u8fd0\u7ef4\u3001Zabbix\u3001Prometheus\u3001Grafana\u3001Nagios\u3001ELK Stack\uff08Elasticsearch\u3001Logstash\u3001Kibana\uff09\u3001Graylog\u3001Ansible\u3001SaltStack\u3001Puppet",
     "id": "lihaiya/FreeAiOps",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 108,
     "updated_at": "2026-08-19T06:14:38Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1309,
-    "updated_at": "2026-08-19T06:11:57Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "OpenClaw is the agent. BoxClaw is the box it runs on. Self-hosted AI platform on one VPS: LLM gateway, white-label chat ",
-    "id": "Unseengap/boxclaw",
-    "language": "Python",
-    "name": "Unseengap/boxclaw",
-    "stars": 0,
-    "updated_at": "2026-08-19T02:23:24Z",
-    "url": "https://github.com/Unseengap/boxclaw"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-19T02:00:49Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
