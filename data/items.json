@@ -1,21 +1,30 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3497,
-    "updated_at": "2026-08-19T16:59:12Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 5,
-    "updated_at": "2026-08-19T16:58:43Z",
+    "updated_at": "2026-08-19T17:12:21Z",
     "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33391,
+    "updated_at": "2026-08-19T17:08:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-19T17:08:03Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -23,26 +32,26 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-19T16:59:15Z",
+    "updated_at": "2026-08-19T17:11:35Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33390,
-    "updated_at": "2026-08-19T16:56:32Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56757,
+    "updated_at": "2026-08-19T17:12:38Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
-    "id": "thanhpt1110/claude-for-poor-folks",
-    "language": "JavaScript",
-    "name": "thanhpt1110/claude-for-poor-folks",
-    "stars": 1,
-    "updated_at": "2026-08-19T16:58:49Z",
-    "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:12:53Z",
+    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T16:46:10Z",
+    "updated_at": "2026-08-19T17:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3497,
+    "updated_at": "2026-08-19T17:08:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
+    "id": "thanhpt1110/claude-for-poor-folks",
+    "language": "JavaScript",
+    "name": "thanhpt1110/claude-for-poor-folks",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:06:38Z",
+    "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 395,
-    "updated_at": "2026-08-19T16:52:01Z",
+    "updated_at": "2026-08-19T17:02:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -112,7 +139,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29776,
+    "stars": 29777,
     "updated_at": "2026-08-19T16:28:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -148,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2405,
+    "stars": 2406,
     "updated_at": "2026-08-19T16:20:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -160,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T16:19:23Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-19T16:18:50Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11112,
-    "updated_at": "2026-08-19T17:00:19Z",
+    "updated_at": "2026-08-19T17:15:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -265,7 +283,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1723,
+    "stars": 1724,
     "updated_at": "2026-08-19T15:41:28Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -419,17 +437,8 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-19T16:59:15Z",
+    "updated_at": "2026-08-19T17:09:58Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56757,
-    "updated_at": "2026-08-19T16:51:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T14:59:47Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-19T13:23:39Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
