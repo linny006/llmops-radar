@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 19:58 UTC
+> ⏰ Last updated: 2026-08-19 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3497 | TypeScript | 2026-08-19 | The platform for LLM evaluations and AI agent testing |
-| 2 | [baabakk/versioned-store](https://github.com/baabakk/versioned-store) | 0 | TypeScript | 2026-08-19 | Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb |
-| 3 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 3 | Python | 2026-08-19 | Production harness and control plane for accountable AI-assisted software delivery |
-| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29781 | TypeScript | 2026-08-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 5 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 2 | Go | 2026-08-19 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
-| 6 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-19 | TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56764 | Python | 2026-08-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11114 | Python | 2026-08-19 | AI Observability & Evaluation |
-| 9 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8321 | Rust | 2026-08-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 10 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-19 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [adriencr81/Check-Alfred](https://github.com/adriencr81/Check-Alfred) | 3 | Python | 2026-08-19 | Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to |
-| 13 | [TheWerbinator/promptforge](https://github.com/TheWerbinator/promptforge) | 0 | Python | 2026-08-19 | Multi-tenant LLM prompt management + evaluation platform with a RAG agent. Versioned prompts, batch evals (4 judges), li |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [TheWerbinator/promptforge](https://github.com/TheWerbinator/promptforge) | 0 | Python | 2026-08-19 | Multi-tenant LLM prompt management + evaluation platform with a RAG agent. Versioned prompts, batch evals (4 judges), li |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3497 | TypeScript | 2026-08-19 | The platform for LLM evaluations and AI agent testing |
+| 4 | [baabakk/versioned-store](https://github.com/baabakk/versioned-store) | 0 | TypeScript | 2026-08-19 | Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb |
+| 5 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 3 | Python | 2026-08-19 | Production harness and control plane for accountable AI-assisted software delivery |
+| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29781 | TypeScript | 2026-08-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 7 | [orkcom-tech/cogitorium](https://github.com/orkcom-tech/cogitorium) | 2 | Go | 2026-08-19 | A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri |
+| 8 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-19 | TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56764 | Python | 2026-08-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11114 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 11 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8321 | Rust | 2026-08-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 12 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-19 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
+| 13 | [adriencr81/Check-Alfred](https://github.com/adriencr81/Check-Alfred) | 3 | Python | 2026-08-19 | Accountability layer for AI agents. Turns OpenTelemetry GenAI traces into a daily digest where every line is anchored to |
 | 14 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2421 | Python | 2026-08-19 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 15 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-19 | Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le |
 | 16 | [thanhpt1110/claude-for-poor-folks](https://github.com/thanhpt1110/claude-for-poor-folks) | 2 | JavaScript | 2026-08-19 | Live cost, token and quota meter for Claude Code — budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete |
