@@ -1,5 +1,59 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56768,
+    "updated_at": "2026-08-19T21:45:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-19T21:43:05Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33398,
+    "updated_at": "2026-08-19T21:42:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-19T21:43:45Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T21:39:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29782,
+    "updated_at": "2026-08-19T21:32:08Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T21:37:36Z",
+    "updated_at": "2026-08-19T21:41:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T21:29:39Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56767,
-    "updated_at": "2026-08-19T21:37:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
@@ -72,21 +108,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33398,
-    "updated_at": "2026-08-19T21:35:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-19T21:34:10Z",
+    "updated_at": "2026-08-19T21:42:24Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T21:09:51Z",
+    "updated_at": "2026-08-19T21:41:56Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -176,17 +203,8 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-08-19T20:49:36Z",
+    "updated_at": "2026-08-19T21:41:12Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-19T21:36:12Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -288,15 +306,6 @@
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29782,
-    "updated_at": "2026-08-19T21:32:08Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
     "id": "api-evangelist/tensorzero",
     "language": "\u2014",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-19T19:48:35Z",
+    "updated_at": "2026-08-19T21:40:37Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -328,7 +337,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2430,
+    "stars": 2431,
     "updated_at": "2026-08-19T19:41:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T19:00:47Z",
     "url": "https://github.com/vishalgoyal25/AI_Keystone"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:56:39Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   }
 ]
