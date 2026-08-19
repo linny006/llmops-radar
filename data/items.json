@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T19:58:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
+    "id": "baabakk/versioned-store",
+    "language": "TypeScript",
+    "name": "baabakk/versioned-store",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:12:05Z",
+    "url": "https://github.com/baabakk/versioned-store"
   },
   {
     "description": "Multi-tenant LLM prompt management + evaluation platform with a RAG agent. Versioned prompts, batch evals (4 judges), li",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "TheWerbinator/promptforge",
     "stars": 0,
-    "updated_at": "2026-08-19T19:58:13Z",
+    "updated_at": "2026-08-19T20:11:15Z",
     "url": "https://github.com/TheWerbinator/promptforge"
+  },
+  {
+    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:07:21Z",
+    "url": "https://github.com/api-evangelist/zenml"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,17 +32,44 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T20:00:04Z",
+    "updated_at": "2026-08-19T20:14:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
-    "id": "baabakk/versioned-store",
-    "language": "TypeScript",
-    "name": "baabakk/versioned-store",
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T19:58:23Z",
-    "url": "https://github.com/baabakk/versioned-store"
+    "updated_at": "2026-08-19T20:04:14Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11115,
+    "updated_at": "2026-08-19T20:09:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T20:00:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:57:18Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -54,15 +90,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:57:18Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
     "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
     "id": "api-evangelist/tensorzero",
     "language": "\u2014",
@@ -77,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56764,
-    "updated_at": "2026-08-19T20:00:32Z",
+    "updated_at": "2026-08-19T20:13:37Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11114,
-    "updated_at": "2026-08-19T20:00:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:22:15Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:49:50Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -439,14 +448,5 @@
     "stars": 27586,
     "updated_at": "2026-08-19T17:51:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:37:55Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   }
 ]
