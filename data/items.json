@@ -5,8 +5,53 @@
     "language": "JavaScript",
     "name": "thanhpt1110/claude-for-poor-folks",
     "stars": 2,
-    "updated_at": "2026-08-19T19:02:23Z",
+    "updated_at": "2026-08-19T19:14:53Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56762,
+    "updated_at": "2026-08-19T19:12:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33395,
+    "updated_at": "2026-08-19T19:10:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11114,
+    "updated_at": "2026-08-19T19:14:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-19T19:05:17Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T19:03:13Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-19T19:00:43Z",
+    "updated_at": "2026-08-19T19:08:22Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T19:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -81,13 +117,13 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33393,
-    "updated_at": "2026-08-19T18:54:23Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "A GenAI solution transforming unstructured meeting audio into actionable intelligence: verbatim transcripts, executive s",
+    "id": "Souptik-Hazra/meeting-summarizer",
+    "language": "Python",
+    "name": "Souptik-Hazra/meeting-summarizer",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:54:21Z",
+    "url": "https://github.com/Souptik-Hazra/meeting-summarizer"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T18:51:04Z",
+    "updated_at": "2026-08-19T19:13:53Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T19:03:07Z",
+    "updated_at": "2026-08-19T19:13:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56762,
-    "updated_at": "2026-08-19T18:57:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-19T18:29:57Z",
+    "updated_at": "2026-08-19T19:13:45Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 8320,
     "updated_at": "2026-08-19T18:28:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11113,
-    "updated_at": "2026-08-19T18:26:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
@@ -418,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29778,
+    "stars": 29780,
     "updated_at": "2026-08-19T16:28:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -427,26 +445,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21485,
+    "stars": 21486,
     "updated_at": "2026-08-19T16:27:32Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-19T16:26:34Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-19T16:19:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
   }
 ]
