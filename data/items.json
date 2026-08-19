@@ -1,21 +1,84 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
+    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-19T11:15:14Z",
+    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7424,
+    "updated_at": "2026-08-19T11:14:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3497,
+    "updated_at": "2026-08-19T11:12:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-19T11:09:27Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21466,
-    "updated_at": "2026-08-19T10:57:12Z",
+    "stars": 21467,
+    "updated_at": "2026-08-19T11:12:39Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:08:30Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:00:51Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T11:13:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33379,
+    "updated_at": "2026-08-19T11:05:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-19T10:56:52Z",
+    "updated_at": "2026-08-19T11:09:24Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 108,
     "updated_at": "2026-08-19T10:55:13Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33378,
-    "updated_at": "2026-08-19T10:57:49Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -63,24 +117,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-19T10:47:15Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T10:59:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8319,
-    "updated_at": "2026-08-19T10:43:47Z",
+    "updated_at": "2026-08-19T11:14:02Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -104,17 +140,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11894,
-    "updated_at": "2026-08-19T10:41:36Z",
+    "updated_at": "2026-08-19T11:09:22Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7423,
-    "updated_at": "2026-08-19T10:54:53Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T10:33:22Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3497,
-    "updated_at": "2026-08-19T10:27:37Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1712,
-    "updated_at": "2026-08-19T10:41:11Z",
+    "updated_at": "2026-08-19T11:13:40Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 79,
-    "updated_at": "2026-08-19T10:45:22Z",
+    "updated_at": "2026-08-19T11:05:48Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:18:04Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:14:36Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:14:27Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
