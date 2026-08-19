@@ -1,5 +1,41 @@
 [
   {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 2,
+    "updated_at": "2026-08-19T17:21:59Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56759,
+    "updated_at": "2026-08-19T17:16:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T17:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-19T17:12:39Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33391,
-    "updated_at": "2026-08-19T17:08:16Z",
+    "updated_at": "2026-08-19T17:18:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,22 +63,13 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
+    "id": "thanhpt1110/claude-for-poor-folks",
     "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 2,
-    "updated_at": "2026-08-19T17:11:35Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56757,
-    "updated_at": "2026-08-19T17:12:38Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "thanhpt1110/claude-for-poor-folks",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:06:38Z",
+    "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
@@ -54,31 +81,13 @@
     "url": "https://github.com/venkathub/dosadash"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T17:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T17:08:57Z",
+    "updated_at": "2026-08-19T17:22:29Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
-    "id": "thanhpt1110/claude-for-poor-folks",
-    "language": "JavaScript",
-    "name": "thanhpt1110/claude-for-poor-folks",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:06:38Z",
-    "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 395,
-    "updated_at": "2026-08-19T17:02:41Z",
+    "updated_at": "2026-08-19T17:22:08Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -175,7 +184,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2406,
+    "stars": 2407,
     "updated_at": "2026-08-19T16:20:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11112,
-    "updated_at": "2026-08-19T17:15:20Z",
+    "updated_at": "2026-08-19T17:17:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T17:09:58Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:59:47Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   }
 ]
