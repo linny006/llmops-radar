@@ -1,5 +1,50 @@
 [
   {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-19T15:14:52Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21478,
+    "updated_at": "2026-08-19T15:15:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-19T15:09:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T15:06:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33387,
+    "updated_at": "2026-08-19T15:12:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
@@ -27,31 +72,13 @@
     "url": "https://github.com/babaliauskas/evalshift-sdk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T15:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33386,
-    "updated_at": "2026-08-19T15:05:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21477,
-    "updated_at": "2026-08-19T15:06:00Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "AshwinUgale/tracelint",
+    "stars": 4,
+    "updated_at": "2026-08-19T14:59:29Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-19T14:55:53Z",
+    "updated_at": "2026-08-19T15:12:10Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7431,
-    "updated_at": "2026-08-19T15:03:50Z",
+    "updated_at": "2026-08-19T15:15:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 2,
-    "updated_at": "2026-08-19T15:05:11Z",
+    "updated_at": "2026-08-19T15:15:12Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29772,
-    "updated_at": "2026-08-19T13:14:13Z",
+    "updated_at": "2026-08-19T15:09:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-19T13:29:16Z",
+    "updated_at": "2026-08-19T15:06:11Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2666,
     "updated_at": "2026-08-19T13:31:21Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Template repository for plugin creation for mloda.ai ",
-    "id": "mloda-ai/mloda-plugin-template",
-    "language": "Python",
-    "name": "mloda-ai/mloda-plugin-template",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:31:13Z",
-    "url": "https://github.com/mloda-ai/mloda-plugin-template"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 79,
-    "updated_at": "2026-08-19T12:25:42Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:23:23Z",
-    "url": "https://github.com/api-evangelist/evidently"
   }
 ]
