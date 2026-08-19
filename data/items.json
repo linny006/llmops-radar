@@ -1,11 +1,65 @@
 [
   {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-19T11:52:52Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 11,
+    "updated_at": "2026-08-19T11:52:24Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33381,
+    "updated_at": "2026-08-19T11:57:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-19T11:57:31Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3497,
+    "updated_at": "2026-08-19T11:57:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21471,
+    "updated_at": "2026-08-19T11:47:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-19T11:38:19Z",
+    "updated_at": "2026-08-19T11:45:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-19T11:37:48Z",
+    "updated_at": "2026-08-19T11:57:15Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
@@ -23,17 +77,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7424,
-    "updated_at": "2026-08-19T11:45:18Z",
+    "updated_at": "2026-08-19T11:49:58Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33380,
-    "updated_at": "2026-08-19T11:44:43Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -41,17 +86,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-19T11:35:57Z",
+    "updated_at": "2026-08-19T11:56:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21470,
-    "updated_at": "2026-08-19T11:39:22Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "clearml/clearml",
+    "stars": 6828,
+    "updated_at": "2026-08-19T11:35:04Z",
+    "url": "https://github.com/clearml/clearml"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-19T11:31:33Z",
+    "updated_at": "2026-08-19T11:51:39Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-19T11:43:52Z",
+    "updated_at": "2026-08-19T11:51:09Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -113,35 +158,8 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T11:13:58Z",
+    "updated_at": "2026-08-19T11:49:04Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3497,
-    "updated_at": "2026-08-19T11:36:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6827,
-    "updated_at": "2026-08-19T11:35:04Z",
-    "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-19T11:09:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11894,
-    "updated_at": "2026-08-19T11:09:22Z",
+    "updated_at": "2026-08-19T11:56:58Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda-plugin-template",
     "stars": 1,
-    "updated_at": "2026-08-19T10:35:10Z",
+    "updated_at": "2026-08-19T11:49:23Z",
     "url": "https://github.com/mloda-ai/mloda-plugin-template"
   },
   {
@@ -238,7 +256,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2367,
+    "stars": 2369,
     "updated_at": "2026-08-19T10:01:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1712,
-    "updated_at": "2026-08-19T11:43:14Z",
+    "updated_at": "2026-08-19T11:47:17Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -320,7 +338,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2667,
-    "updated_at": "2026-08-19T10:45:05Z",
+    "updated_at": "2026-08-19T11:46:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1310,
-    "updated_at": "2026-08-19T10:49:34Z",
+    "updated_at": "2026-08-19T11:48:05Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:23:14Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:23:12Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:21:39Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   }
 ]
