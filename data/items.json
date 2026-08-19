@@ -1,39 +1,30 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2662,
-    "updated_at": "2026-08-19T01:28:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-19T01:25:53Z",
+    "updated_at": "2026-08-19T01:42:37Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-19T01:42:01Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56683,
-    "updated_at": "2026-08-19T01:28:19Z",
+    "stars": 56684,
+    "updated_at": "2026-08-19T01:44:59Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T01:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -41,8 +32,53 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-08-19T01:12:44Z",
+    "updated_at": "2026-08-19T01:36:27Z",
     "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:35:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 44,
+    "updated_at": "2026-08-19T01:35:47Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:33:55Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T01:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2662,
+    "updated_at": "2026-08-19T01:28:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
@@ -72,15 +108,6 @@
     "url": "https://github.com/baabakk/versioned-store"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T01:00:31Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -106,15 +133,6 @@
     "stars": 34,
     "updated_at": "2026-08-19T01:28:34Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-19T01:27:22Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:27:45Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-19T01:21:50Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -439,14 +448,5 @@
     "stars": 11098,
     "updated_at": "2026-08-18T23:49:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-08-18T23:44:50Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   }
 ]
