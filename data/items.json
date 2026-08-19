@@ -1,5 +1,59 @@
 [
   {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "\u2014",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-19T04:12:18Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 30,
+    "updated_at": "2026-08-19T04:12:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:12:44Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56698,
+    "updated_at": "2026-08-19T04:10:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 1,
+    "updated_at": "2026-08-19T04:09:40Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T04:08:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -18,40 +72,13 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56697,
-    "updated_at": "2026-08-19T04:07:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 30,
-    "updated_at": "2026-08-19T04:05:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7413,
-    "updated_at": "2026-08-19T04:03:06Z",
+    "updated_at": "2026-08-19T04:15:17Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:06:05Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -63,15 +90,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T04:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -79,6 +97,15 @@
     "stars": 3,
     "updated_at": "2026-08-19T03:59:01Z",
     "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11889,
+    "updated_at": "2026-08-19T04:12:29Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -108,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "\u2014",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-19T03:35:44Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
     "id": "project-arbr/arbr-control-plane",
     "language": "JavaScript",
@@ -124,15 +142,6 @@
     "stars": 20,
     "updated_at": "2026-08-19T03:34:20Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11888,
-    "updated_at": "2026-08-19T03:58:25Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-19T03:13:09Z",
+    "updated_at": "2026-08-19T04:10:10Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1309,
-    "updated_at": "2026-08-19T04:00:18Z",
+    "updated_at": "2026-08-19T04:12:37Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -328,7 +337,7 @@
     "id": "threejay20/homelab-ai-stack",
     "language": "Python",
     "name": "threejay20/homelab-ai-stack",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-19T01:58:31Z",
     "url": "https://github.com/threejay20/homelab-ai-stack"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T00:32:38Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:31:15Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   }
 ]
