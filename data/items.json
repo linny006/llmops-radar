@@ -1,21 +1,66 @@
 [
   {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:58:55Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 30,
-    "updated_at": "2026-08-19T05:00:23Z",
+    "updated_at": "2026-08-19T05:14:29Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
+    "id": "sushantlokhande14/portcullis",
+    "language": "Rust",
+    "name": "sushantlokhande14/portcullis",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:13:47Z",
+    "url": "https://github.com/sushantlokhande14/portcullis"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:10:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56703,
+    "updated_at": "2026-08-19T05:12:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7414,
+    "updated_at": "2026-08-19T05:05:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T05:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:08:49Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T04:57:32Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T04:50:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56702,
-    "updated_at": "2026-08-19T04:55:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -59,17 +86,8 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-19T04:48:49Z",
+    "updated_at": "2026-08-19T05:08:07Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:46:16Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -171,15 +189,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7413,
-    "updated_at": "2026-08-19T04:31:48Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
     "id": "sophie-nguyenthuthuy/llm-pricing-history",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5697,
-    "updated_at": "2026-08-19T04:45:05Z",
+    "updated_at": "2026-08-19T05:03:15Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-19T03:26:12Z",
+    "updated_at": "2026-08-19T05:15:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 44,
-    "updated_at": "2026-08-19T05:00:23Z",
+    "updated_at": "2026-08-19T05:14:38Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21456,
-    "updated_at": "2026-08-19T02:59:36Z",
+    "updated_at": "2026-08-19T05:09:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T00:48:34Z",
     "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27572,
-    "updated_at": "2026-08-19T00:36:23Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
