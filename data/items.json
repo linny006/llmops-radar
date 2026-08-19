@@ -1,30 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T22:59:59Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56766,
-    "updated_at": "2026-08-19T22:59:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T23:00:22Z",
+    "updated_at": "2026-08-19T23:12:10Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-19T23:05:19Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
@@ -32,8 +23,26 @@
     "language": "TypeScript",
     "name": "baabakk/versioned-store",
     "stars": 0,
-    "updated_at": "2026-08-19T22:53:54Z",
+    "updated_at": "2026-08-19T23:04:55Z",
     "url": "https://github.com/baabakk/versioned-store"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56766,
+    "updated_at": "2026-08-19T23:13:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T23:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -50,8 +59,17 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-08-19T22:49:57Z",
+    "updated_at": "2026-08-19T23:04:33Z",
     "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 175,
+    "updated_at": "2026-08-19T22:44:35Z",
+    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27586,
-    "updated_at": "2026-08-19T22:59:48Z",
+    "updated_at": "2026-08-19T23:04:37Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -126,15 +144,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-19T21:59:49Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-19T22:59:48Z",
+    "updated_at": "2026-08-19T23:15:22Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -184,7 +193,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33403,
+    "stars": 33404,
     "updated_at": "2026-08-19T21:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11117,
-    "updated_at": "2026-08-19T22:41:56Z",
+    "updated_at": "2026-08-19T23:00:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -391,7 +400,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2436,
+    "stars": 2437,
     "updated_at": "2026-08-19T19:41:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:27:53Z",
     "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:22:15Z",
-    "url": "https://github.com/api-evangelist/opik"
   }
 ]
