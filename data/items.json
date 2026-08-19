@@ -1,12 +1,57 @@
 [
   {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-19T22:29:28Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T22:29:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56767,
-    "updated_at": "2026-08-19T22:14:51Z",
+    "stars": 56766,
+    "updated_at": "2026-08-19T22:27:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-19T22:22:02Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-19T22:21:13Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-19T22:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -32,17 +77,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T22:12:58Z",
+    "updated_at": "2026-08-19T22:26:16Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T22:00:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7434,
-    "updated_at": "2026-08-19T21:59:30Z",
+    "updated_at": "2026-08-19T22:30:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-19T22:07:23Z",
+    "updated_at": "2026-08-19T22:25:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -103,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33400,
+    "stars": 33401,
     "updated_at": "2026-08-19T21:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29783,
-    "updated_at": "2026-08-19T21:32:08Z",
+    "updated_at": "2026-08-19T22:17:53Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T21:29:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Understand and improve how you use AI coding tools. A local web app that turns raw usage data into a live dashboard \u2014 to",
     "id": "starbringer/AI-Insights",
     "language": "TypeScript",
@@ -153,22 +180,13 @@
     "url": "https://github.com/starbringer/AI-Insights"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-19T21:22:30Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-19T21:49:38Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "name": "comet-ml/opik",
+    "stars": 21490,
+    "updated_at": "2026-08-19T21:14:27Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -241,15 +259,6 @@
     "stars": 149,
     "updated_at": "2026-08-19T20:51:09Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21489,
-    "updated_at": "2026-08-19T21:14:27Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:22:15Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-08-19T19:05:17Z",
-    "url": "https://github.com/api-evangelist/log10"
   }
 ]
