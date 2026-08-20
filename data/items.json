@@ -1,12 +1,93 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56814,
+    "updated_at": "2026-08-20T08:39:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 397,
+    "updated_at": "2026-08-20T08:39:12Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5697,
+    "updated_at": "2026-08-20T08:35:43Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-20T08:29:59Z",
+    "updated_at": "2026-08-20T08:38:34Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:34:57Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33443,
+    "updated_at": "2026-08-20T08:34:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:33:57Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:44:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3498,
+    "updated_at": "2026-08-20T08:39:31Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T08:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -18,40 +99,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56811,
-    "updated_at": "2026-08-20T08:28:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T08:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33440,
-    "updated_at": "2026-08-20T08:30:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3498,
-    "updated_at": "2026-08-20T08:27:00Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7447,
+    "updated_at": "2026-08-20T08:41:29Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11126,
-    "updated_at": "2026-08-20T08:10:55Z",
+    "updated_at": "2026-08-20T08:39:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21495,
-    "updated_at": "2026-08-20T08:30:16Z",
+    "updated_at": "2026-08-20T08:40:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -81,6 +135,15 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2672,
+    "updated_at": "2026-08-20T08:39:57Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -90,30 +153,12 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7446,
-    "updated_at": "2026-08-20T08:18:24Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2671,
-    "updated_at": "2026-08-20T07:57:59Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-20T07:51:44Z",
+    "updated_at": "2026-08-20T08:44:41Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-20T08:22:27Z",
+    "updated_at": "2026-08-20T08:42:33Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:44:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11898,
-    "updated_at": "2026-08-20T08:16:46Z",
+    "updated_at": "2026-08-20T08:45:14Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -158,17 +194,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-20T08:27:36Z",
+    "updated_at": "2026-08-20T08:32:33Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:39:14Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
@@ -194,7 +221,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-20T07:31:16Z",
+    "updated_at": "2026-08-20T08:45:17Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-20T07:30:31Z",
+    "updated_at": "2026-08-20T08:43:34Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -212,7 +239,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T07:25:11Z",
+    "updated_at": "2026-08-20T08:42:38Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T07:22:31Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:21:48Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get",
@@ -373,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24396,
+    "stars": 24397,
     "updated_at": "2026-08-20T06:02:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -391,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2471,
+    "stars": 2472,
     "updated_at": "2026-08-20T05:47:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:28:51Z",
     "url": "https://github.com/baabakk/versioned-store"
-  },
-  {
-    "description": "Multi-agent AI analytics office on Hermes and Slack with Supabase data operations, Obsidian/OhMyWiki evidence pipelines,",
-    "id": "Lee2379/multi-agent-ai-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/multi-agent-ai-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:19:36Z",
-    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-20T05:12:35Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
