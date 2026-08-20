@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-20T05:24:37Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56792,
+    "updated_at": "2026-08-20T05:25:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T05:21:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent AI analytics office on Hermes and Slack with Supabase data operations, Obsidian/OhMyWiki evidence pipelines,",
+    "id": "Lee2379/multi-agent-ai-analytics-office",
+    "language": "Python",
+    "name": "Lee2379/multi-agent-ai-analytics-office",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:19:36Z",
+    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:19:04Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "PowerShell",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-20T05:16:06Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T05:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -14,17 +77,17 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1734,
-    "updated_at": "2026-08-20T05:14:40Z",
+    "updated_at": "2026-08-20T05:24:23Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56792,
-    "updated_at": "2026-08-20T05:14:53Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8327,
+    "updated_at": "2026-08-20T05:09:44Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -36,24 +99,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-20T05:07:52Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T05:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 11897,
     "updated_at": "2026-08-20T04:58:03Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Multi-agent AI analytics office on Hermes and Slack with Supabase data operations, Obsidian/OhMyWiki evidence pipelines,",
-    "id": "Lee2379/multi-agent-ai-analytics-office",
-    "language": "Python",
-    "name": "Lee2379/multi-agent-ai-analytics-office",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:14:17Z",
-    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -144,15 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "PowerShell",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:35:31Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -187,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T04:30:26Z",
     "url": "https://github.com/aroraneel/AI-Engineer"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:14:02Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
@@ -396,15 +414,6 @@
     "url": "https://github.com/GaBySuGy/agent-guardrails"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8326,
-    "updated_at": "2026-08-20T05:09:44Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
     "id": "Farukul-Islam/from-mlops-to-llmops",
     "language": "PHP",
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-20T05:00:35Z",
+    "updated_at": "2026-08-20T05:16:26Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-20T03:23:16Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
