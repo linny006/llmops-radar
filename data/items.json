@@ -1,5 +1,23 @@
 [
   {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-08-20T04:00:45Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T04:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-20T03:55:39Z",
+    "updated_at": "2026-08-20T04:04:54Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -77,17 +95,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T03:54:53Z",
+    "updated_at": "2026-08-20T04:03:32Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56790,
-    "updated_at": "2026-08-20T03:58:42Z",
+    "updated_at": "2026-08-20T04:06:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-20T03:14:40Z",
+    "updated_at": "2026-08-20T04:06:43Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-20T03:59:47Z",
+    "updated_at": "2026-08-20T04:04:06Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -382,7 +391,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33422,
+    "stars": 33423,
     "updated_at": "2026-08-20T02:53:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 1156,
     "updated_at": "2026-08-20T01:58:10Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3498,
-    "updated_at": "2026-08-20T03:38:11Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
