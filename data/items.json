@@ -1,12 +1,75 @@
 [
   {
-    "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris",
-    "id": "Scottcjn/ram-coffers",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33465,
+    "updated_at": "2026-08-20T16:00:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:55:10Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T16:00:20Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "Scottcjn/ram-coffers",
-    "stars": 160,
-    "updated_at": "2026-08-20T15:47:11Z",
-    "url": "https://github.com/Scottcjn/ram-coffers"
+    "name": "mlflow/mlflow",
+    "stars": 27594,
+    "updated_at": "2026-08-20T15:53:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3502,
+    "updated_at": "2026-08-20T15:59:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1311,
+    "updated_at": "2026-08-20T15:53:25Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-20T15:51:06Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7461,
+    "updated_at": "2026-08-20T15:48:25Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T15:45:28Z",
+    "updated_at": "2026-08-20T15:47:47Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris",
+    "id": "Scottcjn/ram-coffers",
+    "language": "Python",
+    "name": "Scottcjn/ram-coffers",
+    "stars": 160,
+    "updated_at": "2026-08-20T15:47:11Z",
+    "url": "https://github.com/Scottcjn/ram-coffers"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -27,6 +99,15 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56838,
+    "updated_at": "2026-08-20T15:44:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
     "id": "thanhpt1110/claude-for-poor-folks",
     "language": "JavaScript",
@@ -34,6 +115,15 @@
     "stars": 2,
     "updated_at": "2026-08-20T15:41:45Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:41:28Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -45,13 +135,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33464,
-    "updated_at": "2026-08-20T15:37:13Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:38:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
@@ -72,42 +162,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:31:02Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:38:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T15:44:55Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3501,
-    "updated_at": "2026-08-20T15:45:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
@@ -124,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:18:33Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56837,
-    "updated_at": "2026-08-20T15:44:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7459,
-    "updated_at": "2026-08-20T15:33:36Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T15:37:43Z",
+    "updated_at": "2026-08-20T15:56:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,17 +212,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T15:45:44Z",
+    "updated_at": "2026-08-20T15:58:15Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-20T15:46:26Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-20T15:00:47Z",
+    "updated_at": "2026-08-20T15:56:16Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -220,7 +247,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29793,
+    "stars": 29794,
     "updated_at": "2026-08-20T14:57:19Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-20T14:55:36Z",
+    "updated_at": "2026-08-20T15:55:56Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3516,
-    "updated_at": "2026-08-20T15:14:15Z",
+    "updated_at": "2026-08-20T15:50:18Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/antoniodelia-hash/blast-radius"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27594,
-    "updated_at": "2026-08-20T14:48:51Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Validated companion examples for AI agent gateways, observability, and evaluation pipelines.",
     "id": "MPIsaac-Per/agentinfra-examples",
     "language": "Python",
@@ -400,7 +418,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1749,
+    "stars": 1750,
     "updated_at": "2026-08-20T14:01:30Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:59:32Z",
     "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2353,
-    "updated_at": "2026-08-20T13:48:47Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
-    "id": "Drzymek92/market-bot-configurator",
-    "language": "Python",
-    "name": "Drzymek92/market-bot-configurator",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:42:10Z",
-    "url": "https://github.com/Drzymek92/market-bot-configurator"
   }
 ]
