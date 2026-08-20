@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 18:13 UTC
+> ⏰ Last updated: 2026-08-20 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [furqunali/hitl-guardrail](https://github.com/furqunali/hitl-guardrail) | 0 | Python | 2026-08-20 | A human-in-the-loop policy guardrail for LLM / AI-agent actions — approve, escalate, or reject with an auditable reason  |
-| 2 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-20 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-20 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
-| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29795 | TypeScript | 2026-08-20 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56847 | Python | 2026-08-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-20 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-20 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 8 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 399 | Python | 2026-08-20 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 9 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-20 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-20 | fak — the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-20 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 4 | [furqunali/hitl-guardrail](https://github.com/furqunali/hitl-guardrail) | 0 | Python | 2026-08-20 | A human-in-the-loop policy guardrail for LLM / AI-agent actions — approve, escalate, or reject with an auditable reason  |
+| 5 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-20 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
+| 6 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-20 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29795 | TypeScript | 2026-08-20 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56847 | Python | 2026-08-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-20 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 10 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 399 | Python | 2026-08-20 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
 | 11 | [AshwinUgale/muteval](https://github.com/AshwinUgale/muteval) | 4 | Python | 2026-08-20 | Mutation testing for your LLM evals — degrade the system under test and check whether your evals would actually catch a  |
 | 12 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8332 | Rust | 2026-08-20 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 13 | [fredritchie/local-ai-assistant-ollama](https://github.com/fredritchie/local-ai-assistant-ollama) | 0 | HCL | 2026-08-20 | Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD,  |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-08-20 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 23 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27594 | Python | 2026-08-20 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 24 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-20 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 25 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1759 | Python | 2026-08-20 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 25 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1760 | Python | 2026-08-20 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
 | 26 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-08-20 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
 | 27 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-08-20 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
 | 28 | [rbalachandar/rbalachandar](https://github.com/rbalachandar/rbalachandar) | 0 | — | 2026-08-20 | AI & Data Engineering |
