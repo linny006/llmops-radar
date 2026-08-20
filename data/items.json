@@ -1,39 +1,21 @@
 [
   {
-    "description": "RAG + LangGraph course assistant over a simulated university backend \u2014 FastAPI, ChromaDB, evaluation, safety, LLMOps das",
-    "id": "Fakercoke/ustudent-ai",
-    "language": "Python",
-    "name": "Fakercoke/ustudent-ai",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:59:03Z",
-    "url": "https://github.com/Fakercoke/ustudent-ai"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3498,
+    "updated_at": "2026-08-20T06:14:43Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
+    "id": "Zonastery/bursar",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7442,
-    "updated_at": "2026-08-20T05:56:42Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T05:55:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T05:55:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "Zonastery/bursar",
+    "stars": 2,
+    "updated_at": "2026-08-20T06:13:28Z",
+    "url": "https://github.com/Zonastery/bursar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,8 +23,71 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56795,
-    "updated_at": "2026-08-20T05:52:38Z",
+    "updated_at": "2026-08-20T06:13:10Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T06:05:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7443,
+    "updated_at": "2026-08-20T06:05:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "PowerShell",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-20T06:04:13Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24393,
+    "updated_at": "2026-08-20T06:02:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "RAG + LangGraph course assistant over a simulated university backend \u2014 FastAPI, ChromaDB, evaluation, safety, LLMOps das",
+    "id": "Fakercoke/ustudent-ai",
+    "language": "Python",
+    "name": "Fakercoke/ustudent-ai",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:02:13Z",
+    "url": "https://github.com/Fakercoke/ustudent-ai"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:09:17Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T05:52:03Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "PowerShell",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-20T06:00:02Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -76,7 +112,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2459,
+    "stars": 2460,
     "updated_at": "2026-08-20T05:47:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1734,
-    "updated_at": "2026-08-20T05:55:25Z",
+    "updated_at": "2026-08-20T06:06:11Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T05:32:41Z",
+    "updated_at": "2026-08-20T06:09:40Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-08-20T05:40:11Z",
+    "updated_at": "2026-08-20T06:14:58Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11897,
-    "updated_at": "2026-08-20T05:47:16Z",
+    "updated_at": "2026-08-20T06:13:19Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -230,7 +266,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T04:46:54Z",
+    "updated_at": "2026-08-20T06:11:47Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 76,
     "updated_at": "2026-08-20T04:42:08Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3498,
-    "updated_at": "2026-08-20T05:59:00Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-20T05:50:43Z",
+    "updated_at": "2026-08-20T06:05:49Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:36:37Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-20T03:36:33Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:36:19Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
-    "id": "KazKozDev/prompt-playoff",
-    "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
-    "stars": 1,
-    "updated_at": "2026-08-20T03:36:08Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
   }
 ]
