@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 19:44 UTC
+> ⏰ Last updated: 2026-08-20 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [OthmanAdi/margin](https://github.com/OthmanAdi/margin) | 0 | Rust | 2026-08-20 | Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-20 | Your rules your Harness |
-| 3 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-20 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56850 | Python | 2026-08-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 6 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-20 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
-| 7 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3503 | TypeScript | 2026-08-20 | The platform for LLM evaluations and AI agent testing |
-| 8 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-20 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 9 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-20 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [OthmanAdi/margin](https://github.com/OthmanAdi/margin) | 0 | Rust | 2026-08-20 | Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-20 | Your rules your Harness |
+| 4 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-20 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56850 | Python | 2026-08-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-20 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [Yesol-Pilot/neosignal-check](https://github.com/Yesol-Pilot/neosignal-check) | 0 | Python | 2026-08-20 | Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date  |
+| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3503 | TypeScript | 2026-08-20 | The platform for LLM evaluations and AI agent testing |
+| 9 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-20 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 10 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-20 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
 | 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11130 | Python | 2026-08-20 | AI Observability & Evaluation |
 | 13 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 291 | Python | 2026-08-20 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
