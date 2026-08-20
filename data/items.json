@@ -1,12 +1,66 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T06:38:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-20T06:38:07Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7445,
+    "updated_at": "2026-08-20T06:38:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T06:36:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-20T06:27:36Z",
+    "updated_at": "2026-08-20T06:32:31Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56797,
+    "updated_at": "2026-08-20T06:31:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T06:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated list of tools, benchmarks, papers, and copy-paste configs for AI token costs: what tokens cost, where they get",
@@ -18,24 +72,6 @@
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T06:26:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56796,
-    "updated_at": "2026-08-20T06:26:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
     "id": "beastofbayarea/mistral-studio-marketing",
     "language": "PowerShell",
@@ -43,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-20T06:23:13Z",
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1735,
+    "updated_at": "2026-08-20T06:22:55Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A TypeScript HR backend for Human Capital Management (HCM), demonstrating LLM orchestration, LangGraph workflows, RAG, M",
@@ -72,15 +117,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T06:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T06:28:21Z",
+    "updated_at": "2026-08-20T06:38:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T06:15:35Z",
     "url": "https://github.com/Zonastery/bursar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7443,
-    "updated_at": "2026-08-20T06:27:41Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "spirex-ds-dev/ai-cockpit-template",
     "stars": 0,
-    "updated_at": "2026-08-20T06:09:17Z",
+    "updated_at": "2026-08-20T06:34:57Z",
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
@@ -166,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2460,
+    "stars": 2461,
     "updated_at": "2026-08-20T05:47:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -205,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:41:06Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1734,
-    "updated_at": "2026-08-20T06:22:55Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T05:35:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -311,7 +320,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T06:11:47Z",
+    "updated_at": "2026-08-20T06:35:55Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:43:33Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-08-20T03:41:57Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
