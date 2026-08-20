@@ -1,5 +1,104 @@
 [
   {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:11:40Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56818,
+    "updated_at": "2026-08-20T09:11:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-20T09:13:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "PowerShell",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:09:20Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33444,
+    "updated_at": "2026-08-20T09:09:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T09:05:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 397,
+    "updated_at": "2026-08-20T09:14:33Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2674,
+    "updated_at": "2026-08-20T09:05:54Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T09:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:00:19Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 109,
+    "updated_at": "2026-08-20T09:00:11Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
     "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
     "language": "Python",
@@ -9,49 +108,13 @@
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-20T08:57:47Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T08:55:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7447,
-    "updated_at": "2026-08-20T08:55:11Z",
+    "updated_at": "2026-08-20T09:02:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "PowerShell",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:54:36Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:00:18Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -68,17 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21495,
-    "updated_at": "2026-08-20T08:58:39Z",
+    "updated_at": "2026-08-20T09:13:33Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56817,
-    "updated_at": "2026-08-20T08:47:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -108,15 +162,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2673,
-    "updated_at": "2026-08-20T08:39:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 11127,
     "updated_at": "2026-08-20T08:39:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 397,
-    "updated_at": "2026-08-20T08:57:39Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -144,15 +180,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 109,
-    "updated_at": "2026-08-20T09:00:11Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -162,31 +189,22 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33443,
-    "updated_at": "2026-08-20T08:56:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T08:58:58Z",
+    "updated_at": "2026-08-20T09:15:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T08:19:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 176,
+    "updated_at": "2026-08-20T08:17:29Z",
+    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11898,
-    "updated_at": "2026-08-20T08:55:22Z",
+    "updated_at": "2026-08-20T09:14:37Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -409,7 +427,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24397,
+    "stars": 24398,
     "updated_at": "2026-08-20T06:02:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -427,26 +445,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2473,
+    "stars": 2474,
     "updated_at": "2026-08-20T05:47:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI agent for insurance claims intake \u2014 .NET 10, Microsoft Agent Framework, Azure. Extracts data from claim files, verifi",
-    "id": "BobMatusic/claims-intake-agent",
-    "language": "C#",
-    "name": "BobMatusic/claims-intake-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:42:51Z",
-    "url": "https://github.com/BobMatusic/claims-intake-agent"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-20T05:39:48Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   }
 ]
