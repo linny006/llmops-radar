@@ -1,12 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24410,
-    "updated_at": "2026-08-20T21:59:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T22:14:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11130,
+    "updated_at": "2026-08-20T22:15:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,17 +23,71 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56856,
-    "updated_at": "2026-08-20T21:58:16Z",
+    "updated_at": "2026-08-20T22:14:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T21:53:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-20T22:09:02Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T22:08:45Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-20T22:07:06Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-20T22:04:19Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-20T22:04:16Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-20T22:08:19Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "An awesome list of AI/ML tools \u2014 but leveled by concept depth (Level 0\u21924) and searchable. Every tool comes with an artic",
+    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "language": "HTML",
+    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:00:45Z",
+    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +95,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T21:52:15Z",
+    "updated_at": "2026-08-20T22:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24410,
+    "updated_at": "2026-08-20T22:03:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -63,15 +135,6 @@
     "url": "https://github.com/babaliauskas/evalshift-sdk"
   },
   {
-    "description": "An awesome list of AI/ML tools \u2014 but leveled by concept depth (Level 0\u21924) and searchable. Every tool comes with an artic",
-    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "language": "HTML",
-    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:58:00Z",
-    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
     "id": "simplepractice/langfuse-rb",
     "language": "Ruby",
@@ -90,40 +153,13 @@
     "url": "https://github.com/beyhangl/evalcraft"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-20T22:00:15Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 78,
-    "updated_at": "2026-08-20T21:47:28Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33476,
-    "updated_at": "2026-08-20T21:58:55Z",
+    "updated_at": "2026-08-20T22:03:34Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-08-20T21:58:54Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7464,
-    "updated_at": "2026-08-20T21:28:49Z",
+    "updated_at": "2026-08-20T22:13:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T21:37:16Z",
+    "updated_at": "2026-08-20T22:07:03Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-20T21:43:22Z",
+    "updated_at": "2026-08-20T22:14:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -342,21 +378,12 @@
     "url": "https://github.com/api-evangelist/log10"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T22:00:18Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 118,
-    "updated_at": "2026-08-20T21:20:24Z",
+    "updated_at": "2026-08-20T22:03:53Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T19:58:54Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11129,
-    "updated_at": "2026-08-20T21:53:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:22:01Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-20T21:28:07Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   }
 ]
