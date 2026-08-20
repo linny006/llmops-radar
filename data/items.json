@@ -1,12 +1,84 @@
 [
   {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:52:41Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-20T08:51:58Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21495,
+    "updated_at": "2026-08-20T08:51:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56814,
-    "updated_at": "2026-08-20T08:39:49Z",
+    "stars": 56816,
+    "updated_at": "2026-08-20T08:47:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T08:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-20T08:45:17Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:44:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:44:41Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11127,
+    "updated_at": "2026-08-20T08:39:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 397,
-    "updated_at": "2026-08-20T08:39:12Z",
+    "updated_at": "2026-08-20T08:53:11Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5697,
-    "updated_at": "2026-08-20T08:35:43Z",
+    "updated_at": "2026-08-20T08:52:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-20T08:38:34Z",
+    "updated_at": "2026-08-20T08:47:38Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -50,26 +122,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33443,
-    "updated_at": "2026-08-20T08:34:37Z",
+    "updated_at": "2026-08-20T08:50:43Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:33:57Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:44:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -77,17 +131,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T08:39:31Z",
+    "updated_at": "2026-08-20T08:54:54Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T08:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
@@ -104,26 +149,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7447,
-    "updated_at": "2026-08-20T08:41:29Z",
+    "updated_at": "2026-08-20T08:55:11Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11126,
-    "updated_at": "2026-08-20T08:39:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21495,
-    "updated_at": "2026-08-20T08:40:54Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -153,15 +180,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:44:41Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11898,
-    "updated_at": "2026-08-20T08:45:14Z",
+    "updated_at": "2026-08-20T08:55:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T07:35:24Z",
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-20T08:45:17Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -347,7 +356,7 @@
     "language": "PowerShell",
     "name": "beastofbayarea/mistral-studio-marketing",
     "stars": 1,
-    "updated_at": "2026-08-20T06:23:13Z",
+    "updated_at": "2026-08-20T08:54:36Z",
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
   },
   {
@@ -409,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2472,
+    "stars": 2473,
     "updated_at": "2026-08-20T05:47:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:41:06Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Embedded-first, storage-portable, immutable-versioned config primitive with an eval-gate coupled to promote, over an arb",
-    "id": "baabakk/versioned-store",
-    "language": "TypeScript",
-    "name": "baabakk/versioned-store",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:28:51Z",
-    "url": "https://github.com/baabakk/versioned-store"
   }
 ]
