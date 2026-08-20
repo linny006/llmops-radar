@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T23:58:08Z",
+    "updated_at": "2026-08-20T00:13:08Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-20T00:10:32Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56768,
-    "updated_at": "2026-08-19T23:55:37Z",
+    "updated_at": "2026-08-20T00:06:09Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T00:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:51:38Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-19T23:49:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -52,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T23:35:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 78,
-    "updated_at": "2026-08-19T23:56:04Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
@@ -135,6 +135,15 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7435,
+    "updated_at": "2026-08-19T22:53:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27586,
-    "updated_at": "2026-08-19T23:56:21Z",
+    "updated_at": "2026-08-20T00:15:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -158,7 +167,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-19T22:48:18Z",
+    "updated_at": "2026-08-20T00:11:14Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -207,15 +216,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7434,
-    "updated_at": "2026-08-19T22:53:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -238,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33404,
+    "stars": 33405,
     "updated_at": "2026-08-19T21:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21490,
-    "updated_at": "2026-08-19T21:14:27Z",
+    "updated_at": "2026-08-20T00:12:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -436,7 +436,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2438,
+    "stars": 2439,
     "updated_at": "2026-08-19T19:41:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
