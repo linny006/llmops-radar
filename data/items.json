@@ -1,21 +1,39 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T16:30:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:40:24Z",
+    "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33466,
-    "updated_at": "2026-08-20T16:29:41Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:39:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56844,
+    "updated_at": "2026-08-20T16:39:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2506,
+    "updated_at": "2026-08-20T16:39:16Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,8 +41,71 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3502,
-    "updated_at": "2026-08-20T16:30:15Z",
+    "updated_at": "2026-08-20T16:41:01Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:42:51Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33468,
+    "updated_at": "2026-08-20T16:44:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11128,
+    "updated_at": "2026-08-20T16:39:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:32:16Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:32:02Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T16:37:12Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -54,15 +135,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56842,
-    "updated_at": "2026-08-20T16:29:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-20T16:20:24Z",
+    "updated_at": "2026-08-20T16:44:06Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -113,17 +185,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T16:02:01Z",
+    "updated_at": "2026-08-20T16:39:11Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2505,
-    "updated_at": "2026-08-20T15:57:54Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -135,21 +198,12 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:22:19Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27594,
-    "updated_at": "2026-08-20T15:53:49Z",
+    "updated_at": "2026-08-20T16:43:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7461,
-    "updated_at": "2026-08-20T15:48:25Z",
+    "updated_at": "2026-08-20T16:42:27Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-20T15:41:28Z",
+    "updated_at": "2026-08-20T16:43:51Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/ozkangrk/llm-serve-verdict"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:29:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
     "id": "suryaanandan1995-dotcom/ai-freelance-copilot",
     "language": "Python",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:36:17Z",
     "url": "https://github.com/suryaanandan1995-dotcom/ai-freelance-copilot"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:31:09Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T16:22:38Z",
+    "updated_at": "2026-08-20T16:35:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-20T16:09:27Z",
+    "updated_at": "2026-08-20T16:44:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -319,7 +355,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29794,
+    "stars": 29795,
     "updated_at": "2026-08-20T14:57:19Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -342,15 +378,6 @@
     "url": "https://github.com/rohan3008/erabot"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3516,
-    "updated_at": "2026-08-20T16:24:33Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Self-hosted control plane for the LiteLLM proxy \u2014 issue developers virtual LLM API keys with model access, budgets, and ",
     "id": "harshsinghhsr/gatehouse",
     "language": "TypeScript",
@@ -369,15 +396,6 @@
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11128,
-    "updated_at": "2026-08-20T16:20:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
     "id": "AshwinUgale/muteval",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Go",
     "name": "orkcom-tech/cogitorium",
     "stars": 2,
-    "updated_at": "2026-08-20T14:35:33Z",
+    "updated_at": "2026-08-20T16:45:08Z",
     "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-20T14:22:41Z",
     "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 3,
-    "updated_at": "2026-08-20T14:16:19Z",
-    "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:13:56Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
   }
 ]
