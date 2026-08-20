@@ -1,5 +1,59 @@
 [
   {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-20T05:12:35Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1734,
+    "updated_at": "2026-08-20T05:14:40Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56792,
+    "updated_at": "2026-08-20T05:14:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-20T05:07:17Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-20T05:07:52Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T05:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -9,30 +63,12 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-20T04:59:49Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:55:28Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Multi-agent AI analytics office on Hermes and Slack with Supabase data operations, Obsidian/OhMyWiki evidence pipelines,",
     "id": "Lee2379/multi-agent-ai-analytics-office",
     "language": "Python",
     "name": "Lee2379/multi-agent-ai-analytics-office",
     "stars": 0,
-    "updated_at": "2026-08-20T04:54:46Z",
+    "updated_at": "2026-08-20T05:14:17Z",
     "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-20T04:53:00Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T04:51:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -117,15 +144,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1733,
-    "updated_at": "2026-08-20T04:52:16Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
     "id": "beastofbayarea/mistral-studio-marketing",
     "language": "PowerShell",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T04:47:32Z",
+    "updated_at": "2026-08-20T05:03:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-08-20T04:24:40Z",
+    "updated_at": "2026-08-20T05:14:02Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T04:06:43Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56791,
-    "updated_at": "2026-08-20T04:55:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8326,
-    "updated_at": "2026-08-20T04:07:34Z",
+    "updated_at": "2026-08-20T05:09:44Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-20T04:48:37Z",
+    "updated_at": "2026-08-20T05:00:35Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T03:23:16Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:23:01Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
   }
 ]
