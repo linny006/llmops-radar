@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T14:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:13:56Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
+    "id": "runcycles/cycles-claude-plugin",
+    "language": "JavaScript",
+    "name": "runcycles/cycles-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:13:41Z",
+    "url": "https://github.com/runcycles/cycles-claude-plugin"
+  },
+  {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
     "id": "ur-grue/toptop",
     "language": "Rust",
     "name": "ur-grue/toptop",
     "stars": 1,
-    "updated_at": "2026-08-20T14:13:15Z",
+    "updated_at": "2026-08-20T14:18:05Z",
     "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T14:11:22Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-08-20T14:10:57Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -36,6 +81,15 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 2,
+    "updated_at": "2026-08-20T14:04:30Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -54,15 +108,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T14:11:22Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Two Claude Code plugins that take a business idea to production and refuse to let a model's guess masquerade as a fact. ",
     "id": "richardh8/darkest_factory",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T14:00:34Z",
     "url": "https://github.com/richardh8/darkest_factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T14:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T14:04:58Z",
+    "updated_at": "2026-08-20T14:17:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T13:43:37Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 2,
-    "updated_at": "2026-08-20T14:04:30Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
   },
   {
     "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
@@ -293,8 +320,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29791,
-    "updated_at": "2026-08-20T14:10:01Z",
+    "updated_at": "2026-08-20T14:18:45Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24404,
+    "updated_at": "2026-08-20T13:02:34Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-20T14:13:06Z",
+    "updated_at": "2026-08-20T14:17:53Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T11:41:25Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11900,
-    "updated_at": "2026-08-20T14:03:12Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
-    "id": "spirex-ds-dev/ai-cockpit-template",
-    "language": "Python",
-    "name": "spirex-ds-dev/ai-cockpit-template",
-    "stars": 0,
-    "updated_at": "2026-08-20T11:27:36Z",
-    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
-  },
-  {
-    "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 33,
-    "updated_at": "2026-08-20T11:10:35Z",
-    "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24403,
-    "updated_at": "2026-08-20T13:02:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
