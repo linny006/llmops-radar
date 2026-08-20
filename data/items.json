@@ -1,11 +1,20 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-20T02:29:50Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2666,
-    "updated_at": "2026-08-20T02:14:03Z",
+    "updated_at": "2026-08-20T02:28:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -13,8 +22,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56775,
-    "updated_at": "2026-08-20T02:15:02Z",
+    "stars": 56780,
+    "updated_at": "2026-08-20T02:28:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +32,26 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T02:14:55Z",
+    "updated_at": "2026-08-20T02:23:34Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:16:54Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T02:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11118,
-    "updated_at": "2026-08-20T02:06:05Z",
+    "updated_at": "2026-08-20T02:28:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 8323,
     "updated_at": "2026-08-20T02:02:16Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T02:07:38Z",
+    "updated_at": "2026-08-20T02:26:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,15 +153,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:12:17Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "Identity, per-model authorization and per-consumer rate limiting in front of NVIDIA NIM, in an air-gapped Kubernetes clu",
     "id": "maher-elattar/airgapped-ai-gateway-k8s",
     "language": "Python",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-20T02:14:52Z",
+    "updated_at": "2026-08-20T02:22:57Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 27588,
     "updated_at": "2026-08-20T00:54:28Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-20T00:53:53Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 78,
-    "updated_at": "2026-08-20T02:06:43Z",
+    "updated_at": "2026-08-20T02:21:54Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -373,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33408,
+    "stars": 33414,
     "updated_at": "2026-08-19T21:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
