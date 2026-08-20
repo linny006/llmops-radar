@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-08-20T22:51:39Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:47:13Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
+    "id": "threejay20/homelab-ai-stack",
+    "language": "Python",
+    "name": "threejay20/homelab-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:46:22Z",
+    "url": "https://github.com/threejay20/homelab-ai-stack"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:45:26Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T22:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -13,8 +58,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56859,
-    "updated_at": "2026-08-20T22:42:53Z",
+    "stars": 56858,
+    "updated_at": "2026-08-20T22:53:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-20T22:43:36Z",
+    "updated_at": "2026-08-20T22:52:33Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -77,17 +122,8 @@
     "language": "Rust",
     "name": "routeplane-core/routeplane-ce",
     "stars": 7,
-    "updated_at": "2026-08-20T22:31:05Z",
+    "updated_at": "2026-08-20T22:45:21Z",
     "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T22:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T22:29:53Z",
+    "updated_at": "2026-08-20T22:51:04Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11130,
-    "updated_at": "2026-08-20T22:37:42Z",
+    "updated_at": "2026-08-20T22:52:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29797,
-    "updated_at": "2026-08-20T22:39:00Z",
+    "updated_at": "2026-08-20T22:48:08Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 755,
     "updated_at": "2026-08-20T21:52:06Z",
     "url": "https://github.com/Jwuthri/Tracely"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-08-20T21:51:23Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
     "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T20:35:47Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 118,
-    "updated_at": "2026-08-20T22:38:11Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:21:23Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Self-hosted control plane for the LiteLLM proxy \u2014 issue developers virtual LLM API keys with model access, budgets, and ",
-    "id": "harshsinghhsr/gatehouse",
-    "language": "TypeScript",
-    "name": "harshsinghhsr/gatehouse",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:21:10Z",
-    "url": "https://github.com/harshsinghhsr/gatehouse"
   }
 ]
