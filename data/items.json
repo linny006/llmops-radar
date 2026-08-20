@@ -1,5 +1,32 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2670,
+    "updated_at": "2026-08-20T07:29:16Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3498,
+    "updated_at": "2026-08-20T07:29:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T07:27:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56804,
-    "updated_at": "2026-08-20T07:23:59Z",
+    "updated_at": "2026-08-20T07:27:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -90,22 +117,13 @@
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T07:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2670,
-    "updated_at": "2026-08-20T07:14:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8330,
+    "updated_at": "2026-08-20T07:13:11Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -153,15 +171,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3498,
-    "updated_at": "2026-08-20T07:19:24Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7445,
-    "updated_at": "2026-08-20T07:12:01Z",
+    "updated_at": "2026-08-20T07:27:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T06:23:13Z",
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8329,
-    "updated_at": "2026-08-20T07:13:11Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "A TypeScript HR backend for Human Capital Management (HCM), demonstrating LLM orchestration, LangGraph workflows, RAG, M",
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 109,
-    "updated_at": "2026-08-20T07:26:45Z",
+    "updated_at": "2026-08-20T07:28:39Z",
     "url": "https://github.com/api7/aisix"
   },
   {
