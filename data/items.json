@@ -1,12 +1,84 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-20T12:28:39Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "PowerShell",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-20T12:28:22Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33456,
+    "updated_at": "2026-08-20T12:30:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
     "id": "ur-grue/toptop",
     "language": "Rust",
     "name": "ur-grue/toptop",
     "stars": 1,
-    "updated_at": "2026-08-20T12:15:06Z",
+    "updated_at": "2026-08-20T12:24:50Z",
     "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21499,
+    "updated_at": "2026-08-20T12:27:22Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-20T12:20:27Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-08-20T12:19:24Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T12:29:31Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T12:15:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
@@ -32,25 +104,16 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3499,
-    "updated_at": "2026-08-20T12:14:18Z",
+    "updated_at": "2026-08-20T12:24:57Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T12:14:34Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56828,
-    "updated_at": "2026-08-20T12:07:23Z",
+    "stars": 56829,
+    "updated_at": "2026-08-20T12:28:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7451,
-    "updated_at": "2026-08-20T12:06:35Z",
+    "updated_at": "2026-08-20T12:28:05Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33455,
-    "updated_at": "2026-08-20T12:10:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T12:11:43Z",
+    "updated_at": "2026-08-20T12:25:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -85,18 +139,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2674,
+    "stars": 2675,
     "updated_at": "2026-08-20T12:01:45Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T12:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T11:56:13Z",
     "url": "https://github.com/OthmanAdi/margin"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21499,
-    "updated_at": "2026-08-20T12:09:48Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1742,
-    "updated_at": "2026-08-20T12:11:27Z",
+    "updated_at": "2026-08-20T12:30:08Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11900,
-    "updated_at": "2026-08-20T11:56:58Z",
+    "updated_at": "2026-08-20T12:22:00Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T11:31:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-20T12:04:37Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "Juror-AI/juror",
     "stars": 176,
-    "updated_at": "2026-08-20T11:17:19Z",
+    "updated_at": "2026-08-20T12:26:48Z",
     "url": "https://github.com/Juror-AI/juror"
   },
   {
@@ -229,9 +256,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24400,
+    "stars": 24403,
     "updated_at": "2026-08-20T10:55:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 111,
+    "updated_at": "2026-08-20T10:46:57Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T10:20:18Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-20T10:20:04Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
-    "id": "beastofbayarea/mistral-studio-marketing",
-    "language": "PowerShell",
-    "name": "beastofbayarea/mistral-studio-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:18:28Z",
-    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:17:59Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:15:12Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
