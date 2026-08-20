@@ -1,5 +1,95 @@
 [
   {
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T19:13:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:09:21Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn",
+    "id": "OthmanAdi/margin",
+    "language": "Rust",
+    "name": "OthmanAdi/margin",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:09:16Z",
+    "url": "https://github.com/OthmanAdi/margin"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-20T19:09:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:09:02Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56850,
+    "updated_at": "2026-08-20T19:14:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted control plane for the LiteLLM proxy \u2014 issue developers virtual LLM API keys with model access, budgets, and ",
+    "id": "harshsinghhsr/gatehouse",
+    "language": "TypeScript",
+    "name": "harshsinghhsr/gatehouse",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:07:48Z",
+    "url": "https://github.com/harshsinghhsr/gatehouse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7461,
+    "updated_at": "2026-08-20T19:06:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T19:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T18:59:52Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
     "id": "fredritchie/local-ai-assistant-ollama",
     "language": "HCL",
@@ -9,40 +99,13 @@
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:53:59Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2513,
+    "stars": 2515,
     "updated_at": "2026-08-20T18:52:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56849,
-    "updated_at": "2026-08-20T18:59:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T18:58:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes.",
@@ -68,17 +131,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T18:58:58Z",
+    "updated_at": "2026-08-20T19:12:38Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T18:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T19:00:15Z",
+    "updated_at": "2026-08-20T19:14:08Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-20T18:37:37Z",
+    "updated_at": "2026-08-20T19:14:39Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T18:21:12Z",
     "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7461,
-    "updated_at": "2026-08-20T18:59:29Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A human-in-the-loop policy guardrail for LLM / AI-agent actions \u2014 approve, escalate, or reject with an auditable reason ",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11129,
-    "updated_at": "2026-08-20T18:39:03Z",
+    "updated_at": "2026-08-20T19:14:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T17:27:40Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:25:24Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-20T17:22:21Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1312,
-    "updated_at": "2026-08-20T18:29:28Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:20:13Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-08-20T17:19:57Z",
-    "url": "https://github.com/Kokotpica/surogate"
   }
 ]
