@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7461,
+    "updated_at": "2026-08-20T17:00:07Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:51:59Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-20T17:00:13Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T16:49:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:48:08Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56845,
+    "updated_at": "2026-08-20T16:54:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
+    "id": "orkcom-tech/cogitorium",
+    "language": "Go",
+    "name": "orkcom-tech/cogitorium",
+    "stars": 2,
+    "updated_at": "2026-08-20T17:00:25Z",
+    "url": "https://github.com/orkcom-tech/cogitorium"
+  },
+  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56844,
-    "updated_at": "2026-08-20T16:39:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3502,
-    "updated_at": "2026-08-20T16:41:01Z",
+    "updated_at": "2026-08-20T16:59:43Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-20T16:42:51Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33468,
-    "updated_at": "2026-08-20T16:44:31Z",
+    "updated_at": "2026-08-20T17:00:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T16:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -126,15 +171,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T16:16:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-20T16:44:06Z",
+    "updated_at": "2026-08-20T16:59:07Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -221,17 +257,8 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-20T16:20:17Z",
+    "updated_at": "2026-08-20T16:59:28Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7461,
-    "updated_at": "2026-08-20T16:42:27Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris",
@@ -261,21 +288,12 @@
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:43:51Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes.",
     "id": "ozkangrk/llm-serve-verdict",
     "language": "Python",
     "name": "ozkangrk/llm-serve-verdict",
     "stars": 0,
-    "updated_at": "2026-08-20T15:38:28Z",
+    "updated_at": "2026-08-20T16:58:46Z",
     "url": "https://github.com/ozkangrk/llm-serve-verdict"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T16:35:26Z",
+    "updated_at": "2026-08-20T16:55:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/AshwinUgale/muteval"
   },
   {
-    "description": "A workbench for agentic development: model catalog, workspaces of dedicated agents behind one orchestrator chat, bluepri",
-    "id": "orkcom-tech/cogitorium",
-    "language": "Go",
-    "name": "orkcom-tech/cogitorium",
-    "stars": 2,
-    "updated_at": "2026-08-20T16:45:08Z",
-    "url": "https://github.com/orkcom-tech/cogitorium"
-  },
-  {
     "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T14:27:00Z",
     "url": "https://github.com/antoniodelia-hash/blast-radius"
-  },
-  {
-    "description": "Validated companion examples for AI agent gateways, observability, and evaluation pipelines.",
-    "id": "MPIsaac-Per/agentinfra-examples",
-    "language": "Python",
-    "name": "MPIsaac-Per/agentinfra-examples",
-    "stars": 2,
-    "updated_at": "2026-08-20T14:22:41Z",
-    "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
   }
 ]
