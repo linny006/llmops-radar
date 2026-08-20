@@ -1,11 +1,83 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56860,
+    "updated_at": "2026-08-20T23:43:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:41:57Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 7,
+    "updated_at": "2026-08-20T23:40:32Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-20T23:40:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:36:18Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
+    "id": "threejay20/homelab-ai-stack",
+    "language": "Python",
+    "name": "threejay20/homelab-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:34:13Z",
+    "url": "https://github.com/threejay20/homelab-ai-stack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T23:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:29:52Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24412,
-    "updated_at": "2026-08-20T23:29:11Z",
+    "updated_at": "2026-08-20T23:31:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,26 +95,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T23:27:21Z",
+    "updated_at": "2026-08-20T23:31:09Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-20T23:28:57Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 7,
-    "updated_at": "2026-08-20T23:29:08Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
     "description": "Your rules your Harness",
@@ -70,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T23:23:08Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T23:29:52Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T23:21:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56858,
-    "updated_at": "2026-08-20T23:25:38Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
@@ -144,15 +171,6 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T23:23:16Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
     "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
     "id": "api-evangelist/braintrust-data",
     "language": "\u2014",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:47:13Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:46:22Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "ozkangrk/llm-serve-verdict",
     "stars": 0,
-    "updated_at": "2026-08-20T22:34:44Z",
+    "updated_at": "2026-08-20T23:40:26Z",
     "url": "https://github.com/ozkangrk/llm-serve-verdict"
   },
   {
@@ -274,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33478,
+    "stars": 33479,
     "updated_at": "2026-08-20T22:03:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-20T20:56:32Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5555,
-    "updated_at": "2026-08-20T20:55:26Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
