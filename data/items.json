@@ -1,12 +1,120 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56840,
+    "updated_at": "2026-08-20T16:09:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T16:15:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33465,
-    "updated_at": "2026-08-20T16:00:13Z",
+    "updated_at": "2026-08-20T16:15:15Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-20T16:04:08Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T16:12:44Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:11:45Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-20T16:14:07Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open, reproducible benchmark for LLM routing efficiency \u2014 verify routing-savings claims yourself. Ideal routing hit 99.7",
+    "id": "Fortitude-Group/OmnisBench",
+    "language": "Python",
+    "name": "Fortitude-Group/OmnisBench",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:01:53Z",
+    "url": "https://github.com/Fortitude-Group/OmnisBench"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3502,
+    "updated_at": "2026-08-20T16:14:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 399,
+    "updated_at": "2026-08-20T16:02:01Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2503,
+    "updated_at": "2026-08-20T15:57:54Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 112,
+    "updated_at": "2026-08-20T15:56:11Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -18,15 +126,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T16:00:20Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -36,21 +135,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3502,
-    "updated_at": "2026-08-20T15:59:13Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1311,
-    "updated_at": "2026-08-20T15:53:25Z",
+    "updated_at": "2026-08-20T16:01:15Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T15:47:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris",
     "id": "Scottcjn/ram-coffers",
     "language": "Python",
@@ -95,17 +176,8 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-08-20T15:44:53Z",
+    "updated_at": "2026-08-20T16:07:16Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56838,
-    "updated_at": "2026-08-20T15:44:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:41:28Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T15:38:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -203,26 +266,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T15:56:35Z",
+    "updated_at": "2026-08-20T16:09:42Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 399,
-    "updated_at": "2026-08-20T15:58:15Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:56:16Z",
-    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -230,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-20T14:59:26Z",
+    "updated_at": "2026-08-20T16:09:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/po4yka/llm-wiki-skills"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 78,
-    "updated_at": "2026-08-20T15:55:56Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Find the cost risks in your AI agent's code \u2014 runaway loops, missing caps, and LLM call-site costs. Local, no signup, MI",
     "id": "rohan3008/erabot",
     "language": "Python",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3516,
-    "updated_at": "2026-08-20T15:50:18Z",
+    "updated_at": "2026-08-20T16:03:03Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11128,
-    "updated_at": "2026-08-20T15:44:39Z",
+    "updated_at": "2026-08-20T16:11:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T14:02:52Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1750,
-    "updated_at": "2026-08-20T14:01:30Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 173,
-    "updated_at": "2026-08-20T14:00:49Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 12,
-    "updated_at": "2026-08-20T14:03:44Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Open, reproducible benchmark for LLM routing efficiency \u2014 verify routing-savings claims yourself. Ideal routing hit 99.7",
-    "id": "Fortitude-Group/OmnisBench",
-    "language": "Python",
-    "name": "Fortitude-Group/OmnisBench",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:59:32Z",
-    "url": "https://github.com/Fortitude-Group/OmnisBench"
   }
 ]
