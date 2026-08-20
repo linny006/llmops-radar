@@ -1,12 +1,102 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:14:15Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7459,
+    "updated_at": "2026-08-20T15:13:36Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
+    "id": "ur-grue/toptop",
+    "language": "Rust",
+    "name": "ur-grue/toptop",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:12:21Z",
+    "url": "https://github.com/ur-grue/toptop"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21500,
+    "updated_at": "2026-08-20T15:07:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 399,
+    "updated_at": "2026-08-20T15:10:17Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T15:00:29Z",
+    "updated_at": "2026-08-20T15:03:41Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-20T15:02:07Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:00:47Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33465,
+    "updated_at": "2026-08-20T15:13:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-20T14:59:26Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-20T14:57:53Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3501,
-    "updated_at": "2026-08-20T14:57:40Z",
+    "updated_at": "2026-08-20T15:15:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T14:50:38Z",
+    "updated_at": "2026-08-20T15:13:18Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3516,
-    "updated_at": "2026-08-20T14:47:49Z",
+    "updated_at": "2026-08-20T15:14:15Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -81,24 +171,6 @@
     "url": "https://github.com/harshsinghhsr/gatehouse"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7458,
-    "updated_at": "2026-08-20T15:01:48Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:00:47Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
     "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
     "id": "fredritchie/local-ai-assistant-ollama",
     "language": "HCL",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T14:41:57Z",
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
-  },
-  {
-    "description": " The local-inference observability layer for your terminal: live tokens/sec, VRAM-spill & throttle warnings, the GPU met",
-    "id": "ur-grue/toptop",
-    "language": "Rust",
-    "name": "ur-grue/toptop",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:03:35Z",
-    "url": "https://github.com/ur-grue/toptop"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -162,15 +225,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33465,
-    "updated_at": "2026-08-20T14:59:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T14:33:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-20T15:02:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T14:27:00Z",
     "url": "https://github.com/antoniodelia-hash/blast-radius"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21500,
-    "updated_at": "2026-08-20T15:00:19Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "idevelopAI/llm-eval-control-plane",
     "stars": 1,
-    "updated_at": "2026-08-20T14:07:13Z",
+    "updated_at": "2026-08-20T15:14:41Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
@@ -313,6 +349,15 @@
     "stars": 1748,
     "updated_at": "2026-08-20T14:01:30Z",
     "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 173,
+    "updated_at": "2026-08-20T14:00:49Z",
+    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "Two Claude Code plugins that take a business idea to production and refuse to let a model's guess masquerade as a fact. ",
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:59:32Z",
     "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 399,
-    "updated_at": "2026-08-20T14:20:36Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -387,15 +423,6 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 176,
-    "updated_at": "2026-08-20T14:00:49Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
     "description": "Explainable AI reliability and security operations with Next.js, FastAPI, and PostgreSQL.",
     "id": "Johnkothapalli/trusttrace-ai",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T13:25:47Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-20T13:18:09Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn",
-    "id": "OthmanAdi/margin",
-    "language": "Rust",
-    "name": "OthmanAdi/margin",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:14:03Z",
-    "url": "https://github.com/OthmanAdi/margin"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1065,
-    "updated_at": "2026-08-20T13:06:34Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   }
 ]
