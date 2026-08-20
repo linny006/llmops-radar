@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:24:56Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn",
+    "id": "OthmanAdi/margin",
+    "language": "Rust",
+    "name": "OthmanAdi/margin",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:29:19Z",
+    "url": "https://github.com/OthmanAdi/margin"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11130,
+    "updated_at": "2026-08-20T19:24:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 291,
+    "updated_at": "2026-08-20T19:23:24Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 78,
+    "updated_at": "2026-08-20T19:20:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "Your rules your Harness",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-20T19:13:29Z",
+    "updated_at": "2026-08-20T19:17:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T19:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T19:23:10Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-20T19:23:47Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T19:09:21Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Rate your AI coding agent while it runs. One keystroke, no interruption: feedback reaches Claude Code and Codex mid-turn",
-    "id": "OthmanAdi/margin",
-    "language": "Rust",
-    "name": "OthmanAdi/margin",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:09:16Z",
-    "url": "https://github.com/OthmanAdi/margin"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56850,
-    "updated_at": "2026-08-20T19:14:14Z",
+    "updated_at": "2026-08-20T19:27:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,26 +131,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7461,
-    "updated_at": "2026-08-20T19:06:01Z",
+    "updated_at": "2026-08-20T19:16:10Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3516,
-    "updated_at": "2026-08-20T18:59:52Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
@@ -103,7 +148,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2515,
+    "stars": 2516,
     "updated_at": "2026-08-20T18:52:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -122,7 +167,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-20T18:47:03Z",
+    "updated_at": "2026-08-20T19:27:14Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 399,
-    "updated_at": "2026-08-20T19:12:38Z",
+    "updated_at": "2026-08-20T19:22:51Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1762,
-    "updated_at": "2026-08-20T18:41:17Z",
+    "updated_at": "2026-08-20T19:17:32Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T19:14:08Z",
+    "updated_at": "2026-08-20T19:29:33Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -158,7 +203,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-20T18:35:40Z",
+    "updated_at": "2026-08-20T19:28:56Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -189,24 +234,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-20T19:14:39Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:21:12Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
     "description": "A human-in-the-loop policy guardrail for LLM / AI-agent actions \u2014 approve, escalate, or reject with an auditable reason ",
     "id": "furqunali/hitl-guardrail",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-20T18:10:12Z",
+    "updated_at": "2026-08-20T19:22:39Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24410,
-    "updated_at": "2026-08-20T18:08:46Z",
+    "updated_at": "2026-08-20T19:17:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-20T18:55:22Z",
+    "updated_at": "2026-08-20T19:25:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T18:31:11Z",
+    "updated_at": "2026-08-20T19:23:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T17:45:17Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11129,
-    "updated_at": "2026-08-20T19:14:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T17:30:23Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:28:47Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:27:40Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
