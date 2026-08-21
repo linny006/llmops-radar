@@ -1,30 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56912,
-    "updated_at": "2026-08-21T11:19:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T11:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-21T11:12:47Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T11:29:54Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -32,17 +14,80 @@
     "language": "Jupyter Notebook",
     "name": "aroraneel/AI-Engineer",
     "stars": 2,
-    "updated_at": "2026-08-21T11:12:46Z",
+    "updated_at": "2026-08-21T11:29:17Z",
     "url": "https://github.com/aroraneel/AI-Engineer"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7474,
+    "updated_at": "2026-08-21T11:25:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:23:12Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:23:05Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T11:12:24Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:21:23Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:21:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T11:21:02Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56913,
+    "updated_at": "2026-08-21T11:19:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33512,
+    "updated_at": "2026-08-21T11:17:51Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 135,
-    "updated_at": "2026-08-21T11:17:39Z",
+    "updated_at": "2026-08-21T11:25:21Z",
     "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "\u2014",
-    "name": "NekomyaDev/nudge",
-    "stars": 1,
-    "updated_at": "2026-08-21T11:08:00Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33511,
-    "updated_at": "2026-08-21T11:17:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
     "id": "Fortitude-Group/OmnisRouter",
     "language": "C#",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T11:05:32Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7474,
-    "updated_at": "2026-08-21T11:11:27Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3503,
-    "updated_at": "2026-08-21T10:56:55Z",
+    "updated_at": "2026-08-21T11:26:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21512,
-    "updated_at": "2026-08-21T10:47:25Z",
+    "updated_at": "2026-08-21T11:27:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -180,15 +198,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:34:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
     "id": "thanhpt1110/claude-for-poor-folks",
     "language": "JavaScript",
@@ -196,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:34:11Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:27:36Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Your rules your Harness",
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 401,
-    "updated_at": "2026-08-21T11:19:32Z",
+    "updated_at": "2026-08-21T11:29:17Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11135,
-    "updated_at": "2026-08-21T09:29:24Z",
+    "updated_at": "2026-08-21T11:27:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -373,7 +373,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2572,
+    "stars": 2577,
     "updated_at": "2026-08-21T09:05:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
