@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 02:30 UTC
+> ⏰ Last updated: 2026-08-21 02:35 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-21 | Your rules your Harness |
-| 2 | [thanhpt1110/claude-for-poor-folks](https://github.com/thanhpt1110/claude-for-poor-folks) | 2 | JavaScript | 2026-08-21 | Live cost, token and quota meter for Claude Code — budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56872 | Python | 2026-08-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56873 | Python | 2026-08-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [api7/aisix](https://github.com/api7/aisix) | 112 | Rust | 2026-08-21 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
 | 4 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-21 | ThakiCloud Tech Blog |
-| 5 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-08-21 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [beastofbayarea/mistral-studio-marketing](https://github.com/beastofbayarea/mistral-studio-marketing) | 1 | Python | 2026-08-21 | Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise |
-| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2675 | C++ | 2026-08-21 | Community maintained hardware plugin for vLLM on Ascend |
-| 9 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-21 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
-| 10 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-21 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 11 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29799 | TypeScript | 2026-08-21 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 12 | [api7/aisix](https://github.com/api7/aisix) | 112 | Rust | 2026-08-21 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-21 | Your rules your Harness |
+| 6 | [thanhpt1110/claude-for-poor-folks](https://github.com/thanhpt1110/claude-for-poor-folks) | 2 | JavaScript | 2026-08-21 | Live cost, token and quota meter for Claude Code — budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete |
+| 7 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-08-21 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 8 | [beastofbayarea/mistral-studio-marketing](https://github.com/beastofbayarea/mistral-studio-marketing) | 1 | Python | 2026-08-21 | Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise |
+| 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2675 | C++ | 2026-08-21 | Community maintained hardware plugin for vLLM on Ascend |
+| 10 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-21 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 11 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-21 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 12 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29799 | TypeScript | 2026-08-21 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 13 | [ozkangrk/llm-serve-verdict](https://github.com/ozkangrk/llm-serve-verdict) | 0 | Python | 2026-08-21 | Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes. |
 | 14 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-08-21 | Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo |
 | 15 | [Lakan1509/lakan-portfolio](https://github.com/Lakan1509/lakan-portfolio) | 0 | TypeScript | 2026-08-21 | AI/ML & Software Engineering portfolio showcasing LLM systems, Agentic AI, RAG, ML infrastructure, distributed systems,  |

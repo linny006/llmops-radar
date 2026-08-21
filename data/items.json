@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56873,
+    "updated_at": "2026-08-21T02:35:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 112,
+    "updated_at": "2026-08-21T02:31:22Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T02:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-21T02:30:11Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Your rules your Harness",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -18,24 +54,6 @@
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56872,
-    "updated_at": "2026-08-21T02:27:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-21T02:30:11Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T02:23:08Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T02:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
@@ -97,15 +106,6 @@
     "stars": 29799,
     "updated_at": "2026-08-21T02:25:59Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 112,
-    "updated_at": "2026-08-21T02:22:53Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes.",
