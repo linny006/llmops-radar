@@ -1,5 +1,23 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56954,
+    "updated_at": "2026-08-21T21:18:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
     "id": "redevops-io/redevops-rag",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8348,
-    "updated_at": "2026-08-21T21:08:02Z",
+    "updated_at": "2026-08-21T21:18:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -54,15 +72,6 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
     "id": "shyftlabs/continuum",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:52:19Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56951,
-    "updated_at": "2026-08-21T21:10:39Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-21T20:41:25Z",
+    "updated_at": "2026-08-21T21:18:10Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -167,7 +167,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T20:30:19Z",
+    "updated_at": "2026-08-21T21:19:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -238,7 +238,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2655,
+    "stars": 2656,
     "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -250,6 +250,15 @@
     "stars": 4,
     "updated_at": "2026-08-21T20:05:40Z",
     "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24442,
+    "updated_at": "2026-08-21T20:05:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T18:41:54Z",
     "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
-  },
-  {
-    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:40:51Z",
-    "url": "https://github.com/api-evangelist/agenta"
   }
 ]
