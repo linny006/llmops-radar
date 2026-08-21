@@ -1,12 +1,21 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T11:29:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "comet-ml/opik",
+    "stars": 21512,
+    "updated_at": "2026-08-21T11:41:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56913,
+    "updated_at": "2026-08-21T11:41:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -14,17 +23,89 @@
     "language": "Jupyter Notebook",
     "name": "aroraneel/AI-Engineer",
     "stars": 2,
-    "updated_at": "2026-08-21T11:29:17Z",
+    "updated_at": "2026-08-21T11:41:16Z",
     "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 401,
+    "updated_at": "2026-08-21T11:38:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-21T11:39:34Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 135,
+    "updated_at": "2026-08-21T11:35:49Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33511,
+    "updated_at": "2026-08-21T11:41:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
+    "id": "Zonastery/bursar",
+    "language": "Go",
+    "name": "Zonastery/bursar",
+    "stars": 2,
+    "updated_at": "2026-08-21T11:40:21Z",
+    "url": "https://github.com/Zonastery/bursar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7474,
-    "updated_at": "2026-08-21T11:25:31Z",
+    "stars": 7475,
+    "updated_at": "2026-08-21T11:31:16Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:30:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T11:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T11:29:54Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -52,51 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T11:21:23Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T11:21:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T11:21:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56913,
-    "updated_at": "2026-08-21T11:19:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33512,
-    "updated_at": "2026-08-21T11:17:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 135,
-    "updated_at": "2026-08-21T11:25:21Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
     "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
@@ -167,26 +203,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3503,
-    "updated_at": "2026-08-21T11:26:29Z",
+    "updated_at": "2026-08-21T11:38:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T11:18:43Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21512,
-    "updated_at": "2026-08-21T11:27:49Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5699,
+    "updated_at": "2026-08-21T10:43:16Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -247,7 +274,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29802,
+    "stars": 29801,
     "updated_at": "2026-08-21T10:08:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T09:54:41Z",
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 401,
-    "updated_at": "2026-08-21T11:29:17Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -373,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2577,
+    "stars": 2579,
     "updated_at": "2026-08-21T09:05:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T08:31:51Z",
     "url": "https://github.com/caiohome/awesome-enterprise-ai"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 114,
-    "updated_at": "2026-08-21T10:38:37Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-21T10:45:44Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
