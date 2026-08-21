@@ -1,12 +1,12 @@
 [
   {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
     "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-21T08:53:49Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:00:18Z",
+    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33505,
-    "updated_at": "2026-08-21T08:56:03Z",
+    "updated_at": "2026-08-21T08:59:33Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-21T08:58:03Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T08:56:48Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-21T08:53:49Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -45,24 +72,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T08:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-21T08:42:13Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Live cost, token and quota meter for Claude Code \u2014 budget gate, runaway-loop burn-rate alarm, and prompt-cache leak dete",
     "id": "thanhpt1110/claude-for-poor-folks",
     "language": "JavaScript",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-21T08:54:21Z",
+    "updated_at": "2026-08-21T08:59:40Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -409,7 +418,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 749,
+    "stars": 751,
     "updated_at": "2026-08-21T07:06:45Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -439,14 +448,5 @@
     "stars": 156,
     "updated_at": "2026-08-21T07:03:02Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-21T07:02:44Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
