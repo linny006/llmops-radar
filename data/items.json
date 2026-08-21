@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T02:59:39Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
+    "id": "hxaxd/kochab",
+    "language": "Python",
+    "name": "hxaxd/kochab",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:11:56Z",
+    "url": "https://github.com/hxaxd/kochab"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,8 +14,71 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T02:58:10Z",
+    "updated_at": "2026-08-21T03:07:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56877,
+    "updated_at": "2026-08-21T03:12:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-21T03:03:48Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11902,
+    "updated_at": "2026-08-21T03:14:57Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
+    "id": "qiantongtech/qKnow",
+    "language": "Java",
+    "name": "qiantongtech/qKnow",
+    "stars": 267,
+    "updated_at": "2026-08-21T03:00:31Z",
+    "url": "https://github.com/qiantongtech/qKnow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T03:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T03:00:05Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T03:09:05Z",
+    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Your rules your Harness",
@@ -45,15 +108,6 @@
     "url": "https://github.com/shailendraya/LLMOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56876,
-    "updated_at": "2026-08-21T03:00:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A TypeScript HR backend for Human Capital Management (HCM), demonstrating LLM orchestration, LangGraph workflows, RAG, M",
     "id": "ramioooz/hcm-agentic-llmops",
     "language": "TypeScript",
@@ -61,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:56:39Z",
     "url": "https://github.com/ramioooz/hcm-agentic-llmops"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33493,
+    "updated_at": "2026-08-21T02:50:40Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -72,40 +135,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-21T02:57:25Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-21T02:53:53Z",
+    "updated_at": "2026-08-21T03:15:13Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T02:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11901,
-    "updated_at": "2026-08-21T03:00:16Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29799,
-    "updated_at": "2026-08-21T02:53:43Z",
+    "updated_at": "2026-08-21T03:08:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -230,17 +266,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T02:14:52Z",
+    "updated_at": "2026-08-21T03:02:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T03:00:05Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -274,7 +301,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21504,
+    "stars": 21505,
     "updated_at": "2026-08-21T00:49:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:20:49Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:20:24Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:20:22Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:20:09Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
