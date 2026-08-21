@@ -1,39 +1,30 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T13:54:55Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 403,
-    "updated_at": "2026-08-21T13:54:28Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7476,
-    "updated_at": "2026-08-21T13:53:48Z",
+    "updated_at": "2026-08-21T14:14:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1772,
-    "updated_at": "2026-08-21T13:52:23Z",
-    "url": "https://github.com/future-agi/future-agi"
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-21T14:12:55Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33516,
+    "updated_at": "2026-08-21T14:14:46Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,8 +32,71 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21517,
-    "updated_at": "2026-08-21T13:58:04Z",
+    "updated_at": "2026-08-21T14:15:03Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11136,
+    "updated_at": "2026-08-21T14:11:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
+    "id": "rit2001/traceforge",
+    "language": "Python",
+    "name": "rit2001/traceforge",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:08:02Z",
+    "url": "https://github.com/rit2001/traceforge"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "SConv11/watchy",
+    "language": "Python",
+    "name": "SConv11/watchy",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:06:15Z",
+    "url": "https://github.com/SConv11/watchy"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T14:14:10Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T14:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 403,
+    "updated_at": "2026-08-21T14:05:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1773,
+    "updated_at": "2026-08-21T14:05:08Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,48 +108,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
-    "id": "rit2001/traceforge",
-    "language": "Python",
-    "name": "rit2001/traceforge",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:48:34Z",
-    "url": "https://github.com/rit2001/traceforge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T13:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11136,
-    "updated_at": "2026-08-21T13:55:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33516,
-    "updated_at": "2026-08-21T13:59:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T13:58:39Z",
+    "updated_at": "2026-08-21T14:13:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,7 +140,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T13:39:21Z",
+    "updated_at": "2026-08-21T14:14:07Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
-    "id": "SConv11/watchy",
-    "language": "Python",
-    "name": "SConv11/watchy",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:25:31Z",
-    "url": "https://github.com/SConv11/watchy"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -180,21 +189,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T13:27:32Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
     "id": "waalwalker1/knovaryn",
     "language": "Python",
     "name": "waalwalker1/knovaryn",
     "stars": 1,
-    "updated_at": "2026-08-21T13:21:24Z",
+    "updated_at": "2026-08-21T14:14:01Z",
     "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
@@ -274,7 +274,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27603,
+    "stars": 27604,
     "updated_at": "2026-08-21T12:12:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -409,7 +409,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29802,
+    "stars": 29803,
     "updated_at": "2026-08-21T10:08:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
