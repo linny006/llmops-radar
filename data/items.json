@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11138,
+    "updated_at": "2026-08-21T18:58:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-08-21T18:55:47Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T18:54:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-08-21T18:54:45Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T18:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-08-21T18:46:58Z",
+    "url": "https://github.com/maida-ai/maida-assert"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -54,6 +90,15 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 30,
+    "updated_at": "2026-08-21T18:40:55Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
     "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
     "id": "api-evangelist/agenta",
     "language": "\u2014",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56946,
-    "updated_at": "2026-08-21T18:50:16Z",
+    "updated_at": "2026-08-21T18:59:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,21 +162,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11138,
-    "updated_at": "2026-08-21T18:32:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
     "id": "VibePod/vibepod-cli",
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 135,
-    "updated_at": "2026-08-21T18:49:39Z",
+    "updated_at": "2026-08-21T18:56:32Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -139,7 +175,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1161,
+    "stars": 1162,
     "updated_at": "2026-08-21T18:20:01Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 403,
-    "updated_at": "2026-08-21T18:39:18Z",
+    "updated_at": "2026-08-21T19:00:20Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -238,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21522,
+    "stars": 21523,
     "updated_at": "2026-08-21T17:21:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -320,7 +356,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-21T17:39:13Z",
+    "updated_at": "2026-08-21T18:55:10Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:19:05Z",
     "url": "https://github.com/nanthansr/culprit"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2677,
-    "updated_at": "2026-08-21T15:14:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Scores agent memories for silent staleness \u2014 high-relevance facts that are wrong with nothing in the store to contradict",
-    "id": "a-bhimava/agent-memory-staleness-audit",
-    "language": "Python",
-    "name": "a-bhimava/agent-memory-staleness-audit",
-    "stars": 0,
-    "updated_at": "2026-08-21T15:14:04Z",
-    "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T15:13:48Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24441,
-    "updated_at": "2026-08-21T18:24:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
