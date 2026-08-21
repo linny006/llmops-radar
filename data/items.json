@@ -1,5 +1,77 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T14:28:22Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Shell",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:27:40Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:25:11Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11136,
+    "updated_at": "2026-08-21T14:24:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21518,
+    "updated_at": "2026-08-21T14:27:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-21T14:19:22Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2677,
+    "updated_at": "2026-08-21T14:18:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T14:18:19Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
     "id": "rit2001/traceforge",
     "language": "Python",
@@ -9,40 +81,31 @@
     "url": "https://github.com/rit2001/traceforge"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33516,
-    "updated_at": "2026-08-21T14:16:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T14:15:47Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7476,
-    "updated_at": "2026-08-21T14:16:56Z",
+    "updated_at": "2026-08-21T14:23:52Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33516,
+    "updated_at": "2026-08-21T14:29:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
+    "id": "waalwalker1/knovaryn",
+    "language": "Python",
+    "name": "waalwalker1/knovaryn",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:22:47Z",
+    "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -50,26 +113,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-21T14:12:55Z",
+    "updated_at": "2026-08-21T14:19:12Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21517,
-    "updated_at": "2026-08-21T14:15:03Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11136,
-    "updated_at": "2026-08-21T14:11:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
@@ -104,7 +149,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T13:51:06Z",
+    "updated_at": "2026-08-21T14:30:20Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T14:18:13Z",
+    "updated_at": "2026-08-21T14:20:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -148,18 +193,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56921,
+    "stars": 56922,
     "updated_at": "2026-08-21T13:34:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-21T14:16:23Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -187,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T13:24:41Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
-    "id": "waalwalker1/knovaryn",
-    "language": "Python",
-    "name": "waalwalker1/knovaryn",
-    "stars": 1,
-    "updated_at": "2026-08-21T14:16:35Z",
-    "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T12:52:06Z",
     "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "\u2014",
-    "name": "NekomyaDev/nudge",
-    "stars": 1,
-    "updated_at": "2026-08-21T12:51:10Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "Open-source PostgreSQL credits, usage metering, and reserve-settle billing SDK for AI SaaS \u2014 TypeScript and Python.",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "Raghu23-dev/fusegrid",
     "stars": 0,
-    "updated_at": "2026-08-21T11:07:08Z",
+    "updated_at": "2026-08-21T14:28:49Z",
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:57:46Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:56:05Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -385,15 +394,6 @@
     "stars": 618,
     "updated_at": "2026-08-21T10:13:25Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2677,
-    "updated_at": "2026-08-21T10:12:08Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
