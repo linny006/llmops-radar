@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56941,
+    "updated_at": "2026-08-21T17:28:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-21T17:26:24Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T17:26:10Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 4,
+    "updated_at": "2026-08-21T17:25:19Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T17:24:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33524,
+    "updated_at": "2026-08-21T17:18:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -16,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T17:12:30Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56940,
-    "updated_at": "2026-08-21T17:12:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Your rules your Harness",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21521,
-    "updated_at": "2026-08-21T17:10:22Z",
+    "updated_at": "2026-08-21T17:21:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T17:08:36Z",
     "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 4,
-    "updated_at": "2026-08-21T17:08:45Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:01:45Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fails an agent's answer if anything you asked about went unmentioned",
@@ -113,7 +149,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T17:12:18Z",
+    "updated_at": "2026-08-21T17:25:23Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -135,40 +171,13 @@
     "url": "https://github.com/NekomyaDev/nudge"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:39:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33523,
-    "updated_at": "2026-08-21T17:14:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2631,
+    "stars": 2635,
     "updated_at": "2026-08-21T16:31:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:31:18Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
@@ -203,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T16:21:20Z",
+    "updated_at": "2026-08-21T17:20:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 54,
     "updated_at": "2026-08-21T16:05:04Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-21T17:11:35Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -337,7 +337,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24441,
+    "stars": 24442,
     "updated_at": "2026-08-21T15:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -418,7 +418,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7479,
+    "stars": 7480,
     "updated_at": "2026-08-21T14:23:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
