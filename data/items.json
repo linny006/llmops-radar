@@ -1,12 +1,93 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:57:33Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-21T14:59:32Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21519,
+    "updated_at": "2026-08-21T14:55:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
+    "id": "waalwalker1/knovaryn",
+    "language": "Python",
+    "name": "waalwalker1/knovaryn",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:54:43Z",
+    "url": "https://github.com/waalwalker1/knovaryn"
+  },
+  {
     "description": "Your rules your Harness",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-21T14:44:52Z",
+    "updated_at": "2026-08-21T14:52:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T14:55:20Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33517,
+    "updated_at": "2026-08-21T14:59:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:45:55Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T14:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Cost per outcome across your AI-agent vendors, from a local corpus. No account, no backend, no telemetry.",
+    "id": "trymargin/margin-cost",
+    "language": "Python",
+    "name": "trymargin/margin-cost",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:43:37Z",
+    "url": "https://github.com/trymargin/margin-cost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -27,33 +108,6 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
-    "id": "waalwalker1/knovaryn",
-    "language": "Python",
-    "name": "waalwalker1/knovaryn",
-    "stars": 1,
-    "updated_at": "2026-08-21T14:38:36Z",
-    "url": "https://github.com/waalwalker1/knovaryn"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33516,
-    "updated_at": "2026-08-21T14:43:48Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T14:42:04Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T14:32:35Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -97,15 +142,6 @@
     "stars": 11136,
     "updated_at": "2026-08-21T14:24:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21518,
-    "updated_at": "2026-08-21T14:45:21Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -166,7 +202,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1774,
+    "stars": 1776,
     "updated_at": "2026-08-21T14:05:08Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T14:42:11Z",
+    "updated_at": "2026-08-21T14:48:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -198,31 +234,13 @@
     "url": "https://github.com/amro/evaling"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:42:14Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56921,
+    "stars": 56922,
     "updated_at": "2026-08-21T13:34:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:26:34Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
@@ -265,7 +283,7 @@
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
-    "stars": 2353,
+    "stars": 2354,
     "updated_at": "2026-08-21T13:02:16Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T09:54:41Z",
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-21T09:51:42Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:48:34Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   }
 ]
