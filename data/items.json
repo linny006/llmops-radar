@@ -1,5 +1,122 @@
 [
   {
+    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
+    "id": "redevops-io/redevops-rag",
+    "language": "Python",
+    "name": "redevops-io/redevops-rag",
+    "stars": 8,
+    "updated_at": "2026-08-21T20:14:30Z",
+    "url": "https://github.com/redevops-io/redevops-rag"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 206,
+    "updated_at": "2026-08-21T20:14:28Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:13:08Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T20:12:47Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-21T20:11:55Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:09:23Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 4,
+    "updated_at": "2026-08-21T20:05:40Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56950,
+    "updated_at": "2026-08-21T20:04:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 5,
+    "updated_at": "2026-08-21T20:04:05Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 403,
+    "updated_at": "2026-08-21T20:03:48Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:03:02Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train,",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:02:41Z",
+    "url": "https://github.com/api-evangelist/qwak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -27,30 +144,12 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56949,
-    "updated_at": "2026-08-21T19:49:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T19:47:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2649,
-    "updated_at": "2026-08-21T19:44:55Z",
+    "stars": 2651,
+    "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-21T19:58:46Z",
+    "updated_at": "2026-08-21T20:01:05Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -77,26 +176,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33525,
-    "updated_at": "2026-08-21T19:50:52Z",
+    "updated_at": "2026-08-21T20:01:00Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 4,
-    "updated_at": "2026-08-21T19:34:27Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T19:59:06Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T19:28:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 403,
-    "updated_at": "2026-08-21T19:50:46Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:16:19Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 5,
-    "updated_at": "2026-08-21T19:14:07Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11138,
-    "updated_at": "2026-08-21T19:37:42Z",
+    "updated_at": "2026-08-21T20:13:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-21T19:22:13Z",
+    "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -284,7 +347,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T19:00:25Z",
+    "updated_at": "2026-08-21T20:13:01Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 135,
-    "updated_at": "2026-08-21T18:56:32Z",
+    "updated_at": "2026-08-21T20:03:08Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-21T18:08:50Z",
+    "updated_at": "2026-08-21T20:12:19Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Shell",
-    "name": "NekomyaDev/nudge",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:51:49Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10230,
-    "updated_at": "2026-08-21T17:50:29Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21523,
-    "updated_at": "2026-08-21T19:16:38Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-21T17:12:49Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-21T17:11:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 618,
-    "updated_at": "2026-08-21T17:11:20Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
-    "id": "umeshkedimi/aic",
-    "language": "Python",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:08:36Z",
-    "url": "https://github.com/umeshkedimi/aic"
   }
 ]
