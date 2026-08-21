@@ -1,5 +1,41 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3503,
+    "updated_at": "2026-08-21T04:59:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 755,
+    "updated_at": "2026-08-21T04:51:46Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 106,
+    "updated_at": "2026-08-21T04:46:14Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T04:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -63,20 +99,11 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T04:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56883,
+    "stars": 56884,
     "updated_at": "2026-08-21T04:11:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -202,7 +229,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29799,
+    "stars": 29798,
     "updated_at": "2026-08-21T03:08:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 112,
-    "updated_at": "2026-08-21T04:35:40Z",
+    "updated_at": "2026-08-21T04:54:12Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -337,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24419,
+    "stars": 24420,
     "updated_at": "2026-08-21T01:36:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11132,
-    "updated_at": "2026-08-21T03:28:29Z",
+    "updated_at": "2026-08-21T05:00:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 243,
     "updated_at": "2026-08-21T00:55:28Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 755,
-    "updated_at": "2026-08-21T00:53:33Z",
-    "url": "https://github.com/Jwuthri/Tracely"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:34:29Z",
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:34:02Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:33:51Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
