@@ -1,11 +1,92 @@
 [
   {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-21T10:57:46Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33510,
+    "updated_at": "2026-08-21T10:55:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:56:05Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
+    "id": "KIM3310/enterprise-llm-adoption-kit",
+    "language": "Python",
+    "name": "KIM3310/enterprise-llm-adoption-kit",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:48:07Z",
+    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
+  },
+  {
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HCL",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:48:07Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 454,
+    "updated_at": "2026-08-21T10:48:55Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3503,
+    "updated_at": "2026-08-21T10:56:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7473,
+    "updated_at": "2026-08-21T11:00:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-21T10:49:47Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T10:45:27Z",
+    "updated_at": "2026-08-21T10:46:10Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:44:06Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56911,
+    "updated_at": "2026-08-21T10:59:36Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21512,
-    "updated_at": "2026-08-21T10:43:17Z",
+    "updated_at": "2026-08-21T10:47:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-21T10:43:51Z",
+    "updated_at": "2026-08-21T10:57:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -90,20 +180,11 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56910,
-    "updated_at": "2026-08-21T10:40:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27601,
+    "stars": 27602,
     "updated_at": "2026-08-21T10:18:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -171,15 +252,6 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T10:38:40Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
     "id": "fredritchie/local-ai-assistant-ollama",
     "language": "HCL",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 401,
-    "updated_at": "2026-08-21T10:36:56Z",
+    "updated_at": "2026-08-21T10:58:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 135,
-    "updated_at": "2026-08-21T10:38:19Z",
+    "updated_at": "2026-08-21T11:00:03Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 174,
     "updated_at": "2026-08-21T09:48:20Z",
     "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33510,
-    "updated_at": "2026-08-21T10:43:53Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -259,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T09:33:00Z",
     "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:26:27Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3503,
-    "updated_at": "2026-08-21T10:45:25Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -310,7 +355,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2565,
+    "stars": 2570,
     "updated_at": "2026-08-21T09:05:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7473,
-    "updated_at": "2026-08-21T10:30:01Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-spring-boot-starter",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T07:46:04Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1amacOS \u98ce\u683c\u7684 Kubernetes \u591a\u96c6\u7fa4\u63a7\u5236\u53f0\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883\u3002",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 76,
-    "updated_at": "2026-08-21T09:42:58Z",
-    "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
-    "id": "bentoml/BentoML",
-    "language": "Python",
-    "name": "bentoml/BentoML",
-    "stars": 8794,
-    "updated_at": "2026-08-21T07:40:35Z",
-    "url": "https://github.com/bentoml/BentoML"
-  },
-  {
-    "description": "Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an",
-    "id": "lokeshkundi15/enterprise-knowledge-rag",
-    "language": "Python",
-    "name": "lokeshkundi15/enterprise-knowledge-rag",
-    "stars": 1,
-    "updated_at": "2026-08-21T07:33:32Z",
-    "url": "https://github.com/lokeshkundi15/enterprise-knowledge-rag"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-21T07:25:04Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
