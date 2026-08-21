@@ -1,11 +1,38 @@
 [
   {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:57:51Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T22:53:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:49:19Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11140,
-    "updated_at": "2026-08-21T22:48:59Z",
+    "updated_at": "2026-08-21T22:53:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -18,21 +45,12 @@
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T22:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56956,
-    "updated_at": "2026-08-21T22:45:33Z",
+    "updated_at": "2026-08-21T22:53:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8350,
-    "updated_at": "2026-08-21T22:41:07Z",
+    "updated_at": "2026-08-21T22:51:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -77,8 +95,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29809,
-    "updated_at": "2026-08-21T22:34:58Z",
+    "updated_at": "2026-08-21T22:54:18Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7486,
+    "updated_at": "2026-08-21T22:26:11Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -225,15 +252,6 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:52:29Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -265,7 +283,7 @@
     "id": "Netflix/metaflow",
     "language": "Python",
     "name": "Netflix/metaflow",
-    "stars": 10230,
+    "stars": 10229,
     "updated_at": "2026-08-21T21:35:42Z",
     "url": "https://github.com/Netflix/metaflow"
   },
@@ -378,15 +396,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T22:41:08Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-21T20:04:05Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:03:02Z",
-    "url": "https://github.com/api-evangelist/raindrop"
   }
 ]
