@@ -1,12 +1,75 @@
 [
   {
+    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
+    "id": "redevops-io/redevops-rag",
+    "language": "Python",
+    "name": "redevops-io/redevops-rag",
+    "stars": 8,
+    "updated_at": "2026-08-21T21:11:57Z",
+    "url": "https://github.com/redevops-io/redevops-rag"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-21T21:10:55Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8348,
+    "updated_at": "2026-08-21T21:08:02Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Shell",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:07:54Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:14:23Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
     "id": "48Nauts-Operator/NautGate",
     "language": "Python",
     "name": "48Nauts-Operator/NautGate",
     "stars": 1,
-    "updated_at": "2026-08-21T20:56:49Z",
+    "updated_at": "2026-08-21T21:01:11Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
+    "id": "shyftlabs/continuum",
+    "language": "Python",
+    "name": "shyftlabs/continuum",
+    "stars": 82,
+    "updated_at": "2026-08-21T20:59:26Z",
+    "url": "https://github.com/shyftlabs/continuum"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56951,
-    "updated_at": "2026-08-21T20:59:49Z",
+    "updated_at": "2026-08-21T21:10:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 11139,
     "updated_at": "2026-08-21T20:53:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:48:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 403,
-    "updated_at": "2026-08-21T20:44:33Z",
+    "updated_at": "2026-08-21T21:03:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T20:41:25Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8348,
-    "updated_at": "2026-08-21T20:50:40Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -162,24 +207,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 8,
-    "updated_at": "2026-08-21T20:46:45Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:56:52Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -211,7 +238,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2654,
+    "stars": 2655,
     "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -252,6 +279,15 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33527,
+    "updated_at": "2026-08-21T20:01:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-21T20:01:05Z",
+    "updated_at": "2026-08-21T21:14:30Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T19:39:54Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33525,
-    "updated_at": "2026-08-21T20:01:00Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T18:40:51Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:59:16Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-21T21:00:03Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27609,
-    "updated_at": "2026-08-21T18:32:37Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
