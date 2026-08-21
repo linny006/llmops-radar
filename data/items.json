@@ -1,5 +1,86 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-21T11:12:24Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 135,
+    "updated_at": "2026-08-21T11:12:11Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 2,
+    "updated_at": "2026-08-21T11:12:46Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "\u2014",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:08:00Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
+    "id": "Raghu23-dev/fusegrid",
+    "language": "Python",
+    "name": "Raghu23-dev/fusegrid",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:07:08Z",
+    "url": "https://github.com/Raghu23-dev/fusegrid"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33511,
+    "updated_at": "2026-08-21T11:14:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:05:32Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T11:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7474,
+    "updated_at": "2026-08-21T11:11:27Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -7,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:57:46Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33510,
-    "updated_at": "2026-08-21T10:55:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -63,31 +135,13 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7473,
-    "updated_at": "2026-08-21T11:00:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-21T10:49:47Z",
+    "updated_at": "2026-08-21T11:10:13Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T10:46:10Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-21T10:44:06Z",
+    "updated_at": "2026-08-21T11:12:47Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -104,17 +158,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56911,
-    "updated_at": "2026-08-21T10:59:36Z",
+    "updated_at": "2026-08-21T11:09:42Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:40:18Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -151,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:34:11Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-21T10:57:28Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -243,15 +279,6 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
-    "id": "Raghu23-dev/fusegrid",
-    "language": "Python",
-    "name": "Raghu23-dev/fusegrid",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:15:30Z",
-    "url": "https://github.com/Raghu23-dev/fusegrid"
-  },
-  {
     "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
     "id": "fredritchie/local-ai-assistant-ollama",
     "language": "HCL",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 401,
-    "updated_at": "2026-08-21T10:58:30Z",
+    "updated_at": "2026-08-21T11:14:58Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -288,20 +315,11 @@
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 135,
-    "updated_at": "2026-08-21T11:00:03Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
     "name": "Juror-AI/juror",
-    "stars": 174,
+    "stars": 175,
     "updated_at": "2026-08-21T09:48:20Z",
     "url": "https://github.com/Juror-AI/juror"
   },
@@ -324,6 +342,15 @@
     "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11135,
+    "updated_at": "2026-08-21T09:29:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -342,20 +369,11 @@
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11134,
-    "updated_at": "2026-08-21T09:29:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2570,
+    "stars": 2572,
     "updated_at": "2026-08-21T09:05:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 79,
     "updated_at": "2026-08-21T10:45:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-21T08:40:35Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-08-21T07:46:04Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   }
 ]
