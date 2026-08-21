@@ -1,12 +1,75 @@
 [
   {
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-21T14:44:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:39:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
+    "id": "Raghu23-dev/fusegrid",
+    "language": "Python",
+    "name": "Raghu23-dev/fusegrid",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:43:01Z",
+    "url": "https://github.com/Raghu23-dev/fusegrid"
+  },
+  {
+    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
+    "id": "waalwalker1/knovaryn",
+    "language": "Python",
+    "name": "waalwalker1/knovaryn",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:38:36Z",
+    "url": "https://github.com/waalwalker1/knovaryn"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33516,
+    "updated_at": "2026-08-21T14:43:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-21T14:28:22Z",
+    "updated_at": "2026-08-21T14:42:04Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:32:35Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T14:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21518,
-    "updated_at": "2026-08-21T14:27:52Z",
+    "updated_at": "2026-08-21T14:45:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:18:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
     "id": "rit2001/traceforge",
     "language": "Python",
@@ -88,24 +142,6 @@
     "stars": 7476,
     "updated_at": "2026-08-21T14:23:52Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33516,
-    "updated_at": "2026-08-21T14:29:57Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
-    "id": "waalwalker1/knovaryn",
-    "language": "Python",
-    "name": "waalwalker1/knovaryn",
-    "stars": 1,
-    "updated_at": "2026-08-21T14:22:47Z",
-    "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -126,31 +162,22 @@
     "url": "https://github.com/SConv11/watchy"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1774,
+    "updated_at": "2026-08-21T14:05:08Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 403,
-    "updated_at": "2026-08-21T14:17:40Z",
+    "updated_at": "2026-08-21T14:42:42Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1773,
-    "updated_at": "2026-08-21T14:05:08Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T14:30:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -158,17 +185,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T14:20:18Z",
+    "updated_at": "2026-08-21T14:42:11Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:42:45Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -185,7 +203,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T14:14:07Z",
+    "updated_at": "2026-08-21T14:42:14Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -193,7 +211,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56922,
+    "stars": 56921,
     "updated_at": "2026-08-21T13:34:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -292,7 +310,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27604,
+    "stars": 27605,
     "updated_at": "2026-08-21T12:12:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T11:21:23Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
-    "id": "Raghu23-dev/fusegrid",
-    "language": "Python",
-    "name": "Raghu23-dev/fusegrid",
-    "stars": 0,
-    "updated_at": "2026-08-21T14:28:49Z",
-    "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -376,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:34:11Z",
     "url": "https://github.com/thanhpt1110/claude-for-poor-folks"
-  },
-  {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-21T10:23:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
