@@ -1,5 +1,50 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-21T08:03:02Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56901,
+    "updated_at": "2026-08-21T08:06:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-21T08:04:09Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T08:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2677,
+    "updated_at": "2026-08-21T08:00:19Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -45,15 +90,6 @@
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56900,
-    "updated_at": "2026-08-21T07:57:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -63,15 +99,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T07:56:43Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-spring-boot-starter",
     "language": "Java",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T07:46:04Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T07:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1amacOS \u98ce\u683c\u7684 Kubernetes \u591a\u96c6\u7fa4\u63a7\u5236\u53f0\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883\u3002",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "48Nauts-Operator/NautGate",
     "stars": 1,
-    "updated_at": "2026-08-21T07:42:39Z",
+    "updated_at": "2026-08-21T08:06:04Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T07:23:33Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2677,
-    "updated_at": "2026-08-21T08:00:19Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -337,7 +346,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 755,
+    "stars": 748,
     "updated_at": "2026-08-21T07:06:45Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T07:04:46Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-21T07:57:00Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -418,7 +418,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29798,
+    "stars": 29799,
     "updated_at": "2026-08-21T06:59:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
