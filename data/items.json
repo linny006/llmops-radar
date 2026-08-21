@@ -1,30 +1,12 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33524,
-    "updated_at": "2026-08-21T17:44:10Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:43:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56943,
-    "updated_at": "2026-08-21T17:45:21Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-21T17:58:16Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
@@ -32,8 +14,53 @@
     "language": "Shell",
     "name": "NekomyaDev/nudge",
     "stars": 1,
-    "updated_at": "2026-08-21T17:42:47Z",
+    "updated_at": "2026-08-21T17:51:49Z",
     "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10229,
+    "updated_at": "2026-08-21T17:50:29Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:49:49Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33524,
+    "updated_at": "2026-08-21T17:48:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56943,
+    "updated_at": "2026-08-21T17:53:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -70,15 +97,6 @@
     "stars": 11137,
     "updated_at": "2026-08-21T17:32:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-21T17:35:28Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -180,20 +198,11 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:43:54Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2635,
+    "stars": 2638,
     "updated_at": "2026-08-21T16:31:35Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T17:20:04Z",
+    "updated_at": "2026-08-21T17:50:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -346,7 +355,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24442,
+    "stars": 24441,
     "updated_at": "2026-08-21T15:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -355,7 +364,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29807,
+    "stars": 29808,
     "updated_at": "2026-08-21T15:11:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -418,7 +427,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7480,
+    "stars": 7481,
     "updated_at": "2026-08-21T14:23:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T14:06:15Z",
     "url": "https://github.com/SConv11/watchy"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1777,
-    "updated_at": "2026-08-21T16:21:53Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
