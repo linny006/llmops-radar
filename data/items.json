@@ -1,12 +1,39 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33524,
+    "updated_at": "2026-08-21T17:44:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:43:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56942,
-    "updated_at": "2026-08-21T17:42:58Z",
+    "stars": 56943,
+    "updated_at": "2026-08-21T17:45:21Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
+    "id": "NekomyaDev/nudge",
+    "language": "Shell",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T17:42:47Z",
+    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -27,15 +54,6 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Nudge \u2014 a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a",
-    "id": "NekomyaDev/nudge",
-    "language": "Shell",
-    "name": "NekomyaDev/nudge",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:42:47Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -52,15 +70,6 @@
     "stars": 11137,
     "updated_at": "2026-08-21T17:32:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -88,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T17:25:19Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33524,
-    "updated_at": "2026-08-21T17:40:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -185,7 +185,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T17:43:09Z",
+    "updated_at": "2026-08-21T17:43:54Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -248,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T17:07:31Z",
+    "updated_at": "2026-08-21T17:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -355,7 +355,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29806,
+    "stars": 29807,
     "updated_at": "2026-08-21T15:11:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },

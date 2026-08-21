@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 17:43 UTC
+> ⏰ Last updated: 2026-08-21 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56942 | Python | 2026-08-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 403 | Python | 2026-08-21 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 3 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-21 | A11 is a concurrent action and streaming runtime for building AI agents — including distributed ones that span processes |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33524 | TypeScript | 2026-08-21 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56943 | Python | 2026-08-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 4 | [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) | 1 | Shell | 2026-08-21 | Nudge — a typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Traces a |
-| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11137 | Python | 2026-08-21 | AI Observability & Evaluation |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-21 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-21 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 10 | [AshwinUgale/muteval](https://github.com/AshwinUgale/muteval) | 4 | Python | 2026-08-21 | Mutation testing for your LLM evals — degrade the system under test and check whether your evals would actually catch a  |
-| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33524 | TypeScript | 2026-08-21 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 403 | Python | 2026-08-21 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 6 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-21 | A11 is a concurrent action and streaming runtime for building AI agents — including distributed ones that span processes |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11137 | Python | 2026-08-21 | AI Observability & Evaluation |
+| 9 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-21 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-21 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 11 | [AshwinUgale/muteval](https://github.com/AshwinUgale/muteval) | 4 | Python | 2026-08-21 | Mutation testing for your LLM evals — degrade the system under test and check whether your evals would actually catch a  |
 | 12 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-21 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
 | 13 | [AshwinUgale/tracelint](https://github.com/AshwinUgale/tracelint) | 5 | Python | 2026-08-21 | A deterministic linter for agent runs — reads the execution trace and flags structural bugs (ignored errors, schema viol |
 | 14 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-21 | Your rules your Harness |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [a-bhimava/agent-memory-staleness-audit](https://github.com/a-bhimava/agent-memory-staleness-audit) | 0 | Python | 2026-08-21 | Scores agent memories for silent staleness — high-relevance facts that are wrong with nothing in the store to contradict |
 | 38 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-21 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
 | 39 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24442 | TypeScript | 2026-08-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 40 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29806 | TypeScript | 2026-08-21 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 40 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29807 | TypeScript | 2026-08-21 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 41 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-21 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
 | 42 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-21 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 43 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11903 | Python | 2026-08-21 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
