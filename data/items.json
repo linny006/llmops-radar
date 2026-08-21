@@ -1,5 +1,77 @@
 [
   {
+    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
+    "id": "Raghu23-dev/fusegrid",
+    "language": "Python",
+    "name": "Raghu23-dev/fusegrid",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:29:53Z",
+    "url": "https://github.com/Raghu23-dev/fusegrid"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:26:58Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes.",
+    "id": "ozkangrk/llm-serve-verdict",
+    "language": "Python",
+    "name": "ozkangrk/llm-serve-verdict",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:24:46Z",
+    "url": "https://github.com/ozkangrk/llm-serve-verdict"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T06:21:38Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-21T06:20:29Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 755,
+    "updated_at": "2026-08-21T06:19:43Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:17:06Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -18,11 +90,20 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56891,
+    "updated_at": "2026-08-21T06:04:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7472,
+    "stars": 7473,
     "updated_at": "2026-08-21T06:04:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -34,42 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T06:02:42Z",
     "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T06:14:29Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-21T06:04:06Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T06:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56889,
-    "updated_at": "2026-08-21T06:04:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -85,7 +130,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33497,
+    "stars": 33499,
     "updated_at": "2026-08-21T05:58:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-21T06:05:43Z",
+    "updated_at": "2026-08-21T06:23:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 112,
-    "updated_at": "2026-08-21T05:44:28Z",
+    "updated_at": "2026-08-21T06:24:20Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -153,24 +198,6 @@
     "url": "https://github.com/alexvervloet/deep-dive-capstone"
   },
   {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 755,
-    "updated_at": "2026-08-21T05:15:52Z",
-    "url": "https://github.com/Jwuthri/Tracely"
-  },
-  {
-    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
-    "id": "Raghu23-dev/fusegrid",
-    "language": "Python",
-    "name": "Raghu23-dev/fusegrid",
-    "stars": 0,
-    "updated_at": "2026-08-21T05:15:57Z",
-    "url": "https://github.com/Raghu23-dev/fusegrid"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3503,
-    "updated_at": "2026-08-21T06:14:44Z",
+    "updated_at": "2026-08-21T06:28:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 106,
     "updated_at": "2026-08-21T04:46:14Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "Evidence-gated benchmark, comparison and promotion control plane for LLM inference serving changes.",
-    "id": "ozkangrk/llm-serve-verdict",
-    "language": "Python",
-    "name": "ozkangrk/llm-serve-verdict",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:40:12Z",
-    "url": "https://github.com/ozkangrk/llm-serve-verdict"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -283,7 +301,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27598,
+    "stars": 27600,
     "updated_at": "2026-08-21T03:56:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11902,
-    "updated_at": "2026-08-21T05:30:41Z",
+    "updated_at": "2026-08-21T06:16:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 617,
     "updated_at": "2026-08-21T01:51:35Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1065,
-    "updated_at": "2026-08-21T01:51:37Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 400,
-    "updated_at": "2026-08-21T01:03:26Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
