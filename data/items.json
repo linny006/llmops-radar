@@ -1,12 +1,147 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56955,
+    "updated_at": "2026-08-21T22:14:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-21T22:13:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:12:54Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:12:54Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:11:55Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "A policy-enforcing gateway for the Model Context Protocol. Aggregates MCP servers, enforces tool-call policy, scans resu",
+    "id": "sushantlokhande14/portcullis",
+    "language": "Rust",
+    "name": "sushantlokhande14/portcullis",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:09:04Z",
+    "url": "https://github.com/sushantlokhande14/portcullis"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 403,
+    "updated_at": "2026-08-21T22:08:33Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e Incident-based rules fo",
+    "id": "ArtVsMark/claude-code-playbook",
+    "language": "Python",
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T22:13:35Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T22:00:02Z",
+    "updated_at": "2026-08-21T22:08:56Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-21T22:04:53Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Shell",
+    "name": "NekomyaDev/nudge",
+    "stars": 1,
+    "updated_at": "2026-08-21T22:04:03Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:14:50Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-21T22:03:35Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 176,
+    "updated_at": "2026-08-21T22:01:37Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "TokenFlow is an enterprise-grade, token-aware load balancer and AI gateway for vLLM. It prevents GPU OOM crashes using R",
+    "id": "mosafariuk/TokenFlow-Gateway",
+    "language": "TypeScript",
+    "name": "mosafariuk/TokenFlow-Gateway",
+    "stars": 10,
+    "updated_at": "2026-08-21T22:01:33Z",
+    "url": "https://github.com/mosafariuk/TokenFlow-Gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
@@ -18,15 +153,6 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 403,
-    "updated_at": "2026-08-21T21:57:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
@@ -36,24 +162,6 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56955,
-    "updated_at": "2026-08-21T22:00:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:47:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -61,15 +169,6 @@
     "stars": 27610,
     "updated_at": "2026-08-21T21:42:25Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:41:23Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "\ud83d\udd79\ufe0f Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delive",
@@ -85,7 +184,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 833,
+    "stars": 834,
     "updated_at": "2026-08-21T21:37:31Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -108,15 +207,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-21T21:47:25Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Build, Manage and Deploy AI/ML Systems",
     "id": "Netflix/metaflow",
     "language": "Python",
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11140,
-    "updated_at": "2026-08-21T21:57:34Z",
+    "updated_at": "2026-08-21T22:11:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,24 +243,6 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:10:55Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Shell",
-    "name": "NekomyaDev/nudge",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:07:54Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
     "id": "48Nauts-Operator/NautGate",
     "language": "Python",
@@ -187,15 +259,6 @@
     "stars": 82,
     "updated_at": "2026-08-21T20:59:26Z",
     "url": "https://github.com/shyftlabs/continuum"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:52:19Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29809,
-    "updated_at": "2026-08-21T21:55:22Z",
+    "updated_at": "2026-08-21T22:05:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -310,7 +373,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2658,
+    "stars": 2659,
     "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -328,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24443,
+    "stars": 24444,
     "updated_at": "2026-08-21T20:05:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -378,15 +441,6 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-21T21:58:23Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:53:28Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:14:30Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:39:54Z",
-    "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7485,
-    "updated_at": "2026-08-21T19:29:47Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:16:19Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:10:05Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:06:19Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   }
 ]
