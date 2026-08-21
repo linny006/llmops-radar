@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 112,
+    "updated_at": "2026-08-21T05:44:28Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
+    "id": "caiohome/awesome-caio",
+    "language": "Python",
+    "name": "caiohome/awesome-caio",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:44:10Z",
+    "url": "https://github.com/caiohome/awesome-caio"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56887,
+    "updated_at": "2026-08-21T05:43:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33496,
+    "updated_at": "2026-08-21T05:41:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T05:40:47Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T05:36:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-21T05:32:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T05:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -9,31 +81,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T05:28:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-21T05:27:23Z",
+    "updated_at": "2026-08-21T05:40:15Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56886,
-    "updated_at": "2026-08-21T05:25:30Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Jwuthri/Tracely"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T05:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
     "id": "Raghu23-dev/fusegrid",
     "language": "Python",
@@ -81,13 +126,13 @@
     "url": "https://github.com/Raghu23-dev/fusegrid"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 112,
-    "updated_at": "2026-08-21T05:15:21Z",
-    "url": "https://github.com/api7/aisix"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11133,
+    "updated_at": "2026-08-21T05:09:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -104,17 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3503,
-    "updated_at": "2026-08-21T05:21:27Z",
+    "updated_at": "2026-08-21T05:44:28Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-21T05:04:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T04:03:15Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T05:23:49Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11902,
-    "updated_at": "2026-08-21T05:00:47Z",
+    "updated_at": "2026-08-21T05:30:41Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:54:14Z",
     "url": "https://github.com/shailendraya/LLMOps"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33496,
-    "updated_at": "2026-08-21T05:02:29Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -414,15 +432,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11132,
-    "updated_at": "2026-08-21T05:09:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
@@ -436,17 +445,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21507,
+    "stars": 21506,
     "updated_at": "2026-08-21T00:49:43Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A helm chart to enable the latest AI/ML open source tools in kubernetes.",
-    "id": "blake-hamm/kube-ai-stack",
-    "language": "Go Template",
-    "name": "blake-hamm/kube-ai-stack",
-    "stars": 7,
-    "updated_at": "2026-08-21T00:44:39Z",
-    "url": "https://github.com/blake-hamm/kube-ai-stack"
   }
 ]
