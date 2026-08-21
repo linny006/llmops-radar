@@ -1,12 +1,30 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56954,
-    "updated_at": "2026-08-21T21:18:17Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-21T21:28:11Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10230,
+    "updated_at": "2026-08-21T21:28:06Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:21:29Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T21:15:25Z",
+    "updated_at": "2026-08-21T21:19:53Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:28:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56954,
+    "updated_at": "2026-08-21T21:29:08Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
@@ -59,7 +95,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T21:14:23Z",
+    "updated_at": "2026-08-21T21:28:53Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11139,
-    "updated_at": "2026-08-21T20:53:27Z",
+    "updated_at": "2026-08-21T21:25:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 403,
-    "updated_at": "2026-08-21T21:03:31Z",
+    "updated_at": "2026-08-21T21:23:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T20:44:05Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-21T21:18:10Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -160,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:33:46Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:19:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:22:48Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-21T20:57:46Z",
+    "updated_at": "2026-08-21T21:22:34Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -238,7 +247,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2656,
+    "stars": 2657,
     "updated_at": "2026-08-21T20:06:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -256,7 +265,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24442,
+    "stars": 24443,
     "updated_at": "2026-08-21T20:05:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T20:52:35Z",
+    "updated_at": "2026-08-21T21:28:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-21T18:46:58Z",
     "url": "https://github.com/maida-ai/maida-assert"
-  },
-  {
-    "description": "An awesome list of AI/ML tools \u2014 but leveled by concept depth (Level 0\u21924) and searchable. Every tool comes with an artic",
-    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "language": "HTML",
-    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:41:54Z",
-    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   }
 ]
