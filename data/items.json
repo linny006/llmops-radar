@@ -1,12 +1,39 @@
 [
   {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
     "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 206,
-    "updated_at": "2026-08-21T20:47:36Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:56:49Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:52:19Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56951,
+    "updated_at": "2026-08-21T20:59:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11139,
+    "updated_at": "2026-08-21T20:53:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T20:45:24Z",
+    "updated_at": "2026-08-21T20:48:41Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 206,
+    "updated_at": "2026-08-21T20:47:36Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -45,21 +81,12 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56950,
-    "updated_at": "2026-08-21T20:48:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8348,
-    "updated_at": "2026-08-21T20:34:55Z",
+    "updated_at": "2026-08-21T20:50:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29809,
-    "updated_at": "2026-08-21T20:34:47Z",
+    "updated_at": "2026-08-21T20:56:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:33:46Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11139,
-    "updated_at": "2026-08-21T20:44:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-21T20:46:49Z",
+    "updated_at": "2026-08-21T20:56:52Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-21T20:12:47Z",
+    "updated_at": "2026-08-21T20:57:46Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T19:56:00Z",
+    "updated_at": "2026-08-21T20:52:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 7484,
     "updated_at": "2026-08-21T19:29:47Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:17:59Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
@@ -419,7 +428,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T20:45:57Z",
+    "updated_at": "2026-08-21T20:59:16Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -428,17 +437,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T19:13:39Z",
+    "updated_at": "2026-08-21T21:00:03Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:33:59Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
