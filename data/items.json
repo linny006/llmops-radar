@@ -1,30 +1,102 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T18:42:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11137,
-    "updated_at": "2026-08-21T18:29:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2641,
+    "updated_at": "2026-08-21T18:41:21Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-21T18:40:51Z",
+    "url": "https://github.com/api-evangelist/agenta"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56944,
-    "updated_at": "2026-08-21T18:29:51Z",
+    "stars": 56946,
+    "updated_at": "2026-08-21T18:43:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-21T18:39:44Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-21T18:43:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-21T18:33:59Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T18:33:44Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1161,
-    "updated_at": "2026-08-21T18:20:01Z",
-    "url": "https://github.com/Arize-ai/openinference"
+    "name": "mlflow/mlflow",
+    "stars": 27609,
+    "updated_at": "2026-08-21T18:32:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11138,
+    "updated_at": "2026-08-21T18:32:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T18:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -36,22 +108,13 @@
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-21T18:26:27Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T18:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/openinference",
+    "stars": 1161,
+    "updated_at": "2026-08-21T18:20:01Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Mines production agent traces for tool-call invariants, proposes them as pytest assertions with evidence counts, and gat",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 403,
-    "updated_at": "2026-08-21T18:23:45Z",
+    "updated_at": "2026-08-21T18:39:18Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -133,33 +196,6 @@
     "stars": 33525,
     "updated_at": "2026-08-21T17:48:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-21T17:35:21Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:33:21Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:26:10Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
@@ -207,15 +243,6 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27609,
-    "updated_at": "2026-08-21T17:11:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T16:50:52Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2638,
-    "updated_at": "2026-08-21T16:31:35Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
@@ -304,15 +322,6 @@
     "stars": 175,
     "updated_at": "2026-08-21T16:12:05Z",
     "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-21T18:18:37Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T14:57:33Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11903,
-    "updated_at": "2026-08-21T14:48:00Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
