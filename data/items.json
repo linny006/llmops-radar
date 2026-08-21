@@ -1,30 +1,48 @@
 [
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-21T03:33:24Z",
-    "url": "https://github.com/soapbucket/sbproxy"
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:44:25Z",
+    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56880,
-    "updated_at": "2026-08-21T03:31:38Z",
+    "stars": 56882,
+    "updated_at": "2026-08-21T03:41:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-21T03:45:10Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2675,
+    "updated_at": "2026-08-21T03:36:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:32:40Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
+    "name": "mlflow/mlflow",
+    "stars": 27598,
+    "updated_at": "2026-08-21T03:36:21Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T03:30:28Z",
+    "updated_at": "2026-08-21T03:34:39Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:44:54Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:25:51Z",
     "url": "https://github.com/ramioooz/hcm-agentic-llmops"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-21T03:22:01Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T02:14:32Z",
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2675,
-    "updated_at": "2026-08-21T03:20:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:30:06Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27598,
-    "updated_at": "2026-08-21T00:29:12Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
