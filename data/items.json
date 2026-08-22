@@ -1,11 +1,20 @@
 [
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29815,
+    "updated_at": "2026-08-22T07:43:49Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Your rules your Harness",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-22T07:33:52Z",
+    "updated_at": "2026-08-22T07:45:13Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -13,18 +22,27 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2699,
-    "updated_at": "2026-08-22T07:32:48Z",
+    "stars": 2700,
+    "updated_at": "2026-08-22T07:39:12Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
+    "description": "Agentic RAG platform for PDF document search - CrewAI multi-agent orchestration, LlamaIndex retrieval over PostgreSQL/PG",
+    "id": "Gaurav-2510/Doc-Search-platform",
     "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-22T07:32:40Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
+    "name": "Gaurav-2510/Doc-Search-platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:36:25Z",
+    "url": "https://github.com/Gaurav-2510/Doc-Search-platform"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T07:35:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +50,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T07:30:32Z",
+    "updated_at": "2026-08-22T07:34:44Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-22T07:35:58Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7490,
+    "updated_at": "2026-08-22T07:29:52Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T07:29:07Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-22T07:27:43Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -99,21 +126,12 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Agentic RAG platform for PDF document search - CrewAI multi-agent orchestration, LlamaIndex retrieval over PostgreSQL/PG",
-    "id": "Gaurav-2510/Doc-Search-platform",
-    "language": "Python",
-    "name": "Gaurav-2510/Doc-Search-platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T07:12:47Z",
-    "url": "https://github.com/Gaurav-2510/Doc-Search-platform"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33541,
-    "updated_at": "2026-08-22T07:10:28Z",
+    "updated_at": "2026-08-22T07:44:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -140,7 +158,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2677,
-    "updated_at": "2026-08-22T06:41:11Z",
+    "updated_at": "2026-08-22T07:41:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29814,
-    "updated_at": "2026-08-22T05:53:44Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
@@ -241,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T05:39:07Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7489,
-    "updated_at": "2026-08-22T07:29:52Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "An operating model for AI agents: boot from truth, split roles, require evidence, hand off durably. Model-agnostic primi",
@@ -319,7 +319,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11142,
+    "stars": 11143,
     "updated_at": "2026-08-22T04:56:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
