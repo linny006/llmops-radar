@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 03:58 UTC
+> ⏰ Last updated: 2026-08-22 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-08-22 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Your rules your Harness |
-| 3 | [solomon2773/nora](https://github.com/solomon2773/nora) | 39 | TypeScript | 2026-08-22 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
-| 4 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 867 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
-| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 6 | [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) | 49 | TypeScript | 2026-08-22 | Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi |
-| 7 | [mjsushanth/mjsushanth.github.io](https://github.com/mjsushanth/mjsushanth.github.io) | 0 | HTML | 2026-08-22 | Repo for portfolio, containing working redirects to all projects. |
-| 8 | [haomingkoo/haomingkoo](https://github.com/haomingkoo/haomingkoo) | 0 | — | 2026-08-22 | Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A |
-| 9 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-08-22 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Your rules your Harness |
+| 4 | [solomon2773/nora](https://github.com/solomon2773/nora) | 39 | TypeScript | 2026-08-22 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
+| 5 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 867 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) | 49 | TypeScript | 2026-08-22 | Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi |
+| 8 | [mjsushanth/mjsushanth.github.io](https://github.com/mjsushanth/mjsushanth.github.io) | 0 | HTML | 2026-08-22 | Repo for portfolio, containing working redirects to all projects. |
+| 9 | [haomingkoo/haomingkoo](https://github.com/haomingkoo/haomingkoo) | 0 | — | 2026-08-22 | Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A |
+| 10 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
 | 11 | [fredritchie/local-ai-assistant-ollama](https://github.com/fredritchie/local-ai-assistant-ollama) | 0 | HCL | 2026-08-22 | Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD,  |
 | 12 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
 | 13 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
