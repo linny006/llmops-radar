@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 02:15 UTC
+> ⏰ Last updated: 2026-08-22 02:19 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7487 | Go | 2026-08-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27611 | Python | 2026-08-22 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 3 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | Python | 2026-08-22 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
-| 4 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
-| 5 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-08-22 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло. Incident-based rules f |
-| 6 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
-| 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29810 | TypeScript | 2026-08-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 8 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-08-22 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 9 | [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1316 | Go | 2026-08-22 | Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP). |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 11 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-22 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
-| 12 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-08-22 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 13 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-08-22 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 14 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 20 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
-| 15 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8350 | Rust | 2026-08-22 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56967 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 17 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11140 | Python | 2026-08-22 | AI Observability & Evaluation |
-| 18 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 19 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2677 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
-| 20 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-22 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 1 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-08-22 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло. Incident-based rules f |
+| 2 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 20 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
+| 3 | [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy) | 49 | Rust | 2026-08-22 | Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7487 | Go | 2026-08-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27611 | Python | 2026-08-22 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 7 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | Python | 2026-08-22 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
+| 8 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
+| 9 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
+| 10 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29810 | TypeScript | 2026-08-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 11 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-08-22 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 12 | [KusionStack/kusion](https://github.com/KusionStack/kusion) | 1316 | Go | 2026-08-22 | Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP). |
+| 13 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-22 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
+| 14 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-08-22 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 15 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-08-22 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 16 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8350 | Rust | 2026-08-22 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 17 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56967 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 18 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11140 | Python | 2026-08-22 | AI Observability & Evaluation |
+| 19 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 20 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2677 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
 | 21 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-22 | Open-source LLM observability and drift detection for AI apps |
 | 22 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 23 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-22 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [AlisterBaroi/litellm-kind-deployment](https://github.com/AlisterBaroi/litellm-kind-deployment) | 1 | Shell | 2026-08-22 | Deploy the LiteLLM Proxy (AI gateway) on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API key |
 | 26 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-08-22 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
 | 27 | [jlcases/llm-engineering-program](https://github.com/jlcases/llm-engineering-program) | 0 | Python | 2026-08-22 | Open, bilingual and expert-curated LLM engineering curriculum with executable labs |
-| 28 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 843 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 28 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 844 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
 | 29 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-08-22 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
 | 30 | [a-bhimava/agent-trace-to-evals](https://github.com/a-bhimava/agent-trace-to-evals) | 0 | Python | 2026-08-21 | You have thousands of agent traces and no evals. Mines production traces for tool-call invariants, proposes them as pyte |
 | 31 | [a-bhimava/agent-memory-staleness-audit](https://github.com/a-bhimava/agent-memory-staleness-audit) | 0 | Python | 2026-08-21 | Your agent still thinks they work at Acme, and nothing in memory contradicts it. Scores agent memories for silent stalen |
