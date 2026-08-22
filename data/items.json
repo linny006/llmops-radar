@@ -1,5 +1,131 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-22T03:13:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56969,
+    "updated_at": "2026-08-22T03:12:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:12:09Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 89,
+    "updated_at": "2026-08-22T03:11:10Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:10:23Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:08:53Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
+    "id": "Soilbuilding-libraryroutine78/Gozar",
+    "language": "Python",
+    "name": "Soilbuilding-libraryroutine78/Gozar",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:08:32Z",
+    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
+  },
+  {
+    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
+    "id": "wordmiddling872/AI_Email_Generator",
+    "language": "Python",
+    "name": "wordmiddling872/AI_Email_Generator",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:08:13Z",
+    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
+    "id": "Karinaclastic11/Drip-Lite-Client",
+    "language": "\u2014",
+    "name": "Karinaclastic11/Drip-Lite-Client",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:06:21Z",
+    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
+    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "language": "\u2014",
+    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
+    "stars": 2,
+    "updated_at": "2026-08-22T03:03:28Z",
+    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:02:03Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T03:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:00:22Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
+    "id": "jamjet-labs/jamjet",
+    "language": "Rust",
+    "name": "jamjet-labs/jamjet",
+    "stars": 21,
+    "updated_at": "2026-08-22T03:00:21Z",
+    "url": "https://github.com/jamjet-labs/jamjet"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -45,6 +171,15 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8349,
+    "updated_at": "2026-08-22T02:50:17Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -59,7 +194,7 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-22T02:48:41Z",
+    "updated_at": "2026-08-22T03:08:28Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
@@ -90,24 +225,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56968,
-    "updated_at": "2026-08-22T02:59:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T02:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -115,15 +232,6 @@
     "stars": 50,
     "updated_at": "2026-08-22T02:43:26Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:42:48Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -144,15 +252,6 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-22T02:56:44Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -160,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T02:39:47Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
-    "id": "jamjet-labs/jamjet",
-    "language": "Rust",
-    "name": "jamjet-labs/jamjet",
-    "stars": 21,
-    "updated_at": "2026-08-22T03:00:21Z",
-    "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-22T02:30:16Z",
+    "updated_at": "2026-08-22T03:09:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -265,7 +355,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27612,
+    "stars": 27613,
     "updated_at": "2026-08-22T02:12:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -333,15 +423,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8350,
-    "updated_at": "2026-08-22T02:50:17Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T01:14:37Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-22T01:06:19Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-22T00:58:34Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Deploy the LiteLLM Proxy (AI gateway) on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API key",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 1,
-    "updated_at": "2026-08-22T00:52:08Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-22T00:48:29Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
-    "id": "jlcases/llm-engineering-program",
-    "language": "Python",
-    "name": "jlcases/llm-engineering-program",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:28:55Z",
-    "url": "https://github.com/jlcases/llm-engineering-program"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 853,
-    "updated_at": "2026-08-22T00:14:02Z",
-    "url": "https://github.com/Jwuthri/Tracely"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-08-22T00:08:34Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "You have thousands of agent traces and no evals. Mines production traces for tool-call invariants, proposes them as pyte",
-    "id": "a-bhimava/agent-trace-to-evals",
-    "language": "Python",
-    "name": "a-bhimava/agent-trace-to-evals",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:54:00Z",
-    "url": "https://github.com/a-bhimava/agent-trace-to-evals"
-  },
-  {
-    "description": "Your agent still thinks they work at Acme, and nothing in memory contradicts it. Scores agent memories for silent stalen",
-    "id": "a-bhimava/agent-memory-staleness-audit",
-    "language": "Python",
-    "name": "a-bhimava/agent-memory-staleness-audit",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:53:58Z",
-    "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
   }
 ]
