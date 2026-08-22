@@ -5,17 +5,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-22T05:02:59Z",
+    "updated_at": "2026-08-22T05:15:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agentic coding loop with DeepSeek V4 on Microsoft Foundry, executing model-generated code inside per-session AWS Lambda ",
+    "id": "esolnguyen/agent-loop",
+    "language": "Python",
+    "name": "esolnguyen/agent-loop",
+    "stars": 0,
+    "updated_at": "2026-08-22T05:11:15Z",
+    "url": "https://github.com/esolnguyen/agent-loop"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56972,
-    "updated_at": "2026-08-22T05:02:46Z",
+    "stars": 56973,
+    "updated_at": "2026-08-22T05:13:33Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-22T05:09:29Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 893,
+    "updated_at": "2026-08-22T05:09:04Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T05:04:14Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T05:01:56Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T05:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T04:51:30Z",
     "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-22T05:01:17Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T04:08:25Z",
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 888,
-    "updated_at": "2026-08-22T04:05:27Z",
-    "url": "https://github.com/Jwuthri/Tracely"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-22T05:03:53Z",
+    "updated_at": "2026-08-22T05:14:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:48:09Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:48:02Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
