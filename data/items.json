@@ -1,11 +1,38 @@
 [
   {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 1,
+    "updated_at": "2026-08-22T09:10:26Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2679,
+    "updated_at": "2026-08-22T09:05:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "This platform lets user collect LLM response correction feedback, curate datasets generate JSONL and  QLoRA adapters on-",
+    "id": "ShubhanshSharma/HITL-FineTuning-Service",
+    "language": "Python",
+    "name": "ShubhanshSharma/HITL-FineTuning-Service",
+    "stars": 0,
+    "updated_at": "2026-08-22T09:02:36Z",
+    "url": "https://github.com/ShubhanshSharma/HITL-FineTuning-Service"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T09:00:28Z",
+    "updated_at": "2026-08-22T09:02:29Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -18,15 +45,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "This platform lets user collect LLM response correction feedback, curate datasets generate JSONL and  QLoRA adapters on-",
-    "id": "ShubhanshSharma/HITL-FineTuning-Service",
-    "language": "Python",
-    "name": "ShubhanshSharma/HITL-FineTuning-Service",
-    "stars": 0,
-    "updated_at": "2026-08-22T08:53:23Z",
-    "url": "https://github.com/ShubhanshSharma/HITL-FineTuning-Service"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T08:50:51Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2679,
-    "updated_at": "2026-08-22T08:47:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -103,7 +112,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 56980,
+    "stars": 56981,
     "updated_at": "2026-08-22T08:08:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -121,7 +130,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29816,
+    "stars": 29817,
     "updated_at": "2026-08-22T07:45:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -130,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2710,
+    "stars": 2712,
     "updated_at": "2026-08-22T07:39:12Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-22T06:11:07Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-22T04:04:18Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
   }
 ]
