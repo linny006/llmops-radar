@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8361,
+    "updated_at": "2026-08-22T23:57:26Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Adaptive multi-objective LLM routing framework with reliability, evaluation, observability, and reproducible experiments",
+    "id": "DebadattaLiku/ForgeLLM",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:43:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "DebadattaLiku/ForgeLLM",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:53:37Z",
+    "url": "https://github.com/DebadattaLiku/ForgeLLM"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:51:02Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,8 +32,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-22T23:42:31Z",
+    "updated_at": "2026-08-22T23:49:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57024,
+    "updated_at": "2026-08-22T23:51:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "htop for AI agents \u2014 liveness, CPU/RAM/GPU usage, and a kill switch for headless agents (openclaw, hermes, ollama, vllm,",
@@ -27,15 +63,6 @@
     "url": "https://github.com/minglong51/agent-usage-manager"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:41:24Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "The open-source control plane for shared AI agents",
     "id": "openloop-team/openloop",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T23:38:50Z",
     "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "Adaptive multi-objective LLM routing framework with reliability, evaluation, observability, and reproducible experiments",
-    "id": "DebadattaLiku/ForgeLLM",
-    "language": "Python",
-    "name": "DebadattaLiku/ForgeLLM",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:31:25Z",
-    "url": "https://github.com/DebadattaLiku/ForgeLLM"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T23:25:18Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57023,
-    "updated_at": "2026-08-22T23:42:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "acblabs/agent-assure",
     "stars": 0,
-    "updated_at": "2026-08-22T22:47:54Z",
+    "updated_at": "2026-08-22T23:47:21Z",
     "url": "https://github.com/acblabs/agent-assure"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 43,
     "updated_at": "2026-08-22T22:06:40Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8361,
-    "updated_at": "2026-08-22T23:09:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
