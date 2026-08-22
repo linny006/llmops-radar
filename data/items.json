@@ -1,12 +1,84 @@
 [
   {
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-22T03:44:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD, ",
+    "id": "fredritchie/local-ai-assistant-ollama",
+    "language": "HCL",
+    "name": "fredritchie/local-ai-assistant-ollama",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:44:22Z",
+    "url": "https://github.com/fredritchie/local-ai-assistant-ollama"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-22T03:41:14Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:39:31Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56971,
-    "updated_at": "2026-08-22T03:28:40Z",
+    "updated_at": "2026-08-22T03:41:53Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 39,
+    "updated_at": "2026-08-22T03:38:58Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:38:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/modelpin",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:32:13Z",
+    "url": "https://github.com/samarthputhraya/modelpin"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T03:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -18,15 +90,6 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-22T03:24:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -36,21 +99,12 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-22T03:29:56Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8350,
-    "updated_at": "2026-08-22T03:21:33Z",
+    "updated_at": "2026-08-22T03:39:17Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -59,17 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-22T03:23:41Z",
+    "updated_at": "2026-08-22T03:35:40Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T03:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -171,15 +216,6 @@
     "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-22T02:58:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -207,20 +243,11 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-22T02:51:52Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33535,
+    "stars": 33536,
     "updated_at": "2026-08-22T02:49:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-22T03:22:50Z",
+    "updated_at": "2026-08-22T03:44:10Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 29811,
     "updated_at": "2026-08-22T02:08:49Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-08-22T02:03:06Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).",
-    "id": "KusionStack/kusion",
-    "language": "Go",
-    "name": "KusionStack/kusion",
-    "stars": 1316,
-    "updated_at": "2026-08-22T02:05:19Z",
-    "url": "https://github.com/KusionStack/kusion"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-22T01:59:38Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   }
 ]
