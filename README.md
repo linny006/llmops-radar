@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 13:27 UTC
+> ⏰ Last updated: 2026-08-22 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-22 | TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor |
-| 2 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
-| 3 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-08-22 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло. Incident-based rules f |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Your rules your Harness |
-| 5 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-22 | Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-08-22 | Raindrop is the monitoring and observability platform for AI agents — a "Sentry for AI agents" that discovers silent age |
-| 8 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-08-22 | Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train, |
-| 9 | [ZhangInGithub/wired-but-dark](https://github.com/ZhangInGithub/wired-but-dark) | 0 | HTML | 2026-08-22 | Field notes: two failure modes in small-model agent harnesses — stubbed memory reads & regex-parsed tool calls. Live pag |
-| 10 | [lokeshkundi15/enterprise-code-security-agent](https://github.com/lokeshkundi15/enterprise-code-security-agent) | 1 | Python | 2026-08-22 | Autonomous Multi-Agent Code Review & Security Pipeline built with LangGraph, FastMCP, AST Scanners, and Human-in-the-Loo |
-| 11 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-22 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 12 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-22 | Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to  |
-| 13 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-08-22 | Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de |
-| 14 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
-| 15 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-08-22 | Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet |
-| 16 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2681 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
-| 17 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 18 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-22 | The platform for LLM evaluations and AI agent testing |
-| 19 | [Red1-Rahman/NiriZan](https://github.com/Red1-Rahman/NiriZan) | 1 | Jupyter Notebook | 2026-08-22 | Continuous Evaluation Infrastructure for Production AI |
-| 20 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-08-22 | Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua |
-| 21 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 1 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 4 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-22 | TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor |
+| 5 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
+| 6 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-08-22 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло. Incident-based rules f |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Your rules your Harness |
+| 8 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-22 | Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le |
+| 9 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-08-22 | Raindrop is the monitoring and observability platform for AI agents — a "Sentry for AI agents" that discovers silent age |
+| 10 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-08-22 | Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train, |
+| 11 | [ZhangInGithub/wired-but-dark](https://github.com/ZhangInGithub/wired-but-dark) | 0 | HTML | 2026-08-22 | Field notes: two failure modes in small-model agent harnesses — stubbed memory reads & regex-parsed tool calls. Live pag |
+| 12 | [lokeshkundi15/enterprise-code-security-agent](https://github.com/lokeshkundi15/enterprise-code-security-agent) | 1 | Python | 2026-08-22 | Autonomous Multi-Agent Code Review & Security Pipeline built with LangGraph, FastMCP, AST Scanners, and Human-in-the-Loo |
+| 13 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-22 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 14 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-22 | Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to  |
+| 15 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-08-22 | Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de |
+| 16 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
+| 17 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-08-22 | Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet |
+| 18 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2681 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
+| 19 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-22 | The platform for LLM evaluations and AI agent testing |
+| 20 | [Red1-Rahman/NiriZan](https://github.com/Red1-Rahman/NiriZan) | 1 | Jupyter Notebook | 2026-08-22 | Continuous Evaluation Infrastructure for Production AI |
+| 21 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-08-22 | Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua |
 | 22 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-08-22 | Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t |
 | 23 | [umeshkedimi/aic](https://github.com/umeshkedimi/aic) | 1 | Python | 2026-08-22 | Agentic Incident Commander — an autonomous reliability control loop that detects, investigates, and safely remediates pr |
 | 24 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-08-22 | Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube |
