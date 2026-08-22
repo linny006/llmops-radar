@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 18:15 UTC
+> ⏰ Last updated: 2026-08-22 18:22 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2745 | Python | 2026-08-22 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-22 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57012 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 54 | JavaScript | 2026-08-22 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
-| 5 | [Pipeliner/hypothesisctl](https://github.com/Pipeliner/hypothesisctl) | 1 | Python | 2026-08-22 | Fail-closed evidence gates for experiments and AI-agent workflows |
-| 6 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 21 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [jochi2018/Soup](https://github.com/jochi2018/Soup) | 12 | Python | 2026-08-22 | Fine-tune and post-train LLMs with one command—no SSH, no config hell. |
-| 9 | [Satisfiable-polopony613/EVIE-Preview-4.5B](https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B) | 0 | Python | 2026-08-22 | Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine. |
-| 10 | [ashrafb8962/agentic-ops-and-rag](https://github.com/ashrafb8962/agentic-ops-and-rag) | 1 | Jupyter Notebook | 2026-08-22 | Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies. |
-| 11 | [sargentfragrant429/AgentAccessManager](https://github.com/sargentfragrant429/AgentAccessManager) | 0 | — | 2026-08-22 | Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq, |
-| 12 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 13 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 956 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 1 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 956 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2745 | Python | 2026-08-22 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 4 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-22 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57012 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 54 | JavaScript | 2026-08-22 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
+| 7 | [Pipeliner/hypothesisctl](https://github.com/Pipeliner/hypothesisctl) | 1 | Python | 2026-08-22 | Fail-closed evidence gates for experiments and AI-agent workflows |
+| 8 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 21 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
+| 9 | [jochi2018/Soup](https://github.com/jochi2018/Soup) | 12 | Python | 2026-08-22 | Fine-tune and post-train LLMs with one command—no SSH, no config hell. |
+| 10 | [Satisfiable-polopony613/EVIE-Preview-4.5B](https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B) | 0 | Python | 2026-08-22 | Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine. |
+| 11 | [ashrafb8962/agentic-ops-and-rag](https://github.com/ashrafb8962/agentic-ops-and-rag) | 1 | Jupyter Notebook | 2026-08-22 | Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies. |
+| 12 | [sargentfragrant429/AgentAccessManager](https://github.com/sargentfragrant429/AgentAccessManager) | 0 | — | 2026-08-22 | Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq, |
+| 13 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
 | 14 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-08-22 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
 | 15 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-22 | The platform for LLM evaluations and AI agent testing |
 | 16 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-08-22 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
