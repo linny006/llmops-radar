@@ -1,12 +1,66 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2732,
+    "updated_at": "2026-08-22T15:29:04Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-22T15:16:10Z",
+    "updated_at": "2026-08-22T15:26:00Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Field notes: two failure modes in small-model agent harnesses \u2014 stubbed memory reads & regex-parsed tool calls. Live pag",
+    "id": "ZhangInGithub/wired-but-dark",
+    "language": "HTML",
+    "name": "ZhangInGithub/wired-but-dark",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:25:37Z",
+    "url": "https://github.com/ZhangInGithub/wired-but-dark"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57002,
+    "updated_at": "2026-08-22T15:25:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Your rules your Harness",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-22T15:22:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:28:23Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:18:02Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T15:15:25Z",
+    "updated_at": "2026-08-22T15:16:32Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -32,24 +86,15 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 1,
-    "updated_at": "2026-08-22T15:15:59Z",
+    "updated_at": "2026-08-22T15:19:34Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57002,
-    "updated_at": "2026-08-22T15:10:32Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24462,
+    "stars": 24463,
     "updated_at": "2026-08-22T15:06:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-22T15:08:48Z",
+    "updated_at": "2026-08-22T15:25:02Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T14:59:01Z",
     "url": "https://github.com/Raghu23-dev/fusegrid"
-  },
-  {
-    "description": "Your rules your Harness",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-22T14:57:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Field notes: two failure modes in small-model agent harnesses \u2014 stubbed memory reads & regex-parsed tool calls. Live pag",
-    "id": "ZhangInGithub/wired-but-dark",
-    "language": "HTML",
-    "name": "ZhangInGithub/wired-but-dark",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:48:33Z",
-    "url": "https://github.com/ZhangInGithub/wired-but-dark"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-22T15:10:51Z",
+    "updated_at": "2026-08-22T15:28:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,24 +205,6 @@
     "stars": 76,
     "updated_at": "2026-08-22T14:19:46Z",
     "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:18:45Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2730,
-    "updated_at": "2026-08-22T14:10:23Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T10:51:28Z",
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-22T10:49:17Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   }
 ]
