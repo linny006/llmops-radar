@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T06:58:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
     "id": "JoniMartin27/lookspan",
     "language": "TypeScript",
@@ -27,15 +36,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T06:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -43,6 +43,15 @@
     "stars": 2677,
     "updated_at": "2026-08-22T06:41:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1784,
+    "updated_at": "2026-08-22T06:40:18Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56977,
-    "updated_at": "2026-08-22T06:02:49Z",
+    "updated_at": "2026-08-22T06:59:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 7489,
     "updated_at": "2026-08-22T06:11:38Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1779,
-    "updated_at": "2026-08-22T06:40:18Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "An operating model for AI agents: boot from truth, split roles, require evidence, hand off durably. Model-agnostic primi",
