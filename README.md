@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 22:50 UTC
+> ⏰ Last updated: 2026-08-22 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hogeheer499-commits/evidenceflow-ai](https://github.com/hogeheer499-commits/evidenceflow-ai) | 0 | Python | 2026-08-22 | Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails, and evals |
-| 2 | [Pipeliner/hypothesisctl](https://github.com/Pipeliner/hypothesisctl) | 1 | Python | 2026-08-22 | Fail-closed evidence gates for experiments and AI-agent workflows |
-| 3 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-08-22 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Create your Agentic AIs. |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Create your Agentic AIs. |
+| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
+| 3 | [hogeheer499-commits/evidenceflow-ai](https://github.com/hogeheer499-commits/evidenceflow-ai) | 0 | Python | 2026-08-22 | Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails, and evals |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [Pipeliner/hypothesisctl](https://github.com/Pipeliner/hypothesisctl) | 1 | Python | 2026-08-22 | Fail-closed evidence gates for experiments and AI-agent workflows |
+| 6 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-08-22 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
 | 7 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29826 | TypeScript | 2026-08-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 8 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-08-22 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
 | 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-22 | A governed, auditable workflow engine for an agent-driven software factory. |
