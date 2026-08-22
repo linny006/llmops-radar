@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 11:00 UTC
+> ⏰ Last updated: 2026-08-22 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -77,13 +77,13 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [Lukaa1507/langchain-runner](https://github.com/Lukaa1507/langchain-runner) | 1 | Python | 2026-08-22 | 🚀 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers |
 | 34 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2715 | Python | 2026-08-22 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 35 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-08-22 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 36 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2680 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
+| 36 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2681 | C++ | 2026-08-22 | Community maintained hardware plugin for vLLM on Ascend |
 | 37 | [ShubhanshSharma/HITL-FineTuning-Service](https://github.com/ShubhanshSharma/HITL-FineTuning-Service) | 0 | Python | 2026-08-22 | This platform lets user collect LLM response correction feedback, curate datasets generate JSONL and  QLoRA adapters on- |
 | 38 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-22 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 39 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33547 | TypeScript | 2026-08-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 40 | [Gaurav-2510/Doc-Search-platform](https://github.com/Gaurav-2510/Doc-Search-platform) | 0 | Python | 2026-08-22 | Agentic RAG platform for PDF document search - CrewAI multi-agent orchestration, LlamaIndex retrieval over PostgreSQL/PG |
 | 41 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
-| 42 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56983 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 42 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56984 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 43 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29817 | TypeScript | 2026-08-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 44 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 3 | Python | 2026-08-22 | Production harness and control plane for accountable AI-assisted software delivery |
 | 45 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7493 | Go | 2026-08-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
