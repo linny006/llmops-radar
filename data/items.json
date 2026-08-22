@@ -1,21 +1,93 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-22T22:28:52Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-22T22:28:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:26:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
     "id": "babaliauskas/evalshift-cli",
     "language": "Python",
     "name": "babaliauskas/evalshift-cli",
     "stars": 4,
-    "updated_at": "2026-08-22T22:14:40Z",
+    "updated_at": "2026-08-22T22:25:45Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:24:34Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57020,
-    "updated_at": "2026-08-22T22:12:32Z",
+    "stars": 57021,
+    "updated_at": "2026-08-22T22:28:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade Grafana dashboards, Prometheus recording & alerting rules for vLLM, Ray Serve, Kubernetes and NVIDIA GP",
+    "id": "Cenkay1/Ray-LLM-Dashboard-Grafana",
+    "language": "\u2014",
+    "name": "Cenkay1/Ray-LLM-Dashboard-Grafana",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:22:38Z",
+    "url": "https://github.com/Cenkay1/Ray-LLM-Dashboard-Grafana"
+  },
+  {
+    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
+    "id": "babaliauskas/evalshift-sdk",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:22:30Z",
+    "url": "https://github.com/babaliauskas/evalshift-sdk"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:19:05Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T22:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -34,33 +106,6 @@
     "stars": 8361,
     "updated_at": "2026-08-22T22:08:17Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-22T22:04:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T22:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
-    "id": "babaliauskas/evalshift-sdk",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:50:39Z",
-    "url": "https://github.com/babaliauskas/evalshift-sdk"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -88,24 +133,6 @@
     "stars": 27619,
     "updated_at": "2026-08-22T21:29:09Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-22T21:26:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-22T21:19:20Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -142,15 +169,6 @@
     "stars": 22,
     "updated_at": "2026-08-22T20:52:23Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T20:48:43Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -232,15 +250,6 @@
     "stars": 2756,
     "updated_at": "2026-08-22T19:14:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-22T22:11:37Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T17:38:56Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:38:53Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
   }
 ]
