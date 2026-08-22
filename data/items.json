@@ -1,5 +1,59 @@
 [
   {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely",
+    "language": "Python",
+    "name": "Jwuthri/Tracely",
+    "stars": 840,
+    "updated_at": "2026-08-22T00:14:02Z",
+    "url": "https://github.com/Jwuthri/Tracely"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56962,
+    "updated_at": "2026-08-22T00:13:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
+    "id": "jlcases/llm-engineering-program",
+    "language": "Python",
+    "name": "jlcases/llm-engineering-program",
+    "stars": 0,
+    "updated_at": "2026-08-22T00:12:21Z",
+    "url": "https://github.com/jlcases/llm-engineering-program"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-08-22T00:08:34Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-22T00:04:27Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T00:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "You have thousands of agent traces and no evals. Mines production traces for tool-call invariants, proposes them as pyte",
     "id": "a-bhimava/agent-trace-to-evals",
     "language": "Python",
@@ -18,21 +72,12 @@
     "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
   },
   {
-    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:57:37Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11140,
-    "updated_at": "2026-08-21T23:58:47Z",
+    "updated_at": "2026-08-22T00:11:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:51:00Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:47:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -126,15 +162,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56959,
-    "updated_at": "2026-08-21T23:54:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8350,
-    "updated_at": "2026-08-21T23:49:00Z",
+    "updated_at": "2026-08-22T00:02:35Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29810,
-    "updated_at": "2026-08-21T23:46:51Z",
+    "updated_at": "2026-08-22T00:07:13Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -230,7 +257,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-21T23:39:12Z",
+    "updated_at": "2026-08-22T00:08:59Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27610,
-    "updated_at": "2026-08-21T21:42:25Z",
+    "updated_at": "2026-08-22T00:03:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 3265,
     "updated_at": "2026-08-21T21:40:31Z",
     "url": "https://github.com/pezzolabs/pezzo"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely",
-    "language": "Python",
-    "name": "Jwuthri/Tracely",
-    "stars": 840,
-    "updated_at": "2026-08-21T21:37:31Z",
-    "url": "https://github.com/Jwuthri/Tracely"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T20:44:05Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-21T20:34:22Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:33:46Z",
-    "url": "https://github.com/api-evangelist/zenml"
   }
 ]
