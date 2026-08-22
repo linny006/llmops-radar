@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "BerriAI/litellm",
+    "stars": 57010,
+    "updated_at": "2026-08-22T17:13:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2739,
+    "updated_at": "2026-08-22T17:12:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
     "stars": 3,
-    "updated_at": "2026-08-22T16:59:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-08-22T17:12:19Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-22T16:57:53Z",
+    "updated_at": "2026-08-22T17:09:46Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:10:02Z",
+    "url": "https://github.com/TheusHen/eleanity"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-22T17:06:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T17:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -27,15 +72,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-22T16:33:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T16:29:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57009,
-    "updated_at": "2026-08-22T16:55:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2738,
-    "updated_at": "2026-08-22T16:25:08Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -76,7 +94,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33558,
+    "stars": 33559,
     "updated_at": "2026-08-22T16:22:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -167,7 +185,7 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 1,
-    "updated_at": "2026-08-22T15:48:15Z",
+    "updated_at": "2026-08-22T17:04:40Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T13:07:09Z",
     "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:03:52Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-22T12:57:20Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
