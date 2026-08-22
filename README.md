@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 05:30 UTC
+> ⏰ Last updated: 2026-08-22 05:40 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,55 +43,55 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-22 | Your rules your Harness |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7489 | Go | 2026-08-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 3 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 4 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56973 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [vojtechroyce/royceos](https://github.com/vojtechroyce/royceos) | 2 | HTML | 2026-08-22 | An operating model for AI agents: boot from truth, split roles, require evidence, hand off durably. Model-agnostic primi |
-| 7 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
-| 8 | [aroraneel/AI-Engineer](https://github.com/aroraneel/AI-Engineer) | 2 | Jupyter Notebook | 2026-08-22 | 165-day journey from Python & statistics fundamentals to production-grade AI/ML systems — SQL, classical ML, deep learni |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [esolnguyen/agent-loop](https://github.com/esolnguyen/agent-loop) | 0 | Python | 2026-08-22 | Agentic coding loop with DeepSeek V4 on Microsoft Foundry, executing model-generated code inside per-session AWS Lambda  |
-| 11 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 12 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 898 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
-| 13 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-22 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
-| 14 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-22 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 15 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-08-22 | Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo |
-| 16 | [fredritchie/local-ai-assistant-ollama](https://github.com/fredritchie/local-ai-assistant-ollama) | 0 | HCL | 2026-08-22 | Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD,  |
-| 17 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8353 | Rust | 2026-08-22 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 18 | [yzhao062/auditable](https://github.com/yzhao062/auditable) | 21 | Python | 2026-08-22 | Audit any agent decision across its past, present, and future, on one typed graph. |
-| 19 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-22 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 20 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | Python | 2026-08-22 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
-| 21 | [forevercrab321-svg/leevar-battery](https://github.com/forevercrab321-svg/leevar-battery) | 0 | JavaScript | 2026-08-22 | An 18-test, 6-dimension reliability battery for AI agents. Honest A-F, and any dimension the evidence cannot support com |
-| 22 | [msanket9/stillsane](https://github.com/msanket9/stillsane) | 0 | Python | 2026-08-22 | Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output |
-| 23 | [Prime-agentai/agent-approval-gate](https://github.com/Prime-agentai/agent-approval-gate) | 2 | Python | 2026-08-22 | The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem |
-| 24 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 54 | JavaScript | 2026-08-22 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
-| 25 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-22 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 26 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-08-22 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
-| 27 | [solomon2773/nora](https://github.com/solomon2773/nora) | 39 | TypeScript | 2026-08-22 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
-| 28 | [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) | 49 | TypeScript | 2026-08-22 | Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi |
-| 29 | [mjsushanth/mjsushanth.github.io](https://github.com/mjsushanth/mjsushanth.github.io) | 0 | HTML | 2026-08-22 | Repo for portfolio, containing working redirects to all projects. |
-| 30 | [haomingkoo/haomingkoo](https://github.com/haomingkoo/haomingkoo) | 0 | — | 2026-08-22 | Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A |
-| 31 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-22 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
-| 32 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-22 | Open-source LLM observability and drift detection for AI apps |
-| 33 | [api7/aisix](https://github.com/api7/aisix) | 115 | Rust | 2026-08-22 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 34 | [anguoyang/inferdoctor](https://github.com/anguoyang/inferdoctor) | 3 | Python | 2026-08-22 | Find where AI apps break first — and block regressions before they ship. |
-| 35 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-22 | The platform for LLM evaluations and AI agent testing |
-| 36 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-22 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 37 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 89 | HTML | 2026-08-22 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
-| 38 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-08-22 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
-| 39 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-08-22 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
-| 40 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-08-22 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
-| 41 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 0 | Python | 2026-08-22 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
-| 42 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-08-22 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 43 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-08-22 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 44 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
-| 45 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-08-22 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 46 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 21 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
-| 47 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-08-22 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
-| 48 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-08-22 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 49 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33537 | TypeScript | 2026-08-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 50 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-08-22 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 2 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 2 | Python | 2026-08-22 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 56974 | Python | 2026-08-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7489 | Go | 2026-08-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 8 | [vojtechroyce/royceos](https://github.com/vojtechroyce/royceos) | 2 | HTML | 2026-08-22 | An operating model for AI agents: boot from truth, split roles, require evidence, hand off durably. Model-agnostic primi |
+| 9 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-22 | ThakiCloud Tech Blog |
+| 10 | [aroraneel/AI-Engineer](https://github.com/aroraneel/AI-Engineer) | 2 | Jupyter Notebook | 2026-08-22 | 165-day journey from Python & statistics fundamentals to production-grade AI/ML systems — SQL, classical ML, deep learni |
+| 11 | [esolnguyen/agent-loop](https://github.com/esolnguyen/agent-loop) | 0 | Python | 2026-08-22 | Agentic coding loop with DeepSeek V4 on Microsoft Foundry, executing model-generated code inside per-session AWS Lambda  |
+| 12 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-22 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 13 | [Jwuthri/Tracely](https://github.com/Jwuthri/Tracely) | 904 | Python | 2026-08-22 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 14 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-22 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
+| 15 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-22 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 16 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-08-22 | Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo |
+| 17 | [fredritchie/local-ai-assistant-ollama](https://github.com/fredritchie/local-ai-assistant-ollama) | 0 | HCL | 2026-08-22 | Production-oriented local LLM platform on AWS with GPU inference, Terraform, Ansible, Packer, Auto Scaling, RDS, CI/CD,  |
+| 18 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8353 | Rust | 2026-08-22 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 19 | [yzhao062/auditable](https://github.com/yzhao062/auditable) | 21 | Python | 2026-08-22 | Audit any agent decision across its past, present, and future, on one typed graph. |
+| 20 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-22 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 21 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | Python | 2026-08-22 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
+| 22 | [forevercrab321-svg/leevar-battery](https://github.com/forevercrab321-svg/leevar-battery) | 0 | JavaScript | 2026-08-22 | An 18-test, 6-dimension reliability battery for AI agents. Honest A-F, and any dimension the evidence cannot support com |
+| 23 | [msanket9/stillsane](https://github.com/msanket9/stillsane) | 0 | Python | 2026-08-22 | Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output |
+| 24 | [Prime-agentai/agent-approval-gate](https://github.com/Prime-agentai/agent-approval-gate) | 2 | Python | 2026-08-22 | The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem |
+| 25 | [avikalpg/byok-relay](https://github.com/avikalpg/byok-relay) | 54 | JavaScript | 2026-08-22 | Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h |
+| 26 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-22 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 27 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-08-22 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
+| 28 | [solomon2773/nora](https://github.com/solomon2773/nora) | 39 | TypeScript | 2026-08-22 | Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP |
+| 29 | [sxueck/llm-gateway](https://github.com/sxueck/llm-gateway) | 49 | TypeScript | 2026-08-22 | Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi |
+| 30 | [mjsushanth/mjsushanth.github.io](https://github.com/mjsushanth/mjsushanth.github.io) | 0 | HTML | 2026-08-22 | Repo for portfolio, containing working redirects to all projects. |
+| 31 | [haomingkoo/haomingkoo](https://github.com/haomingkoo/haomingkoo) | 0 | — | 2026-08-22 | Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A |
+| 32 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-22 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
+| 33 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-22 | Open-source LLM observability and drift detection for AI apps |
+| 34 | [api7/aisix](https://github.com/api7/aisix) | 115 | Rust | 2026-08-22 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 35 | [anguoyang/inferdoctor](https://github.com/anguoyang/inferdoctor) | 3 | Python | 2026-08-22 | Find where AI apps break first — and block regressions before they ship. |
+| 36 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-22 | The platform for LLM evaluations and AI agent testing |
+| 37 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-22 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 38 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 89 | HTML | 2026-08-22 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
+| 39 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-08-22 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
+| 40 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-08-22 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
+| 41 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-08-22 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
+| 42 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 0 | Python | 2026-08-22 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
+| 43 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-08-22 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
+| 44 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-08-22 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 45 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-22 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
+| 46 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-08-22 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
+| 47 | [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) | 21 | Rust | 2026-08-22 | The open-source safety layer for AI agents — block unsafe tool calls, require approval, enforce budgets, audit, replay. |
+| 48 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-08-22 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
+| 49 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-08-22 | Scan AI-generated code for security, performance, and code quality issues before they ship |
+| 50 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33537 | TypeScript | 2026-08-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 <!-- TRACKER_TABLE_END -->
 
 ---
