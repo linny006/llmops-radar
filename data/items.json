@@ -1,5 +1,77 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 56964,
+    "updated_at": "2026-08-22T00:56:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 49,
+    "updated_at": "2026-08-22T01:00:03Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-22T00:58:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Deploy the LiteLLM Proxy (AI gateway) on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API key",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 1,
+    "updated_at": "2026-08-22T00:52:08Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11140,
+    "updated_at": "2026-08-22T00:53:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-22T00:48:29Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T00:45:30Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T00:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -25,42 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T00:36:13Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Deploy the LiteLLM Proxy (AI gateway) on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API key",
-    "id": "AlisterBaroi/litellm-kind-deployment",
-    "language": "Shell",
-    "name": "AlisterBaroi/litellm-kind-deployment",
-    "stars": 1,
-    "updated_at": "2026-08-22T00:42:55Z",
-    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 49,
-    "updated_at": "2026-08-22T00:41:22Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 56963,
-    "updated_at": "2026-08-22T00:44:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T00:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
@@ -117,15 +153,6 @@
     "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11140,
-    "updated_at": "2026-08-22T00:37:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
     "id": "billbz99/finguard-orchestrator",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-08-21T23:46:43Z",
+    "updated_at": "2026-08-22T00:51:05Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -149,17 +176,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-22T00:44:50Z",
+    "updated_at": "2026-08-22T00:53:50Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:40:21Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "htop for AI agents \u2014 liveness, CPU/RAM/GPU usage, and a kill switch for headless agents (openclaw, hermes, ollama, vllm,",
@@ -194,7 +212,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T23:28:44Z",
+    "updated_at": "2026-08-22T01:00:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -266,7 +284,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-22T00:08:59Z",
+    "updated_at": "2026-08-22T00:53:22Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 2522,
     "updated_at": "2026-08-21T22:16:25Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-22T00:30:52Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "redevops-io/redevops-rag",
     "stars": 8,
-    "updated_at": "2026-08-21T21:11:57Z",
+    "updated_at": "2026-08-22T00:51:03Z",
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1778,
     "updated_at": "2026-08-21T23:26:24Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 207,
-    "updated_at": "2026-08-21T20:47:36Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   }
 ]
