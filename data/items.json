@@ -1,39 +1,66 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T15:59:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2733,
-    "updated_at": "2026-08-22T15:56:57Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:15:17Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57006,
-    "updated_at": "2026-08-22T15:59:04Z",
+    "stars": 57008,
+    "updated_at": "2026-08-22T16:12:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "sno-ai/llmix",
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
     "language": "Python",
-    "name": "sno-ai/llmix",
-    "stars": 131,
-    "updated_at": "2026-08-22T15:53:50Z",
-    "url": "https://github.com/sno-ai/llmix"
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-08-22T16:06:04Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-22T16:05:42Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-22T16:04:13Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 2,
+    "updated_at": "2026-08-22T16:01:43Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T16:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Your rules your Harness",
@@ -45,6 +72,24 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2733,
+    "updated_at": "2026-08-22T15:56:57Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "sno-ai/llmix",
+    "language": "Python",
+    "name": "sno-ai/llmix",
+    "stars": 131,
+    "updated_at": "2026-08-22T15:53:50Z",
+    "url": "https://github.com/sno-ai/llmix"
+  },
+  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -52,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-22T15:48:15Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33556,
+    "updated_at": "2026-08-22T15:47:24Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-22T15:35:32Z",
+    "updated_at": "2026-08-22T16:09:36Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 22,
     "updated_at": "2026-08-22T15:49:03Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33554,
-    "updated_at": "2026-08-22T15:47:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:31:42Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
-    "id": "umeshkedimi/aic",
-    "language": "Python",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-08-22T12:28:35Z",
-    "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:26:59Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:21:02Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:10:38Z",
-    "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 2,
-    "updated_at": "2026-08-22T12:09:52Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
   }
 ]
