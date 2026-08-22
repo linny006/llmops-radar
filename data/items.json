@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-22T19:20:22Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+    "description": "htop for AI agents \u2014 liveness, CPU/RAM/GPU usage, and a kill switch for headless agents (openclaw, hermes, ollama, vllm,",
+    "id": "minglong51/agent-usage-manager",
+    "language": "Python",
+    "name": "minglong51/agent-usage-manager",
+    "stars": 2,
+    "updated_at": "2026-08-22T19:29:06Z",
+    "url": "https://github.com/minglong51/agent-usage-manager"
+  },
+  {
+    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
+    "id": "jamjet-labs/jamjet",
+    "language": "Rust",
+    "name": "jamjet-labs/jamjet",
+    "stars": 21,
+    "updated_at": "2026-08-22T19:28:58Z",
+    "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,8 +23,26 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-22T19:19:26Z",
+    "updated_at": "2026-08-22T19:25:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T19:22:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-22T19:20:22Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -43,15 +70,6 @@
     "stars": 31,
     "updated_at": "2026-08-22T19:16:24Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T19:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57014,
-    "updated_at": "2026-08-22T19:18:14Z",
+    "updated_at": "2026-08-22T19:29:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T18:41:26Z",
     "url": "https://github.com/Pipeliner/hypothesisctl"
-  },
-  {
-    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
-    "id": "jamjet-labs/jamjet",
-    "language": "Rust",
-    "name": "jamjet-labs/jamjet",
-    "stars": 21,
-    "updated_at": "2026-08-22T19:20:39Z",
-    "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-22T16:18:38Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:15:17Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   }
 ]
