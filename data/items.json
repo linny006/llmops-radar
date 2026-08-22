@@ -1,5 +1,59 @@
 [
   {
+    "description": "You have thousands of agent traces and no evals. Mines production traces for tool-call invariants, proposes them as pyte",
+    "id": "a-bhimava/agent-trace-to-evals",
+    "language": "Python",
+    "name": "a-bhimava/agent-trace-to-evals",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:54:00Z",
+    "url": "https://github.com/a-bhimava/agent-trace-to-evals"
+  },
+  {
+    "description": "Your agent still thinks they work at Acme, and nothing in memory contradicts it. Scores agent memories for silent stalen",
+    "id": "a-bhimava/agent-memory-staleness-audit",
+    "language": "Python",
+    "name": "a-bhimava/agent-memory-staleness-audit",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:53:58Z",
+    "url": "https://github.com/a-bhimava/agent-memory-staleness-audit"
+  },
+  {
+    "description": "Deploy the LiteLLM AI Gateway on a local Kubernetes (kind) cluster. One command, no cloud account or LLM API keys needed",
+    "id": "AlisterBaroi/litellm-kind-deployment",
+    "language": "Shell",
+    "name": "AlisterBaroi/litellm-kind-deployment",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:57:37Z",
+    "url": "https://github.com/AlisterBaroi/litellm-kind-deployment"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11140,
+    "updated_at": "2026-08-21T23:58:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:51:00Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:47:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-21T23:46:25Z",
+    "updated_at": "2026-08-21T23:58:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T23:46:18Z",
+    "updated_at": "2026-08-21T23:51:33Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T23:46:15Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 56959,
-    "updated_at": "2026-08-21T23:34:11Z",
+    "updated_at": "2026-08-21T23:54:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
-    "id": "billbz99/finguard-orchestrator",
-    "language": "Python",
-    "name": "billbz99/finguard-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:28:14Z",
-    "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
     "description": "Hands-on AWS data lake and pipeline workshops for engineering teams. Glue, Redshift, Lake Formation, Databricks, LLMOps.",
     "id": "becloudready/workshops",
     "language": "HTML",
@@ -115,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-08-21T23:25:14Z",
     "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11140,
-    "updated_at": "2026-08-21T23:35:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -139,7 +166,7 @@
     "id": "VibePod/vibepod-cli",
     "language": "Python",
     "name": "VibePod/vibepod-cli",
-    "stars": 135,
+    "stars": 134,
     "updated_at": "2026-08-21T23:08:57Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8350,
-    "updated_at": "2026-08-21T23:37:43Z",
+    "updated_at": "2026-08-21T23:49:00Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 49,
-    "updated_at": "2026-08-21T22:53:34Z",
+    "updated_at": "2026-08-21T23:49:55Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -193,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7486,
+    "stars": 7487,
     "updated_at": "2026-08-21T22:26:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -239,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-21T23:20:50Z",
+    "updated_at": "2026-08-21T23:58:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -337,7 +364,7 @@
     "id": "Jwuthri/Tracely",
     "language": "Python",
     "name": "Jwuthri/Tracely",
-    "stars": 838,
+    "stars": 840,
     "updated_at": "2026-08-21T21:37:31Z",
     "url": "https://github.com/Jwuthri/Tracely"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:33:46Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:19:26Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21525,
-    "updated_at": "2026-08-21T20:18:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
-    "id": "redevops-io/agent-harness",
-    "language": "Python",
-    "name": "redevops-io/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:16:39Z",
-    "url": "https://github.com/redevops-io/agent-harness"
   }
 ]
