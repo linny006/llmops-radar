@@ -1,12 +1,57 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:27:59Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 89,
+    "updated_at": "2026-08-23T03:25:24Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:25:08Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:23:19Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-23T03:13:16Z",
+    "updated_at": "2026-08-23T03:21:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:20:28Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -14,15 +59,24 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-23T03:09:50Z",
+    "updated_at": "2026-08-23T03:18:41Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T03:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24471,
+    "stars": 24472,
     "updated_at": "2026-08-23T03:11:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -49,18 +103,9 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 970,
+    "stars": 971,
     "updated_at": "2026-08-23T03:04:10Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -117,15 +162,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:48:27Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "Provenance-tracking firewall that stops LLM agent prompt injection (OWASP LLM01) via token-level taint analysis \u2014 a zero",
     "id": "Krishita17/TokenTaint",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-23T02:34:02Z",
+    "updated_at": "2026-08-23T03:20:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57028,
-    "updated_at": "2026-08-23T03:14:20Z",
+    "updated_at": "2026-08-23T03:20:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T02:07:36Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:01:53Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T00:17:49Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:09:15Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "OpenAI/Anthropic-compatible API server that impersonates a locally hosted LLM and serves every request by driving the Cl",
-    "id": "amitshaikoren/claude-socket",
-    "language": "TypeScript",
-    "name": "amitshaikoren/claude-socket",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:08:09Z",
-    "url": "https://github.com/amitshaikoren/claude-socket"
-  },
-  {
-    "description": "Reliability layer for LLM agents \u2014 judge-scored output, automatic rollback to last known-good prompt, Neo4j failure-clus",
-    "id": "BS2611/Watchtower",
-    "language": "Python",
-    "name": "BS2611/Watchtower",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:07:25Z",
-    "url": "https://github.com/BS2611/Watchtower"
   }
 ]
