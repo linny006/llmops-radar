@@ -1,12 +1,66 @@
 [
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
+    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
+    "id": "Fortitude-Group/OmnisBench",
+    "language": "Python",
+    "name": "Fortitude-Group/OmnisBench",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:59:10Z",
+    "url": "https://github.com/Fortitude-Group/OmnisBench"
+  },
+  {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:58:52Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29850,
-    "updated_at": "2026-08-23T22:47:11Z",
-    "url": "https://github.com/ComposioHQ/composio"
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-23T23:00:15Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:57:28Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "End-to-end AI platform capstone combining RAG retrieval, model routing and fallback, feature flags, response evaluation,",
+    "id": "gabryellewalker/ai-platform-capstone",
+    "language": "Python",
+    "name": "gabryellewalker/ai-platform-capstone",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:55:40Z",
+    "url": "https://github.com/gabryellewalker/ai-platform-capstone"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:52:52Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 48,
+    "updated_at": "2026-08-23T22:49:59Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T22:45:22Z",
+    "updated_at": "2026-08-23T22:49:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29850,
+    "updated_at": "2026-08-23T22:55:40Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -45,15 +108,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-23T22:37:21Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
     "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
     "id": "xjy0526/PortfolioPilot",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T22:36:34Z",
     "url": "https://github.com/xjy0526/PortfolioPilot"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 48,
-    "updated_at": "2026-08-23T22:41:52Z",
-    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
-    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
-    "id": "Fortitude-Group/OmnisBench",
-    "language": "Python",
-    "name": "Fortitude-Group/OmnisBench",
-    "stars": 0,
-    "updated_at": "2026-08-23T22:25:00Z",
-    "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
     "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
     "id": "peopleforrester/packt-agentic-devops",
     "language": "Shell",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:22:01Z",
     "url": "https://github.com/gabryellewalker/ai-observability-request-tracing-toolkit"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:21:39Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-demo",
     "stars": 3,
-    "updated_at": "2026-08-23T22:10:42Z",
+    "updated_at": "2026-08-23T22:49:34Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 43,
     "updated_at": "2026-08-23T22:04:38Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T22:44:00Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -391,7 +409,7 @@
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
     "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 29,
+    "stars": 30,
     "updated_at": "2026-08-23T20:23:19Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:51:19Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-23T19:47:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:27:58Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   }
 ]
