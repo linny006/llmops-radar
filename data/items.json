@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-23T04:13:16Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 2,
+    "updated_at": "2026-08-23T04:12:06Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-23T04:04:36Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
     "stars": 1,
-    "updated_at": "2026-08-23T03:56:13Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+    "updated_at": "2026-08-23T04:03:23Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -14,8 +41,26 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-23T03:55:23Z",
+    "updated_at": "2026-08-23T04:00:53Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T04:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:56:13Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -45,6 +90,15 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57031,
+    "updated_at": "2026-08-23T03:50:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -72,15 +126,6 @@
     "url": "https://github.com/yuezhimin03/finops-agent-fabric"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:46:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 89,
     "updated_at": "2026-08-23T03:25:24Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57029,
-    "updated_at": "2026-08-23T03:50:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-23T03:20:08Z",
+    "updated_at": "2026-08-23T04:03:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -333,6 +369,15 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8362,
+    "updated_at": "2026-08-23T00:40:08Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:32:29Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:30:46Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:30:18Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-23T00:24:37Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:23:12Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:22:32Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
