@@ -1,12 +1,39 @@
 [
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-23T12:43:58Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+    "description": "A fuse for LLM spend. Four conventional enforcement patterns fail open at 95-100% over ceiling; this holds all four.",
+    "id": "Raghu23-dev/fusegrid",
+    "language": "Python",
+    "name": "Raghu23-dev/fusegrid",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:52:55Z",
+    "url": "https://github.com/Raghu23-dev/fusegrid"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-23T12:49:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T12:49:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:52:48Z",
+    "url": "https://github.com/thangldw/ragops"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-08-23T12:45:01Z",
+    "updated_at": "2026-08-23T12:47:54Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-23T12:47:35Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T12:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-23T12:43:58Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -27,29 +81,11 @@
     "url": "https://github.com/runcycles/cycles-server-events"
   },
   {
-    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
-    "id": "thangldw/ragops",
-    "language": "Python",
-    "name": "thangldw/ragops",
-    "stars": 0,
-    "updated_at": "2026-08-23T12:44:30Z",
-    "url": "https://github.com/thangldw/ragops"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-23T12:37:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2790,
+    "stars": 2791,
     "updated_at": "2026-08-23T12:37:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -61,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T12:35:24Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T12:31:48Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T12:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T12:43:39Z",
+    "updated_at": "2026-08-23T12:54:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -229,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57059,
+    "stars": 57060,
     "updated_at": "2026-08-23T10:12:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -423,15 +441,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-23T07:25:10Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T07:24:50Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:22:45Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
