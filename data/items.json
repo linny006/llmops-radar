@@ -1,12 +1,111 @@
 [
   {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:59:21Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-08-23T06:56:42Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-23T06:56:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-23T06:56:29Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "A hands-on LLMOps learning and implementation series covering the end-to-end lifecycle of Large Language Model applicati",
+    "id": "shailendraya/LLMOps",
+    "language": "Jupyter Notebook",
+    "name": "shailendraya/LLMOps",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:58:53Z",
+    "url": "https://github.com/shailendraya/LLMOps"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:58:45Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-08-23T06:52:00Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 242,
-    "updated_at": "2026-08-23T06:45:07Z",
+    "updated_at": "2026-08-23T06:51:49Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-23T06:50:06Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:49:09Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:48:56Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T06:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -18,6 +117,15 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57035,
+    "updated_at": "2026-08-23T06:38:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
     "id": "samarthputhraya/modelpin",
     "language": "Python",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T06:39:08Z",
     "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-08-23T06:37:21Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -63,15 +162,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T06:33:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -90,21 +180,12 @@
     "url": "https://github.com/wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T06:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T06:35:17Z",
+    "updated_at": "2026-08-23T06:59:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "A hands-on LLMOps learning and implementation series covering the end-to-end lifecycle of Large Language Model applicati",
-    "id": "shailendraya/LLMOps",
-    "language": "Jupyter Notebook",
-    "name": "shailendraya/LLMOps",
-    "stars": 0,
-    "updated_at": "2026-08-23T06:18:56Z",
-    "url": "https://github.com/shailendraya/LLMOps"
-  },
-  {
     "description": "Autonomous Multi-Agent Code Review & Security Pipeline built with LangGraph, FastMCP, AST Scanners, and Human-in-the-Loo",
     "id": "lokeshkundi15/enterprise-code-security-agent",
     "language": "Python",
@@ -171,24 +243,6 @@
     "url": "https://github.com/lokeshkundi15/enterprise-knowledge-rag"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57033,
-    "updated_at": "2026-08-23T06:38:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:53:53Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
@@ -214,15 +268,6 @@
     "stars": 7509,
     "updated_at": "2026-08-23T05:25:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-23T05:19:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -373,7 +418,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24472,
+    "stars": 24473,
     "updated_at": "2026-08-23T03:11:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -391,7 +436,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 980,
+    "stars": 981,
     "updated_at": "2026-08-23T03:04:10Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -403,50 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-23T02:58:13Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33566,
-    "updated_at": "2026-08-23T02:55:22Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:53:51Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:51:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Provenance-tracking firewall that stops LLM agent prompt injection (OWASP LLM01) via token-level taint analysis \u2014 a zero",
-    "id": "Krishita17/TokenTaint",
-    "language": "Python",
-    "name": "Krishita17/TokenTaint",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:35:31Z",
-    "url": "https://github.com/Krishita17/TokenTaint"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-23T02:32:22Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   }
 ]
