@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 17:15 UTC
+> ⏰ Last updated: 2026-08-23 17:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [christiancaviedes/agentic-program-ops](https://github.com/christiancaviedes/agentic-program-ops) | 0 | Python | 2026-08-23 | Runnable program-ops compiler: PRD/Jira input to roadmap, dependency graph, RAID log, executive brief, metrics, and huma |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-23 | Create your Agentic AIs. |
-| 3 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-23 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [christiancaviedes/agentic-program-ops](https://github.com/christiancaviedes/agentic-program-ops) | 0 | Python | 2026-08-23 | Runnable program-ops compiler: PRD/Jira input to roadmap, dependency graph, RAID log, executive brief, metrics, and huma |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-23 | Create your Agentic AIs. |
+| 4 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-23 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
 | 5 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 1 | Python | 2026-08-23 | Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O |
 | 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-23 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 7 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-23 | The platform for LLM evaluations and AI agent testing |
@@ -69,9 +69,9 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21551 | Python | 2026-08-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 26 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7521 | Go | 2026-08-23 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 27 | [babaliauskas/evalshift-action](https://github.com/babaliauskas/evalshift-action) | 0 | Python | 2026-08-23 | GitHub Action for LLM migration and regression testing — runs your golden suite on every PR and fails the check on model |
-| 28 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2814 | Python | 2026-08-23 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 28 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2815 | Python | 2026-08-23 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 29 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-23 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 30 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33578 | TypeScript | 2026-08-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 30 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33577 | TypeScript | 2026-08-23 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 31 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-23 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
 | 32 | [zendev-sh/zenflow](https://github.com/zendev-sh/zenflow) | 47 | Go | 2026-08-23 | Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r |
 | 33 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-08-23 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
