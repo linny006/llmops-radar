@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 17:58 UTC
+> ⏰ Last updated: 2026-08-23 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-23 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 2 | [idevelopAI/llm-eval-control-plane](https://github.com/idevelopAI/llm-eval-control-plane) | 2 | Python | 2026-08-23 | Evaluation control plane with deterministic release gates for production LLM applications. |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-23 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 3 | [idevelopAI/llm-eval-control-plane](https://github.com/idevelopAI/llm-eval-control-plane) | 2 | Python | 2026-08-23 | Evaluation control plane with deterministic release gates for production LLM applications. |
 | 4 | [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) | 1037 | Python | 2026-08-23 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
 | 5 | [kreftamarcio/prompt-forge](https://github.com/kreftamarcio/prompt-forge) | 0 | TypeScript | 2026-08-23 | A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for |
 | 6 | [alinafe82/persistent-cognitive-infrastructure](https://github.com/alinafe82/persistent-cognitive-infrastructure) | 1 | Python | 2026-08-23 | Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr |
