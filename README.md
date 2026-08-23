@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lokeshkundi15/enterprise-knowledge-rag](https://github.com/lokeshkundi15/enterprise-knowledge-rag) | 1 | Python | 2026-08-23 | Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-23 | Create your Agentic AIs. |
-| 3 | [Fortitude-Group/OmnisBench](https://github.com/Fortitude-Group/OmnisBench) | 0 | Python | 2026-08-23 | Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [lokeshkundi15/enterprise-knowledge-rag](https://github.com/lokeshkundi15/enterprise-knowledge-rag) | 1 | Python | 2026-08-23 | Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-23 | Create your Agentic AIs. |
+| 4 | [Fortitude-Group/OmnisBench](https://github.com/Fortitude-Group/OmnisBench) | 0 | Python | 2026-08-23 | Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo |
 | 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21547 | Python | 2026-08-23 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 6 | [andrelair-platform/aisystemmaster](https://github.com/andrelair-platform/aisystemmaster) | 0 | TypeScript | 2026-08-23 | AI Systems Engineer Playbook — career roadmap, discipline references, and 3 flagship project specs for regulated-industr |
 | 7 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-08-23 | Generative AI proxy, with cost ledger and crash safety baked in. |
