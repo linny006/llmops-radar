@@ -1,21 +1,21 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:16:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:28:25Z",
+    "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T23:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8373,
+    "updated_at": "2026-08-23T23:27:56Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 0,
-    "updated_at": "2026-08-23T23:14:40Z",
+    "updated_at": "2026-08-23T23:26:31Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1042,
+    "updated_at": "2026-08-23T23:26:20Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:25:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 48,
+    "updated_at": "2026-08-23T23:24:59Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -32,8 +59,35 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-23T23:15:55Z",
+    "updated_at": "2026-08-23T23:28:55Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:18:43Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T23:16:46Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-23T23:16:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "A token-spend profiler and cost-regression gate for AI agents.",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T23:13:56Z",
+    "updated_at": "2026-08-23T23:28:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:55:40Z",
     "url": "https://github.com/gabryellewalker/ai-platform-capstone"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 48,
-    "updated_at": "2026-08-23T23:08:39Z",
-    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -135,15 +180,6 @@
     "url": "https://github.com/xjy0526/PortfolioPilot"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-23T23:16:42Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
     "id": "babaliauskas/evalshift-action",
     "language": "Python",
@@ -169,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:22:01Z",
     "url": "https://github.com/gabryellewalker/ai-observability-request-tracing-toolkit"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8373,
-    "updated_at": "2026-08-23T23:12:38Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:18:56Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
@@ -430,23 +448,5 @@
     "stars": 21556,
     "updated_at": "2026-08-23T20:04:55Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Cost governance for LLM spend, before it happens - no more surprise bills. AiFinOps validates, tracks, and logs every ca",
-    "id": "ankurngm/AiFinOps",
-    "language": "TypeScript",
-    "name": "ankurngm/AiFinOps",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:03:18Z",
-    "url": "https://github.com/ankurngm/AiFinOps"
-  },
-  {
-    "description": "",
-    "id": "the-ai-merge/.github",
-    "language": "\u2014",
-    "name": "the-ai-merge/.github",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:52:40Z",
-    "url": "https://github.com/the-ai-merge/.github"
   }
 ]
