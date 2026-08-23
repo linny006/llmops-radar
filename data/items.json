@@ -1,5 +1,77 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-23T15:45:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Multi-provider agentic workflow framework: agents backed by Claude, GPT, MiniMax, Kimi, DeepSeek, Qwen or Groq are inter",
+    "id": "Electrobridges/EBS-agentic-harness",
+    "language": "Python",
+    "name": "Electrobridges/EBS-agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:37:59Z",
+    "url": "https://github.com/Electrobridges/EBS-agentic-harness"
+  },
+  {
+    "description": "Provenance-tracking firewall that stops LLM agent prompt injection (OWASP LLM01) via token-level taint analysis \u2014 a zero",
+    "id": "Krishita17/TokenTaint",
+    "language": "Python",
+    "name": "Krishita17/TokenTaint",
+    "stars": 2,
+    "updated_at": "2026-08-23T15:36:56Z",
+    "url": "https://github.com/Krishita17/TokenTaint"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:45:16Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 24,
+    "updated_at": "2026-08-23T15:35:53Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:33:41Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29843,
+    "updated_at": "2026-08-23T15:30:11Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
     "id": "thangldw/ragops",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:28:48Z",
     "url": "https://github.com/thangldw/ragops"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29842,
-    "updated_at": "2026-08-23T15:30:11Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -36,13 +99,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:26:44Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7521,
+    "updated_at": "2026-08-23T15:23:17Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T15:20:05Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:17:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -85,18 +139,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2801,
+    "stars": 2804,
     "updated_at": "2026-08-23T15:04:26Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 24,
-    "updated_at": "2026-08-23T15:04:38Z",
-    "url": "https://github.com/Drlinglong/Remis"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T13:59:25Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails and evals, plus pre",
-    "id": "hogeheer499-commits/evidenceflow-ai",
-    "language": "Python",
-    "name": "hogeheer499-commits/evidenceflow-ai",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:57:56Z",
-    "url": "https://github.com/hogeheer499-commits/evidenceflow-ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T15:26:37Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:53:06Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-23T13:52:41Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:48:09Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
