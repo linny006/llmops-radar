@@ -1,12 +1,102 @@
 [
   {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 242,
+    "updated_at": "2026-08-23T06:45:07Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-23T06:41:29Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/modelpin",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:39:08Z",
+    "url": "https://github.com/samarthputhraya/modelpin"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-08-23T06:37:21Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:37:14Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 19,
+    "updated_at": "2026-08-23T06:36:32Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-23T06:33:59Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:33:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-23T06:35:18Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
     "description": "a MCP server for professional-grade neuro-stylistic content humanization engine designed to neutralize commercial AI det",
     "id": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
     "language": "Python",
     "name": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
     "stars": 1,
-    "updated_at": "2026-08-23T06:27:06Z",
+    "updated_at": "2026-08-23T06:33:22Z",
     "url": "https://github.com/wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T06:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T06:27:53Z",
+    "updated_at": "2026-08-23T06:35:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 6,
     "updated_at": "2026-08-23T06:22:38Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-23T06:26:11Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -72,15 +153,6 @@
     "url": "https://github.com/lokeshkundi15/enterprise-code-security-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T06:14:28Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-23T06:09:24Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
     "description": "Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57033,
-    "updated_at": "2026-08-23T05:59:05Z",
+    "updated_at": "2026-08-23T06:38:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -144,24 +207,6 @@
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T05:33:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-23T05:26:47Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -169,15 +214,6 @@
     "stars": 7509,
     "updated_at": "2026-08-23T05:25:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-23T05:19:55Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -355,7 +391,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 977,
+    "stars": 980,
     "updated_at": "2026-08-23T03:04:10Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T02:32:22Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Deterministic release-gate evaluation for AI products and Agents",
-    "id": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "language": "Python",
-    "name": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:25:03Z",
-    "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-23T02:07:36Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:00:24Z",
-    "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Meet Bono \u2014 a local-first personal assistant that shows the four pillars behind every serious agent: Harness \u00b7 Loop \u00b7 Me",
-    "id": "siwa-co/bono-agent-main",
-    "language": "Python",
-    "name": "siwa-co/bono-agent-main",
-    "stars": 0,
-    "updated_at": "2026-08-23T01:38:58Z",
-    "url": "https://github.com/siwa-co/bono-agent-main"
   }
 ]
