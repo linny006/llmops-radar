@@ -1,5 +1,86 @@
 [
   {
+    "description": "a MCP server for professional-grade neuro-stylistic content humanization engine designed to neutralize commercial AI det",
+    "id": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
+    "language": "Python",
+    "name": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:27:06Z",
+    "url": "https://github.com/wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-23T06:27:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:24:55Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-23T06:22:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-23T06:26:11Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:20:52Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "A hands-on LLMOps learning and implementation series covering the end-to-end lifecycle of Large Language Model applicati",
+    "id": "shailendraya/LLMOps",
+    "language": "Jupyter Notebook",
+    "name": "shailendraya/LLMOps",
+    "stars": 0,
+    "updated_at": "2026-08-23T06:18:56Z",
+    "url": "https://github.com/shailendraya/LLMOps"
+  },
+  {
+    "description": "Autonomous Multi-Agent Code Review & Security Pipeline built with LangGraph, FastMCP, AST Scanners, and Human-in-the-Loo",
+    "id": "lokeshkundi15/enterprise-code-security-agent",
+    "language": "Python",
+    "name": "lokeshkundi15/enterprise-code-security-agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:15:39Z",
+    "url": "https://github.com/lokeshkundi15/enterprise-code-security-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -18,15 +99,6 @@
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
-    "description": "a MCP server for professional-grade neuro-stylistic content humanization engine designed to neutralize commercial AI det",
-    "id": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
-    "language": "Python",
-    "name": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
-    "stars": 0,
-    "updated_at": "2026-08-23T06:08:00Z",
-    "url": "https://github.com/wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System"
-  },
-  {
     "description": "Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an",
     "id": "lokeshkundi15/enterprise-knowledge-rag",
     "language": "Python",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T06:06:32Z",
     "url": "https://github.com/lokeshkundi15/enterprise-knowledge-rag"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T06:03:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:51:34Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "A hands-on LLMOps learning and implementation series covering the end-to-end lifecycle of Large Language Model applicati",
-    "id": "shailendraya/LLMOps",
-    "language": "Jupyter Notebook",
-    "name": "shailendraya/LLMOps",
-    "stars": 0,
-    "updated_at": "2026-08-23T06:05:48Z",
-    "url": "https://github.com/shailendraya/LLMOps"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -301,7 +355,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 975,
+    "stars": 977,
     "updated_at": "2026-08-23T03:04:10Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -351,15 +405,6 @@
     "url": "https://github.com/Krishita17/TokenTaint"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-23T06:10:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T01:38:58Z",
     "url": "https://github.com/siwa-co/bono-agent-main"
-  },
-  {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-08-23T01:35:19Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
-    "id": "Helicone/helicone",
-    "language": "TypeScript",
-    "name": "Helicone/helicone",
-    "stars": 6095,
-    "updated_at": "2026-08-23T01:33:12Z",
-    "url": "https://github.com/Helicone/helicone"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 45,
-    "updated_at": "2026-08-23T01:24:44Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
-    "id": "jlcases/llm-engineering-program",
-    "language": "Python",
-    "name": "jlcases/llm-engineering-program",
-    "stars": 0,
-    "updated_at": "2026-08-23T01:16:44Z",
-    "url": "https://github.com/jlcases/llm-engineering-program"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-23T00:52:53Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
