@@ -1,5 +1,23 @@
 [
   {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:46:48Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T20:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight self-service portal and API for managing LiteLLM keys",
     "id": "brtydse100/litegate",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 47,
-    "updated_at": "2026-08-23T20:41:50Z",
+    "updated_at": "2026-08-23T20:47:07Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:37:18Z",
     "url": "https://github.com/SumanthM20/ai-pipeline-forensics"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T20:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -153,15 +162,6 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:54:05Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T20:44:18Z",
+    "updated_at": "2026-08-23T20:46:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,11 +243,20 @@
     "url": "https://github.com/agentcost-ai/agentcost-dashboard"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11150,
+    "updated_at": "2026-08-23T18:27:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24487,
+    "stars": 24488,
     "updated_at": "2026-08-23T18:07:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-23T15:35:53Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:33:41Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
   }
 ]
