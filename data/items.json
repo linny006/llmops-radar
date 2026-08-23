@@ -1,12 +1,30 @@
 [
   {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:22:05Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
     "id": "gmaheshraju/Hands-on-AgenticAI",
     "language": "JavaScript",
     "name": "gmaheshraju/Hands-on-AgenticAI",
     "stars": 0,
-    "updated_at": "2026-08-23T09:11:47Z",
+    "updated_at": "2026-08-23T09:19:56Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T09:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -45,15 +63,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T09:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -70,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T08:52:13Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2783,
+    "updated_at": "2026-08-23T08:49:55Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -90,15 +108,6 @@
     "url": "https://github.com/zendev-sh/zenflow"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2782,
-    "updated_at": "2026-08-23T08:49:55Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
     "id": "jlcases/llm-engineering-program",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-23T08:35:38Z",
+    "updated_at": "2026-08-23T09:22:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -157,8 +166,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57046,
-    "updated_at": "2026-08-23T08:07:30Z",
+    "stars": 57050,
+    "updated_at": "2026-08-23T09:22:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T06:52:00Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 242,
-    "updated_at": "2026-08-23T07:07:49Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   }
 ]
