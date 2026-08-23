@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-23 | The platform for LLM evaluations and AI agent testing |
-| 2 | [Electrobridges/EBS-agentic-harness](https://github.com/Electrobridges/EBS-agentic-harness) | 0 | Python | 2026-08-23 | Multi-provider agentic workflow framework: agents backed by Claude, GPT, MiniMax, Kimi, DeepSeek, Qwen or Groq are inter |
-| 3 | [Krishita17/TokenTaint](https://github.com/Krishita17/TokenTaint) | 2 | Python | 2026-08-23 | Provenance-tracking firewall that stops LLM agent prompt injection (OWASP LLM01) via token-level taint analysis — a zero |
-| 4 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-23 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
-| 5 | [Drlinglong/Remis](https://github.com/Drlinglong/Remis) | 24 | Python | 2026-08-23 | AI-native desktop localization system for Paradox mods—LLM orchestration, context engineering, structured validation, re |
-| 6 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-08-23 | Rust client for Cycles — runtime budget authority for AI agents |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3504 | TypeScript | 2026-08-23 | The platform for LLM evaluations and AI agent testing |
+| 3 | [Electrobridges/EBS-agentic-harness](https://github.com/Electrobridges/EBS-agentic-harness) | 0 | Python | 2026-08-23 | Multi-provider agentic workflow framework: agents backed by Claude, GPT, MiniMax, Kimi, DeepSeek, Qwen or Groq are inter |
+| 4 | [Krishita17/TokenTaint](https://github.com/Krishita17/TokenTaint) | 2 | Python | 2026-08-23 | Provenance-tracking firewall that stops LLM agent prompt injection (OWASP LLM01) via token-level taint analysis — a zero |
+| 5 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 0 | Python | 2026-08-23 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
+| 6 | [Drlinglong/Remis](https://github.com/Drlinglong/Remis) | 24 | Python | 2026-08-23 | AI-native desktop localization system for Paradox mods—LLM orchestration, context engineering, structured validation, re |
+| 7 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-08-23 | Rust client for Cycles — runtime budget authority for AI agents |
 | 8 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29843 | TypeScript | 2026-08-23 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 9 | [thangldw/ragops](https://github.com/thangldw/ragops) | 0 | Python | 2026-08-23 | Offline regression tests and explainable release gates for RAG systems and AI agents. |
 | 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-23 | Create your Agentic AIs. |
