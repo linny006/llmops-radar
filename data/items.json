@@ -1,21 +1,75 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2780,
-    "updated_at": "2026-08-23T08:28:50Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-23T08:28:22Z",
+    "updated_at": "2026-08-23T08:43:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-08-23T08:43:21Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2782,
+    "updated_at": "2026-08-23T08:39:23Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
+    "id": "zendev-sh/zenflow",
+    "language": "Go",
+    "name": "zendev-sh/zenflow",
+    "stars": 47,
+    "updated_at": "2026-08-23T08:42:18Z",
+    "url": "https://github.com/zendev-sh/zenflow"
+  },
+  {
+    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
+    "id": "jlcases/llm-engineering-program",
+    "language": "Python",
+    "name": "jlcases/llm-engineering-program",
+    "stars": 0,
+    "updated_at": "2026-08-23T08:40:35Z",
+    "url": "https://github.com/jlcases/llm-engineering-program"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T08:35:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-23T08:33:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T08:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -36,24 +90,6 @@
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T08:23:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T08:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-grade grounded Enterprise RAG pipeline using Hybrid Search (BM25 + Dense Vector), Cross-Encoder Reranking, an",
     "id": "lokeshkundi15/enterprise-knowledge-rag",
     "language": "Python",
@@ -72,24 +108,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-23T07:58:27Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-08-23T08:29:39Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -103,7 +121,7 @@
     "id": "jochi2018/Soup",
     "language": "Python",
     "name": "jochi2018/Soup",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-08-23T07:37:02Z",
     "url": "https://github.com/jochi2018/Soup"
   },
@@ -157,7 +175,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7510,
+    "stars": 7511,
     "updated_at": "2026-08-23T07:27:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-23T07:25:44Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "a MCP server for professional-grade neuro-stylistic content humanization engine designed to neutralize commercial AI det",
-    "id": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
-    "language": "Python",
-    "name": "wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System",
-    "stars": 1,
-    "updated_at": "2026-08-23T06:33:22Z",
-    "url": "https://github.com/wazimBadsha/HumanWrite-X-MCP-Server-Adaptive-LLM-Based-Content-Humanization-System"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T08:26:49Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
