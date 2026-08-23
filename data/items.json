@@ -1,12 +1,30 @@
 [
   {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:16:10Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
     "id": "babaliauskas/evalshift-action",
     "language": "Python",
     "name": "babaliauskas/evalshift-action",
     "stars": 0,
-    "updated_at": "2026-08-23T15:15:06Z",
+    "updated_at": "2026-08-23T15:16:08Z",
     "url": "https://github.com/babaliauskas/evalshift-action"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -34,15 +52,6 @@
     "stars": 24,
     "updated_at": "2026-08-23T15:04:38Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -104,7 +113,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-23T14:27:34Z",
+    "updated_at": "2026-08-23T15:17:47Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T13:48:09Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:47:29Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   }
 ]
