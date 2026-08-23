@@ -1,11 +1,56 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-23T21:56:28Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-23T21:58:21Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-23T21:55:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 2,
+    "updated_at": "2026-08-23T21:49:49Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite",
+    "id": "brunopetrovic/agent-stack-doctor",
+    "language": "Python",
+    "name": "brunopetrovic/agent-stack-doctor",
+    "stars": 1,
+    "updated_at": "2026-08-23T21:45:32Z",
+    "url": "https://github.com/brunopetrovic/agent-stack-doctor"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T21:44:03Z",
+    "updated_at": "2026-08-23T21:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T21:45:13Z",
+    "updated_at": "2026-08-23T21:57:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 48,
-    "updated_at": "2026-08-23T21:41:55Z",
+    "updated_at": "2026-08-23T21:51:51Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 22,
     "updated_at": "2026-08-23T21:39:06Z",
     "url": "https://github.com/0p9b/TLDR"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-23T21:45:16Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -108,15 +144,6 @@
     "url": "https://github.com/RudraDudhat2509/cacheguard"
   },
   {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
-    "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:25:20Z",
-    "url": "https://github.com/brtydse100/litegate"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:07:49Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-23T21:06:37Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -430,23 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-23T17:54:01Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "FastAPI backend for AgentCost: LLM event ingestion, cost attribution, budgets and analytics.",
-    "id": "agentcost-ai/agentcost-backend",
-    "language": "Python",
-    "name": "agentcost-ai/agentcost-backend",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:53:47Z",
-    "url": "https://github.com/agentcost-ai/agentcost-backend"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:48:03Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
