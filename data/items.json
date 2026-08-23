@@ -1,12 +1,48 @@
 [
   {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-23T18:04:55Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-23T18:05:13Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T17:58:22Z",
+    "updated_at": "2026-08-23T18:00:21Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
+    "id": "agentcost-ai/agentcost-dashboard",
+    "language": "TypeScript",
+    "name": "agentcost-ai/agentcost-dashboard",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:54:20Z",
+    "url": "https://github.com/agentcost-ai/agentcost-dashboard"
+  },
+  {
+    "description": "FastAPI backend for AgentCost: LLM event ingestion, cost attribution, budgets and analytics.",
+    "id": "agentcost-ai/agentcost-backend",
+    "language": "Python",
+    "name": "agentcost-ai/agentcost-backend",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:53:47Z",
+    "url": "https://github.com/agentcost-ai/agentcost-backend"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -31,7 +67,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1037,
+    "stars": 1038,
     "updated_at": "2026-08-23T17:42:56Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T17:53:19Z",
+    "updated_at": "2026-08-23T18:08:02Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -256,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21554,
+    "stars": 21555,
     "updated_at": "2026-08-23T15:28:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -412,41 +448,5 @@
     "stars": 623,
     "updated_at": "2026-08-23T14:18:33Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:16:44Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:16:04Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:12:39Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:11:48Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
