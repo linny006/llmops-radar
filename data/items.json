@@ -1,11 +1,56 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-23T22:13:03Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:10:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
+    "id": "Fortitude-Group/OmnisBench",
+    "language": "Python",
+    "name": "Fortitude-Group/OmnisBench",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:09:11Z",
+    "url": "https://github.com/Fortitude-Group/OmnisBench"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-23T22:04:38Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-23T22:08:29Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T21:58:57Z",
+    "updated_at": "2026-08-23T22:00:35Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-23T22:00:30Z",
+    "updated_at": "2026-08-23T22:02:28Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T21:58:21Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-23T21:55:31Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "A lightweight self-service portal and API for managing LiteLLM keys",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8373,
-    "updated_at": "2026-08-23T21:43:08Z",
+    "updated_at": "2026-08-23T22:14:17Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T21:43:02Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T21:57:20Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
@@ -153,15 +180,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:11:42Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57083,
-    "updated_at": "2026-08-23T21:16:53Z",
+    "updated_at": "2026-08-23T22:08:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 24490,
     "updated_at": "2026-08-23T18:07:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 54,
-    "updated_at": "2026-08-23T20:05:29Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-23T17:54:01Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
