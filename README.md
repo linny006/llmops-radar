@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 21:58 UTC
+> ⏰ Last updated: 2026-08-23 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 34 | Python | 2026-08-23 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-23 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 3 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-23 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 4 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-23 | A lightweight self-service portal and API for managing LiteLLM keys |
-| 5 | [brunopetrovic/agent-stack-doctor](https://github.com/brunopetrovic/agent-stack-doctor) | 1 | Python | 2026-08-23 | Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 34 | Python | 2026-08-23 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 3 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-23 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 4 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-23 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 5 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-23 | A lightweight self-service portal and API for managing LiteLLM keys |
+| 6 | [brunopetrovic/agent-stack-doctor](https://github.com/brunopetrovic/agent-stack-doctor) | 1 | Python | 2026-08-23 | Diagnose AI agent stack configuration, routing, credential, cron, memory, and skill failures before they bite |
 | 7 | [babaliauskas/evalshift-action](https://github.com/babaliauskas/evalshift-action) | 0 | Python | 2026-08-23 | GitHub Action for LLM migration and regression testing — runs your golden suite on every PR and fails the check on model |
 | 8 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8373 | Rust | 2026-08-23 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 9 | [babaliauskas/evalshift-cli](https://github.com/babaliauskas/evalshift-cli) | 4 | Python | 2026-08-23 | Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m |
