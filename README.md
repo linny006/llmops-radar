@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 20:15 UTC
+> ⏰ Last updated: 2026-08-23 20:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ankurngm/AiFinOps](https://github.com/ankurngm/AiFinOps) | 2 | TypeScript | 2026-08-23 | Cost governance for LLM spend, before it happens - no more surprise bills. AiFinOps validates, tracks, and logs every ca |
-| 2 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-23 | A lightweight self-service portal and API for managing LiteLLM keys |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ankurngm/AiFinOps](https://github.com/ankurngm/AiFinOps) | 2 | TypeScript | 2026-08-23 | Cost governance for LLM spend, before it happens - no more surprise bills. AiFinOps validates, tracks, and logs every ca |
+| 3 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-23 | A lightweight self-service portal and API for managing LiteLLM keys |
 | 4 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-23 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
 | 5 | [the-ai-merge/.github](https://github.com/the-ai-merge/.github) | 0 | — | 2026-08-23 |  |
 | 6 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-08-23 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [agentcost-ai/agentcost-backend](https://github.com/agentcost-ai/agentcost-backend) | 3 | Python | 2026-08-23 | FastAPI backend for AgentCost: LLM event ingestion, cost attribution, budgets and analytics. |
 | 24 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-23 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 25 | [idevelopAI/llm-eval-control-plane](https://github.com/idevelopAI/llm-eval-control-plane) | 2 | Python | 2026-08-23 | Evaluation control plane with deterministic release gates for production LLM applications. |
-| 26 | [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) | 1041 | Python | 2026-08-23 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
+| 26 | [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) | 1042 | Python | 2026-08-23 | Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster,  |
 | 27 | [kreftamarcio/prompt-forge](https://github.com/kreftamarcio/prompt-forge) | 0 | TypeScript | 2026-08-23 | A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for |
 | 28 | [alinafe82/persistent-cognitive-infrastructure](https://github.com/alinafe82/persistent-cognitive-infrastructure) | 1 | Python | 2026-08-23 | Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr |
 | 29 | [alinafe82/cognitive-deadlift](https://github.com/alinafe82/cognitive-deadlift) | 0 | Python | 2026-08-23 | AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting |
