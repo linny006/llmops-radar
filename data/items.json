@@ -1,11 +1,29 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:48:03Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:47:15Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T17:44:08Z",
+    "updated_at": "2026-08-23T17:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-23T17:45:25Z",
+    "updated_at": "2026-08-23T17:53:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-08-23T16:26:55Z",
+    "updated_at": "2026-08-23T17:54:01Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -238,7 +256,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21553,
+    "stars": 21554,
     "updated_at": "2026-08-23T15:28:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -274,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2815,
+    "stars": 2817,
     "updated_at": "2026-08-23T15:04:26Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:11:48Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:11:46Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:11:46Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
