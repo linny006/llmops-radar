@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57033,
+    "updated_at": "2026-08-23T05:42:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A hands-on LLMOps learning and implementation series covering the end-to-end lifecycle of Large Language Model applicati",
+    "id": "shailendraya/LLMOps",
+    "language": "Jupyter Notebook",
+    "name": "shailendraya/LLMOps",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:39:37Z",
+    "url": "https://github.com/shailendraya/LLMOps"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T05:33:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -9,13 +45,13 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T05:24:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7509,
+    "updated_at": "2026-08-23T05:25:48Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -36,15 +72,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T05:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
     "id": "runcycles/cycles-mcp-server",
     "language": "TypeScript",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:02:21Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57031,
-    "updated_at": "2026-08-23T05:26:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-23T04:56:01Z",
+    "updated_at": "2026-08-23T05:39:32Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8363,
     "updated_at": "2026-08-23T00:40:08Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:40:00Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:38:15Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
