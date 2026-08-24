@@ -1,11 +1,65 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T01:59:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-24T01:57:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7521,
+    "updated_at": "2026-08-24T01:52:32Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "",
+    "id": "VibhuTummallapalli/EvalWard",
+    "language": "Python",
+    "name": "VibhuTummallapalli/EvalWard",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:49:46Z",
+    "url": "https://github.com/VibhuTummallapalli/EvalWard"
+  },
+  {
+    "description": "A token-spend profiler and cost-regression gate for AI agents.",
+    "id": "faizannraza/wattage",
+    "language": "Python",
+    "name": "faizannraza/wattage",
+    "stars": 21,
+    "updated_at": "2026-08-24T01:48:14Z",
+    "url": "https://github.com/faizannraza/wattage"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T01:45:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2687,
-    "updated_at": "2026-08-24T01:45:03Z",
+    "updated_at": "2026-08-24T01:54:16Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -27,33 +81,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T01:39:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-24T01:36:32Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -67,7 +94,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8376,
+    "stars": 8377,
     "updated_at": "2026-08-24T01:29:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 48,
-    "updated_at": "2026-08-24T01:40:01Z",
+    "updated_at": "2026-08-24T01:46:24Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -126,6 +153,15 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21558,
+    "updated_at": "2026-08-24T00:49:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -139,9 +175,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57088,
+    "stars": 57089,
     "updated_at": "2026-08-24T00:21:40Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27634,
+    "updated_at": "2026-08-24T00:15:39Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -205,24 +250,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T23:16:42Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "A token-spend profiler and cost-regression gate for AI agents.",
-    "id": "faizannraza/wattage",
-    "language": "Python",
-    "name": "faizannraza/wattage",
-    "stars": 21,
-    "updated_at": "2026-08-23T23:14:37Z",
-    "url": "https://github.com/faizannraza/wattage"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27633,
-    "updated_at": "2026-08-24T00:15:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:59:04Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:57:58Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:06:38Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:51:32Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
