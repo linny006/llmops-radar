@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 19:53 UTC
+> ⏰ Last updated: 2026-08-24 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-24 | A lightweight self-service portal and API for managing LiteLLM keys |
-| 2 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1170 | Python | 2026-08-24 | OpenTelemetry Instrumentation for AI Observability |
-| 3 | [stdapi-ai/stdapi.ai](https://github.com/stdapi-ai/stdapi.ai) | 23 | Python | 2026-08-24 | Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Polly, Transcribe and Reko |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57160 | Python | 2026-08-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 637 | Python | 2026-08-24 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 7 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-24 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 2 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-24 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1170 | Python | 2026-08-24 | OpenTelemetry Instrumentation for AI Observability |
+| 5 | [stdapi-ai/stdapi.ai](https://github.com/stdapi-ai/stdapi.ai) | 23 | Python | 2026-08-24 | Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Polly, Transcribe and Reko |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57160 | Python | 2026-08-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 7 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 637 | Python | 2026-08-24 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
 | 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24537 | TypeScript | 2026-08-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-24 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 10 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 7 | TypeScript | 2026-08-24 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-24 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 30 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 455 | Python | 2026-08-24 | From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM  |
 | 31 | [xjy0526/PortfolioPilot](https://github.com/xjy0526/PortfolioPilot) | 1 | Python | 2026-08-24 | Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu |
-| 32 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2944 | Python | 2026-08-24 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 32 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2945 | Python | 2026-08-24 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 33 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-24 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
 | 34 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7544 | Go | 2026-08-24 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 35 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27655 | Python | 2026-08-24 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
