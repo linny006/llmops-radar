@@ -1,5 +1,59 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24536,
+    "updated_at": "2026-08-24T18:11:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 2,
+    "updated_at": "2026-08-24T18:12:59Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2935,
+    "updated_at": "2026-08-24T18:03:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57155,
+    "updated_at": "2026-08-24T18:14:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T18:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-08-24T17:55:25Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
     "id": "redevops-io/mission-sdk",
     "language": "Python",
@@ -14,33 +68,15 @@
     "language": "TypeScript",
     "name": "xuerp/ai-knowledge-explorer",
     "stars": 0,
-    "updated_at": "2026-08-24T17:52:48Z",
+    "updated_at": "2026-08-24T18:13:11Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T17:49:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2932,
-    "updated_at": "2026-08-24T17:48:35Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33638,
+    "stars": 33640,
     "updated_at": "2026-08-24T17:47:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21571,
-    "updated_at": "2026-08-24T17:54:35Z",
+    "updated_at": "2026-08-24T18:08:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,17 +122,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1804,
-    "updated_at": "2026-08-24T17:41:39Z",
+    "updated_at": "2026-08-24T18:07:15Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57155,
-    "updated_at": "2026-08-24T17:59:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -149,17 +176,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27654,
-    "updated_at": "2026-08-24T17:26:37Z",
+    "updated_at": "2026-08-24T18:11:48Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-08-24T17:55:25Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-24T17:24:59Z",
+    "updated_at": "2026-08-24T18:10:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 3506,
     "updated_at": "2026-08-24T17:54:49Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
-    "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 2,
-    "updated_at": "2026-08-24T17:55:39Z",
-    "url": "https://github.com/brtydse100/litegate"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -250,15 +259,6 @@
     "stars": 29858,
     "updated_at": "2026-08-24T16:57:18Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24536,
-    "updated_at": "2026-08-24T17:11:28Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source, bilingual LLM engineering course with hands-on labs for RAG, AI agents, MCP, evals, harnesses, loops and pr",
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-24T17:55:20Z",
+    "updated_at": "2026-08-24T18:03:06Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
