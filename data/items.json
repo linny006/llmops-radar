@@ -1,11 +1,65 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3506,
+    "updated_at": "2026-08-24T20:14:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T20:11:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57160,
+    "updated_at": "2026-08-24T20:14:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T20:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8389,
+    "updated_at": "2026-08-24T20:00:02Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:11:15Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
     "description": "A lightweight self-service portal and API for managing LiteLLM keys",
     "id": "brtydse100/litegate",
     "language": "Python",
     "name": "brtydse100/litegate",
     "stars": 2,
-    "updated_at": "2026-08-24T19:58:29Z",
+    "updated_at": "2026-08-24T20:11:23Z",
     "url": "https://github.com/brtydse100/litegate"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T19:56:24Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:53:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -43,15 +88,6 @@
     "stars": 23,
     "updated_at": "2026-08-24T19:49:16Z",
     "url": "https://github.com/stdapi-ai/stdapi.ai"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57160,
-    "updated_at": "2026-08-24T19:59:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -99,30 +135,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:58:46Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T19:30:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T19:59:39Z",
+    "updated_at": "2026-08-24T20:14:55Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29859,
-    "updated_at": "2026-08-24T19:34:45Z",
+    "updated_at": "2026-08-24T20:08:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21572,
-    "updated_at": "2026-08-24T19:57:57Z",
+    "updated_at": "2026-08-24T20:09:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -225,21 +243,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3506,
-    "updated_at": "2026-08-24T19:51:24Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-24T19:02:47Z",
+    "updated_at": "2026-08-24T20:12:38Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2716,
-    "updated_at": "2026-08-24T19:59:56Z",
+    "updated_at": "2026-08-24T20:07:13Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33641,
-    "updated_at": "2026-08-24T19:58:59Z",
+    "updated_at": "2026-08-24T20:14:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1804,
-    "updated_at": "2026-08-24T19:24:44Z",
+    "updated_at": "2026-08-24T20:13:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T17:04:28Z",
     "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "Open-source, bilingual LLM engineering course with hands-on labs for RAG, AI agents, MCP, evals, harnesses, loops and pr",
-    "id": "jlcases/llm-engineering-program",
-    "language": "Python",
-    "name": "jlcases/llm-engineering-program",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:56:07Z",
-    "url": "https://github.com/jlcases/llm-engineering-program"
   }
 ]
