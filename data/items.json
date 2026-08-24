@@ -1,48 +1,12 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3506,
-    "updated_at": "2026-08-24T20:14:12Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T20:11:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57160,
-    "updated_at": "2026-08-24T20:14:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T20:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8389,
-    "updated_at": "2026-08-24T20:00:02Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "name": "Keesan12/martin-loop",
+    "stars": 45,
+    "updated_at": "2026-08-24T20:22:55Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
@@ -50,8 +14,26 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-24T20:11:15Z",
+    "updated_at": "2026-08-24T20:22:28Z",
     "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T20:21:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2716,
+    "updated_at": "2026-08-24T20:20:32Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "A lightweight self-service portal and API for managing LiteLLM keys",
@@ -59,8 +41,62 @@
     "language": "Python",
     "name": "brtydse100/litegate",
     "stars": 2,
-    "updated_at": "2026-08-24T20:11:23Z",
+    "updated_at": "2026-08-24T20:24:28Z",
     "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57160,
+    "updated_at": "2026-08-24T20:21:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:17:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T20:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33642,
+    "updated_at": "2026-08-24T20:14:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3506,
+    "updated_at": "2026-08-24T20:21:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8389,
+    "updated_at": "2026-08-24T20:20:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1170,
-    "updated_at": "2026-08-24T19:54:19Z",
+    "updated_at": "2026-08-24T20:19:00Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -103,18 +139,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24537,
+    "stars": 24538,
     "updated_at": "2026-08-24T19:35:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:34:36Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -131,7 +158,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-24T19:33:16Z",
+    "updated_at": "2026-08-24T20:24:50Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T20:14:55Z",
+    "updated_at": "2026-08-24T20:23:57Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -252,21 +279,12 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2716,
-    "updated_at": "2026-08-24T20:07:13Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-24T18:56:44Z",
+    "updated_at": "2026-08-24T20:19:39Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/redevops-io/mission-sdk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33641,
-    "updated_at": "2026-08-24T20:14:44Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
     "id": "agentcost-ai/agentcost-dashboard",
     "language": "TypeScript",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1804,
-    "updated_at": "2026-08-24T20:13:56Z",
+    "updated_at": "2026-08-24T20:25:13Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11171,
-    "updated_at": "2026-08-24T19:54:08Z",
+    "updated_at": "2026-08-24T20:22:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T17:07:21Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
-    "id": "umeshkedimi/aic",
-    "language": "Python",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:04:28Z",
-    "url": "https://github.com/umeshkedimi/aic"
   }
 ]
