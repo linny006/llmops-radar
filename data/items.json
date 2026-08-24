@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57155,
+    "updated_at": "2026-08-24T18:45:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2936,
+    "updated_at": "2026-08-24T18:40:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T18:36:54Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T18:30:27Z",
+    "updated_at": "2026-08-24T18:34:12Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T18:33:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-24T18:32:44Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-24T18:31:14Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,17 +68,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24536,
-    "updated_at": "2026-08-24T18:28:41Z",
+    "updated_at": "2026-08-24T18:35:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57155,
-    "updated_at": "2026-08-24T18:33:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -45,15 +90,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-24T18:32:44Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
     "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
     "id": "xuerp/ai-knowledge-explorer",
     "language": "TypeScript",
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T18:12:59Z",
     "url": "https://github.com/brtydse100/litegate"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2935,
-    "updated_at": "2026-08-24T18:03:19Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21571,
-    "updated_at": "2026-08-24T18:30:14Z",
+    "updated_at": "2026-08-24T18:39:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:33:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11171,
-    "updated_at": "2026-08-24T17:52:43Z",
+    "updated_at": "2026-08-24T18:40:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,17 +203,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T18:24:45Z",
+    "updated_at": "2026-08-24T18:34:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:28:23Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-24T18:10:27Z",
+    "updated_at": "2026-08-24T18:43:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3506,
-    "updated_at": "2026-08-24T18:27:39Z",
+    "updated_at": "2026-08-24T18:40:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T18:23:38Z",
+    "updated_at": "2026-08-24T18:44:07Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-24T18:27:06Z",
+    "updated_at": "2026-08-24T18:43:45Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T15:08:41Z",
     "url": "https://github.com/Ruivalim/usage-monitor"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3191,
-    "updated_at": "2026-08-24T15:05:18Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
