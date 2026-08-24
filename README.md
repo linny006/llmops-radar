@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 11:15 UTC
+> ⏰ Last updated: 2026-08-24 11:23 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2890 | Python | 2026-08-24 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [vinhnguyenthanhdn/bedrock-eval-harness](https://github.com/vinhnguyenthanhdn/bedrock-eval-harness) | 0 | Python | 2026-08-24 | Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33621 | TypeScript | 2026-08-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 2 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5703 | Go | 2026-08-24 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
 | 3 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-24 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 4 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-24 | Open-source LLM observability and drift detection for AI apps |
-| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33621 | TypeScript | 2026-08-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 6 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2691 | C++ | 2026-08-24 | Community maintained hardware plugin for vLLM on Ascend |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [xorbitsai/xrouter-llm](https://github.com/xorbitsai/xrouter-llm) | 35 | Python | 2026-08-24 | A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5 |
-| 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21566 | Python | 2026-08-24 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 10 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-08-24 | Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo |
-| 11 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 408 | Python | 2026-08-24 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 12 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-08-24 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
-| 13 | [api7/aisix](https://github.com/api7/aisix) | 119 | Rust | 2026-08-24 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 14 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-24 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 15 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-24 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 16 | [tinyopsstudio/support-llm-evaluation-harness](https://github.com/tinyopsstudio/support-llm-evaluation-harness) | 0 | Python | 2026-08-24 | Dependency-free evaluation harness for support LLM answers, citations, and escalations |
-| 17 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 18 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-24 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 19 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7534 | Go | 2026-08-24 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 20 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-24 | Create your Agentic AIs. |
-| 21 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3505 | TypeScript | 2026-08-24 | The platform for LLM evaluations and AI agent testing |
-| 22 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-24 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 23 | [aroraneel/AI-Engineer](https://github.com/aroraneel/AI-Engineer) | 2 | Jupyter Notebook | 2026-08-24 | 165-day journey from Python & statistics fundamentals to production-grade AI/ML systems — SQL, classical ML, deep learni |
-| 24 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-24 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 25 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-24 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 26 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 3 | Python | 2026-08-24 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
-| 27 | [JohnsonManuel/llm-guardrail-eval](https://github.com/JohnsonManuel/llm-guardrail-eval) | 0 | Python | 2026-08-24 | Red-team evaluation harness for LLM applications: 120 attacks, deterministic graders, 5 defence layers, and honest befor |
-| 28 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5767 | Python | 2026-08-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 29 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57130 | Python | 2026-08-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 30 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 122 | Java | 2026-08-24 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
-| 31 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5703 | Go | 2026-08-24 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2890 | Python | 2026-08-24 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 6 | [vinhnguyenthanhdn/bedrock-eval-harness](https://github.com/vinhnguyenthanhdn/bedrock-eval-harness) | 0 | Python | 2026-08-24 | Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la |
+| 7 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-08-24 | Open-source LLM observability and drift detection for AI apps |
+| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2691 | C++ | 2026-08-24 | Community maintained hardware plugin for vLLM on Ascend |
+| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7536 | Go | 2026-08-24 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 10 | [xorbitsai/xrouter-llm](https://github.com/xorbitsai/xrouter-llm) | 35 | Python | 2026-08-24 | A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5 |
+| 11 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21566 | Python | 2026-08-24 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 12 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-08-24 | Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo |
+| 13 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 408 | Python | 2026-08-24 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 14 | [runcycles/cycles-docs](https://github.com/runcycles/cycles-docs) | 4 | Vue | 2026-08-24 | Documentation for Cycles — AI agent governance, runtime budget, action authority, MCP integration |
+| 15 | [api7/aisix](https://github.com/api7/aisix) | 119 | Rust | 2026-08-24 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 16 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 6 | Go | 2026-08-24 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 17 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-24 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 18 | [tinyopsstudio/support-llm-evaluation-harness](https://github.com/tinyopsstudio/support-llm-evaluation-harness) | 0 | Python | 2026-08-24 | Dependency-free evaluation harness for support LLM answers, citations, and escalations |
+| 19 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 20 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-24 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 21 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-24 | Create your Agentic AIs. |
+| 22 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3505 | TypeScript | 2026-08-24 | The platform for LLM evaluations and AI agent testing |
+| 23 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-24 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 24 | [aroraneel/AI-Engineer](https://github.com/aroraneel/AI-Engineer) | 2 | Jupyter Notebook | 2026-08-24 | 165-day journey from Python & statistics fundamentals to production-grade AI/ML systems — SQL, classical ML, deep learni |
+| 25 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 43 | — | 2026-08-24 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 26 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-24 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 27 | [NicoGrassetto/Cosmopilot](https://github.com/NicoGrassetto/Cosmopilot) | 3 | Python | 2026-08-24 | A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer. |
+| 28 | [JohnsonManuel/llm-guardrail-eval](https://github.com/JohnsonManuel/llm-guardrail-eval) | 0 | Python | 2026-08-24 | Red-team evaluation harness for LLM applications: 120 attacks, deterministic graders, 5 defence layers, and honest befor |
+| 29 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5767 | Python | 2026-08-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 30 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57131 | Python | 2026-08-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 31 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 122 | Java | 2026-08-24 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
 | 32 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-24 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
 | 33 | [Kozphy/EvalForge](https://github.com/Kozphy/EvalForge) | 0 | Python | 2026-08-24 | EvalForge — local-first AI evaluation engineering platform: deterministic graders, TF-IDF evidence retrieval, optional O |
 | 34 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27647 | Python | 2026-08-24 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
