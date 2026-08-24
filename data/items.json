@@ -1,5 +1,77 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T14:12:49Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33629,
+    "updated_at": "2026-08-24T14:09:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T14:06:09Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:04:43Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-24T14:02:12Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 119,
+    "updated_at": "2026-08-24T14:01:19Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7538,
+    "updated_at": "2026-08-24T14:11:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T14:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 2903,
     "updated_at": "2026-08-24T13:59:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:49:44Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -27,13 +90,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T13:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:49:44Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -45,49 +108,13 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3505,
-    "updated_at": "2026-08-24T13:57:49Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33628,
-    "updated_at": "2026-08-24T13:40:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7538,
-    "updated_at": "2026-08-24T13:36:38Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T13:45:28Z",
+    "updated_at": "2026-08-24T14:12:56Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T13:36:13Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -97,6 +124,15 @@
     "stars": 3,
     "updated_at": "2026-08-24T13:29:04Z",
     "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "CI regression testing and drift monitoring for an LLM fault classifier \u2014 DeepEval, Groq, GitHub Actions",
+    "id": "VishalSelvarasu/Model-Regression-Detector",
+    "language": "Python",
+    "name": "VishalSelvarasu/Model-Regression-Detector",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:26:12Z",
+    "url": "https://github.com/VishalSelvarasu/Model-Regression-Detector"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21568,
-    "updated_at": "2026-08-24T13:47:46Z",
+    "updated_at": "2026-08-24T14:10:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 119,
-    "updated_at": "2026-08-24T13:37:19Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -248,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-24T13:37:38Z",
+    "updated_at": "2026-08-24T14:08:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1801,
-    "updated_at": "2026-08-24T13:45:27Z",
+    "updated_at": "2026-08-24T14:14:28Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T13:57:26Z",
+    "updated_at": "2026-08-24T14:14:28Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-24T11:56:26Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-08-24T11:53:43Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-24T11:52:33Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-24T13:57:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
