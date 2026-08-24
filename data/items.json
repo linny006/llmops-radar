@@ -1,39 +1,57 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T02:59:25Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 48,
-    "updated_at": "2026-08-24T02:59:09Z",
+    "updated_at": "2026-08-24T03:14:21Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:58:48Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-24T03:15:00Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T02:58:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 45,
+    "updated_at": "2026-08-24T03:12:35Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:12:19Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T03:11:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted autonomous AI assistant running 24/7 on a single 898MB VM \u2014 7-provider LLM failover, verified multi-step exe",
+    "id": "rushikeshgoud19/MY-AI",
+    "language": "Python",
+    "name": "rushikeshgoud19/MY-AI",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:10:35Z",
+    "url": "https://github.com/rushikeshgoud19/MY-AI"
   },
   {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
@@ -41,8 +59,53 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-08-24T02:57:46Z",
+    "updated_at": "2026-08-24T03:10:29Z",
     "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:07:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24503,
+    "updated_at": "2026-08-24T03:11:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:00:44Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T02:59:25Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -54,15 +117,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T02:51:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883\u3002",
     "id": "togettoyou/zke",
     "language": "Go",
@@ -70,15 +124,6 @@
     "stars": 80,
     "updated_at": "2026-08-24T02:48:42Z",
     "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-24T02:46:30Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5765,
-    "updated_at": "2026-08-24T02:33:41Z",
+    "updated_at": "2026-08-24T03:12:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1315,
-    "updated_at": "2026-08-24T02:54:35Z",
+    "updated_at": "2026-08-24T03:14:37Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-24T02:57:39Z",
+    "updated_at": "2026-08-24T03:07:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -175,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7521,
+    "stars": 7522,
     "updated_at": "2026-08-24T01:52:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -225,22 +270,13 @@
     "url": "https://github.com/alexvervloet/deep-dive-capstone"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:10:00Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 45,
-    "updated_at": "2026-08-24T00:53:08Z",
-    "url": "https://github.com/Keesan12/martin-loop"
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1169,
+    "updated_at": "2026-08-24T01:16:54Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -256,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21559,
+    "stars": 21561,
     "updated_at": "2026-08-24T00:49:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -274,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57093,
+    "stars": 57096,
     "updated_at": "2026-08-24T00:21:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -328,7 +364,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11152,
+    "stars": 11153,
     "updated_at": "2026-08-23T23:17:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:22:01Z",
     "url": "https://github.com/gabryellewalker/ai-observability-request-tracing-toolkit"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:49:34Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-23T22:04:38Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-23T22:02:28Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
-    "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:49:49Z",
-    "url": "https://github.com/brtydse100/litegate"
   }
 ]
