@@ -1,12 +1,66 @@
 [
   {
+    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
+    "id": "Rodiun/frugon",
+    "language": "Python",
+    "name": "Rodiun/frugon",
+    "stars": 210,
+    "updated_at": "2026-08-24T06:12:55Z",
+    "url": "https://github.com/Rodiun/frugon"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2688,
+    "updated_at": "2026-08-24T06:12:00Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-24T05:56:01Z",
+    "updated_at": "2026-08-24T06:15:04Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33600,
+    "updated_at": "2026-08-24T06:07:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 543,
+    "updated_at": "2026-08-24T06:06:26Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27637,
+    "updated_at": "2026-08-24T06:03:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T06:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -16,15 +70,6 @@
     "stars": 45,
     "updated_at": "2026-08-24T05:53:33Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T05:50:56Z",
+    "updated_at": "2026-08-24T06:13:56Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T05:26:00Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27637,
-    "updated_at": "2026-08-24T05:22:04Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T04:08:08Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 43,
-    "updated_at": "2026-08-24T04:04:13Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:59:05Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-24T03:58:10Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24507,
-    "updated_at": "2026-08-24T05:56:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
