@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 48,
+    "updated_at": "2026-08-24T02:44:47Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:44:06Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:43:33Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T02:37:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-24T02:29:02Z",
+    "updated_at": "2026-08-24T02:33:06Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5765,
+    "updated_at": "2026-08-24T02:33:41Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Diagram-first LLM architecture, memory, hardware-fit, throughput, and verified cloud-cost explorer.",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T02:25:18Z",
+    "updated_at": "2026-08-24T02:40:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -36,22 +90,13 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T02:22:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 48,
-    "updated_at": "2026-08-24T02:20:01Z",
-    "url": "https://github.com/solomon2773/nora"
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1315,
+    "updated_at": "2026-08-24T02:18:29Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T02:16:25Z",
     "url": "https://github.com/leeryong/NELLA"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-24T02:08:33Z",
+    "updated_at": "2026-08-24T02:33:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 21,
     "updated_at": "2026-08-24T01:48:14Z",
     "url": "https://github.com/faizannraza/wattage"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1314,
-    "updated_at": "2026-08-24T02:18:29Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -211,7 +238,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21557,
+    "stars": 21559,
     "updated_at": "2026-08-24T00:49:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:43:15Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:42:31Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-23T21:40:56Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
-    "id": "0p9b/TLDR",
-    "language": "JavaScript",
-    "name": "0p9b/TLDR",
-    "stars": 22,
-    "updated_at": "2026-08-23T21:39:06Z",
-    "url": "https://github.com/0p9b/TLDR"
-  },
-  {
-    "description": "Drop-in safety layer that stops semantic caches from silently returning wrong answers \u2014 with the first independent open ",
-    "id": "RudraDudhat2509/cacheguard",
-    "language": "Python",
-    "name": "RudraDudhat2509/cacheguard",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:25:14Z",
-    "url": "https://github.com/RudraDudhat2509/cacheguard"
   }
 ]
