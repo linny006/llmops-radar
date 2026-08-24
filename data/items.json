@@ -1,12 +1,21 @@
 [
   {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 2,
-    "updated_at": "2026-08-24T20:59:15Z",
-    "url": "https://github.com/brtydse100/litegate"
+    "name": "BerriAI/litellm",
+    "stars": 57161,
+    "updated_at": "2026-08-24T21:15:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8389,
+    "updated_at": "2026-08-24T21:13:35Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +23,35 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-24T21:00:14Z",
+    "updated_at": "2026-08-24T21:15:17Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:11:38Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T21:09:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24538,
+    "updated_at": "2026-08-24T21:09:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T20:58:18Z",
+    "updated_at": "2026-08-24T21:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:05:34Z",
+    "url": "https://github.com/brtydse100/litegate"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T20:52:16Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:57:49Z",
-    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T20:49:43Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T20:46:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -112,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33643,
+    "stars": 33644,
     "updated_at": "2026-08-24T20:35:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -122,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11171,
-    "updated_at": "2026-08-24T20:51:10Z",
+    "updated_at": "2026-08-24T21:08:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57160,
-    "updated_at": "2026-08-24T20:59:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3506,
-    "updated_at": "2026-08-24T20:39:48Z",
+    "updated_at": "2026-08-24T21:07:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -175,18 +193,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21574,
+    "stars": 21575,
     "updated_at": "2026-08-24T20:09:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8389,
-    "updated_at": "2026-08-24T20:46:51Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -205,15 +214,6 @@
     "stars": 637,
     "updated_at": "2026-08-24T19:37:47Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24538,
-    "updated_at": "2026-08-24T19:35:45Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -320,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-24T20:19:39Z",
+    "updated_at": "2026-08-24T21:04:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "xjy0526/PortfolioPilot",
     "stars": 1,
-    "updated_at": "2026-08-24T20:49:09Z",
+    "updated_at": "2026-08-24T21:13:22Z",
     "url": "https://github.com/xjy0526/PortfolioPilot"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7544,
-    "updated_at": "2026-08-24T20:56:17Z",
+    "updated_at": "2026-08-24T21:09:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
