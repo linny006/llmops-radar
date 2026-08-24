@@ -1,21 +1,30 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3505,
-    "updated_at": "2026-08-24T13:41:42Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2903,
+    "updated_at": "2026-08-24T13:59:20Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33627,
-    "updated_at": "2026-08-24T13:40:08Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:49:44Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:57:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T13:36:33Z",
+    "updated_at": "2026-08-24T13:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 45,
+    "updated_at": "2026-08-24T13:42:16Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T13:57:49Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33628,
+    "updated_at": "2026-08-24T13:40:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7538,
+    "updated_at": "2026-08-24T13:36:38Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T13:36:27Z",
+    "updated_at": "2026-08-24T13:45:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 76,
     "updated_at": "2026-08-24T13:36:13Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2902,
-    "updated_at": "2026-08-24T13:31:40Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -67,7 +103,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11166,
+    "stars": 11168,
     "updated_at": "2026-08-24T13:21:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21568,
-    "updated_at": "2026-08-24T13:39:59Z",
+    "updated_at": "2026-08-24T13:47:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -103,7 +139,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57138,
+    "stars": 57141,
     "updated_at": "2026-08-24T13:13:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -113,17 +149,8 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-24T13:08:14Z",
+    "updated_at": "2026-08-24T13:56:28Z",
     "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:59:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -133,24 +160,6 @@
     "stars": 2692,
     "updated_at": "2026-08-24T12:52:26Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7537,
-    "updated_at": "2026-08-24T13:36:38Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:45:08Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5704,
-    "updated_at": "2026-08-24T12:37:36Z",
+    "updated_at": "2026-08-24T13:51:49Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 13,
-    "updated_at": "2026-08-24T12:38:42Z",
+    "updated_at": "2026-08-24T13:51:51Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -364,7 +373,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27648,
+    "stars": 27649,
     "updated_at": "2026-08-24T12:12:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1801,
-    "updated_at": "2026-08-24T13:44:02Z",
+    "updated_at": "2026-08-24T13:45:27Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T13:41:52Z",
+    "updated_at": "2026-08-24T13:57:26Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-24T13:27:57Z",
+    "updated_at": "2026-08-24T13:57:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-24T13:14:21Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
