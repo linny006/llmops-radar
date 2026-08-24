@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-24 | A lightweight self-service portal and API for managing LiteLLM keys |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-24 | Create your Agentic AIs. |
-| 3 | [api7/aisix](https://github.com/api7/aisix) | 120 | Rust | 2026-08-24 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 4 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-24 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 5 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-24 | Temporal workers and clients for wrapping access to different LLMs |
-| 6 | [umeshkedimi/aic](https://github.com/umeshkedimi/aic) | 1 | Python | 2026-08-24 | Agentic Incident Commander — an autonomous reliability control loop that detects, investigates, and safely remediates pr |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [brtydse100/litegate](https://github.com/brtydse100/litegate) | 2 | Python | 2026-08-24 | A lightweight self-service portal and API for managing LiteLLM keys |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 31 | Go | 2026-08-24 | Create your Agentic AIs. |
+| 4 | [api7/aisix](https://github.com/api7/aisix) | 120 | Rust | 2026-08-24 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 5 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-08-24 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 6 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-08-24 | Temporal workers and clients for wrapping access to different LLMs |
+| 7 | [umeshkedimi/aic](https://github.com/umeshkedimi/aic) | 1 | Python | 2026-08-24 | Agentic Incident Commander — an autonomous reliability control loop that detects, investigates, and safely remediates pr |
 | 8 | [xuerp/ai-knowledge-explorer](https://github.com/xuerp/ai-knowledge-explorer) | 0 | TypeScript | 2026-08-24 | AI Radar：具备证据链、人工审核、知识图谱与可信 RAG 的 AI 技术情报平台 |
 | 9 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 2922 | Python | 2026-08-24 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 10 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29857 | TypeScript | 2026-08-24 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
