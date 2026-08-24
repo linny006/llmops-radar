@@ -1,12 +1,39 @@
 [
   {
+    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
+    "id": "leeryong/NELLA",
+    "language": "TypeScript",
+    "name": "leeryong/NELLA",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:14:39Z",
+    "url": "https://github.com/leeryong/NELLA"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:14:39Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-24T01:59:50Z",
+    "updated_at": "2026-08-24T02:13:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2687,
+    "updated_at": "2026-08-24T02:12:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T01:57:13Z",
+    "updated_at": "2026-08-24T02:11:41Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-24T02:08:33Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:05:45Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-24T02:04:15Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -43,24 +106,6 @@
     "stars": 21,
     "updated_at": "2026-08-24T01:48:14Z",
     "url": "https://github.com/faizannraza/wattage"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:45:12Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2687,
-    "updated_at": "2026-08-24T01:54:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8377,
-    "updated_at": "2026-08-24T01:29:31Z",
+    "updated_at": "2026-08-24T02:09:19Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -117,21 +162,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-24T01:05:00Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 48,
-    "updated_at": "2026-08-24T01:46:24Z",
+    "updated_at": "2026-08-24T02:02:49Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -202,18 +238,9 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1044,
+    "stars": 1045,
     "updated_at": "2026-08-24T00:09:51Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-24T01:33:04Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:01:34Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:59:40Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:59:15Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:59:04Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
