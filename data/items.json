@@ -1,12 +1,84 @@
 [
   {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:45:26Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24504,
+    "updated_at": "2026-08-24T03:42:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27634,
+    "updated_at": "2026-08-24T03:41:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:35:54Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2688,
+    "updated_at": "2026-08-24T03:34:15Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Production AI systems, agents, and LLM engineering \u2014 architecture, safety, evaluation, observability, and real-world cas",
     "id": "adastra42/portfolio",
     "language": "\u2014",
     "name": "adastra42/portfolio",
     "stars": 0,
-    "updated_at": "2026-08-24T03:29:26Z",
+    "updated_at": "2026-08-24T03:33:22Z",
     "url": "https://github.com/adastra42/portfolio"
+  },
+  {
+    "description": "An 18-test, 6-dimension reliability battery for AI agents. Honest A-F, and any dimension the evidence cannot support com",
+    "id": "forevercrab321-svg/leevar-battery",
+    "language": "JavaScript",
+    "name": "forevercrab321-svg/leevar-battery",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:32:51Z",
+    "url": "https://github.com/forevercrab321-svg/leevar-battery"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T03:31:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -16,15 +88,6 @@
     "stars": 90,
     "updated_at": "2026-08-24T03:27:54Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24504,
-    "updated_at": "2026-08-24T03:27:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -43,15 +106,6 @@
     "stars": 76,
     "updated_at": "2026-08-24T03:16:56Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
@@ -90,15 +144,6 @@
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T03:11:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hosted autonomous AI assistant running 24/7 on a single 898MB VM \u2014 7-provider LLM failover, verified multi-step exe",
     "id": "rushikeshgoud19/MY-AI",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-08-24T03:10:29Z",
+    "updated_at": "2026-08-24T03:35:31Z",
     "url": "https://github.com/domondi1/inferrail"
   },
   {
@@ -162,6 +207,15 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11907,
+    "updated_at": "2026-08-24T02:40:13Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -180,15 +234,6 @@
     "url": "https://github.com/isEmmanuelOlowe/llm-explorer"
   },
   {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-24T02:23:45Z",
-    "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
@@ -205,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T02:16:25Z",
     "url": "https://github.com/leeryong/NELLA"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2688,
-    "updated_at": "2026-08-24T02:12:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -342,15 +378,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27634,
-    "updated_at": "2026-08-24T00:15:39Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -364,7 +391,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1047,
+    "stars": 1048,
     "updated_at": "2026-08-24T00:09:51Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -391,7 +418,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11153,
+    "stars": 11154,
     "updated_at": "2026-08-23T23:17:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T22:57:28Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
-  },
-  {
-    "description": "End-to-end AI platform capstone combining RAG retrieval, model routing and fallback, feature flags, response evaluation,",
-    "id": "gabryellewalker/ai-platform-capstone",
-    "language": "Python",
-    "name": "gabryellewalker/ai-platform-capstone",
-    "stars": 0,
-    "updated_at": "2026-08-23T22:55:40Z",
-    "url": "https://github.com/gabryellewalker/ai-platform-capstone"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29851,
-    "updated_at": "2026-08-23T22:55:40Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
-    "id": "xjy0526/PortfolioPilot",
-    "language": "Python",
-    "name": "xjy0526/PortfolioPilot",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:36:34Z",
-    "url": "https://github.com/xjy0526/PortfolioPilot"
   }
 ]
