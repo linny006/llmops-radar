@@ -1,12 +1,12 @@
 [
   {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:45:26Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:58:10Z",
+    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24504,
-    "updated_at": "2026-08-24T03:42:42Z",
+    "updated_at": "2026-08-24T03:55:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Diagram-first LLM architecture, memory, hardware-fit, throughput, and verified cloud-cost explorer.",
+    "id": "isEmmanuelOlowe/llm-explorer",
+    "language": "TypeScript",
+    "name": "isEmmanuelOlowe/llm-explorer",
+    "stars": 22,
+    "updated_at": "2026-08-24T03:54:58Z",
+    "url": "https://github.com/isEmmanuelOlowe/llm-explorer"
+  },
+  {
+    "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
+    "id": "quentincong/watchy",
+    "language": "Python",
+    "name": "quentincong/watchy",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:48:26Z",
+    "url": "https://github.com/quentincong/watchy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:48:45Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -25,15 +61,6 @@
     "stars": 27634,
     "updated_at": "2026-08-24T03:41:11Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-08-24T03:35:54Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -70,15 +97,6 @@
     "stars": 31,
     "updated_at": "2026-08-24T03:31:38Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T03:15:00Z",
+    "updated_at": "2026-08-24T03:53:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -142,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T03:12:19Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5766,
+    "updated_at": "2026-08-24T03:12:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Self-hosted autonomous AI assistant running 24/7 on a single 898MB VM \u2014 7-provider LLM failover, verified multi-step exe",
@@ -167,7 +194,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-24T03:07:54Z",
+    "updated_at": "2026-08-24T03:58:22Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -178,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-08-24T03:00:44Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33592,
+    "updated_at": "2026-08-24T02:58:54Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -212,26 +248,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11907,
-    "updated_at": "2026-08-24T02:40:13Z",
+    "updated_at": "2026-08-24T03:55:38Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5765,
-    "updated_at": "2026-08-24T03:12:04Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Diagram-first LLM architecture, memory, hardware-fit, throughput, and verified cloud-cost explorer.",
-    "id": "isEmmanuelOlowe/llm-explorer",
-    "language": "TypeScript",
-    "name": "isEmmanuelOlowe/llm-explorer",
-    "stars": 22,
-    "updated_at": "2026-08-24T02:28:33Z",
-    "url": "https://github.com/isEmmanuelOlowe/llm-explorer"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -239,7 +257,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1315,
-    "updated_at": "2026-08-24T03:14:37Z",
+    "updated_at": "2026-08-24T03:55:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-24T03:17:44Z",
+    "updated_at": "2026-08-24T03:47:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -373,7 +391,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57096,
+    "stars": 57099,
     "updated_at": "2026-08-24T00:21:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-23T23:16:42Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:01:42Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 2,
-    "updated_at": "2026-08-23T22:57:28Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   }
 ]
