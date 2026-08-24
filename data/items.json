@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2902,
-    "updated_at": "2026-08-24T13:31:40Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T13:41:42Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33627,
+    "updated_at": "2026-08-24T13:40:08Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,53 +23,8 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T13:30:32Z",
+    "updated_at": "2026-08-24T13:36:33Z",
     "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T13:36:13Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-24T13:29:04Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21568,
-    "updated_at": "2026-08-24T13:21:44Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:21:42Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3505,
-    "updated_at": "2026-08-24T13:33:53Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -72,13 +36,58 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33626,
-    "updated_at": "2026-08-24T13:18:00Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T13:36:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2902,
+    "updated_at": "2026-08-24T13:31:40Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-24T13:29:04Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11166,
+    "updated_at": "2026-08-24T13:21:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21568,
+    "updated_at": "2026-08-24T13:39:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:21:42Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -94,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57137,
+    "stars": 57138,
     "updated_at": "2026-08-24T13:13:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -117,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11167,
-    "updated_at": "2026-08-24T13:21:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -140,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7537,
-    "updated_at": "2026-08-24T13:33:02Z",
+    "updated_at": "2026-08-24T13:36:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 119,
-    "updated_at": "2026-08-24T13:26:30Z",
+    "updated_at": "2026-08-24T13:37:19Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-24T13:08:52Z",
+    "updated_at": "2026-08-24T13:37:38Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1801,
-    "updated_at": "2026-08-24T12:11:27Z",
+    "updated_at": "2026-08-24T13:44:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T13:35:32Z",
+    "updated_at": "2026-08-24T13:41:52Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
