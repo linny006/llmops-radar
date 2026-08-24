@@ -1,11 +1,56 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:58:54Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-24T10:57:07Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:56:48Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21566,
+    "updated_at": "2026-08-24T10:59:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T10:52:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 119,
-    "updated_at": "2026-08-24T10:48:08Z",
+    "updated_at": "2026-08-24T10:55:10Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 6,
     "updated_at": "2026-08-24T10:47:32Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T10:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21566,
-    "updated_at": "2026-08-24T10:52:13Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33621,
-    "updated_at": "2026-08-24T10:28:36Z",
+    "updated_at": "2026-08-24T10:59:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -238,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27646,
+    "stars": 27647,
     "updated_at": "2026-08-24T09:19:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -274,7 +301,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11163,
+    "stars": 11164,
     "updated_at": "2026-08-24T09:03:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-24T10:42:20Z",
+    "updated_at": "2026-08-24T10:56:01Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -376,15 +403,6 @@
     "stars": 529,
     "updated_at": "2026-08-24T08:16:18Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:12:36Z",
-    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "Eval-driven model router: pick the best model per task, score with multi-metric eval, track win-rates on a Postgres scor",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:33:03Z",
     "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:29:49Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-24T07:15:07Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
