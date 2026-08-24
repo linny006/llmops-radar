@@ -1,12 +1,111 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57159,
+    "updated_at": "2026-08-24T19:43:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 637,
+    "updated_at": "2026-08-24T19:37:47Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-08-24T19:35:52Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24537,
+    "updated_at": "2026-08-24T19:35:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:34:36Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-24T19:34:32Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:33:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:31:52Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T19:30:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T19:29:37Z",
+    "updated_at": "2026-08-24T19:38:20Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-24T19:29:04Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -14,7 +113,7 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 2,
-    "updated_at": "2026-08-24T19:28:19Z",
+    "updated_at": "2026-08-24T19:33:38Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
@@ -32,44 +131,8 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1170,
-    "updated_at": "2026-08-24T19:29:24Z",
+    "updated_at": "2026-08-24T19:42:07Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57159,
-    "updated_at": "2026-08-24T19:28:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:25:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 636,
-    "updated_at": "2026-08-24T19:25:55Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T19:22:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -108,21 +171,12 @@
     "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:16:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29859,
-    "updated_at": "2026-08-24T19:19:23Z",
+    "updated_at": "2026-08-24T19:34:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21572,
-    "updated_at": "2026-08-24T19:23:02Z",
+    "updated_at": "2026-08-24T19:29:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T19:07:52Z",
+    "updated_at": "2026-08-24T19:43:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3506,
-    "updated_at": "2026-08-24T19:29:07Z",
+    "updated_at": "2026-08-24T19:42:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,6 +232,15 @@
     "stars": 2716,
     "updated_at": "2026-08-24T19:06:47Z",
     "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Polly, Transcribe and Reko",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 23,
+    "updated_at": "2026-08-24T18:57:54Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -211,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2938,
+    "stars": 2941,
     "updated_at": "2026-08-24T18:40:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -223,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T18:31:14Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24536,
-    "updated_at": "2026-08-24T18:58:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -268,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T18:12:59Z",
     "url": "https://github.com/brtydse100/litegate"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-08-24T19:29:08Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11171,
-    "updated_at": "2026-08-24T18:40:23Z",
+    "updated_at": "2026-08-24T19:39:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T16:56:07Z",
     "url": "https://github.com/jlcases/llm-engineering-program"
-  },
-  {
-    "description": "Measure what your inference endpoint actually does: TTFT, throughput, p99, cache hit rate, and cost per million tokens.",
-    "id": "OmegaLevelAI/omegalevel-bench",
-    "language": "Python",
-    "name": "OmegaLevelAI/omegalevel-bench",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:55:48Z",
-    "url": "https://github.com/OmegaLevelAI/omegalevel-bench"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3520,
-    "updated_at": "2026-08-24T17:33:37Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Diagram-first LLM architecture, memory, hardware-fit, throughput, and verified cloud-cost explorer.",
-    "id": "isEmmanuelOlowe/llm-explorer",
-    "language": "TypeScript",
-    "name": "isEmmanuelOlowe/llm-explorer",
-    "stars": 22,
-    "updated_at": "2026-08-24T16:38:20Z",
-    "url": "https://github.com/isEmmanuelOlowe/llm-explorer"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-24T16:33:57Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
-    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "language": "Python",
-    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:30:26Z",
-    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   }
 ]
