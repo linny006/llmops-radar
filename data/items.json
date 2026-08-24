@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33615,
+    "updated_at": "2026-08-24T09:44:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:44:19Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5767,
+    "updated_at": "2026-08-24T09:43:01Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:41:56Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21565,
+    "updated_at": "2026-08-24T09:44:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57126,
+    "updated_at": "2026-08-24T09:37:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Red-team evaluation harness for LLM applications: 120 attacks, deterministic graders, 5 defence layers, and honest befor",
+    "id": "JohnsonManuel/llm-guardrail-eval",
+    "language": "Python",
+    "name": "JohnsonManuel/llm-guardrail-eval",
+    "stars": 0,
+    "updated_at": "2026-08-24T09:35:55Z",
+    "url": "https://github.com/JohnsonManuel/llm-guardrail-eval"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7532,
+    "updated_at": "2026-08-24T09:36:17Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 122,
+    "updated_at": "2026-08-24T09:30:09Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -18,31 +108,13 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21565,
-    "updated_at": "2026-08-24T09:30:04Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-24T09:30:16Z",
+    "updated_at": "2026-08-24T09:39:25Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Red-team evaluation harness for LLM applications: 120 attacks, deterministic graders, 5 defence layers, and honest befor",
-    "id": "JohnsonManuel/llm-guardrail-eval",
-    "language": "Python",
-    "name": "JohnsonManuel/llm-guardrail-eval",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:20:27Z",
-    "url": "https://github.com/JohnsonManuel/llm-guardrail-eval"
   },
   {
     "description": "EvalForge \u2014 local-first AI evaluation engineering platform: deterministic graders, TF-IDF evidence retrieval, optional O",
@@ -54,31 +126,13 @@
     "url": "https://github.com/Kozphy/EvalForge"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33614,
-    "updated_at": "2026-08-24T09:19:36Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27644,
+    "stars": 27646,
     "updated_at": "2026-08-24T09:19:00Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
@@ -130,7 +184,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11161,
+    "stars": 11162,
     "updated_at": "2026-08-24T09:03:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T09:01:16Z",
+    "updated_at": "2026-08-24T09:32:15Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -148,18 +202,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2881,
+    "stars": 2882,
     "updated_at": "2026-08-24T09:01:12Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7531,
-    "updated_at": "2026-08-24T09:00:29Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -180,15 +225,6 @@
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:53:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -196,24 +232,6 @@
     "stars": 4,
     "updated_at": "2026-08-24T08:51:41Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5767,
-    "updated_at": "2026-08-24T08:49:49Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:49:09Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3505,
-    "updated_at": "2026-08-24T09:25:41Z",
+    "updated_at": "2026-08-24T09:44:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/msanket9/stillsane"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57123,
-    "updated_at": "2026-08-24T07:00:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 27,
     "updated_at": "2026-08-24T08:06:07Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:26:10Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   }
 ]
