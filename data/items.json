@@ -1,5 +1,86 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2890,
+    "updated_at": "2026-08-24T11:10:57Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
+    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "language": "Python",
+    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-24T11:07:21Z",
+    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-24T11:14:40Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-24T11:04:42Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33621,
+    "updated_at": "2026-08-24T11:14:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2691,
+    "updated_at": "2026-08-24T11:00:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 35,
+    "updated_at": "2026-08-24T11:00:21Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21566,
+    "updated_at": "2026-08-24T11:09:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -7,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T10:58:54Z",
     "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-24T10:57:36Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -18,33 +108,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-08-24T10:56:48Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21566,
-    "updated_at": "2026-08-24T10:59:55Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T10:52:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -52,15 +115,6 @@
     "stars": 119,
     "updated_at": "2026-08-24T10:55:10Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-24T10:47:15Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -108,21 +162,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33621,
-    "updated_at": "2026-08-24T10:59:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7534,
-    "updated_at": "2026-08-24T10:44:40Z",
+    "updated_at": "2026-08-24T11:00:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3505,
-    "updated_at": "2026-08-24T10:52:01Z",
+    "updated_at": "2026-08-24T11:11:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 28,
     "updated_at": "2026-08-24T10:13:40Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2691,
-    "updated_at": "2026-08-24T10:08:45Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
@@ -306,15 +342,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2889,
-    "updated_at": "2026-08-24T09:01:12Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -373,7 +400,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1062,
+    "stars": 1063,
     "updated_at": "2026-08-24T08:21:09Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-24T10:56:01Z",
+    "updated_at": "2026-08-24T11:04:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2355,
     "updated_at": "2026-08-24T07:53:06Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-24T07:36:57Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 50,
-    "updated_at": "2026-08-24T07:36:11Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:33:03Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
   }
 ]
