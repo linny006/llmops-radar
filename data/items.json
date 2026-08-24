@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
+    "id": "jlcases/llm-engineering-program",
+    "language": "Python",
+    "name": "jlcases/llm-engineering-program",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:59:30Z",
+    "url": "https://github.com/jlcases/llm-engineering-program"
+  },
+  {
+    "description": "Diagram-first LLM architecture, memory, hardware-fit, throughput, and verified cloud-cost explorer.",
+    "id": "isEmmanuelOlowe/llm-explorer",
+    "language": "TypeScript",
+    "name": "isEmmanuelOlowe/llm-explorer",
+    "stars": 22,
+    "updated_at": "2026-08-24T15:58:45Z",
+    "url": "https://github.com/isEmmanuelOlowe/llm-explorer"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 176,
+    "updated_at": "2026-08-24T16:00:08Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:54:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3505,
-    "updated_at": "2026-08-24T15:53:20Z",
+    "updated_at": "2026-08-24T15:55:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24531,
-    "updated_at": "2026-08-24T15:53:50Z",
+    "updated_at": "2026-08-24T15:57:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-24T15:52:26Z",
+    "updated_at": "2026-08-24T15:57:47Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T15:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33631,
-    "updated_at": "2026-08-24T15:45:21Z",
+    "updated_at": "2026-08-24T15:58:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T15:52:22Z",
+    "updated_at": "2026-08-24T15:59:39Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7539,
-    "updated_at": "2026-08-24T15:19:33Z",
+    "updated_at": "2026-08-24T15:59:37Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21569,
-    "updated_at": "2026-08-24T15:50:54Z",
+    "updated_at": "2026-08-24T15:58:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11168,
-    "updated_at": "2026-08-24T15:49:15Z",
+    "updated_at": "2026-08-24T15:58:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 176,
-    "updated_at": "2026-08-24T15:48:04Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T12:32:42Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:29:20Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:29:04Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
