@@ -1,12 +1,30 @@
 [
   {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-24T06:43:49Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 31,
-    "updated_at": "2026-08-24T06:27:05Z",
+    "updated_at": "2026-08-24T06:37:21Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 30,
+    "updated_at": "2026-08-24T06:33:41Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T06:22:58Z",
+    "updated_at": "2026-08-24T06:30:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -31,7 +49,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29851,
+    "stars": 29850,
     "updated_at": "2026-08-24T06:20:12Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3505,
-    "updated_at": "2026-08-24T06:19:06Z",
+    "updated_at": "2026-08-24T06:30:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -76,7 +94,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33602,
+    "stars": 33604,
     "updated_at": "2026-08-24T06:07:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -97,6 +115,15 @@
     "stars": 27637,
     "updated_at": "2026-08-24T06:03:01Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24509,
+    "updated_at": "2026-08-24T05:56:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-24T06:26:51Z",
+    "updated_at": "2026-08-24T06:44:27Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T04:35:46Z",
     "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-24T04:35:33Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-24T04:31:15Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "\ubb38\uc11c\ub9cc \uc8fc\uba74 \ub370\uc774\ud130 \uc0dd\uc131\u00b7\ud559\uc2b5\u00b7\ud3c9\uac00\uae4c\uc9c0 \uc54c\uc544\uc11c \ub3c4\uba54\uc778 LLM\uc744 \ub9cc\ub4e4\uc5b4\uc8fc\ub294 Agentic LLMOps \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\uc5f0\uc5b4 \uc9c0\uc2dc + Human-in-the-Loop, \ub85c\uceec \uad6c\ucd95. Chat-driven LLMOps age",
-    "id": "leeryong/NELLA",
-    "language": "TypeScript",
-    "name": "leeryong/NELLA",
-    "stars": 2,
-    "updated_at": "2026-08-24T04:25:48Z",
-    "url": "https://github.com/leeryong/NELLA"
   }
 ]
