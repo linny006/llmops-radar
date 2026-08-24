@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-24T14:29:30Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T14:25:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -18,13 +36,13 @@
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T14:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7538,
+    "updated_at": "2026-08-24T14:27:35Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21568,
-    "updated_at": "2026-08-24T14:17:12Z",
+    "updated_at": "2026-08-24T14:27:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33630,
-    "updated_at": "2026-08-24T14:09:42Z",
+    "updated_at": "2026-08-24T14:30:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 119,
     "updated_at": "2026-08-24T14:01:19Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7538,
-    "updated_at": "2026-08-24T14:18:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11168,
-    "updated_at": "2026-08-24T14:24:38Z",
+    "updated_at": "2026-08-24T14:26:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -193,7 +202,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57141,
+    "stars": 57142,
     "updated_at": "2026-08-24T13:13:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -418,7 +427,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27649,
+    "stars": 27650,
     "updated_at": "2026-08-24T12:12:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-24T12:11:04Z",
     "url": "https://github.com/kingfs/llm-tracelab"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:09:57Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
