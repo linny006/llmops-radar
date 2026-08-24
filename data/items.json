@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:09:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-24T15:14:46Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21569,
+    "updated_at": "2026-08-24T15:14:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
+    "id": "xjy0526/PortfolioPilot",
+    "language": "Python",
+    "name": "xjy0526/PortfolioPilot",
+    "stars": 1,
+    "updated_at": "2026-08-24T15:05:00Z",
+    "url": "https://github.com/xjy0526/PortfolioPilot"
+  },
+  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
@@ -9,31 +45,22 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
+    "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 60,
+    "updated_at": "2026-08-24T15:03:56Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7538,
-    "updated_at": "2026-08-24T15:01:17Z",
+    "updated_at": "2026-08-24T15:15:20Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T15:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21570,
-    "updated_at": "2026-08-24T15:08:49Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -49,7 +76,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57142,
+    "stars": 57143,
     "updated_at": "2026-08-24T14:51:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33631,
-    "updated_at": "2026-08-24T15:07:33Z",
+    "updated_at": "2026-08-24T15:13:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24528,
-    "updated_at": "2026-08-24T15:09:04Z",
+    "updated_at": "2026-08-24T15:12:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-24T14:44:27Z",
+    "updated_at": "2026-08-24T15:09:36Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-24T15:05:08Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "xuerp/ai-knowledge-explorer",
     "stars": 0,
-    "updated_at": "2026-08-24T15:08:46Z",
+    "updated_at": "2026-08-24T15:10:52Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3505,
-    "updated_at": "2026-08-24T15:09:11Z",
+    "updated_at": "2026-08-24T15:15:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 119,
-    "updated_at": "2026-08-24T14:49:28Z",
+    "updated_at": "2026-08-24T15:09:59Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-24T15:07:42Z",
+    "updated_at": "2026-08-24T15:12:29Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T12:19:45Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:14:56Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:14:45Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   }
 ]
