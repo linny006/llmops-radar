@@ -1,10 +1,73 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21568,
+    "updated_at": "2026-08-24T13:21:44Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:21:42Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T13:29:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-24T13:30:14Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33626,
+    "updated_at": "2026-08-24T13:18:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T13:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:15:04Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57136,
+    "stars": 57137,
     "updated_at": "2026-08-24T13:13:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T13:08:14Z",
     "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T13:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11167,
-    "updated_at": "2026-08-24T12:58:12Z",
+    "updated_at": "2026-08-24T13:21:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,49 +108,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-24T13:14:51Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33626,
-    "updated_at": "2026-08-24T13:11:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21568,
-    "updated_at": "2026-08-24T13:14:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7537,
-    "updated_at": "2026-08-24T12:48:36Z",
+    "updated_at": "2026-08-24T13:28:19Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3505,
-    "updated_at": "2026-08-24T13:14:19Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 119,
-    "updated_at": "2026-08-24T12:42:23Z",
+    "updated_at": "2026-08-24T13:26:30Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-24T12:14:08Z",
+    "updated_at": "2026-08-24T13:30:01Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-24T13:09:41Z",
+    "updated_at": "2026-08-24T13:29:54Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-24T11:50:48Z",
+    "updated_at": "2026-08-24T13:27:57Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -418,8 +436,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2900,
-    "updated_at": "2026-08-24T11:49:25Z",
+    "stars": 2901,
+    "updated_at": "2026-08-24T13:30:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-24T11:46:05Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29853,
-    "updated_at": "2026-08-24T11:44:45Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
-    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "language": "Python",
-    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T11:07:21Z",
-    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   }
 ]
