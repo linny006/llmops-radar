@@ -1,12 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Self-hostable AI gateway - unify OpenAI, Anthropic, Vertex AI, OpenRouter, and self-hosted models behind one proxy with ",
+    "id": "core-labs-io/gatekey",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57164,
-    "updated_at": "2026-08-24T21:32:29Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "core-labs-io/gatekey",
+    "stars": 1,
+    "updated_at": "2026-08-24T21:41:46Z",
+    "url": "https://github.com/core-labs-io/gatekey"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3506,
+    "updated_at": "2026-08-24T21:43:27Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:36:58Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11171,
+    "updated_at": "2026-08-24T21:35:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T21:33:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T21:30:30Z",
+    "updated_at": "2026-08-24T21:33:50Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-24T21:33:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57165,
+    "updated_at": "2026-08-24T21:32:29Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -36,22 +90,13 @@
     "url": "https://github.com/xjy0526/PortfolioPilot"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T21:24:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:29:58Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21576,
+    "updated_at": "2026-08-24T21:20:20Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -61,15 +106,6 @@
     "stars": 27655,
     "updated_at": "2026-08-24T21:24:54Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3506,
-    "updated_at": "2026-08-24T21:28:49Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:11:38Z",
     "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-24T21:33:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-08-24T20:49:43Z",
+    "updated_at": "2026-08-24T21:39:04Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -176,17 +203,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33644,
-    "updated_at": "2026-08-24T21:32:20Z",
+    "updated_at": "2026-08-24T21:34:52Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11171,
-    "updated_at": "2026-08-24T21:33:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:17:02Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21575,
-    "updated_at": "2026-08-24T21:20:20Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T17:19:32Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-08-24T17:16:46Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
   }
 ]
