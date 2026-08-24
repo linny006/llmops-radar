@@ -1,12 +1,30 @@
 [
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
     "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-23T23:59:43Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-08-24T00:11:40Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1042,
+    "updated_at": "2026-08-24T00:09:51Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-24T00:13:53Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T23:58:58Z",
+    "updated_at": "2026-08-24T00:00:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-24T00:11:55Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
@@ -54,15 +81,6 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1042,
-    "updated_at": "2026-08-23T23:54:40Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 48,
-    "updated_at": "2026-08-23T23:56:25Z",
+    "updated_at": "2026-08-24T00:07:29Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -153,20 +171,11 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T23:52:37Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
     "id": "48Nauts-Operator/NautGate",
     "language": "Python",
     "name": "48Nauts-Operator/NautGate",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-23T22:57:28Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-23T22:41:05Z",
+    "updated_at": "2026-08-24T00:03:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-23T20:39:49Z",
     "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Field-tested containment for LLM agents in production: twelve principles from 18 real incidents, with runnable controls ",
-    "id": "antoniodelia-hash/blast-radius",
-    "language": "Python",
-    "name": "antoniodelia-hash/blast-radius",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:39:14Z",
-    "url": "https://github.com/antoniodelia-hash/blast-radius"
   }
 ]
