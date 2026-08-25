@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T11:14:42Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-25T11:10:18Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33668,
+    "updated_at": "2026-08-25T11:14:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-25T11:03:47Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-25T11:03:35Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T10:59:41Z",
+    "updated_at": "2026-08-25T11:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -27,13 +72,13 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T10:55:35Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7561,
+    "updated_at": "2026-08-25T10:55:02Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21594,
-    "updated_at": "2026-08-25T10:54:29Z",
+    "updated_at": "2026-08-25T11:06:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -63,21 +108,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-25T10:54:52Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2701,
-    "updated_at": "2026-08-25T10:45:36Z",
+    "updated_at": "2026-08-25T11:06:19Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T10:42:15Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33668,
-    "updated_at": "2026-08-25T10:56:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T10:37:25Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7560,
-    "updated_at": "2026-08-25T10:55:02Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -148,7 +166,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 2980,
+    "stars": 2981,
     "updated_at": "2026-08-25T10:25:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T10:54:15Z",
+    "updated_at": "2026-08-25T11:14:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-25T09:50:05Z",
+    "updated_at": "2026-08-25T11:04:42Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -265,7 +283,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27668,
+    "stars": 27669,
     "updated_at": "2026-08-25T09:25:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -284,7 +302,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T10:42:56Z",
+    "updated_at": "2026-08-25T11:09:50Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T09:03:23Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-25T09:01:31Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
@@ -439,14 +448,5 @@
     "stars": 11181,
     "updated_at": "2026-08-25T07:07:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-25T07:07:13Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
