@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:30:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Governed change control for swapping the AI model in a production application: evaluate, approve, activate with read-bac",
+    "id": "Theebban/modelpromote",
+    "language": "\u2014",
+    "name": "Theebban/modelpromote",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:30:19Z",
+    "url": "https://github.com/Theebban/modelpromote"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:23:51Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:23:51Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -52,15 +70,6 @@
     "stars": 3511,
     "updated_at": "2026-08-25T18:29:12Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -95,7 +104,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-25T18:04:48Z",
+    "updated_at": "2026-08-25T18:33:16Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33683,
-    "updated_at": "2026-08-25T18:26:55Z",
+    "updated_at": "2026-08-25T18:32:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -158,7 +167,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T18:06:35Z",
+    "updated_at": "2026-08-25T18:30:57Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -194,7 +203,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T17:35:17Z",
+    "updated_at": "2026-08-25T18:33:58Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-25T17:12:16Z",
+    "updated_at": "2026-08-25T18:32:21Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21600,
-    "updated_at": "2026-08-25T17:12:47Z",
+    "updated_at": "2026-08-25T18:32:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 389,
     "updated_at": "2026-08-25T16:37:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:51:56Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
   }
 ]
