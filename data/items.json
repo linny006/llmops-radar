@@ -1,12 +1,39 @@
 [
   {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:29:12Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-25T08:28:19Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33666,
-    "updated_at": "2026-08-25T08:22:03Z",
+    "stars": 33665,
+    "updated_at": "2026-08-25T08:24:42Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:22:46Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27666,
-    "updated_at": "2026-08-25T08:20:55Z",
+    "updated_at": "2026-08-25T08:28:39Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
     "id": "AnishSingh15/llm-cost-governor",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:05:59Z",
     "url": "https://github.com/AnishSingh15/llm-cost-governor"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-25T08:03:37Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -85,7 +94,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57210,
+    "stars": 57211,
     "updated_at": "2026-08-25T08:01:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21591,
-    "updated_at": "2026-08-25T08:18:44Z",
+    "updated_at": "2026-08-25T08:29:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7557,
-    "updated_at": "2026-08-25T07:50:20Z",
+    "updated_at": "2026-08-25T08:25:05Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T08:18:01Z",
+    "updated_at": "2026-08-25T08:24:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -256,7 +265,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11177,
+    "stars": 11178,
     "updated_at": "2026-08-25T07:07:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-25T07:02:31Z",
+    "updated_at": "2026-08-25T08:28:21Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5562,
-    "updated_at": "2026-08-25T06:44:45Z",
+    "updated_at": "2026-08-25T08:28:10Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -337,7 +346,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1015,
+    "stars": 1010,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -412,15 +421,6 @@
     "stars": 6,
     "updated_at": "2026-08-25T07:49:19Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-25T04:36:28Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
