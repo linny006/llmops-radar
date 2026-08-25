@@ -1,12 +1,84 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7546,
+    "updated_at": "2026-08-25T02:27:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57179,
+    "updated_at": "2026-08-25T02:21:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 15,
+    "updated_at": "2026-08-25T02:21:21Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T02:30:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27661,
+    "updated_at": "2026-08-25T02:19:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-25T02:18:38Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
     "id": "shaikn6/shaikn6",
     "language": "Python",
     "name": "shaikn6/shaikn6",
     "stars": 0,
-    "updated_at": "2026-08-25T02:15:12Z",
+    "updated_at": "2026-08-25T02:15:29Z",
     "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T02:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-25T02:15:10Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -23,17 +95,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T02:13:48Z",
+    "updated_at": "2026-08-25T02:24:51Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57177,
-    "updated_at": "2026-08-25T02:12:26Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -41,35 +104,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24543,
-    "updated_at": "2026-08-25T02:11:48Z",
+    "updated_at": "2026-08-25T02:18:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T02:04:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T02:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27661,
-    "updated_at": "2026-08-25T02:01:10Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -104,17 +140,8 @@
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
     "stars": 1076,
-    "updated_at": "2026-08-25T01:51:13Z",
+    "updated_at": "2026-08-25T02:26:34Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-25T01:47:52Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29864,
-    "updated_at": "2026-08-25T02:14:44Z",
+    "updated_at": "2026-08-25T02:25:18Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11173,
-    "updated_at": "2026-08-25T01:59:42Z",
+    "updated_at": "2026-08-25T02:29:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 15,
-    "updated_at": "2026-08-25T02:10:34Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3507,
-    "updated_at": "2026-08-25T02:14:41Z",
+    "updated_at": "2026-08-25T02:27:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-25T00:18:58Z",
+    "updated_at": "2026-08-25T02:21:33Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T22:51:00Z",
     "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-08-24T22:44:01Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
-    "description": "A production-grade, two-stage Financial RAG architecture analyzing SEC 10-K reports. Features an evaluation sandbox (RAG",
-    "id": "Subhrajyoti8520/enterprise-rag-evaluation",
-    "language": "Jupyter Notebook",
-    "name": "Subhrajyoti8520/enterprise-rag-evaluation",
-    "stars": 0,
-    "updated_at": "2026-08-24T22:28:47Z",
-    "url": "https://github.com/Subhrajyoti8520/enterprise-rag-evaluation"
   }
 ]
