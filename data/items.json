@@ -1,21 +1,48 @@
 [
   {
-    "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
-    "id": "AnishSingh15/llm-cost-governor",
-    "language": "\u2014",
-    "name": "AnishSingh15/llm-cost-governor",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:44:47Z",
-    "url": "https://github.com/AnishSingh15/llm-cost-governor"
-  },
-  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
     "id": "SoraVantia/cli-modelarium",
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-25T07:44:58Z",
+    "updated_at": "2026-08-25T07:59:53Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 92,
+    "updated_at": "2026-08-25T07:53:37Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33666,
+    "updated_at": "2026-08-25T07:54:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7557,
+    "updated_at": "2026-08-25T07:50:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T07:49:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,8 +50,17 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2696,
-    "updated_at": "2026-08-25T07:43:40Z",
+    "updated_at": "2026-08-25T07:47:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57204,
+    "updated_at": "2026-08-25T07:47:03Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T07:43:07Z",
+    "updated_at": "2026-08-25T07:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
+    "id": "AnishSingh15/llm-cost-governor",
+    "language": "Python",
+    "name": "AnishSingh15/llm-cost-governor",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:44:47Z",
+    "url": "https://github.com/AnishSingh15/llm-cost-governor"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -54,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:40:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -70,15 +106,6 @@
     "stars": 32,
     "updated_at": "2026-08-25T07:38:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33663,
-    "updated_at": "2026-08-25T07:37:35Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27666,
-    "updated_at": "2026-08-25T07:35:36Z",
+    "updated_at": "2026-08-25T07:55:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -122,17 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T07:41:33Z",
+    "updated_at": "2026-08-25T07:55:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57203,
-    "updated_at": "2026-08-25T07:32:33Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21590,
-    "updated_at": "2026-08-25T07:14:32Z",
+    "updated_at": "2026-08-25T08:00:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +194,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T07:12:34Z",
+    "updated_at": "2026-08-25T07:56:35Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5705,
-    "updated_at": "2026-08-25T07:37:44Z",
+    "updated_at": "2026-08-25T07:56:17Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -243,15 +261,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7556,
-    "updated_at": "2026-08-25T07:41:12Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -283,7 +292,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1085,
+    "stars": 1086,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -319,7 +328,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24553,
+    "stars": 24555,
     "updated_at": "2026-08-25T06:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-25T06:03:35Z",
+    "updated_at": "2026-08-25T07:49:19Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11912,
-    "updated_at": "2026-08-25T07:44:52Z",
+    "updated_at": "2026-08-25T07:59:40Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -401,7 +410,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T07:03:13Z",
+    "updated_at": "2026-08-25T07:58:53Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -409,7 +418,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8395,
+    "stars": 8396,
     "updated_at": "2026-08-25T04:12:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T04:05:38Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:05:10Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
   }
 ]
