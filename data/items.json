@@ -1,5 +1,86 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T00:29:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57168,
+    "updated_at": "2026-08-25T00:29:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:25:19Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:24:31Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 15,
+    "updated_at": "2026-08-25T00:24:20Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24541,
+    "updated_at": "2026-08-25T00:25:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:16:50Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27658,
+    "updated_at": "2026-08-25T00:15:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -18,33 +99,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24541,
-    "updated_at": "2026-08-25T00:14:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T00:09:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57168,
-    "updated_at": "2026-08-25T00:07:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A practical 24-week, project-based roadmap for learning machine learning, deep learning, generative AI, agents, evaluati",
     "id": "yash0208/ai-engineering-roadmap",
     "language": "\u2014",
@@ -59,17 +113,8 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T00:11:36Z",
+    "updated_at": "2026-08-25T00:27:42Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-08-25T00:03:27Z",
-    "url": "https://github.com/api-evangelist/agenta"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -88,15 +133,6 @@
     "stars": 3507,
     "updated_at": "2026-08-25T00:01:12Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -126,21 +162,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27656,
-    "updated_at": "2026-08-25T00:15:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-08-24T23:50:04Z",
+    "updated_at": "2026-08-25T00:30:13Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-25T00:04:21Z",
+    "updated_at": "2026-08-25T00:15:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-25T00:07:50Z",
+    "updated_at": "2026-08-25T00:18:58Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -319,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33645,
+    "stars": 33646,
     "updated_at": "2026-08-24T21:34:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-24T19:34:32Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-24T20:38:54Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-24T19:29:04Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 2,
-    "updated_at": "2026-08-24T19:33:38Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   }
 ]
