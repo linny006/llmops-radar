@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T15:14:43Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:12:43Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "Python",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:08:38Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
+    "id": "xjy0526/PortfolioPilot",
+    "language": "Python",
+    "name": "xjy0526/PortfolioPilot",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:08:23Z",
+    "url": "https://github.com/xjy0526/PortfolioPilot"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57245,
+    "updated_at": "2026-08-25T15:12:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T15:00:30Z",
+    "updated_at": "2026-08-25T15:03:39Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -13,8 +58,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33674,
-    "updated_at": "2026-08-25T15:02:03Z",
+    "stars": 33675,
+    "updated_at": "2026-08-25T15:05:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1809,
-    "updated_at": "2026-08-25T14:57:35Z",
+    "updated_at": "2026-08-25T15:07:17Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57244,
-    "updated_at": "2026-08-25T14:56:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
@@ -77,17 +113,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-25T15:01:55Z",
+    "updated_at": "2026-08-25T15:14:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T15:00:59Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-demo",
     "stars": 3,
-    "updated_at": "2026-08-25T14:33:48Z",
+    "updated_at": "2026-08-25T15:10:07Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21598,
-    "updated_at": "2026-08-25T15:01:52Z",
+    "updated_at": "2026-08-25T15:10:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27674,
-    "updated_at": "2026-08-25T14:16:16Z",
+    "updated_at": "2026-08-25T15:05:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T14:58:57Z",
+    "updated_at": "2026-08-25T15:14:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11187,
-    "updated_at": "2026-08-25T14:45:35Z",
+    "updated_at": "2026-08-25T15:14:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -284,7 +311,7 @@
     "language": "HTML",
     "name": "haomingkoo/haomingkoo.github.io",
     "stars": 0,
-    "updated_at": "2026-08-25T13:48:07Z",
+    "updated_at": "2026-08-25T15:04:51Z",
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 647,
     "updated_at": "2026-08-25T14:58:22Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:02:34Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:34:53Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
-    "id": "xjy0526/PortfolioPilot",
-    "language": "Python",
-    "name": "xjy0526/PortfolioPilot",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:51:07Z",
-    "url": "https://github.com/xjy0526/PortfolioPilot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:33:18Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
