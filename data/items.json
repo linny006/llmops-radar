@@ -1,12 +1,57 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21595,
+    "updated_at": "2026-08-25T12:14:26Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33670,
+    "updated_at": "2026-08-25T12:10:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T12:13:56Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-25T12:04:43Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T12:00:30Z",
+    "updated_at": "2026-08-25T12:02:17Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:59:47Z",
+    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -16,24 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T11:59:08Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21594,
-    "updated_at": "2026-08-25T11:57:52Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T11:57:11Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -50,7 +77,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2702,
-    "updated_at": "2026-08-25T11:55:35Z",
+    "updated_at": "2026-08-25T12:09:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-25T11:54:12Z",
+    "updated_at": "2026-08-25T12:10:53Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-25T11:52:12Z",
+    "updated_at": "2026-08-25T12:05:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -81,6 +108,15 @@
     "url": "https://github.com/poorvanshi10/VeritasRAG"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7563,
+    "updated_at": "2026-08-25T11:46:36Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
     "id": "somewhereafter/flourite",
     "language": "Python",
@@ -88,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:39:11Z",
     "url": "https://github.com/somewhereafter/flourite"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27670,
+    "updated_at": "2026-08-25T11:38:25Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1808,
-    "updated_at": "2026-08-25T11:30:55Z",
+    "updated_at": "2026-08-25T12:15:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/soit-ai/soit"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33669,
-    "updated_at": "2026-08-25T11:58:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
     "id": "idevelopAI/llm-eval-control-plane",
     "language": "Python",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-25T11:03:35Z",
+    "updated_at": "2026-08-25T12:09:53Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7561,
-    "updated_at": "2026-08-25T11:46:36Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T11:26:57Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:59:47Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-08-25T11:57:53Z",
+    "updated_at": "2026-08-25T12:13:50Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T11:58:13Z",
+    "updated_at": "2026-08-25T12:14:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -283,8 +301,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57232,
-    "updated_at": "2026-08-25T10:03:58Z",
+    "stars": 57233,
+    "updated_at": "2026-08-25T12:14:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27669,
-    "updated_at": "2026-08-25T11:38:25Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
     "id": "ha7n23/careerops-agent-engine",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T11:41:56Z",
+    "updated_at": "2026-08-25T12:09:39Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T07:42:13Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T07:38:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
