@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T13:30:23Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-25T13:19:13Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 0,
-    "updated_at": "2026-08-25T13:15:03Z",
+    "updated_at": "2026-08-25T13:19:05Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-25T13:18:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27673,
+    "updated_at": "2026-08-25T13:15:50Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T13:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
@@ -18,40 +63,22 @@
     "url": "https://github.com/KazKozDev/prompt-playoff"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33674,
+    "updated_at": "2026-08-25T13:13:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 647,
-    "updated_at": "2026-08-25T13:11:24Z",
+    "updated_at": "2026-08-25T13:25:45Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:10:15Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33672,
-    "updated_at": "2026-08-25T13:13:49Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T13:11:16Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -59,7 +86,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T13:13:55Z",
+    "updated_at": "2026-08-25T13:29:19Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T12:55:37Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-25T12:54:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -130,7 +148,7 @@
     "id": "VeraPyuyi/prompt_control_lab",
     "language": "Python",
     "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-25T12:45:03Z",
     "url": "https://github.com/VeraPyuyi/prompt_control_lab"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21597,
-    "updated_at": "2026-08-25T13:15:23Z",
+    "updated_at": "2026-08-25T13:22:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7562,
-    "updated_at": "2026-08-25T13:08:00Z",
+    "updated_at": "2026-08-25T13:19:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T12:33:18Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27673,
-    "updated_at": "2026-08-25T13:10:53Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1808,
-    "updated_at": "2026-08-25T12:58:06Z",
+    "updated_at": "2026-08-25T13:26:42Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -382,8 +391,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57234,
-    "updated_at": "2026-08-25T12:14:22Z",
+    "stars": 57239,
+    "updated_at": "2026-08-25T13:26:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:52:06Z",
     "url": "https://github.com/poorvanshi10/VeritasRAG"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "somewhereafter/flourite",
-    "language": "Python",
-    "name": "somewhereafter/flourite",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:39:11Z",
-    "url": "https://github.com/somewhereafter/flourite"
   }
 ]
