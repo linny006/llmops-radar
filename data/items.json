@@ -1,21 +1,57 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27676,
-    "updated_at": "2026-08-25T18:40:02Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-25T18:39:11Z",
+    "updated_at": "2026-08-25T18:57:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Crossplane provider for LiteLLM \u2014 manage LiteLLM proxy models, credentials, keys, teams, budgets and guardrails as Kuber",
+    "id": "TheCodingSheikh/provider-litellm",
+    "language": "Go",
+    "name": "TheCodingSheikh/provider-litellm",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:54:51Z",
+    "url": "https://github.com/TheCodingSheikh/provider-litellm"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:55:00Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7567,
+    "updated_at": "2026-08-25T18:53:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T19:00:03Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:51:59Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +59,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57257,
-    "updated_at": "2026-08-25T18:44:15Z",
+    "updated_at": "2026-08-25T18:56:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 16,
+    "updated_at": "2026-08-25T18:50:22Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-25T18:48:07Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11191,
+    "updated_at": "2026-08-25T18:47:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:45:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed change control for swapping the AI model in a production application: evaluate, approve, activate with read-bac",
@@ -32,8 +113,35 @@
     "language": "TypeScript",
     "name": "Theebban/modelpromote",
     "stars": 0,
-    "updated_at": "2026-08-25T18:45:12Z",
+    "updated_at": "2026-08-25T18:53:39Z",
     "url": "https://github.com/Theebban/modelpromote"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:41:40Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-25T18:40:22Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27676,
+    "updated_at": "2026-08-25T19:00:03Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -52,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T18:36:08Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:34:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:33:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T18:37:10Z",
+    "updated_at": "2026-08-25T18:58:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1816,
-    "updated_at": "2026-08-25T18:43:25Z",
+    "updated_at": "2026-08-25T18:52:23Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -140,7 +230,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-25T18:40:02Z",
+    "updated_at": "2026-08-25T18:56:02Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -180,21 +270,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:39:28Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 409,
-    "updated_at": "2026-08-25T18:17:28Z",
+    "updated_at": "2026-08-25T18:56:38Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T17:39:16Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11190,
-    "updated_at": "2026-08-25T18:43:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -230,7 +302,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29875,
-    "updated_at": "2026-08-25T17:29:52Z",
+    "updated_at": "2026-08-25T18:49:33Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T17:15:01Z",
     "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-25T18:40:22Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
@@ -268,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:02:01Z",
     "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7566,
-    "updated_at": "2026-08-25T17:58:39Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21600,
-    "updated_at": "2026-08-25T18:32:54Z",
+    "updated_at": "2026-08-25T18:59:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T16:14:29Z",
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
-    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
-    "id": "Fortitude-Group/OmnisBench",
-    "language": "Python",
-    "name": "Fortitude-Group/OmnisBench",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:06:26Z",
-    "url": "https://github.com/Fortitude-Group/OmnisBench"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-08-25T16:04:28Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-25T16:04:26Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-25T16:03:50Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:39:36Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-25T16:37:28Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
