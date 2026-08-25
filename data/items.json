@@ -1,5 +1,77 @@
 [
   {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:45:17Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24542,
+    "updated_at": "2026-08-25T00:42:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:36:02Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:43:02Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3507,
+    "updated_at": "2026-08-25T00:43:29Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:30:43Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-08-25T00:30:13Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57168,
-    "updated_at": "2026-08-25T00:29:47Z",
+    "updated_at": "2026-08-25T00:44:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,17 +113,8 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 15,
-    "updated_at": "2026-08-25T00:24:20Z",
+    "updated_at": "2026-08-25T00:30:31Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24541,
-    "updated_at": "2026-08-25T00:25:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
@@ -63,20 +126,11 @@
     "url": "https://github.com/api-evangelist/braintrust-data"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27658,
+    "stars": 27659,
     "updated_at": "2026-08-25T00:15:24Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -108,15 +162,6 @@
     "url": "https://github.com/yash0208/ai-engineering-roadmap"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:27:42Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "JavaScript",
@@ -126,21 +171,12 @@
     "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3507,
-    "updated_at": "2026-08-25T00:01:12Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11172,
-    "updated_at": "2026-08-25T00:00:31Z",
+    "updated_at": "2026-08-25T00:41:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-08-25T00:30:13Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-25T00:15:53Z",
+    "updated_at": "2026-08-25T00:45:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-08-25T00:18:58Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-08-24T23:22:56Z",
-    "url": "https://github.com/shaikn6/shaikn6"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -430,23 +448,5 @@
     "stars": 1805,
     "updated_at": "2026-08-24T20:25:13Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 641,
-    "updated_at": "2026-08-24T19:37:47Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-24T19:34:32Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   }
 ]
