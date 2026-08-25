@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57193,
+    "updated_at": "2026-08-25T05:56:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27664,
+    "updated_at": "2026-08-25T05:52:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24547,
+    "updated_at": "2026-08-25T05:53:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T05:58:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T05:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11174,
-    "updated_at": "2026-08-25T05:40:22Z",
+    "updated_at": "2026-08-25T05:56:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T05:35:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -45,22 +81,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27664,
-    "updated_at": "2026-08-25T05:43:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24545,
-    "updated_at": "2026-08-25T05:42:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7555,
+    "updated_at": "2026-08-25T05:32:09Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -70,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-08-25T05:30:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T05:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T05:42:13Z",
+    "updated_at": "2026-08-25T05:57:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,24 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-25T05:05:02Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57190,
-    "updated_at": "2026-08-25T05:29:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7554,
-    "updated_at": "2026-08-25T05:32:09Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
