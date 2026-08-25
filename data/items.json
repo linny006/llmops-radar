@@ -1,12 +1,66 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 2979,
+    "updated_at": "2026-08-25T10:25:59Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1066,
+    "updated_at": "2026-08-25T10:23:02Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21593,
+    "updated_at": "2026-08-25T10:25:58Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:19:28Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3192,
-    "updated_at": "2026-08-25T10:15:14Z",
+    "updated_at": "2026-08-25T10:18:57Z",
     "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33670,
+    "updated_at": "2026-08-25T10:26:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T10:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T10:15:09Z",
+    "updated_at": "2026-08-25T10:20:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -40,7 +94,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57225,
+    "stars": 57226,
     "updated_at": "2026-08-25T10:03:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T10:01:32Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T10:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -108,24 +153,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 2979,
-    "updated_at": "2026-08-25T09:45:28Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33668,
-    "updated_at": "2026-08-25T10:06:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T09:40:14Z",
+    "updated_at": "2026-08-25T10:27:07Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -175,7 +202,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2699,
+    "stars": 2700,
     "updated_at": "2026-08-25T09:29:51Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -184,7 +211,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27666,
+    "stars": 27667,
     "updated_at": "2026-08-25T09:25:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T09:11:49Z",
     "url": "https://github.com/somewhereafter/flourite"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21593,
-    "updated_at": "2026-08-25T10:12:29Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -288,15 +306,6 @@
     "url": "https://github.com/bentoml/BentoML"
   },
   {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:59:58Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -340,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T07:36:55Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1066,
-    "updated_at": "2026-08-25T09:50:31Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
