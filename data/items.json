@@ -1,5 +1,23 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57255,
+    "updated_at": "2026-08-25T17:51:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -32,7 +50,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T17:43:55Z",
+    "updated_at": "2026-08-25T17:54:43Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -43,6 +61,15 @@
     "stars": 408,
     "updated_at": "2026-08-25T17:39:38Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "Python",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:39:16Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -81,15 +108,6 @@
     "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33682,
-    "updated_at": "2026-08-25T17:28:10Z",
+    "updated_at": "2026-08-25T17:52:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-08-25T17:12:16Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57255,
-    "updated_at": "2026-08-25T17:39:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
@@ -184,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3004,
+    "stars": 3005,
     "updated_at": "2026-08-25T16:48:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-25T16:38:49Z",
+    "updated_at": "2026-08-25T17:52:51Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27675,
-    "updated_at": "2026-08-25T17:43:52Z",
+    "updated_at": "2026-08-25T17:50:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-25T16:29:01Z",
+    "updated_at": "2026-08-25T17:51:56Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 29874,
     "updated_at": "2026-08-25T17:29:52Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "Python",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:39:16Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "Traceable investment research platform with PostgreSQL ledger, point-in-time valuation, governed RAG, LLM tracing and hu",
