@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57252,
+    "updated_at": "2026-08-25T16:07:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
+    "id": "Fortitude-Group/OmnisBench",
+    "language": "Python",
+    "name": "Fortitude-Group/OmnisBench",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:06:26Z",
+    "url": "https://github.com/Fortitude-Group/OmnisBench"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-08-25T16:04:28Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:03:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T15:58:49Z",
+    "updated_at": "2026-08-25T16:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-25T15:58:14Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/modelpin",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:57:00Z",
+    "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -23,8 +77,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33677,
-    "updated_at": "2026-08-25T16:00:22Z",
+    "updated_at": "2026-08-25T16:12:12Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "somewhereafter/flourite",
+    "language": "Python",
+    "name": "somewhereafter/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:50:42Z",
+    "url": "https://github.com/somewhereafter/flourite"
   },
   {
     "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
@@ -32,7 +95,7 @@
     "language": "Shell",
     "name": "MaximSTH/meta-layer-starter",
     "stars": 2,
-    "updated_at": "2026-08-25T15:59:44Z",
+    "updated_at": "2026-08-25T16:11:30Z",
     "url": "https://github.com/MaximSTH/meta-layer-starter"
   },
   {
@@ -41,7 +104,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T16:00:02Z",
+    "updated_at": "2026-08-25T16:14:07Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -54,13 +117,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-25T15:58:14Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "mikehasa/agentacct",
+    "stars": 647,
+    "updated_at": "2026-08-25T15:47:55Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's ",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "tma1-ai/tma1",
     "stars": 116,
-    "updated_at": "2026-08-25T15:40:20Z",
+    "updated_at": "2026-08-25T16:12:54Z",
     "url": "https://github.com/tma1-ai/tma1"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21599,
-    "updated_at": "2026-08-25T15:59:45Z",
+    "updated_at": "2026-08-25T16:12:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1811,
-    "updated_at": "2026-08-25T15:54:18Z",
+    "updated_at": "2026-08-25T16:12:09Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57250,
-    "updated_at": "2026-08-25T15:22:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -162,13 +216,13 @@
     "url": "https://github.com/shizheng-rlfresh/skim"
   },
   {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:52:35Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29874,
+    "updated_at": "2026-08-25T15:17:18Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 156,
-    "updated_at": "2026-08-25T14:58:56Z",
+    "updated_at": "2026-08-25T16:07:40Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-25T15:55:12Z",
+    "updated_at": "2026-08-25T16:12:29Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 121,
     "updated_at": "2026-08-25T14:40:18Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:57:00Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
     "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
@@ -320,24 +365,15 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T15:57:58Z",
+    "updated_at": "2026-08-25T16:14:15Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29875,
-    "updated_at": "2026-08-25T15:17:18Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24563,
+    "stars": 24564,
     "updated_at": "2026-08-25T14:03:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-08-25T14:47:38Z",
+    "updated_at": "2026-08-25T16:04:46Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 647,
-    "updated_at": "2026-08-25T15:47:55Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:52:58Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-25T12:51:36Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 18,
-    "updated_at": "2026-08-25T12:45:40Z",
-    "url": "https://github.com/jochi2018/Soup"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:45:33Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   }
 ]
