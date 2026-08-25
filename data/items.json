@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57260,
+    "updated_at": "2026-08-25T22:12:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-25T22:07:19Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T22:15:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T22:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
     "id": "systempromptio/systemprompt-demo",
     "language": "Rust",
@@ -14,26 +50,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29878,
-    "updated_at": "2026-08-25T21:57:51Z",
+    "updated_at": "2026-08-25T22:05:52Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57259,
-    "updated_at": "2026-08-25T21:55:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T21:52:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -45,13 +63,13 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T21:57:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33690,
+    "updated_at": "2026-08-25T21:50:24Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Deterministic nightly auditor that checks an autonomous agent fleet against its own rulebook",
@@ -61,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T21:37:06Z",
     "url": "https://github.com/kemdrixberkeley/agent-governance"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27678,
+    "updated_at": "2026-08-25T21:34:02Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-08-25T21:51:30Z",
+    "updated_at": "2026-08-25T22:02:29Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -193,7 +220,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21603,
+    "stars": 21604,
     "updated_at": "2026-08-25T20:41:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-25T21:38:52Z",
+    "updated_at": "2026-08-25T22:13:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -392,7 +419,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T21:55:44Z",
+    "updated_at": "2026-08-25T22:10:32Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-25T21:18:22Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:20:34Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-08-25T19:20:27Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-25T19:14:35Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
