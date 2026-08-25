@@ -1,11 +1,101 @@
 [
   {
+    "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
+    "id": "beastofbayarea/mistral-studio-marketing",
+    "language": "Python",
+    "name": "beastofbayarea/mistral-studio-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:28:09Z",
+    "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:29:04Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33679,
+    "updated_at": "2026-08-25T16:28:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A practical four-month, project-based roadmap for learning machine learning, deep learning, generative AI, agents, evalu",
+    "id": "yash0208/ai-engineering-roadmap",
+    "language": "\u2014",
+    "name": "yash0208/ai-engineering-roadmap",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:18:29Z",
+    "url": "https://github.com/yash0208/ai-engineering-roadmap"
+  },
+  {
+    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
+    "id": "MaximSTH/meta-layer-starter",
+    "language": "Shell",
+    "name": "MaximSTH/meta-layer-starter",
+    "stars": 2,
+    "updated_at": "2026-08-25T16:16:24Z",
+    "url": "https://github.com/MaximSTH/meta-layer-starter"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:15:33Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21599,
+    "updated_at": "2026-08-25T16:12:37Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1812,
+    "updated_at": "2026-08-25T16:23:56Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1066,
+    "updated_at": "2026-08-25T16:11:05Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57252,
-    "updated_at": "2026-08-25T16:07:56Z",
+    "stars": 57253,
+    "updated_at": "2026-08-25T16:30:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,6 +117,15 @@
     "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:04:26Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
     "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
     "id": "systempromptio/systemprompt-demo",
     "language": "Rust",
@@ -36,13 +135,13 @@
     "url": "https://github.com/systempromptio/systemprompt-demo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "symphos-ai/orcho-core",
     "stars": 3,
-    "updated_at": "2026-08-25T16:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-08-25T16:01:17Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-25T15:57:00Z",
+    "updated_at": "2026-08-25T16:29:01Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -72,13 +171,13 @@
     "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33677,
-    "updated_at": "2026-08-25T16:12:12Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-25T15:54:19Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -88,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:50:42Z",
     "url": "https://github.com/somewhereafter/flourite"
-  },
-  {
-    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
-    "id": "MaximSTH/meta-layer-starter",
-    "language": "Shell",
-    "name": "MaximSTH/meta-layer-starter",
-    "stars": 2,
-    "updated_at": "2026-08-25T16:11:30Z",
-    "url": "https://github.com/MaximSTH/meta-layer-starter"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-25T16:14:07Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -131,7 +212,7 @@
     "language": "Go",
     "name": "tma1-ai/tma1",
     "stars": 116,
-    "updated_at": "2026-08-25T16:12:54Z",
+    "updated_at": "2026-08-25T16:30:21Z",
     "url": "https://github.com/tma1-ai/tma1"
   },
   {
@@ -142,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:39:42Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21599,
-    "updated_at": "2026-08-25T16:12:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1811,
-    "updated_at": "2026-08-25T16:12:09Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27674,
-    "updated_at": "2026-08-25T15:42:25Z",
+    "updated_at": "2026-08-25T16:29:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-25T16:12:29Z",
+    "updated_at": "2026-08-25T16:17:53Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -286,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T14:55:12Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-25T15:54:19Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T16:14:15Z",
+    "updated_at": "2026-08-25T16:27:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-25T16:04:46Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:51:31Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "A focused 45-day, project-based roadmap for learning machine learning, deep learning, generative AI, agents, evaluation,",
-    "id": "yash0208/ai-engineering-roadmap",
-    "language": "\u2014",
-    "name": "yash0208/ai-engineering-roadmap",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:34:00Z",
-    "url": "https://github.com/yash0208/ai-engineering-roadmap"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:26:37Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-25T13:35:10Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:19:05Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:52:58Z",
-    "url": "https://github.com/hpnkv/a11"
   }
 ]
