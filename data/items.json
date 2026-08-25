@@ -1,12 +1,57 @@
 [
   {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "somewhereafter/flourite",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "somewhereafter/flourite",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T11:57:11Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-25T11:55:37Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2701,
+    "updated_at": "2026-08-25T11:55:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-25T11:54:12Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-25T11:52:12Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "VeritasRAG \u2014 Low-Latency, Grounded Document Intelligence PlatformProduction-grade RAG pipeline featuring asynchronous SS",
+    "id": "poorvanshi10/VeritasRAG",
+    "language": "Python",
+    "name": "poorvanshi10/VeritasRAG",
     "stars": 0,
-    "updated_at": "2026-08-25T11:39:11Z",
-    "url": "https://github.com/somewhereafter/flourite"
+    "updated_at": "2026-08-25T11:52:06Z",
+    "url": "https://github.com/poorvanshi10/VeritasRAG"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T11:35:22Z",
+    "updated_at": "2026-08-25T11:45:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "somewhereafter/flourite",
+    "language": "Python",
+    "name": "somewhereafter/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:39:11Z",
+    "url": "https://github.com/somewhereafter/flourite"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -45,12 +99,21 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1808,
+    "updated_at": "2026-08-25T11:30:55Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T11:42:47Z",
+    "updated_at": "2026-08-25T11:58:20Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T11:39:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33669,
-    "updated_at": "2026-08-25T11:34:06Z",
+    "updated_at": "2026-08-25T11:58:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -106,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T11:16:17Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-25T11:10:18Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-25T11:39:25Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -149,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7561,
-    "updated_at": "2026-08-25T11:41:06Z",
+    "updated_at": "2026-08-25T11:46:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21594,
-    "updated_at": "2026-08-25T11:40:58Z",
+    "updated_at": "2026-08-25T11:57:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -171,21 +207,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2701,
-    "updated_at": "2026-08-25T11:43:10Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
     "id": "hpnkv/a11",
     "language": "C++",
     "name": "hpnkv/a11",
     "stars": 0,
-    "updated_at": "2026-08-25T10:42:15Z",
+    "updated_at": "2026-08-25T11:59:47Z",
     "url": "https://github.com/hpnkv/a11"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-08-25T10:23:02Z",
+    "updated_at": "2026-08-25T11:57:53Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T11:42:18Z",
+    "updated_at": "2026-08-25T11:58:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -247,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57231,
+    "stars": 57232,
     "updated_at": "2026-08-25T10:03:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5705,
-    "updated_at": "2026-08-25T10:08:50Z",
+    "updated_at": "2026-08-25T11:58:31Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-25T08:01:56Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
     "id": "bentoml/BentoML",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:37:27Z",
     "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-25T07:36:55Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-25T07:24:45Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
