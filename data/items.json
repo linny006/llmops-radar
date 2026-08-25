@@ -1,21 +1,30 @@
 [
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 408,
-    "updated_at": "2026-08-25T13:06:37Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:15:03Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:09:10Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:14:10Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 647,
+    "updated_at": "2026-08-25T13:11:24Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T13:00:32Z",
+    "updated_at": "2026-08-25T13:10:15Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -32,8 +41,44 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33672,
-    "updated_at": "2026-08-25T13:09:17Z",
+    "updated_at": "2026-08-25T13:13:49Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 408,
+    "updated_at": "2026-08-25T13:11:16Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T13:13:55Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:55:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-25T12:54:40Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -117,24 +162,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-25T12:54:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:55:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21597,
-    "updated_at": "2026-08-25T13:09:10Z",
+    "updated_at": "2026-08-25T13:15:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -189,6 +216,15 @@
     "url": "https://github.com/xjy0526/PortfolioPilot"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11185,
+    "updated_at": "2026-08-25T12:34:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27673,
-    "updated_at": "2026-08-25T13:09:23Z",
+    "updated_at": "2026-08-25T13:10:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:39:11Z",
     "url": "https://github.com/somewhereafter/flourite"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:32:52Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2357,
-    "updated_at": "2026-08-25T11:32:51Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-08-25T11:21:32Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-25T12:09:53Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
