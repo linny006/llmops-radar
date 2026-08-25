@@ -1,5 +1,23 @@
 [
   {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "somewhereafter/flourite",
+    "language": "Python",
+    "name": "somewhereafter/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:39:11Z",
+    "url": "https://github.com/somewhereafter/flourite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:35:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
     "id": "haomingkoo/haomingkoo.github.io",
     "language": "HTML",
@@ -9,22 +27,31 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2357,
+    "updated_at": "2026-08-25T11:32:51Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T11:32:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T11:34:47Z",
+    "updated_at": "2026-08-25T11:42:47Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T11:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-25T11:33:48Z",
+    "updated_at": "2026-08-25T11:39:50Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T11:32:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-25T11:28:54Z",
+    "updated_at": "2026-08-25T11:39:25Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7561,
-    "updated_at": "2026-08-25T11:31:07Z",
+    "updated_at": "2026-08-25T11:41:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21594,
-    "updated_at": "2026-08-25T11:27:43Z",
+    "updated_at": "2026-08-25T11:40:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +176,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2701,
-    "updated_at": "2026-08-25T11:06:19Z",
+    "updated_at": "2026-08-25T11:43:10Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T10:42:15Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2357,
-    "updated_at": "2026-08-25T11:32:51Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T11:35:17Z",
+    "updated_at": "2026-08-25T11:42:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -238,7 +247,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57229,
+    "stars": 57231,
     "updated_at": "2026-08-25T10:03:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27669,
-    "updated_at": "2026-08-25T09:25:28Z",
+    "updated_at": "2026-08-25T11:38:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -329,17 +338,8 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T11:33:01Z",
+    "updated_at": "2026-08-25T11:41:56Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "somewhereafter/flourite",
-    "language": "Python",
-    "name": "somewhereafter/flourite",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:11:49Z",
-    "url": "https://github.com/somewhereafter/flourite"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
