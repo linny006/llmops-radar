@@ -1,12 +1,30 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T17:28:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T17:15:27Z",
+    "updated_at": "2026-08-25T17:16:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:15:01Z",
+    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -14,8 +32,35 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T17:14:29Z",
+    "updated_at": "2026-08-25T17:25:22Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1815,
+    "updated_at": "2026-08-25T17:23:02Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33682,
+    "updated_at": "2026-08-25T17:28:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-25T17:12:16Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57255,
-    "updated_at": "2026-08-25T17:15:34Z",
+    "updated_at": "2026-08-25T17:24:30Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T17:10:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:02:01Z",
     "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33681,
-    "updated_at": "2026-08-25T17:13:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -104,7 +131,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T16:42:06Z",
+    "updated_at": "2026-08-25T17:27:30Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/MaximSTH/meta-layer-starter"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1813,
-    "updated_at": "2026-08-25T17:13:33Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -167,7 +185,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-25T16:34:32Z",
+    "updated_at": "2026-08-25T17:29:27Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T17:09:44Z",
+    "updated_at": "2026-08-25T17:22:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29874,
-    "updated_at": "2026-08-25T15:17:18Z",
+    "updated_at": "2026-08-25T17:29:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 156,
     "updated_at": "2026-08-25T16:07:40Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:15:01Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:55:12Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
   }
 ]
