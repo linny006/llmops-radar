@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-25T23:15:24Z",
+    "updated_at": "2026-08-25T23:20:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57260,
+    "updated_at": "2026-08-25T23:20:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T23:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -25,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T23:10:36Z",
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T23:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57260,
-    "updated_at": "2026-08-25T23:04:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -77,7 +77,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T22:32:01Z",
+    "updated_at": "2026-08-25T23:21:10Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1817,
-    "updated_at": "2026-08-25T22:09:39Z",
+    "updated_at": "2026-08-25T23:17:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -169,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T21:37:06Z",
     "url": "https://github.com/kemdrixberkeley/agent-governance"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7568,
+    "updated_at": "2026-08-25T21:34:46Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T19:44:52Z",
     "url": "https://github.com/gurov/traceroutine"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7567,
-    "updated_at": "2026-08-25T21:34:46Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
