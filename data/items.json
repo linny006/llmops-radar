@@ -1,12 +1,84 @@
 [
   {
+    "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
+    "id": "AnishSingh15/llm-cost-governor",
+    "language": "Python",
+    "name": "AnishSingh15/llm-cost-governor",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:05:59Z",
+    "url": "https://github.com/AnishSingh15/llm-cost-governor"
+  },
+  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
     "id": "SoraVantia/cli-modelarium",
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-25T07:59:53Z",
+    "updated_at": "2026-08-25T08:03:37Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 389,
+    "updated_at": "2026-08-25T08:02:26Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:01:56Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57209,
+    "updated_at": "2026-08-25T08:01:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21591,
+    "updated_at": "2026-08-25T08:11:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8802,
+    "updated_at": "2026-08-25T08:00:00Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:59:58Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33666,
-    "updated_at": "2026-08-25T07:54:03Z",
+    "updated_at": "2026-08-25T08:15:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -52,33 +124,6 @@
     "stars": 2696,
     "updated_at": "2026-08-25T07:47:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57204,
-    "updated_at": "2026-08-25T07:47:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T07:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
-    "id": "AnishSingh15/llm-cost-governor",
-    "language": "Python",
-    "name": "AnishSingh15/llm-cost-governor",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:44:47Z",
-    "url": "https://github.com/AnishSingh15/llm-cost-governor"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27666,
-    "updated_at": "2026-08-25T07:55:05Z",
+    "updated_at": "2026-08-25T08:03:08Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-08-25T07:37:39Z",
+    "updated_at": "2026-08-25T08:08:28Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T07:55:44Z",
+    "updated_at": "2026-08-25T08:08:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/8monkey-ai/hebo-gateway"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21590,
-    "updated_at": "2026-08-25T08:00:01Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -194,7 +230,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T07:56:35Z",
+    "updated_at": "2026-08-25T08:05:28Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5705,
-    "updated_at": "2026-08-25T07:56:17Z",
+    "updated_at": "2026-08-25T08:05:19Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -257,7 +293,7 @@
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 27,
-    "updated_at": "2026-08-25T06:55:59Z",
+    "updated_at": "2026-08-25T08:05:34Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -292,7 +328,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1086,
+    "stars": 1088,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -315,20 +351,11 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-25T06:14:10Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24555,
+    "stars": 24556,
     "updated_at": "2026-08-25T06:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -338,7 +365,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-25T06:09:49Z",
+    "updated_at": "2026-08-25T08:12:55Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11912,
-    "updated_at": "2026-08-25T07:59:40Z",
+    "updated_at": "2026-08-25T08:12:05Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 8396,
     "updated_at": "2026-08-25T04:12:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The layer a sandbox doesn't give you: a PreToolUse hook that blocks unapproved spending, account creation and fund movem",
-    "id": "Prime-agentai/agent-approval-gate",
-    "language": "Python",
-    "name": "Prime-agentai/agent-approval-gate",
-    "stars": 2,
-    "updated_at": "2026-08-25T04:10:44Z",
-    "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:06:29Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:05:38Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
