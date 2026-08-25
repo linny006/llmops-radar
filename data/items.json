@@ -1,5 +1,41 @@
 [
   {
+    "description": "A hand-rolled LLM cost governor (semantic cache + cascade routing + context compression) with a real 5-configuration abl",
+    "id": "AnishSingh15/llm-cost-governor",
+    "language": "\u2014",
+    "name": "AnishSingh15/llm-cost-governor",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:44:47Z",
+    "url": "https://github.com/AnishSingh15/llm-cost-governor"
+  },
+  {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-25T07:44:58Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2696,
+    "updated_at": "2026-08-25T07:43:40Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T07:43:07Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-25T07:41:25Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T07:40:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:42:49Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -40,7 +76,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33662,
+    "stars": 33663,
     "updated_at": "2026-08-25T07:37:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -97,15 +133,6 @@
     "stars": 57203,
     "updated_at": "2026-08-25T07:32:33Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -207,15 +234,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2696,
-    "updated_at": "2026-08-25T07:22:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -268,15 +286,6 @@
     "stars": 1085,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:41:25Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11912,
-    "updated_at": "2026-08-25T07:12:56Z",
+    "updated_at": "2026-08-25T07:44:52Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T04:05:10Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:05:09Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
