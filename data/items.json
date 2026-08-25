@@ -1,21 +1,84 @@
 [
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1171,
+    "updated_at": "2026-08-25T07:12:57Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 6,
+    "updated_at": "2026-08-25T07:12:34Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T06:59:56Z",
+    "updated_at": "2026-08-25T07:12:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-08-25T07:07:13Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-25T07:03:54Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-25T07:03:31Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T06:56:42Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 57202,
+    "updated_at": "2026-08-25T07:03:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-25T07:02:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 26,
+    "updated_at": "2026-08-25T07:02:26Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,8 +86,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-25T06:56:18Z",
+    "updated_at": "2026-08-25T07:02:11Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2696,
+    "updated_at": "2026-08-25T07:00:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T07:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -50,7 +131,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5705,
-    "updated_at": "2026-08-25T06:53:06Z",
+    "updated_at": "2026-08-25T07:08:17Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -72,29 +153,29 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 26,
-    "updated_at": "2026-08-25T06:50:30Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-25T06:47:09Z",
+    "updated_at": "2026-08-25T07:11:06Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5562,
+    "updated_at": "2026-08-25T06:44:45Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1084,
+    "stars": 1085,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11175,
-    "updated_at": "2026-08-25T06:36:41Z",
+    "updated_at": "2026-08-25T07:07:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -133,15 +214,6 @@
     "stars": 27664,
     "updated_at": "2026-08-25T06:31:05Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2695,
-    "updated_at": "2026-08-25T07:00:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -162,15 +234,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-25T06:55:01Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -184,18 +247,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24551,
+    "stars": 24552,
     "updated_at": "2026-08-25T06:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57200,
-    "updated_at": "2026-08-25T05:56:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -205,15 +259,6 @@
     "stars": 54,
     "updated_at": "2026-08-25T06:09:49Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1170,
-    "updated_at": "2026-08-25T05:36:24Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11912,
-    "updated_at": "2026-08-25T06:59:40Z",
+    "updated_at": "2026-08-25T07:12:56Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -284,7 +329,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T05:19:23Z",
+    "updated_at": "2026-08-25T07:03:13Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T03:56:38Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-08-25T03:53:32Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:53:20Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:53:16Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:53:12Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1315,
-    "updated_at": "2026-08-25T06:39:38Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
