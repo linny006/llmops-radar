@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7558,
-    "updated_at": "2026-08-25T09:59:46Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3192,
+    "updated_at": "2026-08-25T10:15:14Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 43,
+    "updated_at": "2026-08-25T10:06:33Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T10:00:17Z",
+    "updated_at": "2026-08-25T10:15:09Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7558,
+    "updated_at": "2026-08-25T10:04:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57225,
+    "updated_at": "2026-08-25T10:03:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:01:32Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T09:50:06Z",
+    "updated_at": "2026-08-25T10:00:33Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:58:18Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-25T09:48:56Z",
+    "updated_at": "2026-08-25T10:11:48Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5705,
-    "updated_at": "2026-08-25T09:47:19Z",
+    "updated_at": "2026-08-25T10:08:50Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33668,
-    "updated_at": "2026-08-25T10:00:22Z",
+    "updated_at": "2026-08-25T10:06:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-25T09:58:59Z",
+    "updated_at": "2026-08-25T10:12:38Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:58:18Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -167,7 +203,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T09:49:47Z",
+    "updated_at": "2026-08-25T10:12:03Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21593,
-    "updated_at": "2026-08-25T09:59:18Z",
+    "updated_at": "2026-08-25T10:12:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T08:01:56Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57223,
-    "updated_at": "2026-08-25T08:01:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
@@ -421,32 +448,5 @@
     "stars": 1011,
     "updated_at": "2026-08-25T06:42:46Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-25T06:41:20Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-08-25T06:16:23Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24559,
-    "updated_at": "2026-08-25T06:10:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
