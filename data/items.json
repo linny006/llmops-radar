@@ -1,11 +1,56 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-25T06:14:37Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-25T06:12:59Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2694,
+    "updated_at": "2026-08-25T06:12:49Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-25T06:14:10Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24549,
+    "updated_at": "2026-08-25T06:10:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T05:58:35Z",
+    "updated_at": "2026-08-25T06:00:22Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -22,7 +67,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57193,
+    "stars": 57195,
     "updated_at": "2026-08-25T05:56:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -36,21 +81,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24547,
-    "updated_at": "2026-08-25T05:53:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-25T05:42:24Z",
+    "updated_at": "2026-08-25T06:09:49Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7555,
-    "updated_at": "2026-08-25T05:32:09Z",
+    "updated_at": "2026-08-25T06:09:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T05:58:38Z",
+    "updated_at": "2026-08-25T06:12:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-25T05:05:02Z",
+    "updated_at": "2026-08-25T06:03:35Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11912,
-    "updated_at": "2026-08-25T05:37:19Z",
+    "updated_at": "2026-08-25T06:12:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2694,
-    "updated_at": "2026-08-25T03:58:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -347,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1315,
-    "updated_at": "2026-08-25T05:30:56Z",
+    "updated_at": "2026-08-25T06:09:36Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T03:41:20Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:39:12Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 15,
-    "updated_at": "2026-08-25T03:35:56Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:27:33Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
   }
 ]
