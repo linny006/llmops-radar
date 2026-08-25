@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7553,
-    "updated_at": "2026-08-25T04:57:38Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T05:13:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-25T05:13:08Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11174,
-    "updated_at": "2026-08-25T04:58:13Z",
+    "updated_at": "2026-08-25T05:13:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T05:00:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-08-25T05:05:02Z",
+    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T04:53:03Z",
+    "updated_at": "2026-08-25T05:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7554,
+    "updated_at": "2026-08-25T04:57:38Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3509,
-    "updated_at": "2026-08-25T04:58:25Z",
+    "updated_at": "2026-08-25T05:14:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -99,6 +117,15 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11912,
+    "updated_at": "2026-08-25T04:23:14Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 121,
-    "updated_at": "2026-08-25T04:59:43Z",
+    "updated_at": "2026-08-25T05:08:21Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-25T03:23:45Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-25T03:22:31Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 47,
-    "updated_at": "2026-08-25T04:30:31Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-08-25T03:16:58Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
