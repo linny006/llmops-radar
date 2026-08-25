@@ -1,5 +1,32 @@
 [
   {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:32:52Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:34:47Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
     "id": "gmaheshraju/Hands-on-AgenticAI",
     "language": "JavaScript",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-25T11:22:56Z",
+    "updated_at": "2026-08-25T11:33:48Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -32,7 +59,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T11:22:45Z",
+    "updated_at": "2026-08-25T11:32:40Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -45,21 +72,12 @@
     "url": "https://github.com/soit-ai/soit"
   },
   {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:18:17Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33669,
-    "updated_at": "2026-08-25T11:25:42Z",
+    "updated_at": "2026-08-25T11:34:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T11:16:17Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T11:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7561,
-    "updated_at": "2026-08-25T11:15:48Z",
+    "updated_at": "2026-08-25T11:31:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
     "stars": 2357,
-    "updated_at": "2026-08-25T11:16:11Z",
+    "updated_at": "2026-08-25T11:32:51Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-25T11:30:01Z",
+    "updated_at": "2026-08-25T11:35:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -320,7 +329,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-25T11:09:50Z",
+    "updated_at": "2026-08-25T11:33:01Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-25T07:24:45Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 26,
-    "updated_at": "2026-08-25T07:27:00Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
   }
 ]
