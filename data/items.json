@@ -1,5 +1,104 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:42:06Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57254,
+    "updated_at": "2026-08-25T16:40:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1066,
+    "updated_at": "2026-08-25T16:39:04Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
+    "id": "MaximSTH/meta-layer-starter",
+    "language": "Shell",
+    "name": "MaximSTH/meta-layer-starter",
+    "stars": 2,
+    "updated_at": "2026-08-25T16:38:07Z",
+    "url": "https://github.com/MaximSTH/meta-layer-starter"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1813,
+    "updated_at": "2026-08-25T16:36:47Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:35:35Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3511,
+    "updated_at": "2026-08-25T16:40:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21600,
+    "updated_at": "2026-08-25T16:39:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33679,
+    "updated_at": "2026-08-25T16:30:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27674,
+    "updated_at": "2026-08-25T16:29:44Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Mistral Studio Product Marketing Strategy, Category Narrative, Positioning & Messaging Framework, Prosumer-to-Enterprise",
     "id": "beastofbayarea/mistral-studio-marketing",
     "language": "Python",
@@ -9,22 +108,40 @@
     "url": "https://github.com/beastofbayarea/mistral-studio-marketing"
   },
   {
+    "description": "htop for AI agents \u2014 liveness, CPU/RAM/GPU usage, and a kill switch for headless agents (openclaw, hermes, ollama, vllm,",
+    "id": "minglong51/agent-usage-manager",
+    "language": "Python",
+    "name": "minglong51/agent-usage-manager",
+    "stars": 2,
+    "updated_at": "2026-08-25T16:27:14Z",
+    "url": "https://github.com/minglong51/agent-usage-manager"
+  },
+  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-25T16:29:04Z",
+    "updated_at": "2026-08-25T16:43:31Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33679,
-    "updated_at": "2026-08-25T16:28:40Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-25T16:42:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:20:16Z",
+    "url": "https://github.com/soit-ai/soit"
   },
   {
     "description": "A practical four-month, project-based roadmap for learning machine learning, deep learning, generative AI, agents, evalu",
@@ -36,15 +153,6 @@
     "url": "https://github.com/yash0208/ai-engineering-roadmap"
   },
   {
-    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
-    "id": "MaximSTH/meta-layer-starter",
-    "language": "Shell",
-    "name": "MaximSTH/meta-layer-starter",
-    "stars": 2,
-    "updated_at": "2026-08-25T16:16:24Z",
-    "url": "https://github.com/MaximSTH/meta-layer-starter"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -54,49 +162,13 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
+    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T16:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21599,
-    "updated_at": "2026-08-25T16:12:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1812,
-    "updated_at": "2026-08-25T16:23:56Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1066,
-    "updated_at": "2026-08-25T16:11:05Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57253,
-    "updated_at": "2026-08-25T16:30:03Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:14:29Z",
+    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   },
   {
     "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 389,
-    "updated_at": "2026-08-25T15:58:14Z",
+    "updated_at": "2026-08-25T16:37:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/somewhereafter/flourite"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:48:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -212,7 +275,7 @@
     "language": "Go",
     "name": "tma1-ai/tma1",
     "stars": 116,
-    "updated_at": "2026-08-25T16:30:21Z",
+    "updated_at": "2026-08-25T16:38:31Z",
     "url": "https://github.com/tma1-ai/tma1"
   },
   {
@@ -221,7 +284,7 @@
     "language": "HTML",
     "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-25T15:39:42Z",
+    "updated_at": "2026-08-25T16:34:32Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11188,
-    "updated_at": "2026-08-25T15:57:23Z",
+    "updated_at": "2026-08-25T16:39:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 408,
-    "updated_at": "2026-08-25T15:54:21Z",
+    "updated_at": "2026-08-25T16:43:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -248,24 +311,15 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7566,
-    "updated_at": "2026-08-25T15:45:03Z",
+    "updated_at": "2026-08-25T16:39:55Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27674,
-    "updated_at": "2026-08-25T16:29:44Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3521,
+    "stars": 3522,
     "updated_at": "2026-08-25T15:18:52Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-08-25T16:17:53Z",
+    "updated_at": "2026-08-25T16:40:51Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/krivonosoff161/llm-cheap-filter"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:34:16Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
     "id": "jimyoshida/dx-devops-landscape",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T14:26:48Z",
     "url": "https://github.com/krivonosoff161/llm-router"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-25T14:17:10Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3511,
-    "updated_at": "2026-08-25T16:27:48Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24564,
-    "updated_at": "2026-08-25T14:03:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
-    "id": "KazKozDev/prompt-playoff",
-    "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:02:16Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 16,
-    "updated_at": "2026-08-25T16:04:46Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
