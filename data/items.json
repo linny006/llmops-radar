@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5771,
+    "updated_at": "2026-08-26T00:44:13Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T00:44:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T00:40:06Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2716,
+    "updated_at": "2026-08-26T00:38:18Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T00:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -9,31 +54,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T00:29:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57262,
-    "updated_at": "2026-08-26T00:28:07Z",
+    "updated_at": "2026-08-26T00:40:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T00:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -50,8 +77,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29880,
-    "updated_at": "2026-08-26T00:09:14Z",
+    "updated_at": "2026-08-26T00:40:51Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21605,
+    "updated_at": "2026-08-26T00:07:55Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-08-26T00:12:03Z",
+    "updated_at": "2026-08-26T00:41:49Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21604,
-    "updated_at": "2026-08-26T00:07:55Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T19:27:11Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-08-25T19:25:38Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:23:36Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-25T19:23:33Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
