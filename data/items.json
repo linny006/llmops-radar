@@ -1,21 +1,84 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57271,
-    "updated_at": "2026-08-26T02:44:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T02:43:34Z",
+    "updated_at": "2026-08-26T02:59:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-26T02:56:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-26T02:54:21Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Multi-agent AI analytics office on Hermes and Slack with Supabase data operations, Obsidian/OhMyWiki evidence pipelines,",
+    "id": "Lee2379/multi-agent-ai-analytics-office",
+    "language": "Python",
+    "name": "Lee2379/multi-agent-ai-analytics-office",
+    "stars": 0,
+    "updated_at": "2026-08-26T02:52:39Z",
+    "url": "https://github.com/Lee2379/multi-agent-ai-analytics-office"
+  },
+  {
+    "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
+    "id": "Lee2379/agentic-ai-security-auditor",
+    "language": "Python",
+    "name": "Lee2379/agentic-ai-security-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-26T02:52:26Z",
+    "url": "https://github.com/Lee2379/agentic-ai-security-auditor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33706,
+    "updated_at": "2026-08-26T02:48:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1017,
+    "updated_at": "2026-08-26T02:47:14Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T02:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57273,
+    "updated_at": "2026-08-26T03:00:01Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -27,22 +90,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1017,
-    "updated_at": "2026-08-26T02:39:16Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T02:38:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 11197,
+    "updated_at": "2026-08-26T02:38:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -52,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T02:34:24Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11196,
-    "updated_at": "2026-08-26T02:38:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24571,
-    "updated_at": "2026-08-26T02:36:26Z",
+    "updated_at": "2026-08-26T02:59:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-26T01:57:41Z",
+    "updated_at": "2026-08-26T02:59:06Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -158,7 +203,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-26T01:40:32Z",
+    "updated_at": "2026-08-26T03:00:03Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T01:28:47Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-26T02:42:31Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
@@ -247,7 +283,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29880,
+    "stars": 29881,
     "updated_at": "2026-08-26T00:52:03Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21605,
-    "updated_at": "2026-08-26T02:45:07Z",
+    "updated_at": "2026-08-26T02:59:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 16,
     "updated_at": "2026-08-25T22:39:58Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33704,
-    "updated_at": "2026-08-25T22:23:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -421,32 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-25T21:57:17Z",
     "url": "https://github.com/stdapi-ai/stdapi.ai"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1066,
-    "updated_at": "2026-08-25T21:19:53Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
-    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "language": "Python",
-    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-25T21:12:16Z",
-    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 389,
-    "updated_at": "2026-08-25T21:08:14Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
