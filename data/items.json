@@ -1,12 +1,84 @@
 [
   {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:42:41Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33751,
+    "updated_at": "2026-08-26T13:44:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T13:38:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train,",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:34:56Z",
+    "url": "https://github.com/api-evangelist/qwak"
+  },
+  {
+    "description": "Measure, diagnose and fix your LLM prompt-cache hit rate \u2014 and see the dollars you save.",
+    "id": "Isk4R1oT/prefixcash",
+    "language": "Python",
+    "name": "Isk4R1oT/prefixcash",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:34:33Z",
+    "url": "https://github.com/Isk4R1oT/prefixcash"
+  },
+  {
+    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
+    "id": "systempromptio/systemprompt-demo",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-demo",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:32:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-demo"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-26T13:34:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T13:30:43Z",
+    "updated_at": "2026-08-26T13:32:19Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:31:52Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": " Process mining for LLM agent traces: where the tokens and the time actually go",
@@ -14,17 +86,17 @@
     "language": "Python",
     "name": "gurov/traceroutine",
     "stars": 0,
-    "updated_at": "2026-08-26T13:30:32Z",
+    "updated_at": "2026-08-26T13:35:42Z",
     "url": "https://github.com/gurov/traceroutine"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33750,
-    "updated_at": "2026-08-26T13:31:39Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:29:11Z",
+    "url": "https://github.com/api-evangelist/phoenix"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -36,12 +108,39 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-26T13:27:33Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:25:58Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:25:14Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T13:31:21Z",
+    "updated_at": "2026-08-26T13:38:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1828,
-    "updated_at": "2026-08-26T13:29:46Z",
+    "updated_at": "2026-08-26T13:38:05Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21616,
-    "updated_at": "2026-08-26T13:32:13Z",
+    "updated_at": "2026-08-26T13:43:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,17 +185,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 412,
-    "updated_at": "2026-08-26T13:10:55Z",
+    "updated_at": "2026-08-26T13:36:17Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T13:31:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -106,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-08-26T13:08:16Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Measure, diagnose and fix your LLM prompt-cache hit rate \u2014 and see the dollars you save.",
-    "id": "Isk4R1oT/prefixcash",
-    "language": "Python",
-    "name": "Isk4R1oT/prefixcash",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:27:44Z",
-    "url": "https://github.com/Isk4R1oT/prefixcash"
   },
   {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-26T13:04:43Z",
+    "updated_at": "2026-08-26T13:45:21Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T12:55:07Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 390,
-    "updated_at": "2026-08-26T13:24:20Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -311,7 +383,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7578,
-    "updated_at": "2026-08-26T13:31:09Z",
+    "updated_at": "2026-08-26T13:45:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -337,7 +409,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57314,
+    "stars": 57315,
     "updated_at": "2026-08-26T12:11:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T11:53:47Z",
     "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-08-26T11:51:52Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T11:44:55Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 145,
-    "updated_at": "2026-08-26T11:44:51Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "Spec-driven pipeline for building, evaluating, optimising and releasing LLM agents, with a human gate before promotion.",
-    "id": "LanaKor/AgentFactory",
-    "language": "Python",
-    "name": "LanaKor/AgentFactory",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:29:44Z",
-    "url": "https://github.com/LanaKor/AgentFactory"
-  },
-  {
-    "description": "Self-hosted cost, token and prompt analytics for OpenRouter. Ingests OTLP broadcast webhooks, runs with zero config.",
-    "id": "LanaKor/OpenRouterCostMonitoring",
-    "language": "JavaScript",
-    "name": "LanaKor/OpenRouterCostMonitoring",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:20:59Z",
-    "url": "https://github.com/LanaKor/OpenRouterCostMonitoring"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T11:32:22Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e. Incident-based rules f",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:13:19Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:08:44Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   }
 ]
