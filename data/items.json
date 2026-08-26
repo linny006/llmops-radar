@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T22:28:56Z",
+    "updated_at": "2026-08-26T22:33:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57337,
-    "updated_at": "2026-08-26T22:30:22Z",
+    "updated_at": "2026-08-26T22:41:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +68,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-26T22:26:38Z",
+    "updated_at": "2026-08-26T22:41:02Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -72,15 +81,6 @@
     "url": "https://github.com/matsumoto1f-creator/critic-ensemble"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -88,6 +88,15 @@
     "stars": 1177,
     "updated_at": "2026-08-26T22:10:46Z",
     "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33766,
+    "updated_at": "2026-08-26T22:10:00Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
@@ -119,7 +128,7 @@
   {
     "description": "Feature flags for AI features, where 'working' is a gradient: staged rollout gated on a non-inferiority test, with asymm",
     "id": "matsumoto1f-creator/ai-feature-flags",
-    "language": "\u2014",
+    "language": "Python",
     "name": "matsumoto1f-creator/ai-feature-flags",
     "stars": 0,
     "updated_at": "2026-08-26T21:59:26Z",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-26T21:56:54Z",
+    "updated_at": "2026-08-26T22:43:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -162,21 +171,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33765,
-    "updated_at": "2026-08-26T22:10:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T22:21:31Z",
+    "updated_at": "2026-08-26T22:40:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11205,
-    "updated_at": "2026-08-26T22:27:03Z",
+    "updated_at": "2026-08-26T22:40:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -216,6 +216,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
+    "id": "AYUSHSAINI9876/Pharos",
+    "language": "Python",
+    "name": "AYUSHSAINI9876/Pharos",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:36:15Z",
+    "url": "https://github.com/AYUSHSAINI9876/Pharos"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -232,15 +241,6 @@
     "stars": 29892,
     "updated_at": "2026-08-26T21:40:45Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
-    "id": "AYUSHSAINI9876/Pharos",
-    "language": "Python",
-    "name": "AYUSHSAINI9876/Pharos",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:36:15Z",
-    "url": "https://github.com/AYUSHSAINI9876/Pharos"
   },
   {
     "description": "Measure whether a RAG system is actually grounded, and fail the build when it stops being: retrieval metrics, claim-leve",
@@ -302,7 +302,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-26T20:57:27Z",
+    "updated_at": "2026-08-26T22:32:07Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1835,
-    "updated_at": "2026-08-26T22:28:15Z",
+    "updated_at": "2026-08-26T22:39:16Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -436,7 +436,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21621,
+    "stars": 21622,
     "updated_at": "2026-08-26T19:30:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
