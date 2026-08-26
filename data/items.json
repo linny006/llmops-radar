@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33745,
+    "updated_at": "2026-08-26T11:59:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21616,
+    "updated_at": "2026-08-26T11:58:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
+    "language": "Python",
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:53:59Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
+  },
+  {
+    "description": "Public demo of governance outside the model for bounded agent control",
+    "id": "TheBrokenWay/CageOS-Lite-Demo",
+    "language": "Python",
+    "name": "TheBrokenWay/CageOS-Lite-Demo",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:53:47Z",
+    "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T12:00:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-08-26T11:51:52Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T11:50:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cos",
+    "id": "Phantom-VK/NoRefund",
+    "language": "TypeScript",
+    "name": "Phantom-VK/NoRefund",
+    "stars": 2,
+    "updated_at": "2026-08-26T11:47:50Z",
+    "url": "https://github.com/Phantom-VK/NoRefund"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57309,
-    "updated_at": "2026-08-26T11:44:59Z",
+    "updated_at": "2026-08-26T11:54:38Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T11:44:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:43:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -43,15 +115,6 @@
     "stars": 7577,
     "updated_at": "2026-08-26T11:43:18Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cos",
-    "id": "Phantom-VK/NoRefund",
-    "language": "TypeScript",
-    "name": "Phantom-VK/NoRefund",
-    "stars": 2,
-    "updated_at": "2026-08-26T11:47:50Z",
-    "url": "https://github.com/Phantom-VK/NoRefund"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -72,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33744,
-    "updated_at": "2026-08-26T11:50:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -99,21 +153,12 @@
     "url": "https://github.com/LanaKor/AgentFactory"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T11:29:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-26T11:40:47Z",
+    "updated_at": "2026-08-26T11:59:34Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -135,21 +180,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21616,
-    "updated_at": "2026-08-26T11:49:20Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T11:48:42Z",
+    "updated_at": "2026-08-26T12:00:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T11:04:00Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T11:44:55Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T10:28:25Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:26:51Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:25:50Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:23:19Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
