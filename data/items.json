@@ -1,5 +1,68 @@
 [
   {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 138,
+    "updated_at": "2026-08-26T19:43:22Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57327,
+    "updated_at": "2026-08-26T19:44:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7584,
+    "updated_at": "2026-08-26T19:30:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:41:19Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21620,
+    "updated_at": "2026-08-26T19:30:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11204,
+    "updated_at": "2026-08-26T19:30:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
     "id": "brunovicco/controlled-autonomy-lab",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:26:51Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33765,
+    "updated_at": "2026-08-26T19:25:36Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
@@ -18,40 +90,13 @@
     "url": "https://github.com/laputski/causa-rag"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21619,
-    "updated_at": "2026-08-26T19:30:24Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T19:27:07Z",
+    "updated_at": "2026-08-26T19:45:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57327,
-    "updated_at": "2026-08-26T19:27:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
@@ -90,13 +135,13 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7584,
-    "updated_at": "2026-08-26T19:18:03Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29891,
+    "updated_at": "2026-08-26T19:02:04Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -117,36 +162,18 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11203,
-    "updated_at": "2026-08-26T19:30:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 138,
-    "updated_at": "2026-08-26T18:55:53Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-08-26T19:14:53Z",
+    "updated_at": "2026-08-26T19:41:12Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
     "id": "matsumoto1f-creator/eval-dataset-miner",
-    "language": "\u2014",
+    "language": "Python",
     "name": "matsumoto1f-creator/eval-dataset-miner",
     "stars": 0,
     "updated_at": "2026-08-26T18:37:12Z",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:36:48Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33763,
-    "updated_at": "2026-08-26T19:25:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29890,
-    "updated_at": "2026-08-26T19:02:04Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
@@ -256,7 +265,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1039,
+    "stars": 1040,
     "updated_at": "2026-08-26T18:10:03Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-26T18:06:23Z",
+    "updated_at": "2026-08-26T19:45:15Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-26T19:08:13Z",
+    "updated_at": "2026-08-26T19:39:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:28:35Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:28:35Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
