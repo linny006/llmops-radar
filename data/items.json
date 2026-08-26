@@ -1,12 +1,57 @@
 [
   {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:26:51Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:23:14Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21619,
+    "updated_at": "2026-08-26T19:30:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T19:27:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57326,
-    "updated_at": "2026-08-26T19:12:57Z",
+    "stars": 57327,
+    "updated_at": "2026-08-26T19:27:07Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
@@ -27,6 +72,15 @@
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:06:48Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -41,26 +95,26 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7584,
-    "updated_at": "2026-08-26T19:12:24Z",
+    "updated_at": "2026-08-26T19:18:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:58:56Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:06:45Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-26T18:51:14Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11203,
-    "updated_at": "2026-08-26T18:49:18Z",
+    "updated_at": "2026-08-26T19:30:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 138,
     "updated_at": "2026-08-26T18:55:53Z",
     "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T19:14:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33763,
-    "updated_at": "2026-08-26T18:32:40Z",
+    "updated_at": "2026-08-26T19:25:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 412,
-    "updated_at": "2026-08-26T19:09:56Z",
+    "updated_at": "2026-08-26T19:26:46Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1832,
-    "updated_at": "2026-08-26T19:09:35Z",
+    "updated_at": "2026-08-26T19:28:05Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:28:35Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:28:30Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:28:02Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:27:43Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 116,
-    "updated_at": "2026-08-26T17:27:02Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
-    "id": "NicoGrassetto/Cosmopilot",
-    "language": "Python",
-    "name": "NicoGrassetto/Cosmopilot",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:26:19Z",
-    "url": "https://github.com/NicoGrassetto/Cosmopilot"
   }
 ]
