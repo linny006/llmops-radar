@@ -1,5 +1,23 @@
 [
   {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 544,
+    "updated_at": "2026-08-26T04:26:25Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T04:23:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
     "id": "grepture/proxy",
     "language": "TypeScript",
@@ -7,6 +25,15 @@
     "stars": 7,
     "updated_at": "2026-08-26T04:21:15Z",
     "url": "https://github.com/grepture/proxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57278,
+    "updated_at": "2026-08-26T04:27:15Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -27,15 +54,6 @@
     "url": "https://github.com/Prime-agentai/agent-approval-gate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T04:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 11198,
     "updated_at": "2026-08-26T04:15:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57277,
-    "updated_at": "2026-08-26T04:19:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Governed change control for swapping the AI model in a production application: evaluate, approve, activate with read-bac",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T03:02:26Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21605,
-    "updated_at": "2026-08-26T02:59:07Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
