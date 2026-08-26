@@ -1,12 +1,57 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T05:44:54Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-26T05:30:09Z",
+    "updated_at": "2026-08-26T05:38:23Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-26T05:35:55Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:32:07Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T05:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1820,
+    "updated_at": "2026-08-26T05:25:26Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Measure RAG retrieval instead of guessing: hit-rate, MRR, recall, nDCG \u2014 plus a failure breakdown that tells you whether",
     "id": "muhammadwaqasmbd/rag-eval-harness",
     "language": "Python",
@@ -67,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57281,
+    "stars": 57282,
     "updated_at": "2026-08-26T05:06:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -81,21 +117,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-26T05:02:40Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7575,
-    "updated_at": "2026-08-26T05:02:37Z",
+    "updated_at": "2026-08-26T05:44:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 24575,
     "updated_at": "2026-08-26T04:40:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:36:54Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5704,
-    "updated_at": "2026-08-26T03:53:08Z",
+    "updated_at": "2026-08-26T05:39:05Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-26T03:31:12Z",
+    "updated_at": "2026-08-26T05:44:35Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:30:31Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:29:50Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
