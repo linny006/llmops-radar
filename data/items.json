@@ -1,12 +1,84 @@
 [
   {
+    "description": "Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cos",
+    "id": "Phantom-VK/NoRefund",
+    "language": "TypeScript",
+    "name": "Phantom-VK/NoRefund",
+    "stars": 2,
+    "updated_at": "2026-08-26T11:40:25Z",
+    "url": "https://github.com/Phantom-VK/NoRefund"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2710,
+    "updated_at": "2026-08-26T11:36:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:33:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33744,
+    "updated_at": "2026-08-26T11:42:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7577,
+    "updated_at": "2026-08-26T11:43:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-26T11:32:20Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T11:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Spec-driven pipeline for building, evaluating, optimising and releasing LLM agents, with a human gate before promotion.",
     "id": "LanaKor/AgentFactory",
-    "language": "\u2014",
+    "language": "Python",
     "name": "LanaKor/AgentFactory",
     "stars": 0,
     "updated_at": "2026-08-26T11:29:44Z",
     "url": "https://github.com/LanaKor/AgentFactory"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T11:29:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-26T11:27:58Z",
+    "updated_at": "2026-08-26T11:40:47Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:27:13Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -27,30 +108,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:24:55Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7577,
-    "updated_at": "2026-08-26T11:27:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21616,
-    "updated_at": "2026-08-26T11:27:06Z",
+    "updated_at": "2026-08-26T11:42:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T11:24:41Z",
+    "updated_at": "2026-08-26T11:42:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-26T11:19:41Z",
+    "updated_at": "2026-08-26T11:32:22Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -90,40 +153,13 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cos",
-    "id": "Phantom-VK/NoRefund",
-    "language": "TypeScript",
-    "name": "Phantom-VK/NoRefund",
-    "stars": 2,
-    "updated_at": "2026-08-26T11:17:39Z",
-    "url": "https://github.com/Phantom-VK/NoRefund"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1826,
-    "updated_at": "2026-08-26T11:21:37Z",
+    "updated_at": "2026-08-26T11:38:06Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T11:29:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e. Incident-based rules f",
@@ -135,15 +171,6 @@
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33743,
-    "updated_at": "2026-08-26T11:29:28Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T11:08:44Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-26T11:06:08Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "Juror-AI/juror",
     "stars": 145,
-    "updated_at": "2026-08-26T11:03:37Z",
+    "updated_at": "2026-08-26T11:43:02Z",
     "url": "https://github.com/Juror-AI/juror"
   },
   {
@@ -265,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57306,
+    "stars": 57308,
     "updated_at": "2026-08-26T10:43:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -331,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T10:57:57Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:27:13Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:23:19Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:20:19Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
