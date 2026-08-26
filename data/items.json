@@ -1,5 +1,41 @@
 [
   {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-26T22:10:57Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T22:14:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-26T22:04:53Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T22:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Feature flags for AI features, where 'working' is a gradient: staged rollout gated on a non-inferiority test, with asymm",
     "id": "matsumoto1f-creator/ai-feature-flags",
     "language": "\u2014",
@@ -9,13 +45,13 @@
     "url": "https://github.com/matsumoto1f-creator/ai-feature-flags"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T21:57:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 661,
+    "updated_at": "2026-08-26T21:58:33Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,17 +59,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57337,
-    "updated_at": "2026-08-26T21:58:43Z",
+    "updated_at": "2026-08-26T22:15:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:48:41Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:44:58Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33765,
+    "updated_at": "2026-08-26T22:10:00Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T21:44:43Z",
+    "updated_at": "2026-08-26T22:10:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2718,
-    "updated_at": "2026-08-26T21:43:42Z",
+    "updated_at": "2026-08-26T22:09:59Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11205,
-    "updated_at": "2026-08-26T21:40:20Z",
+    "updated_at": "2026-08-26T22:13:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,30 +207,12 @@
     "url": "https://github.com/sdaluga/claude-cowork-playbook"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 661,
-    "updated_at": "2026-08-26T21:58:33Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-26T21:52:45Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-26T21:59:59Z",
+    "updated_at": "2026-08-26T22:11:32Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-26T20:42:13Z",
+    "updated_at": "2026-08-26T22:05:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 390,
     "updated_at": "2026-08-26T20:40:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
-    "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:48:41Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1835,
-    "updated_at": "2026-08-26T20:20:53Z",
+    "updated_at": "2026-08-26T22:14:18Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/fabioestevam2404/corporate-knowledge-assistant"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33766,
-    "updated_at": "2026-08-26T21:44:57Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
     "id": "samarthputhraya/modelpin",
     "language": "Python",
@@ -414,21 +432,12 @@
     "url": "https://github.com/RitikPatill/prompt-eval-studio"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:44:58Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-26T18:51:14Z",
+    "updated_at": "2026-08-26T22:04:05Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:37:12Z",
     "url": "https://github.com/matsumoto1f-creator/eval-dataset-miner"
-  },
-  {
-    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
-    "id": "erjonb19/Security-Constrained-Agent-Runtime",
-    "language": "Python",
-    "name": "erjonb19/Security-Constrained-Agent-Runtime",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:36:48Z",
-    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   }
 ]
