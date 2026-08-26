@@ -1,21 +1,21 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-26T00:29:36Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T00:11:24Z",
+    "updated_at": "2026-08-26T00:29:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-26T00:10:21Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +23,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57262,
-    "updated_at": "2026-08-26T00:09:14Z",
+    "updated_at": "2026-08-26T00:28:07Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T00:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-26T00:18:22Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T00:12:03Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11195,
-    "updated_at": "2026-08-26T00:09:27Z",
+    "updated_at": "2026-08-26T00:26:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T00:02:55Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7569,
+    "updated_at": "2026-08-25T23:31:18Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T23:23:00Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-25T23:58:28Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T21:37:06Z",
     "url": "https://github.com/kemdrixberkeley/agent-governance"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7568,
-    "updated_at": "2026-08-25T23:31:18Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-25T23:33:31Z",
+    "updated_at": "2026-08-26T00:27:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
