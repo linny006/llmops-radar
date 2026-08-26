@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1821,
+    "updated_at": "2026-08-26T06:24:33Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T06:29:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evaluate agents like software, not vibes. Measures the noise floor so a regression gate fires on evidence, catches flat/",
+    "id": "muhammadwaqasmbd/agent-eval-suite",
+    "language": "Python",
+    "name": "muhammadwaqasmbd/agent-eval-suite",
+    "stars": 0,
+    "updated_at": "2026-08-26T06:23:35Z",
+    "url": "https://github.com/muhammadwaqasmbd/agent-eval-suite"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57284,
+    "updated_at": "2026-08-26T06:30:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-08-26T06:17:43Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2707,
-    "updated_at": "2026-08-26T06:13:40Z",
+    "updated_at": "2026-08-26T06:15:42Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21609,
+    "updated_at": "2026-08-26T06:15:08Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
@@ -27,6 +90,15 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33718,
+    "updated_at": "2026-08-26T06:09:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
@@ -36,24 +108,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21607,
-    "updated_at": "2026-08-26T06:15:08Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T06:07:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Measure, diagnose and fix your LLM prompt-cache hit rate \u2014 and see the dollars you save.",
     "id": "Isk4R1oT/prefixcash",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T06:06:35Z",
     "url": "https://github.com/Isk4R1oT/prefixcash"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57282,
-    "updated_at": "2026-08-26T06:06:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -86,17 +131,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7575,
-    "updated_at": "2026-08-26T06:05:23Z",
+    "updated_at": "2026-08-26T06:29:15Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T06:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T05:53:44Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33717,
-    "updated_at": "2026-08-26T06:09:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T05:32:07Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1820,
-    "updated_at": "2026-08-26T06:07:11Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -229,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24575,
+    "stars": 24577,
     "updated_at": "2026-08-26T04:40:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11914,
-    "updated_at": "2026-08-26T05:48:04Z",
+    "updated_at": "2026-08-26T06:16:15Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T03:39:58Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:39:47Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:37:45Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
