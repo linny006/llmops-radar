@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 13:30 UTC
+> ⏰ Last updated: 2026-08-26 13:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gurov/traceroutine](https://github.com/gurov/traceroutine) | 0 | Python | 2026-08-26 |  Process mining for LLM agent traces: where the tokens and the time actually go |
-| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3048 | Python | 2026-08-26 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33748 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 5 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1828 | Python | 2026-08-26 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-26 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [gurov/traceroutine](https://github.com/gurov/traceroutine) | 0 | Python | 2026-08-26 |  Process mining for LLM agent traces: where the tokens and the time actually go |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33750 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3048 | Python | 2026-08-26 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 5 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
+| 6 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1828 | Python | 2026-08-26 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 7 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-26 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21616 | Python | 2026-08-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 9 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-08-26 | Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet |
 | 10 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 412 | Python | 2026-08-26 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
