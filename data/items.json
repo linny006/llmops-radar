@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33724,
-    "updated_at": "2026-08-26T08:20:58Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T08:29:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T08:15:30Z",
+    "updated_at": "2026-08-26T08:23:22Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2709,
+    "updated_at": "2026-08-26T08:22:12Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:21:39Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33724,
+    "updated_at": "2026-08-26T08:25:51Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": " Process mining for LLM agent traces: where the tokens and the time actually go",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57291,
-    "updated_at": "2026-08-26T08:09:17Z",
+    "updated_at": "2026-08-26T08:25:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1823,
-    "updated_at": "2026-08-26T08:23:18Z",
+    "updated_at": "2026-08-26T08:28:48Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-26T08:17:17Z",
+    "updated_at": "2026-08-26T08:28:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 7578,
     "updated_at": "2026-08-26T08:07:08Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T08:04:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21610,
-    "updated_at": "2026-08-26T08:13:52Z",
+    "updated_at": "2026-08-26T08:25:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T08:19:36Z",
+    "updated_at": "2026-08-26T08:29:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -198,15 +216,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2709,
-    "updated_at": "2026-08-26T08:22:12Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -220,7 +229,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1023,
+    "stars": 1024,
     "updated_at": "2026-08-26T07:28:58Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5704,
-    "updated_at": "2026-08-26T08:16:49Z",
+    "updated_at": "2026-08-26T08:27:12Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 544,
     "updated_at": "2026-08-26T04:54:49Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Provider-agnostic LLM gateway: ordered fallback, hard cost ceilings, per-attempt timeouts, caching and jittered retries.",
-    "id": "muhammadwaqasmbd/llm-gateway",
-    "language": "TypeScript",
-    "name": "muhammadwaqasmbd/llm-gateway",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:50:43Z",
-    "url": "https://github.com/muhammadwaqasmbd/llm-gateway"
   }
 ]
