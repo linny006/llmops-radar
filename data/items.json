@@ -1,21 +1,48 @@
 [
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-26T16:30:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-08-26T16:45:10Z",
+    "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:43:52Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/claude-code-playbook",
+    "language": "Python",
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:43:13Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 207,
+    "updated_at": "2026-08-26T16:40:40Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T16:29:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-26T16:40:27Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -23,8 +50,62 @@
     "language": "TypeScript",
     "name": "sxueck/llm-gateway",
     "stars": 51,
-    "updated_at": "2026-08-26T16:26:13Z",
+    "updated_at": "2026-08-26T16:37:17Z",
     "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T16:45:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57317,
+    "updated_at": "2026-08-26T16:34:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:31:05Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T16:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-26T16:30:07Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7581,
+    "updated_at": "2026-08-26T16:29:37Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
@@ -45,24 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 207,
-    "updated_at": "2026-08-26T16:29:18Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57317,
-    "updated_at": "2026-08-26T16:21:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Interactive program-ops compiler: PRD/Jira input to roadmap, dependency graph, RAID log, executive brief, metrics, trace",
     "id": "christiancaviedes/agentic-program-ops",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T16:15:52Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T16:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -108,12 +162,21 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
+    "description": "Governed AI delivery, on rails: PRD review \u2192 tech design \u2192 implementation \u2192 PR. Orchestrates Claude Code & Codex through",
+    "id": "angelozhangai/forgeline",
+    "language": "TypeScript",
+    "name": "angelozhangai/forgeline",
+    "stars": 2,
+    "updated_at": "2026-08-26T16:41:44Z",
+    "url": "https://github.com/angelozhangai/forgeline"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21614,
-    "updated_at": "2026-08-26T16:27:53Z",
+    "updated_at": "2026-08-26T16:44:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T16:28:59Z",
+    "updated_at": "2026-08-26T16:44:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -148,8 +211,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29885,
-    "updated_at": "2026-08-26T16:00:39Z",
+    "stars": 29886,
+    "updated_at": "2026-08-26T16:39:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -171,24 +234,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-26T15:53:03Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T16:13:07Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
@@ -198,31 +243,13 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-26T16:30:07Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24590,
-    "updated_at": "2026-08-26T16:12:33Z",
+    "updated_at": "2026-08-26T16:41:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7580,
-    "updated_at": "2026-08-26T16:29:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27685,
-    "updated_at": "2026-08-26T15:26:58Z",
+    "updated_at": "2026-08-26T16:34:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -239,7 +266,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-26T16:26:05Z",
+    "updated_at": "2026-08-26T16:45:10Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T15:26:40Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Agent memory with eviction that is not 'keep everything'. Episodic vs semantic, contradictions resolved on write, and a ",
     "id": "muhammadwaqasmbd/agent-memory-store",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:07:27Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
-    "id": "VeraPyuyi/prompt_control_lab",
-    "language": "Python",
-    "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 5,
-    "updated_at": "2026-08-26T14:06:55Z",
-    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T14:03:48Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
