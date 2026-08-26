@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 15:57 UTC
+> ⏰ Last updated: 2026-08-26 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [christiancaviedes/agentic-program-ops](https://github.com/christiancaviedes/agentic-program-ops) | 0 | Python | 2026-08-26 | Interactive program-ops compiler: PRD/Jira input to roadmap, dependency graph, RAID log, executive brief, metrics, trace |
-| 2 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-26 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57316 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 5 | [Juror-AI/juror](https://github.com/Juror-AI/juror) | 145 | TypeScript | 2026-08-26 | Cheaper and better Greptile alternative runs on your own github actions. |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [christiancaviedes/agentic-program-ops](https://github.com/christiancaviedes/agentic-program-ops) | 0 | Python | 2026-08-26 | Interactive program-ops compiler: PRD/Jira input to roadmap, dependency graph, RAID log, executive brief, metrics, trace |
+| 4 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-08-26 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57316 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 7 | [Juror-AI/juror](https://github.com/Juror-AI/juror) | 145 | TypeScript | 2026-08-26 | Cheaper and better Greptile alternative runs on your own github actions. |
 | 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21614 | Python | 2026-08-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 9 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 2 | Python | 2026-08-26 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
 | 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24590 | TypeScript | 2026-08-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
