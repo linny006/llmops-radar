@@ -1,12 +1,84 @@
 [
   {
+    "description": " Process mining for LLM agent traces: where the tokens and the time actually go",
+    "id": "gurov/traceroutine",
+    "language": "Python",
+    "name": "gurov/traceroutine",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:30:32Z",
+    "url": "https://github.com/gurov/traceroutine"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3048,
+    "updated_at": "2026-08-26T13:28:41Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3511,
+    "updated_at": "2026-08-26T13:28:30Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33748,
+    "updated_at": "2026-08-26T13:30:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1828,
+    "updated_at": "2026-08-26T13:29:46Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-26T13:16:42Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21616,
-    "updated_at": "2026-08-26T13:12:00Z",
+    "updated_at": "2026-08-26T13:27:58Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:11:17Z",
+    "url": "https://github.com/api-evangelist/log10"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -18,13 +90,13 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33748,
-    "updated_at": "2026-08-26T13:15:10Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T13:28:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "Isk4R1oT/prefixcash",
     "stars": 0,
-    "updated_at": "2026-08-26T13:05:46Z",
+    "updated_at": "2026-08-26T13:27:44Z",
     "url": "https://github.com/Isk4R1oT/prefixcash"
   },
   {
@@ -81,24 +153,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T13:09:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-26T13:13:27Z",
+    "updated_at": "2026-08-26T13:24:20Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7578,
-    "updated_at": "2026-08-26T12:21:27Z",
+    "updated_at": "2026-08-26T13:19:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -283,7 +337,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57312,
+    "stars": 57314,
     "updated_at": "2026-08-26T12:11:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -351,15 +405,6 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1827,
-    "updated_at": "2026-08-26T13:06:52Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Spec-driven pipeline for building, evaluating, optimising and releasing LLM agents, with a human gate before promotion.",
     "id": "LanaKor/AgentFactory",
     "language": "Python",
@@ -367,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T11:29:44Z",
     "url": "https://github.com/LanaKor/AgentFactory"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3511,
-    "updated_at": "2026-08-26T13:15:07Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Self-hosted cost, token and prompt analytics for OpenRouter. Ingests OTLP broadcast webhooks, runs with zero config.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T11:08:44Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:04:00Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-26T10:55:15Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Racing Microsoft Foundry's model router against a hand-built routing table. Six contenders, sixty synthetic claims promp",
-    "id": "mcekikj/model-router-race",
-    "language": "Python",
-    "name": "mcekikj/model-router-race",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:49:19Z",
-    "url": "https://github.com/mcekikj/model-router-race"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:49:01Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
