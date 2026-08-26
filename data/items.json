@@ -1,5 +1,59 @@
 [
   {
+    "description": "Measure whether a RAG system is actually grounded, and fail the build when it stops being: retrieval metrics, claim-leve",
+    "id": "ChinduSahid/rag-eval-harness",
+    "language": "\u2014",
+    "name": "ChinduSahid/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:29:50Z",
+    "url": "https://github.com/ChinduSahid/rag-eval-harness"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:23:33Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57334,
+    "updated_at": "2026-08-26T21:30:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s",
+    "id": "sdaluga/claude-cowork-playbook",
+    "language": "Dockerfile",
+    "name": "sdaluga/claude-cowork-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:19:33Z",
+    "url": "https://github.com/sdaluga/claude-cowork-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T21:28:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -9,22 +63,13 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T21:14:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57334,
-    "updated_at": "2026-08-26T21:12:37Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-26T21:11:52Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -36,22 +81,31 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
     "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:07:20Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-26T21:05:05Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7587,
+    "updated_at": "2026-08-26T21:02:37Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:57:27Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -68,7 +122,7 @@
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
     "stars": 1,
-    "updated_at": "2026-08-26T21:13:58Z",
+    "updated_at": "2026-08-26T21:16:51Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
   {
@@ -76,18 +130,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27687,
+    "stars": 27686,
     "updated_at": "2026-08-26T20:45:30Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-26T21:11:52Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -99,12 +144,21 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-26T20:40:43Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
     "id": "brunovicco/controlled-autonomy-lab",
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-26T21:15:09Z",
+    "updated_at": "2026-08-26T21:25:08Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24597,
-    "updated_at": "2026-08-26T21:13:14Z",
+    "updated_at": "2026-08-26T21:20:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -135,21 +189,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7586,
-    "updated_at": "2026-08-26T21:02:37Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11205,
-    "updated_at": "2026-08-26T20:58:15Z",
+    "updated_at": "2026-08-26T21:28:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T21:12:41Z",
+    "updated_at": "2026-08-26T21:22:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-08-26T21:11:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 390,
-    "updated_at": "2026-08-26T20:40:43Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29891,
-    "updated_at": "2026-08-26T20:46:21Z",
+    "updated_at": "2026-08-26T21:26:32Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1040,
     "updated_at": "2026-08-26T18:10:03Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Crossplane provider for LiteLLM \u2014 manage LiteLLM proxy models, credentials, keys, teams, budgets and guardrails as Kuber",
-    "id": "TheCodingSheikh/provider-litellm",
-    "language": "Go",
-    "name": "TheCodingSheikh/provider-litellm",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:06:54Z",
-    "url": "https://github.com/TheCodingSheikh/provider-litellm"
-  },
-  {
-    "description": "AI Governance Infrastructure \u2014 open gateway demo. Self-hosted systemprompt.io gateway in a single Rust binary: policy, a",
-    "id": "systempromptio/systemprompt-demo",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-demo",
-    "stars": 3,
-    "updated_at": "2026-08-26T18:59:04Z",
-    "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "Python",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:46:41Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:45:32Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
