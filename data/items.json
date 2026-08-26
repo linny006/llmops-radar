@@ -1,11 +1,56 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:45:08Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57309,
+    "updated_at": "2026-08-26T11:44:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 145,
+    "updated_at": "2026-08-26T11:44:51Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T11:43:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7577,
+    "updated_at": "2026-08-26T11:43:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Offline token counter and LLM cost calculator for PDF, DOCX and PPTX files. Real tokenizers, context-window fit, API cos",
     "id": "Phantom-VK/NoRefund",
     "language": "TypeScript",
     "name": "Phantom-VK/NoRefund",
     "stars": 2,
-    "updated_at": "2026-08-26T11:40:25Z",
+    "updated_at": "2026-08-26T11:47:50Z",
     "url": "https://github.com/Phantom-VK/NoRefund"
   },
   {
@@ -32,17 +77,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33744,
-    "updated_at": "2026-08-26T11:42:17Z",
+    "updated_at": "2026-08-26T11:50:05Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7577,
-    "updated_at": "2026-08-26T11:43:18Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -54,20 +90,11 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Spec-driven pipeline for building, evaluating, optimising and releasing LLM agents, with a human gate before promotion.",
     "id": "LanaKor/AgentFactory",
     "language": "Python",
     "name": "LanaKor/AgentFactory",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-26T11:29:44Z",
     "url": "https://github.com/LanaKor/AgentFactory"
   },
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21616,
-    "updated_at": "2026-08-26T11:42:03Z",
+    "updated_at": "2026-08-26T11:49:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T11:42:01Z",
+    "updated_at": "2026-08-26T11:48:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 657,
-    "updated_at": "2026-08-26T11:19:14Z",
+    "updated_at": "2026-08-26T11:44:00Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -189,21 +216,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 145,
-    "updated_at": "2026-08-26T11:43:02Z",
-    "url": "https://github.com/Juror-AI/juror"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-26T10:55:46Z",
+    "updated_at": "2026-08-26T11:44:55Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57308,
-    "updated_at": "2026-08-26T10:43:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -340,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T10:34:12Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:57:57Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
