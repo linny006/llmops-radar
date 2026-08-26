@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33745 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 2 | [api-evangelist/agenta](https://github.com/api-evangelist/agenta) | 0 | — | 2026-08-26 | Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i |
-| 3 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 1 | TypeScript | 2026-08-26 | Drop-in LLMOps observability for RAG — multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT |
-| 4 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 657 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33745 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 3 | [api-evangelist/agenta](https://github.com/api-evangelist/agenta) | 0 | — | 2026-08-26 | Agenta is an open-source LLMOps platform that brings prompt management, LLM evaluation, and LLM observability together i |
+| 4 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 1 | TypeScript | 2026-08-26 | Drop-in LLMOps observability for RAG — multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT |
+| 5 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 657 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
 | 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21616 | Python | 2026-08-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 8 | [spirex-ds-dev/ai-cockpit-template](https://github.com/spirex-ds-dev/ai-cockpit-template) | 0 | Python | 2026-08-26 | Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit  |
 | 9 | [TheBrokenWay/CageOS-Lite-Demo](https://github.com/TheBrokenWay/CageOS-Lite-Demo) | 0 | Python | 2026-08-26 | Public demo of governance outside the model for bounded agent control |
