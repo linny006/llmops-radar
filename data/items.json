@@ -1,12 +1,39 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57322,
+    "updated_at": "2026-08-26T18:55:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
     "id": "samarthputhraya/modelpin",
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-26T18:39:21Z",
+    "updated_at": "2026-08-26T18:49:48Z",
     "url": "https://github.com/samarthputhraya/modelpin"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T18:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 138,
+    "updated_at": "2026-08-26T18:43:16Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T18:39:13Z",
+    "updated_at": "2026-08-26T18:55:49Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -36,22 +63,13 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T18:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57322,
-    "updated_at": "2026-08-26T18:44:40Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-26T18:28:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-26T18:45:01Z",
+    "updated_at": "2026-08-26T18:50:58Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T18:15:47Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T18:28:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1832,
-    "updated_at": "2026-08-26T18:39:43Z",
+    "updated_at": "2026-08-26T18:54:31Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11203,
-    "updated_at": "2026-08-26T18:33:08Z",
+    "updated_at": "2026-08-26T18:49:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:24:48Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:22:18Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
