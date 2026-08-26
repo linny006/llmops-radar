@@ -1,11 +1,65 @@
 [
   {
+    "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
+    "id": "grepture/proxy",
+    "language": "TypeScript",
+    "name": "grepture/proxy",
+    "stars": 7,
+    "updated_at": "2026-08-26T04:21:15Z",
+    "url": "https://github.com/grepture/proxy"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5772,
+    "updated_at": "2026-08-26T04:18:43Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "PreToolUse hook for Claude Code: blocks agent spending, account creation and fund moves, queues them for human approval,",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 2,
+    "updated_at": "2026-08-26T04:16:05Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11198,
+    "updated_at": "2026-08-26T04:15:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57277,
+    "updated_at": "2026-08-26T04:19:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Governed change control for swapping the AI model in a production application: evaluate, approve, activate with read-bac",
     "id": "Theebban/modelpromote",
     "language": "TypeScript",
     "name": "Theebban/modelpromote",
     "stars": 0,
-    "updated_at": "2026-08-26T04:14:53Z",
+    "updated_at": "2026-08-26T04:20:46Z",
     "url": "https://github.com/Theebban/modelpromote"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T04:04:37Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T04:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +162,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57276,
-    "updated_at": "2026-08-26T04:15:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:47:25Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11198,
-    "updated_at": "2026-08-26T04:15:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -421,32 +448,5 @@
     "stars": 21605,
     "updated_at": "2026-08-26T02:59:07Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-26T02:56:40Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 6,
-    "updated_at": "2026-08-26T03:54:41Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Evidence-grounded agentic AI security auditor for containerized agent runtimes, with scheduled controls, deterministic r",
-    "id": "Lee2379/agentic-ai-security-auditor",
-    "language": "Python",
-    "name": "Lee2379/agentic-ai-security-auditor",
-    "stars": 0,
-    "updated_at": "2026-08-26T02:52:26Z",
-    "url": "https://github.com/Lee2379/agentic-ai-security-auditor"
   }
 ]
