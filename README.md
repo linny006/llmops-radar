@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 21:37 UTC
+> ⏰ Last updated: 2026-08-26 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [matsumoto1f-creator/prompt-experiments](https://github.com/matsumoto1f-creator/prompt-experiments) | 0 | — | 2026-08-26 | Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat |
+| 1 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-26 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
 | 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29892 | TypeScript | 2026-08-26 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 4 | [AYUSHSAINI9876/Pharos](https://github.com/AYUSHSAINI9876/Pharos) | 0 | Python | 2026-08-26 | Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request  |
-| 5 | [ChinduSahid/rag-eval-harness](https://github.com/ChinduSahid/rag-eval-harness) | 0 | — | 2026-08-26 | Measure whether a RAG system is actually grounded, and fail the build when it stops being: retrieval metrics, claim-leve |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
-| 7 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-08-26 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57334 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 9 | [sdaluga/claude-cowork-playbook](https://github.com/sdaluga/claude-cowork-playbook) | 1 | Dockerfile | 2026-08-26 | Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s |
-| 10 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 662 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 11 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-26 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 12 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-26 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 13 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-26 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7587 | Go | 2026-08-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 15 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-26 | ThakiCloud Tech Blog |
-| 16 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-08-26 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 17 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-26 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
+| 3 | [matsumoto1f-creator/prompt-experiments](https://github.com/matsumoto1f-creator/prompt-experiments) | 0 | Python | 2026-08-26 | Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat |
+| 4 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29892 | TypeScript | 2026-08-26 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 5 | [AYUSHSAINI9876/Pharos](https://github.com/AYUSHSAINI9876/Pharos) | 0 | Python | 2026-08-26 | Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request  |
+| 6 | [ChinduSahid/rag-eval-harness](https://github.com/ChinduSahid/rag-eval-harness) | 0 | — | 2026-08-26 | Measure whether a RAG system is actually grounded, and fail the build when it stops being: retrieval metrics, claim-leve |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
+| 8 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-08-26 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57334 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 10 | [sdaluga/claude-cowork-playbook](https://github.com/sdaluga/claude-cowork-playbook) | 1 | Dockerfile | 2026-08-26 | Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s |
+| 11 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 661 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 12 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-26 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 13 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-26 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 14 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-26 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 15 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7587 | Go | 2026-08-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 16 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-26 | ThakiCloud Tech Blog |
+| 17 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-08-26 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
 | 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27686 | Python | 2026-08-26 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 19 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-26 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 20 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 390 | Python | 2026-08-26 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
