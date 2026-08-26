@@ -1,5 +1,86 @@
 [
   {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1021,
+    "updated_at": "2026-08-26T07:28:58Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33721,
+    "updated_at": "2026-08-26T07:29:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T07:26:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Gate prompt changes in CI like code changes. Content-addressed prompts, property assertions that survive a model upgrade",
+    "id": "muhammadwaqasmbd/prompt-regression-ci",
+    "language": "Python",
+    "name": "muhammadwaqasmbd/prompt-regression-ci",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:25:26Z",
+    "url": "https://github.com/muhammadwaqasmbd/prompt-regression-ci"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7576,
+    "updated_at": "2026-08-26T07:25:24Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:25:01Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57287,
+    "updated_at": "2026-08-26T07:30:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-26T07:19:13Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
     "id": "genieincodebottle/aiml-companion",
     "language": "Python",
@@ -14,17 +95,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21611,
-    "updated_at": "2026-08-26T07:14:06Z",
+    "updated_at": "2026-08-26T07:20:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33721,
-    "updated_at": "2026-08-26T07:14:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27683,
-    "updated_at": "2026-08-26T07:03:18Z",
+    "updated_at": "2026-08-26T07:26:52Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T07:01:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -90,21 +153,12 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1822,
-    "updated_at": "2026-08-26T06:57:07Z",
+    "updated_at": "2026-08-26T07:28:29Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57286,
-    "updated_at": "2026-08-26T07:14:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -234,15 +279,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7575,
-    "updated_at": "2026-08-26T07:13:37Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -274,7 +310,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29878,
+    "stars": 29879,
     "updated_at": "2026-08-26T05:11:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -286,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T05:10:10Z",
     "url": "https://github.com/muhammadwaqasmbd/rag-eval-harness"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 115,
+    "updated_at": "2026-08-26T05:09:58Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -315,15 +360,6 @@
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 114,
-    "updated_at": "2026-08-26T05:09:58Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
     "description": "Provider-agnostic LLM gateway: ordered fallback, hard cost ceilings, per-attempt timeouts, caching and jittered retries.",
     "id": "muhammadwaqasmbd/llm-gateway",
     "language": "TypeScript",
@@ -340,15 +376,6 @@
     "stars": 24577,
     "updated_at": "2026-08-26T04:40:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-26T04:53:17Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:57:44Z",
     "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 21,
-    "updated_at": "2026-08-26T03:54:34Z",
-    "url": "https://github.com/jochi2018/Soup"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:54:24Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:53:07Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
