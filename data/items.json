@@ -1,12 +1,57 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T05:10:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Measure RAG retrieval instead of guessing: hit-rate, MRR, recall, nDCG \u2014 plus a failure breakdown that tells you whether",
     "id": "muhammadwaqasmbd/rag-eval-harness",
     "language": "Python",
     "name": "muhammadwaqasmbd/rag-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:03:03Z",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:10:10Z",
     "url": "https://github.com/muhammadwaqasmbd/rag-eval-harness"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:07:37Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57280,
+    "updated_at": "2026-08-26T05:06:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 6,
+    "updated_at": "2026-08-26T05:04:21Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T05:04:13Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -18,29 +63,11 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57279,
-    "updated_at": "2026-08-26T05:01:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T05:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7574,
+    "stars": 7575,
     "updated_at": "2026-08-26T05:02:37Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -52,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-26T04:57:29Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T04:56:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 114,
-    "updated_at": "2026-08-26T04:53:56Z",
+    "updated_at": "2026-08-26T05:09:58Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -85,18 +103,9 @@
     "id": "muhammadwaqasmbd/llm-gateway",
     "language": "TypeScript",
     "name": "muhammadwaqasmbd/llm-gateway",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-26T04:50:43Z",
     "url": "https://github.com/muhammadwaqasmbd/llm-gateway"
-  },
-  {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:47:54Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:28:47Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 92,
-    "updated_at": "2026-08-26T03:28:33Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
