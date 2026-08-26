@@ -1,5 +1,50 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:14:03Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-26T09:13:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:10:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33733,
+    "updated_at": "2026-08-26T09:10:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27685,
+    "updated_at": "2026-08-26T09:09:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -9,24 +54,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33731,
-    "updated_at": "2026-08-26T09:10:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T09:07:17Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -34,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T09:05:58Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:05:42Z",
+    "url": "https://github.com/aimd54/palan"
   },
   {
     "description": "The Requesty integration package for the Vercel AI SDK.",
@@ -50,7 +86,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1316,
-    "updated_at": "2026-08-26T09:08:09Z",
+    "updated_at": "2026-08-26T09:14:47Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T09:02:55Z",
+    "updated_at": "2026-08-26T09:14:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57298,
-    "updated_at": "2026-08-26T09:01:53Z",
+    "updated_at": "2026-08-26T09:15:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T09:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -99,13 +126,13 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27684,
-    "updated_at": "2026-08-26T09:09:43Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "comet-ml/opik",
+    "stars": 21612,
+    "updated_at": "2026-08-26T08:51:49Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 28,
-    "updated_at": "2026-08-26T08:47:31Z",
+    "updated_at": "2026-08-26T09:13:23Z",
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7578,
-    "updated_at": "2026-08-26T09:06:18Z",
+    "updated_at": "2026-08-26T09:14:25Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/mcekikj/model-router-race"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21611,
-    "updated_at": "2026-08-26T08:51:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": " Process mining for LLM agent traces: where the tokens and the time actually go",
     "id": "gurov/traceroutine",
     "language": "Python",
@@ -216,21 +234,12 @@
     "url": "https://github.com/gurov/traceroutine"
   },
   {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:05:42Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 412,
-    "updated_at": "2026-08-26T08:49:37Z",
+    "updated_at": "2026-08-26T09:13:52Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T09:10:10Z",
+    "updated_at": "2026-08-26T09:13:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 19,
     "updated_at": "2026-08-26T06:43:31Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:01:34Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Evaluate agents like software, not vibes. Measures the noise floor so a regression gate fires on evidence, catches flat/",
