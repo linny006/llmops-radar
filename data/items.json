@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2718,
+    "updated_at": "2026-08-26T19:58:41Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:57:47Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
     "id": "VibePod/vibepod-cli",
     "language": "Python",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57327,
-    "updated_at": "2026-08-26T19:44:03Z",
+    "updated_at": "2026-08-26T19:58:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:41:12Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7584,
-    "updated_at": "2026-08-26T19:30:52Z",
+    "updated_at": "2026-08-26T19:48:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:41:19Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -68,8 +95,17 @@
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-26T19:26:51Z",
+    "updated_at": "2026-08-26T20:00:10Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "Assistente de conhecimento corporativo baseado em RAG, constru\u00eddo com foco em governan\u00e7a documental, seguran\u00e7a (RBAC + d",
+    "id": "fabioestevam2404/corporate-knowledge-assistant",
+    "language": "Python",
+    "name": "fabioestevam2404/corporate-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:25:53Z",
+    "url": "https://github.com/fabioestevam2404/corporate-knowledge-assistant"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -95,8 +131,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T19:45:19Z",
+    "updated_at": "2026-08-26T19:59:29Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 4,
+    "updated_at": "2026-08-26T19:17:21Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:13:00Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 660,
-    "updated_at": "2026-08-26T19:06:13Z",
+    "updated_at": "2026-08-26T19:51:29Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:41:12Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
     "id": "matsumoto1f-creator/eval-dataset-miner",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-26T18:28:33Z",
+    "updated_at": "2026-08-26T19:53:24Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T18:23:16Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:17:13Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-26T19:45:15Z",
+    "updated_at": "2026-08-26T19:58:20Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-26T19:39:33Z",
+    "updated_at": "2026-08-26T19:52:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:33:18Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:33:08Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:29:33Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2718,
-    "updated_at": "2026-08-26T19:12:20Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:28:35Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
