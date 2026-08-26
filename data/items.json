@@ -1,12 +1,48 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-26T23:42:56Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T23:28:42Z",
+    "updated_at": "2026-08-26T23:44:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s",
+    "id": "sdaluga/claude-cowork-playbook",
+    "language": "Dockerfile",
+    "name": "sdaluga/claude-cowork-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-26T23:40:27Z",
+    "url": "https://github.com/sdaluga/claude-cowork-playbook"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:40:01Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-26T23:39:50Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
@@ -14,8 +50,35 @@
     "language": "\u2014",
     "name": "matsumoto1f-creator/llm-gateway",
     "stars": 0,
-    "updated_at": "2026-08-26T23:25:29Z",
+    "updated_at": "2026-08-26T23:39:54Z",
     "url": "https://github.com/matsumoto1f-creator/llm-gateway"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-26T23:38:39Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57337,
+    "updated_at": "2026-08-26T23:44:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:33:54Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T23:15:26Z",
+    "updated_at": "2026-08-26T23:30:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:26:10Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -52,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T23:09:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-26T23:04:02Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57337,
-    "updated_at": "2026-08-26T23:29:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -176,7 +230,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-26T22:41:02Z",
+    "updated_at": "2026-08-26T23:41:48Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 54,
     "updated_at": "2026-08-26T22:04:53Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-26T22:04:05Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Feature flags for AI features, where 'working' is a gradient: staged rollout gated on a non-inferiority test, with asymm",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 1,
-    "updated_at": "2026-08-26T23:26:10Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
     "description": "Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat",
     "id": "matsumoto1f-creator/prompt-experiments",
     "language": "Python",
@@ -322,24 +358,6 @@
     "stars": 117,
     "updated_at": "2026-08-26T23:24:10Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-26T22:48:50Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s",
-    "id": "sdaluga/claude-cowork-playbook",
-    "language": "Dockerfile",
-    "name": "sdaluga/claude-cowork-playbook",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:19:33Z",
-    "url": "https://github.com/sdaluga/claude-cowork-playbook"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-26T23:20:05Z",
+    "updated_at": "2026-08-26T23:37:04Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -405,21 +423,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T20:28:42Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1835,
-    "updated_at": "2026-08-26T23:04:06Z",
+    "updated_at": "2026-08-26T23:41:07Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-26T20:16:59Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:13:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
