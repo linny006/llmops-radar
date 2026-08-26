@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T18:55:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57322,
-    "updated_at": "2026-08-26T18:59:56Z",
+    "stars": 57326,
+    "updated_at": "2026-08-26T19:12:57Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
+    "id": "RitikPatill/prompt-eval-studio",
+    "language": "Python",
+    "name": "RitikPatill/prompt-eval-studio",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:11:14Z",
+    "url": "https://github.com/RitikPatill/prompt-eval-studio"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-26T18:49:48Z",
+    "updated_at": "2026-08-26T19:13:43Z",
     "url": "https://github.com/samarthputhraya/modelpin"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 660,
+    "updated_at": "2026-08-26T19:06:13Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7584,
+    "updated_at": "2026-08-26T19:12:24Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:06:45Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11203,
+    "updated_at": "2026-08-26T18:49:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -41,8 +86,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-26T19:00:11Z",
+    "updated_at": "2026-08-26T19:14:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:14:53Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
@@ -52,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:37:12Z",
     "url": "https://github.com/matsumoto1f-creator/eval-dataset-miner"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:36:48Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -72,15 +135,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
-    "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:59:59Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
-  },
-  {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
     "id": "IgorGanapolsky/mac-yolo-safeguards",
     "language": "JavaScript",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 412,
-    "updated_at": "2026-08-26T18:26:22Z",
+    "updated_at": "2026-08-26T19:09:56Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7583,
-    "updated_at": "2026-08-26T18:58:13Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29890,
-    "updated_at": "2026-08-26T18:16:19Z",
+    "updated_at": "2026-08-26T19:02:04Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T18:15:47Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
-    "id": "erjonb19/Security-Constrained-Agent-Runtime",
-    "language": "Python",
-    "name": "erjonb19/Security-Constrained-Agent-Runtime",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:36:48Z",
-    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   },
   {
     "description": "Official Terraform provider for the Keel AI control plane",
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 6,
-    "updated_at": "2026-08-26T17:38:41Z",
+    "updated_at": "2026-08-26T19:08:13Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1832,
-    "updated_at": "2026-08-26T18:56:06Z",
+    "updated_at": "2026-08-26T19:09:35Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11203,
-    "updated_at": "2026-08-26T18:49:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2718,
-    "updated_at": "2026-08-26T17:29:09Z",
+    "updated_at": "2026-08-26T19:12:20Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
-    "id": "RitikPatill/prompt-eval-studio",
-    "language": "Python",
-    "name": "RitikPatill/prompt-eval-studio",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:27:09Z",
-    "url": "https://github.com/RitikPatill/prompt-eval-studio"
-  },
-  {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-26T17:26:19Z",
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:26:02Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:24:48Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
