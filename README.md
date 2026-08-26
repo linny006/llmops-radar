@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 20:30 UTC
+> ⏰ Last updated: 2026-08-26 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,33 +42,33 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-08-26 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 3 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 4 | [laputski/causa-rag](https://github.com/laputski/causa-rag) | 0 | Python | 2026-08-26 | A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57330 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1833 | Python | 2026-08-26 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 7 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-26 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
-| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
-| 9 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
-| 10 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 11 | [openlit/openlit](https://github.com/openlit/openlit) | 2718 | TypeScript | 2026-08-26 | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations |
-| 12 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-26 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
-| 13 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 7 | Go | 2026-08-26 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 14 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 390 | Python | 2026-08-26 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 15 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 661 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 16 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7585 | Go | 2026-08-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 17 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 138 | Python | 2026-08-26 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
-| 18 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-26 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
-| 19 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-26 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 20 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24596 | TypeScript | 2026-08-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 21 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21620 | Python | 2026-08-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 22 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11204 | Python | 2026-08-26 | AI Observability & Evaluation |
-| 23 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 412 | Python | 2026-08-26 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 24 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-26 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 25 | [fabioestevam2404/corporate-knowledge-assistant](https://github.com/fabioestevam2404/corporate-knowledge-assistant) | 0 | Python | 2026-08-26 | Assistente de conhecimento corporativo baseado em RAG, construído com foco em governança documental, segurança (RBAC + d |
-| 26 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33766 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 27 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 4 | Python | 2026-08-26 | Production harness and control plane for accountable AI-assisted software delivery |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-26 | Create your Agentic AIs. |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57332 | Python | 2026-08-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-26 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
+| 4 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-08-26 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 5 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 663 | Python | 2026-08-26 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11205 | Python | 2026-08-26 | AI Observability & Evaluation |
+| 8 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1834 | Python | 2026-08-26 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 9 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 4 | Python | 2026-08-26 | Production harness and control plane for accountable AI-assisted software delivery |
+| 10 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 11 | [laputski/causa-rag](https://github.com/laputski/causa-rag) | 0 | Python | 2026-08-26 | A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q |
+| 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
+| 13 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 14 | [openlit/openlit](https://github.com/openlit/openlit) | 2718 | TypeScript | 2026-08-26 | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations |
+| 15 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-26 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
+| 16 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 7 | Go | 2026-08-26 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 17 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 390 | Python | 2026-08-26 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
+| 18 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7585 | Go | 2026-08-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 19 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 138 | Python | 2026-08-26 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
+| 20 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-26 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
+| 21 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-26 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 22 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24596 | TypeScript | 2026-08-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 23 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21620 | Python | 2026-08-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 24 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 412 | Python | 2026-08-26 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 25 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-26 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 26 | [fabioestevam2404/corporate-knowledge-assistant](https://github.com/fabioestevam2404/corporate-knowledge-assistant) | 0 | Python | 2026-08-26 | Assistente de conhecimento corporativo baseado em RAG, construído com foco em governança documental, segurança (RBAC + d |
+| 27 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33766 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 28 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-26 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
 | 29 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-08-26 | Generative AI proxy, with cost ledger and crash safety baked in. |
 | 30 | [RitikPatill/prompt-eval-studio](https://github.com/RitikPatill/prompt-eval-studio) | 0 | Python | 2026-08-26 | Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod |

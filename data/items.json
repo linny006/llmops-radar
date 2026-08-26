@@ -1,12 +1,48 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-26T20:42:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57332,
+    "updated_at": "2026-08-26T20:44:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:44:26Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-26T20:30:06Z",
+    "updated_at": "2026-08-26T20:37:35Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 663,
+    "updated_at": "2026-08-26T20:33:27Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T20:15:29Z",
+    "updated_at": "2026-08-26T20:30:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11205,
+    "updated_at": "2026-08-26T20:23:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1834,
+    "updated_at": "2026-08-26T20:20:53Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:16:59Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -36,48 +99,12 @@
     "url": "https://github.com/laputski/causa-rag"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57330,
-    "updated_at": "2026-08-26T20:27:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1833,
-    "updated_at": "2026-08-26T20:20:53Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
-    "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:23:10Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-26T20:24:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T20:05:01Z",
+    "updated_at": "2026-08-26T20:43:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
     "stars": 1,
-    "updated_at": "2026-08-26T19:53:56Z",
+    "updated_at": "2026-08-26T20:43:47Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
   {
@@ -122,17 +149,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-26T20:26:14Z",
+    "updated_at": "2026-08-26T20:40:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 661,
-    "updated_at": "2026-08-26T20:28:11Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24596,
-    "updated_at": "2026-08-26T19:40:06Z",
+    "updated_at": "2026-08-26T20:33:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 21620,
     "updated_at": "2026-08-26T19:30:24Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11204,
-    "updated_at": "2026-08-26T20:23:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-26T20:22:20Z",
+    "updated_at": "2026-08-26T20:42:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 33766,
     "updated_at": "2026-08-26T19:25:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:16:59Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -329,7 +329,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-08-26T18:27:07Z",
+    "updated_at": "2026-08-26T20:41:36Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-26T20:14:53Z",
+    "updated_at": "2026-08-26T20:44:49Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
