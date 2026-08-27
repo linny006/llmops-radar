@@ -1,11 +1,47 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T21:29:09Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57416,
+    "updated_at": "2026-08-27T21:29:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:18:56Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T21:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T21:08:38Z",
+    "updated_at": "2026-08-27T21:28:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T21:08:22Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T21:01:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
@@ -52,24 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-27T20:59:09Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T20:55:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57416,
-    "updated_at": "2026-08-27T21:09:57Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
@@ -103,8 +112,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33817,
-    "updated_at": "2026-08-27T20:44:14Z",
+    "stars": 33818,
+    "updated_at": "2026-08-27T21:23:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T21:11:14Z",
+    "updated_at": "2026-08-27T21:23:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-08-27T20:26:13Z",
+    "updated_at": "2026-08-27T21:19:31Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T20:58:16Z",
+    "updated_at": "2026-08-27T21:23:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -400,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3330,
+    "stars": 3332,
     "updated_at": "2026-08-27T19:07:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11217,
-    "updated_at": "2026-08-27T21:10:19Z",
+    "updated_at": "2026-08-27T21:16:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:56:38Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-27T18:54:51Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
