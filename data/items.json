@@ -1,30 +1,48 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33793,
-    "updated_at": "2026-08-27T09:28:57Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21631,
+    "updated_at": "2026-08-27T09:44:58Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7597,
-    "updated_at": "2026-08-27T09:29:33Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-27T09:17:27Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+    "updated_at": "2026-08-27T09:37:08Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T09:40:58Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "XOne - The Open Agentic Studio",
+    "id": "abhishekpandaOfficial/XOne",
+    "language": "Python",
+    "name": "abhishekpandaOfficial/XOne",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:33:49Z",
+    "url": "https://github.com/abhishekpandaOfficial/XOne"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T09:33:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T09:15:27Z",
+    "updated_at": "2026-08-27T09:30:32Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57379,
+    "updated_at": "2026-08-27T09:29:38Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
@@ -45,22 +72,40 @@
     "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T09:11:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33793,
+    "updated_at": "2026-08-27T09:44:09Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57377,
-    "updated_at": "2026-08-27T09:29:38Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7597,
+    "updated_at": "2026-08-27T09:40:51Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 112,
+    "updated_at": "2026-08-27T09:19:44Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:17:27Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
     "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27690,
-    "updated_at": "2026-08-27T09:02:38Z",
+    "updated_at": "2026-08-27T09:43:23Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -126,24 +171,6 @@
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3514,
-    "updated_at": "2026-08-27T09:27:03Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21631,
-    "updated_at": "2026-08-27T09:29:02Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-27T08:47:19Z",
+    "updated_at": "2026-08-27T09:36:50Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1839,
-    "updated_at": "2026-08-27T09:11:43Z",
+    "updated_at": "2026-08-27T09:38:26Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -238,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3220,
+    "stars": 3224,
     "updated_at": "2026-08-27T08:12:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -346,7 +373,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1188,
+    "stars": 1153,
     "updated_at": "2026-08-27T06:41:28Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -421,32 +448,5 @@
     "stars": 29900,
     "updated_at": "2026-08-27T09:13:28Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 48,
-    "updated_at": "2026-08-27T05:57:06Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-08-27T05:57:04Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 413,
-    "updated_at": "2026-08-27T09:23:52Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
