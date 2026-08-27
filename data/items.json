@@ -1,12 +1,84 @@
 [
   {
+    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
+    "id": "sjfakharian/zerospend",
+    "language": "JavaScript",
+    "name": "sjfakharian/zerospend",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:27:11Z",
+    "url": "https://github.com/sjfakharian/zerospend"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:25:10Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2721,
+    "updated_at": "2026-08-27T10:24:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27690,
+    "updated_at": "2026-08-27T10:23:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21632,
-    "updated_at": "2026-08-27T10:10:56Z",
+    "updated_at": "2026-08-27T10:30:06Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T10:17:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 7,
+    "updated_at": "2026-08-27T10:16:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "PreToolUse hook for Claude Code: blocks agent spending, account creation and fund moves, queues them for human approval,",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 2,
+    "updated_at": "2026-08-27T10:10:35Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-27T10:08:54Z",
+    "updated_at": "2026-08-27T10:23:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7598,
+    "updated_at": "2026-08-27T10:07:24Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -25,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T10:05:00Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2721,
-    "updated_at": "2026-08-27T10:00:06Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T10:11:09Z",
+    "updated_at": "2026-08-27T10:17:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11914,
-    "updated_at": "2026-08-27T10:07:07Z",
+    "updated_at": "2026-08-27T10:28:12Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -122,17 +185,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57381,
-    "updated_at": "2026-08-27T09:48:29Z",
+    "updated_at": "2026-08-27T10:16:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7597,
-    "updated_at": "2026-08-27T10:07:24Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -142,15 +196,6 @@
     "stars": 28,
     "updated_at": "2026-08-27T09:46:02Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27690,
-    "updated_at": "2026-08-27T10:07:47Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T10:08:52Z",
+    "updated_at": "2026-08-27T10:30:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T09:33:49Z",
     "url": "https://github.com/abhishekpandaOfficial/XOne"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T09:33:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 112,
-    "updated_at": "2026-08-27T09:19:44Z",
+    "updated_at": "2026-08-27T10:16:00Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Java",
     "name": "qiantongtech/qKnow",
     "stars": 268,
-    "updated_at": "2026-08-27T09:07:53Z",
+    "updated_at": "2026-08-27T10:28:10Z",
     "url": "https://github.com/qiantongtech/qKnow"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:44:37Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -315,12 +342,21 @@
     "url": "https://github.com/MurtazaBhutta/llm-release-gate"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11210,
+    "updated_at": "2026-08-27T08:27:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1839,
-    "updated_at": "2026-08-27T09:55:50Z",
+    "updated_at": "2026-08-27T10:17:08Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -337,7 +373,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3227,
+    "stars": 3230,
     "updated_at": "2026-08-27T08:12:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:55:27Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
-    "id": "VeraPyuyi/prompt_control_lab",
-    "language": "Python",
-    "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 5,
-    "updated_at": "2026-08-27T06:49:23Z",
-    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1155,
-    "updated_at": "2026-08-27T06:41:28Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1586,
-    "updated_at": "2026-08-27T06:36:35Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11210,
-    "updated_at": "2026-08-27T08:27:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
