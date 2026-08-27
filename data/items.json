@@ -1,20 +1,11 @@
 [
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-08-27T23:14:32Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T23:14:08Z",
+    "updated_at": "2026-08-27T23:29:50Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -23,8 +14,44 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-27T23:12:57Z",
+    "updated_at": "2026-08-27T23:25:08Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 7,
+    "updated_at": "2026-08-27T23:23:44Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-27T23:23:37Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57421,
+    "updated_at": "2026-08-27T23:21:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29909,
+    "updated_at": "2026-08-27T23:17:06Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T23:00:29Z",
+    "updated_at": "2026-08-27T23:15:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-08-27T23:14:32Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -54,15 +90,6 @@
     "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57421,
-    "updated_at": "2026-08-27T23:10:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:36:21Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29908,
-    "updated_at": "2026-08-27T22:59:59Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -369,20 +387,11 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 7,
-    "updated_at": "2026-08-27T22:45:59Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 16,
+    "stars": 24,
     "updated_at": "2026-08-27T21:35:30Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T21:18:56Z",
     "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-08-27T21:08:22Z",
-    "url": "https://github.com/api-evangelist/seldon"
   }
 ]
