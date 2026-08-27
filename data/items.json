@@ -5,53 +5,26 @@
     "language": "Python",
     "name": "abhishekpandaOfficial/XOne",
     "stars": 1,
-    "updated_at": "2026-08-27T13:26:19Z",
+    "updated_at": "2026-08-27T13:38:14Z",
     "url": "https://github.com/abhishekpandaOfficial/XOne"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T13:43:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21633,
-    "updated_at": "2026-08-27T13:23:06Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57392,
-    "updated_at": "2026-08-27T13:21:30Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29903,
-    "updated_at": "2026-08-27T13:29:33Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3514,
-    "updated_at": "2026-08-27T13:28:16Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "mikehasa/agentacct",
+    "stars": 666,
+    "updated_at": "2026-08-27T13:36:29Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -59,8 +32,89 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33807,
-    "updated_at": "2026-08-27T13:30:04Z",
+    "updated_at": "2026-08-27T13:45:21Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
+    "id": "brocs-org/brocs",
+    "language": "\u2014",
+    "name": "brocs-org/brocs",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:45:13Z",
+    "url": "https://github.com/brocs-org/brocs"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57394,
+    "updated_at": "2026-08-27T13:31:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-27T13:27:29Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21633,
+    "updated_at": "2026-08-27T13:32:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-27T13:39:49Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1843,
+    "updated_at": "2026-08-27T13:21:56Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29903,
+    "updated_at": "2026-08-27T13:44:49Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T13:42:43Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -117,21 +171,12 @@
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T13:29:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7598,
-    "updated_at": "2026-08-27T13:24:57Z",
+    "updated_at": "2026-08-27T13:43:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1842,
-    "updated_at": "2026-08-27T13:21:56Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
     "id": "intel/enterprise-ai-solutions",
     "language": "Shell",
@@ -221,17 +257,8 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-27T13:29:43Z",
+    "updated_at": "2026-08-27T13:38:43Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-27T12:53:15Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -250,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T12:35:47Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
-    "id": "brocs-org/brocs",
-    "language": "\u2014",
-    "name": "brocs-org/brocs",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:32:38Z",
-    "url": "https://github.com/brocs-org/brocs"
   },
   {
     "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
@@ -319,7 +337,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3267,
+    "stars": 3272,
     "updated_at": "2026-08-27T11:47:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/sjfakharian/zerospend"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 390,
-    "updated_at": "2026-08-27T13:22:52Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Production-grade Hybrid LLM Router & Semantic Cache Gateway \u2014 local Ollama + Gemini routing with cosine-similarity vecto",
     "id": "saathvik-codes/hybrid-llm-gateway",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 79,
     "updated_at": "2026-08-27T13:12:05Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI Operations Monitor & Process Performance Dashboard",
-    "id": "Rahul1816Mamidi/AI-Ops",
-    "language": "Python",
-    "name": "Rahul1816Mamidi/AI-Ops",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:06:47Z",
-    "url": "https://github.com/Rahul1816Mamidi/AI-Ops"
   }
 ]
