@@ -1,5 +1,41 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T02:42:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57348,
+    "updated_at": "2026-08-27T02:44:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2718,
+    "updated_at": "2026-08-27T02:36:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T02:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
     "id": "alexvervloet/knowledge-desk",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 118,
-    "updated_at": "2026-08-27T02:26:21Z",
+    "updated_at": "2026-08-27T02:31:45Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -31,8 +67,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27689,
-    "updated_at": "2026-08-27T02:22:56Z",
+    "stars": 27688,
+    "updated_at": "2026-08-27T02:37:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -45,24 +81,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57347,
-    "updated_at": "2026-08-27T02:24:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T02:18:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T02:17:47Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T02:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -121,7 +130,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33773,
+    "stars": 33776,
     "updated_at": "2026-08-27T02:00:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -270,13 +279,13 @@
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2718,
-    "updated_at": "2026-08-27T01:23:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1836,
+    "updated_at": "2026-08-27T01:30:43Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T00:25:27Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-08-27T00:36:03Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   }
 ]

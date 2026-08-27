@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 02:30 UTC
+> ⏰ Last updated: 2026-08-27 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-08-27 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
-| 2 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 118 | Rust | 2026-08-27 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
-| 3 | [erjonb19/Security-Constrained-Agent-Runtime](https://github.com/erjonb19/Security-Constrained-Agent-Runtime) | 0 | Python | 2026-08-27 | Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d |
-| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27689 | Python | 2026-08-27 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 5 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-27 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57347 | Python | 2026-08-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-27 | Create your Agentic AIs. |
-| 8 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-27 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-27 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 11 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-27 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 12 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-27 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
-| 13 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-27 | ThakiCloud Tech Blog |
-| 14 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33773 | TypeScript | 2026-08-27 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 15 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 16 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-27 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
-| 17 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-27 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 18 | [naturaljam/ACCOUNT-COMPROMISED-SpanVouch](https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch) | 1 | — | 2026-08-27 | This repository is associated with a compromised GitHub account. Contents are unauthorized. / 此仓库关联的 GitHub 账户已被盗用，内容未经授 |
-| 19 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-27 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
-| 20 | [redevops-io/agent-harness](https://github.com/redevops-io/agent-harness) | 0 | Python | 2026-08-27 | Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0. |
-| 21 | [redevops-io/sidekick](https://github.com/redevops-io/sidekick) | 9 | Python | 2026-08-27 | Local coding-agent orchestrator — DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/ |
-| 22 | [redevops-io/redevops-rag](https://github.com/redevops-io/redevops-rag) | 8 | Python | 2026-08-27 | Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra |
-| 23 | [redevops-io/context-runtime](https://github.com/redevops-io/context-runtime) | 12 | Python | 2026-08-27 | Context Runtime — a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs  |
-| 24 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-27 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 25 | [redevops-io/DataOpsBench](https://github.com/redevops-io/DataOpsBench) | 0 | Python | 2026-08-27 | A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep |
-| 26 | [redevops-io/mission-sdk](https://github.com/redevops-io/mission-sdk) | 0 | Python | 2026-08-27 | Mission SDK — the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg |
-| 27 | [redevops-io/accounting-runtime](https://github.com/redevops-io/accounting-runtime) | 0 | Python | 2026-08-27 | Example: a governed AI accounting layer — correct-by-construction bookkeeping ground truth from ERPNext, cross-validated |
-| 28 | [redevops-io/personal-tax-runtime](https://github.com/redevops-io/personal-tax-runtime) | 0 | Python | 2026-08-27 | Example: a governed AI personal-tax (1040) layer — federal returns via Tax-Calculator (CC0), cross-validated against Pol |
-| 29 | [redevops-io/redevops-demo](https://github.com/redevops-io/redevops-demo) | 0 | Python | 2026-08-27 | Self-demonstrating ReDevOps × AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self |
-| 30 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-27 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
-| 31 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2718 | C++ | 2026-08-27 | Community maintained hardware plugin for vLLM on Ascend |
-| 32 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8416 | Rust | 2026-08-27 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 33 | [togettoyou/zke](https://github.com/togettoyou/zke) | 97 | Go | 2026-08-27 | ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境 |
-| 34 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-27 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
-| 35 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-08-27 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
-| 36 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-08-27 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
-| 37 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-08-27 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
-| 38 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-08-27 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
-| 39 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 7 | Go | 2026-08-27 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 40 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-08-27 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 41 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-27 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 42 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-08-27 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
-| 43 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-08-27 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
-| 44 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 1 | — | 2026-08-27 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
-| 45 | [kawaiirashi/llm-retry](https://github.com/kawaiirashi/llm-retry) | 1 | C++ | 2026-08-27 | Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct |
-| 46 | [Anbumani08/agentic-coding-workflow](https://github.com/Anbumani08/agentic-coding-workflow) | 0 | HTML | 2026-08-27 | Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas |
-| 47 | [wahhyun/llm-eval](https://github.com/wahhyun/llm-eval) | 1 | C++ | 2026-08-27 | Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct |
-| 48 | [ashmedanraj/langfuse-eks-production](https://github.com/ashmedanraj/langfuse-eks-production) | 0 | — | 2026-08-27 | Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi |
-| 49 | [sarrahw23/deploy-guide](https://github.com/sarrahw23/deploy-guide) | 1 | — | 2026-08-27 | Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc |
-| 50 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-08-27 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-27 | Create your Agentic AIs. |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57348 | Python | 2026-08-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2718 | C++ | 2026-08-27 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-08-27 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
+| 6 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 118 | Rust | 2026-08-27 | Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust bi |
+| 7 | [erjonb19/Security-Constrained-Agent-Runtime](https://github.com/erjonb19/Security-Constrained-Agent-Runtime) | 0 | Python | 2026-08-27 | Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d |
+| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27688 | Python | 2026-08-27 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 9 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-27 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 10 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-27 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 11 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-27 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 12 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 79 | Python | 2026-08-27 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 13 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 1 | Jupyter Notebook | 2026-08-27 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
+| 14 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-27 | ThakiCloud Tech Blog |
+| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33776 | TypeScript | 2026-08-27 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 16 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 17 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-27 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
+| 18 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-27 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 19 | [naturaljam/ACCOUNT-COMPROMISED-SpanVouch](https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch) | 1 | — | 2026-08-27 | This repository is associated with a compromised GitHub account. Contents are unauthorized. / 此仓库关联的 GitHub 账户已被盗用，内容未经授 |
+| 20 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-27 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
+| 21 | [redevops-io/agent-harness](https://github.com/redevops-io/agent-harness) | 0 | Python | 2026-08-27 | Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0. |
+| 22 | [redevops-io/sidekick](https://github.com/redevops-io/sidekick) | 9 | Python | 2026-08-27 | Local coding-agent orchestrator — DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/ |
+| 23 | [redevops-io/redevops-rag](https://github.com/redevops-io/redevops-rag) | 8 | Python | 2026-08-27 | Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra |
+| 24 | [redevops-io/context-runtime](https://github.com/redevops-io/context-runtime) | 12 | Python | 2026-08-27 | Context Runtime — a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs  |
+| 25 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-27 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 26 | [redevops-io/DataOpsBench](https://github.com/redevops-io/DataOpsBench) | 0 | Python | 2026-08-27 | A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep |
+| 27 | [redevops-io/mission-sdk](https://github.com/redevops-io/mission-sdk) | 0 | Python | 2026-08-27 | Mission SDK — the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg |
+| 28 | [redevops-io/accounting-runtime](https://github.com/redevops-io/accounting-runtime) | 0 | Python | 2026-08-27 | Example: a governed AI accounting layer — correct-by-construction bookkeeping ground truth from ERPNext, cross-validated |
+| 29 | [redevops-io/personal-tax-runtime](https://github.com/redevops-io/personal-tax-runtime) | 0 | Python | 2026-08-27 | Example: a governed AI personal-tax (1040) layer — federal returns via Tax-Calculator (CC0), cross-validated against Pol |
+| 30 | [redevops-io/redevops-demo](https://github.com/redevops-io/redevops-demo) | 0 | Python | 2026-08-27 | Self-demonstrating ReDevOps × AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self |
+| 31 | [samarthputhraya/modelpin](https://github.com/samarthputhraya/modelpin) | 1 | Python | 2026-08-27 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
+| 32 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1836 | Python | 2026-08-27 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 33 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8416 | Rust | 2026-08-27 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 34 | [togettoyou/zke](https://github.com/togettoyou/zke) | 97 | Go | 2026-08-27 | ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境 |
+| 35 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-27 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
+| 36 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-08-27 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
+| 37 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-08-27 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
+| 38 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-08-27 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
+| 39 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-08-27 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
+| 40 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 7 | Go | 2026-08-27 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 41 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-08-27 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 42 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-27 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 43 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-08-27 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
+| 44 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-08-27 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
+| 45 | [ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit) | 1 | — | 2026-08-27 | Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g |
+| 46 | [kawaiirashi/llm-retry](https://github.com/kawaiirashi/llm-retry) | 1 | C++ | 2026-08-27 | Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct |
+| 47 | [Anbumani08/agentic-coding-workflow](https://github.com/Anbumani08/agentic-coding-workflow) | 0 | HTML | 2026-08-27 | Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas |
+| 48 | [wahhyun/llm-eval](https://github.com/wahhyun/llm-eval) | 1 | C++ | 2026-08-27 | Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct |
+| 49 | [ashmedanraj/langfuse-eks-production](https://github.com/ashmedanraj/langfuse-eks-production) | 0 | — | 2026-08-27 | Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi |
+| 50 | [sarrahw23/deploy-guide](https://github.com/sarrahw23/deploy-guide) | 1 | — | 2026-08-27 | Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc |
 <!-- TRACKER_TABLE_END -->
 
 ---
