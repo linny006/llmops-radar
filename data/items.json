@@ -1,12 +1,120 @@
 [
   {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:25:38Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1839,
+    "updated_at": "2026-08-27T08:24:50Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-27T08:24:34Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-27T08:24:31Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/claude-code-playbook",
+    "language": "Python",
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:28:20Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2720,
+    "updated_at": "2026-08-27T08:20:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57371,
+    "updated_at": "2026-08-27T08:27:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
+    "id": "shivapreetham/resource-aware-model-proxy",
+    "language": "Python",
+    "name": "shivapreetham/resource-aware-model-proxy",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:16:55Z",
+    "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-27T08:25:06Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T08:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T08:13:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3209,
+    "stars": 3213,
     "updated_at": "2026-08-27T08:12:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7597,
+    "updated_at": "2026-08-27T08:21:38Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -27,39 +135,12 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
-    "id": "shivapreetham/resource-aware-model-proxy",
-    "language": "Python",
-    "name": "shivapreetham/resource-aware-model-proxy",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:11:19Z",
-    "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T08:13:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33792,
-    "updated_at": "2026-08-27T08:15:16Z",
+    "updated_at": "2026-08-27T08:27:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,44 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T08:15:00Z",
+    "updated_at": "2026-08-27T08:26:47Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:13:25Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57370,
-    "updated_at": "2026-08-27T08:13:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2720,
-    "updated_at": "2026-08-27T07:50:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7596,
-    "updated_at": "2026-08-27T08:11:08Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -140,17 +185,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27688,
-    "updated_at": "2026-08-27T07:35:56Z",
+    "updated_at": "2026-08-27T08:29:30Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1839,
-    "updated_at": "2026-08-27T08:12:22Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -184,8 +220,8 @@
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
-    "stars": 5705,
-    "updated_at": "2026-08-27T07:06:24Z",
+    "stars": 5706,
+    "updated_at": "2026-08-27T08:25:12Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11913,
-    "updated_at": "2026-08-27T07:28:01Z",
+    "updated_at": "2026-08-27T08:29:02Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -238,7 +274,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1156,
+    "stars": 1165,
     "updated_at": "2026-08-27T06:41:28Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11210,
-    "updated_at": "2026-08-27T08:10:43Z",
+    "updated_at": "2026-08-27T08:27:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -288,6 +324,15 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1179,
+    "updated_at": "2026-08-27T06:13:07Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -301,7 +346,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29901,
+    "stars": 29900,
     "updated_at": "2026-08-27T05:57:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -329,26 +374,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 413,
-    "updated_at": "2026-08-27T05:49:49Z",
+    "updated_at": "2026-08-27T08:25:45Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1178,
-    "updated_at": "2026-08-27T06:13:07Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T05:41:09Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T03:44:55Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:44:33Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
-    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
-    "id": "calliopeai/brocs",
-    "language": "\u2014",
-    "name": "calliopeai/brocs",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:41:12Z",
-    "url": "https://github.com/calliopeai/brocs"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:25:27Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
   }
 ]
