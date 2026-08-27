@@ -1,21 +1,93 @@
 [
   {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-27T18:42:57Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:41:48Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
     "description": "CI for LLM behaviour: run a versioned prompt against a golden dataset, diff it against a promoted baseline, and block th",
     "id": "matsumoto1f-creator/llm-regression-ci",
     "language": "Python",
     "name": "matsumoto1f-creator/llm-regression-ci",
     "stars": 0,
-    "updated_at": "2026-08-27T18:29:49Z",
+    "updated_at": "2026-08-27T18:37:53Z",
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T18:44:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57409,
+    "updated_at": "2026-08-27T18:43:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T18:43:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:36:06Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33814,
-    "updated_at": "2026-08-27T18:29:06Z",
+    "stars": 33815,
+    "updated_at": "2026-08-27T18:44:06Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
+    "id": "matsumoto1f-creator/eval-dataset-miner",
+    "language": "Python",
+    "name": "matsumoto1f-creator/eval-dataset-miner",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:27:37Z",
+    "url": "https://github.com/matsumoto1f-creator/eval-dataset-miner"
   },
   {
     "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
@@ -25,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-27T18:27:34Z",
     "url": "https://github.com/waalwalker1/knovaryn"
+  },
+  {
+    "description": "TensorZero is an open-source, self-hosted LLMOps platform that unifies five capabilities behind one stack: a high-perfor",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:26:03Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
   },
   {
     "description": "Multi-critic LLM output arbitration that measures how independent its critics actually are, and refuses to report confid",
@@ -41,17 +122,8 @@
     "language": "Python",
     "name": "matsumoto1f-creator/prompt-experiments",
     "stars": 0,
-    "updated_at": "2026-08-27T18:23:45Z",
+    "updated_at": "2026-08-27T18:37:51Z",
     "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T18:29:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29904,
-    "updated_at": "2026-08-27T18:22:43Z",
+    "updated_at": "2026-08-27T18:43:08Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -67,7 +139,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21639,
+    "stars": 21640,
     "updated_at": "2026-08-27T18:22:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -81,13 +153,13 @@
     "url": "https://github.com/sdaluga/claude-cowork-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57409,
-    "updated_at": "2026-08-27T18:24:44Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:44:12Z",
+    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "Feature flags for AI features, where 'working' is a gradient: staged rollout gated on a non-inferiority test, with asymm",
@@ -108,15 +180,6 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T18:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -124,6 +187,15 @@
     "stars": 22,
     "updated_at": "2026-08-27T18:14:56Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:14:55Z",
+    "url": "https://github.com/api-evangelist/seldon"
   },
   {
     "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11216,
-    "updated_at": "2026-08-27T18:17:35Z",
+    "updated_at": "2026-08-27T18:43:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T18:20:08Z",
+    "updated_at": "2026-08-27T18:42:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3514,
-    "updated_at": "2026-08-27T18:29:53Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -328,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3309,
+    "stars": 3311,
     "updated_at": "2026-08-27T17:20:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -373,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24620,
+    "stars": 24621,
     "updated_at": "2026-08-27T17:14:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T17:40:32Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Evidently AI is an open-source ML and LLM observability framework licensed under Apache 2.0 that enables teams to evalua",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:12:53Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-27T17:35:08Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1317,
-    "updated_at": "2026-08-27T17:08:19Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Dify is an open-source platform for building AI applications. We combine Backend-as-a-Service and LLMOps to streamline t",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:06:26Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:59:10Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:50:38Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "Measure, diagnose and fix your LLM prompt-cache hit rate \u2014 and see the dollars you save.",
-    "id": "Isk4R1oT/prefixcash",
-    "language": "Python",
-    "name": "Isk4R1oT/prefixcash",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:39:18Z",
-    "url": "https://github.com/Isk4R1oT/prefixcash"
   }
 ]
