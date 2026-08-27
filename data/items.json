@@ -1,5 +1,77 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-27T02:00:19Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3525,
+    "updated_at": "2026-08-27T01:58:32Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T01:56:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57343,
+    "updated_at": "2026-08-27T01:59:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:52:56Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:48:25Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "This repository is associated with a compromised GitHub account. Contents are unauthorized. / \u6b64\u4ed3\u5e93\u5173\u8054\u7684 GitHub \u8d26\u6237\u5df2\u88ab\u76d7\u7528\uff0c\u5185\u5bb9\u672a\u7ecf\u6388",
+    "id": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
+    "language": "\u2014",
+    "name": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:45:30Z",
+    "url": "https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T01:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
     "id": "venkathub/dosadash",
     "language": "Python",
@@ -36,15 +108,6 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T01:41:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
     "id": "redevops-io/context-runtime",
     "language": "Python",
@@ -52,24 +115,6 @@
     "stars": 12,
     "updated_at": "2026-08-27T01:40:21Z",
     "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57342,
-    "updated_at": "2026-08-27T01:44:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
-    "id": "naturaljam/SpanVouch",
-    "language": "\u2014",
-    "name": "naturaljam/SpanVouch",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:45:25Z",
-    "url": "https://github.com/naturaljam/SpanVouch"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -135,15 +180,6 @@
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -157,7 +193,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2714,
+    "stars": 2715,
     "updated_at": "2026-08-27T01:23:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -239,7 +275,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-08-27T00:38:44Z",
+    "updated_at": "2026-08-27T02:00:17Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T00:38:43Z",
+    "updated_at": "2026-08-27T01:59:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3525,
-    "updated_at": "2026-08-27T00:23:20Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:14:36Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24604,
-    "updated_at": "2026-08-27T00:14:28Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-08-27T00:14:11Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:13:41Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
