@@ -1,20 +1,11 @@
 [
   {
-    "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
-    "id": "shivapreetham/resource-aware-model-proxy",
-    "language": "Python",
-    "name": "shivapreetham/resource-aware-model-proxy",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:14:03Z",
-    "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33792,
-    "updated_at": "2026-08-27T09:14:06Z",
+    "stars": 33793,
+    "updated_at": "2026-08-27T09:28:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,17 +14,62 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7597,
-    "updated_at": "2026-08-27T09:15:22Z",
+    "updated_at": "2026-08-27T09:29:33Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:17:27Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
+    "id": "shivapreetham/resource-aware-model-proxy",
+    "language": "Python",
+    "name": "shivapreetham/resource-aware-model-proxy",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:27:30Z",
+    "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T09:11:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57375,
-    "updated_at": "2026-08-27T09:08:24Z",
+    "stars": 57377,
+    "updated_at": "2026-08-27T09:29:38Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:08:24Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -63,31 +99,13 @@
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T09:11:22Z",
+    "updated_at": "2026-08-27T09:30:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T09:11:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T09:14:33Z",
+    "updated_at": "2026-08-27T09:27:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21631,
-    "updated_at": "2026-08-27T09:13:01Z",
+    "updated_at": "2026-08-27T09:29:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5773,
-    "updated_at": "2026-08-27T09:06:12Z",
+    "updated_at": "2026-08-27T09:23:45Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11913,
-    "updated_at": "2026-08-27T09:00:11Z",
+    "updated_at": "2026-08-27T09:28:40Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -328,7 +346,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1182,
+    "stars": 1188,
     "updated_at": "2026-08-27T06:41:28Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 413,
-    "updated_at": "2026-08-27T08:25:45Z",
+    "updated_at": "2026-08-27T09:23:52Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 51,
-    "updated_at": "2026-08-27T05:40:04Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
-    "id": "KIM3310/enterprise-llm-adoption-kit",
-    "language": "Python",
-    "name": "KIM3310/enterprise-llm-adoption-kit",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:34:24Z",
-    "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   }
 ]
