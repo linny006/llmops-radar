@@ -1,21 +1,39 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T03:15:13Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 47,
+    "updated_at": "2026-08-27T03:26:03Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T03:12:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
+    "id": "floatsmyboat/inferwatch",
+    "language": "Python",
+    "name": "floatsmyboat/inferwatch",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:25:27Z",
+    "url": "https://github.com/floatsmyboat/inferwatch"
+  },
+  {
+    "description": "Battle-tested ops patterns for running AI agents in production \u2014 post-change audit, self-healing watchdogs, provider fal",
+    "id": "FindingUN/agent-ops-playbook",
+    "language": "\u2014",
+    "name": "FindingUN/agent-ops-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:24:41Z",
+    "url": "https://github.com/FindingUN/agent-ops-playbook"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:23:57Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -23,8 +41,44 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1178,
-    "updated_at": "2026-08-27T03:12:12Z",
+    "updated_at": "2026-08-27T03:22:50Z",
     "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2718,
+    "updated_at": "2026-08-27T03:21:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T03:21:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
+    "id": "monaal10/valuemaxx",
+    "language": "Python",
+    "name": "monaal10/valuemaxx",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:17:26Z",
+    "url": "https://github.com/monaal10/valuemaxx"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57352,
-    "updated_at": "2026-08-27T03:13:55Z",
+    "updated_at": "2026-08-27T03:28:46Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T03:30:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -43,15 +106,6 @@
     "stars": 1041,
     "updated_at": "2026-08-27T03:01:45Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T03:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "erjonb19/Security-Constrained-Agent-Runtime",
     "stars": 0,
-    "updated_at": "2026-08-27T03:05:59Z",
+    "updated_at": "2026-08-27T03:27:51Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2718,
-    "updated_at": "2026-08-27T03:10:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
@@ -135,12 +180,21 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21625,
+    "updated_at": "2026-08-27T02:07:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-27T02:10:57Z",
+    "updated_at": "2026-08-27T03:30:00Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:41:09Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 7,
-    "updated_at": "2026-08-27T01:59:35Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:36:39Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:35:22Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:31:46Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:30:49Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:27:03Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
