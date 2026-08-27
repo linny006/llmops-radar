@@ -1,12 +1,12 @@
 [
   {
-    "description": "XOne - The Open Agentic Studio",
-    "id": "abhishekpandaOfficial/XOne",
-    "language": "Python",
-    "name": "abhishekpandaOfficial/XOne",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:38:14Z",
-    "url": "https://github.com/abhishekpandaOfficial/XOne"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33807,
+    "updated_at": "2026-08-27T13:59:19Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,44 +14,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T13:43:28Z",
+    "updated_at": "2026-08-27T13:54:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-27T13:36:29Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
+    "id": "kimbeomgyu/budget-guard",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33807,
-    "updated_at": "2026-08-27T13:45:21Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "kimbeomgyu/budget-guard",
+    "stars": 2,
+    "updated_at": "2026-08-27T13:47:53Z",
+    "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
-    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
-    "id": "brocs-org/brocs",
-    "language": "\u2014",
-    "name": "brocs-org/brocs",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:45:13Z",
-    "url": "https://github.com/brocs-org/brocs"
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-27T13:47:34Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:47:20Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57394,
-    "updated_at": "2026-08-27T13:31:29Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "mlflow/mlflow",
+    "stars": 27691,
+    "updated_at": "2026-08-27T13:46:12Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -59,8 +59,89 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T13:30:27Z",
+    "updated_at": "2026-08-27T13:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29902,
+    "updated_at": "2026-08-27T13:53:26Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
+    "id": "Harshalsharma05/switchyard",
+    "language": "Go",
+    "name": "Harshalsharma05/switchyard",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:41:55Z",
+    "url": "https://github.com/Harshalsharma05/switchyard"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:41:44Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "XOne - The Open Agentic Studio",
+    "id": "abhishekpandaOfficial/XOne",
+    "language": "Python",
+    "name": "abhishekpandaOfficial/XOne",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:46:45Z",
+    "url": "https://github.com/abhishekpandaOfficial/XOne"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 666,
+    "updated_at": "2026-08-27T13:58:28Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
+    "id": "brocs-org/brocs",
+    "language": "\u2014",
+    "name": "brocs-org/brocs",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:48:38Z",
+    "url": "https://github.com/brocs-org/brocs"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57396,
+    "updated_at": "2026-08-27T13:31:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:52:12Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:55:48Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21633,
-    "updated_at": "2026-08-27T13:32:12Z",
+    "updated_at": "2026-08-27T13:54:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T13:39:49Z",
+    "updated_at": "2026-08-27T13:49:42Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -99,21 +180,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29903,
-    "updated_at": "2026-08-27T13:44:49Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T13:42:43Z",
+    "updated_at": "2026-08-27T13:50:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,13 +207,13 @@
     "url": "https://github.com/shriyansnaik/minion-ai"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27690,
-    "updated_at": "2026-08-27T13:05:14Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "dataelement/bisheng",
+    "stars": 11915,
+    "updated_at": "2026-08-27T13:07:05Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -252,15 +324,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-27T13:38:43Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -279,15 +342,6 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:30:08Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
@@ -302,7 +356,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T12:12:19Z",
+    "updated_at": "2026-08-27T13:46:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -324,20 +378,11 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:28:33Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3272,
+    "stars": 3274,
     "updated_at": "2026-08-27T11:47:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -347,7 +392,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 14,
-    "updated_at": "2026-08-27T12:12:49Z",
+    "updated_at": "2026-08-27T13:51:35Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T10:49:29Z",
     "url": "https://github.com/sjfakharian/zerospend"
-  },
-  {
-    "description": "Production-grade Hybrid LLM Router & Semantic Cache Gateway \u2014 local Ollama + Gemini routing with cosine-similarity vecto",
-    "id": "saathvik-codes/hybrid-llm-gateway",
-    "language": "Python",
-    "name": "saathvik-codes/hybrid-llm-gateway",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:44:28Z",
-    "url": "https://github.com/saathvik-codes/hybrid-llm-gateway"
-  },
-  {
-    "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
-    "id": "qiantongtech/qKnow",
-    "language": "Java",
-    "name": "qiantongtech/qKnow",
-    "stars": 268,
-    "updated_at": "2026-08-27T10:33:17Z",
-    "url": "https://github.com/qiantongtech/qKnow"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:25:10Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "PreToolUse hook for Claude Code: blocks agent spending, account creation and fund moves, queues them for human approval,",
-    "id": "Prime-agentai/agent-approval-gate",
-    "language": "Python",
-    "name": "Prime-agentai/agent-approval-gate",
-    "stars": 2,
-    "updated_at": "2026-08-27T10:10:35Z",
-    "url": "https://github.com/Prime-agentai/agent-approval-gate"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-27T13:12:05Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
