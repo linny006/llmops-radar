@@ -1,12 +1,12 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T05:24:48Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-08-27T05:45:02Z",
+    "url": "https://github.com/soit-ai/soit"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,8 +14,89 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T05:22:13Z",
+    "updated_at": "2026-08-27T05:44:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-27T05:42:07Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:41:49Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-27T05:41:09Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1585,
+    "updated_at": "2026-08-27T05:41:00Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T05:40:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 51,
+    "updated_at": "2026-08-27T05:40:04Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57359,
+    "updated_at": "2026-08-27T05:43:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33782,
+    "updated_at": "2026-08-27T05:31:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T05:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -25,15 +106,6 @@
     "stars": 1178,
     "updated_at": "2026-08-27T05:15:33Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -58,7 +130,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1055,
+    "stars": 1064,
     "updated_at": "2026-08-27T04:59:00Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -108,24 +180,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57357,
-    "updated_at": "2026-08-27T05:25:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:24:50Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
     "description": "PreToolUse hook for Claude Code: blocks agent spending, account creation and fund moves, queues them for human approval,",
     "id": "Prime-agentai/agent-approval-gate",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T04:07:01Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T03:58:00Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\u4f01\u4e1a\u7ea7 AI Agent \u5e73\u53f0\uff0c\u5bf9\u6807 OpenAI Codex / Claude Code / DeepSeek Harness\u3002Enterprise-grade AI agent platform: RAG, MCP, Skills, m",
@@ -284,7 +329,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 118,
-    "updated_at": "2026-08-27T05:13:34Z",
+    "updated_at": "2026-08-27T05:30:33Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 413,
-    "updated_at": "2026-08-27T02:03:50Z",
+    "updated_at": "2026-08-27T05:37:04Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 3513,
     "updated_at": "2026-08-27T04:19:57Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33782,
-    "updated_at": "2026-08-27T05:28:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-27T01:41:50Z",
     "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
-    "id": "redevops-io/context-runtime",
-    "language": "Python",
-    "name": "redevops-io/context-runtime",
-    "stars": 12,
-    "updated_at": "2026-08-27T01:40:21Z",
-    "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-08-27T01:38:45Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep",
-    "id": "redevops-io/DataOpsBench",
-    "language": "Python",
-    "name": "redevops-io/DataOpsBench",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:37:44Z",
-    "url": "https://github.com/redevops-io/DataOpsBench"
-  },
-  {
-    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
-    "id": "redevops-io/mission-sdk",
-    "language": "Python",
-    "name": "redevops-io/mission-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:37:22Z",
-    "url": "https://github.com/redevops-io/mission-sdk"
   }
 ]
