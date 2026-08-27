@@ -1,12 +1,75 @@
 [
   {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:10:43Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T18:58:14Z",
+    "updated_at": "2026-08-27T19:09:58Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3316,
+    "updated_at": "2026-08-27T19:07:18Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21641,
+    "updated_at": "2026-08-27T19:04:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57409,
+    "updated_at": "2026-08-27T19:11:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-08-27T19:13:57Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11217,
+    "updated_at": "2026-08-27T18:57:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
@@ -36,15 +99,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:58:56Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
     "id": "Fortitude-Group/OmnisRouter",
     "language": "C#",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:48:38Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T18:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
@@ -122,17 +167,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T18:44:09Z",
+    "updated_at": "2026-08-27T19:03:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57409,
-    "updated_at": "2026-08-27T18:59:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -185,17 +221,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29904,
-    "updated_at": "2026-08-27T18:48:45Z",
+    "updated_at": "2026-08-27T19:12:24Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21640,
-    "updated_at": "2026-08-27T18:22:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-27T18:14:56Z",
+    "updated_at": "2026-08-27T19:08:14Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7601,
-    "updated_at": "2026-08-27T18:06:18Z",
+    "updated_at": "2026-08-27T19:13:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -286,24 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T18:03:39Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-08-27T18:57:42Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11216,
-    "updated_at": "2026-08-27T18:57:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1846,
-    "updated_at": "2026-08-27T17:47:49Z",
+    "updated_at": "2026-08-27T19:13:48Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-27T18:29:57Z",
+    "updated_at": "2026-08-27T19:10:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T18:42:24Z",
+    "updated_at": "2026-08-27T19:05:36Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T17:21:53Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 3315,
-    "updated_at": "2026-08-27T17:20:15Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
