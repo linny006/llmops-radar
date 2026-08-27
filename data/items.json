@@ -1,5 +1,86 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T04:14:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "PreToolUse hook for Claude Code: blocks agent spending, account creation and fund moves, queues them for human approval,",
+    "id": "Prime-agentai/agent-approval-gate",
+    "language": "Python",
+    "name": "Prime-agentai/agent-approval-gate",
+    "stars": 2,
+    "updated_at": "2026-08-27T04:13:06Z",
+    "url": "https://github.com/Prime-agentai/agent-approval-gate"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-27T04:13:07Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T04:12:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:08:27Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "Python",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-27T04:08:13Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:07:01Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57357,
+    "updated_at": "2026-08-27T04:11:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T04:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Syotick/flare-agent"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T03:57:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
@@ -43,15 +115,6 @@
     "stars": 47,
     "updated_at": "2026-08-27T03:54:43Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T03:54:40Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -63,24 +126,6 @@
     "url": "https://github.com/monaal10/valuemaxx"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57355,
-    "updated_at": "2026-08-27T03:58:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "Python",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:46:26Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -88,15 +133,6 @@
     "stars": 121,
     "updated_at": "2026-08-27T03:54:15Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T03:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1178,
-    "updated_at": "2026-08-27T03:46:03Z",
+    "updated_at": "2026-08-27T04:10:31Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T03:32:26Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:59:37Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
@@ -184,7 +211,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1042,
+    "stars": 1043,
     "updated_at": "2026-08-27T03:01:45Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -252,12 +279,21 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 413,
+    "updated_at": "2026-08-27T02:03:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-27T03:48:33Z",
+    "updated_at": "2026-08-27T04:11:43Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T01:33:29Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:35:17Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1837,
-    "updated_at": "2026-08-27T03:51:15Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8416,
-    "updated_at": "2026-08-27T01:14:25Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 97,
-    "updated_at": "2026-08-27T00:52:37Z",
-    "url": "https://github.com/togettoyou/zke"
   }
 ]
