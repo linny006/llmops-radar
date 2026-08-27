@@ -1,5 +1,86 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57408,
+    "updated_at": "2026-08-27T17:57:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:56:16Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T17:58:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
+    "id": "erjonb19/Security-Constrained-Agent-Runtime",
+    "language": "Python",
+    "name": "erjonb19/Security-Constrained-Agent-Runtime",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:54:43Z",
+    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33813,
+    "updated_at": "2026-08-27T17:58:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T17:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:45:07Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
+    "id": "santifer/cv-santiago",
+    "language": "HTML",
+    "name": "santifer/cv-santiago",
+    "stars": 818,
+    "updated_at": "2026-08-27T17:44:31Z",
+    "url": "https://github.com/santifer/cv-santiago"
+  },
+  {
+    "description": "\ud83e\udd96 \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb about \ud835\udddf\ud835\udddf\ud835\udde0\ud835\ude00, \ud835\udddf\ud835\udddf\ud835\udde0\ud835\udde2\ud835\uddfd\ud835\ude00, and \ud835\ude03\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddd5\ud835\ude00 for free by designing, training, and deploying a real-time financial advisor ",
+    "id": "Infinite-Dev7/hands-on-llms",
+    "language": "Jupyter Notebook",
+    "name": "Infinite-Dev7/hands-on-llms",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:42:18Z",
+    "url": "https://github.com/Infinite-Dev7/hands-on-llms"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -16,6 +97,15 @@
     "stars": 4,
     "updated_at": "2026-08-27T17:40:45Z",
     "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:40:06Z",
+    "url": "https://github.com/api-evangelist/log10"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -45,42 +135,6 @@
     "url": "https://github.com/brocs-org/brocs"
   },
   {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:45:07Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T17:42:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57408,
-    "updated_at": "2026-08-27T17:45:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "TypeScript",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T17:39:47Z",
+    "updated_at": "2026-08-27T17:50:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -112,7 +166,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3298,
+    "stars": 3305,
     "updated_at": "2026-08-27T17:20:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -133,24 +187,6 @@
     "stars": 20,
     "updated_at": "2026-08-27T17:19:24Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
-    "id": "santifer/cv-santiago",
-    "language": "HTML",
-    "name": "santifer/cv-santiago",
-    "stars": 818,
-    "updated_at": "2026-08-27T17:44:31Z",
-    "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33813,
-    "updated_at": "2026-08-27T17:42:05Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -229,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21636,
+    "stars": 21637,
     "updated_at": "2026-08-27T17:01:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11215,
-    "updated_at": "2026-08-27T17:44:34Z",
+    "updated_at": "2026-08-27T17:50:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1845,
-    "updated_at": "2026-08-27T17:06:15Z",
+    "updated_at": "2026-08-27T17:47:49Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:32:33Z",
     "url": "https://github.com/brayans7/oficio"
-  },
-  {
-    "description": "Desktop app for building synthetic fine-tuning datasets. Plan, generate, judge, dedup, export.",
-    "id": "CoderDayton/lunesis",
-    "language": "TypeScript",
-    "name": "CoderDayton/lunesis",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:31:42Z",
-    "url": "https://github.com/CoderDayton/lunesis"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-08-27T15:25:21Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-27T15:21:14Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 99,
-    "updated_at": "2026-08-27T15:20:41Z",
-    "url": "https://github.com/togettoyou/zke"
   }
 ]
