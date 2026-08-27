@@ -1,12 +1,93 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T19:57:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-27T19:53:45Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57415,
-    "updated_at": "2026-08-27T19:44:38Z",
+    "updated_at": "2026-08-27T20:00:10Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T19:52:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33817,
+    "updated_at": "2026-08-27T19:50:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 665,
+    "updated_at": "2026-08-27T19:47:11Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:45:28Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
+    "id": "alinafe82/persistent-cognitive-infrastructure",
+    "language": "Python",
+    "name": "alinafe82/persistent-cognitive-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-08-27T19:43:25Z",
+    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1847,
+    "updated_at": "2026-08-27T19:42:38Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -16,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T19:42:31Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33817,
-    "updated_at": "2026-08-27T19:43:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -45,31 +117,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:43:25Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
     "name": "Root1V/prometheus-inference-platform",
     "stars": 1,
-    "updated_at": "2026-08-27T19:38:57Z",
+    "updated_at": "2026-08-27T19:52:50Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T19:38:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:31:26Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T19:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 414,
-    "updated_at": "2026-08-27T19:17:24Z",
+    "updated_at": "2026-08-27T19:46:43Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-08-27T19:17:04Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T19:16:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -166,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7600,
+    "stars": 7601,
     "updated_at": "2026-08-27T19:13:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -189,11 +225,20 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24622,
+    "updated_at": "2026-08-27T19:07:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3318,
+    "stars": 3321,
     "updated_at": "2026-08-27T19:07:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11217,
-    "updated_at": "2026-08-27T19:45:01Z",
+    "updated_at": "2026-08-27T19:59:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:44:07Z",
     "url": "https://github.com/matsumoto1f-creator/llm-gateway"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 51,
-    "updated_at": "2026-08-27T19:32:59Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "waalwalker1/knovaryn",
     "stars": 1,
-    "updated_at": "2026-08-27T18:27:34Z",
+    "updated_at": "2026-08-27T19:53:25Z",
     "url": "https://github.com/waalwalker1/knovaryn"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 27,
     "updated_at": "2026-08-27T18:04:36Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:03:39Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:00:55Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:56:16Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
-    "id": "erjonb19/Security-Constrained-Agent-Runtime",
-    "language": "Python",
-    "name": "erjonb19/Security-Constrained-Agent-Runtime",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:22:45Z",
-    "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   }
 ]
