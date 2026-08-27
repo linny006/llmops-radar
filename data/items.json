@@ -1,5 +1,59 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-27T01:29:05Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:25:56Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2714,
+    "updated_at": "2026-08-27T01:23:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T01:30:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57341,
+    "updated_at": "2026-08-27T01:30:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T01:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
@@ -9,24 +63,6 @@
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57340,
-    "updated_at": "2026-08-27T01:14:39Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T01:11:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 27688,
     "updated_at": "2026-08-27T01:05:44Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:03:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
@@ -160,15 +187,6 @@
     "stars": 76,
     "updated_at": "2026-08-27T00:29:09Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T00:27:58Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-26T23:58:37Z",
+    "updated_at": "2026-08-27T01:19:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-26T23:41:35Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": "Everything you need to use Claude Cowork and ship Claude agents: 3 production-shaped examples, Cowork skills, Docker/K8s",
-    "id": "sdaluga/claude-cowork-playbook",
-    "language": "Dockerfile",
-    "name": "sdaluga/claude-cowork-playbook",
-    "stars": 2,
-    "updated_at": "2026-08-26T23:40:27Z",
-    "url": "https://github.com/sdaluga/claude-cowork-playbook"
-  },
-  {
-    "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
-    "id": "matsumoto1f-creator/llm-gateway",
-    "language": "Python",
-    "name": "matsumoto1f-creator/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:39:54Z",
-    "url": "https://github.com/matsumoto1f-creator/llm-gateway"
   }
 ]
