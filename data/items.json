@@ -1,5 +1,86 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T18:58:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:56:38Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-27T18:54:51Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33816,
+    "updated_at": "2026-08-27T18:57:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:58:56Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:48:38Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:44:12Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
+    "id": "matsumoto1f-creator/llm-gateway",
+    "language": "Python",
+    "name": "matsumoto1f-creator/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:44:07Z",
+    "url": "https://github.com/matsumoto1f-creator/llm-gateway"
+  },
+  {
     "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
     "id": "soapbucket/sbproxy",
     "language": "Rust",
@@ -27,6 +108,15 @@
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
   },
   {
+    "description": "Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat",
+    "id": "matsumoto1f-creator/prompt-experiments",
+    "language": "Python",
+    "name": "matsumoto1f-creator/prompt-experiments",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:37:51Z",
+    "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -41,17 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57409,
-    "updated_at": "2026-08-27T18:43:57Z",
+    "updated_at": "2026-08-27T18:59:48Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T18:43:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -61,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T18:36:06Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T18:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33815,
-    "updated_at": "2026-08-27T18:44:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
@@ -117,21 +180,12 @@
     "url": "https://github.com/matsumoto1f-creator/critic-ensemble"
   },
   {
-    "description": "Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat",
-    "id": "matsumoto1f-creator/prompt-experiments",
-    "language": "Python",
-    "name": "matsumoto1f-creator/prompt-experiments",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:37:51Z",
-    "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29904,
-    "updated_at": "2026-08-27T18:43:08Z",
+    "updated_at": "2026-08-27T18:48:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T18:20:50Z",
     "url": "https://github.com/sdaluga/claude-cowork-playbook"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:44:12Z",
-    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "Feature flags for AI features, where 'working' is a gradient: staged rollout gated on a non-inferiority test, with asymm",
@@ -216,6 +261,15 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7601,
+    "updated_at": "2026-08-27T18:06:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 4,
-    "updated_at": "2026-08-27T18:02:19Z",
+    "updated_at": "2026-08-27T18:57:42Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11216,
-    "updated_at": "2026-08-27T18:43:44Z",
+    "updated_at": "2026-08-27T18:57:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -286,6 +340,15 @@
     "stars": 3,
     "updated_at": "2026-08-27T17:50:37Z",
     "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1846,
+    "updated_at": "2026-08-27T17:47:49Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -369,15 +432,6 @@
     "url": "https://github.com/brocs-org/brocs"
   },
   {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 1,
-    "updated_at": "2026-08-27T17:25:34Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -391,62 +445,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3311,
+    "stars": 3315,
     "updated_at": "2026-08-27T17:20:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-08-27T17:19:24Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:17:23Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 156,
-    "updated_at": "2026-08-27T17:17:08Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:15:17Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24621,
-    "updated_at": "2026-08-27T17:14:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T17:40:32Z",
-    "url": "https://github.com/pom11/hscc"
   }
 ]
