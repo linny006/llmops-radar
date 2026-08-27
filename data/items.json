@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57417,
+    "updated_at": "2026-08-27T20:42:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T20:38:31Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T20:45:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33817,
+    "updated_at": "2026-08-27T20:44:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Log10 is an LLMOps platform that provides REST API and SDK capabilities for capturing, logging, and managing LLM complet",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:34:18Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T20:44:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -7,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T20:30:09Z",
     "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57416,
-    "updated_at": "2026-08-27T20:29:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open, MCP-native training-data foundry: turn permitted documents into traceable, quality-gated SFT and preference datase",
@@ -45,15 +99,6 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T20:25:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
@@ -70,24 +115,6 @@
     "stars": 7,
     "updated_at": "2026-08-27T20:18:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T20:16:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T19:52:50Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33817,
-    "updated_at": "2026-08-27T20:17:48Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -319,7 +337,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24622,
+    "stars": 24623,
     "updated_at": "2026-08-27T19:07:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -328,7 +346,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3325,
+    "stars": 3326,
     "updated_at": "2026-08-27T19:07:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -383,7 +401,7 @@
     "language": "C#",
     "name": "Fortitude-Group/OmnisRouter",
     "stars": 0,
-    "updated_at": "2026-08-27T18:48:38Z",
+    "updated_at": "2026-08-27T20:45:02Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:37:51Z",
     "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3514,
-    "updated_at": "2026-08-27T20:30:04Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Mines production LLM logs into a labelled evaluation dataset: cluster, flag the interesting minority, auto-label, route ",
-    "id": "matsumoto1f-creator/eval-dataset-miner",
-    "language": "Python",
-    "name": "matsumoto1f-creator/eval-dataset-miner",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:27:37Z",
-    "url": "https://github.com/matsumoto1f-creator/eval-dataset-miner"
   }
 ]
