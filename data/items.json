@@ -1,5 +1,149 @@
 [
   {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:44:27Z",
+    "url": "https://github.com/venkathub/dosadash"
+  },
+  {
+    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
+    "id": "redevops-io/agent-harness",
+    "language": "Python",
+    "name": "redevops-io/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:42:47Z",
+    "url": "https://github.com/redevops-io/agent-harness"
+  },
+  {
+    "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
+    "id": "redevops-io/sidekick",
+    "language": "Python",
+    "name": "redevops-io/sidekick",
+    "stars": 9,
+    "updated_at": "2026-08-27T01:42:21Z",
+    "url": "https://github.com/redevops-io/sidekick"
+  },
+  {
+    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
+    "id": "redevops-io/redevops-rag",
+    "language": "Python",
+    "name": "redevops-io/redevops-rag",
+    "stars": 8,
+    "updated_at": "2026-08-27T01:41:50Z",
+    "url": "https://github.com/redevops-io/redevops-rag"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T01:41:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-08-27T01:40:21Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57342,
+    "updated_at": "2026-08-27T01:44:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evidence-backed diagnosis, verification, and review infrastructure for tool-using agents",
+    "id": "naturaljam/SpanVouch",
+    "language": "\u2014",
+    "name": "naturaljam/SpanVouch",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:45:25Z",
+    "url": "https://github.com/naturaljam/SpanVouch"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-08-27T01:38:45Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep",
+    "id": "redevops-io/DataOpsBench",
+    "language": "Python",
+    "name": "redevops-io/DataOpsBench",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:37:44Z",
+    "url": "https://github.com/redevops-io/DataOpsBench"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:37:22Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "Example: a governed AI accounting layer \u2014 correct-by-construction bookkeeping ground truth from ERPNext, cross-validated",
+    "id": "redevops-io/accounting-runtime",
+    "language": "Python",
+    "name": "redevops-io/accounting-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:36:48Z",
+    "url": "https://github.com/redevops-io/accounting-runtime"
+  },
+  {
+    "description": "Example: a governed AI personal-tax (1040) layer \u2014 federal returns via Tax-Calculator (CC0), cross-validated against Pol",
+    "id": "redevops-io/personal-tax-runtime",
+    "language": "Python",
+    "name": "redevops-io/personal-tax-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:36:06Z",
+    "url": "https://github.com/redevops-io/personal-tax-runtime"
+  },
+  {
+    "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
+    "id": "redevops-io/redevops-demo",
+    "language": "Python",
+    "name": "redevops-io/redevops-demo",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:33:29Z",
+    "url": "https://github.com/redevops-io/redevops-demo"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/modelpin",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:35:17Z",
+    "url": "https://github.com/samarthputhraya/modelpin"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T01:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -9,15 +153,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:25:56Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -25,33 +160,6 @@
     "stars": 2714,
     "updated_at": "2026-08-27T01:23:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T01:30:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57341,
-    "updated_at": "2026-08-27T01:30:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27688,
-    "updated_at": "2026-08-27T01:05:44Z",
+    "updated_at": "2026-08-27T01:34:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:13:41Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:12:24Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
-    "id": "alexvervloet/deep-dive-capstone",
-    "language": "Python",
-    "name": "alexvervloet/deep-dive-capstone",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:10:16Z",
-    "url": "https://github.com/alexvervloet/deep-dive-capstone"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:06:55Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:05:36Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-08-27T00:05:02Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:59:58Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-27T01:19:08Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:57:24Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-26T23:57:10Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T23:53:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-26T23:53:02Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-08-26T23:41:35Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
   }
 ]
