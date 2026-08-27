@@ -1,21 +1,57 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21632,
+    "updated_at": "2026-08-27T11:28:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmark",
     "id": "QuesmaOrg/awesome-ai-tokenomics",
     "language": "Python",
     "name": "QuesmaOrg/awesome-ai-tokenomics",
     "stars": 157,
-    "updated_at": "2026-08-27T11:13:35Z",
+    "updated_at": "2026-08-27T11:23:15Z",
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33799,
+    "updated_at": "2026-08-27T11:28:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-27T11:12:42Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+    "updated_at": "2026-08-27T11:21:52Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-27T11:20:00Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-27T11:29:58Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T11:11:01Z",
+    "updated_at": "2026-08-27T11:15:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-27T11:13:09Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/claude-code-playbook",
+    "language": "Python",
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:30:00Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-27T11:10:08Z",
+    "updated_at": "2026-08-27T11:28:07Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33797,
-    "updated_at": "2026-08-27T11:14:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57383,
-    "updated_at": "2026-08-27T11:05:15Z",
+    "updated_at": "2026-08-27T11:18:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27690,
-    "updated_at": "2026-08-27T11:09:36Z",
+    "updated_at": "2026-08-27T11:24:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -77,35 +122,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7597,
-    "updated_at": "2026-08-27T11:05:00Z",
+    "updated_at": "2026-08-27T11:24:39Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:13:11Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21632,
-    "updated_at": "2026-08-27T11:10:51Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-27T11:10:38Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 413,
-    "updated_at": "2026-08-27T10:59:14Z",
+    "updated_at": "2026-08-27T11:27:52Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-27T10:51:15Z",
+    "updated_at": "2026-08-27T11:30:02Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T11:02:14Z",
+    "updated_at": "2026-08-27T11:25:11Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -194,7 +212,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2721,
-    "updated_at": "2026-08-27T10:24:50Z",
+    "updated_at": "2026-08-27T11:20:23Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 14,
-    "updated_at": "2026-08-27T10:59:10Z",
+    "updated_at": "2026-08-27T11:18:25Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -270,30 +288,12 @@
     "url": "https://github.com/togettoyou/zke"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-27T10:14:24Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-27T11:13:09Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11914,
-    "updated_at": "2026-08-27T10:36:09Z",
+    "updated_at": "2026-08-27T11:21:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 112,
-    "updated_at": "2026-08-27T10:56:21Z",
+    "updated_at": "2026-08-27T11:28:26Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1839,
-    "updated_at": "2026-08-27T11:00:41Z",
+    "updated_at": "2026-08-27T11:22:40Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -436,17 +436,17 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3234,
+    "stars": 3237,
     "updated_at": "2026-08-27T08:12:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 121,
-    "updated_at": "2026-08-27T07:44:24Z",
-    "url": "https://github.com/api7/aisix"
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5565,
+    "updated_at": "2026-08-27T07:57:30Z",
+    "url": "https://github.com/zenml-io/zenml"
   }
 ]
