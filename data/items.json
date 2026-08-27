@@ -1,21 +1,21 @@
 [
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T16:56:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33813,
+    "updated_at": "2026-08-27T17:13:21Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:55:59Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3292,
+    "updated_at": "2026-08-27T17:10:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,26 +23,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57407,
-    "updated_at": "2026-08-27T16:54:02Z",
+    "updated_at": "2026-08-27T17:12:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 3290,
-    "updated_at": "2026-08-27T16:47:38Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:06:16Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33812,
-    "updated_at": "2026-08-27T16:59:55Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T17:12:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 666,
+    "updated_at": "2026-08-27T17:09:29Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:01:00Z",
+    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +68,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T16:45:29Z",
+    "updated_at": "2026-08-27T17:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Comet is an enterprise AI/ML developer platform used by over 150,000 developers and organizations including Netflix, Ube",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-08-27T16:59:10Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:09:33Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Braintrust (braintrust.dev) is an end-to-end platform for building, evaluating, and observing AI applications. Its REST ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-08-27T16:50:38Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
   },
   {
     "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
@@ -68,17 +113,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21635,
-    "updated_at": "2026-08-27T16:44:11Z",
+    "updated_at": "2026-08-27T17:01:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:43:21Z",
-    "url": "https://github.com/hpnkv/a11"
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:42:13Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "Measure, diagnose and fix your LLM prompt-cache hit rate \u2014 and see the dollars you save.",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29904,
-    "updated_at": "2026-08-27T16:31:22Z",
+    "updated_at": "2026-08-27T17:10:38Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11215,
-    "updated_at": "2026-08-27T16:55:51Z",
+    "updated_at": "2026-08-27T17:06:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 4,
-    "updated_at": "2026-08-27T16:25:40Z",
+    "updated_at": "2026-08-27T17:13:36Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-27T16:09:39Z",
+    "updated_at": "2026-08-27T17:13:01Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1845,
-    "updated_at": "2026-08-27T16:59:48Z",
+    "updated_at": "2026-08-27T17:06:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 156,
-    "updated_at": "2026-08-27T15:39:56Z",
+    "updated_at": "2026-08-27T17:13:36Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T16:58:00Z",
+    "updated_at": "2026-08-27T17:13:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-27T15:12:32Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:12:28Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:08:44Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:08:32Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7600,
-    "updated_at": "2026-08-27T15:07:50Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:05:15Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
