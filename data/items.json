@@ -1,21 +1,75 @@
 [
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 390,
-    "updated_at": "2026-08-27T09:58:03Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "comet-ml/opik",
+    "stars": 21632,
+    "updated_at": "2026-08-27T10:10:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 79,
+    "updated_at": "2026-08-27T10:08:54Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:05:00Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2721,
+    "updated_at": "2026-08-27T10:00:06Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33795,
-    "updated_at": "2026-08-27T09:59:08Z",
+    "stars": 33796,
+    "updated_at": "2026-08-27T10:11:36Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-27T10:11:09Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-08-27T09:55:01Z",
+    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -23,8 +77,26 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 14,
-    "updated_at": "2026-08-27T09:54:05Z",
+    "updated_at": "2026-08-27T10:01:47Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 98,
+    "updated_at": "2026-08-27T09:53:32Z",
+    "url": "https://github.com/togettoyou/zke"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 34,
+    "updated_at": "2026-08-27T10:14:24Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -41,24 +113,15 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11914,
-    "updated_at": "2026-08-27T09:59:48Z",
+    "updated_at": "2026-08-27T10:07:07Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-27T09:48:46Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57380,
+    "stars": 57381,
     "updated_at": "2026-08-27T09:48:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7597,
-    "updated_at": "2026-08-27T09:47:05Z",
+    "updated_at": "2026-08-27T10:07:24Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -81,39 +144,12 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2721,
-    "updated_at": "2026-08-27T10:00:06Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21632,
-    "updated_at": "2026-08-27T09:56:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27690,
-    "updated_at": "2026-08-27T09:43:23Z",
+    "updated_at": "2026-08-27T10:07:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T09:59:22Z",
+    "updated_at": "2026-08-27T10:08:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-27T09:00:07Z",
+    "updated_at": "2026-08-27T10:03:30Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5706,
-    "updated_at": "2026-08-27T08:34:39Z",
+    "updated_at": "2026-08-27T10:01:04Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -391,18 +427,9 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1154,
+    "stars": 1155,
     "updated_at": "2026-08-27T06:41:28Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 98,
-    "updated_at": "2026-08-27T09:53:32Z",
-    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -421,32 +448,5 @@
     "stars": 11210,
     "updated_at": "2026-08-27T08:27:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-27T06:26:22Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 34,
-    "updated_at": "2026-08-27T09:53:28Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1179,
-    "updated_at": "2026-08-27T06:13:07Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
