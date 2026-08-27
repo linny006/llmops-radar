@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33797,
+    "updated_at": "2026-08-27T11:10:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57382,
+    "updated_at": "2026-08-27T11:05:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27690,
+    "updated_at": "2026-08-27T11:09:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
+    "id": "Yesol-Pilot/neosignal-check",
+    "language": "Python",
+    "name": "Yesol-Pilot/neosignal-check",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:02:17Z",
+    "url": "https://github.com/Yesol-Pilot/neosignal-check"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7597,
+    "updated_at": "2026-08-27T11:05:00Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T11:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21632,
-    "updated_at": "2026-08-27T10:58:55Z",
+    "updated_at": "2026-08-27T11:10:51Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-27T11:10:38Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-27T10:55:20Z",
+    "updated_at": "2026-08-27T11:08:55Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T10:58:13Z",
+    "updated_at": "2026-08-27T11:08:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T10:57:43Z",
+    "updated_at": "2026-08-27T11:02:14Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade Hybrid LLM Router & Semantic Cache Gateway \u2014 local Ollama + Gemini routing with cosine-similarity vecto",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T10:44:28Z",
     "url": "https://github.com/saathvik-codes/hybrid-llm-gateway"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7598,
-    "updated_at": "2026-08-27T10:58:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
@@ -135,21 +180,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27690,
-    "updated_at": "2026-08-27T10:50:31Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-27T10:16:31Z",
+    "updated_at": "2026-08-27T11:03:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 79,
-    "updated_at": "2026-08-27T10:23:59Z",
+    "updated_at": "2026-08-27T11:10:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T10:05:00Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33796,
-    "updated_at": "2026-08-27T10:11:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -252,24 +279,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57381,
-    "updated_at": "2026-08-27T10:46:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-27T10:55:41Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "XOne - The Open Agentic Studio",
     "id": "abhishekpandaOfficial/XOne",
     "language": "Python",
@@ -279,6 +288,15 @@
     "url": "https://github.com/abhishekpandaOfficial/XOne"
   },
   {
+    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
+    "id": "intel/enterprise-ai-solutions",
+    "language": "Shell",
+    "name": "intel/enterprise-ai-solutions",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:32:08Z",
+    "url": "https://github.com/intel/enterprise-ai-solutions"
+  },
+  {
     "description": "Your local LLM should get out of the way when you need the RAM back. RAMP is a daemon that watches RAM, VRAM and disk, a",
     "id": "shivapreetham/resource-aware-model-proxy",
     "language": "Python",
@@ -286,6 +304,15 @@
     "stars": 1,
     "updated_at": "2026-08-27T09:27:30Z",
     "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
+  },
+  {
+    "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
+    "id": "intel/enterprise-inference",
+    "language": "Shell",
+    "name": "intel/enterprise-inference",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:23:57Z",
+    "url": "https://github.com/intel/enterprise-inference"
   },
   {
     "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
@@ -306,15 +333,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Find the AI models your code calls that are gone or shutting down - including the ones removed with no end-of-life date ",
-    "id": "Yesol-Pilot/neosignal-check",
-    "language": "Python",
-    "name": "Yesol-Pilot/neosignal-check",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:08:24Z",
-    "url": "https://github.com/Yesol-Pilot/neosignal-check"
-  },
-  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-27T10:03:30Z",
+    "updated_at": "2026-08-27T11:10:08Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1839,
-    "updated_at": "2026-08-27T10:56:42Z",
+    "updated_at": "2026-08-27T11:00:41Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -409,7 +427,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3232,
+    "stars": 3233,
     "updated_at": "2026-08-27T08:12:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 5773,
     "updated_at": "2026-08-27T09:23:45Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:26:22Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:37:56Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   }
 ]
