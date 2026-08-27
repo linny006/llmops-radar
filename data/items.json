@@ -1,12 +1,84 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:58:51Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57363,
-    "updated_at": "2026-08-27T06:44:47Z",
+    "stars": 57366,
+    "updated_at": "2026-08-27T06:58:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
+    "id": "xorbitsai/xrouter-llm",
+    "language": "Python",
+    "name": "xorbitsai/xrouter-llm",
+    "stars": 35,
+    "updated_at": "2026-08-27T06:54:43Z",
+    "url": "https://github.com/xorbitsai/xrouter-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7595,
+    "updated_at": "2026-08-27T06:54:27Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T06:54:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:49:38Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11913,
+    "updated_at": "2026-08-27T06:47:53Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
+    "id": "VeraPyuyi/prompt_control_lab",
+    "language": "Python",
+    "name": "VeraPyuyi/prompt_control_lab",
+    "stars": 5,
+    "updated_at": "2026-08-27T06:49:23Z",
+    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -22,27 +94,9 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1095,
+    "stars": 1101,
     "updated_at": "2026-08-27T06:41:28Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
-    "id": "VeraPyuyi/prompt_control_lab",
-    "language": "Python",
-    "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 5,
-    "updated_at": "2026-08-27T06:43:43Z",
-    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T06:39:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
@@ -63,22 +117,13 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-27T06:28:32Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33784,
+    "updated_at": "2026-08-27T06:29:46Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -88,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-08-27T06:26:22Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33783,
-    "updated_at": "2026-08-27T06:29:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,17 +149,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-08-27T06:15:59Z",
+    "updated_at": "2026-08-27T06:49:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7594,
-    "updated_at": "2026-08-27T06:19:39Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-27T05:41:49Z",
+    "updated_at": "2026-08-27T07:00:22Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 118,
-    "updated_at": "2026-08-27T06:34:14Z",
+    "updated_at": "2026-08-27T06:55:26Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-27T02:18:53Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21629,
-    "updated_at": "2026-08-27T02:07:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 79,
-    "updated_at": "2026-08-27T06:08:38Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3525,
-    "updated_at": "2026-08-27T01:58:32Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
