@@ -1,12 +1,48 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-27T21:08:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine le",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:08:22Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T21:00:25Z",
+    "updated_at": "2026-08-27T21:01:36Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Raindrop is the monitoring and observability platform for AI agents \u2014 a \"Sentry for AI agents\" that discovers silent age",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:01:29Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Qwak is an end-to-end production machine learning platform that lets data science and ML engineering teams build, train,",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:01:08Z",
+    "url": "https://github.com/api-evangelist/qwak"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -18,6 +54,24 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T20:55:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57416,
+    "updated_at": "2026-08-27T21:09:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -27,15 +81,6 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-27T20:56:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Opik is an open-source LLM evaluation, testing, and tracing platform developed by Comet ML that enables developers to de",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:50:21Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57417,
-    "updated_at": "2026-08-27T20:55:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T20:55:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T20:57:47Z",
+    "updated_at": "2026-08-27T21:11:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7602,
-    "updated_at": "2026-08-27T20:21:43Z",
+    "updated_at": "2026-08-27T21:04:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 51,
-    "updated_at": "2026-08-27T19:53:45Z",
+    "updated_at": "2026-08-27T21:14:45Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -373,7 +400,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3328,
+    "stars": 3330,
     "updated_at": "2026-08-27T19:07:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11217,
-    "updated_at": "2026-08-27T20:49:41Z",
+    "updated_at": "2026-08-27T21:10:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T18:54:51Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:44:12Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
-    "id": "matsumoto1f-creator/llm-gateway",
-    "language": "Python",
-    "name": "matsumoto1f-creator/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:44:07Z",
-    "url": "https://github.com/matsumoto1f-creator/llm-gateway"
-  },
-  {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:41:48Z",
-    "url": "https://github.com/api-evangelist/zenml"
   }
 ]
