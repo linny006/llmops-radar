@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33805,
+    "updated_at": "2026-08-27T12:45:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 666,
+    "updated_at": "2026-08-27T12:39:13Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:39:00Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21632,
+    "updated_at": "2026-08-27T12:42:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27691,
+    "updated_at": "2026-08-27T12:40:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-08-27T12:35:47Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "BROCS: Build, Run, Observe, Control, Secure. A vendor-neutral framework for the surface where AI meets the enterprise. b",
+    "id": "calliopeai/brocs",
+    "language": "\u2014",
+    "name": "calliopeai/brocs",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:32:38Z",
+    "url": "https://github.com/calliopeai/brocs"
+  },
+  {
+    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:32:28Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 51,
+    "updated_at": "2026-08-27T12:31:59Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T12:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29902,
+    "updated_at": "2026-08-27T12:24:41Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,13 +108,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33802,
-    "updated_at": "2026-08-27T12:28:25Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1841,
+    "updated_at": "2026-08-27T12:42:22Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,35 +122,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2722,
-    "updated_at": "2026-08-27T12:15:52Z",
+    "updated_at": "2026-08-27T12:42:26Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "A11 is a concurrent action and streaming runtime for building AI agents \u2014 including distributed ones that span processes",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:15:40Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29901,
-    "updated_at": "2026-08-27T12:24:41Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -68,17 +140,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T12:25:34Z",
+    "updated_at": "2026-08-27T12:42:56Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-27T12:07:07Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-27T12:11:17Z",
+    "updated_at": "2026-08-27T12:39:26Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-27T12:26:27Z",
+    "updated_at": "2026-08-27T12:35:01Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
@@ -139,18 +202,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3253,
+    "stars": 3256,
     "updated_at": "2026-08-27T11:47:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-27T12:28:34Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -180,40 +234,13 @@
     "url": "https://github.com/aroraneel/AI-Engineer"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27691,
-    "updated_at": "2026-08-27T11:49:06Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 413,
-    "updated_at": "2026-08-27T11:31:49Z",
+    "updated_at": "2026-08-27T12:38:00Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21632,
-    "updated_at": "2026-08-27T12:03:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1840,
-    "updated_at": "2026-08-27T12:22:56Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -229,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57387,
+    "stars": 57390,
     "updated_at": "2026-08-27T11:18:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-27T12:04:24Z",
+    "updated_at": "2026-08-27T12:42:51Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11914,
-    "updated_at": "2026-08-27T12:30:16Z",
+    "updated_at": "2026-08-27T12:32:12Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T09:01:19Z",
     "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 2,
-    "updated_at": "2026-08-27T10:37:56Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 156,
-    "updated_at": "2026-08-27T11:39:54Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:35:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
