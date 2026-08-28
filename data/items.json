@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1596,
-    "updated_at": "2026-08-28T16:29:59Z",
+    "updated_at": "2026-08-28T16:37:21Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57486,
+    "updated_at": "2026-08-28T16:45:15Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33861,
-    "updated_at": "2026-08-28T16:29:49Z",
+    "updated_at": "2026-08-28T16:39:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -47,20 +65,20 @@
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
     "id": "justanotheruser82174/cua-lite",
-    "language": "\u2014",
+    "language": "Python",
     "name": "justanotheruser82174/cua-lite",
     "stars": 0,
     "updated_at": "2026-08-28T16:23:54Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57485,
-    "updated_at": "2026-08-28T16:29:13Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "mikehasa/agentacct",
+    "stars": 667,
+    "updated_at": "2026-08-28T16:22:00Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-28T16:16:18Z",
+    "updated_at": "2026-08-28T16:38:50Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -108,21 +126,12 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-28T16:12:46Z",
+    "updated_at": "2026-08-28T16:45:21Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -149,8 +158,17 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-28T16:01:02Z",
+    "updated_at": "2026-08-28T16:34:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21655,
+    "updated_at": "2026-08-28T16:00:51Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11225,
-    "updated_at": "2026-08-28T16:23:00Z",
+    "updated_at": "2026-08-28T16:31:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -169,24 +187,6 @@
     "stars": 22,
     "updated_at": "2026-08-28T15:56:35Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21654,
-    "updated_at": "2026-08-28T16:00:51Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-28T16:22:00Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -203,7 +203,7 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-08-28T15:41:36Z",
+    "updated_at": "2026-08-28T16:44:20Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
@@ -347,8 +347,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24643,
-    "updated_at": "2026-08-28T15:04:32Z",
+    "updated_at": "2026-08-28T16:39:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29917,
+    "updated_at": "2026-08-28T15:03:07Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -394,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T14:37:46Z",
     "url": "https://github.com/shivapreetham/resource-aware-model-proxy"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29918,
-    "updated_at": "2026-08-28T15:03:07Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
