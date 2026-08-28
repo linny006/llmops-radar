@@ -1,21 +1,12 @@
 [
   {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
+    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
+    "id": "idevelopAI/llm-eval-control-plane",
     "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:44:59Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27704,
-    "updated_at": "2026-08-28T09:42:23Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-28T10:00:18Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -23,8 +14,62 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-28T09:40:51Z",
+    "updated_at": "2026-08-28T09:59:42Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1595,
+    "updated_at": "2026-08-28T09:59:38Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-28T09:58:38Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 665,
+    "updated_at": "2026-08-28T09:58:14Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2729,
+    "updated_at": "2026-08-28T09:56:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1854,
+    "updated_at": "2026-08-28T09:54:10Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:53:15Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -32,8 +77,44 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-28T09:39:30Z",
+    "updated_at": "2026-08-28T09:59:32Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27704,
+    "updated_at": "2026-08-28T09:58:25Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T09:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33850,
+    "updated_at": "2026-08-28T09:59:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:44:59Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -90,31 +171,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T09:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-28T09:41:27Z",
+    "updated_at": "2026-08-28T09:57:52Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33849,
-    "updated_at": "2026-08-28T09:45:10Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -135,21 +198,12 @@
     "url": "https://github.com/bentoml/BentoML"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2729,
-    "updated_at": "2026-08-28T09:19:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57459,
-    "updated_at": "2026-08-28T09:16:25Z",
+    "updated_at": "2026-08-28T09:58:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1319,
-    "updated_at": "2026-08-28T09:42:15Z",
+    "updated_at": "2026-08-28T10:00:12Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-28T09:08:17Z",
+    "updated_at": "2026-08-28T09:57:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -193,7 +247,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29915,
+    "stars": 29914,
     "updated_at": "2026-08-28T08:57:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21648,
-    "updated_at": "2026-08-28T09:44:48Z",
+    "updated_at": "2026-08-28T10:00:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/togettoyou/zke"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1853,
-    "updated_at": "2026-08-28T09:33:32Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 51,
-    "updated_at": "2026-08-28T09:35:14Z",
+    "updated_at": "2026-08-28T09:56:13Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -385,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T06:13:41Z",
     "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 665,
-    "updated_at": "2026-08-28T09:31:38Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -412,41 +448,5 @@
     "stars": 68,
     "updated_at": "2026-08-28T06:05:57Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 123,
-    "updated_at": "2026-08-28T09:12:49Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:46:27Z",
-    "url": "https://github.com/venkathub/dosadash"
-  },
-  {
-    "description": "A tiny, readable circuit breaker for LLM calls: hard budget caps that fail over to a free local model instead of raising",
-    "id": "qkrehgk1-wq/llm-circuit-breaker",
-    "language": "Python",
-    "name": "qkrehgk1-wq/llm-circuit-breaker",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:33:37Z",
-    "url": "https://github.com/qkrehgk1-wq/llm-circuit-breaker"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 3,
-    "updated_at": "2026-08-28T05:28:34Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
   }
 ]
