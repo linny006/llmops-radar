@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-28T12:59:24Z",
+    "updated_at": "2026-08-28T13:14:40Z",
     "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 123,
+    "updated_at": "2026-08-28T13:09:58Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T13:14:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 7,
+    "updated_at": "2026-08-28T13:07:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-08-28T13:07:26Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3515,
+    "updated_at": "2026-08-28T13:14:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-28T13:06:39Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:05:44Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T12:56:52Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T12:55:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33857,
-    "updated_at": "2026-08-28T12:58:34Z",
+    "updated_at": "2026-08-28T13:13:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -67,8 +130,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57473,
-    "updated_at": "2026-08-28T12:49:21Z",
+    "stars": 57477,
+    "updated_at": "2026-08-28T13:13:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -77,8 +140,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21649,
-    "updated_at": "2026-08-28T12:54:33Z",
+    "updated_at": "2026-08-28T13:03:50Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29916,
+    "updated_at": "2026-08-28T12:45:32Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -88,42 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T12:45:29Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29915,
-    "updated_at": "2026-08-28T12:45:32Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-28T12:39:44Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3515,
-    "updated_at": "2026-08-28T12:58:14Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-28T12:57:42Z",
+    "updated_at": "2026-08-28T13:14:52Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 1856,
     "updated_at": "2026-08-28T12:55:34Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 7,
-    "updated_at": "2026-08-28T12:55:12Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-28T11:17:41Z",
+    "updated_at": "2026-08-28T13:14:06Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -355,7 +382,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3406,
+    "stars": 3407,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -383,17 +410,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11915,
-    "updated_at": "2026-08-28T12:40:30Z",
+    "updated_at": "2026-08-28T13:08:39Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 123,
-    "updated_at": "2026-08-28T10:53:36Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "babaliauskas/evalshift-cli",
     "stars": 4,
-    "updated_at": "2026-08-28T10:30:52Z",
+    "updated_at": "2026-08-28T13:15:17Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T12:46:43Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-28T10:37:05Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Evaluation control plane with deterministic release gates for production LLM applications.",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-28T10:00:18Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   }
 ]
