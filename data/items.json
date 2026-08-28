@@ -1,12 +1,30 @@
 [
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-28T05:13:16Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "name": "BerriAI/litellm",
+    "stars": 57445,
+    "updated_at": "2026-08-28T05:19:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-28T05:15:39Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -16,6 +34,15 @@
     "stars": 32,
     "updated_at": "2026-08-28T05:15:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-28T05:13:16Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -99,15 +126,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T05:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -133,15 +151,6 @@
     "stars": 51,
     "updated_at": "2026-08-28T04:58:20Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57445,
-    "updated_at": "2026-08-28T04:55:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 123,
-    "updated_at": "2026-08-28T04:54:15Z",
+    "updated_at": "2026-08-28T05:16:30Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-28T04:59:35Z",
+    "updated_at": "2026-08-28T05:17:35Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 665,
-    "updated_at": "2026-08-28T04:37:18Z",
+    "updated_at": "2026-08-28T05:21:53Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -333,15 +342,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:08:28Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -373,7 +373,7 @@
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 221,
+    "stars": 226,
     "updated_at": "2026-08-28T04:04:49Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
