@@ -1,21 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33859,
-    "updated_at": "2026-08-28T13:30:25Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:43:41Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27708,
-    "updated_at": "2026-08-28T13:26:24Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:42:37Z",
+    "url": "https://github.com/soit-ai/soit"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,8 +23,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-28T13:26:01Z",
+    "updated_at": "2026-08-28T13:42:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21650,
+    "updated_at": "2026-08-28T13:42:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 123,
+    "updated_at": "2026-08-28T13:41:20Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "TypeScript",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:39:58Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
+    "id": "satya-anguluri/capstead",
+    "language": "Java",
+    "name": "satya-anguluri/capstead",
+    "stars": 9,
+    "updated_at": "2026-08-28T13:35:26Z",
+    "url": "https://github.com/satya-anguluri/capstead"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33859,
+    "updated_at": "2026-08-28T13:42:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:32:12Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57478,
+    "updated_at": "2026-08-28T13:28:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 68,
+    "updated_at": "2026-08-28T13:27:01Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27708,
+    "updated_at": "2026-08-28T13:41:25Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -45,24 +135,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:16:32Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
     "id": "babaliauskas/evalshift-cli",
     "language": "Python",
@@ -81,31 +153,13 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57478,
-    "updated_at": "2026-08-28T13:28:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
     "name": "zenml-io/zenml",
-    "stars": 5567,
+    "stars": 5568,
     "updated_at": "2026-08-28T13:13:24Z",
     "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 123,
-    "updated_at": "2026-08-28T13:29:00Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T13:28:31Z",
+    "updated_at": "2026-08-28T13:44:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21649,
-    "updated_at": "2026-08-28T13:18:51Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29917,
-    "updated_at": "2026-08-28T13:21:32Z",
+    "updated_at": "2026-08-28T13:36:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7619,
-    "updated_at": "2026-08-28T12:23:55Z",
+    "updated_at": "2026-08-28T13:37:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-28T13:29:33Z",
+    "updated_at": "2026-08-28T13:43:08Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-28T13:30:12Z",
+    "updated_at": "2026-08-28T13:43:28Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1856,
-    "updated_at": "2026-08-28T12:55:34Z",
+    "updated_at": "2026-08-28T13:35:28Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
-    "id": "xuerp/ai-knowledge-explorer",
-    "language": "TypeScript",
-    "name": "xuerp/ai-knowledge-explorer",
-    "stars": 0,
-    "updated_at": "2026-08-28T11:11:12Z",
-    "url": "https://github.com/xuerp/ai-knowledge-explorer"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3409,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
-    "id": "avikalpg/byok-relay",
-    "language": "JavaScript",
-    "name": "avikalpg/byok-relay",
-    "stars": 54,
-    "updated_at": "2026-08-28T12:05:20Z",
-    "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
-    "id": "aibim-ai/AI-Supply-Chain-Trust",
-    "language": "Rust",
-    "name": "aibim-ai/AI-Supply-Chain-Trust",
-    "stars": 2,
-    "updated_at": "2026-08-28T11:03:33Z",
-    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11915,
-    "updated_at": "2026-08-28T13:08:39Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1595,
-    "updated_at": "2026-08-28T10:15:48Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   }
 ]
