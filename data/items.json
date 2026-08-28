@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33857,
+    "updated_at": "2026-08-28T12:15:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-28T12:08:52Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:07:38Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3515,
+    "updated_at": "2026-08-28T12:09:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 6,
+    "updated_at": "2026-08-28T12:04:29Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-28T12:00:34Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -45,24 +108,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-28T11:50:03Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33856,
-    "updated_at": "2026-08-28T11:59:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27707,
-    "updated_at": "2026-08-28T11:56:24Z",
+    "updated_at": "2026-08-28T12:06:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T11:57:27Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-28T11:44:09Z",
+    "updated_at": "2026-08-28T12:08:17Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/langfuse/langfuse-workshop"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3515,
-    "updated_at": "2026-08-28T11:56:04Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21648,
-    "updated_at": "2026-08-28T11:50:30Z",
+    "updated_at": "2026-08-28T12:15:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -247,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3401,
+    "stars": 3403,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -257,7 +284,7 @@
     "language": "JavaScript",
     "name": "avikalpg/byok-relay",
     "stars": 54,
-    "updated_at": "2026-08-28T11:12:28Z",
+    "updated_at": "2026-08-28T12:05:20Z",
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11915,
-    "updated_at": "2026-08-28T11:46:07Z",
+    "updated_at": "2026-08-28T12:09:59Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7618,
-    "updated_at": "2026-08-28T11:45:13Z",
+    "updated_at": "2026-08-28T12:13:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T10:30:52Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 51,
-    "updated_at": "2026-08-28T11:59:53Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -373,7 +391,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57465,
+    "stars": 57467,
     "updated_at": "2026-08-28T09:58:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-28T11:50:50Z",
+    "updated_at": "2026-08-28T12:13:58Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8811,
     "updated_at": "2026-08-28T09:19:45Z",
     "url": "https://github.com/bentoml/BentoML"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 15,
-    "updated_at": "2026-08-28T09:14:49Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-08-28T09:24:15Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
