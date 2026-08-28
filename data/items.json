@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T11:13:53Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "TypeScript",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:11:12Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:09:46Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3396,
+    "updated_at": "2026-08-28T11:09:28Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-08-28T11:12:28Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21648,
-    "updated_at": "2026-08-28T10:59:57Z",
+    "updated_at": "2026-08-28T11:11:32Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33852,
+    "updated_at": "2026-08-28T11:15:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
+    "id": "aibim-ai/AI-Supply-Chain-Trust",
+    "language": "Rust",
+    "name": "aibim-ai/AI-Supply-Chain-Trust",
+    "stars": 2,
+    "updated_at": "2026-08-28T11:03:33Z",
+    "url": "https://github.com/aibim-ai/AI-Supply-Chain-Trust"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-08-28T11:01:01Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-28T11:12:06Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T11:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 415,
-    "updated_at": "2026-08-28T10:56:12Z",
+    "updated_at": "2026-08-28T11:06:07Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -32,44 +122,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27707,
-    "updated_at": "2026-08-28T10:58:13Z",
+    "updated_at": "2026-08-28T11:13:36Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T10:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-28T10:52:21Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T10:39:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33852,
-    "updated_at": "2026-08-28T11:00:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T10:49:00Z",
+    "updated_at": "2026-08-28T11:13:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "soapbucket/sbproxy",
     "stars": 51,
-    "updated_at": "2026-08-28T10:45:04Z",
+    "updated_at": "2026-08-28T11:05:30Z",
     "url": "https://github.com/soapbucket/sbproxy"
   },
   {
@@ -184,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57464,
+    "stars": 57465,
     "updated_at": "2026-08-28T09:58:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-28T09:58:14Z",
+    "updated_at": "2026-08-28T11:07:59Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1854,
-    "updated_at": "2026-08-28T10:56:40Z",
+    "updated_at": "2026-08-28T11:05:17Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5776,
-    "updated_at": "2026-08-28T09:42:22Z",
+    "updated_at": "2026-08-28T11:12:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -248,17 +302,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-workshop",
     "stars": 40,
-    "updated_at": "2026-08-28T09:36:44Z",
+    "updated_at": "2026-08-28T11:14:12Z",
     "url": "https://github.com/langfuse/langfuse-workshop"
-  },
-  {
-    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
-    "id": "xuerp/ai-knowledge-explorer",
-    "language": "TypeScript",
-    "name": "xuerp/ai-knowledge-explorer",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:33:46Z",
-    "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -319,7 +364,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29914,
+    "stars": 29915,
     "updated_at": "2026-08-28T08:57:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T07:35:02Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 99,
-    "updated_at": "2026-08-28T07:34:41Z",
-    "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-28T07:28:39Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-28T07:08:17Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-28T06:39:29Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 51,
-    "updated_at": "2026-08-28T06:51:30Z",
-    "url": "https://github.com/sxueck/llm-gateway"
   }
 ]
