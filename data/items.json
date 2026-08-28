@@ -1,12 +1,57 @@
 [
   {
+    "description": "Free project-driven roadmap: DevOps engineer \u2192 AI-native infra. Linux, K8s, Terraform, observability, GitOps, LLM/MLOps ",
+    "id": "sandeepk24/devops-to-ai",
+    "language": "Python",
+    "name": "sandeepk24/devops-to-ai",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:42:59Z",
+    "url": "https://github.com/sandeepk24/devops-to-ai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57499,
+    "updated_at": "2026-08-28T23:38:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-28T23:30:09Z",
+    "updated_at": "2026-08-28T23:32:38Z",
     "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1183,
+    "updated_at": "2026-08-28T23:31:13Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1193,
+    "updated_at": "2026-08-28T23:30:58Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-08-28T23:28:48Z",
+    "updated_at": "2026-08-28T23:37:10Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 32,
     "updated_at": "2026-08-28T23:27:29Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57498,
-    "updated_at": "2026-08-28T23:28:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1183,
-    "updated_at": "2026-08-28T23:29:31Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:17:46Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T23:01:12Z",
+    "updated_at": "2026-08-28T23:38:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -202,7 +220,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29921,
+    "stars": 29922,
     "updated_at": "2026-08-28T22:03:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 132,
     "updated_at": "2026-08-28T19:18:46Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:09:53Z",
-    "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:05:26Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   }
 ]
