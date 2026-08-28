@@ -1,21 +1,75 @@
 [
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T23:11:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-28T23:06:06Z",
+    "updated_at": "2026-08-28T23:30:09Z",
     "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-08-28T23:28:48Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T23:27:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57498,
+    "updated_at": "2026-08-28T23:28:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1183,
+    "updated_at": "2026-08-28T23:29:31Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:18:11Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:17:46Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -25,15 +79,6 @@
     "stars": 16,
     "updated_at": "2026-08-28T23:01:07Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM-based email automation system with agent workflows, Pinecone retrieval, LangGraph orchestration, and OpenAI-powered ",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-28T22:50:41Z",
+    "updated_at": "2026-08-28T23:23:19Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/api-evangelist/braintrust-data"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57497,
-    "updated_at": "2026-08-28T23:13:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T23:10:28Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-08-28T22:23:10Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -175,7 +202,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29920,
+    "stars": 29921,
     "updated_at": "2026-08-28T22:03:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T21:16:41Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:16:30Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T19:05:26Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33869,
-    "updated_at": "2026-08-28T19:04:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-28T18:55:34Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
