@@ -1,21 +1,21 @@
 [
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 666,
-    "updated_at": "2026-08-28T13:14:40Z",
-    "url": "https://github.com/mikehasa/agentacct"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33859,
+    "updated_at": "2026-08-28T13:30:25Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 123,
-    "updated_at": "2026-08-28T13:09:58Z",
-    "url": "https://github.com/api7/aisix"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27708,
+    "updated_at": "2026-08-28T13:26:24Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,8 +23,89 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-28T13:14:59Z",
+    "updated_at": "2026-08-28T13:26:01Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T13:20:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11223,
+    "updated_at": "2026-08-28T13:19:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:16:32Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-08-28T13:17:01Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 666,
+    "updated_at": "2026-08-28T13:16:08Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57478,
+    "updated_at": "2026-08-28T13:28:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5567,
+    "updated_at": "2026-08-28T13:13:24Z",
+    "url": "https://github.com/zenml-io/zenml"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 123,
+    "updated_at": "2026-08-28T13:29:00Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-08-28T13:07:26Z",
+    "updated_at": "2026-08-28T13:17:19Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T13:14:05Z",
+    "updated_at": "2026-08-28T13:28:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T13:05:44Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -117,30 +189,12 @@
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33857,
-    "updated_at": "2026-08-28T13:13:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57477,
-    "updated_at": "2026-08-28T13:13:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21649,
-    "updated_at": "2026-08-28T13:03:50Z",
+    "updated_at": "2026-08-28T13:18:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -148,8 +202,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29916,
-    "updated_at": "2026-08-28T12:45:32Z",
+    "stars": 29917,
+    "updated_at": "2026-08-28T13:21:32Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T12:45:29Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27708,
-    "updated_at": "2026-08-28T12:36:44Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The open-source control plane for shared AI agents",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 390,
-    "updated_at": "2026-08-28T13:14:52Z",
+    "updated_at": "2026-08-28T13:29:33Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-28T12:30:49Z",
+    "updated_at": "2026-08-28T13:30:12Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 6,
     "updated_at": "2026-08-28T12:04:29Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 51,
-    "updated_at": "2026-08-28T12:00:34Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 415,
-    "updated_at": "2026-08-28T11:42:31Z",
+    "updated_at": "2026-08-28T13:17:00Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T13:14:06Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -382,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3407,
+    "stars": 3409,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-08-28T13:15:17Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1595,
     "updated_at": "2026-08-28T10:15:48Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
-    "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-08-28T10:10:26Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-28T12:46:43Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
   }
 ]
