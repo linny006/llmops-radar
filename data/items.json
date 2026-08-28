@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57497,
-    "updated_at": "2026-08-28T22:13:21Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-28T22:27:04Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:26:06Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-08-28T22:13:38Z",
+    "updated_at": "2026-08-28T22:23:10Z",
     "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T22:22:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-28T22:22:08Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57497,
+    "updated_at": "2026-08-28T22:24:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-28T22:19:22Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T22:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -27,15 +81,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T22:12:16Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Verification-first agent engine: 96.4% F1, zero invented values across 100 labeled conversations, 20/20 adversarial atta",
     "id": "brayans7/oficio",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T22:12:48Z",
     "url": "https://github.com/brayans7/oficio"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-28T22:15:03Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
@@ -63,21 +99,12 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T22:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
     "id": "brunovicco/controlled-autonomy-lab",
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-28T22:07:11Z",
+    "updated_at": "2026-08-28T22:30:24Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-28T21:51:08Z",
+    "updated_at": "2026-08-28T22:25:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-28T21:57:57Z",
+    "updated_at": "2026-08-28T22:24:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-28T20:42:42Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -279,21 +297,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:54:35Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T22:03:38Z",
+    "updated_at": "2026-08-28T22:25:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -310,7 +319,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7626,
+    "stars": 7627,
     "updated_at": "2026-08-28T19:33:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-28T18:35:15Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 21,
-    "updated_at": "2026-08-28T18:20:27Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
   }
 ]
