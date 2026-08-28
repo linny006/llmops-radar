@@ -1,12 +1,84 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T12:29:31Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33857,
-    "updated_at": "2026-08-28T12:15:21Z",
+    "updated_at": "2026-08-28T12:28:27Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2730,
+    "updated_at": "2026-08-28T12:25:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7619,
+    "updated_at": "2026-08-28T12:23:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 390,
+    "updated_at": "2026-08-28T12:23:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29915,
+    "updated_at": "2026-08-28T12:20:27Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "The Requesty integration package for the Vercel AI SDK.",
+    "id": "requestyai/ai-sdk-requesty",
+    "language": "TypeScript",
+    "name": "requestyai/ai-sdk-requesty",
+    "stars": 11,
+    "updated_at": "2026-08-28T12:19:47Z",
+    "url": "https://github.com/requestyai/ai-sdk-requesty"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21648,
+    "updated_at": "2026-08-28T12:29:48Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T12:09:22Z",
+    "updated_at": "2026-08-28T12:30:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 51,
     "updated_at": "2026-08-28T12:00:34Z",
     "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T11:59:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -108,21 +162,12 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2730,
-    "updated_at": "2026-08-28T11:47:48Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27707,
-    "updated_at": "2026-08-28T12:06:33Z",
+    "updated_at": "2026-08-28T12:20:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-08-28T11:44:45Z",
+    "updated_at": "2026-08-28T12:22:26Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T11:44:39Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 390,
-    "updated_at": "2026-08-28T12:08:17Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -198,15 +234,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29915,
-    "updated_at": "2026-08-28T11:34:25Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
     "id": "langfuse/langfuse-workshop",
     "language": "TypeScript",
@@ -234,15 +261,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21648,
-    "updated_at": "2026-08-28T12:15:08Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "C++",
     "name": "hpnkv/a11",
     "stars": 0,
-    "updated_at": "2026-08-28T11:09:46Z",
+    "updated_at": "2026-08-28T12:29:32Z",
     "url": "https://github.com/hpnkv/a11"
   },
   {
@@ -274,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3403,
+    "stars": 3406,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -302,17 +320,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11915,
-    "updated_at": "2026-08-28T12:09:59Z",
+    "updated_at": "2026-08-28T12:17:56Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7618,
-    "updated_at": "2026-08-28T12:13:44Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -391,7 +400,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57467,
+    "stars": 57469,
     "updated_at": "2026-08-28T09:58:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-28T12:13:58Z",
+    "updated_at": "2026-08-28T12:21:23Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:21:30Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
-    "id": "bentoml/BentoML",
-    "language": "Python",
-    "name": "bentoml/BentoML",
-    "stars": 8811,
-    "updated_at": "2026-08-28T09:19:45Z",
-    "url": "https://github.com/bentoml/BentoML"
   }
 ]
