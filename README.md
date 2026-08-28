@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 18:15 UTC
+> ⏰ Last updated: 2026-08-28 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3439 | Python | 2026-08-28 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 20 | Python | 2026-08-28 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
-| 3 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-28 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11225 | Python | 2026-08-28 | AI Observability & Evaluation |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-28 | Create your Agentic AIs. |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-28 | Create your Agentic AIs. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3440 | Python | 2026-08-28 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 4 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-28 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 5 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 20 | Python | 2026-08-28 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11225 | Python | 2026-08-28 | AI Observability & Evaluation |
 | 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57491 | Python | 2026-08-28 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 8 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-28 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 9 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-28 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
