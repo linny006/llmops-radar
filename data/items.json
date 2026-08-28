@@ -1,5 +1,95 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-28T03:57:36Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-28T03:54:14Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T03:54:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:53:58Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57436,
+    "updated_at": "2026-08-28T03:58:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:50:44Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:49:16Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 665,
+    "updated_at": "2026-08-28T03:46:08Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
+    "id": "Ratnesh-181998/AI-Engineer",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/AI-Engineer",
+    "stars": 111,
+    "updated_at": "2026-08-28T03:45:46Z",
+    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T03:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
@@ -9,24 +99,6 @@
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-28T03:40:29Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
-    "id": "Ratnesh-181998/AI-Engineer",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/AI-Engineer",
-    "stars": 111,
-    "updated_at": "2026-08-28T03:39:59Z",
-    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -34,24 +106,6 @@
     "stars": 2727,
     "updated_at": "2026-08-28T03:35:40Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-28T03:45:17Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T03:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57434,
-    "updated_at": "2026-08-28T03:40:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -126,15 +171,6 @@
     "url": "https://github.com/pavleens/identity-aware-llm-gateway"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 665,
-    "updated_at": "2026-08-28T03:37:16Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -148,7 +184,7 @@
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 176,
+    "stars": 184,
     "updated_at": "2026-08-28T03:00:28Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 51,
-    "updated_at": "2026-08-28T03:33:21Z",
-    "url": "https://github.com/soapbucket/sbproxy"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -221,17 +248,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24626,
-    "updated_at": "2026-08-28T02:14:39Z",
+    "updated_at": "2026-08-28T03:51:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:12:08Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Production-oriented RAG for Singapore legal precedent, with measured retrieval, grounded citations, reliability, and rig",
@@ -250,15 +268,6 @@
     "stars": 11220,
     "updated_at": "2026-08-28T02:19:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T01:34:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:14:21Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:12:51Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   }
 ]
