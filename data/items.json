@@ -1,11 +1,47 @@
 [
   {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:28:34Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-28T05:26:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:24:45Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:22:45Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57445,
-    "updated_at": "2026-08-28T05:19:26Z",
+    "stars": 57446,
+    "updated_at": "2026-08-28T05:24:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -14,26 +50,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-28T05:15:39Z",
+    "updated_at": "2026-08-28T05:24:54Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T05:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-28T05:15:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 123,
-    "updated_at": "2026-08-28T05:16:30Z",
+    "updated_at": "2026-08-28T05:25:01Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-28T05:17:35Z",
+    "updated_at": "2026-08-28T05:26:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -373,7 +391,7 @@
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 226,
+    "stars": 230,
     "updated_at": "2026-08-28T04:04:49Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
@@ -405,6 +423,15 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24627,
+    "updated_at": "2026-08-28T03:51:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
     "id": "Ratnesh-181998/AI-Engineer",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-28T03:41:02Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2727,
-    "updated_at": "2026-08-28T03:35:40Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 94,
-    "updated_at": "2026-08-28T03:25:48Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 7,
-    "updated_at": "2026-08-28T03:22:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
