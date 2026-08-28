@@ -1,11 +1,74 @@
 [
   {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:43:30Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 47,
+    "updated_at": "2026-08-28T18:40:54Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11226,
+    "updated_at": "2026-08-28T18:44:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-28T18:41:47Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-28T18:35:15Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-28T18:33:42Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-28T18:32:56Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-28T18:25:13Z",
+    "updated_at": "2026-08-28T18:31:53Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T18:15:24Z",
+    "updated_at": "2026-08-28T18:30:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33862,
+    "updated_at": "2026-08-28T18:35:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57493,
+    "updated_at": "2026-08-28T18:43:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 21,
+    "updated_at": "2026-08-28T18:20:27Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -45,24 +135,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11225,
-    "updated_at": "2026-08-28T18:27:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57491,
-    "updated_at": "2026-08-28T18:29:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/venkathub/dosadash"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33862,
-    "updated_at": "2026-08-28T18:29:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
     "id": "monaal10/valuemaxx",
     "language": "Python",
@@ -115,15 +178,6 @@
     "stars": 80,
     "updated_at": "2026-08-28T17:50:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-28T18:30:18Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -162,21 +216,12 @@
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-28T18:27:17Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
     "id": "ashishki/telegram-research-agent",
     "language": "Python",
     "name": "ashishki/telegram-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-28T17:39:57Z",
+    "updated_at": "2026-08-28T18:43:17Z",
     "url": "https://github.com/ashishki/telegram-research-agent"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21654,
-    "updated_at": "2026-08-28T18:28:04Z",
+    "updated_at": "2026-08-28T18:45:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:13:01Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-28T17:10:35Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:09:02Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:06:20Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/modelpin",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:05:16Z",
-    "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
-    "id": "melaya-labs/melaya",
-    "language": "Python",
-    "name": "melaya-labs/melaya",
-    "stars": 4,
-    "updated_at": "2026-08-28T17:00:38Z",
-    "url": "https://github.com/melaya-labs/melaya"
   }
 ]
