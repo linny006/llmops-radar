@@ -1,12 +1,57 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57427,
+    "updated_at": "2026-08-28T01:44:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
+    "id": "soapbucket/sbproxy",
+    "language": "Rust",
+    "name": "soapbucket/sbproxy",
+    "stars": 51,
+    "updated_at": "2026-08-28T01:43:36Z",
+    "url": "https://github.com/soapbucket/sbproxy"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 7,
+    "updated_at": "2026-08-28T01:36:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-28T01:29:15Z",
+    "updated_at": "2026-08-28T01:34:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-08-28T01:32:42Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-08-28T01:40:03Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -14,15 +59,24 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-08-28T01:28:18Z",
+    "updated_at": "2026-08-28T01:30:31Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T01:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2725,
+    "stars": 2726,
     "updated_at": "2026-08-28T01:29:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -34,15 +88,6 @@
     "stars": 27699,
     "updated_at": "2026-08-28T01:23:39Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57426,
-    "updated_at": "2026-08-28T01:30:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -63,15 +108,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T01:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T00:56:17Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native provide",
-    "id": "soapbucket/sbproxy",
-    "language": "Rust",
-    "name": "soapbucket/sbproxy",
-    "stars": 51,
-    "updated_at": "2026-08-28T01:23:32Z",
-    "url": "https://github.com/soapbucket/sbproxy"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -99,21 +126,12 @@
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:38:27Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 123,
-    "updated_at": "2026-08-28T00:17:57Z",
+    "updated_at": "2026-08-28T01:32:21Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -144,15 +162,6 @@
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 7,
-    "updated_at": "2026-08-28T00:37:15Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
     "id": "erjonb19/Security-Constrained-Agent-Runtime",
     "language": "Python",
@@ -162,13 +171,13 @@
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-08-28T00:13:35Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
+    "name": "Arize-ai/phoenix",
+    "stars": 11219,
+    "updated_at": "2026-08-28T01:34:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -202,7 +211,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29912,
+    "stars": 29913,
     "updated_at": "2026-08-27T23:50:36Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-28T01:14:00Z",
+    "updated_at": "2026-08-28T01:38:58Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -256,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33822,
+    "stars": 33823,
     "updated_at": "2026-08-27T22:45:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -295,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T22:16:37Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11218,
-    "updated_at": "2026-08-27T23:59:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
