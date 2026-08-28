@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33853,
+    "updated_at": "2026-08-28T11:29:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-28T11:20:23Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-28T11:27:28Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-28T11:13:53Z",
+    "updated_at": "2026-08-28T11:17:41Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
+    "id": "langfuse/langfuse-workshop",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-workshop",
+    "stars": 40,
+    "updated_at": "2026-08-28T11:29:28Z",
+    "url": "https://github.com/langfuse/langfuse-workshop"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21648,
+    "updated_at": "2026-08-28T11:22:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5776,
+    "updated_at": "2026-08-28T11:15:31Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T11:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
@@ -31,7 +94,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3396,
+    "stars": 3399,
     "updated_at": "2026-08-28T11:09:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -43,24 +106,6 @@
     "stars": 54,
     "updated_at": "2026-08-28T11:12:28Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21648,
-    "updated_at": "2026-08-28T11:11:32Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33852,
-    "updated_at": "2026-08-28T11:15:04Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI repository trust and safety evaluator for GitHub, LLM tooling, AI agents, and model repositories.",
@@ -81,24 +126,6 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-28T11:12:06Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -106,6 +133,15 @@
     "stars": 415,
     "updated_at": "2026-08-28T11:06:07Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11915,
+    "updated_at": "2026-08-28T10:54:56Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T11:13:04Z",
+    "updated_at": "2026-08-28T11:30:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 666,
-    "updated_at": "2026-08-28T11:07:59Z",
+    "updated_at": "2026-08-28T11:28:43Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1854,
-    "updated_at": "2026-08-28T11:05:17Z",
+    "updated_at": "2026-08-28T11:21:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:53:15Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5776,
-    "updated_at": "2026-08-28T11:12:59Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -295,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:37:00Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
-    "id": "langfuse/langfuse-workshop",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-workshop",
-    "stars": 40,
-    "updated_at": "2026-08-28T11:14:12Z",
-    "url": "https://github.com/langfuse/langfuse-workshop"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -347,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1319,
-    "updated_at": "2026-08-28T10:58:02Z",
+    "updated_at": "2026-08-28T11:18:09Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -364,7 +382,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29915,
+    "stars": 29914,
     "updated_at": "2026-08-28T08:57:27Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T07:49:20Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5566,
-    "updated_at": "2026-08-28T10:21:32Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-28T07:35:02Z",
-    "url": "https://github.com/srjn45/warden"
   }
 ]
