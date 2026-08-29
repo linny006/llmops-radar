@@ -1,21 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
+    "id": "DINAKAR-S/stormdoor",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57522,
-    "updated_at": "2026-08-29T11:29:48Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "DINAKAR-S/stormdoor",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:42:59Z",
+    "url": "https://github.com/DINAKAR-S/stormdoor"
   },
   {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
+    "description": "Veris: agent-agnostic local LLM evaluation and regression testing gate. Runs golden datasets against any callable, score",
+    "id": "KhanUzeb/VERIS",
     "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-08-29T11:28:56Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
+    "name": "KhanUzeb/VERIS",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:41:53Z",
+    "url": "https://github.com/KhanUzeb/VERIS"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-29T11:40:40Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:40:25Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3523,
+    "updated_at": "2026-08-29T11:39:00Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -23,8 +50,62 @@
     "language": "Python",
     "name": "monaal10/valuemaxx",
     "stars": 0,
-    "updated_at": "2026-08-29T11:25:36Z",
+    "updated_at": "2026-08-29T11:38:54Z",
     "url": "https://github.com/monaal10/valuemaxx"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7639,
+    "updated_at": "2026-08-29T11:34:29Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-08-29T11:35:58Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "This repository is associated with a compromised GitHub account. Contents are unauthorized. / \u6b64\u4ed3\u5e93\u5173\u8054\u7684 GitHub \u8d26\u6237\u5df2\u88ab\u76d7\u7528\uff0c\u5185\u5bb9\u672a\u7ecf\u6388",
+    "id": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
+    "language": "\u2014",
+    "name": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:30:42Z",
+    "url": "https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3209,
+    "updated_at": "2026-08-29T11:30:01Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57522,
+    "updated_at": "2026-08-29T11:40:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -34,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-08-29T11:22:02Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T11:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -95,7 +167,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-08-29T10:45:13Z",
+    "updated_at": "2026-08-29T11:32:25Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T10:42:59Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3208,
-    "updated_at": "2026-08-29T11:30:01Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -153,22 +216,22 @@
     "url": "https://github.com/krivonosoff161/llm-cheap-filter"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24656,
+    "updated_at": "2026-08-29T10:27:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
     "id": "malkreide/zh-education-mcp",
     "language": "Python",
     "name": "malkreide/zh-education-mcp",
     "stars": 0,
-    "updated_at": "2026-08-29T10:27:19Z",
+    "updated_at": "2026-08-29T11:32:58Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7639,
-    "updated_at": "2026-08-29T10:22:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T11:23:36Z",
+    "updated_at": "2026-08-29T11:35:49Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 3522,
-    "updated_at": "2026-08-29T09:08:10Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -337,7 +391,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33892,
+    "stars": 33893,
     "updated_at": "2026-08-29T08:30:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:44:18Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1198,
-    "updated_at": "2026-08-29T07:37:38Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 99,
-    "updated_at": "2026-08-29T07:33:29Z",
-    "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:24:09Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 33,
-    "updated_at": "2026-08-29T07:23:27Z",
-    "url": "https://github.com/jochi2018/Soup"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:23:10Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:21:50Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
