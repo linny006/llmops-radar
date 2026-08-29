@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "TypeScript",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:22:11Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:21:58Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T13:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
     "id": "Harshalsharma05/switchyard",
     "language": "Go",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27724,
-    "updated_at": "2026-08-29T13:06:55Z",
+    "updated_at": "2026-08-29T13:23:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 57525,
     "updated_at": "2026-08-29T13:11:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T13:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 7,
-    "updated_at": "2026-08-29T12:19:37Z",
+    "updated_at": "2026-08-29T13:16:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -247,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3529,
+    "stars": 3531,
     "updated_at": "2026-08-29T11:39:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-29T09:55:24Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -439,14 +448,5 @@
     "stars": 2531,
     "updated_at": "2026-08-29T09:46:01Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-08-29T12:36:43Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
