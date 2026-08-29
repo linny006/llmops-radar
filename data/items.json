@@ -4,18 +4,45 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57513,
-    "updated_at": "2026-08-29T08:40:08Z",
+    "stars": 57516,
+    "updated_at": "2026-08-29T09:00:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33886,
-    "updated_at": "2026-08-29T08:30:32Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-08-29T08:52:10Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2730,
+    "updated_at": "2026-08-29T08:51:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T08:49:45Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-29T08:49:23Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T08:30:25Z",
+    "updated_at": "2026-08-29T08:45:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33887,
+    "updated_at": "2026-08-29T08:30:32Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
@@ -43,15 +79,6 @@
     "stars": 1645,
     "updated_at": "2026-08-29T08:19:20Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2730,
-    "updated_at": "2026-08-29T08:17:35Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -99,20 +126,11 @@
     "url": "https://github.com/monaal10/valuemaxx"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T07:49:39Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11232,
+    "stars": 11233,
     "updated_at": "2026-08-29T07:46:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T08:16:57Z",
+    "updated_at": "2026-08-29T08:58:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3516,
-    "updated_at": "2026-08-29T07:59:02Z",
+    "updated_at": "2026-08-29T08:53:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-08-29T06:56:02Z",
+    "updated_at": "2026-08-29T08:59:50Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-08-29T06:27:50Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
-    "id": "melaya-labs/melaya",
-    "language": "Python",
-    "name": "melaya-labs/melaya",
-    "stars": 4,
-    "updated_at": "2026-08-29T06:24:35Z",
-    "url": "https://github.com/melaya-labs/melaya"
   }
 ]
