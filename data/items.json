@@ -1,30 +1,30 @@
 [
   {
+    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
+    "id": "Harshalsharma05/switchyard",
+    "language": "Go",
+    "name": "Harshalsharma05/switchyard",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:11:50Z",
+    "url": "https://github.com/Harshalsharma05/switchyard"
+  },
+  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
     "name": "Root1V/prometheus-inference-platform",
     "stars": 1,
-    "updated_at": "2026-08-29T12:59:31Z",
+    "updated_at": "2026-08-29T13:07:52Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-29T12:52:52Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57524,
-    "updated_at": "2026-08-29T12:48:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-29T13:07:46Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -32,8 +32,35 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27724,
-    "updated_at": "2026-08-29T12:47:15Z",
+    "updated_at": "2026-08-29T13:06:55Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57525,
+    "updated_at": "2026-08-29T13:11:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T13:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-29T13:01:52Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T12:45:51Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T12:37:33Z",
     "url": "https://github.com/malkreide/zh-education-mcp"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-29T12:37:08Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -238,7 +247,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3528,
+    "stars": 3529,
     "updated_at": "2026-08-29T11:39:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7639,
-    "updated_at": "2026-08-29T11:34:29Z",
+    "updated_at": "2026-08-29T13:14:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3209,
-    "updated_at": "2026-08-29T12:54:57Z",
+    "updated_at": "2026-08-29T13:12:49Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 80,
     "updated_at": "2026-08-29T12:36:43Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Sanitised enterprise AI architecture case studies covering agentic systems, AI governance, observability and AI FinOps.",
-    "id": "carstenscholz-tech/enterprise-ai-architecture-portfolio",
-    "language": "\u2014",
-    "name": "carstenscholz-tech/enterprise-ai-architecture-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-29T09:35:46Z",
-    "url": "https://github.com/carstenscholz-tech/enterprise-ai-architecture-portfolio"
   }
 ]
