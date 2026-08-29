@@ -1,21 +1,30 @@
 [
   {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-29T20:58:53Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-29T21:13:53Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57547,
-    "updated_at": "2026-08-29T20:59:31Z",
+    "stars": 57550,
+    "updated_at": "2026-08-29T21:11:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:11:14Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,8 +32,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T20:58:33Z",
+    "updated_at": "2026-08-29T21:14:46Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:13:49Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T21:04:55Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-29T21:04:53Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-29T21:03:49Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:03:10Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-08-29T21:00:35Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T20:52:37Z",
     "url": "https://github.com/krivonosoff161/llm-router"
-  },
-  {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
-    "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-29T20:58:13Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -90,31 +153,13 @@
     "url": "https://github.com/kirklasalle/PrismRefraction"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T20:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-29T20:37:00Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T20:34:29Z",
-    "url": "https://github.com/pom11/hscc"
+    "name": "mikehasa/agentacct",
+    "stars": 670,
+    "updated_at": "2026-08-29T20:34:00Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T20:29:53Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 670,
-    "updated_at": "2026-08-29T20:34:00Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T19:39:54Z",
     "url": "https://github.com/Sanidhyavijay24/Traceback-ai"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-29T19:22:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T20:50:08Z",
+    "updated_at": "2026-08-29T21:09:27Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -292,7 +319,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3579,
+    "stars": 3581,
     "updated_at": "2026-08-29T17:57:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -347,7 +374,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 15,
-    "updated_at": "2026-08-29T17:42:38Z",
+    "updated_at": "2026-08-29T21:08:36Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -400,25 +427,16 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27727,
+    "stars": 27728,
     "updated_at": "2026-08-29T16:59:51Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:49:22Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7646,
+    "stars": 7647,
     "updated_at": "2026-08-29T16:49:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T16:34:57Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI agent for insurance claims intake \u2014 .NET 10, Microsoft Agent Framework, Azure. Extracts data from claim files, verifi",
-    "id": "BobMatusic/claims-intake-agent",
-    "language": "C#",
-    "name": "BobMatusic/claims-intake-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:34:46Z",
-    "url": "https://github.com/BobMatusic/claims-intake-agent"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:33:05Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
