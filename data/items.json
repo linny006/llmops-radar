@@ -1,5 +1,32 @@
 [
   {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:44:38Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24650,
+    "updated_at": "2026-08-29T02:42:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T02:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
     "id": "krivonosoff161/llm-cheap-filter",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T02:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -43,6 +61,15 @@
     "stars": 4,
     "updated_at": "2026-08-29T02:14:01Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57503,
+    "updated_at": "2026-08-29T02:12:31Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Should you fine-tune? Usually not. A working toolkit for the decision, the data curation, the evals and the governance \u2014",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:53:22Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57504,
-    "updated_at": "2026-08-29T02:12:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8443,
-    "updated_at": "2026-08-29T02:19:54Z",
+    "updated_at": "2026-08-29T02:38:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 29923,
     "updated_at": "2026-08-29T02:08:46Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24650,
-    "updated_at": "2026-08-29T01:29:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:58:01Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Full Portkey Admin API MCP server",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 6,
-    "updated_at": "2026-08-29T00:04:25Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   }
 ]
