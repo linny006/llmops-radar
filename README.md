@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 06:00 UTC
+> ⏰ Last updated: 2026-08-29 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11230 | Python | 2026-08-29 | AI Observability & Evaluation |
-| 2 | [togettoyou/zke](https://github.com/togettoyou/zke) | 99 | Go | 2026-08-29 | ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境 |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27719 | Python | 2026-08-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-29 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
-| 5 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 6 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-29 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11230 | Python | 2026-08-29 | AI Observability & Evaluation |
+| 3 | [togettoyou/zke](https://github.com/togettoyou/zke) | 99 | Go | 2026-08-29 | ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境 |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27719 | Python | 2026-08-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-08-29 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
+| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 7 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-29 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3516 | TypeScript | 2026-08-29 | The platform for LLM evaluations and AI agent testing |
 | 9 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-29 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
 | 10 | [api7/aisix](https://github.com/api7/aisix) | 123 | Rust | 2026-08-29 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-08-29 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
 | 17 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-08-29 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
 | 18 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | TypeScript | 2026-08-29 |  |
-| 19 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1598 | Python | 2026-08-29 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 19 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1601 | Python | 2026-08-29 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
 | 20 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-29 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
 | 21 | [matuteiglesias/kb-contracts](https://github.com/matuteiglesias/kb-contracts) | 1 | TypeScript | 2026-08-29 | Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses. |
 | 22 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57508 | Python | 2026-08-29 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-08-29 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 30 | [MSKazemi/novafabric](https://github.com/MSKazemi/novafabric) | 4 | Python | 2026-08-29 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
 | 31 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-29 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33874 | TypeScript | 2026-08-29 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33875 | TypeScript | 2026-08-29 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 33 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-29 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 34 | [taishan666/MaxKB4j](https://github.com/taishan666/MaxKB4j) | 123 | Java | 2026-08-29 | MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th |
 | 35 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-29 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
