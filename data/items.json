@@ -1,11 +1,29 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:14:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-08-29T18:13:44Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T18:00:06Z",
+    "updated_at": "2026-08-29T18:12:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,8 +32,35 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-29T17:58:59Z",
+    "updated_at": "2026-08-29T18:12:34Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-29T18:11:38Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
+    "id": "umeshkedimi/aic",
+    "language": "Python",
+    "name": "umeshkedimi/aic",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:06:13Z",
+    "url": "https://github.com/umeshkedimi/aic"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T18:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57541,
-    "updated_at": "2026-08-29T18:00:04Z",
+    "updated_at": "2026-08-29T18:11:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -31,7 +76,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3555,
+    "stars": 3558,
     "updated_at": "2026-08-29T17:57:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -90,15 +135,6 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T17:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
@@ -153,15 +189,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-08-29T17:49:48Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
     "id": "TheusHen/eleanity",
     "language": "Python",
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-29T17:30:35Z",
+    "updated_at": "2026-08-29T18:06:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -211,7 +238,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7644,
+    "stars": 7645,
     "updated_at": "2026-08-29T16:49:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -310,8 +337,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24662,
-    "updated_at": "2026-08-29T16:10:43Z",
+    "stars": 24663,
+    "updated_at": "2026-08-29T18:15:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T15:32:57Z",
     "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:26:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T14:43:35Z",
     "url": "https://github.com/GetSHIM/shim-audit-verify"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2531,
-    "updated_at": "2026-08-29T14:38:50Z",
-    "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2730,
-    "updated_at": "2026-08-29T14:35:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
