@@ -1,12 +1,12 @@
 [
   {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
+    "description": "Agentic RAG \u5de5\u7a0b\u5c55\u793a\u5e73\u53f0\uff1aFastAPI\u3001Redis\u3001SSE\u3001Vue3\u3001Qwen/vLLM \u4e0e DeepSeek \u964d\u7ea7",
+    "id": "my420254/Agentic-RAG-Platform",
     "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:58:55Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
+    "name": "my420254/Agentic-RAG-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:10:46Z",
+    "url": "https://github.com/my420254/Agentic-RAG-Platform"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -14,8 +14,26 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 2,
-    "updated_at": "2026-08-29T11:58:24Z",
+    "updated_at": "2026-08-29T12:05:02Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T12:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:58:55Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
@@ -54,15 +72,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T11:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -76,7 +85,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3524,
+    "stars": 3526,
     "updated_at": "2026-08-29T11:39:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24656,
-    "updated_at": "2026-08-29T10:27:05Z",
+    "updated_at": "2026-08-29T12:11:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T11:52:34Z",
+    "updated_at": "2026-08-29T12:06:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -400,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33893,
+    "stars": 33894,
     "updated_at": "2026-08-29T08:30:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T07:58:05Z",
     "url": "https://github.com/LindungiLw/gen-trek"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11236,
-    "updated_at": "2026-08-29T07:46:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
