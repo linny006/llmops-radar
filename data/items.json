@@ -1,12 +1,30 @@
 [
   {
-    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
-    "id": "DINAKAR-S/stormdoor",
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
-    "name": "DINAKAR-S/stormdoor",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:42:59Z",
-    "url": "https://github.com/DINAKAR-S/stormdoor"
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:58:55Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 2,
+    "updated_at": "2026-08-29T11:58:24Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
+    "id": "jamjet-labs/jamjet",
+    "language": "Rust",
+    "name": "jamjet-labs/jamjet",
+    "stars": 21,
+    "updated_at": "2026-08-29T11:52:45Z",
+    "url": "https://github.com/jamjet-labs/jamjet"
   },
   {
     "description": "Veris: agent-agnostic local LLM evaluation and regression testing gate. Runs golden datasets against any callable, score",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "KhanUzeb/VERIS",
     "stars": 1,
-    "updated_at": "2026-08-29T11:41:53Z",
+    "updated_at": "2026-08-29T11:52:21Z",
     "url": "https://github.com/KhanUzeb/VERIS"
+  },
+  {
+    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
+    "id": "DINAKAR-S/stormdoor",
+    "language": "Python",
+    "name": "DINAKAR-S/stormdoor",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:51:27Z",
+    "url": "https://github.com/DINAKAR-S/stormdoor"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T11:50:14Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -23,24 +68,15 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-29T11:40:40Z",
+    "updated_at": "2026-08-29T11:50:30Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:40:25Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3523,
+    "stars": 3524,
     "updated_at": "2026-08-29T11:39:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -81,15 +117,6 @@
     "url": "https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T11:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57522,
-    "updated_at": "2026-08-29T11:40:24Z",
+    "updated_at": "2026-08-29T12:00:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-08-29T11:08:49Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T11:04:37Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -160,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T10:48:03Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:32:25Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T11:35:49Z",
+    "updated_at": "2026-08-29T11:52:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11236,
     "updated_at": "2026-08-29T07:46:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:44:18Z",
-    "url": "https://github.com/api-evangelist/zenml"
   }
 ]
