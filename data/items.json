@@ -1,12 +1,57 @@
 [
   {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:25:09Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27720,
+    "updated_at": "2026-08-29T09:23:42Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
     "id": "latere-ai/llmops",
     "language": "Go",
     "name": "latere-ai/llmops",
     "stars": 1,
-    "updated_at": "2026-08-29T09:11:57Z",
+    "updated_at": "2026-08-29T09:23:33Z",
     "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-08-29T09:25:39Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57517,
+    "updated_at": "2026-08-29T09:27:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
@@ -31,9 +76,18 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3513,
+    "stars": 3515,
     "updated_at": "2026-08-29T09:08:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7637,
+    "updated_at": "2026-08-29T09:07:26Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -43,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T09:06:20Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T09:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57517,
-    "updated_at": "2026-08-29T09:07:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -115,15 +151,6 @@
     "stars": 1645,
     "updated_at": "2026-08-29T08:19:20Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7635,
-    "updated_at": "2026-08-29T09:07:26Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-29T06:53:46Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-08-29T06:52:17Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27720,
-    "updated_at": "2026-08-29T06:51:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-29T09:14:58Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
