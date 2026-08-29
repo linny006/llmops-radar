@@ -1,21 +1,66 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57550,
-    "updated_at": "2026-08-29T23:00:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T22:48:50Z",
+    "updated_at": "2026-08-29T23:15:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-29T23:10:54Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
+    "id": "voly-codes/voly",
+    "language": "Python",
+    "name": "voly-codes/voly",
+    "stars": 16,
+    "updated_at": "2026-08-29T23:07:19Z",
+    "url": "https://github.com/voly-codes/voly"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57550,
+    "updated_at": "2026-08-29T23:13:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T23:05:11Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-29T23:04:00Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T23:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 2,
-    "updated_at": "2026-08-29T22:57:56Z",
+    "updated_at": "2026-08-29T23:11:27Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T22:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
     "id": "alebgl77/grafana-llmops-forge",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T22:42:50Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T22:40:30Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -97,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T22:35:41Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-08-29T22:34:58Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-29T22:26:49Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
-    "id": "voly-codes/voly",
-    "language": "Python",
-    "name": "voly-codes/voly",
-    "stars": 16,
-    "updated_at": "2026-08-29T22:21:24Z",
-    "url": "https://github.com/voly-codes/voly"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -365,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-29T22:36:49Z",
+    "updated_at": "2026-08-29T23:03:47Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
