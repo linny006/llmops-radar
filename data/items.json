@@ -1,5 +1,41 @@
 [
   {
+    "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
+    "id": "krivonosoff161/llm-cheap-filter",
+    "language": "Python",
+    "name": "krivonosoff161/llm-cheap-filter",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:26:25Z",
+    "url": "https://github.com/krivonosoff161/llm-cheap-filter"
+  },
+  {
+    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
+    "id": "krivonosoff161/llm-router",
+    "language": "Python",
+    "name": "krivonosoff161/llm-router",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:26:09Z",
+    "url": "https://github.com/krivonosoff161/llm-router"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2730,
+    "updated_at": "2026-08-29T02:22:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T02:07:32Z",
     "url": "https://github.com/sdaluga/fine-tuning-honestly"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T02:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:53:22Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2730,
-    "updated_at": "2026-08-29T01:52:10Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8443,
-    "updated_at": "2026-08-29T00:53:51Z",
+    "updated_at": "2026-08-29T02:19:54Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-29T00:04:25Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
-  },
-  {
-    "description": "Free project-driven roadmap: DevOps engineer \u2192 AI-native infra. Linux, K8s, Terraform, observability, GitOps, LLM/MLOps ",
-    "id": "sandeepk24/devops-to-ai",
-    "language": "Python",
-    "name": "sandeepk24/devops-to-ai",
-    "stars": 0,
-    "updated_at": "2026-08-28T23:47:23Z",
-    "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:46:10Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
