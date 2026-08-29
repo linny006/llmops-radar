@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "jasonneo99/agent-workflow",
     "stars": 0,
-    "updated_at": "2026-08-29T20:44:49Z",
+    "updated_at": "2026-08-29T20:58:53Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57547,
+    "updated_at": "2026-08-29T20:59:31Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,8 +23,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T20:44:37Z",
+    "updated_at": "2026-08-29T20:58:33Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
+    "id": "krivonosoff161/llm-cheap-filter",
+    "language": "Python",
+    "name": "krivonosoff161/llm-cheap-filter",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:52:39Z",
+    "url": "https://github.com/krivonosoff161/llm-cheap-filter"
+  },
+  {
+    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
+    "id": "krivonosoff161/llm-router",
+    "language": "Python",
+    "name": "krivonosoff161/llm-router",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:52:37Z",
+    "url": "https://github.com/krivonosoff161/llm-router"
   },
   {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
@@ -23,8 +50,53 @@
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-29T20:37:00Z",
+    "updated_at": "2026-08-29T20:58:13Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T20:52:03Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 2,
+    "updated_at": "2026-08-29T20:55:59Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:51:02Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
+    "id": "kirklasalle/PrismRefraction",
+    "language": "TypeScript",
+    "name": "kirklasalle/PrismRefraction",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:46:37Z",
+    "url": "https://github.com/kirklasalle/PrismRefraction"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -36,15 +108,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57547,
-    "updated_at": "2026-08-29T20:44:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T20:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
     "id": "billbz99/finguard-orchestrator",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T20:29:53Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:21:14Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-29T19:59:06Z",
+    "updated_at": "2026-08-29T20:50:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T20:38:22Z",
+    "updated_at": "2026-08-29T20:50:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -247,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3577,
+    "stars": 3579,
     "updated_at": "2026-08-29T17:57:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -373,7 +418,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7645,
+    "stars": 7646,
     "updated_at": "2026-08-29T16:49:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:33:05Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-29T17:51:29Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 456,
-    "updated_at": "2026-08-29T16:29:27Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:25:41Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Free project-driven roadmap: DevOps engineer \u2192 AI-native infra. Linux, K8s, Terraform, observability, GitOps, LLM/MLOps ",
-    "id": "sandeepk24/devops-to-ai",
-    "language": "Python",
-    "name": "sandeepk24/devops-to-ai",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:19:22Z",
-    "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "This repository is associated with a compromised GitHub account. Contents are unauthorized. / \u6b64\u4ed3\u5e93\u5173\u8054\u7684 GitHub \u8d26\u6237\u5df2\u88ab\u76d7\u7528\uff0c\u5185\u5bb9\u672a\u7ecf\u6388",
-    "id": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
-    "language": "\u2014",
-    "name": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:17:36Z",
-    "url": "https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch"
   }
 ]
