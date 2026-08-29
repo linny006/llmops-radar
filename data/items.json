@@ -1,11 +1,65 @@
 [
   {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-29T09:11:57Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2531,
+    "updated_at": "2026-08-29T09:10:56Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 95,
+    "updated_at": "2026-08-29T09:09:29Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3513,
+    "updated_at": "2026-08-29T09:08:10Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-08-29T09:06:20Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57516,
-    "updated_at": "2026-08-29T09:00:13Z",
+    "stars": 57517,
+    "updated_at": "2026-08-29T09:07:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,31 +99,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T08:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33887,
+    "stars": 33888,
     "updated_at": "2026-08-29T08:30:32Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:24:32Z",
-    "url": "https://github.com/latere-ai/llmops"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7635,
-    "updated_at": "2026-08-29T08:17:01Z",
+    "updated_at": "2026-08-29T09:07:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -130,7 +166,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11233,
+    "stars": 11235,
     "updated_at": "2026-08-29T07:46:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T08:58:25Z",
+    "updated_at": "2026-08-29T09:09:01Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-29T08:18:40Z",
+    "updated_at": "2026-08-29T09:14:58Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3516,
-    "updated_at": "2026-08-29T08:53:17Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-08-29T06:36:58Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:29:11Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-08-29T08:59:50Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
