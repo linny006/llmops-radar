@@ -1,29 +1,11 @@
 [
   {
-    "description": "Production-style multimodal RAG system with hybrid retrieval, reranking, grounding, citation validation, evaluation and ",
-    "id": "lzmy18131/RAG",
-    "language": "Python",
-    "name": "lzmy18131/RAG",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:42:25Z",
-    "url": "https://github.com/lzmy18131/RAG"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57541,
-    "updated_at": "2026-08-29T17:42:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T17:38:56Z",
+    "updated_at": "2026-08-29T18:00:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -32,8 +14,89 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-29T17:35:20Z",
+    "updated_at": "2026-08-29T17:58:59Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57541,
+    "updated_at": "2026-08-29T18:00:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3555,
+    "updated_at": "2026-08-29T17:57:01Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:56:12Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 65,
+    "updated_at": "2026-08-29T17:53:39Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "Production-style multimodal RAG system with hybrid retrieval, reranking, grounding, citation validation, evaluation and ",
+    "id": "lzmy18131/RAG",
+    "language": "Python",
+    "name": "lzmy18131/RAG",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:51:42Z",
+    "url": "https://github.com/lzmy18131/RAG"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:50:02Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11243,
+    "updated_at": "2026-08-29T17:48:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:47:32Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T17:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -43,24 +106,6 @@
     "stars": 242,
     "updated_at": "2026-08-29T17:30:32Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T17:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
-    "id": "billbz99/finguard-orchestrator",
-    "language": "Python",
-    "name": "billbz99/finguard-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:30:11Z",
-    "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -90,15 +135,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-08-29T17:44:03Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T17:38:12Z",
+    "updated_at": "2026-08-29T17:49:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-29T16:33:23Z",
+    "updated_at": "2026-08-29T17:51:29Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -337,7 +373,7 @@
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
     "name": "saghosh8/AI-For-DevOps",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-29T15:24:27Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
   },
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-29T17:37:34Z",
+    "updated_at": "2026-08-29T17:49:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2730,
     "updated_at": "2026-08-29T14:35:30Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:18:12Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 2,
-    "updated_at": "2026-08-29T14:25:58Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:15:17Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:14:40Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
   }
 ]
