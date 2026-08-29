@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 19:30 UTC
+> ⏰ Last updated: 2026-08-29 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,27 +44,27 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-08-29 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
 | 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-29 | Create your Agentic AIs. |
-| 3 | [amro/evaling](https://github.com/amro/evaling) | 2 | Python | 2026-08-29 | CLI tool for comparing prompt variants and models |
-| 4 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-29 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57544 | Python | 2026-08-29 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-29 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 8 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-29 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 9 | [billbz99/finguard-orchestrator](https://github.com/billbz99/finguard-orchestrator) | 0 | Python | 2026-08-29 | Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and |
-| 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-29 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 11 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-29 | A streaming action runtime for AI agents, model serving, and multimodal APIs |
-| 12 | [Scottcjn/ram-coffers](https://github.com/Scottcjn/ram-coffers) | 158 | Python | 2026-08-29 | LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris |
-| 13 | [voly-codes/voly](https://github.com/voly-codes/voly) | 16 | Python | 2026-08-29 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
-| 14 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3211 | TypeScript | 2026-08-29 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
-| 15 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-08-29 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
-| 16 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-29 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 17 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-29 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 18 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24664 | TypeScript | 2026-08-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 19 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-29 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 20 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 3 | [billbz99/finguard-orchestrator](https://github.com/billbz99/finguard-orchestrator) | 0 | Python | 2026-08-29 | Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57544 | Python | 2026-08-29 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 6 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-29 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [amro/evaling](https://github.com/amro/evaling) | 2 | Python | 2026-08-29 | CLI tool for comparing prompt variants and models |
+| 9 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-29 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-29 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-29 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 12 | [hpnkv/a11](https://github.com/hpnkv/a11) | 0 | C++ | 2026-08-29 | A streaming action runtime for AI agents, model serving, and multimodal APIs |
+| 13 | [Scottcjn/ram-coffers](https://github.com/Scottcjn/ram-coffers) | 158 | Python | 2026-08-29 | LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris |
+| 14 | [voly-codes/voly](https://github.com/voly-codes/voly) | 16 | Python | 2026-08-29 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
+| 15 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3211 | TypeScript | 2026-08-29 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 16 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-08-29 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
+| 17 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-29 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 18 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-29 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 19 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24664 | TypeScript | 2026-08-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 20 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-08-29 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
 | 21 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-08-29 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 22 | [umeshkedimi/aic](https://github.com/umeshkedimi/aic) | 1 | Python | 2026-08-29 | Agentic Incident Commander — an autonomous reliability control loop that detects, investigates, and safely remediates pr |
-| 23 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3571 | Python | 2026-08-29 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 23 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 3572 | Python | 2026-08-29 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 24 | [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | 65 | JavaScript | 2026-08-29 | Forward deployed engineering guide for production AI systems: value, architecture, evals, security, deployment, and oper |
 | 25 | [lzmy18131/RAG](https://github.com/lzmy18131/RAG) | 0 | Python | 2026-08-29 | Production-style multimodal RAG system with hybrid retrieval, reranking, grounding, citation validation, evaluation and  |
 | 26 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-08-29 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
