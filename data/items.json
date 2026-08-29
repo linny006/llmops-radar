@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:29:02Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-08-29T21:28:36Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:28:19Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-29T21:26:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:24:10Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-08-29T21:21:44Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-08-29T21:21:33Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-08-29T21:17:12Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-29T21:16:42Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -14,26 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57550,
-    "updated_at": "2026-08-29T21:11:54Z",
+    "updated_at": "2026-08-29T21:29:37Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:11:14Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-29T21:14:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-29T21:13:49Z",
+    "updated_at": "2026-08-29T21:20:25Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
@@ -59,17 +131,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-29T21:04:53Z",
+    "updated_at": "2026-08-29T21:25:55Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-29T21:03:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -88,15 +151,6 @@
     "stars": 35,
     "updated_at": "2026-08-29T21:00:35Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T21:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic prefilter and cheap-to-chief escalation pipeline for reducing expensive LLM calls in agentic workflows.",
@@ -157,7 +211,7 @@
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 670,
+    "stars": 671,
     "updated_at": "2026-08-29T20:34:00Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-29T20:50:31Z",
+    "updated_at": "2026-08-29T21:22:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -225,6 +279,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3517,
+    "updated_at": "2026-08-29T19:02:19Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -238,7 +301,7 @@
     "id": "Scottcjn/ram-coffers",
     "language": "Python",
     "name": "Scottcjn/ram-coffers",
-    "stars": 158,
+    "stars": 159,
     "updated_at": "2026-08-29T19:00:08Z",
     "url": "https://github.com/Scottcjn/ram-coffers"
   },
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3211,
-    "updated_at": "2026-08-29T18:53:11Z",
+    "updated_at": "2026-08-29T21:29:53Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T17:19:43Z",
     "url": "https://github.com/redevops-io/mission-sdk"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 15,
-    "updated_at": "2026-08-29T17:07:00Z",
-    "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 68,
-    "updated_at": "2026-08-29T17:06:18Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
-    "id": "TheusHen/eleanity",
-    "language": "Python",
-    "name": "TheusHen/eleanity",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:05:14Z",
-    "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-29T17:04:24Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27728,
-    "updated_at": "2026-08-29T16:59:51Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7647,
-    "updated_at": "2026-08-29T16:49:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:34:57Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   }
 ]
