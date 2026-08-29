@@ -5,26 +5,26 @@
     "language": "\u2014",
     "name": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
     "stars": 1,
-    "updated_at": "2026-08-29T14:30:14Z",
+    "updated_at": "2026-08-29T14:44:57Z",
     "url": "https://github.com/naturaljam/ACCOUNT-COMPROMISED-SpanVouch"
   },
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 1,
-    "updated_at": "2026-08-29T14:29:11Z",
-    "url": "https://github.com/GetSHIM/shim"
+    "name": "mlflow/mlflow",
+    "stars": 27725,
+    "updated_at": "2026-08-29T14:43:43Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
+    "description": "Independent, dependency-free verifier for shim audit evidence bundles",
+    "id": "GetSHIM/shim-audit-verify",
+    "language": "Python",
+    "name": "GetSHIM/shim-audit-verify",
     "stars": 0,
-    "updated_at": "2026-08-29T14:23:52Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
+    "updated_at": "2026-08-29T14:43:35Z",
+    "url": "https://github.com/GetSHIM/shim-audit-verify"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -32,8 +32,71 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-29T14:21:50Z",
+    "updated_at": "2026-08-29T14:40:58Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2531,
+    "updated_at": "2026-08-29T14:38:50Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2730,
+    "updated_at": "2026-08-29T14:35:30Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T14:33:20Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T14:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57527,
+    "updated_at": "2026-08-29T14:30:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 1,
+    "updated_at": "2026-08-29T14:41:18Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 1,
+    "updated_at": "2026-08-29T14:23:52Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:17:18Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T14:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T14:07:54Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T14:04:37Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "brunovicco/controlled-autonomy-lab",
     "stars": 0,
-    "updated_at": "2026-08-29T13:52:33Z",
+    "updated_at": "2026-08-29T14:36:37Z",
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57527,
-    "updated_at": "2026-08-29T14:30:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -385,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T13:39:57Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27725,
-    "updated_at": "2026-08-29T14:30:06Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A pure-Python static contract validator for prompt templates \u2014 three passes, zero dependencies, catches breaking variabl",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T13:32:43Z",
     "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-08-29T13:32:27Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 9,
-    "updated_at": "2026-08-29T13:27:55Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 29930,
-    "updated_at": "2026-08-29T13:26:35Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
