@@ -1,12 +1,12 @@
 [
   {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:42:17Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-29T19:52:55Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,8 +14,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-29T19:41:36Z",
+    "updated_at": "2026-08-29T19:52:25Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57544,
+    "updated_at": "2026-08-29T19:52:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:46:30Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:42:17Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
@@ -27,13 +63,13 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "A Python observability and failure-attribution tool for LLM agents that instruments pipeline steps, persists execution t",
+    "id": "Sanidhyavijay24/Traceback-ai",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57544,
-    "updated_at": "2026-08-29T19:44:03Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Sanidhyavijay24/Traceback-ai",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:39:54Z",
+    "url": "https://github.com/Sanidhyavijay24/Traceback-ai"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -43,33 +79,6 @@
     "stars": 4,
     "updated_at": "2026-08-29T19:36:01Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-29T19:34:37Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-08-29T19:25:59Z",
-    "url": "https://github.com/amro/evaling"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-29T19:24:20Z",
+    "updated_at": "2026-08-29T19:45:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 132,
     "updated_at": "2026-08-29T15:53:50Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 81,
-    "updated_at": "2026-08-29T15:28:48Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
