@@ -1,12 +1,30 @@
 [
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
     "stars": 1,
-    "updated_at": "2026-08-29T08:13:55Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "updated_at": "2026-08-29T08:24:32Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1645,
+    "updated_at": "2026-08-29T08:19:20Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2730,
+    "updated_at": "2026-08-29T08:17:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T08:00:25Z",
+    "updated_at": "2026-08-29T08:15:28Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-08-29T08:00:22Z",
-    "url": "https://github.com/latere-ai/llmops"
+    "updated_at": "2026-08-29T08:13:55Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
@@ -72,7 +90,7 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "ZenML is an open-source MLOps and LLMOps framework that unifies machine learning and generative AI workflows through a s",
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
     "name": "api-evangelist/zenml",
@@ -81,21 +99,12 @@
     "url": "https://github.com/api-evangelist/zenml"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2730,
-    "updated_at": "2026-08-29T08:12:13Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57512,
-    "updated_at": "2026-08-29T08:07:25Z",
+    "updated_at": "2026-08-29T08:25:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -103,7 +112,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1196,
+    "stars": 1197,
     "updated_at": "2026-08-29T07:37:38Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T08:15:08Z",
+    "updated_at": "2026-08-29T08:16:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -297,15 +306,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1645,
-    "updated_at": "2026-08-29T06:58:13Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
     "id": "Farukul-Islam/from-mlops-to-llmops",
     "language": "PHP",
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-29T06:40:39Z",
+    "updated_at": "2026-08-29T08:18:40Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
