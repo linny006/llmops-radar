@@ -1,5 +1,77 @@
 [
   {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:43:17Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
+    "id": "DINAKAR-S/stormdoor",
+    "language": "Python",
+    "name": "DINAKAR-S/stormdoor",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:40:47Z",
+    "url": "https://github.com/DINAKAR-S/stormdoor"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-29T12:38:18Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:37:33Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-29T12:37:08Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-08-29T12:36:03Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "High-performance Async Rate Limiting, Circuit Breaking & Resilience Orchestration for LLM & API Pipelines.",
+    "id": "yangjinyu050618-hash/flowguard",
+    "language": "Python",
+    "name": "yangjinyu050618-hash/flowguard",
+    "stars": 2,
+    "updated_at": "2026-08-29T12:33:27Z",
+    "url": "https://github.com/yangjinyu050618-hash/flowguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T12:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 2,
-    "updated_at": "2026-08-29T12:27:06Z",
+    "updated_at": "2026-08-29T12:33:36Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-29T12:16:03Z",
+    "updated_at": "2026-08-29T12:43:33Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic RAG \u5de5\u7a0b\u5c55\u793a\u5e73\u53f0\uff1aFastAPI\u3001Redis\u3001SSE\u3001Vue3\u3001Qwen/vLLM \u4e0e DeepSeek \u964d\u7ea7",
@@ -94,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57523,
+    "stars": 57524,
     "updated_at": "2026-08-29T12:00:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -117,21 +180,12 @@
     "url": "https://github.com/KhanUzeb/VERIS"
   },
   {
-    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
-    "id": "DINAKAR-S/stormdoor",
-    "language": "Python",
-    "name": "DINAKAR-S/stormdoor",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:51:27Z",
-    "url": "https://github.com/DINAKAR-S/stormdoor"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-29T11:50:30Z",
+    "updated_at": "2026-08-29T12:37:58Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -139,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3526,
+    "stars": 3527,
     "updated_at": "2026-08-29T11:39:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -162,15 +216,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-08-29T12:29:09Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
     "description": "This repository is associated with a compromised GitHub account. Contents are unauthorized. / \u6b64\u4ed3\u5e93\u5173\u8054\u7684 GitHub \u8d26\u6237\u5df2\u88ab\u76d7\u7528\uff0c\u5185\u5bb9\u672a\u7ecf\u6388",
     "id": "naturaljam/ACCOUNT-COMPROMISED-SpanVouch",
     "language": "\u2014",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3209,
-    "updated_at": "2026-08-29T11:30:01Z",
+    "updated_at": "2026-08-29T12:31:10Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 16,
     "updated_at": "2026-08-29T11:22:02Z",
     "url": "https://github.com/voly-codes/voly"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-29T11:08:49Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -286,15 +322,6 @@
     "stars": 24656,
     "updated_at": "2026-08-29T12:11:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
-    "id": "malkreide/zh-education-mcp",
-    "language": "Python",
-    "name": "malkreide/zh-education-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:32:58Z",
-    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-08-29T12:06:53Z",
+    "updated_at": "2026-08-29T12:36:43Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27722,
-    "updated_at": "2026-08-29T12:26:37Z",
+    "updated_at": "2026-08-29T12:43:15Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 95,
-    "updated_at": "2026-08-29T09:09:29Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-08-29T09:06:20Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:52:10Z",
-    "url": "https://github.com/veerarakesh56/warden"
   }
 ]
