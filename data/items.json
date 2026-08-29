@@ -1,5 +1,86 @@
 [
   {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:27:41Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:26:29Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 2,
+    "updated_at": "2026-08-29T12:27:06Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-29T12:20:33Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 7,
+    "updated_at": "2026-08-29T12:19:37Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
+    "id": "Ratnesh-181998/AI-Engineer",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/AI-Engineer",
+    "stars": 111,
+    "updated_at": "2026-08-29T12:18:02Z",
+    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-08-29T12:17:16Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-29T12:16:03Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic RAG \u5de5\u7a0b\u5c55\u793a\u5e73\u53f0\uff1aFastAPI\u3001Redis\u3001SSE\u3001Vue3\u3001Qwen/vLLM \u4e0e DeepSeek \u964d\u7ea7",
     "id": "my420254/Agentic-RAG-Platform",
     "language": "Python",
@@ -9,31 +90,13 @@
     "url": "https://github.com/my420254/Agentic-RAG-Platform"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 2,
-    "updated_at": "2026-08-29T12:05:02Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:58:55Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
+    "name": "BerriAI/litellm",
+    "stars": 57523,
+    "updated_at": "2026-08-29T12:00:18Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T11:51:27Z",
     "url": "https://github.com/DINAKAR-S/stormdoor"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-29T11:50:14Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "izam-mohammed/ragrank",
     "stars": 47,
-    "updated_at": "2026-08-29T11:35:58Z",
+    "updated_at": "2026-08-29T12:29:09Z",
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 3209,
     "updated_at": "2026-08-29T11:30:01Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57522,
-    "updated_at": "2026-08-29T12:00:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -171,6 +216,15 @@
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21664,
+    "updated_at": "2026-08-29T11:03:39Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T10:42:59Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21663,
-    "updated_at": "2026-08-29T11:03:39Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27722,
-    "updated_at": "2026-08-29T09:23:42Z",
+    "updated_at": "2026-08-29T12:26:37Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T08:52:10Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33894,
-    "updated_at": "2026-08-29T08:30:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1645,
-    "updated_at": "2026-08-29T08:19:20Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:13:55Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
-    "id": "Harshalsharma05/switchyard",
-    "language": "Go",
-    "name": "Harshalsharma05/switchyard",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:59:19Z",
-    "url": "https://github.com/Harshalsharma05/switchyard"
-  },
-  {
-    "description": "Realtime token and cost tracker for every AI you use. Point your SDK's base URL at the gateway and watch tokens, cost, c",
-    "id": "LindungiLw/gen-trek",
-    "language": "TypeScript",
-    "name": "LindungiLw/gen-trek",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:58:05Z",
-    "url": "https://github.com/LindungiLw/gen-trek"
   }
 ]
