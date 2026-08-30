@@ -1,5 +1,59 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T14:42:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:43:07Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:37:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:37:09Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:34:04Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
@@ -13,8 +67,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24674,
-    "updated_at": "2026-08-30T14:24:39Z",
+    "stars": 24675,
+    "updated_at": "2026-08-30T14:36:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -40,8 +94,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27737,
-    "updated_at": "2026-08-30T14:17:31Z",
+    "stars": 27736,
+    "updated_at": "2026-08-30T14:41:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -54,24 +108,6 @@
     "url": "https://github.com/api-evangelist/agenta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:24:40Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -79,15 +115,6 @@
     "stars": 15,
     "updated_at": "2026-08-30T14:20:07Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-30T14:29:28Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "Deterministic release gates for enterprise RAG retrieval, grounding, citations, and latency",
@@ -113,26 +140,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33928,
-    "updated_at": "2026-08-30T14:03:26Z",
+    "updated_at": "2026-08-30T14:45:13Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-30T14:01:33Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T13:58:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
@@ -167,17 +176,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57580,
-    "updated_at": "2026-08-30T13:49:36Z",
+    "updated_at": "2026-08-30T14:40:03Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-08-30T13:46:34Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 47,
-    "updated_at": "2026-08-30T14:24:48Z",
+    "updated_at": "2026-08-30T14:38:20Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T13:38:43Z",
+    "updated_at": "2026-08-30T14:39:29Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21684,
-    "updated_at": "2026-08-30T14:28:27Z",
+    "updated_at": "2026-08-30T14:42:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
