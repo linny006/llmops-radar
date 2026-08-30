@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T21:42:46Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-08-30T21:43:20Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:38:26Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T21:35:14Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
     "id": "api-evangelist/raindrop",
     "language": "\u2014",
@@ -27,21 +63,12 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T21:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
     "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
     "name": "nRouterAI/nrouter-sdk",
     "stars": 0,
-    "updated_at": "2026-08-30T21:27:00Z",
+    "updated_at": "2026-08-30T21:43:03Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
@@ -121,18 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57609,
+    "stars": 57610,
     "updated_at": "2026-08-30T20:52:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-08-30T21:20:53Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-30T19:57:03Z",
+    "updated_at": "2026-08-30T21:39:02Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-30T20:32:36Z",
+    "updated_at": "2026-08-30T21:40:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T19:20:26Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:19:49Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:18:39Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
