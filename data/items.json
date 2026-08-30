@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33929,
+    "updated_at": "2026-08-30T14:55:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:55:14Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:59:42Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:53:08Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24675,
+    "updated_at": "2026-08-30T14:50:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 47,
+    "updated_at": "2026-08-30T14:49:54Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:48:37Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
+    "id": "IlaKhan17/proofstep",
+    "language": "Python",
+    "name": "IlaKhan17/proofstep",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:48:12Z",
+    "url": "https://github.com/IlaKhan17/proofstep"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:55:08Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,22 +99,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-08-30T14:43:07Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-30T14:37:17Z",
-    "url": "https://github.com/pom11/hscc"
+    "name": "BerriAI/litellm",
+    "stars": 57581,
+    "updated_at": "2026-08-30T14:40:03Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-30T14:37:09Z",
+    "updated_at": "2026-08-30T15:00:01Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
@@ -61,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-08-30T14:26:47Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24675,
-    "updated_at": "2026-08-30T14:36:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27736,
-    "updated_at": "2026-08-30T14:41:48Z",
+    "updated_at": "2026-08-30T14:48:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/tonydzi/verbatim-citation-gate"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33928,
-    "updated_at": "2026-08-30T14:45:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
     "id": "runcycles/cycles-openai-agents",
     "language": "Python",
@@ -171,24 +225,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57580,
-    "updated_at": "2026-08-30T14:40:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 47,
-    "updated_at": "2026-08-30T14:38:20Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
     "id": "AYUSHSAINI9876/Pharos",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T14:39:29Z",
+    "updated_at": "2026-08-30T14:55:14Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T13:32:45Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
-    "id": "IlaKhan17/proofstep",
-    "language": "Python",
-    "name": "IlaKhan17/proofstep",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:31:37Z",
-    "url": "https://github.com/IlaKhan17/proofstep"
   },
   {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21684,
-    "updated_at": "2026-08-30T14:42:44Z",
+    "updated_at": "2026-08-30T14:52:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-30T12:07:53Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-08-30T11:49:31Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:47:03Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:46:13Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
