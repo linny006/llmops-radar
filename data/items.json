@@ -1,21 +1,21 @@
 [
   {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:14:04Z",
-    "url": "https://github.com/mystxcal/flourite"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T12:12:07Z",
+    "updated_at": "2026-08-30T12:27:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:27:02Z",
+    "url": "https://github.com/mystxcal/flourite"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,8 +23,62 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27736,
-    "updated_at": "2026-08-30T12:11:39Z",
+    "updated_at": "2026-08-30T12:24:53Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-30T12:24:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 100,
+    "updated_at": "2026-08-30T12:22:44Z",
+    "url": "https://github.com/togettoyou/zke"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21683,
+    "updated_at": "2026-08-30T12:25:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Machine-readable price, capability and breaking-change data for every frontier LLM. Not a leaderboard \u2014 it answers \"what",
+    "id": "mohitagw15856/modeldiff",
+    "language": "JavaScript",
+    "name": "mohitagw15856/modeldiff",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:18:29Z",
+    "url": "https://github.com/mohitagw15856/modeldiff"
+  },
+  {
+    "description": "Measure how long LLM batch jobs actually wait \u2014 OpenAI, Anthropic, Gemini. Clients for Python, TypeScript, Go, Rust, Rub",
+    "id": "batchwatch/client",
+    "language": "Python",
+    "name": "batchwatch/client",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:17:18Z",
+    "url": "https://github.com/batchwatch/client"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 3,
-    "updated_at": "2026-08-30T12:14:03Z",
+    "updated_at": "2026-08-30T12:15:45Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T12:06:25Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T12:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33924,
-    "updated_at": "2026-08-30T11:26:55Z",
+    "updated_at": "2026-08-30T12:30:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T12:11:18Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 100,
-    "updated_at": "2026-08-30T11:21:10Z",
-    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -412,41 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-30T10:39:18Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-08-30T10:38:55Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-08-30T10:25:14Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-08-30T10:54:49Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57576,
-    "updated_at": "2026-08-30T10:21:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
