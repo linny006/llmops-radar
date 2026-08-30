@@ -1,5 +1,77 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-30T16:44:35Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 65,
+    "updated_at": "2026-08-30T16:44:51Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:44:05Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:44:44Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:37:41Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-30T16:33:20Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-30T16:30:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
   {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:24:02Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
     "description": "",
     "id": "the-ai-merge/.github",
     "language": "\u2014",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:22:50Z",
     "url": "https://github.com/the-ai-merge/.github"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:25:14Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-30T16:24:05Z",
+    "updated_at": "2026-08-30T16:31:55Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T16:15:43Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-30T16:10:00Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -135,15 +171,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-30T16:24:07Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T15:53:51Z",
+    "updated_at": "2026-08-30T16:43:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33930,
-    "updated_at": "2026-08-30T16:24:20Z",
+    "updated_at": "2026-08-30T16:31:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -211,7 +238,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3810,
+    "stars": 3815,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -256,7 +283,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27737,
+    "stars": 27738,
     "updated_at": "2026-08-30T15:20:27Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -292,7 +319,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21688,
+    "stars": 21689,
     "updated_at": "2026-08-30T14:52:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "everstacklabs/everstack",
     "stars": 0,
-    "updated_at": "2026-08-30T14:48:37Z",
+    "updated_at": "2026-08-30T16:43:04Z",
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 97,
     "updated_at": "2026-08-30T13:52:32Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-30T16:16:38Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
-    "id": "AYUSHSAINI9876/Pharos",
-    "language": "Python",
-    "name": "AYUSHSAINI9876/Pharos",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:42:51Z",
-    "url": "https://github.com/AYUSHSAINI9876/Pharos"
-  },
-  {
-    "description": "Measure how long LLM batch jobs actually wait \u2014 OpenAI, Anthropic, Gemini. Clients for Python, TypeScript, Go, Rust, Rub",
-    "id": "batchwatch/client",
-    "language": "Python",
-    "name": "batchwatch/client",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:38:04Z",
-    "url": "https://github.com/batchwatch/client"
   }
 ]
