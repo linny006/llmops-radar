@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 3,
-    "updated_at": "2026-08-30T10:14:26Z",
+    "updated_at": "2026-08-30T10:27:18Z",
     "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-08-30T10:25:14Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-08-30T10:26:32Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57577,
+    "updated_at": "2026-08-30T10:21:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 100,
+    "updated_at": "2026-08-30T10:17:28Z",
+    "url": "https://github.com/togettoyou/zke"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T10:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
@@ -43,15 +88,6 @@
     "stars": 22,
     "updated_at": "2026-08-30T10:00:54Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T10:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27733,
-    "updated_at": "2026-08-30T10:13:14Z",
+    "updated_at": "2026-08-30T10:22:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -166,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7652,
+    "stars": 7653,
     "updated_at": "2026-08-30T08:51:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -234,15 +270,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57576,
-    "updated_at": "2026-08-30T07:57:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T07:52:40Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 100,
-    "updated_at": "2026-08-30T07:50:16Z",
-    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "Crossplane provider for LiteLLM \u2014 manage LiteLLM proxy models, credentials, keys, teams, budgets and guardrails as Kuber",
@@ -324,15 +342,6 @@
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-08-30T06:35:23Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
     "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
     "id": "matuteiglesias/kb-contracts",
     "language": "TypeScript",
@@ -391,7 +400,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21681,
+    "stars": 21682,
     "updated_at": "2026-08-30T06:07:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-30T05:07:12Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:04:25Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
   }
 ]
