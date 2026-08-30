@@ -1,12 +1,39 @@
 [
   {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:12:30Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:10:40Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
     "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
     "name": "nRouterAI/nrouter-sdk",
     "stars": 0,
-    "updated_at": "2026-08-30T17:59:32Z",
+    "updated_at": "2026-08-30T18:01:01Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -41,17 +68,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T17:45:27Z",
+    "updated_at": "2026-08-30T18:06:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
@@ -67,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57596,
+    "stars": 57598,
     "updated_at": "2026-08-30T17:38:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:44:05Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:37:41Z",
-    "url": "https://github.com/latere-ai/llmops"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -319,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3840,
+    "stars": 3844,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24676,
-    "updated_at": "2026-08-30T17:16:47Z",
+    "updated_at": "2026-08-30T18:07:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-30T14:26:47Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:24:08Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
   }
 ]
