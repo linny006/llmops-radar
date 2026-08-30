@@ -1,21 +1,57 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57603,
-    "updated_at": "2026-08-30T20:42:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T20:41:54Z",
+    "updated_at": "2026-08-30T20:55:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The LLMAgentOps Toolkit is a repository that provides a foundational structure for building LLM Agent-based applications",
+    "id": "agentforge9/llm-op-tool-kit",
+    "language": "Python",
+    "name": "agentforge9/llm-op-tool-kit",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:54:17Z",
+    "url": "https://github.com/agentforge9/llm-op-tool-kit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33938,
+    "updated_at": "2026-08-30T20:50:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:48:14Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T20:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57603,
+    "updated_at": "2026-08-30T20:52:44Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T20:35:07Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T20:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-30T18:52:48Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-08-30T18:51:33Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
-    "id": "AYUSHSAINI9876/Pharos",
-    "language": "Python",
-    "name": "AYUSHSAINI9876/Pharos",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:38:30Z",
-    "url": "https://github.com/AYUSHSAINI9876/Pharos"
-  },
-  {
-    "description": "LLM eval framework with first-class token-cost tracking \u2014 did your prompt change save money without losing quality?",
-    "id": "mahAnuj/prompteval",
-    "language": "Python",
-    "name": "mahAnuj/prompteval",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:32:59Z",
-    "url": "https://github.com/mahAnuj/prompteval"
   }
 ]
