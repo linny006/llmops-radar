@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 03:30 UTC
+> ⏰ Last updated: 2026-08-30 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-30 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 1 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-30 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 32 | Go | 2026-08-30 | Create your Agentic AIs. |
-| 3 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-30 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24665 | TypeScript | 2026-08-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [asale-ai/llm-verify](https://github.com/asale-ai/llm-verify) | 2 | Rust | 2026-08-30 | Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and  |
-| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-30 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-08-30 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 9 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-08-30 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
-| 10 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-30 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 11 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-08-30 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
-| 12 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-30 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
-| 13 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-30 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
-| 14 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-30 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57554 | Python | 2026-08-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 16 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-08-30 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 17 | [kirklasalle/PrismRefraction](https://github.com/kirklasalle/PrismRefraction) | 3 | TypeScript | 2026-08-30 | The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure  |
-| 18 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-30 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
-| 19 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-30 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 20 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-30 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
-| 21 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-08-30 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
-| 22 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-08-30 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
-| 23 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-08-30 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
-| 24 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-08-30 | Enterprise AI Router and Governance System — the AI that governs all AIs |
-| 25 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-30 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
-| 26 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-30 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 27 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-08-30 | Opik — independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation |
-| 28 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-30 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
-| 29 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 2 | Go | 2026-08-30 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 30 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-08-30 | Log10 — independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro |
-| 31 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-08-30 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 32 | [sahil7359/DataChat](https://github.com/sahil7359/DataChat) | 0 | Python | 2026-08-30 | Agentic NL-to-SQL analytics on LangGraph. RAG-to-schema grounding, AST SQL guardrail, read-only execution, MLflow tracin |
-| 33 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-08-30 | Evidently AI — independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc |
-| 34 | [ALLMA-dev/allma-core](https://github.com/ALLMA-dev/allma-core) | 2 | TypeScript | 2026-08-30 | Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda — build, version & time-travel-deb |
-| 35 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-08-30 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
-| 36 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-08-30 | GitHub org config, CI workflows, and community health files for Cycles |
-| 37 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-08-30 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
-| 38 | [api-evangelist/braintrust-data](https://github.com/api-evangelist/braintrust-data) | 0 | — | 2026-08-30 | Braintrust — independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is  |
-| 39 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-30 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 40 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 41 | [api-evangelist/agenta](https://github.com/api-evangelist/agenta) | 0 | — | 2026-08-30 | Agenta — independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla |
-| 42 | [SumanthM20/doc-healer-action](https://github.com/SumanthM20/doc-healer-action) | 0 | Python | 2026-08-30 | Self-healing technical documentation GitHub Action that parses AST code changes, verifies doc staleness with LLMs, and a |
-| 43 | [hogeheer499-commits/evidenceflow-ai](https://github.com/hogeheer499-commits/evidenceflow-ai) | 0 | Python | 2026-08-30 | Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails and evals, plus pre |
-| 44 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-30 | ThakiCloud Tech Blog |
-| 45 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-30 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
-| 46 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27731 | Python | 2026-08-30 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 47 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-08-30 | Open protocol for runtime budget and action authority over AI agents |
-| 48 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1320 | Cuda | 2026-08-30 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 49 | [alebgl77/grafana-llmops-forge](https://github.com/alebgl77/grafana-llmops-forge) | 1 | Python | 2026-08-29 | Point it at any Grafana → full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act — generated, deployed, vis |
-| 50 | [voly-codes/voly](https://github.com/voly-codes/voly) | 16 | Python | 2026-08-29 | Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and  |
+| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3518 | TypeScript | 2026-08-30 | The platform for LLM evaluations and AI agent testing |
+| 4 | [saghosh8/AI-For-DevOps](https://github.com/saghosh8/AI-For-DevOps) | 4 | — | 2026-08-30 | A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24666 | TypeScript | 2026-08-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-30 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-08-30 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57556 | Python | 2026-08-30 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 9 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-30 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 10 | [asale-ai/llm-verify](https://github.com/asale-ai/llm-verify) | 2 | Rust | 2026-08-30 | Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and  |
+| 11 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-08-30 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 12 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-08-30 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 13 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-08-30 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
+| 14 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-30 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 15 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-08-30 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
+| 16 | [Bobcatsfan33/AI-Security-Platform](https://github.com/Bobcatsfan33/AI-Security-Platform) | 2 | Python | 2026-08-30 | Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass |
+| 17 | [venkathub/dosadash](https://github.com/venkathub/dosadash) | 0 | Python | 2026-08-30 | AI-native South Indian cloud kitchen platform — production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting,  |
+| 18 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-30 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 19 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-08-30 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
+| 20 | [kirklasalle/PrismRefraction](https://github.com/kirklasalle/PrismRefraction) | 3 | TypeScript | 2026-08-30 | The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure  |
+| 21 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-08-30 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
+| 22 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-30 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 23 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-08-30 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
+| 24 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-08-30 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
+| 25 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-08-30 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
+| 26 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-08-30 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
+| 27 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-08-30 | Enterprise AI Router and Governance System — the AI that governs all AIs |
+| 28 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-30 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
+| 29 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-08-30 | Opik — independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation |
+| 30 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8449 | Rust | 2026-08-30 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 31 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-08-30 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
+| 32 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 2 | Go | 2026-08-30 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 33 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-08-30 | Log10 — independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro |
+| 34 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-08-30 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
+| 35 | [sahil7359/DataChat](https://github.com/sahil7359/DataChat) | 0 | Python | 2026-08-30 | Agentic NL-to-SQL analytics on LangGraph. RAG-to-schema grounding, AST SQL guardrail, read-only execution, MLflow tracin |
+| 36 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-08-30 | Evidently AI — independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc |
+| 37 | [ALLMA-dev/allma-core](https://github.com/ALLMA-dev/allma-core) | 2 | TypeScript | 2026-08-30 | Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda — build, version & time-travel-deb |
+| 38 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-08-30 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
+| 39 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-08-30 | GitHub org config, CI workflows, and community health files for Cycles |
+| 40 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-08-30 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
+| 41 | [api-evangelist/braintrust-data](https://github.com/api-evangelist/braintrust-data) | 0 | — | 2026-08-30 | Braintrust — independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is  |
+| 42 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-30 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 43 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 44 | [api-evangelist/agenta](https://github.com/api-evangelist/agenta) | 0 | — | 2026-08-30 | Agenta — independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla |
+| 45 | [SumanthM20/doc-healer-action](https://github.com/SumanthM20/doc-healer-action) | 0 | Python | 2026-08-30 | Self-healing technical documentation GitHub Action that parses AST code changes, verifies doc staleness with LLMs, and a |
+| 46 | [hogeheer499-commits/evidenceflow-ai](https://github.com/hogeheer499-commits/evidenceflow-ai) | 0 | Python | 2026-08-30 | Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails and evals, plus pre |
+| 47 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-30 | ThakiCloud Tech Blog |
+| 48 | [brunovicco/controlled-autonomy-lab](https://github.com/brunovicco/controlled-autonomy-lab) | 0 | Python | 2026-08-30 | Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo |
+| 49 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27731 | Python | 2026-08-30 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 50 | [runcycles/cycles-protocol](https://github.com/runcycles/cycles-protocol) | 3 | Python | 2026-08-30 | Open protocol for runtime budget and action authority over AI agents |
 <!-- TRACKER_TABLE_END -->
 
 ---
