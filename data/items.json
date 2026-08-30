@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T08:29:30Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 6,
+    "updated_at": "2026-08-30T08:25:59Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
+  },
+  {
+    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
+    "id": "runcycles/langchain-runcycles",
+    "language": "Python",
+    "name": "runcycles/langchain-runcycles",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:24:35Z",
+    "url": "https://github.com/runcycles/langchain-runcycles"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-30T08:23:54Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 96,
+    "updated_at": "2026-08-30T08:23:29Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 2,
+    "updated_at": "2026-08-30T08:29:05Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-30T08:19:33Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T08:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -18,20 +90,11 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T08:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57572,
+    "stars": 57573,
     "updated_at": "2026-08-30T07:57:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27734,
-    "updated_at": "2026-08-30T07:55:27Z",
+    "updated_at": "2026-08-30T08:28:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "xuerp/ai-knowledge-explorer",
     "stars": 0,
-    "updated_at": "2026-08-30T06:39:02Z",
+    "updated_at": "2026-08-30T08:25:04Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T04:44:17Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8450,
-    "updated_at": "2026-08-30T04:43:55Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:43:32Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:40:12Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:39:24Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:39:22Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:39:20Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:38:59Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
