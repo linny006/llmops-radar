@@ -1,10 +1,46 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-08-30T15:32:16Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:31:27Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33930,
+    "updated_at": "2026-08-30T15:30:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T15:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3799,
+    "stars": 3802,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -27,15 +63,6 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33930,
-    "updated_at": "2026-08-30T15:26:48Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
     "id": "chyinan/AegisRAG",
     "language": "Python",
@@ -49,18 +76,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27736,
+    "stars": 27737,
     "updated_at": "2026-08-30T15:20:27Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:19:48Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T15:14:49Z",
+    "updated_at": "2026-08-30T15:44:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-30T15:07:56Z",
+    "updated_at": "2026-08-30T15:38:11Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T15:06:17Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-08-30T15:04:39Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -157,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24675,
+    "stars": 24676,
     "updated_at": "2026-08-30T14:50:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 47,
-    "updated_at": "2026-08-30T15:29:43Z",
+    "updated_at": "2026-08-30T15:31:19Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -193,8 +202,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57586,
-    "updated_at": "2026-08-30T14:40:03Z",
+    "stars": 57587,
+    "updated_at": "2026-08-30T15:37:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T15:11:51Z",
+    "updated_at": "2026-08-30T15:36:52Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 35,
     "updated_at": "2026-08-30T12:57:47Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 156,
-    "updated_at": "2026-08-30T12:43:00Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
