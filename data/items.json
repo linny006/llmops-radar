@@ -1,12 +1,48 @@
 [
   {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:59:40Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
     "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
     "id": "kleberbernardo/rag_agent",
     "language": "Python",
     "name": "kleberbernardo/rag_agent",
     "stars": 1,
-    "updated_at": "2026-08-30T21:42:46Z",
+    "updated_at": "2026-08-30T21:59:16Z",
     "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:57:03Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:56:48Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T21:55:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -14,17 +50,26 @@
     "language": "Go",
     "name": "gagarin-cloud/gg",
     "stars": 1,
-    "updated_at": "2026-08-30T21:43:20Z",
+    "updated_at": "2026-08-30T21:53:48Z",
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
-    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
-    "id": "billbz99/finguard-orchestrator",
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
     "language": "Python",
-    "name": "billbz99/finguard-orchestrator",
+    "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-30T21:38:26Z",
-    "url": "https://github.com/billbz99/finguard-orchestrator"
+    "updated_at": "2026-08-30T21:50:34Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-30T21:46:31Z",
+    "url": "https://github.com/latere-ai/llmops"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T21:35:14Z",
+    "updated_at": "2026-08-30T21:45:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-30T21:43:03Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
     "description": "A production-inspired C# AI workflow demonstrating deterministic human approval gates, role-based access control, expiri",
     "id": "ElliotOne/nl-human-approval-gates-high-risk-actions",
     "language": "C#",
@@ -88,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T21:20:32Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T21:17:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-30T21:11:18Z",
-    "url": "https://github.com/latere-ai/llmops"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -148,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57610,
+    "stars": 57611,
     "updated_at": "2026-08-30T20:52:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-30T21:03:56Z",
+    "updated_at": "2026-08-30T21:56:47Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-30T21:39:02Z",
+    "updated_at": "2026-08-30T21:53:15Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -265,7 +283,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29957,
+    "stars": 29960,
     "updated_at": "2026-08-30T19:43:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -383,7 +401,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-30T19:25:11Z",
+    "updated_at": "2026-08-30T21:55:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:22:23Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3517,
-    "updated_at": "2026-08-30T21:40:40Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:20:26Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
