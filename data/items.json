@@ -1,12 +1,12 @@
 [
   {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:29:47Z",
-    "url": "https://github.com/api-evangelist/zenml"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T02:43:49Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -14,17 +14,26 @@
     "language": "Python",
     "name": "Bobcatsfan33/AI-Security-Platform",
     "stars": 2,
-    "updated_at": "2026-08-30T02:27:48Z",
+    "updated_at": "2026-08-30T02:43:56Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
     "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-30T02:25:34Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-30T02:41:25Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
+    "id": "venkathub/dosadash",
+    "language": "Python",
+    "name": "venkathub/dosadash",
+    "stars": 0,
+    "updated_at": "2026-08-30T02:40:32Z",
+    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -32,8 +41,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T02:25:06Z",
+    "updated_at": "2026-08-30T02:39:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-30T02:39:06Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -41,8 +59,26 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T02:20:08Z",
+    "updated_at": "2026-08-30T02:38:36Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T02:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-08-30T02:29:47Z",
+    "url": "https://github.com/api-evangelist/zenml"
   },
   {
     "description": "The governance-native Agent OS. Cryptographically sealed 10-Law security, tri-model cognitive orchestration, and secure ",
@@ -63,15 +99,6 @@
     "url": "https://github.com/api-evangelist/tensorzero"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T02:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T02:08:51Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "AI-native South Indian cloud kitchen platform \u2014 production RAG, LangGraph agents, MCP, evals-in-CI, demand forecasting, ",
-    "id": "venkathub/dosadash",
-    "language": "Python",
-    "name": "venkathub/dosadash",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:06:00Z",
-    "url": "https://github.com/venkathub/dosadash"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-30T01:55:38Z",
+    "updated_at": "2026-08-30T02:40:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-30T01:17:42Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57553,
-    "updated_at": "2026-08-30T02:15:27Z",
+    "updated_at": "2026-08-30T02:38:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1320,
-    "updated_at": "2026-08-30T02:22:08Z",
+    "updated_at": "2026-08-30T02:40:34Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:02:33Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:02:09Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   }
 ]
