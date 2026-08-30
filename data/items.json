@@ -1,5 +1,86 @@
 [
   {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T11:59:59Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-08-30T11:59:29Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T11:58:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-08-30T11:49:31Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 1,
+    "updated_at": "2026-08-30T11:47:03Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
+    "id": "Frayagronomist166/LiteRT.js-Mocap",
+    "language": "\u2014",
+    "name": "Frayagronomist166/LiteRT.js-Mocap",
+    "stars": 1,
+    "updated_at": "2026-08-30T11:46:13Z",
+    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
+  },
+  {
+    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
+    "id": "wordmiddling872/AI_Email_Generator",
+    "language": "Python",
+    "name": "wordmiddling872/AI_Email_Generator",
+    "stars": 0,
+    "updated_at": "2026-08-30T11:45:45Z",
+    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
+    "id": "Soilbuilding-libraryroutine78/Gozar",
+    "language": "Python",
+    "name": "Soilbuilding-libraryroutine78/Gozar",
+    "stars": 0,
+    "updated_at": "2026-08-30T11:45:41Z",
+    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T11:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -25,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T11:42:20Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T11:41:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:41:19Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -94,8 +157,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27734,
-    "updated_at": "2026-08-30T11:35:34Z",
+    "stars": 27735,
+    "updated_at": "2026-08-30T11:57:12Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-30T11:31:43Z",
+    "updated_at": "2026-08-30T11:59:01Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T11:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -180,13 +234,13 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-08-30T11:44:51Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33923,
+    "updated_at": "2026-08-30T11:26:55Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-30T11:43:15Z",
+    "updated_at": "2026-08-30T11:51:50Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/runcycles/cycles-client-python"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33922,
-    "updated_at": "2026-08-30T11:26:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-30T10:00:54Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T09:59:40Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3517,
-    "updated_at": "2026-08-30T11:41:28Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3210,
-    "updated_at": "2026-08-30T09:24:45Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
-    "id": "Clawdlinux/clawdlinux-website",
-    "language": "JavaScript",
-    "name": "Clawdlinux/clawdlinux-website",
-    "stars": 0,
-    "updated_at": "2026-08-30T09:20:29Z",
-    "url": "https://github.com/Clawdlinux/clawdlinux-website"
-  },
-  {
-    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
-    "id": "xuerp/ai-knowledge-explorer",
-    "language": "TypeScript",
-    "name": "xuerp/ai-knowledge-explorer",
-    "stars": 0,
-    "updated_at": "2026-08-30T09:18:27Z",
-    "url": "https://github.com/xuerp/ai-knowledge-explorer"
   }
 ]
