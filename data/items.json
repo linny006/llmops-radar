@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
+    "id": "Helicone/helicone",
+    "language": "TypeScript",
+    "name": "Helicone/helicone",
+    "stars": 6115,
+    "updated_at": "2026-08-30T17:41:20Z",
+    "url": "https://github.com/Helicone/helicone"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57594,
+    "updated_at": "2026-08-30T17:38:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-08-30T17:31:25Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -16,24 +52,6 @@
     "stars": 33932,
     "updated_at": "2026-08-30T17:24:03Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57593,
-    "updated_at": "2026-08-30T17:17:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -97,15 +115,6 @@
     "stars": 455,
     "updated_at": "2026-08-30T17:02:11Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-08-30T16:49:14Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -292,7 +301,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3833,
+    "stars": 3836,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -392,7 +401,7 @@
     "language": "Go",
     "name": "everstacklabs/everstack",
     "stars": 0,
-    "updated_at": "2026-08-30T16:53:14Z",
+    "updated_at": "2026-08-30T17:32:48Z",
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:22:39Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:16:18Z",
-    "url": "https://github.com/api-evangelist/agenta"
   }
 ]
