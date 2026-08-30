@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-30T18:25:32Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:41:10Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,8 +14,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T18:22:29Z",
+    "updated_at": "2026-08-30T18:40:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
+    "id": "AYUSHSAINI9876/Pharos",
+    "language": "Python",
+    "name": "AYUSHSAINI9876/Pharos",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:38:30Z",
+    "url": "https://github.com/AYUSHSAINI9876/Pharos"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T18:35:39Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:34:12Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "LLM eval framework with first-class token-cost tracking \u2014 did your prompt change save money without losing quality?",
+    "id": "mahAnuj/prompteval",
+    "language": "Python",
+    "name": "mahAnuj/prompteval",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:32:59Z",
+    "url": "https://github.com/mahAnuj/prompteval"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
@@ -27,24 +72,6 @@
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:12:30Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T18:10:40Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:01:01Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T16:15:43Z",
+    "updated_at": "2026-08-30T18:41:36Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -346,7 +364,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3847,
+    "stars": 3852,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-30T17:55:05Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
-    "id": "IlaKhan17/proofstep",
-    "language": "Python",
-    "name": "IlaKhan17/proofstep",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:48:12Z",
-    "url": "https://github.com/IlaKhan17/proofstep"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:34:04Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   }
 ]
