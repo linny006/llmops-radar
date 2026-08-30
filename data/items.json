@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T18:25:32Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T18:22:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:17:47Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
     "id": "latere-ai/llmops",
     "language": "Go",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T18:01:01Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -63,15 +90,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T18:06:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
     "id": "Helicone/helicone",
     "language": "TypeScript",
@@ -85,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57598,
+    "stars": 57599,
     "updated_at": "2026-08-30T17:38:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-30T16:30:54Z",
+    "updated_at": "2026-08-30T18:23:44Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-30T16:17:11Z",
+    "updated_at": "2026-08-30T18:15:57Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -328,7 +346,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 3844,
+    "stars": 3847,
     "updated_at": "2026-08-30T15:28:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -391,7 +409,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21692,
+    "stars": 21693,
     "updated_at": "2026-08-30T14:52:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
-    "id": "everstacklabs/everstack",
-    "language": "Go",
-    "name": "everstacklabs/everstack",
-    "stars": 0,
-    "updated_at": "2026-08-30T17:32:48Z",
-    "url": "https://github.com/everstacklabs/everstack"
-  },
-  {
     "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
     "id": "IlaKhan17/proofstep",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:34:04Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 7,
-    "updated_at": "2026-08-30T14:26:47Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
   }
 ]
