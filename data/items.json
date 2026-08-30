@@ -1,11 +1,83 @@
 [
   {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 6,
+    "updated_at": "2026-08-30T14:26:47Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24674,
+    "updated_at": "2026-08-30T14:24:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:24:08Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:22:39Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27737,
+    "updated_at": "2026-08-30T14:17:31Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:16:18Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:24:40Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 15,
-    "updated_at": "2026-08-30T14:13:25Z",
+    "updated_at": "2026-08-30T14:20:07Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-30T14:10:29Z",
+    "updated_at": "2026-08-30T14:29:28Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -40,27 +112,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33927,
+    "stars": 33928,
     "updated_at": "2026-08-30T14:03:26Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27737,
-    "updated_at": "2026-08-30T14:10:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:15:24Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -70,24 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T14:01:33Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T13:58:27Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -126,6 +162,15 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57580,
+    "updated_at": "2026-08-30T13:49:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
     "id": "hyeonsangjeon/when-reasoning-pays-off",
     "language": "Python",
@@ -135,21 +180,12 @@
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57578,
-    "updated_at": "2026-08-30T13:49:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 47,
-    "updated_at": "2026-08-30T13:44:12Z",
+    "updated_at": "2026-08-30T14:24:48Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21684,
-    "updated_at": "2026-08-30T13:19:18Z",
+    "updated_at": "2026-08-30T14:28:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:46:13Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:45:45Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:45:41Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2360,
-    "updated_at": "2026-08-30T11:44:10Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:44:10Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   }
 ]
