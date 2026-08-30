@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57552,
-    "updated_at": "2026-08-30T00:31:13Z",
+    "updated_at": "2026-08-30T00:45:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-30T00:44:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Approval-gated, observable AI evidence triage with local inference, grounded citations, audit trails and evals, plus pre",
+    "id": "hogeheer499-commits/evidenceflow-ai",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T00:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "hogeheer499-commits/evidenceflow-ai",
+    "stars": 0,
+    "updated_at": "2026-08-30T00:44:00Z",
+    "url": "https://github.com/hogeheer499-commits/evidenceflow-ai"
   },
   {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
@@ -23,8 +32,44 @@
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-08-30T00:30:13Z",
+    "updated_at": "2026-08-30T00:44:05Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-30T00:42:36Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-30T00:35:26Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-30T00:32:06Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T00:31:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T00:26:30Z",
+    "updated_at": "2026-08-30T00:44:32Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -54,31 +99,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-30T00:21:22Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 2,
-    "updated_at": "2026-08-30T00:22:45Z",
+    "updated_at": "2026-08-30T00:32:00Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T00:13:43Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -108,15 +135,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-30T00:00:40Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T23:46:20Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-30T00:31:01Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Control plane for AI coding agents: route tasks, reduce token spend, run multi-agent workflows, fallback executors, and ",
@@ -439,14 +448,5 @@
     "stars": 25,
     "updated_at": "2026-08-29T23:49:36Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:29:02Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
