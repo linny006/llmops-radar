@@ -1,11 +1,65 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 3799,
+    "updated_at": "2026-08-30T15:28:51Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:28:35Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:27:15Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33930,
+    "updated_at": "2026-08-30T15:26:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 3,
+    "updated_at": "2026-08-30T15:21:51Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27736,
+    "updated_at": "2026-08-30T15:20:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T15:15:23Z",
+    "updated_at": "2026-08-30T15:19:48Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:11:42Z",
     "url": "https://github.com/Harshalsharma05/switchyard"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 3794,
-    "updated_at": "2026-08-30T15:08:05Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:00:44Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33930,
-    "updated_at": "2026-08-30T15:18:11Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 47,
-    "updated_at": "2026-08-30T15:19:28Z",
+    "updated_at": "2026-08-30T15:29:43Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -157,7 +193,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57585,
+    "stars": 57586,
     "updated_at": "2026-08-30T14:40:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -169,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:34:04Z",
     "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7658,
+    "updated_at": "2026-08-30T15:23:07Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:22:39Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27736,
-    "updated_at": "2026-08-30T14:48:49Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -412,41 +448,5 @@
     "stars": 156,
     "updated_at": "2026-08-30T12:43:00Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "\ud83d\ude80 24-week AI Engineering journey with Python, LLM APIs, MCP servers & production patterns. Streaming clients, multi-prov",
-    "id": "skourav527/AI-for-architect",
-    "language": "Python",
-    "name": "skourav527/AI-for-architect",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:41:14Z",
-    "url": "https://github.com/skourav527/AI-for-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:33:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:27:02Z",
-    "url": "https://github.com/mystxcal/flourite"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-30T12:24:27Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
