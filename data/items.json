@@ -1,12 +1,48 @@
 [
   {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 15,
+    "updated_at": "2026-08-30T10:39:18Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
     "id": "GetSHIM/shim",
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 3,
-    "updated_at": "2026-08-30T10:27:18Z",
+    "updated_at": "2026-08-30T10:44:30Z",
     "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-08-30T10:38:55Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T10:38:12Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T10:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -27,6 +63,15 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27734,
+    "updated_at": "2026-08-30T10:22:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -43,24 +88,6 @@
     "stars": 100,
     "updated_at": "2026-08-30T10:17:28Z",
     "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T10:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-08-30T10:05:16Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
     "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-30T10:09:52Z",
+    "updated_at": "2026-08-30T10:37:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,17 +149,8 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-30T09:42:28Z",
+    "updated_at": "2026-08-30T10:40:46Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27733,
-    "updated_at": "2026-08-30T10:22:47Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -202,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7653,
+    "stars": 7654,
     "updated_at": "2026-08-30T08:51:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-30T05:36:19Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-30T05:12:44Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-30T05:07:12Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
