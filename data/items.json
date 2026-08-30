@@ -1,12 +1,30 @@
 [
   {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 100,
-    "updated_at": "2026-08-30T13:11:50Z",
-    "url": "https://github.com/togettoyou/zke"
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-30T13:28:53Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "Prompts we run in production and a curated reading list for building with LLMs - 35 vetted resources across foundations,",
+    "id": "MTechZilla/llm-toolkit",
+    "language": "\u2014",
+    "name": "MTechZilla/llm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:28:16Z",
+    "url": "https://github.com/MTechZilla/llm-toolkit"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-30T13:29:01Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "alebgl77/grafana-llmops-forge",
     "stars": 1,
-    "updated_at": "2026-08-30T13:04:35Z",
+    "updated_at": "2026-08-30T13:24:09Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33926,
+    "updated_at": "2026-08-30T13:28:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T13:17:36Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Reference lab comparing LLM workflows and bounded agents through reproducible multi-provider benchmarks, grounding, epis",
+    "id": "brunovicco/controlled-autonomy-lab",
+    "language": "Python",
+    "name": "brunovicco/controlled-autonomy-lab",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:17:06Z",
+    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T13:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 100,
+    "updated_at": "2026-08-30T13:11:50Z",
+    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -27,15 +90,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
     "id": "clearml/clearml",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 6846,
     "updated_at": "2026-08-30T12:53:19Z",
     "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "Reference lab comparing LLM workflows and bounded agents across increasing levels of autonomy, with multi-provider suppo",
-    "id": "brunovicco/controlled-autonomy-lab",
-    "language": "Python",
-    "name": "brunovicco/controlled-autonomy-lab",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:52:25Z",
-    "url": "https://github.com/brunovicco/controlled-autonomy-lab"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33925,
-    "updated_at": "2026-08-30T12:56:40Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57576,
-    "updated_at": "2026-08-30T13:11:46Z",
+    "updated_at": "2026-08-30T13:28:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,6 +142,15 @@
     "stars": 156,
     "updated_at": "2026-08-30T12:43:00Z",
     "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21684,
+    "updated_at": "2026-08-30T13:19:18Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 24-week AI Engineering journey with Python, LLM APIs, MCP servers & production patterns. Streaming clients, multi-prov",
@@ -153,15 +198,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21683,
-    "updated_at": "2026-08-30T12:42:05Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Machine-readable price, capability and breaking-change data for every frontier LLM. Not a leaderboard \u2014 it answers \"what",
     "id": "mohitagw15856/modeldiff",
     "language": "JavaScript",
@@ -205,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T12:06:25Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-08-30T13:08:03Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:22:13Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:21:53Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-08-30T12:41:30Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:20:44Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
   }
 ]
