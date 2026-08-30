@@ -1,5 +1,95 @@
 [
   {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:29:39Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-30T01:26:39Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-30T01:23:02Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
+    "id": "Bobcatsfan33/AI-Security-Platform",
+    "language": "Python",
+    "name": "Bobcatsfan33/AI-Security-Platform",
+    "stars": 2,
+    "updated_at": "2026-08-30T01:30:16Z",
+    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:21:03Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 2,
+    "updated_at": "2026-08-30T01:26:50Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T01:17:42Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-08-30T01:17:35Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:16:05Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T01:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GitHub org config, CI workflows, and community health files for Cycles",
     "id": "runcycles/.github",
     "language": "Shell",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57553,
-    "updated_at": "2026-08-30T01:12:01Z",
+    "updated_at": "2026-08-30T01:28:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,30 +117,12 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-30T01:08:06Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:12:16Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-08-30T01:06:46Z",
+    "updated_at": "2026-08-30T01:22:20Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -81,15 +153,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T01:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T00:59:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-30T00:57:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -171,15 +225,6 @@
     "url": "https://github.com/brunovicco/controlled-autonomy-lab"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-08-30T01:00:55Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -187,15 +232,6 @@
     "stars": 32,
     "updated_at": "2026-08-30T00:21:44Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 2,
-    "updated_at": "2026-08-30T01:12:05Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T21:45:13Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:44:19Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:41:47Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:39:04Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:36:54Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   }
 ]
