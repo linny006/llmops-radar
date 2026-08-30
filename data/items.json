@@ -1,5 +1,50 @@
 [
   {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-30T09:59:40Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T09:55:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3517,
+    "updated_at": "2026-08-30T09:54:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-30T09:51:49Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T09:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -9,31 +54,31 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27733,
+    "updated_at": "2026-08-30T09:42:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
     "id": "hyeonsangjeon/when-reasoning-pays-off",
     "language": "Python",
     "name": "hyeonsangjeon/when-reasoning-pays-off",
     "stars": 4,
-    "updated_at": "2026-08-30T09:36:56Z",
+    "updated_at": "2026-08-30T09:58:56Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T09:36:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T09:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3210,
+    "updated_at": "2026-08-30T09:24:45Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
@@ -103,9 +148,18 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7653,
+    "stars": 7652,
     "updated_at": "2026-08-30T08:51:45Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
+    "id": "IlaKhan17/proofstep",
+    "language": "Python",
+    "name": "IlaKhan17/proofstep",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:50:27Z",
+    "url": "https://github.com/IlaKhan17/proofstep"
   },
   {
     "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
@@ -115,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-30T08:45:11Z",
     "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-30T08:41:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
@@ -162,11 +207,20 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 114,
+    "updated_at": "2026-08-30T08:01:38Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57577,
+    "stars": 57576,
     "updated_at": "2026-08-30T07:57:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -187,15 +241,6 @@
     "stars": 100,
     "updated_at": "2026-08-30T07:50:16Z",
     "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27734,
-    "updated_at": "2026-08-30T09:42:01Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Crossplane provider for LiteLLM \u2014 manage LiteLLM proxy models, credentials, keys, teams, budgets and guardrails as Kuber",
@@ -229,7 +274,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24673,
+    "stars": 24672,
     "updated_at": "2026-08-30T06:46:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-30T09:42:17Z",
+    "updated_at": "2026-08-30T09:59:13Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -328,7 +373,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21682,
+    "stars": 21681,
     "updated_at": "2026-08-30T06:07:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T04:57:14Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
-    "id": "billbz99/finguard-orchestrator",
-    "language": "Python",
-    "name": "billbz99/finguard-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:55:54Z",
-    "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:54:26Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:53:52Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:53:26Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:52:52Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
