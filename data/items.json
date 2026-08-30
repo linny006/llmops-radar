@@ -1,5 +1,77 @@
 [
   {
+    "description": "MCP server for AI economics \u2014 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation",
+    "id": "pich/ai-economics-mcp",
+    "language": "JavaScript",
+    "name": "pich/ai-economics-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:43:15Z",
+    "url": "https://github.com/pich/ai-economics-mcp"
+  },
+  {
+    "description": "Deterministic CPU evaluation, State-Space DAG diagnostics & CI/CD regression gating for AI agents",
+    "id": "limina-ai/limina-python",
+    "language": "Python",
+    "name": "limina-ai/limina-python",
+    "stars": 1,
+    "updated_at": "2026-08-30T23:43:10Z",
+    "url": "https://github.com/limina-ai/limina-python"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-30T23:43:05Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 33,
+    "updated_at": "2026-08-30T23:41:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:40:15Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57612,
+    "updated_at": "2026-08-30T23:33:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:32:06Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T23:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
     "id": "api-evangelist/evidently",
     "language": "\u2014",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T23:20:10Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T23:15:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -81,6 +144,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33940,
+    "updated_at": "2026-08-30T23:03:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
     "id": "mykolapodpriatov/extract-regress",
     "language": "Python",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-30T22:57:33Z",
+    "updated_at": "2026-08-30T23:33:07Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-30T22:39:23Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
     "id": "billbz99/finguard-orchestrator",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 822,
     "updated_at": "2026-08-30T22:28:40Z",
     "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 33,
-    "updated_at": "2026-08-30T22:26:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -205,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T21:59:16Z",
     "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-08-30T21:57:03Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -333,24 +378,6 @@
     "url": "https://github.com/agentforge9/llm-op-tool-kit"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57613,
-    "updated_at": "2026-08-30T23:24:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33938,
-    "updated_at": "2026-08-30T23:03:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -418,35 +445,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29961,
+    "stars": 29962,
     "updated_at": "2026-08-30T19:43:54Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-30T19:39:19Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 3,
-    "updated_at": "2026-08-30T19:40:15Z",
-    "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:37:21Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
