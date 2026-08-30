@@ -1,5 +1,68 @@
 [
   {
+    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 65,
+    "updated_at": "2026-08-30T20:29:02Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:26:52Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 32,
+    "updated_at": "2026-08-30T20:25:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:22:30Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "A markdown-first governance framework for building trustworthy golden datasets with clear ownership, labeling, adjudicat",
+    "id": "ElliotOne/nl-golden-dataset-governance-ai-evaluation",
+    "language": "\u2014",
+    "name": "ElliotOne/nl-golden-dataset-governance-ai-evaluation",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:20:05Z",
+    "url": "https://github.com/ElliotOne/nl-golden-dataset-governance-ai-evaluation"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:17:45Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T20:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -9,40 +72,13 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-08-30T20:11:15Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
-    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
-    "id": "everstacklabs/everstack",
-    "language": "Go",
-    "name": "everstacklabs/everstack",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:06:50Z",
-    "url": "https://github.com/everstacklabs/everstack"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-30T20:05:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T20:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 57601,
+    "updated_at": "2026-08-30T20:11:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
@@ -86,7 +122,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-30T19:40:54Z",
+    "updated_at": "2026-08-30T20:29:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:35:57Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57600,
-    "updated_at": "2026-08-30T20:11:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -387,15 +414,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:41:10Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
     "id": "AYUSHSAINI9876/Pharos",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T17:54:31Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 455,
-    "updated_at": "2026-08-30T19:16:51Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 65,
-    "updated_at": "2026-08-30T17:49:06Z",
-    "url": "https://github.com/davidahmann/fde-guide"
   }
 ]
