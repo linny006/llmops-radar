@@ -1,12 +1,57 @@
 [
   {
+    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
+    "id": "mykolapodpriatov/extract-regress",
+    "language": "Python",
+    "name": "mykolapodpriatov/extract-regress",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:57:35Z",
+    "url": "https://github.com/mykolapodpriatov/extract-regress"
+  },
+  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
     "id": "SoraVantia/cli-modelarium",
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-30T22:45:14Z",
+    "updated_at": "2026-08-30T22:57:33Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:56:18Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-08-30T22:50:10Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:45:51Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T22:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -45,15 +90,6 @@
     "url": "https://github.com/voly-codes/voly"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T22:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
     "id": "santifer/cv-santiago",
     "language": "HTML",
@@ -61,15 +97,6 @@
     "stars": 822,
     "updated_at": "2026-08-30T22:28:40Z",
     "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:43:50Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -247,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57611,
+    "stars": 57612,
     "updated_at": "2026-08-30T20:52:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33938,
-    "updated_at": "2026-08-30T20:50:20Z",
+    "updated_at": "2026-08-30T22:51:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-08-30T22:21:09Z",
+    "updated_at": "2026-08-30T22:59:40Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-30T22:15:24Z",
+    "updated_at": "2026-08-30T22:54:11Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-30T19:32:45Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:32:38Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:30:51Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:27:15Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
