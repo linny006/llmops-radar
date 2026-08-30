@@ -1,5 +1,59 @@
 [
   {
+    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
+    "id": "hyeonsangjeon/when-reasoning-pays-off",
+    "language": "Python",
+    "name": "hyeonsangjeon/when-reasoning-pays-off",
+    "stars": 4,
+    "updated_at": "2026-08-30T08:59:00Z",
+    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 123,
+    "updated_at": "2026-08-30T08:58:48Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
+    "id": "Clawdlinux/clawdlinux-website",
+    "language": "JavaScript",
+    "name": "Clawdlinux/clawdlinux-website",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:57:23Z",
+    "url": "https://github.com/Clawdlinux/clawdlinux-website"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 3,
+    "updated_at": "2026-08-30T08:52:14Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7650,
+    "updated_at": "2026-08-30T08:51:45Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T08:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
     "id": "forger-labs-hq/researchforge",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 32,
-    "updated_at": "2026-08-30T08:40:53Z",
+    "updated_at": "2026-08-30T08:59:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 2,
-    "updated_at": "2026-08-30T08:36:47Z",
-    "url": "https://github.com/GetSHIM/shim"
   },
   {
     "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T08:32:50Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
-  },
-  {
-    "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
-    "id": "Clawdlinux/clawdlinux-website",
-    "language": "JavaScript",
-    "name": "Clawdlinux/clawdlinux-website",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:30:50Z",
-    "url": "https://github.com/Clawdlinux/clawdlinux-website"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T08:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27734,
-    "updated_at": "2026-08-30T08:28:22Z",
+    "updated_at": "2026-08-30T08:45:32Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T07:38:48Z",
     "url": "https://github.com/TheCodingSheikh/provider-litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7650,
-    "updated_at": "2026-08-30T07:19:01Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
@@ -292,7 +310,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21681,
+    "stars": 21682,
     "updated_at": "2026-08-30T06:07:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T04:47:34Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
-    "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:49:23Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "KRONOS (Knowledge Retrieval & Orchestrated Node Operating System) Builds multi-agent AI systems on a visual canvas, turn",
-    "id": "YousefHlaly/KRONOS",
-    "language": "Python",
-    "name": "YousefHlaly/KRONOS",
-    "stars": 2,
-    "updated_at": "2026-08-30T04:46:28Z",
-    "url": "https://github.com/YousefHlaly/KRONOS"
   }
 ]
