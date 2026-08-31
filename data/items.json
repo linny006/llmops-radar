@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:59:03Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-08-31T21:58:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Professional resume of Abraham Sanchez Olea \u2014 Senior Software Engineer (distributed systems, .NET, cloud, LLMOps).",
+    "id": "abraham-sanchez-olea/resume",
+    "language": "\u2014",
+    "name": "abraham-sanchez-olea/resume",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:57:55Z",
+    "url": "https://github.com/abraham-sanchez-olea/resume"
+  },
+  {
+    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 67,
+    "updated_at": "2026-08-31T21:55:38Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1189,
+    "updated_at": "2026-08-31T21:56:59Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:51:22Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:43:35Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
     "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
     "name": "nRouterAI/nrouter-sdk",
     "stars": 0,
-    "updated_at": "2026-08-31T21:43:16Z",
+    "updated_at": "2026-08-31T21:56:35Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
@@ -14,16 +86,25 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57699,
-    "updated_at": "2026-08-31T21:45:18Z",
+    "updated_at": "2026-08-31T21:59:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11268,
+    "updated_at": "2026-08-31T21:58:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33992,
-    "updated_at": "2026-08-31T21:37:51Z",
+    "stars": 33993,
+    "updated_at": "2026-08-31T21:58:54Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,17 +113,8 @@
     "language": "Go",
     "name": "nanoinfraorg/skills-server",
     "stars": 0,
-    "updated_at": "2026-08-31T21:42:42Z",
+    "updated_at": "2026-08-31T21:57:59Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T21:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-31T21:30:58Z",
+    "updated_at": "2026-08-31T21:48:33Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -72,33 +144,6 @@
     "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-08-31T21:18:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:13:18Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11267,
-    "updated_at": "2026-08-31T21:40:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-31T21:11:24Z",
+    "updated_at": "2026-08-31T21:59:53Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1881,
-    "updated_at": "2026-08-31T21:00:10Z",
+    "updated_at": "2026-08-31T21:59:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7704,
-    "updated_at": "2026-08-31T20:54:09Z",
+    "updated_at": "2026-08-31T21:52:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29981,
-    "updated_at": "2026-08-31T20:04:29Z",
+    "updated_at": "2026-08-31T21:49:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T21:01:48Z",
+    "updated_at": "2026-08-31T21:48:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T21:36:27Z",
+    "updated_at": "2026-08-31T21:51:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -337,7 +382,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24706,
+    "stars": 24707,
     "updated_at": "2026-08-31T18:55:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-31T18:12:48Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5571,
-    "updated_at": "2026-08-31T18:10:21Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-08-31T18:07:10Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21721,
-    "updated_at": "2026-08-31T18:06:51Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:59:34Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:52:30Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
