@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
+    "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
+    "id": "virinchisai/aidlc-passport",
     "language": "Python",
-    "name": "gmitt98/fieldtest",
+    "name": "virinchisai/aidlc-passport",
     "stars": 0,
-    "updated_at": "2026-08-31T18:57:43Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "updated_at": "2026-08-31T19:15:01Z",
+    "url": "https://github.com/virinchisai/aidlc-passport"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57687,
-    "updated_at": "2026-08-31T19:00:08Z",
+    "updated_at": "2026-08-31T19:13:35Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-31T19:12:10Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:11:55Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:11:15Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1163,
+    "updated_at": "2026-08-31T19:05:34Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3519,
+    "updated_at": "2026-08-31T19:11:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:06:13Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:56:57Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
+    "id": "monaal10/valuemaxx",
+    "language": "Python",
+    "name": "monaal10/valuemaxx",
+    "stars": 0,
+    "updated_at": "2026-08-31T18:55:10Z",
+    "url": "https://github.com/monaal10/valuemaxx"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-08-31T18:51:25Z",
+    "updated_at": "2026-08-31T19:14:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-31T18:58:50Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "An open source, cloud-agnostic enterprise AI platform. One entry point for OpenAI, Gemini, Anthropic and local models, w",
     "id": "sauloleite/AIPlataform",
     "language": "TypeScript",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T18:45:47Z",
     "url": "https://github.com/sauloleite/AIPlataform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T18:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -72,21 +135,12 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
-    "id": "monaal10/valuemaxx",
-    "language": "Python",
-    "name": "monaal10/valuemaxx",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:55:10Z",
-    "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-31T18:40:08Z",
+    "updated_at": "2026-08-31T19:13:17Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T18:37:03Z",
+    "updated_at": "2026-08-31T19:03:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33986,
-    "updated_at": "2026-08-31T18:34:53Z",
+    "updated_at": "2026-08-31T19:14:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11264,
-    "updated_at": "2026-08-31T18:49:57Z",
+    "updated_at": "2026-08-31T19:11:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "stdapi-ai/stdapi.ai",
     "stars": 23,
-    "updated_at": "2026-08-31T18:04:32Z",
+    "updated_at": "2026-08-31T19:05:23Z",
     "url": "https://github.com/stdapi-ai/stdapi.ai"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:12:08Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:11:53Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 47,
-    "updated_at": "2026-08-31T17:08:21Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-08-31T17:07:59Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:05:08Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:03:31Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:02:43Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
