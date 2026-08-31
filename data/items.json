@@ -1,12 +1,66 @@
 [
   {
+    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
+    "id": "Sol1986/support-triage-agent",
+    "language": "Python",
+    "name": "Sol1986/support-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:42:13Z",
+    "url": "https://github.com/Sol1986/support-triage-agent"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-31T04:40:58Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:42:54Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2734,
+    "updated_at": "2026-08-31T04:32:30Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-08-31T04:32:09Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
     "id": "Helicone/helicone",
     "language": "TypeScript",
     "name": "Helicone/helicone",
     "stars": 6116,
-    "updated_at": "2026-08-31T04:25:25Z",
+    "updated_at": "2026-08-31T04:31:23Z",
     "url": "https://github.com/Helicone/helicone"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T04:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,26 +77,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11252,
-    "updated_at": "2026-08-31T04:19:09Z",
+    "updated_at": "2026-08-31T04:32:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T04:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:26:44Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -50,7 +86,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1320,
-    "updated_at": "2026-08-31T04:27:35Z",
+    "updated_at": "2026-08-31T04:35:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-31T04:29:19Z",
+    "updated_at": "2026-08-31T04:45:12Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2734,
-    "updated_at": "2026-08-31T03:18:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24685,
-    "updated_at": "2026-08-31T02:38:07Z",
+    "updated_at": "2026-08-31T04:34:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T04:11:36Z",
+    "updated_at": "2026-08-31T04:40:19Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -247,7 +274,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57627,
+    "stars": 57628,
     "updated_at": "2026-08-31T02:25:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T02:03:20Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-08-31T02:01:16Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:01:08Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:55:56Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
