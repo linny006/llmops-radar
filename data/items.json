@@ -1,5 +1,41 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-31T00:24:59Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:22:27Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "Safe Automation Control Plane (SACP): governance + cost control for LLMs that take actions. Rules first, AI second, exec",
+    "id": "cristiandkzk/SACP",
+    "language": "TypeScript",
+    "name": "cristiandkzk/SACP",
+    "stars": 1,
+    "updated_at": "2026-08-31T00:20:23Z",
+    "url": "https://github.com/cristiandkzk/SACP"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T00:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -14,17 +50,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T00:12:42Z",
+    "updated_at": "2026-08-31T00:26:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-31T00:11:53Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
@@ -34,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T00:07:40Z",
     "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21698,
+    "updated_at": "2026-08-31T00:29:00Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
@@ -54,15 +90,6 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T00:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -70,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-30T23:59:01Z",
     "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57614,
+    "updated_at": "2026-08-30T23:53:46Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T23:40:15Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57612,
-    "updated_at": "2026-08-30T23:53:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -211,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33940,
+    "stars": 33941,
     "updated_at": "2026-08-30T23:03:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 65,
     "updated_at": "2026-08-30T20:29:02Z",
     "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
-    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
-    "id": "everstacklabs/everstack",
-    "language": "Go",
-    "name": "everstacklabs/everstack",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:18:05Z",
-    "url": "https://github.com/everstacklabs/everstack"
-  },
-  {
-    "description": "A markdown-first governance framework for building trustworthy golden datasets with clear ownership, labeling, adjudicat",
-    "id": "ElliotOne/nl-golden-dataset-governance-ai-evaluation",
-    "language": "\u2014",
-    "name": "ElliotOne/nl-golden-dataset-governance-ai-evaluation",
-    "stars": 1,
-    "updated_at": "2026-08-30T20:20:05Z",
-    "url": "https://github.com/ElliotOne/nl-golden-dataset-governance-ai-evaluation"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 3,
-    "updated_at": "2026-08-30T19:52:10Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   }
 ]
