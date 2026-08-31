@@ -1,5 +1,59 @@
 [
   {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-08-31T12:41:53Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-31T12:35:55Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3517,
+    "updated_at": "2026-08-31T12:36:40Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7689,
+    "updated_at": "2026-08-31T12:33:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:43:42Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
     "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
     "id": "aktasbatuhan/compound",
     "language": "TypeScript",
@@ -18,6 +72,15 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
+    "description": "Versioned, eval-backed delegation policy for AI agents\u2014prove what can leave the frontier model, enforce it in runtimes, ",
+    "id": "kkrlstrm/model-eval-gate",
+    "language": "Python",
+    "name": "kkrlstrm/model-eval-gate",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:25:50Z",
+    "url": "https://github.com/kkrlstrm/model-eval-gate"
+  },
+  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-31T12:21:41Z",
+    "updated_at": "2026-08-31T12:32:41Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T12:19:49Z",
     "url": "https://github.com/zhangpeiyuan50-creator/content-postmortem"
-  },
-  {
-    "description": "Versioned, eval-backed delegation policy for AI agents\u2014prove what can leave the frontier model, enforce it in runtimes, ",
-    "id": "kkrlstrm/model-eval-gate",
-    "language": "Python",
-    "name": "kkrlstrm/model-eval-gate",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:25:50Z",
-    "url": "https://github.com/kkrlstrm/model-eval-gate"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -86,17 +140,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33971,
-    "updated_at": "2026-08-31T12:16:22Z",
+    "updated_at": "2026-08-31T12:32:18Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-31T12:11:41Z",
+    "updated_at": "2026-08-31T12:45:22Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-08-31T12:26:33Z",
+    "updated_at": "2026-08-31T12:41:35Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7689,
-    "updated_at": "2026-08-31T11:59:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-31T11:58:27Z",
+    "updated_at": "2026-08-31T12:43:19Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-31T12:10:29Z",
+    "updated_at": "2026-08-31T12:33:23Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -239,17 +275,8 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-31T11:41:04Z",
+    "updated_at": "2026-08-31T12:45:20Z",
     "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3517,
-    "updated_at": "2026-08-31T12:13:11Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
@@ -283,8 +310,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29976,
-    "updated_at": "2026-08-31T11:25:25Z",
+    "stars": 29977,
+    "updated_at": "2026-08-31T12:41:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -301,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4078,
+    "stars": 4083,
     "updated_at": "2026-08-31T11:14:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1876,
-    "updated_at": "2026-08-31T12:13:58Z",
+    "updated_at": "2026-08-31T12:43:24Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3212,
-    "updated_at": "2026-08-31T10:44:31Z",
+    "updated_at": "2026-08-31T12:37:34Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T10:32:44Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-31T10:29:47Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Deterministic release-gate evaluation for AI products and Agents",
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 418,
-    "updated_at": "2026-08-31T12:24:41Z",
+    "updated_at": "2026-08-31T12:44:56Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 57662,
     "updated_at": "2026-08-31T09:45:29Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:35:20Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:26:50Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
   }
 ]
