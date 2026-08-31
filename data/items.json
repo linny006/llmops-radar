@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "siva010928/agnos-proxy-oss",
     "stars": 0,
-    "updated_at": "2026-08-31T19:43:02Z",
+    "updated_at": "2026-08-31T19:57:18Z",
     "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:56:50Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57693,
+    "updated_at": "2026-08-31T19:59:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A lab protocol for coding agents. Freeze baselines, run hypotheses in isolated worktrees, reject failures and validate i",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:49:31Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
+  },
+  {
+    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
+    "id": "jkershawrh/gcl-oss",
+    "language": "Python",
+    "name": "jkershawrh/gcl-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:46:50Z",
+    "url": "https://github.com/jkershawrh/gcl-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33987,
+    "updated_at": "2026-08-31T19:59:35Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -27,22 +81,13 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
-    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
-    "id": "forger-labs-hq/researchforge",
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
     "language": "Python",
-    "name": "forger-labs-hq/researchforge",
-    "stars": 7,
-    "updated_at": "2026-08-31T19:38:37Z",
-    "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
-    "id": "jkershawrh/gcl-oss",
-    "language": "Python",
-    "name": "jkershawrh/gcl-oss",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:38:27Z",
-    "url": "https://github.com/jkershawrh/gcl-oss"
+    "name": "truera/trulens",
+    "stars": 3531,
+    "updated_at": "2026-08-31T19:41:14Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -63,13 +108,13 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or d",
+    "id": "evidentlyai/evidently",
+    "language": "Jupyter Notebook",
+    "name": "evidentlyai/evidently",
+    "stars": 7867,
+    "updated_at": "2026-08-31T19:30:01Z",
+    "url": "https://github.com/evidentlyai/evidently"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-31T19:25:35Z",
+    "updated_at": "2026-08-31T19:56:05Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -88,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T19:22:23Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57691,
-    "updated_at": "2026-08-31T19:43:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33986,
-    "updated_at": "2026-08-31T19:44:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-08-31T19:14:48Z",
+    "updated_at": "2026-08-31T19:54:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -265,7 +292,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7702,
+    "stars": 7703,
     "updated_at": "2026-08-31T18:21:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -277,6 +304,15 @@
     "stars": 8,
     "updated_at": "2026-08-31T18:12:48Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5570,
+    "updated_at": "2026-08-31T18:10:21Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:22:45Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:21:22Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:19:44Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 418,
-    "updated_at": "2026-08-31T18:27:30Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:17:55Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
