@@ -1,12 +1,102 @@
 [
   {
+    "description": "Practical, reviewable templates and schemas for reliability engineering, observability, incident response and dependable",
+    "id": "Jason-Doyle/reliability-field-guides",
+    "language": "JavaScript",
+    "name": "Jason-Doyle/reliability-field-guides",
+    "stars": 0,
+    "updated_at": "2026-08-31T22:28:58Z",
+    "url": "https://github.com/Jason-Doyle/reliability-field-guides"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-31T22:27:59Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-31T22:25:22Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-31T22:25:15Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57698,
+    "updated_at": "2026-08-31T22:29:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-31T22:23:47Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-31T22:22:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 1,
+    "updated_at": "2026-08-31T22:19:33Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T22:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11266,
-    "updated_at": "2026-08-31T22:15:12Z",
+    "updated_at": "2026-08-31T22:23:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1880,
+    "updated_at": "2026-08-31T22:14:11Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Professional resume of Abraham Sanchez Olea \u2014 Senior Software Engineer (distributed systems, .NET, cloud, LLMOps).",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T22:11:43Z",
     "url": "https://github.com/abraham-sanchez-olea/resume"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57700,
-    "updated_at": "2026-08-31T22:15:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A self-hosted Agent Skills marketplace",
@@ -45,6 +126,15 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33992,
+    "updated_at": "2026-08-31T22:08:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
     "id": "jkershawrh/gcl-oss",
     "language": "Python",
@@ -54,31 +144,22 @@
     "url": "https://github.com/jkershawrh/gcl-oss"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24706,
+    "updated_at": "2026-08-31T22:05:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-31T22:04:20Z",
+    "updated_at": "2026-08-31T22:28:58Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T22:00:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:59:03Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -99,31 +180,22 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:51:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7703,
+    "updated_at": "2026-08-31T21:52:21Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29982,
+    "stars": 29981,
     "updated_at": "2026-08-31T21:49:25Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:43:35Z",
-    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:56:35Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33993,
-    "updated_at": "2026-08-31T22:08:28Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -189,15 +252,6 @@
     "url": "https://github.com/boundflow/boundflow"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1881,
-    "updated_at": "2026-08-31T22:14:11Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
     "id": "laputski/causa-rag",
     "language": "Python",
@@ -207,22 +261,13 @@
     "url": "https://github.com/laputski/causa-rag"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-31T20:35:30Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7704,
-    "updated_at": "2026-08-31T21:52:21Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 419,
+    "updated_at": "2026-08-31T20:36:15Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-31T20:12:25Z",
+    "updated_at": "2026-08-31T22:26:54Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -319,7 +364,7 @@
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
-    "stars": 1322,
+    "stars": 1321,
     "updated_at": "2026-08-31T19:28:55Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
@@ -331,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T19:22:23Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T22:06:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T22:12:35Z",
+    "updated_at": "2026-08-31T22:21:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:55:10Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24706,
-    "updated_at": "2026-08-31T22:05:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T18:45:47Z",
     "url": "https://github.com/sauloleite/AIPlataform"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 47,
-    "updated_at": "2026-08-31T18:43:51Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
-    "id": "ha7n23/careerops-agent-engine",
-    "language": "Python",
-    "name": "ha7n23/careerops-agent-engine",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:22:00Z",
-    "url": "https://github.com/ha7n23/careerops-agent-engine"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-08-31T18:59:05Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
