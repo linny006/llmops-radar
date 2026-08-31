@@ -1,12 +1,66 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2736,
+    "updated_at": "2026-08-31T09:57:54Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21707,
+    "updated_at": "2026-08-31T09:56:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-08-31T09:49:33Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57659,
+    "updated_at": "2026-08-31T09:45:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T09:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33970,
-    "updated_at": "2026-08-31T09:44:09Z",
+    "updated_at": "2026-08-31T09:52:53Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-08-31T09:55:54Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -16,15 +70,6 @@
     "stars": 1874,
     "updated_at": "2026-08-31T09:37:18Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2736,
-    "updated_at": "2026-08-31T09:37:08Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -50,17 +95,8 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-31T09:31:57Z",
+    "updated_at": "2026-08-31T09:54:59Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T09:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -108,15 +144,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21706,
-    "updated_at": "2026-08-31T09:21:03Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T09:12:31Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-08-31T09:38:49Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-31T09:03:54Z",
+    "updated_at": "2026-08-31T09:51:44Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -265,7 +283,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4054,
+    "stars": 4058,
     "updated_at": "2026-08-31T08:58:25Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -409,7 +427,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7683,
+    "stars": 7684,
     "updated_at": "2026-08-31T08:21:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-31T08:17:26Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5705,
-    "updated_at": "2026-08-31T09:34:47Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57657,
-    "updated_at": "2026-08-31T08:01:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
