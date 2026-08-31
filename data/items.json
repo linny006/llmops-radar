@@ -1,5 +1,50 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-31T22:41:37Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Hands-on technology workshops for enterprise teams covering Data Engineering, Databricks, Snowflake, AWS, DevOps, Cloud,",
+    "id": "becloudready/workshops",
+    "language": "HTML",
+    "name": "becloudready/workshops",
+    "stars": 6,
+    "updated_at": "2026-08-31T22:32:27Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 51,
+    "updated_at": "2026-08-31T22:32:00Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-08-31T22:31:17Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T22:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Practical, reviewable templates and schemas for reliability engineering, observability, incident response and dependable",
     "id": "Jason-Doyle/reliability-field-guides",
     "language": "JavaScript",
@@ -18,15 +63,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T22:25:22Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
     "id": "Fortitude-Group/OmnisRouter",
     "language": "C#",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57698,
-    "updated_at": "2026-08-31T22:29:14Z",
+    "updated_at": "2026-08-31T22:45:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T22:19:33Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T22:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -193,7 +220,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29981,
+    "stars": 29982,
     "updated_at": "2026-08-31T21:49:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -355,7 +382,7 @@
     "id": "evidentlyai/evidently",
     "language": "Jupyter Notebook",
     "name": "evidentlyai/evidently",
-    "stars": 7867,
+    "stars": 7868,
     "updated_at": "2026-08-31T19:30:01Z",
     "url": "https://github.com/evidentlyai/evidently"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:55:10Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:53:32Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:48:58Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "An open source, cloud-agnostic enterprise AI platform. One entry point for OpenAI, Gemini, Anthropic and local models, w",
-    "id": "sauloleite/AIPlataform",
-    "language": "TypeScript",
-    "name": "sauloleite/AIPlataform",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:45:47Z",
-    "url": "https://github.com/sauloleite/AIPlataform"
   }
 ]
