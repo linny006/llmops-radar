@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 51,
+    "updated_at": "2026-08-31T23:29:22Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "Fa costare meno le richieste a Claude, senza cambiare le risposte. -76% misurato sull API vera. Libreria Python o gatewa",
+    "id": "Grokeador/ecotokens",
+    "language": "Python",
+    "name": "Grokeador/ecotokens",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:28:41Z",
+    "url": "https://github.com/Grokeador/ecotokens"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-31T23:25:02Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-08-31T23:24:02Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-31T23:23:00Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-31T23:26:43Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:14:08Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57698,
-    "updated_at": "2026-08-31T23:13:01Z",
+    "updated_at": "2026-08-31T23:25:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:02:38Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T23:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -90,15 +153,6 @@
     "url": "https://github.com/nanoinfraorg/skills-server"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-31T23:14:51Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T22:32:27Z",
     "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 51,
-    "updated_at": "2026-08-31T22:32:00Z",
-    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -162,15 +207,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-31T22:23:47Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11266,
-    "updated_at": "2026-08-31T23:09:10Z",
+    "updated_at": "2026-08-31T23:15:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -220,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33992,
+    "stars": 33994,
     "updated_at": "2026-08-31T22:08:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-31T23:09:55Z",
+    "updated_at": "2026-08-31T23:27:52Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 419,
     "updated_at": "2026-08-31T20:36:15Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:14:08Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -421,32 +448,5 @@
     "stars": 1321,
     "updated_at": "2026-08-31T19:28:55Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-31T19:22:23Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
-    "id": "virinchisai/aidlc-passport",
-    "language": "Python",
-    "name": "virinchisai/aidlc-passport",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:15:01Z",
-    "url": "https://github.com/virinchisai/aidlc-passport"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1163,
-    "updated_at": "2026-08-31T19:05:34Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
   }
 ]
