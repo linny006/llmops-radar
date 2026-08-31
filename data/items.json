@@ -1,5 +1,104 @@
 [
   {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:27:00Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2736,
+    "updated_at": "2026-08-31T12:26:13Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-08-31T12:21:56Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:21:41Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\u628a RLVR \u5f15\u5165\u5185\u5bb9\u8fd0\u8425\uff1aself-baseline \u8bc4\u5206 + \u53ef\u8bc1\u4f2a\u7ed3\u8bba + \u6837\u672c\u91cf\u8bda\u5b9e\u3002\u96f6\u5b89\u88c5\uff0c\u590d\u5236 SKILL.md \u5373\u7528\u3002",
+    "id": "zhangpeiyuan50-creator/content-postmortem",
+    "language": "\u2014",
+    "name": "zhangpeiyuan50-creator/content-postmortem",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:19:49Z",
+    "url": "https://github.com/zhangpeiyuan50-creator/content-postmortem"
+  },
+  {
+    "description": "Versioned, eval-backed delegation policy for AI agents\u2014prove what can leave the frontier model, enforce it in runtimes, ",
+    "id": "kkrlstrm/model-eval-gate",
+    "language": "Python",
+    "name": "kkrlstrm/model-eval-gate",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:25:50Z",
+    "url": "https://github.com/kkrlstrm/model-eval-gate"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11917,
+    "updated_at": "2026-08-31T12:19:26Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:18:03Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 121,
+    "updated_at": "2026-08-31T12:17:56Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33971,
+    "updated_at": "2026-08-31T12:16:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
     "id": "ArtVsMark/claude-code-playbook",
     "language": "Python",
@@ -9,13 +108,13 @@
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
-    "description": "A circuit breaker for cheap-model delegation: an eval-backed allowlist that lets agents use non-frontier models only whe",
-    "id": "kkrlstrm/model-eval-gate",
-    "language": "Python",
-    "name": "kkrlstrm/model-eval-gate",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:15:02Z",
-    "url": "https://github.com/kkrlstrm/model-eval-gate"
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-31T12:11:41Z",
+    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
@@ -27,12 +126,21 @@
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-08-31T12:26:33Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27748,
-    "updated_at": "2026-08-31T12:07:16Z",
+    "updated_at": "2026-08-31T12:21:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -45,20 +153,11 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7688,
+    "stars": 7689,
     "updated_at": "2026-08-31T11:59:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -79,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T11:58:27Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-08-31T12:09:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -126,24 +216,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33972,
-    "updated_at": "2026-08-31T11:48:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:01:58Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T11:41:04Z",
     "url": "https://github.com/samarthputhraya/modelpin"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-31T12:11:41Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -220,7 +283,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29975,
+    "stars": 29976,
     "updated_at": "2026-08-31T11:25:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -248,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T11:08:55Z",
+    "updated_at": "2026-08-31T12:23:42Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 1876,
     "updated_at": "2026-08-31T12:13:58Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2736,
-    "updated_at": "2026-08-31T12:08:50Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 418,
-    "updated_at": "2026-08-31T12:14:36Z",
+    "updated_at": "2026-08-31T12:24:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -373,7 +427,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57663,
+    "stars": 57662,
     "updated_at": "2026-08-31T09:45:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:26:50Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 55,
-    "updated_at": "2026-08-31T09:26:20Z",
-    "url": "https://github.com/jochi2018/Soup"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-08-31T09:25:52Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:24:15Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:23:20Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:17:50Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:17:31Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   }
 ]
