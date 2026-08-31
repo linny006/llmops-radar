@@ -1,11 +1,56 @@
 [
   {
+    "description": "105 real AI / LLM engineer interview questions with concise answers \u2014 LLMs, transformers, RAG, agents, evals, inference,",
+    "id": "philomath18/awesome-ai-engineer-interview-questions",
+    "language": "\u2014",
+    "name": "philomath18/awesome-ai-engineer-interview-questions",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:43:53Z",
+    "url": "https://github.com/philomath18/awesome-ai-engineer-interview-questions"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:43:20Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:38:21Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-31T14:33:32Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 418,
-    "updated_at": "2026-08-31T14:27:52Z",
+    "updated_at": "2026-08-31T14:35:18Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -14,8 +59,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33975,
-    "updated_at": "2026-08-31T14:29:30Z",
+    "updated_at": "2026-08-31T14:34:49Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 51,
+    "updated_at": "2026-08-31T14:24:20Z",
+    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
@@ -27,31 +81,40 @@
     "url": "https://github.com/jimyoshida/dx-devops-landscape"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:22:40Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-08-31T14:20:56Z",
+    "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 33,
+    "updated_at": "2026-08-31T14:18:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:26:31Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
+    "name": "langwatch/langwatch",
+    "stars": 3517,
+    "updated_at": "2026-08-31T14:44:55Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
     "stars": 3,
-    "updated_at": "2026-08-31T14:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-08-31T14:17:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-31T14:14:40Z",
+    "updated_at": "2026-08-31T14:44:19Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -81,6 +144,15 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2733,
+    "updated_at": "2026-08-31T14:09:30Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
     "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
     "id": "royalpinto007/awesome-llm-guardrails",
     "language": "HTML",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:08:35Z",
     "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3517,
-    "updated_at": "2026-08-31T14:18:45Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
@@ -112,7 +175,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57673,
+    "stars": 57674,
     "updated_at": "2026-08-31T14:02:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "monaal10/valuemaxx",
     "stars": 0,
-    "updated_at": "2026-08-31T13:56:19Z",
+    "updated_at": "2026-08-31T14:37:02Z",
     "url": "https://github.com/monaal10/valuemaxx"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27749,
-    "updated_at": "2026-08-31T13:50:58Z",
+    "updated_at": "2026-08-31T14:32:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -180,30 +243,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T13:47:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-08-31T14:20:56Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-31T13:45:00Z",
+    "updated_at": "2026-08-31T14:38:43Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7692,
-    "updated_at": "2026-08-31T14:29:58Z",
+    "updated_at": "2026-08-31T14:44:58Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -229,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4100,
+    "stars": 4105,
     "updated_at": "2026-08-31T13:38:39Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "aktasbatuhan/compound",
     "stars": 3,
-    "updated_at": "2026-08-31T13:45:53Z",
+    "updated_at": "2026-08-31T14:40:28Z",
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
@@ -265,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24697,
+    "stars": 24699,
     "updated_at": "2026-08-31T13:32:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21712,
-    "updated_at": "2026-08-31T14:18:34Z",
+    "updated_at": "2026-08-31T14:43:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -342,13 +387,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 33,
-    "updated_at": "2026-08-31T14:18:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 29978,
+    "updated_at": "2026-08-31T12:58:53Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T12:25:50Z",
     "url": "https://github.com/kkrlstrm/model-eval-gate"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-08-31T12:21:56Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:32:41Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "\u628a RLVR \u5f15\u5165\u5185\u5bb9\u8fd0\u8425\uff1aself-baseline \u8bc4\u5206 + \u53ef\u8bc1\u4f2a\u7ed3\u8bba + \u6837\u672c\u91cf\u8bda\u5b9e\u3002\u96f6\u5b89\u88c5\uff0c\u590d\u5236 SKILL.md \u5373\u7528\u3002",
-    "id": "zhangpeiyuan50-creator/content-postmortem",
-    "language": "\u2014",
-    "name": "zhangpeiyuan50-creator/content-postmortem",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:19:49Z",
-    "url": "https://github.com/zhangpeiyuan50-creator/content-postmortem"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11917,
-    "updated_at": "2026-08-31T13:17:21Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 122,
-    "updated_at": "2026-08-31T12:17:56Z",
-    "url": "https://github.com/Juror-AI/juror"
   }
 ]
