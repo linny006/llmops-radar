@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:42:37Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
+    "name": "BerriAI/litellm",
+    "stars": 57683,
+    "updated_at": "2026-08-31T17:55:38Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33983,
-    "updated_at": "2026-08-31T17:35:10Z",
+    "updated_at": "2026-08-31T17:52:42Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
+    "id": "jkershawrh/gcl-oss",
+    "language": "Python",
+    "name": "jkershawrh/gcl-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:51:39Z",
+    "url": "https://github.com/jkershawrh/gcl-oss"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:50:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:47:31Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -23,8 +50,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-08-31T17:34:45Z",
+    "updated_at": "2026-08-31T17:46:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T17:45:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
+    "id": "monaal10/valuemaxx",
+    "language": "Python",
+    "name": "monaal10/valuemaxx",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:52:42Z",
+    "url": "https://github.com/monaal10/valuemaxx"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:42:37Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
     "description": "LLM eval framework with first-class token-cost tracking \u2014 did your prompt change save money without losing quality?",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T17:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -81,15 +126,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57682,
-    "updated_at": "2026-08-31T17:41:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:23:21Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
-    "id": "monaal10/valuemaxx",
-    "language": "Python",
-    "name": "monaal10/valuemaxx",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:45:04Z",
-    "url": "https://github.com/monaal10/valuemaxx"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -333,24 +360,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T16:56:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
-    "id": "jkershawrh/gcl-oss",
-    "language": "Python",
-    "name": "jkershawrh/gcl-oss",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:11:43Z",
-    "url": "https://github.com/jkershawrh/gcl-oss"
-  },
-  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:53:11Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 67,
-    "updated_at": "2026-08-31T16:24:17Z",
-    "url": "https://github.com/davidahmann/fde-guide"
   }
 ]
