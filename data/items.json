@@ -1,12 +1,12 @@
 [
   {
-    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
-    "id": "api-evangelist/log10",
+    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
+    "id": "api-evangelist/opik",
     "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:45:43Z",
-    "url": "https://github.com/api-evangelist/log10"
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:59:01Z",
+    "url": "https://github.com/api-evangelist/opik"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T23:45:24Z",
+    "updated_at": "2026-08-30T23:52:54Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-08-30T23:45:43Z",
+    "url": "https://github.com/api-evangelist/log10"
   },
   {
     "description": "MCP server for AI economics \u2014 12 calculators for token cost, LLM energy, agent-hour, Proof-Adjusted Autonomy, revocation",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57612,
-    "updated_at": "2026-08-30T23:33:25Z",
+    "updated_at": "2026-08-30T23:53:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -160,6 +169,15 @@
     "stars": 33940,
     "updated_at": "2026-08-30T23:03:47Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27740,
+    "updated_at": "2026-08-30T23:01:51Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
@@ -387,15 +405,6 @@
     "url": "https://github.com/agentforge9/llm-op-tool-kit"
   },
   {
-    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:40:15Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
     "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 3212,
     "updated_at": "2026-08-30T20:04:01Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:23:48Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
