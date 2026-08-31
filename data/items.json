@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-31T01:00:13Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 47,
+    "updated_at": "2026-08-31T01:14:05Z",
+    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27740,
-    "updated_at": "2026-08-31T00:49:24Z",
+    "updated_at": "2026-08-31T01:12:08Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 97,
+    "updated_at": "2026-08-31T01:08:25Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:15:17Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-31T01:00:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -32,26 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57615,
-    "updated_at": "2026-08-31T00:58:53Z",
+    "updated_at": "2026-08-31T01:14:01Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T00:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 47,
-    "updated_at": "2026-08-31T00:41:59Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21699,
-    "updated_at": "2026-08-31T00:29:00Z",
+    "updated_at": "2026-08-31T01:12:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/api-evangelist/seldon"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T01:00:08Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
     "id": "api-evangelist/raindrop",
     "language": "\u2014",
@@ -130,7 +139,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29965,
+    "stars": 29966,
     "updated_at": "2026-08-31T00:06:20Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -196,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-08-30T23:40:15Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-30T23:33:07Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:57:35Z",
     "url": "https://github.com/mykolapodpriatov/extract-regress"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:33:07Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T21:25:35Z",
     "url": "https://github.com/ElliotOne/nl-human-approval-gates-high-risk-actions"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-08-30T21:20:32Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
