@@ -1,12 +1,21 @@
 [
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 2,
-    "updated_at": "2026-08-31T19:30:11Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
+    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
+    "id": "siva010928/agnos-proxy-oss",
+    "language": "Python",
+    "name": "siva010928/agnos-proxy-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:43:02Z",
+    "url": "https://github.com/siva010928/agnos-proxy-oss"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-08-31T19:42:16Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "billbz99/finguard-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-31T19:27:07Z",
+    "updated_at": "2026-08-31T19:41:22Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:38:37Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
+  },
+  {
+    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
+    "id": "jkershawrh/gcl-oss",
+    "language": "Python",
+    "name": "jkershawrh/gcl-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:38:27Z",
+    "url": "https://github.com/jkershawrh/gcl-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11264,
+    "updated_at": "2026-08-31T19:44:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:31:17Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57691,
-    "updated_at": "2026-08-31T19:25:56Z",
+    "updated_at": "2026-08-31T19:43:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33986,
-    "updated_at": "2026-08-31T19:25:07Z",
+    "updated_at": "2026-08-31T19:44:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,17 +113,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T19:17:05Z",
+    "updated_at": "2026-08-31T19:43:41Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
@@ -81,13 +126,13 @@
     "url": "https://github.com/virinchisai/aidlc-passport"
   },
   {
-    "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
-    "id": "siva010928/agnos-proxy-oss",
-    "language": "Python",
-    "name": "siva010928/agnos-proxy-oss",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:11:55Z",
-    "url": "https://github.com/siva010928/agnos-proxy-oss"
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-08-31T19:14:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T19:21:48Z",
+    "updated_at": "2026-08-31T19:44:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,6 +180,15 @@
     "url": "https://github.com/monaal10/valuemaxx"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24704,
+    "updated_at": "2026-08-31T18:55:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T18:53:32Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-08-31T19:14:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:52:30Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
-    "id": "jkershawrh/gcl-oss",
-    "language": "Python",
-    "name": "jkershawrh/gcl-oss",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:51:39Z",
-    "url": "https://github.com/jkershawrh/gcl-oss"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:17:55Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:15:27Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11264,
-    "updated_at": "2026-08-31T19:25:31Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:14:55Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:14:48Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
