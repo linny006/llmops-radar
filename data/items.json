@@ -1,12 +1,75 @@
 [
   {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/claude-code-playbook",
+    "language": "Python",
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-31T07:58:11Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 417,
+    "updated_at": "2026-08-31T07:55:21Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 4033,
+    "updated_at": "2026-08-31T07:55:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21702,
+    "updated_at": "2026-08-31T07:59:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-31T07:50:44Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33963,
-    "updated_at": "2026-08-31T07:43:28Z",
+    "stars": 33964,
+    "updated_at": "2026-08-31T07:59:22Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 33,
+    "updated_at": "2026-08-31T07:47:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cost governance for LLM spend, before it happens - no more surprise bills. AiFinOps validates, tracks, and logs every ca",
@@ -45,15 +108,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T07:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Rust CLI to test whether OpenAI-compatible APIs are truly compatible across chat, streaming, tools, structured outputs, ",
     "id": "ibidathoillah/openai-compatible-tester-cli",
     "language": "Rust",
@@ -63,31 +117,13 @@
     "url": "https://github.com/ibidathoillah/openai-compatible-tester-cli"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 33,
-    "updated_at": "2026-08-31T07:26:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27743,
+    "stars": 27744,
     "updated_at": "2026-08-31T07:24:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21702,
-    "updated_at": "2026-08-31T07:44:18Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
@@ -130,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57648,
+    "stars": 57649,
     "updated_at": "2026-08-31T07:03:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -176,17 +212,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7680,
-    "updated_at": "2026-08-31T06:40:43Z",
+    "updated_at": "2026-08-31T07:57:36Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-31T06:40:22Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -257,7 +284,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1321,
-    "updated_at": "2026-08-31T07:44:31Z",
+    "updated_at": "2026-08-31T07:47:15Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-31T07:40:51Z",
+    "updated_at": "2026-08-31T08:00:12Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1874,
-    "updated_at": "2026-08-31T07:39:07Z",
+    "updated_at": "2026-08-31T07:58:34Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-31T03:51:27Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-31T03:44:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T03:21:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:06:19Z",
-    "url": "https://github.com/domondi1/inferrail"
   }
 ]
