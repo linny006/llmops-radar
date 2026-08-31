@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11263,
-    "updated_at": "2026-08-31T15:43:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:58:52Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21713,
+    "updated_at": "2026-08-31T15:57:40Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -14,17 +23,53 @@
     "language": "Python",
     "name": "negativexq/knowledge-base-rag",
     "stars": 0,
-    "updated_at": "2026-08-31T15:42:32Z",
+    "updated_at": "2026-08-31T15:55:08Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
     "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:39:32Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:46:55Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T15:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57677,
+    "updated_at": "2026-08-31T15:45:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11263,
+    "updated_at": "2026-08-31T15:58:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:37:46Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7698,
-    "updated_at": "2026-08-31T15:36:46Z",
+    "updated_at": "2026-08-31T15:55:16Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33978,
-    "updated_at": "2026-08-31T15:44:13Z",
+    "updated_at": "2026-08-31T15:58:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-08-31T15:43:14Z",
+    "updated_at": "2026-08-31T15:58:16Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -86,17 +131,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29977,
-    "updated_at": "2026-08-31T15:43:10Z",
+    "updated_at": "2026-08-31T15:55:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T15:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 100,
+    "updated_at": "2026-08-31T15:31:35Z",
+    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "monaal10/valuemaxx",
     "stars": 0,
-    "updated_at": "2026-08-31T15:29:16Z",
+    "updated_at": "2026-08-31T15:54:45Z",
     "url": "https://github.com/monaal10/valuemaxx"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:37:46Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
-  },
-  {
     "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
     "id": "jkershawrh/gcl-oss",
     "language": "Python",
@@ -153,20 +189,11 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21713,
-    "updated_at": "2026-08-31T15:32:36Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4116,
+    "stars": 4118,
     "updated_at": "2026-08-31T15:21:17Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3531,
-    "updated_at": "2026-08-31T15:19:45Z",
+    "updated_at": "2026-08-31T15:59:51Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -202,18 +229,9 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1878,
+    "stars": 1879,
     "updated_at": "2026-08-31T15:09:19Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57674,
-    "updated_at": "2026-08-31T15:45:09Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Policy-driven AI model routing with explainable decisions, SLA-aware optimization, and congestion evaluation.",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5798,
-    "updated_at": "2026-08-31T15:38:22Z",
+    "updated_at": "2026-08-31T15:46:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 418,
-    "updated_at": "2026-08-31T15:43:22Z",
+    "updated_at": "2026-08-31T15:58:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 100,
-    "updated_at": "2026-08-31T15:31:35Z",
-    "url": "https://github.com/togettoyou/zke"
-  },
-  {
     "description": "Prompts we run in production and a curated reading list for building with LLMs - 35 vetted resources across foundations,",
     "id": "MTechZilla/llm-toolkit",
     "language": "\u2014",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "siva010928/agnos-proxy-oss",
     "stars": 0,
-    "updated_at": "2026-08-31T14:44:42Z",
+    "updated_at": "2026-08-31T15:57:01Z",
     "url": "https://github.com/siva010928/agnos-proxy-oss"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-08-31T15:14:15Z",
+    "updated_at": "2026-08-31T15:53:16Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 17,
-    "updated_at": "2026-08-31T15:43:08Z",
+    "updated_at": "2026-08-31T15:58:56Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-31T15:19:12Z",
+    "updated_at": "2026-08-31T15:56:14Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -432,21 +441,12 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-31T14:38:43Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "RAGWarrant: evidence-preserving governance and promotion control for RAG policy changes.",
-    "id": "RAGWarrant/ragwarrant-governance",
-    "language": "Python",
-    "name": "RAGWarrant/ragwarrant-governance",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:39:19Z",
-    "url": "https://github.com/RAGWarrant/ragwarrant-governance"
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5706,
+    "updated_at": "2026-08-31T13:45:59Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   }
 ]
