@@ -1,5 +1,68 @@
 [
   {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-08-31T23:43:07Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11266,
+    "updated_at": "2026-08-31T23:43:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-08-31T23:41:10Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:38:30Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57698,
+    "updated_at": "2026-08-31T23:42:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-08-31T23:36:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
     "id": "infercrane/infercrane",
     "language": "Go",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:28:41Z",
     "url": "https://github.com/Grokeador/ecotokens"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-08-31T23:25:02Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -45,24 +99,6 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-08-31T23:26:43Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T23:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:14:08Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57698,
-    "updated_at": "2026-08-31T23:25:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-08-31T23:09:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-08-31T22:55:37Z",
+    "updated_at": "2026-08-31T23:38:46Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-08-31T22:41:37Z",
+    "updated_at": "2026-08-31T23:38:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -221,17 +239,8 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 1,
-    "updated_at": "2026-08-31T22:19:33Z",
+    "updated_at": "2026-08-31T23:42:24Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11266,
-    "updated_at": "2026-08-31T23:15:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -256,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33994,
+    "stars": 33996,
     "updated_at": "2026-08-31T22:08:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 7868,
     "updated_at": "2026-08-31T19:30:01Z",
     "url": "https://github.com/evidentlyai/evidently"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1321,
-    "updated_at": "2026-08-31T19:28:55Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
