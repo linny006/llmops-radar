@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57698,
+    "updated_at": "2026-08-31T23:13:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-08-31T23:09:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:02:38Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -27,6 +63,15 @@
     "url": "https://github.com/abraham-sanchez-olea/resume"
   },
   {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-08-31T22:55:37Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
     "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
     "id": "jkershawrh/gcl-oss",
     "language": "Python",
@@ -41,17 +86,8 @@
     "language": "Go",
     "name": "nanoinfraorg/skills-server",
     "stars": 0,
-    "updated_at": "2026-08-31T22:51:24Z",
+    "updated_at": "2026-08-31T23:08:07Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57698,
-    "updated_at": "2026-08-31T22:57:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -59,17 +95,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-08-31T22:49:23Z",
+    "updated_at": "2026-08-31T23:14:51Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T22:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-08-31T22:45:27Z",
+    "updated_at": "2026-08-31T23:01:24Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 17,
-    "updated_at": "2026-08-31T22:31:17Z",
+    "updated_at": "2026-08-31T23:02:36Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T22:27:59Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:25:15Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11266,
-    "updated_at": "2026-08-31T22:50:45Z",
+    "updated_at": "2026-08-31T23:09:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1880,
-    "updated_at": "2026-08-31T22:14:11Z",
+    "updated_at": "2026-08-31T23:01:50Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -216,15 +234,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-08-31T21:58:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -247,7 +256,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29982,
+    "stars": 29983,
     "updated_at": "2026-08-31T21:49:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:56:35Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:55:37Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-08-31T22:06:24Z",
+    "updated_at": "2026-08-31T23:09:55Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-31T20:10:22Z",
+    "updated_at": "2026-08-31T23:14:08Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {

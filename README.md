@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 23:00 UTC
+> ⏰ Last updated: 2026-08-31 23:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,36 +42,36 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-31 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 2 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-31 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 3 | [abraham-sanchez-olea/resume](https://github.com/abraham-sanchez-olea/resume) | 0 | — | 2026-08-31 | Professional resume of Abraham Sanchez Olea — Senior Software Engineer (distributed systems, .NET, cloud, LLMOps). |
-| 4 | [jkershawrh/gcl-oss](https://github.com/jkershawrh/gcl-oss) | 0 | Python | 2026-08-31 | Proposal-only governance contracts and extension ports for evidence-based operational decisions |
-| 5 | [nanoinfraorg/skills-server](https://github.com/nanoinfraorg/skills-server) | 0 | Go | 2026-08-31 | A self-hosted Agent Skills marketplace |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57698 | Python | 2026-08-31 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-31 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-08-31 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-31 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 11 | [becloudready/workshops](https://github.com/becloudready/workshops) | 6 | HTML | 2026-08-31 | Hands-on technology workshops for enterprise teams covering Data Engineering, Databricks, Snowflake, AWS, DevOps, Cloud, |
-| 12 | [infercrane/infercrane](https://github.com/infercrane/infercrane) | 51 | Go | 2026-08-31 | Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h |
-| 13 | [iblai/os](https://github.com/iblai/os) | 17 | TypeScript | 2026-08-31 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 14 | [Jason-Doyle/reliability-field-guides](https://github.com/Jason-Doyle/reliability-field-guides) | 1 | JavaScript | 2026-08-31 | Practical, reviewable templates and schemas for reliability engineering, observability, incident response and dependable |
-| 15 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-31 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 16 | [Fortitude-Group/OmnisRouter](https://github.com/Fortitude-Group/OmnisRouter) | 0 | C# | 2026-08-31 | Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi |
-| 17 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-31 | ThakiCloud Tech Blog |
-| 18 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-31 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 19 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 1 | Go | 2026-08-31 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
-| 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11266 | Python | 2026-08-31 | AI Observability & Evaluation |
-| 21 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1880 | Python | 2026-08-31 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 22 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1189 | Python | 2026-08-31 | OpenTelemetry Instrumentation for AI Observability |
-| 23 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33992 | TypeScript | 2026-08-31 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 24 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24706 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 25 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 34 | Go | 2026-08-31 | Create your Agentic AIs. |
-| 26 | [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | 67 | JavaScript | 2026-08-31 | FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations. |
-| 27 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7703 | Go | 2026-08-31 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 28 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29982 | TypeScript | 2026-08-31 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 29 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | TypeScript | 2026-08-31 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
-| 30 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-31 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57698 | Python | 2026-08-31 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 34 | Go | 2026-08-31 | Create your Agentic AIs. |
+| 3 | [Fortitude-Group/OmnisRouter](https://github.com/Fortitude-Group/OmnisRouter) | 0 | C# | 2026-08-31 | Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-08-31 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-08-31 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 6 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-08-31 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 7 | [abraham-sanchez-olea/resume](https://github.com/abraham-sanchez-olea/resume) | 0 | — | 2026-08-31 | Professional resume of Abraham Sanchez Olea — Senior Software Engineer (distributed systems, .NET, cloud, LLMOps). |
+| 8 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-08-31 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 9 | [jkershawrh/gcl-oss](https://github.com/jkershawrh/gcl-oss) | 0 | Python | 2026-08-31 | Proposal-only governance contracts and extension ports for evidence-based operational decisions |
+| 10 | [nanoinfraorg/skills-server](https://github.com/nanoinfraorg/skills-server) | 0 | Go | 2026-08-31 | A self-hosted Agent Skills marketplace |
+| 11 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-08-31 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 12 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-08-31 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 13 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-08-31 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 14 | [becloudready/workshops](https://github.com/becloudready/workshops) | 6 | HTML | 2026-08-31 | Hands-on technology workshops for enterprise teams covering Data Engineering, Databricks, Snowflake, AWS, DevOps, Cloud, |
+| 15 | [infercrane/infercrane](https://github.com/infercrane/infercrane) | 51 | Go | 2026-08-31 | Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h |
+| 16 | [iblai/os](https://github.com/iblai/os) | 17 | TypeScript | 2026-08-31 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 17 | [Jason-Doyle/reliability-field-guides](https://github.com/Jason-Doyle/reliability-field-guides) | 1 | JavaScript | 2026-08-31 | Practical, reviewable templates and schemas for reliability engineering, observability, incident response and dependable |
+| 18 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-08-31 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 19 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-08-31 | ThakiCloud Tech Blog |
+| 20 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-31 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 21 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 1 | Go | 2026-08-31 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
+| 22 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11266 | Python | 2026-08-31 | AI Observability & Evaluation |
+| 23 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1880 | Python | 2026-08-31 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 24 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1189 | Python | 2026-08-31 | OpenTelemetry Instrumentation for AI Observability |
+| 25 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33992 | TypeScript | 2026-08-31 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 26 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24706 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 27 | [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | 67 | JavaScript | 2026-08-31 | FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations. |
+| 28 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7703 | Go | 2026-08-31 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 29 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 29983 | TypeScript | 2026-08-31 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 30 | [nRouterAI/nrouter-sdk](https://github.com/nRouterAI/nrouter-sdk) | 0 | TypeScript | 2026-08-31 | nRouter SDK — one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google  |
 | 31 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-08-31 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 32 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-08-31 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
 | 33 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-08-31 | LLM Systems Manager — real-time observability and control for LLM systems |
