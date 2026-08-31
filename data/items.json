@@ -1,5 +1,41 @@
 [
   {
+    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
+    "id": "alexvervloet/deep-dive-capstone",
+    "language": "Python",
+    "name": "alexvervloet/deep-dive-capstone",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:05:45Z",
+    "url": "https://github.com/alexvervloet/deep-dive-capstone"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27742,
+    "updated_at": "2026-08-31T06:14:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57633,
+    "updated_at": "2026-08-31T06:00:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 28,
     "updated_at": "2026-08-31T05:54:58Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
-    "id": "alexvervloet/deep-dive-capstone",
-    "language": "Python",
-    "name": "alexvervloet/deep-dive-capstone",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:53:49Z",
-    "url": "https://github.com/alexvervloet/deep-dive-capstone"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -27,15 +54,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57632,
-    "updated_at": "2026-08-31T05:58:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -45,6 +63,15 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33958,
+    "updated_at": "2026-08-31T05:51:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Evidence-driven skill evolution for Hermes Agent \u2014 reports, dry-run proposals, candidate search, and guarded apply",
     "id": "pingchesu/hermes-curator-evolver",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 35,
     "updated_at": "2026-08-31T05:52:36Z",
     "url": "https://github.com/pingchesu/hermes-curator-evolver"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T05:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -81,13 +99,13 @@
     "url": "https://github.com/kimtth/azure-openai-llm-notes"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33957,
-    "updated_at": "2026-08-31T05:51:01Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8458,
+    "updated_at": "2026-08-31T05:37:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "MLflow\u3067\u5b9f\u8df5\u3059\u308bLLMOps\u2015\u2015\u751f\u6210AI\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u5b9f\u9a13\u7ba1\u7406\u3068\u54c1\u8cea\u4fdd\u8a3c \u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
@@ -126,15 +144,6 @@
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27741,
-    "updated_at": "2026-08-31T05:54:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
     "id": "Harshalsharma05/switchyard",
     "language": "Go",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-31T05:59:46Z",
+    "updated_at": "2026-08-31T06:09:10Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T03:44:21Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8457,
-    "updated_at": "2026-08-31T05:37:58Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
