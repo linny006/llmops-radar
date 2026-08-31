@@ -1,75 +1,12 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-31T07:12:18Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24686,
-    "updated_at": "2026-08-31T07:14:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27742,
-    "updated_at": "2026-08-31T07:14:23Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57643,
-    "updated_at": "2026-08-31T07:03:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T07:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33962,
-    "updated_at": "2026-08-31T07:15:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 455,
-    "updated_at": "2026-08-31T07:14:42Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21702,
-    "updated_at": "2026-08-31T06:57:45Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Rust CLI to test whether OpenAI-compatible APIs are truly compatible across chat, streaming, tools, structured outputs, ",
+    "id": "ibidathoillah/openai-compatible-tester-cli",
+    "language": "Rust",
+    "name": "ibidathoillah/openai-compatible-tester-cli",
+    "stars": 1,
+    "updated_at": "2026-08-31T07:28:15Z",
+    "url": "https://github.com/ibidathoillah/openai-compatible-tester-cli"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -77,8 +14,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 33,
-    "updated_at": "2026-08-31T06:56:26Z",
+    "updated_at": "2026-08-31T07:26:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2736,
+    "updated_at": "2026-08-31T07:25:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27742,
+    "updated_at": "2026-08-31T07:24:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33962,
+    "updated_at": "2026-08-31T07:26:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21702,
+    "updated_at": "2026-08-31T07:29:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 2,
+    "updated_at": "2026-08-31T07:22:00Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24687,
+    "updated_at": "2026-08-31T07:17:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 455,
+    "updated_at": "2026-08-31T07:15:57Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-31T07:30:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57645,
+    "updated_at": "2026-08-31T07:03:03Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -121,7 +148,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7676,
+    "stars": 7677,
     "updated_at": "2026-08-31T06:40:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -203,7 +230,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1321,
-    "updated_at": "2026-08-31T07:15:26Z",
+    "updated_at": "2026-08-31T07:21:59Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-31T07:14:30Z",
+    "updated_at": "2026-08-31T07:28:17Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2736,
-    "updated_at": "2026-08-31T06:27:38Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
     "id": "asale-ai/llm-verify",
     "language": "Rust",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1874,
-    "updated_at": "2026-08-31T07:14:39Z",
+    "updated_at": "2026-08-31T07:21:17Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5799,
-    "updated_at": "2026-08-31T07:15:08Z",
+    "updated_at": "2026-08-31T07:21:02Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-31T02:54:40Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T05:13:55Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:28:23Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
