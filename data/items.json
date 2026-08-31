@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1876,
-    "updated_at": "2026-08-31T12:55:08Z",
-    "url": "https://github.com/future-agi/future-agi"
+    "name": "Arize-ai/phoenix",
+    "stars": 11263,
+    "updated_at": "2026-08-31T13:12:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-08-31T13:08:36Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:04:30Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,17 +32,26 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 418,
-    "updated_at": "2026-08-31T12:54:04Z",
+    "updated_at": "2026-08-31T13:12:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/claude-code-playbook",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-08-31T12:58:34Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "ArtVsMark/claude-code-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:02:52Z",
+    "url": "https://github.com/ArtVsMark/claude-code-playbook"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 33,
+    "updated_at": "2026-08-31T13:00:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +59,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T12:45:27Z",
+    "updated_at": "2026-08-31T13:00:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-08-31T13:14:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1876,
+    "updated_at": "2026-08-31T13:08:30Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:10:58Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:51:25Z",
+    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-31T12:45:22Z",
+    "updated_at": "2026-08-31T13:07:16Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-08-31T12:45:20Z",
+    "updated_at": "2026-08-31T13:05:10Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-08-31T12:43:19Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -79,6 +133,15 @@
     "stars": 20,
     "updated_at": "2026-08-31T12:41:53Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3213,
+    "updated_at": "2026-08-31T12:37:34Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-31T12:56:01Z",
+    "updated_at": "2026-08-31T13:14:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,21 +171,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Backtest every model and provider switch on your own traffic. Local-first evals from production traces: money-safe by de",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:53:00Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2736,
-    "updated_at": "2026-08-31T12:26:13Z",
+    "updated_at": "2026-08-31T13:10:56Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Go",
     "name": "latere-ai/llmops",
     "stars": 1,
-    "updated_at": "2026-08-31T12:18:03Z",
+    "updated_at": "2026-08-31T13:12:26Z",
     "url": "https://github.com/latere-ai/llmops"
   },
   {
@@ -194,17 +248,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33971,
-    "updated_at": "2026-08-31T12:58:33Z",
+    "updated_at": "2026-08-31T13:03:31Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
-    "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:15:21Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27748,
-    "updated_at": "2026-08-31T12:54:03Z",
+    "updated_at": "2026-08-31T13:12:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 33,
-    "updated_at": "2026-08-31T11:45:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Measure how long LLM batch jobs actually wait \u2014 OpenAI, Anthropic, Gemini. Clients for Python, TypeScript, Go, Rust, Rub",
     "id": "batchwatch/client",
     "language": "C++",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21710,
-    "updated_at": "2026-08-31T12:55:31Z",
+    "updated_at": "2026-08-31T13:05:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -346,8 +382,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4085,
-    "updated_at": "2026-08-31T11:14:04Z",
+    "stars": 4087,
+    "updated_at": "2026-08-31T13:14:58Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T12:55:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3212,
-    "updated_at": "2026-08-31T12:37:34Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -421,32 +448,5 @@
     "stars": 81,
     "updated_at": "2026-08-31T11:54:15Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11262,
-    "updated_at": "2026-08-31T09:52:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:49:33Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57664,
-    "updated_at": "2026-08-31T09:45:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
