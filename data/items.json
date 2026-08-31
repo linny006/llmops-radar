@@ -1,21 +1,30 @@
 [
   {
-    "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
-    "id": "virinchisai/aidlc-passport",
-    "language": "Python",
-    "name": "virinchisai/aidlc-passport",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:15:01Z",
-    "url": "https://github.com/virinchisai/aidlc-passport"
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:30:11Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57687,
-    "updated_at": "2026-08-31T19:13:35Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:27:07Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:25:35Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -23,8 +32,53 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-08-31T19:12:10Z",
+    "updated_at": "2026-08-31T19:22:23Z",
     "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57691,
+    "updated_at": "2026-08-31T19:25:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33986,
+    "updated_at": "2026-08-31T19:25:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-08-31T19:17:05Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:15:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Local-first AIDLC evidence compiler for portable, verifiable AI system release passports.",
+    "id": "virinchisai/aidlc-passport",
+    "language": "Python",
+    "name": "virinchisai/aidlc-passport",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:15:01Z",
+    "url": "https://github.com/virinchisai/aidlc-passport"
   },
   {
     "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
@@ -59,26 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T19:11:20Z",
+    "updated_at": "2026-08-31T19:21:48Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:06:13Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
@@ -97,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:55:10Z",
     "url": "https://github.com/monaal10/valuemaxx"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:53:32Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -144,24 +189,6 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-08-31T19:03:53Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33986,
-    "updated_at": "2026-08-31T19:14:02Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -193,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7701,
+    "stars": 7702,
     "updated_at": "2026-08-31T18:21:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -220,7 +247,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21716,
+    "stars": 21717,
     "updated_at": "2026-08-31T18:06:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11264,
-    "updated_at": "2026-08-31T19:11:34Z",
+    "updated_at": "2026-08-31T19:25:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:14:48Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:14:33Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Amazon Polly, Transcribe a",
-    "id": "stdapi-ai/stdapi.ai",
-    "language": "Python",
-    "name": "stdapi-ai/stdapi.ai",
-    "stars": 23,
-    "updated_at": "2026-08-31T19:05:23Z",
-    "url": "https://github.com/stdapi-ai/stdapi.ai"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:12:08Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
