@@ -4,9 +4,54 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33988,
-    "updated_at": "2026-08-31T20:11:03Z",
+    "stars": 33990,
+    "updated_at": "2026-08-31T20:25:36Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57695,
+    "updated_at": "2026-08-31T20:27:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11265,
+    "updated_at": "2026-08-31T20:20:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-08-31T20:27:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
+    "id": "jkershawrh/gcl-oss",
+    "language": "Python",
+    "name": "jkershawrh/gcl-oss",
+    "stars": 0,
+    "updated_at": "2026-08-31T20:16:24Z",
+    "url": "https://github.com/jkershawrh/gcl-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T20:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -18,15 +63,6 @@
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57694,
-    "updated_at": "2026-08-31T20:14:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-08-31T20:04:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T20:12:25Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T20:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Gateway-agnostic control plane for LLMs \u2014 an OpenAI-compatible governance proxy (auth, guardrails, budgets, routing, cos",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-08-31T20:03:43Z",
+    "updated_at": "2026-08-31T20:26:40Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T19:49:31Z",
     "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "Proposal-only governance contracts and extension ports for evidence-based operational decisions",
-    "id": "jkershawrh/gcl-oss",
-    "language": "Python",
-    "name": "jkershawrh/gcl-oss",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:10:04Z",
-    "url": "https://github.com/jkershawrh/gcl-oss"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -124,15 +133,6 @@
     "stars": 3531,
     "updated_at": "2026-08-31T19:41:14Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11264,
-    "updated_at": "2026-08-31T20:14:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "laputski/causa-rag",
     "stars": 1,
-    "updated_at": "2026-08-31T18:56:57Z",
+    "updated_at": "2026-08-31T20:19:51Z",
     "url": "https://github.com/laputski/causa-rag"
   },
   {
@@ -229,7 +229,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24704,
+    "stars": 24705,
     "updated_at": "2026-08-31T18:55:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +311,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7703,
-    "updated_at": "2026-08-31T18:21:50Z",
+    "updated_at": "2026-08-31T20:20:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -346,7 +346,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21717,
+    "stars": 21719,
     "updated_at": "2026-08-31T18:06:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
