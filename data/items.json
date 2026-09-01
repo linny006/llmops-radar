@@ -1,21 +1,93 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:42:36Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
     "stars": 1,
-    "updated_at": "2026-09-01T20:28:40Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "updated_at": "2026-09-01T20:42:00Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "A reliability harness for an LLM triage agent \u2014 proves you can detect when the agent is silently wrong. 8 planted failur",
+    "id": "siddchauhan77/complaint-triage-harness",
+    "language": "HTML",
+    "name": "siddchauhan77/complaint-triage-harness",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:40:37Z",
+    "url": "https://github.com/siddchauhan77/complaint-triage-harness"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57766,
-    "updated_at": "2026-09-01T20:30:04Z",
+    "stars": 57767,
+    "updated_at": "2026-09-01T20:43:14Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:38:58Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-01T20:38:41Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:38:07Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-09-01T20:37:55Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-09-01T20:36:22Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:34:20Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,8 +95,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T20:29:09Z",
+    "updated_at": "2026-09-01T20:33:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T20:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:28:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34052,
-    "updated_at": "2026-09-01T20:17:06Z",
+    "updated_at": "2026-09-01T20:35:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -61,24 +151,6 @@
     "stars": 35,
     "updated_at": "2026-09-01T20:16:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:20:18Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -126,15 +198,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
-    "id": "riscoss63/servseal",
-    "language": "Python",
-    "name": "riscoss63/servseal",
-    "stars": 1,
-    "updated_at": "2026-09-01T19:58:57Z",
-    "url": "https://github.com/riscoss63/servseal"
-  },
-  {
     "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
     "id": "api-evangelist/braintrust-data",
     "language": "\u2014",
@@ -157,7 +220,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4493,
+    "stars": 4501,
     "updated_at": "2026-09-01T19:56:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -194,26 +257,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 81,
-    "updated_at": "2026-09-01T19:48:09Z",
+    "updated_at": "2026-09-01T20:41:38Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:27:41Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:46:57Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -342,15 +387,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-09-01T18:10:40Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-01T20:28:21Z",
+    "updated_at": "2026-09-01T20:45:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T20:25:59Z",
+    "updated_at": "2026-09-01T20:34:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-01T17:47:00Z",
+    "updated_at": "2026-09-01T20:42:47Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-01T17:44:08Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:36:06Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:29:20Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Top Prompt Management (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
-    "id": "ishandutta2007/Awesome-Prompt-Management",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Prompt-Management",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:27:17Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
   }
 ]
