@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:30:06Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57772,
+    "updated_at": "2026-09-01T23:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 40,
+    "updated_at": "2026-09-01T23:24:52Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1902,
+    "updated_at": "2026-09-01T23:23:02Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
+    "id": "matsumoto1f-creator/llm-gateway",
+    "language": "Python",
+    "name": "matsumoto1f-creator/llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:22:51Z",
+    "url": "https://github.com/matsumoto1f-creator/llm-gateway"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-01T23:20:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T23:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -9,21 +72,12 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57770,
-    "updated_at": "2026-09-01T23:13:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11284,
-    "updated_at": "2026-09-01T23:13:17Z",
+    "updated_at": "2026-09-01T23:20:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8492,
-    "updated_at": "2026-09-01T23:12:18Z",
+    "updated_at": "2026-09-01T23:30:17Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T23:12:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 40,
-    "updated_at": "2026-09-01T23:14:20Z",
-    "url": "https://github.com/theagentplane/tokenops"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -70,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T23:09:13Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T23:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -112,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34056,
+    "stars": 34057,
     "updated_at": "2026-09-01T22:53:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:10:27Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:07:20Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:05:06Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:02:13Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-01T22:01:52Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
