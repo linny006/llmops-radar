@@ -1,11 +1,65 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57717,
+    "updated_at": "2026-09-01T04:29:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27759,
+    "updated_at": "2026-09-01T04:28:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-09-01T04:22:52Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-09-01T04:22:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:17:11Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-09-01T04:15:14Z",
+    "updated_at": "2026-09-01T04:18:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,8 +77,17 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 50,
-    "updated_at": "2026-09-01T04:09:43Z",
+    "updated_at": "2026-09-01T04:17:47Z",
     "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1322,
+    "updated_at": "2026-09-01T04:21:28Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-09-01T04:06:33Z",
+    "updated_at": "2026-09-01T04:21:55Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -41,17 +104,8 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 51,
-    "updated_at": "2026-09-01T04:04:32Z",
+    "updated_at": "2026-09-01T04:26:44Z",
     "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57715,
-    "updated_at": "2026-09-01T04:15:01Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T04:01:21Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T04:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29984,
-    "updated_at": "2026-09-01T03:48:17Z",
+    "updated_at": "2026-09-01T04:18:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11267,
-    "updated_at": "2026-09-01T04:09:52Z",
+    "updated_at": "2026-09-01T04:25:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1321,
-    "updated_at": "2026-09-01T04:08:55Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -124,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T03:25:06Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27759,
-    "updated_at": "2026-09-01T03:23:51Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
@@ -216,15 +243,6 @@
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-09-01T02:33:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:32:02Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:32:35Z",
-    "url": "https://github.com/soit-ai/soit"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -421,15 +430,6 @@
     "stars": 47,
     "updated_at": "2026-09-01T00:59:16Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:54:15Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Personal GitHub profile README showcasing production ML, GenAI/RAG systems, LLM observability, and decision-ready AI wor",
