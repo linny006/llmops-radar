@@ -1,10 +1,73 @@
 [
   {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:58:12Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-01T07:55:45Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 97,
+    "updated_at": "2026-09-01T07:53:45Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7715,
+    "updated_at": "2026-09-01T07:51:27Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 51,
+    "updated_at": "2026-09-01T07:50:42Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-01T07:45:11Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4264,
+    "stars": 4270,
     "updated_at": "2026-09-01T07:41:40Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-09-01T07:40:26Z",
+    "updated_at": "2026-09-01T07:58:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -32,8 +95,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21726,
-    "updated_at": "2026-09-01T07:39:06Z",
+    "updated_at": "2026-09-01T08:00:25Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5572,
+    "updated_at": "2026-09-01T07:37:09Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,24 +126,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 51,
-    "updated_at": "2026-09-01T07:30:40Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T07:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
     "id": "infercrane/infercrane",
     "language": "Go",
@@ -85,8 +139,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57727,
-    "updated_at": "2026-09-01T07:27:04Z",
+    "stars": 57728,
+    "updated_at": "2026-09-01T07:55:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-01T07:45:11Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-09-01T07:27:38Z",
+    "updated_at": "2026-09-01T07:54:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34021,
-    "updated_at": "2026-09-01T07:28:53Z",
+    "updated_at": "2026-09-01T08:00:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5571,
-    "updated_at": "2026-09-01T07:37:09Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:08:51Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7714,
-    "updated_at": "2026-09-01T07:08:44Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:03:10Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-01T06:59:13Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T06:35:48Z",
     "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11920,
-    "updated_at": "2026-09-01T07:15:23Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-09-01T06:33:57Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   }
 ]
