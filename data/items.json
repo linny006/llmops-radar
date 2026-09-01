@@ -1,30 +1,57 @@
 [
   {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 6,
-    "updated_at": "2026-09-01T19:20:57Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8485,
+    "updated_at": "2026-09-01T19:28:27Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Infrastructure-as-code for AI agent workflows",
+    "id": "hensu-project/hensu",
+    "language": "Java",
+    "name": "hensu-project/hensu",
+    "stars": 14,
+    "updated_at": "2026-09-01T19:26:53Z",
+    "url": "https://github.com/hensu-project/hensu"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4475,
-    "updated_at": "2026-09-01T19:20:03Z",
+    "stars": 4478,
+    "updated_at": "2026-09-01T19:26:44Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-09-01T19:26:13Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "Personal skills that bridge my daily tools with my Obsidian Second Brain \u2014 turning operational work into structured, sea",
+    "id": "BorjaIP/personal-os-skills",
+    "language": "Shell",
+    "name": "BorjaIP/personal-os-skills",
+    "stars": 1,
+    "updated_at": "2026-09-01T19:25:33Z",
+    "url": "https://github.com/BorjaIP/personal-os-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57766,
-    "updated_at": "2026-09-01T19:23:06Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Arize-ai/phoenix",
+    "stars": 11282,
+    "updated_at": "2026-09-01T19:30:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T19:15:29Z",
+    "updated_at": "2026-09-01T19:23:49Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 6,
+    "updated_at": "2026-09-01T19:25:20Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57766,
+    "updated_at": "2026-09-01T19:30:15Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -50,17 +95,8 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-09-01T19:01:14Z",
+    "updated_at": "2026-09-01T19:27:59Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8485,
-    "updated_at": "2026-09-01T19:17:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -153,15 +189,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11282,
-    "updated_at": "2026-09-01T19:20:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-09-01T19:23:34Z",
+    "updated_at": "2026-09-01T19:26:20Z",
     "url": "https://github.com/boundflow/boundflow"
   },
   {
@@ -310,7 +337,7 @@
     "id": "ishandutta2007/Awesome-Prompt-Management",
     "language": "\u2014",
     "name": "ishandutta2007/Awesome-Prompt-Management",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T16:15:33Z",
     "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 127,
-    "updated_at": "2026-09-01T16:11:55Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-01T16:09:37Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-09-01T16:07:47Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
