@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T16:12:16Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1190,
-    "updated_at": "2026-09-01T16:07:42Z",
+    "updated_at": "2026-09-01T16:15:25Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -36,15 +45,6 @@
     "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T16:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34047,
-    "updated_at": "2026-09-01T16:11:56Z",
+    "updated_at": "2026-09-01T16:14:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -70,6 +70,15 @@
     "stars": 11282,
     "updated_at": "2026-09-01T16:07:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:42:34Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -153,6 +162,15 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:31:25Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -171,6 +189,15 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:28:26Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -187,6 +214,15 @@
     "stars": 4,
     "updated_at": "2026-09-01T15:50:56Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:25:36Z",
+    "url": "https://github.com/developersofik/greenprompt"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -329,8 +365,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-01T16:11:37Z",
+    "updated_at": "2026-09-01T16:14:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:10:43Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-01T15:03:15Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-01T14:58:10Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 7,
-    "updated_at": "2026-09-01T14:54:02Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-09-01T14:54:00Z",
-    "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 51,
-    "updated_at": "2026-09-01T14:53:50Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11920,
-    "updated_at": "2026-09-01T16:03:30Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
