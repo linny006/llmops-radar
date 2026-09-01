@@ -1,6 +1,42 @@
 [
   {
-    "description": "Deterministic evaluation & CI/CD regression gating for AI agents",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1890,
+    "updated_at": "2026-09-01T14:55:45Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:49:48Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T14:45:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7725,
+    "updated_at": "2026-09-01T14:54:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a",
     "id": "limina-ai/limina-python",
     "language": "Python",
     "name": "limina-ai/limina-python",
@@ -9,22 +45,31 @@
     "url": "https://github.com/limina-ai/limina-python"
   },
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-01T14:49:34Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57750,
-    "updated_at": "2026-09-01T14:39:23Z",
+    "stars": 57753,
+    "updated_at": "2026-09-01T14:53:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T14:30:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mloda-ai/mloda",
+    "stars": 81,
+    "updated_at": "2026-09-01T14:32:22Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Centralized, OpenAI-compatible gateway for routing internal LLM traffic through one controlled API surface \u2014 multi-provi",
@@ -41,13 +86,13 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34044,
-    "updated_at": "2026-09-01T14:43:52Z",
+    "updated_at": "2026-09-01T15:00:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A deterministic groundedness linter for RAG/LLM answers \u2014 catches fabricated numbers, unsupported claims, and broken cit",
     "id": "RootX22/groundcheck",
-    "language": "\u2014",
+    "language": "Python",
     "name": "RootX22/groundcheck",
     "stars": 0,
     "updated_at": "2026-09-01T14:28:23Z",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21731,
-    "updated_at": "2026-09-01T14:20:58Z",
+    "updated_at": "2026-09-01T14:50:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -117,13 +162,40 @@
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7725,
-    "updated_at": "2026-09-01T14:42:57Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11280,
+    "updated_at": "2026-09-01T14:59:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:07:48Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:06:25Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2741,
+    "updated_at": "2026-09-01T14:06:24Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-01T14:41:58Z",
+    "updated_at": "2026-09-01T14:52:41Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-01T13:51:41Z",
+    "updated_at": "2026-09-01T14:54:57Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 419,
-    "updated_at": "2026-09-01T14:43:15Z",
+    "updated_at": "2026-09-01T14:58:17Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -239,17 +311,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3521,
-    "updated_at": "2026-09-01T14:44:06Z",
+    "updated_at": "2026-09-01T14:58:34Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1888,
-    "updated_at": "2026-09-01T14:12:28Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -301,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24727,
+    "stars": 24728,
     "updated_at": "2026-09-01T13:23:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -342,30 +405,12 @@
     "url": "https://github.com/runcycles/cycles-server-admin"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-01T14:39:24Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11279,
-    "updated_at": "2026-09-01T14:07:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-01T14:35:26Z",
+    "updated_at": "2026-09-01T14:51:42Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2741,
-    "updated_at": "2026-09-01T14:06:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
     "id": "akash-coded/aws-bedrock-agentcore-strands",
     "language": "Jupyter Notebook",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T13:05:32Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 7,
-    "updated_at": "2026-09-01T13:04:20Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
-    "id": "runcycles/cycles-claude-plugin",
-    "language": "JavaScript",
-    "name": "runcycles/cycles-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:03:33Z",
-    "url": "https://github.com/runcycles/cycles-claude-plugin"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-01T12:58:42Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 68,
-    "updated_at": "2026-09-01T12:57:50Z",
-    "url": "https://github.com/davidahmann/fde-guide"
   }
 ]
