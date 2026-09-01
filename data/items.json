@@ -1,5 +1,131 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-09-01T21:12:58Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Hands-on technology workshops for enterprise teams covering Data Engineering, Databricks, Snowflake, AWS, DevOps, Cloud,",
+    "id": "becloudready/workshops",
+    "language": "Python",
+    "name": "becloudready/workshops",
+    "stars": 6,
+    "updated_at": "2026-09-01T21:12:51Z",
+    "url": "https://github.com/becloudready/workshops"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 35,
+    "updated_at": "2026-09-01T21:12:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:11:54Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-01T21:11:27Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1170,
+    "updated_at": "2026-09-01T21:10:40Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-01T21:10:06Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:09:58Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-01T21:11:31Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "dataagentsai/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "dataagentsai/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:07:25Z",
+    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 6,
+    "updated_at": "2026-09-01T21:01:08Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
+    "id": "Sol1986/support-triage-agent",
+    "language": "Python",
+    "name": "Sol1986/support-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:00:35Z",
+    "url": "https://github.com/Sol1986/support-triage-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T21:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:00:02Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
     "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
     "id": "riscoss63/servseal",
     "language": "Python",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57767,
-    "updated_at": "2026-09-01T21:00:01Z",
+    "updated_at": "2026-09-01T21:15:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,8 +176,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7737,
-    "updated_at": "2026-09-01T20:59:42Z",
+    "updated_at": "2026-09-01T21:12:29Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:13:27Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -76,18 +211,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4505,
+    "stars": 4510,
     "updated_at": "2026-09-01T20:48:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -115,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T20:40:37Z",
     "url": "https://github.com/siddchauhan77/complaint-triage-harness"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:59:58Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -158,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T20:56:48Z",
+    "updated_at": "2026-09-01T21:08:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,26 +293,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34052,
-    "updated_at": "2026-09-01T20:53:35Z",
+    "updated_at": "2026-09-01T21:12:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:53:39Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 35,
-    "updated_at": "2026-09-01T20:16:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -292,7 +391,7 @@
     "id": "AshwinUgale/tracelint",
     "language": "Python",
     "name": "AshwinUgale/tracelint",
-    "stars": 6,
+    "stars": 5,
     "updated_at": "2026-09-01T19:48:37Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
@@ -302,7 +401,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 81,
-    "updated_at": "2026-09-01T20:59:44Z",
+    "updated_at": "2026-09-01T21:12:57Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-01T19:26:53Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-09-01T19:26:20Z",
-    "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-09-01T19:26:13Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
-    "description": "Personal skills that bridge my daily tools with my Obsidian Second Brain \u2014 turning operational work into structured, sea",
-    "id": "BorjaIP/personal-os-skills",
-    "language": "Shell",
-    "name": "BorjaIP/personal-os-skills",
-    "stars": 1,
-    "updated_at": "2026-09-01T19:25:33Z",
-    "url": "https://github.com/BorjaIP/personal-os-skills"
-  },
-  {
-    "description": "Professional resume of Abraham Sanchez Olea \u2014 Senior Software Engineer (distributed systems, .NET, cloud, LLMOps).",
-    "id": "abraham-sanchez-olea/resume",
-    "language": "\u2014",
-    "name": "abraham-sanchez-olea/resume",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:53:11Z",
-    "url": "https://github.com/abraham-sanchez-olea/resume"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24733,
-    "updated_at": "2026-09-01T18:46:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T18:34:40Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies.",
-    "id": "ather-techie/ai-system-design-interview",
-    "language": "\u2014",
-    "name": "ather-techie/ai-system-design-interview",
-    "stars": 23,
-    "updated_at": "2026-09-01T18:32:54Z",
-    "url": "https://github.com/ather-techie/ai-system-design-interview"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-09-01T18:26:39Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-09-01T20:59:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-01T20:54:47Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
-    "id": "santifer/cv-santiago",
-    "language": "HTML",
-    "name": "santifer/cv-santiago",
-    "stars": 826,
-    "updated_at": "2026-09-01T17:55:48Z",
-    "url": "https://github.com/santifer/cv-santiago"
   }
 ]
