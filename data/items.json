@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-09-01T13:11:05Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7722,
+    "updated_at": "2026-09-01T13:10:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2741,
+    "updated_at": "2026-09-01T13:05:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T13:04:38Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
+    "id": "runcycles/cycles-claude-plugin",
+    "language": "JavaScript",
+    "name": "runcycles/cycles-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:03:33Z",
+    "url": "https://github.com/runcycles/cycles-claude-plugin"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:01:22Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-01T13:05:36Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:57:58Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
     "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
     "id": "davidahmann/fde-guide",
     "language": "JavaScript",
@@ -9,13 +90,13 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:59:56Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57745,
+    "updated_at": "2026-09-01T13:15:25Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1888,
-    "updated_at": "2026-09-01T12:55:50Z",
+    "updated_at": "2026-09-01T13:10:07Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-01T12:51:41Z",
+    "updated_at": "2026-09-01T13:10:27Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21728,
-    "updated_at": "2026-09-01T12:50:04Z",
+    "updated_at": "2026-09-01T13:07:10Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -61,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T12:49:20Z",
     "url": "https://github.com/sanketsudake/agentic-engineering"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57744,
-    "updated_at": "2026-09-01T12:56:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T12:54:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -104,35 +158,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34042,
-    "updated_at": "2026-09-01T12:55:18Z",
+    "updated_at": "2026-09-01T13:14:38Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:31:39Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
-    "id": "runcycles/cycles-claude-plugin",
-    "language": "JavaScript",
-    "name": "runcycles/cycles-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:30:41Z",
-    "url": "https://github.com/runcycles/cycles-claude-plugin"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-01T12:57:58Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   },
   {
     "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
@@ -176,17 +203,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 419,
-    "updated_at": "2026-09-01T12:59:15Z",
+    "updated_at": "2026-09-01T13:15:21Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2741,
-    "updated_at": "2026-09-01T12:59:37Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3520,
-    "updated_at": "2026-09-01T12:58:19Z",
+    "updated_at": "2026-09-01T13:00:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 122,
     "updated_at": "2026-09-01T11:28:07Z",
     "url": "https://github.com/Juror-AI/juror"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7722,
-    "updated_at": "2026-09-01T12:59:11Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-01T12:39:57Z",
+    "updated_at": "2026-09-01T13:11:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-01T13:00:14Z",
+    "updated_at": "2026-09-01T13:03:55Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-01T12:52:26Z",
+    "updated_at": "2026-09-01T13:12:53Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 51,
     "updated_at": "2026-09-01T09:44:28Z",
     "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-01T09:38:14Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
