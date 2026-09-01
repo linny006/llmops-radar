@@ -1,5 +1,59 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:55:31Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-01T04:53:31Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57717,
+    "updated_at": "2026-09-01T04:58:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A secure file system for your agents to execute code",
+    "id": "Tako-Research/TakoVM",
+    "language": "Python",
+    "name": "Tako-Research/TakoVM",
+    "stars": 87,
+    "updated_at": "2026-09-01T04:47:30Z",
+    "url": "https://github.com/Tako-Research/TakoVM"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-09-01T04:42:59Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
     "id": "olivaresai/olivares",
     "language": "Go",
@@ -14,17 +68,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 29984,
-    "updated_at": "2026-09-01T04:41:42Z",
+    "updated_at": "2026-09-01T04:56:15Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57717,
-    "updated_at": "2026-09-01T04:42:33Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 51,
-    "updated_at": "2026-09-01T04:36:07Z",
+    "updated_at": "2026-09-01T04:55:53Z",
     "url": "https://github.com/infercrane/infercrane"
   },
   {
@@ -54,24 +99,6 @@
     "url": "https://github.com/latere-ai/llmops"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-01T04:42:31Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-09-01T04:42:59Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
     "id": "DINAKAR-S/stormdoor",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T04:31:06Z",
     "url": "https://github.com/DINAKAR-S/stormdoor"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T04:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11267,
-    "updated_at": "2026-09-01T04:43:32Z",
+    "updated_at": "2026-09-01T04:53:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -400,7 +418,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21722,
+    "stars": 21723,
     "updated_at": "2026-09-01T01:17:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T01:12:21Z",
     "url": "https://github.com/AAH20/enterprise-ai-production-control-plane"
-  },
-  {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "HTML",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:12:20Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
-    "description": "Risk scoring for deciding how much supervision AI coding agents need.",
-    "id": "Aidan2111/agent-autonomy-score",
-    "language": "Python",
-    "name": "Aidan2111/agent-autonomy-score",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:01:22Z",
-    "url": "https://github.com/Aidan2111/agent-autonomy-score"
   }
 ]
