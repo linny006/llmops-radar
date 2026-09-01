@@ -1,21 +1,66 @@
 [
   {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 26,
-    "updated_at": "2026-09-01T03:14:08Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:26:00Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57711,
-    "updated_at": "2026-09-01T03:11:34Z",
+    "stars": 57713,
+    "updated_at": "2026-09-01T03:25:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-01T03:25:06Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27759,
+    "updated_at": "2026-09-01T03:23:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 26,
+    "updated_at": "2026-09-01T03:15:41Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T03:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11267,
+    "updated_at": "2026-09-01T03:14:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fa costare meno le richieste a Claude, senza cambiare le risposte. -76% misurato sull API vera. Libreria Python o gatewa",
@@ -54,15 +99,6 @@
     "url": "https://github.com/togettoyou/zke"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
     "id": "monaal10/valuemaxx",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-09-01T02:42:11Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27759,
-    "updated_at": "2026-09-01T03:15:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -274,7 +301,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21720,
+    "stars": 21722,
     "updated_at": "2026-09-01T01:17:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -340,15 +367,6 @@
     "stars": 47,
     "updated_at": "2026-09-01T00:59:16Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11266,
-    "updated_at": "2026-09-01T03:14:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T02:25:30Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:27:12Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 64,
-    "updated_at": "2026-09-01T00:26:25Z",
-    "url": "https://github.com/jochi2018/Soup"
   }
 ]
