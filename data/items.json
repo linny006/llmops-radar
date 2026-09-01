@@ -1,12 +1,84 @@
 [
   {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 14,
+    "updated_at": "2026-09-01T15:30:02Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1892,
+    "updated_at": "2026-09-01T15:25:10Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24729,
+    "updated_at": "2026-09-01T15:21:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3521,
+    "updated_at": "2026-09-01T15:28:30Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T15:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34044,
+    "updated_at": "2026-09-01T15:26:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11281,
-    "updated_at": "2026-09-01T15:12:00Z",
+    "updated_at": "2026-09-01T15:29:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-01T15:11:24Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 35,
+    "updated_at": "2026-09-01T15:11:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-01T15:12:20Z",
+    "updated_at": "2026-09-01T15:27:45Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -36,31 +108,22 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T15:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1890,
-    "updated_at": "2026-09-01T15:07:05Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7727,
-    "updated_at": "2026-09-01T14:54:55Z",
+    "updated_at": "2026-09-01T15:25:17Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-09-01T14:54:00Z",
+    "url": "https://github.com/api-evangelist/log10"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11920,
-    "updated_at": "2026-09-01T15:15:13Z",
+    "updated_at": "2026-09-01T15:24:12Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:49:48Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-09-01T15:11:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57753,
-    "updated_at": "2026-09-01T15:12:25Z",
+    "updated_at": "2026-09-01T15:29:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,13 +171,31 @@
     "url": "https://github.com/santifer/cv-santiago"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3531,
+    "updated_at": "2026-09-01T14:36:00Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 81,
-    "updated_at": "2026-09-01T15:02:50Z",
+    "updated_at": "2026-09-01T15:21:16Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "AI agent for insurance claims intake \u2014 .NET 10, Microsoft Agent Framework, Azure. Extracts data from claim files, verifi",
+    "id": "BobMatusic/claims-intake-agent",
+    "language": "C#",
+    "name": "BobMatusic/claims-intake-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:30:33Z",
+    "url": "https://github.com/BobMatusic/claims-intake-agent"
   },
   {
     "description": "Centralized, OpenAI-compatible gateway for routing internal LLM traffic through one controlled API surface \u2014 multi-provi",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:30:08Z",
     "url": "https://github.com/AbhaydityaPratapSingh/llm-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34044,
-    "updated_at": "2026-09-01T15:14:08Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A deterministic groundedness linter for RAG/LLM answers \u2014 catches fabricated numbers, unsupported claims, and broken cit",
@@ -178,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-09-01T14:23:28Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 51,
+    "updated_at": "2026-09-01T14:23:04Z",
+    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1190,
-    "updated_at": "2026-09-01T14:37:59Z",
+    "updated_at": "2026-09-01T15:18:43Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -266,7 +338,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2741,
-    "updated_at": "2026-09-01T14:06:24Z",
+    "updated_at": "2026-09-01T15:27:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-01T15:06:14Z",
+    "updated_at": "2026-09-01T15:19:32Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-01T14:54:57Z",
+    "updated_at": "2026-09-01T15:26:28Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1323,
-    "updated_at": "2026-09-01T15:10:27Z",
+    "updated_at": "2026-09-01T15:23:15Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 419,
-    "updated_at": "2026-09-01T15:15:09Z",
+    "updated_at": "2026-09-01T15:17:19Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -360,15 +432,6 @@
     "url": "https://github.com/runcycles/cycles-client-rust"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3521,
-    "updated_at": "2026-09-01T15:07:40Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
     "id": "runcycles/cycles-mcp-server",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T13:32:20Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:32:20Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:30:39Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:05:31Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24728,
-    "updated_at": "2026-09-01T13:23:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:20:21Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:18:54Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:18:50Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
   }
 ]
