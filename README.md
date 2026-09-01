@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24713 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-09-01 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 3 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4248 | Python | 2026-09-01 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 4 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-09-01 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
-| 5 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 7 | TypeScript | 2026-09-01 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
-| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7711 | Go | 2026-09-01 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57722 | Python | 2026-09-01 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 8 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5705 | Go | 2026-09-01 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24713 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-09-01 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 4 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4248 | Python | 2026-09-01 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 5 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-09-01 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
+| 6 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 7 | TypeScript | 2026-09-01 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
+| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7711 | Go | 2026-09-01 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57722 | Python | 2026-09-01 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 9 | [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) | 5705 | Go | 2026-09-01 | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full- |
 | 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 34 | Go | 2026-09-01 | Create your Agentic AIs. |
 | 11 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27759 | Python | 2026-09-01 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 12 | [akash-coded/aws-bedrock-agentcore-strands](https://github.com/akash-coded/aws-bedrock-agentcore-strands) | 2 | Jupyter Notebook | 2026-09-01 | Free hands-on curriculum for building production AI agents on AWS — Amazon Bedrock, AgentCore, Strands, LangGraph and RA |
