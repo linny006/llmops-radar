@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57769,
+    "updated_at": "2026-09-01T21:45:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11284,
+    "updated_at": "2026-09-01T21:42:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
     "name": "saghosh8/AI-For-DevOps",
     "stars": 14,
-    "updated_at": "2026-09-01T21:29:41Z",
+    "updated_at": "2026-09-01T21:42:10Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-01T21:38:54Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34054,
+    "updated_at": "2026-09-01T21:37:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-01T21:34:55Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7738,
+    "updated_at": "2026-09-01T21:34:43Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -14,17 +68,35 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 81,
-    "updated_at": "2026-09-01T21:29:24Z",
+    "updated_at": "2026-09-01T21:43:34Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8490,
+    "updated_at": "2026-09-01T21:33:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57768,
-    "updated_at": "2026-09-01T21:28:05Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-01T21:35:07Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-01T21:32:09Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Hands-on technology workshops for enterprise teams covering Data Engineering, Databricks, Snowflake, AWS, DevOps, Cloud,",
@@ -32,7 +104,7 @@
     "language": "HTML",
     "name": "becloudready/workshops",
     "stars": 6,
-    "updated_at": "2026-09-01T21:18:57Z",
+    "updated_at": "2026-09-01T21:30:30Z",
     "url": "https://github.com/becloudready/workshops"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T21:15:30Z",
+    "updated_at": "2026-09-01T21:30:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-01T21:12:58Z",
+    "updated_at": "2026-09-01T21:43:39Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-01T21:10:06Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
     "id": "justanotheruser82174/cua-lite",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T21:09:58Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-01T21:25:27Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
@@ -189,15 +243,6 @@
     "url": "https://github.com/openloop-team/openloop"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7737,
-    "updated_at": "2026-09-01T21:12:29Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -229,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4519,
+    "stars": 4526,
     "updated_at": "2026-09-01T20:48:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -288,15 +333,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11282,
-    "updated_at": "2026-09-01T21:29:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
     "id": "api-evangelist/evidently",
     "language": "\u2014",
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T20:18:01Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34052,
-    "updated_at": "2026-09-01T21:12:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -351,15 +378,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8489,
-    "updated_at": "2026-09-01T21:15:34Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -385,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T19:57:06Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-09-01T19:50:11Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T19:29:19Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T19:27:59Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
