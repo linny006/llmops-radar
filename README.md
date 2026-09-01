@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 19:00 UTC
+> ⏰ Last updated: 2026-09-01 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-01 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-09-01 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 35 | Go | 2026-09-01 | Agentic Runtime |
-| 4 | [abraham-sanchez-olea/resume](https://github.com/abraham-sanchez-olea/resume) | 0 | — | 2026-09-01 | Professional resume of Abraham Sanchez Olea — Senior Software Engineer (distributed systems, .NET, cloud, LLMOps). |
-| 5 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8484 | Rust | 2026-09-01 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 6 | [mesedi-ai/mesedi](https://github.com/mesedi-ai/mesedi) | 0 | Go | 2026-09-01 | Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes — loops |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24731 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34050 | TypeScript | 2026-09-01 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 10 | [kleberbernardo/rag_agent](https://github.com/kleberbernardo/rag_agent) | 1 | Python | 2026-09-01 | Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit |
-| 11 | [ather-techie/ai-system-design-interview](https://github.com/ather-techie/ai-system-design-interview) | 23 | — | 2026-09-01 | A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies. |
-| 12 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27768 | Python | 2026-09-01 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 13 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-01 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11282 | Python | 2026-09-01 | AI Observability & Evaluation |
-| 15 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-01 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 16 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-01 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 17 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4463 | Python | 2026-09-01 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 18 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21730 | Python | 2026-09-01 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 19 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-09-01 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
-| 20 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57766 | Python | 2026-09-01 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57766 | Python | 2026-09-01 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-01 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8485 | Rust | 2026-09-01 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 5 | [redevops-io/RAAAL](https://github.com/redevops-io/RAAAL) | 0 | Python | 2026-09-01 | Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 35 | Go | 2026-09-01 | Agentic Runtime |
+| 7 | [abraham-sanchez-olea/resume](https://github.com/abraham-sanchez-olea/resume) | 0 | — | 2026-09-01 | Professional resume of Abraham Sanchez Olea — Senior Software Engineer (distributed systems, .NET, cloud, LLMOps). |
+| 8 | [mesedi-ai/mesedi](https://github.com/mesedi-ai/mesedi) | 0 | Go | 2026-09-01 | Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes — loops |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24732 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34050 | TypeScript | 2026-09-01 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 11 | [kleberbernardo/rag_agent](https://github.com/kleberbernardo/rag_agent) | 1 | Python | 2026-09-01 | Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit |
+| 12 | [ather-techie/ai-system-design-interview](https://github.com/ather-techie/ai-system-design-interview) | 23 | — | 2026-09-01 | A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies. |
+| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27768 | Python | 2026-09-01 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 14 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-01 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11282 | Python | 2026-09-01 | AI Observability & Evaluation |
+| 16 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-01 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 17 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-01 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 18 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4470 | Python | 2026-09-01 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 19 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21730 | Python | 2026-09-01 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 20 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-09-01 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
 | 21 | [alexejsailer/agentic-nets](https://github.com/alexejsailer/agentic-nets) | 7 | TypeScript | 2026-09-01 | Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution. |
 | 22 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 8 | Go | 2026-09-01 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 23 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3522 | TypeScript | 2026-09-01 | The platform for LLM evaluations and AI agent testing |
