@@ -1,12 +1,84 @@
 [
   {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 6,
+    "updated_at": "2026-09-01T19:39:31Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57765,
+    "updated_at": "2026-09-01T19:44:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:33:50Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 4480,
+    "updated_at": "2026-09-01T19:33:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:38:33Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T19:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-01T19:29:19Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8485,
+    "stars": 8486,
     "updated_at": "2026-09-01T19:28:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T19:27:59Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Infrastructure-as-code for AI agent workflows",
@@ -18,13 +90,13 @@
     "url": "https://github.com/hensu-project/hensu"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 4478,
-    "updated_at": "2026-09-01T19:26:44Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-09-01T19:26:20Z",
+    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
@@ -50,35 +122,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T19:30:12Z",
+    "updated_at": "2026-09-01T19:38:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T19:23:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 6,
-    "updated_at": "2026-09-01T19:25:20Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57766,
-    "updated_at": "2026-09-01T19:30:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -90,13 +135,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T19:27:59Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langfuse/langfuse",
+    "stars": 34050,
+    "updated_at": "2026-09-01T19:09:51Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7733,
-    "updated_at": "2026-09-01T19:21:58Z",
+    "updated_at": "2026-09-01T19:39:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-09-01T18:55:27Z",
+    "updated_at": "2026-09-01T19:38:28Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/abraham-sanchez-olea/resume"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:47:47Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -142,15 +178,6 @@
     "stars": 24733,
     "updated_at": "2026-09-01T18:46:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34050,
-    "updated_at": "2026-09-01T19:09:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
@@ -189,15 +216,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:47:35Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -212,17 +230,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21730,
-    "updated_at": "2026-09-01T18:32:28Z",
+    "updated_at": "2026-09-01T19:32:52Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-09-01T19:26:20Z",
-    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T19:22:10Z",
+    "updated_at": "2026-09-01T19:35:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T16:15:52Z",
     "url": "https://github.com/sanketsudake/agentic-engineering"
-  },
-  {
-    "description": "Evaluation harness for Amazon Bedrock: run a fixed case suite across models and prompts, and compare scores, cost and la",
-    "id": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "language": "Python",
-    "name": "vinhnguyenthanhdn/bedrock-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-09-01T16:15:33Z",
-    "url": "https://github.com/vinhnguyenthanhdn/bedrock-eval-harness"
   }
 ]
