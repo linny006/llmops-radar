@@ -1,12 +1,93 @@
 [
   {
+    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
+    "id": "davidahmann/fde-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/fde-guide",
+    "stars": 68,
+    "updated_at": "2026-09-01T12:57:50Z",
+    "url": "https://github.com/davidahmann/fde-guide"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-01T12:59:56Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1888,
+    "updated_at": "2026-09-01T12:55:50Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-09-01T12:37:14Z",
+    "updated_at": "2026-09-01T12:52:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:51:41Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21728,
+    "updated_at": "2026-09-01T12:50:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agentic Engineering Worksheet \u2014 a trace-first handbook with labs, tiered Q&A, and per-level exams",
+    "id": "sanketsudake/agentic-engineering",
+    "language": "Python",
+    "name": "sanketsudake/agentic-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:49:20Z",
+    "url": "https://github.com/sanketsudake/agentic-engineering"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57744,
+    "updated_at": "2026-09-01T12:56:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T12:54:58Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -23,17 +104,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34042,
-    "updated_at": "2026-09-01T12:32:22Z",
+    "updated_at": "2026-09-01T12:55:18Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T12:43:47Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -45,13 +117,13 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
+    "id": "runcycles/cycles-claude-plugin",
+    "language": "JavaScript",
+    "name": "runcycles/cycles-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:30:41Z",
+    "url": "https://github.com/runcycles/cycles-claude-plugin"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -59,7 +131,7 @@
     "language": "Go",
     "name": "gagarin-cloud/gg",
     "stars": 1,
-    "updated_at": "2026-09-01T12:30:25Z",
+    "updated_at": "2026-09-01T12:57:58Z",
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-01T12:29:08Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:27:55Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 419,
-    "updated_at": "2026-09-01T12:41:58Z",
+    "updated_at": "2026-09-01T12:59:15Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -122,17 +185,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2741,
-    "updated_at": "2026-09-01T12:10:27Z",
+    "updated_at": "2026-09-01T12:59:37Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1887,
-    "updated_at": "2026-09-01T12:32:33Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3520,
-    "updated_at": "2026-09-01T12:41:42Z",
+    "updated_at": "2026-09-01T12:58:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T11:48:08Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 68,
-    "updated_at": "2026-09-01T11:47:06Z",
-    "url": "https://github.com/davidahmann/fde-guide"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7722,
-    "updated_at": "2026-09-01T12:42:32Z",
+    "updated_at": "2026-09-01T12:59:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-09-01T11:23:51Z",
+    "updated_at": "2026-09-01T12:46:03Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 27766,
     "updated_at": "2026-09-01T11:15:25Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57743,
-    "updated_at": "2026-09-01T12:44:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-09-01T11:06:34Z",
+    "updated_at": "2026-09-01T12:58:42Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-01T12:14:57Z",
+    "updated_at": "2026-09-01T13:00:14Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-01T11:22:47Z",
+    "updated_at": "2026-09-01T12:52:26Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21728,
-    "updated_at": "2026-09-01T12:23:24Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
     "id": "clearml/clearml-agent",
     "language": "Python",
@@ -391,7 +418,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29996,
+    "stars": 29995,
     "updated_at": "2026-09-01T10:04:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-01T09:38:14Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
-    "id": "DINAKAR-S/stormdoor",
-    "language": "Python",
-    "name": "DINAKAR-S/stormdoor",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:33:28Z",
-    "url": "https://github.com/DINAKAR-S/stormdoor"
-  },
-  {
-    "description": "Versioned, eval-backed delegation policy for AI agents\u2014prove what can leave the frontier model, enforce it in runtimes, ",
-    "id": "kkrlstrm/model-eval-gate",
-    "language": "Python",
-    "name": "kkrlstrm/model-eval-gate",
-    "stars": 1,
-    "updated_at": "2026-09-01T09:19:26Z",
-    "url": "https://github.com/kkrlstrm/model-eval-gate"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:11:19Z",
-    "url": "https://github.com/mystxcal/flourite"
   }
 ]
