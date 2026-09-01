@@ -1,11 +1,29 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:57:52Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Did it actually work? A contract checker for LLM and agent output \u2014 rejects refusals, hedges, wrong-language output, ans",
+    "id": "GXCafe/honto-contract",
+    "language": "JavaScript",
+    "name": "GXCafe/honto-contract",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:55:18Z",
+    "url": "https://github.com/GXCafe/honto-contract"
+  },
+  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
     "name": "JumpMasters/tollgate",
     "stars": 0,
-    "updated_at": "2026-09-01T22:44:43Z",
+    "updated_at": "2026-09-01T22:54:19Z",
     "url": "https://github.com/JumpMasters/tollgate"
   },
   {
@@ -14,8 +32,89 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-01T22:43:24Z",
+    "updated_at": "2026-09-01T22:53:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:53:06Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57770,
+    "updated_at": "2026-09-01T22:58:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:50:13Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:49:50Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:49:11Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:48:38Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:48:01Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8491,
+    "updated_at": "2026-09-01T22:59:36Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T22:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -135,15 +234,6 @@
     "url": "https://github.com/Josna-R/raguard-eval"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-09-01T22:24:51Z",
+    "updated_at": "2026-09-01T22:49:34Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -196,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:22:26Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57770,
-    "updated_at": "2026-09-01T22:44:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -261,15 +342,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:14:32Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -293,7 +365,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34055,
-    "updated_at": "2026-09-01T22:07:41Z",
+    "updated_at": "2026-09-01T22:53:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -304,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:07:20Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:05:26Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -369,21 +432,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8491,
-    "updated_at": "2026-09-01T22:30:41Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11284,
-    "updated_at": "2026-09-01T22:21:01Z",
+    "updated_at": "2026-09-01T22:57:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-01T21:42:10Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-09-01T21:58:55Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-01T22:32:36Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7738,
-    "updated_at": "2026-09-01T21:34:43Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 81,
-    "updated_at": "2026-09-01T21:43:34Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-01T21:35:07Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:31:36Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
