@@ -1,12 +1,12 @@
 [
   {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:12:17Z",
-    "url": "https://github.com/api-evangelist/dify"
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:28:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57766,
-    "updated_at": "2026-09-01T20:15:04Z",
+    "updated_at": "2026-09-01T20:30:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +23,71 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T20:08:44Z",
+    "updated_at": "2026-09-01T20:29:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:18:01Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34052,
+    "updated_at": "2026-09-01T20:17:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:16:32Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 35,
+    "updated_at": "2026-09-01T20:16:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open-source control plane for shared AI agents",
+    "id": "openloop-team/openloop",
+    "language": "Python",
+    "name": "openloop-team/openloop",
+    "stars": 2,
+    "updated_at": "2026-09-01T20:20:18Z",
+    "url": "https://github.com/openloop-team/openloop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T20:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:12:17Z",
+    "url": "https://github.com/api-evangelist/dify"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -50,17 +113,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8489,
-    "updated_at": "2026-09-01T20:04:36Z",
+    "updated_at": "2026-09-01T20:28:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -72,6 +126,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-01T19:58:57Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
     "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
     "id": "api-evangelist/braintrust-data",
     "language": "\u2014",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T19:58:18Z",
     "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:09:17Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -103,7 +157,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4488,
+    "stars": 4493,
     "updated_at": "2026-09-01T19:56:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -115,6 +169,15 @@
     "stars": 17,
     "updated_at": "2026-09-01T19:50:11Z",
     "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21731,
+    "updated_at": "2026-09-01T19:49:14Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-01T20:12:25Z",
+    "updated_at": "2026-09-01T20:27:41Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -166,7 +229,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7735,
+    "stars": 7736,
     "updated_at": "2026-09-01T19:39:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -234,24 +297,6 @@
     "url": "https://github.com/BorjaIP/personal-os-skills"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 35,
-    "updated_at": "2026-09-01T19:21:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34051,
-    "updated_at": "2026-09-01T19:09:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Professional resume of Abraham Sanchez Olea \u2014 Senior Software Engineer (distributed systems, .NET, cloud, LLMOps).",
     "id": "abraham-sanchez-olea/resume",
     "language": "\u2014",
@@ -297,15 +342,6 @@
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21730,
-    "updated_at": "2026-09-01T19:49:14Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
     "id": "alexejsailer/agentic-nets",
     "language": "TypeScript",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-01T20:12:48Z",
+    "updated_at": "2026-09-01T20:28:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T19:46:25Z",
+    "updated_at": "2026-09-01T20:25:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T17:47:00Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:44:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-01T17:10:48Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 222,
-    "updated_at": "2026-09-01T17:01:46Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:00:06Z",
-    "url": "https://github.com/cognifityai/verdict"
   }
 ]
