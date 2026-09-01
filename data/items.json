@@ -1,5 +1,149 @@
 [
   {
+    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
+    "id": "JumpMasters/tollgate",
+    "language": "Python",
+    "name": "JumpMasters/tollgate",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:44:43Z",
+    "url": "https://github.com/JumpMasters/tollgate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 35,
+    "updated_at": "2026-09-01T22:43:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:43:07Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:41:44Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:41:13Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2537,
+    "updated_at": "2026-09-01T22:40:58Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
+    "id": "harishu652/Class-AI-Agent",
+    "language": "\u2014",
+    "name": "harishu652/Class-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:38:02Z",
+    "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
+    "id": "Healthful-article791/rag-systems-production",
+    "language": "\u2014",
+    "name": "Healthful-article791/rag-systems-production",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:37:08Z",
+    "url": "https://github.com/Healthful-article791/rag-systems-production"
+  },
+  {
+    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
+    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "language": "\u2014",
+    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:33:11Z",
+    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:32:55Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:32:21Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:32:16Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:31:44Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:31:31Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Reference-free LLM/RAG evaluation harness \u2014 groundedness, relevance & hallucination detection with a Streamlit dashboard",
+    "id": "Josna-R/raguard-eval",
+    "language": "Python",
+    "name": "Josna-R/raguard-eval",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:31:08Z",
+    "url": "https://github.com/Josna-R/raguard-eval"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -9,15 +153,6 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 35,
-    "updated_at": "2026-09-01T22:29:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
     "id": "FawwazAzka/openclaw-docs",
     "language": "JavaScript",
@@ -25,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:28:28Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:26:28Z",
+    "url": "https://github.com/TheusHen/eleanity"
   },
   {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
@@ -59,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57770,
-    "updated_at": "2026-09-01T22:29:34Z",
+    "updated_at": "2026-09-01T22:44:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -70,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:19:58Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-01T22:19:58Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
@@ -108,15 +261,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -142,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:10:27Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34055,
+    "updated_at": "2026-09-01T22:07:41Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -189,15 +342,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34054,
-    "updated_at": "2026-09-01T22:07:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -230,7 +374,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8491,
-    "updated_at": "2026-09-01T22:25:14Z",
+    "updated_at": "2026-09-01T22:30:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -266,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T22:21:20Z",
+    "updated_at": "2026-09-01T22:32:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -302,151 +446,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-01T22:30:03Z",
+    "updated_at": "2026-09-01T22:31:36Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-01T21:11:27Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1170,
-    "updated_at": "2026-09-01T21:10:40Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "dataagentsai/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "dataagentsai/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:07:25Z",
-    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 6,
-    "updated_at": "2026-09-01T21:01:08Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Production-style LangGraph support-ticket workflow with Gemini, FastAPI, automated tests, CI/CD, containers, infrastruct",
-    "id": "Sol1986/support-triage-agent",
-    "language": "Python",
-    "name": "Sol1986/support-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:00:35Z",
-    "url": "https://github.com/Sol1986/support-triage-agent"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:00:02Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
-    "id": "riscoss63/servseal",
-    "language": "Python",
-    "name": "riscoss63/servseal",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:59:52Z",
-    "url": "https://github.com/riscoss63/servseal"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:56:29Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:55:58Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "The open-source control plane for shared AI agents",
-    "id": "openloop-team/openloop",
-    "language": "Python",
-    "name": "openloop-team/openloop",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:55:27Z",
-    "url": "https://github.com/openloop-team/openloop"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:51:13Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:51:00Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 4549,
-    "updated_at": "2026-09-01T20:48:38Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:42:36Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:42:00Z",
-    "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "A reliability harness for an LLM triage agent \u2014 proves you can detect when the agent is silently wrong. 8 planted failur",
-    "id": "siddchauhan77/complaint-triage-harness",
-    "language": "HTML",
-    "name": "siddchauhan77/complaint-triage-harness",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:40:37Z",
-    "url": "https://github.com/siddchauhan77/complaint-triage-harness"
   }
 ]
