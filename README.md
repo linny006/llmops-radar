@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 11:57 UTC
+> ⏰ Last updated: 2026-09-01 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3520 | TypeScript | 2026-09-01 | The platform for LLM evaluations and AI agent testing |
-| 2 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-09-01 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 34 | Go | 2026-09-01 | Create your Agentic AIs. |
-| 4 | [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | 68 | JavaScript | 2026-09-01 | FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations. |
-| 5 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-01 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-09-01 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
-| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34040 | TypeScript | 2026-09-01 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 9 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-09-01 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2741 | C++ | 2026-09-01 | Community maintained hardware plugin for vLLM on Ascend |
+| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34040 | TypeScript | 2026-09-01 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2741 | C++ | 2026-09-01 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3520 | TypeScript | 2026-09-01 | The platform for LLM evaluations and AI agent testing |
+| 5 | [ArtVsMark/claude-code-playbook](https://github.com/ArtVsMark/claude-code-playbook) | 1 | Python | 2026-09-01 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 34 | Go | 2026-09-01 | Create your Agentic AIs. |
+| 7 | [davidahmann/fde-guide](https://github.com/davidahmann/fde-guide) | 68 | JavaScript | 2026-09-01 | FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations. |
+| 8 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-01 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 9 | [monaal10/valuemaxx](https://github.com/monaal10/valuemaxx) | 0 | Python | 2026-09-01 | Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help |
+| 10 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-09-01 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
 | 11 | [iblai/os](https://github.com/iblai/os) | 17 | TypeScript | 2026-09-01 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 12 | [Juror-AI/juror](https://github.com/Juror-AI/juror) | 122 | TypeScript | 2026-09-01 | Cheaper and better Greptile alternative runs on your own github actions. |
 | 13 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-01 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
