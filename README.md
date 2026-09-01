@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 01:15 UTC
+> ⏰ Last updated: 2026-09-01 01:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-01 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 2 | [GXCafe/honto-contract](https://github.com/GXCafe/honto-contract) | 0 | JavaScript | 2026-09-01 | Did it actually work? A contract checker for LLM and agent output — rejects refusals, hedges, wrong-language output, ans |
-| 3 | [AAH20/enterprise-ai-production-control-plane](https://github.com/AAH20/enterprise-ai-production-control-plane) | 0 | Python | 2026-09-01 | Enterprise AI control plane for Kubernetes GPU FinOps, LLM observability, agent reliability, multicloud inference and bu |
-| 4 | [zuoxu3310/AGENTOS](https://github.com/zuoxu3310/AGENTOS) | 1 | HTML | 2026-09-01 | A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other  |
-| 5 | [infercrane/infercrane](https://github.com/infercrane/infercrane) | 51 | Go | 2026-09-01 | Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h |
-| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2736 | C++ | 2026-09-01 | Community maintained hardware plugin for vLLM on Ascend |
-| 8 | [Aidan2111/agent-autonomy-score](https://github.com/Aidan2111/agent-autonomy-score) | 0 | Python | 2026-09-01 | Risk scoring for deciding how much supervision AI coding agents need. |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-01 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-01 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 3 | [GXCafe/honto-contract](https://github.com/GXCafe/honto-contract) | 0 | JavaScript | 2026-09-01 | Did it actually work? A contract checker for LLM and agent output — rejects refusals, hedges, wrong-language output, ans |
+| 4 | [AAH20/enterprise-ai-production-control-plane](https://github.com/AAH20/enterprise-ai-production-control-plane) | 0 | Python | 2026-09-01 | Enterprise AI control plane for Kubernetes GPU FinOps, LLM observability, agent reliability, multicloud inference and bu |
+| 5 | [zuoxu3310/AGENTOS](https://github.com/zuoxu3310/AGENTOS) | 1 | HTML | 2026-09-01 | A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other  |
+| 6 | [infercrane/infercrane](https://github.com/infercrane/infercrane) | 51 | Go | 2026-09-01 | Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h |
+| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-01 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2736 | C++ | 2026-09-01 | Community maintained hardware plugin for vLLM on Ascend |
+| 9 | [Aidan2111/agent-autonomy-score](https://github.com/Aidan2111/agent-autonomy-score) | 0 | Python | 2026-09-01 | Risk scoring for deciding how much supervision AI coding agents need. |
 | 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57701 | Python | 2026-09-01 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 11 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1189 | Python | 2026-09-01 | OpenTelemetry Instrumentation for AI Observability |
 | 12 | [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | 47 | TypeScript | 2026-09-01 | Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu |
