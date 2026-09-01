@@ -1,21 +1,57 @@
 [
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
     "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-01T15:58:44Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-09-01T16:09:27Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1190,
+    "updated_at": "2026-09-01T16:07:42Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57756,
-    "updated_at": "2026-09-01T15:53:46Z",
+    "stars": 57757,
+    "updated_at": "2026-09-01T16:11:47Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-09-01T16:07:43Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T16:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-01T16:11:36Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34047,
-    "updated_at": "2026-09-01T16:00:24Z",
+    "updated_at": "2026-09-01T16:11:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,17 +68,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T16:00:28Z",
+    "updated_at": "2026-09-01T16:07:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T15:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -61,6 +88,15 @@
     "stars": 7728,
     "updated_at": "2026-09-01T15:38:27Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 81,
+    "updated_at": "2026-09-01T15:37:40Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -86,8 +122,53 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-01T16:00:19Z",
+    "updated_at": "2026-09-01T16:08:04Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:31:58Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:31:55Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:31:53Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:31:23Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:29:22Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
@@ -140,8 +221,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3521,
-    "updated_at": "2026-09-01T15:59:05Z",
+    "updated_at": "2026-09-01T16:12:09Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:20:58Z",
+    "url": "https://github.com/api-evangelist/raindrop"
   },
   {
     "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
@@ -167,8 +257,17 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-01T15:19:42Z",
+    "updated_at": "2026-09-01T16:02:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
+    "id": "Kokotpica/surogate",
+    "language": "C++",
+    "name": "Kokotpica/surogate",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:19:41Z",
+    "url": "https://github.com/Kokotpica/surogate"
   },
   {
     "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
@@ -178,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:19:25Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
+  },
+  {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:18:07Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -221,7 +329,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-01T15:41:35Z",
+    "updated_at": "2026-09-01T16:11:37Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -279,6 +387,15 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:03:23Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
     "id": "Kushagra1A/openpi",
     "language": "Python",
@@ -329,124 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11920,
-    "updated_at": "2026-09-01T15:45:58Z",
+    "updated_at": "2026-09-01T16:03:30Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:49:48Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a",
-    "id": "limina-ai/limina-python",
-    "language": "Python",
-    "name": "limina-ai/limina-python",
-    "stars": 1,
-    "updated_at": "2026-09-01T14:39:57Z",
-    "url": "https://github.com/limina-ai/limina-python"
-  },
-  {
-    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
-    "id": "santifer/cv-santiago",
-    "language": "HTML",
-    "name": "santifer/cv-santiago",
-    "stars": 825,
-    "updated_at": "2026-09-01T14:38:11Z",
-    "url": "https://github.com/santifer/cv-santiago"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3531,
-    "updated_at": "2026-09-01T15:59:09Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 81,
-    "updated_at": "2026-09-01T15:37:40Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "AI agent for insurance claims intake \u2014 .NET 10, Microsoft Agent Framework, Azure. Extracts data from claim files, verifi",
-    "id": "BobMatusic/claims-intake-agent",
-    "language": "C#",
-    "name": "BobMatusic/claims-intake-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:30:33Z",
-    "url": "https://github.com/BobMatusic/claims-intake-agent"
-  },
-  {
-    "description": "Centralized, OpenAI-compatible gateway for routing internal LLM traffic through one controlled API surface \u2014 multi-provi",
-    "id": "AbhaydityaPratapSingh/llm-gateway",
-    "language": "Python",
-    "name": "AbhaydityaPratapSingh/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:30:08Z",
-    "url": "https://github.com/AbhaydityaPratapSingh/llm-gateway"
-  },
-  {
-    "description": "A deterministic groundedness linter for RAG/LLM answers \u2014 catches fabricated numbers, unsupported claims, and broken cit",
-    "id": "RootX22/groundcheck",
-    "language": "Python",
-    "name": "RootX22/groundcheck",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:28:23Z",
-    "url": "https://github.com/RootX22/groundcheck"
-  },
-  {
-    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:27:56Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:24:27Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-09-01T14:23:28Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 51,
-    "updated_at": "2026-09-01T14:23:04Z",
-    "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:21:50Z",
-    "url": "https://github.com/api-evangelist/dify"
   }
 ]
