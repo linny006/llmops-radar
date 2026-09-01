@@ -1,5 +1,86 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24713,
+    "updated_at": "2026-09-01T06:28:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-01T06:26:35Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 4248,
+    "updated_at": "2026-09-01T06:21:26Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
+    "id": "monaal10/valuemaxx",
+    "language": "Python",
+    "name": "monaal10/valuemaxx",
+    "stars": 0,
+    "updated_at": "2026-09-01T06:20:26Z",
+    "url": "https://github.com/monaal10/valuemaxx"
+  },
+  {
+    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
+    "id": "alexejsailer/agentic-nets",
+    "language": "TypeScript",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-09-01T06:20:19Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7711,
+    "updated_at": "2026-09-01T06:24:53Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57722,
+    "updated_at": "2026-09-01T06:20:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5705,
+    "updated_at": "2026-09-01T06:15:47Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T06:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Create your Agentic AIs.",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -7,6 +88,15 @@
     "stars": 34,
     "updated_at": "2026-09-01T06:14:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27759,
+    "updated_at": "2026-09-01T06:28:21Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -27,24 +117,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24712,
-    "updated_at": "2026-09-01T06:14:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57722,
-    "updated_at": "2026-09-01T06:08:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -63,15 +135,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
-    "id": "monaal10/valuemaxx",
-    "language": "Python",
-    "name": "monaal10/valuemaxx",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:03:58Z",
-    "url": "https://github.com/monaal10/valuemaxx"
-  },
-  {
     "description": "LLMOps discipline: versioned prompt registry, evaluation gates that block regressions in CI, canary rollout with automat",
     "id": "KarthikTools/llmops-eval-pipeline",
     "language": "Python",
@@ -81,22 +144,13 @@
     "url": "https://github.com/KarthikTools/llmops-eval-pipeline"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 4244,
-    "updated_at": "2026-09-01T06:03:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T06:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
+    "id": "super-ZXQ/ai-commerce-intelligence-platform",
+    "language": "Jupyter Notebook",
+    "name": "super-ZXQ/ai-commerce-intelligence-platform",
+    "stars": 1,
+    "updated_at": "2026-09-01T05:58:23Z",
+    "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -112,7 +166,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11267,
+    "stars": 11268,
     "updated_at": "2026-09-01T05:53:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -126,15 +180,6 @@
     "url": "https://github.com/aroraneel/AI-Engineer"
   },
   {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-09-01T05:40:02Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T05:41:31Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
-    "id": "super-ZXQ/ai-commerce-intelligence-platform",
-    "language": "Jupyter Notebook",
-    "name": "super-ZXQ/ai-commerce-intelligence-platform",
-    "stars": 1,
-    "updated_at": "2026-09-01T05:58:23Z",
-    "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -189,15 +225,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27759,
-    "updated_at": "2026-09-01T06:13:51Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-01T06:13:19Z",
+    "updated_at": "2026-09-01T06:29:54Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -230,17 +257,8 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 51,
-    "updated_at": "2026-09-01T05:05:08Z",
+    "updated_at": "2026-09-01T06:25:18Z",
     "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-01T04:55:31Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "A secure file system for your agents to execute code",
@@ -293,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-09-01T06:06:09Z",
+    "updated_at": "2026-09-01T06:19:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11919,
-    "updated_at": "2026-09-01T03:57:31Z",
+    "updated_at": "2026-09-01T06:15:37Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:19:23Z",
     "url": "https://github.com/Kazu-Labs/tracemeter"
-  },
-  {
-    "description": "Free project-driven roadmap: DevOps engineer \u2192 AI-native infra. Linux, K8s, Terraform, observability, GitOps, LLM/MLOps ",
-    "id": "sandeepk24/devops-to-ai",
-    "language": "Python",
-    "name": "sandeepk24/devops-to-ai",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:07:48Z",
-    "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:08:54Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   }
 ]
