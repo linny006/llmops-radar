@@ -1,5 +1,77 @@
 [
   {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-09-01T12:37:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-01T12:36:30Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34042,
+    "updated_at": "2026-09-01T12:32:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T12:43:47Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:31:39Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:30:25Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:29:08Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
     "id": "akash-coded/aws-bedrock-agentcore-strands",
     "language": "Jupyter Notebook",
@@ -9,13 +81,22 @@
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-09-01T12:26:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:26:38Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-01T12:38:23Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -32,26 +113,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 419,
-    "updated_at": "2026-09-01T12:30:07Z",
+    "updated_at": "2026-09-01T12:41:58Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34041,
-    "updated_at": "2026-09-01T12:29:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1887,
-    "updated_at": "2026-09-01T12:29:19Z",
+    "updated_at": "2026-09-01T12:32:33Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3520,
-    "updated_at": "2026-09-01T12:21:41Z",
+    "updated_at": "2026-09-01T12:41:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/davidahmann/fde-guide"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:23:37Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
     "id": "monaal10/valuemaxx",
     "language": "Python",
@@ -135,15 +189,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-09-01T12:25:57Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7722,
-    "updated_at": "2026-09-01T11:24:16Z",
+    "updated_at": "2026-09-01T12:42:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -180,21 +225,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T11:37:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57743,
-    "updated_at": "2026-09-01T12:27:01Z",
+    "updated_at": "2026-09-01T12:44:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-01T11:49:32Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -248,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-01T11:51:19Z",
+    "updated_at": "2026-09-01T12:39:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11920,
-    "updated_at": "2026-09-01T12:24:00Z",
+    "updated_at": "2026-09-01T12:35:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -364,7 +391,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 29994,
+    "stars": 29996,
     "updated_at": "2026-09-01T10:04:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T09:11:19Z",
     "url": "https://github.com/mystxcal/flourite"
-  },
-  {
-    "description": "Drop-in n8n sub-workflows that put a spend cap, iteration budget, error-rate circuit breaker and manual kill switch in f",
-    "id": "waseemnasir2k26/n8n-circuit-breaker-pack",
-    "language": "Python",
-    "name": "waseemnasir2k26/n8n-circuit-breaker-pack",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:06:10Z",
-    "url": "https://github.com/waseemnasir2k26/n8n-circuit-breaker-pack"
-  },
-  {
-    "description": "Enterprise Agent Fleet Architecture: Beyond the Single-Bot Trap | Published on omnithium.ai",
-    "id": "ApertaCodex/article-enterprise-agent-fleet-architecture-beyond-the-single-bot-tr",
-    "language": "\u2014",
-    "name": "ApertaCodex/article-enterprise-agent-fleet-architecture-beyond-the-single-bot-tr",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:01:02Z",
-    "url": "https://github.com/ApertaCodex/article-enterprise-agent-fleet-architecture-beyond-the-single-bot-tr"
-  },
-  {
-    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-01T08:58:22Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   }
 ]
