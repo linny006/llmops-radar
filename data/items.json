@@ -1,12 +1,12 @@
 [
   {
-    "description": "A live token counter for any OpenAI-compatible API. Zero dependencies, one config file, plug and play.",
-    "id": "Suma-Udd/token-meter",
-    "language": "\u2014",
-    "name": "Suma-Udd/token-meter",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:59:33Z",
-    "url": "https://github.com/Suma-Udd/token-meter"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T11:14:37Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -14,17 +14,116 @@
     "language": "Jupyter Notebook",
     "name": "akash-coded/aws-bedrock-agentcore-strands",
     "stars": 2,
-    "updated_at": "2026-09-01T10:57:11Z",
+    "updated_at": "2026-09-01T11:14:37Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Create your Agentic AIs.",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 34,
+    "updated_at": "2026-09-01T11:11:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7720,
+    "updated_at": "2026-09-01T11:12:21Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
-    "stars": 242,
-    "updated_at": "2026-09-01T10:55:52Z",
+    "stars": 243,
+    "updated_at": "2026-09-01T11:08:06Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-01T11:06:34Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-01T11:06:06Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3520,
+    "updated_at": "2026-09-01T11:14:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11920,
+    "updated_at": "2026-09-01T11:01:54Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T11:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-01T11:06:21Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-01T11:00:12Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "A live token counter for any OpenAI-compatible API. Zero dependencies, one config file, plug and play.",
+    "id": "Suma-Udd/token-meter",
+    "language": "HTML",
+    "name": "Suma-Udd/token-meter",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:59:33Z",
+    "url": "https://github.com/Suma-Udd/token-meter"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 419,
+    "updated_at": "2026-09-01T11:12:51Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27764,
-    "updated_at": "2026-09-01T10:55:34Z",
+    "updated_at": "2026-09-01T11:15:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -40,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34036,
+    "stars": 34039,
     "updated_at": "2026-09-01T10:54:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-01T10:53:35Z",
+    "updated_at": "2026-09-01T11:06:17Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T10:51:56Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 34,
-    "updated_at": "2026-09-01T10:51:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Tells you what your AI spend is per business outcome - a resolved ticket, a closed deal, a completed workflow - and help",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T10:55:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
@@ -106,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T10:45:54Z",
     "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -133,24 +205,6 @@
     "stars": 127,
     "updated_at": "2026-09-01T10:41:24Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7719,
-    "updated_at": "2026-09-01T10:53:51Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 419,
-    "updated_at": "2026-09-01T10:59:16Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -176,7 +230,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2741,
-    "updated_at": "2026-09-01T10:18:14Z",
+    "updated_at": "2026-09-01T11:11:19Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57743,
-    "updated_at": "2026-09-01T10:13:51Z",
+    "updated_at": "2026-09-01T11:14:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21728,
-    "updated_at": "2026-09-01T10:55:54Z",
+    "updated_at": "2026-09-01T11:12:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 3213,
     "updated_at": "2026-09-01T10:17:20Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-01T10:56:55Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -286,33 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T09:19:26Z",
     "url": "https://github.com/kkrlstrm/model-eval-gate"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3520,
-    "updated_at": "2026-09-01T10:58:58Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11919,
-    "updated_at": "2026-09-01T10:33:30Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-01T11:00:20Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:58:12Z",
     "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 97,
-    "updated_at": "2026-09-01T07:53:45Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:52:34Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
