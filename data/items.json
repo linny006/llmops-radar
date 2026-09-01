@@ -1,11 +1,56 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T18:28:06Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 4450,
+    "updated_at": "2026-09-01T18:22:16Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21730,
+    "updated_at": "2026-09-01T18:21:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-09-01T18:15:56Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:15:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57766,
-    "updated_at": "2026-09-01T18:14:25Z",
+    "updated_at": "2026-09-01T18:28:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,17 +95,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8484,
-    "updated_at": "2026-09-01T18:01:23Z",
+    "updated_at": "2026-09-01T18:28:43Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T18:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-01T18:13:37Z",
+    "updated_at": "2026-09-01T18:29:50Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T17:50:15Z",
+    "updated_at": "2026-09-01T18:24:19Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T17:47:00Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21730,
-    "updated_at": "2026-09-01T18:15:25Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T18:12:19Z",
+    "updated_at": "2026-09-01T18:28:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-09-01T17:34:09Z",
+    "updated_at": "2026-09-01T18:25:15Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -214,24 +241,6 @@
     "stars": 391,
     "updated_at": "2026-09-01T17:10:48Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:14:54Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
-    "id": "boundflow/boundflow",
-    "language": "Python",
-    "name": "boundflow/boundflow",
-    "stars": 6,
-    "updated_at": "2026-09-01T17:35:44Z",
-    "url": "https://github.com/boundflow/boundflow"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 420,
-    "updated_at": "2026-09-01T16:56:57Z",
+    "updated_at": "2026-09-01T18:18:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-09-01T18:15:07Z",
+    "updated_at": "2026-09-01T18:26:39Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:47:57Z",
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:47:21Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
