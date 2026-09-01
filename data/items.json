@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57731,
-    "updated_at": "2026-09-01T08:09:16Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-01T08:27:25Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Create your Agentic AIs.",
@@ -14,17 +14,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 34,
-    "updated_at": "2026-09-01T08:09:14Z",
+    "updated_at": "2026-09-01T08:26:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2734,
+    "updated_at": "2026-09-01T08:20:51Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-01T08:20:11Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-01T08:07:50Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T08:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34024,
+    "updated_at": "2026-09-01T08:14:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 51,
+    "updated_at": "2026-09-01T08:11:39Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2739,
+    "updated_at": "2026-09-01T08:11:27Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -36,22 +81,31 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34022,
-    "updated_at": "2026-09-01T08:14:57Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:09:26Z",
+    "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 57731,
+    "updated_at": "2026-09-01T08:25:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-01T08:07:50Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21727,
-    "updated_at": "2026-09-01T08:07:32Z",
+    "updated_at": "2026-09-01T08:23:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -113,33 +167,15 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7715,
-    "updated_at": "2026-09-01T08:10:51Z",
+    "updated_at": "2026-09-01T08:19:56Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 51,
-    "updated_at": "2026-09-01T08:11:39Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-01T07:45:11Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4272,
+    "stars": 4275,
     "updated_at": "2026-09-01T07:41:40Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5572,
-    "updated_at": "2026-09-01T07:37:09Z",
+    "updated_at": "2026-09-01T08:25:18Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5706,
-    "updated_at": "2026-09-01T08:08:15Z",
+    "updated_at": "2026-09-01T08:28:19Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -211,7 +247,7 @@
     "id": "jochi2018/Soup",
     "language": "Python",
     "name": "jochi2018/Soup",
-    "stars": 69,
+    "stars": 70,
     "updated_at": "2026-09-01T07:21:53Z",
     "url": "https://github.com/jochi2018/Soup"
   },
@@ -229,7 +265,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24716,
+    "stars": 24717,
     "updated_at": "2026-09-01T07:21:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-09-01T08:11:08Z",
+    "updated_at": "2026-09-01T08:17:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:13:57Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2739,
-    "updated_at": "2026-09-01T08:11:27Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T06:55:23Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:54:35Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:53:34Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-01T06:51:02Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
