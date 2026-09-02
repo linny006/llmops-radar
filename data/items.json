@@ -1,12 +1,57 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-02T02:45:06Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2745,
+    "updated_at": "2026-09-02T02:57:07Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:56:50Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 8,
+    "updated_at": "2026-09-02T02:52:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 35,
+    "updated_at": "2026-09-02T02:51:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-02T02:47:52Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1324,
+    "updated_at": "2026-09-02T02:57:12Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T02:41:28Z",
+    "updated_at": "2026-09-02T02:45:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T02:51:28Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:40:45Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2745,
-    "updated_at": "2026-09-02T02:26:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 35,
-    "updated_at": "2026-09-02T02:23:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57775,
-    "updated_at": "2026-09-02T02:44:21Z",
+    "updated_at": "2026-09-02T02:59:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "erjonb19/Security-Constrained-Agent-Runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T01:51:49Z",
+    "updated_at": "2026-09-02T02:48:21Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8493,
-    "updated_at": "2026-09-02T02:20:54Z",
+    "updated_at": "2026-09-02T02:52:20Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21735,
-    "updated_at": "2026-09-02T02:44:41Z",
+    "updated_at": "2026-09-02T02:57:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -193,8 +229,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11285,
-    "updated_at": "2026-09-02T01:07:29Z",
+    "stars": 11286,
+    "updated_at": "2026-09-02T02:55:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -229,7 +265,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7738,
+    "stars": 7739,
     "updated_at": "2026-09-02T00:49:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -369,15 +405,6 @@
     "url": "https://github.com/matsumoto1f-creator/llm-gateway"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-02T02:26:12Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -385,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T23:13:49Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:00:26Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:50:13Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:49:50Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:49:11Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
   }
 ]
