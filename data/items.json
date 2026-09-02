@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:44:27Z",
-    "url": "https://github.com/cognifityai/verdict"
+    "name": "BerriAI/litellm",
+    "stars": 57853,
+    "updated_at": "2026-09-02T21:54:33Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -14,17 +14,35 @@
     "language": "TypeScript",
     "name": "jasonneo99/agent-workflow",
     "stars": 0,
-    "updated_at": "2026-09-02T21:42:43Z",
+    "updated_at": "2026-09-02T21:48:43Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57852,
-    "updated_at": "2026-09-02T21:44:16Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T21:48:35Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T21:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:44:27Z",
+    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -36,15 +54,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T21:32:25Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 11298,
     "updated_at": "2026-09-02T21:39:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T21:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -90,6 +90,15 @@
     "url": "https://github.com/ashish7802/memora-ai"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34111,
+    "updated_at": "2026-09-02T21:17:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Build, Manage and Deploy AI/ML Systems",
     "id": "Netflix/metaflow",
     "language": "Python",
@@ -106,6 +115,15 @@
     "stars": 6,
     "updated_at": "2026-09-02T21:12:52Z",
     "url": "https://github.com/boundflow/boundflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21751,
+    "updated_at": "2026-09-02T21:12:29Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T21:08:06Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21751,
-    "updated_at": "2026-09-02T21:12:29Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
@@ -421,15 +430,6 @@
     "stars": 51,
     "updated_at": "2026-09-02T20:00:46Z",
     "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34111,
-    "updated_at": "2026-09-02T21:17:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
