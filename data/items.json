@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:40:45Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T02:45:06Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T02:30:25Z",
+    "updated_at": "2026-09-02T02:41:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:40:45Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57775,
-    "updated_at": "2026-09-02T02:30:54Z",
+    "updated_at": "2026-09-02T02:44:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21735,
-    "updated_at": "2026-09-02T01:07:36Z",
+    "updated_at": "2026-09-02T02:44:41Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -400,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34065,
+    "stars": 34066,
     "updated_at": "2026-09-01T22:53:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:49:11Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:48:38Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   }
 ]
