@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 06:45 UTC
+> ⏰ Last updated: 2026-09-02 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27770 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 12 | Python | 2026-09-02 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地. 立即上线你的agent 应用. |
-| 3 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1904 | Python | 2026-09-02 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 4 | [openlit/website](https://github.com/openlit/website) | 10 | TypeScript | 2026-09-02 | Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-02 | Agentic Runtime |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57789 | Python | 2026-09-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-09-02 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
-| 8 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-09-02 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [api7/aisix](https://github.com/api7/aisix) | 127 | Rust | 2026-09-02 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 11 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-02 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
-| 12 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34082 | TypeScript | 2026-09-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 13 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 547 | JavaScript | 2026-09-02 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
-| 14 | [DINAKAR-S/stormdoor](https://github.com/DINAKAR-S/stormdoor) | 0 | Python | 2026-09-02 | An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as  |
-| 15 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 687 | Python | 2026-09-02 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 16 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-02 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 17 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-09-02 | Open-source LLM observability and drift detection for AI apps |
-| 18 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21737 | Python | 2026-09-02 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 19 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2745 | C++ | 2026-09-02 | Community maintained hardware plugin for vLLM on Ascend |
-| 20 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4689 | Python | 2026-09-02 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 21 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8495 | Rust | 2026-09-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2745 | C++ | 2026-09-02 | Community maintained hardware plugin for vLLM on Ascend |
+| 2 | [api7/aisix](https://github.com/api7/aisix) | 127 | Rust | 2026-09-02 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27770 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [8pig/llm-ops](https://github.com/8pig/llm-ops) | 12 | Python | 2026-09-02 | 学习大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地. 立即上线你的agent 应用. |
+| 6 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1904 | Python | 2026-09-02 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 7 | [openlit/website](https://github.com/openlit/website) | 10 | TypeScript | 2026-09-02 | Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa |
+| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-02 | Agentic Runtime |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57790 | Python | 2026-09-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 10 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-09-02 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
+| 11 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-09-02 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 12 | [bj-qizhi/trigix](https://github.com/bj-qizhi/trigix) | 4 | Rust | 2026-09-02 | AI-native workflow automation platform — Rust execution engine, 180 node types, visual canvas |
+| 13 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34081 | TypeScript | 2026-09-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 14 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 547 | JavaScript | 2026-09-02 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
+| 15 | [DINAKAR-S/stormdoor](https://github.com/DINAKAR-S/stormdoor) | 0 | Python | 2026-09-02 | An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as  |
+| 16 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 687 | Python | 2026-09-02 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 17 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-02 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 18 | [cognifityai/verdict](https://github.com/cognifityai/verdict) | 0 | Python | 2026-09-02 | Open-source LLM observability and drift detection for AI apps |
+| 19 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21738 | Python | 2026-09-02 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 20 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4695 | Python | 2026-09-02 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 21 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8496 | Rust | 2026-09-02 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 22 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 0 | Python | 2026-09-02 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
 | 23 | [forger-labs-hq/researchforge](https://github.com/forger-labs-hq/researchforge) | 7 | Python | 2026-09-02 | A lab protocol for coding agents. Freeze baselines, run hypotheses in isolated worktrees, reject failures and validate i |
 | 24 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-09-02 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |

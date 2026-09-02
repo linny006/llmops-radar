@@ -1,5 +1,32 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2745,
+    "updated_at": "2026-09-02T06:49:07Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 127,
+    "updated_at": "2026-09-02T06:47:28Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T06:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1904,
-    "updated_at": "2026-09-02T06:39:54Z",
+    "updated_at": "2026-09-02T06:55:11Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -49,8 +76,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57789,
-    "updated_at": "2026-09-02T06:37:29Z",
+    "stars": 57790,
+    "updated_at": "2026-09-02T06:56:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,30 +99,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T06:30:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 127,
-    "updated_at": "2026-09-02T06:30:23Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
     "id": "bj-qizhi/trigix",
     "language": "Rust",
     "name": "bj-qizhi/trigix",
     "stars": 4,
-    "updated_at": "2026-09-02T06:44:16Z",
+    "updated_at": "2026-09-02T06:49:18Z",
     "url": "https://github.com/bj-qizhi/trigix"
   },
   {
@@ -103,7 +112,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34082,
+    "stars": 34081,
     "updated_at": "2026-09-02T06:30:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -157,25 +166,16 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21737,
-    "updated_at": "2026-09-02T06:20:39Z",
+    "stars": 21738,
+    "updated_at": "2026-09-02T06:56:36Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2745,
-    "updated_at": "2026-09-02T06:44:59Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4689,
+    "stars": 4695,
     "updated_at": "2026-09-02T06:18:37Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -184,8 +184,8 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8495,
-    "updated_at": "2026-09-02T06:16:50Z",
+    "stars": 8496,
+    "updated_at": "2026-09-02T06:59:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Shell",
     "name": "intel/enterprise-inference",
     "stars": 4,
-    "updated_at": "2026-09-02T06:19:17Z",
+    "updated_at": "2026-09-02T06:52:32Z",
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Shell",
     "name": "intel/enterprise-ai-solutions",
     "stars": 3,
-    "updated_at": "2026-09-02T06:19:15Z",
+    "updated_at": "2026-09-02T06:52:30Z",
     "url": "https://github.com/intel/enterprise-ai-solutions"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11287,
-    "updated_at": "2026-09-02T06:32:54Z",
+    "updated_at": "2026-09-02T06:53:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
