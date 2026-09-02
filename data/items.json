@@ -4,14 +4,59 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34098,
-    "updated_at": "2026-09-02T16:29:16Z",
+    "stars": 34100,
+    "updated_at": "2026-09-02T16:35:12Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-02T16:32:20Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3026,
+    "updated_at": "2026-09-02T16:30:50Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T16:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27780,
+    "updated_at": "2026-09-02T16:29:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T16:26:56Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
     "id": "ashish7802/memora-ai",
-    "language": "\u2014",
+    "language": "Python",
     "name": "ashish7802/memora-ai",
     "stars": 0,
     "updated_at": "2026-09-02T16:26:37Z",
@@ -27,21 +72,12 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:29:50Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57836,
-    "updated_at": "2026-09-02T16:28:54Z",
+    "updated_at": "2026-09-02T16:34:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T16:22:24Z",
+    "updated_at": "2026-09-02T16:34:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T16:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
     "id": "AYUSHSAINI9876/Pharos",
     "language": "Python",
@@ -108,21 +135,12 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T16:26:56Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21749,
-    "updated_at": "2026-09-02T16:02:22Z",
+    "updated_at": "2026-09-02T16:35:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27779,
-    "updated_at": "2026-09-02T16:29:35Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
     "id": "alebgl77/grafana-llmops-forge",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "MPIsaac-Per/agentinfra-examples",
     "stars": 2,
-    "updated_at": "2026-09-02T15:25:21Z",
+    "updated_at": "2026-09-02T16:33:07Z",
     "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 423,
-    "updated_at": "2026-09-02T16:30:05Z",
+    "updated_at": "2026-09-02T16:34:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1325,
-    "updated_at": "2026-09-02T16:28:14Z",
+    "updated_at": "2026-09-02T16:35:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T13:54:02Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:52:13Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   }
 ]
