@@ -1,12 +1,39 @@
 [
   {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:00:06Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-02T21:59:56Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57853,
-    "updated_at": "2026-09-02T21:54:33Z",
+    "stars": 57854,
+    "updated_at": "2026-09-02T21:59:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T21:56:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -25,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T21:48:35Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T21:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -315,15 +333,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:49:26Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 35,
     "updated_at": "2026-09-02T20:38:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
-    "id": "Clawdlinux/agentic-operator-core",
-    "language": "Go",
-    "name": "Clawdlinux/agentic-operator-core",
-    "stars": 24,
-    "updated_at": "2026-09-02T20:11:41Z",
-    "url": "https://github.com/Clawdlinux/agentic-operator-core"
   }
 ]
