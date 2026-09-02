@@ -1,12 +1,48 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T07:29:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 420,
-    "updated_at": "2026-09-02T07:15:58Z",
+    "updated_at": "2026-09-02T07:25:37Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27770,
+    "updated_at": "2026-09-02T07:25:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Statistical testing for LLM evaluations: power analysis, hypothesis testing, and RAG/agent evaluation case studies. Comp",
+    "id": "RudrenduPaul/llm-evals-course",
+    "language": "Jupyter Notebook",
+    "name": "RudrenduPaul/llm-evals-course",
+    "stars": 0,
+    "updated_at": "2026-09-02T07:24:42Z",
+    "url": "https://github.com/RudrenduPaul/llm-evals-course"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 4705,
+    "updated_at": "2026-09-02T07:24:14Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T07:15:32Z",
+    "updated_at": "2026-09-02T07:19:19Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21741,
+    "updated_at": "2026-09-02T07:18:24Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -40,18 +85,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57793,
-    "updated_at": "2026-09-02T07:11:39Z",
+    "stars": 57794,
+    "updated_at": "2026-09-02T07:29:47Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-02T07:14:35Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -61,15 +97,6 @@
     "stars": 97,
     "updated_at": "2026-09-02T07:10:56Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21740,
-    "updated_at": "2026-09-02T07:18:24Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -103,7 +130,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8497,
+    "stars": 8496,
     "updated_at": "2026-09-02T06:59:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -133,15 +160,6 @@
     "stars": 127,
     "updated_at": "2026-09-02T06:47:28Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27770,
-    "updated_at": "2026-09-02T06:43:59Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34081,
-    "updated_at": "2026-09-02T07:16:31Z",
+    "updated_at": "2026-09-02T07:25:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -252,21 +270,12 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 4702,
-    "updated_at": "2026-09-02T06:18:37Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T06:15:22Z",
+    "updated_at": "2026-09-02T07:26:57Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T05:29:58Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:29:43Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
