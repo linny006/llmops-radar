@@ -1,12 +1,48 @@
 [
   {
+    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:07:27Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34091,
-    "updated_at": "2026-09-02T12:00:26Z",
+    "updated_at": "2026-09-02T12:12:56Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27777,
+    "updated_at": "2026-09-02T12:00:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7754,
+    "updated_at": "2026-09-02T11:57:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-02T11:56:05Z",
+    "updated_at": "2026-09-02T12:12:54Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 421,
-    "updated_at": "2026-09-02T12:00:20Z",
+    "updated_at": "2026-09-02T12:09:42Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57820,
-    "updated_at": "2026-09-02T11:48:52Z",
+    "updated_at": "2026-09-02T12:12:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21744,
-    "updated_at": "2026-09-02T11:47:15Z",
+    "updated_at": "2026-09-02T12:12:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T11:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -73,21 +100,12 @@
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/claude-code-playbook",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
     "language": "Python",
-    "name": "ArtVsMark/claude-code-playbook",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
     "updated_at": "2026-09-02T11:40:45Z",
-    "url": "https://github.com/ArtVsMark/claude-code-playbook"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7753,
-    "updated_at": "2026-09-02T11:57:49Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -130,7 +148,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4765,
+    "stars": 4768,
     "updated_at": "2026-09-02T11:27:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -187,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T11:05:33Z",
     "url": "https://github.com/shtjww/llm-inference-capacity-handbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27777,
-    "updated_at": "2026-09-02T12:00:03Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 8,
-    "updated_at": "2026-09-02T10:32:04Z",
+    "updated_at": "2026-09-02T12:10:09Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -378,15 +387,6 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T09:38:34Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T11:55:04Z",
+    "updated_at": "2026-09-02T12:11:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
