@@ -1,11 +1,56 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-02T00:08:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-02T00:06:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Did it actually work? A contract checker for LLM and agent output \u2014 rejects refusals, hedges, wrong-language output, ans",
+    "id": "GXCafe/honto-contract",
+    "language": "JavaScript",
+    "name": "GXCafe/honto-contract",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:06:09Z",
+    "url": "https://github.com/GXCafe/honto-contract"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-02T00:06:09Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27768,
-    "updated_at": "2026-09-02T00:00:04Z",
+    "updated_at": "2026-09-02T00:02:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -18,31 +63,13 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-01T23:52:47Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57772,
-    "updated_at": "2026-09-02T00:00:07Z",
+    "updated_at": "2026-09-02T00:15:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-01T23:52:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -54,21 +81,12 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T23:45:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8492,
-    "updated_at": "2026-09-01T23:31:48Z",
+    "updated_at": "2026-09-02T00:13:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-01T23:37:05Z",
+    "updated_at": "2026-09-02T00:02:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T23:00:26Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Did it actually work? A contract checker for LLM and agent output \u2014 rejects refusals, hedges, wrong-language output, ans",
-    "id": "GXCafe/honto-contract",
-    "language": "JavaScript",
-    "name": "GXCafe/honto-contract",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:55:18Z",
-    "url": "https://github.com/GXCafe/honto-contract"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:19:42Z",
     "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:19:24Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
