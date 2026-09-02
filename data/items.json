@@ -1,12 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57838,
+    "updated_at": "2026-09-02T17:30:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21749,
+    "updated_at": "2026-09-02T17:29:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T17:26:44Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-09-02T17:21:15Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-02T17:19:44Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34101,
-    "updated_at": "2026-09-02T17:13:21Z",
+    "updated_at": "2026-09-02T17:16:10Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T17:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:09:59Z",
+    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -18,13 +81,13 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57837,
-    "updated_at": "2026-09-02T17:07:46Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-02T17:08:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -45,22 +108,13 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T17:03:43Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:15:11Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+    "name": "mozilla-ai/otari",
+    "stars": 424,
+    "updated_at": "2026-09-02T17:02:51Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Runnable reference implementations of five core Braintrust workflows: dataset lifecycle, offline evals, online evals, tr",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T17:02:26Z",
     "url": "https://github.com/dpguthrie/braintrust-workflows"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:01:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -99,13 +144,13 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 423,
-    "updated_at": "2026-09-02T17:02:51Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "mikehasa/agentacct",
+    "stars": 691,
+    "updated_at": "2026-09-02T16:52:24Z",
+    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27780,
-    "updated_at": "2026-09-02T16:51:01Z",
+    "updated_at": "2026-09-02T17:25:24Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7760,
-    "updated_at": "2026-09-02T16:39:13Z",
+    "updated_at": "2026-09-02T17:29:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T16:58:30Z",
+    "updated_at": "2026-09-02T17:30:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11295,
-    "updated_at": "2026-09-02T17:14:36Z",
+    "updated_at": "2026-09-02T17:23:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T16:04:33Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21749,
-    "updated_at": "2026-09-02T16:46:49Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-02T17:15:19Z",
+    "updated_at": "2026-09-02T17:25:30Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -409,44 +445,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24762,
+    "stars": 24763,
     "updated_at": "2026-09-02T14:41:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-02T14:40:13Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11921,
-    "updated_at": "2026-09-02T14:36:16Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:09:59Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Shell",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:14:46Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
   }
 ]
