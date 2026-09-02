@@ -1,11 +1,65 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-02T10:56:46Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-09-02T10:54:40Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-02T10:53:37Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21742,
+    "updated_at": "2026-09-02T10:58:25Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 1,
+    "updated_at": "2026-09-02T10:46:22Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
     "id": "samarthputhraya/modelpin",
     "language": "Python",
     "name": "samarthputhraya/modelpin",
     "stars": 1,
-    "updated_at": "2026-09-02T10:40:37Z",
+    "updated_at": "2026-09-02T10:49:58Z",
     "url": "https://github.com/samarthputhraya/modelpin"
   },
   {
@@ -40,8 +94,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34085,
-    "updated_at": "2026-09-02T10:32:48Z",
+    "stars": 34086,
+    "updated_at": "2026-09-02T10:57:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 8,
     "updated_at": "2026-09-02T10:32:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-02T10:29:30Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7753,
-    "updated_at": "2026-09-02T10:38:02Z",
+    "updated_at": "2026-09-02T10:53:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -135,6 +171,15 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5711,
+    "updated_at": "2026-09-02T10:08:46Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T10:04:44Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21742,
-    "updated_at": "2026-09-02T10:42:16Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
@@ -211,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24748,
+    "stars": 24750,
     "updated_at": "2026-09-02T09:50:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -220,7 +256,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4751,
+    "stars": 4758,
     "updated_at": "2026-09-02T09:46:03Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -234,7 +270,7 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "Point it at any Grafana \u2192 full AI/LLM observability: FinOps by sovereignty, agents, EU AI Act \u2014 generated, deployed, vis",
+    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
     "id": "alebgl77/grafana-llmops-forge",
     "language": "Python",
     "name": "alebgl77/grafana-llmops-forge",
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T10:34:59Z",
+    "updated_at": "2026-09-02T10:55:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1325,
-    "updated_at": "2026-09-02T10:22:37Z",
+    "updated_at": "2026-09-02T10:58:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11921,
-    "updated_at": "2026-09-02T10:16:21Z",
+    "updated_at": "2026-09-02T10:53:11Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -374,17 +410,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27777,
-    "updated_at": "2026-09-02T08:24:07Z",
+    "updated_at": "2026-09-02T10:54:38Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-02T08:05:24Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T07:48:36Z",
     "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:43:54Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A prompt-aware LLM router that predicts which models can complete each request, then selects the cheapest capable one: 5",
-    "id": "xorbitsai/xrouter-llm",
-    "language": "Python",
-    "name": "xorbitsai/xrouter-llm",
-    "stars": 38,
-    "updated_at": "2026-09-02T07:39:48Z",
-    "url": "https://github.com/xorbitsai/xrouter-llm"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:28:39Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   }
 ]
