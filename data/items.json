@@ -1,5 +1,77 @@
 [
   {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:15:03Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:12:19Z",
+    "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11296,
+    "updated_at": "2026-09-02T18:04:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T18:03:46Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57839,
+    "updated_at": "2026-09-02T18:08:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27781,
+    "updated_at": "2026-09-02T18:15:10Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21751,
+    "updated_at": "2026-09-02T18:00:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -9,49 +81,13 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
+    "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57839,
-    "updated_at": "2026-09-02T17:59:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34104,
-    "updated_at": "2026-09-02T17:53:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21750,
-    "updated_at": "2026-09-02T18:00:27Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T17:48:39Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:47:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "name": "spirex-ds-dev/ai-cockpit-template",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:59:25Z",
+    "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -63,13 +99,31 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:57:16Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34105,
+    "updated_at": "2026-09-02T18:13:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:47:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-02T17:56:55Z",
+    "updated_at": "2026-09-02T18:08:56Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T17:41:46Z",
     "url": "https://github.com/ashish7802/memora-ai"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11297,
-    "updated_at": "2026-09-02T17:55:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -113,17 +158,8 @@
     "language": "Python",
     "name": "boundflow/boundflow",
     "stars": 6,
-    "updated_at": "2026-09-02T17:29:24Z",
+    "updated_at": "2026-09-02T18:04:15Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27781,
-    "updated_at": "2026-09-02T17:25:24Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T17:04:18Z",
+    "updated_at": "2026-09-02T18:14:44Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7760,
-    "updated_at": "2026-09-02T17:43:03Z",
+    "updated_at": "2026-09-02T18:13:27Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 158,
     "updated_at": "2026-09-02T16:28:03Z",
     "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30012,
-    "updated_at": "2026-09-02T17:47:35Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-09-02T15:10:14Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:02:18Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 7,
-    "updated_at": "2026-09-02T14:59:33Z",
-    "url": "https://github.com/GetSHIM/shim"
   }
 ]
