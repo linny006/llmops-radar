@@ -1,12 +1,30 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-02T10:56:46Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langfuse/langfuse",
+    "stars": 34088,
+    "updated_at": "2026-09-02T11:13:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Local-first Kotlin AI Agent OS for process traces, replayable capsules, syscall ledgers, and CI gates",
+    "id": "morning-verlu/KAI",
+    "language": "Kotlin",
+    "name": "morning-verlu/KAI",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:12:58Z",
+    "url": "https://github.com/morning-verlu/KAI"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-09-02T11:10:36Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "idevelopAI/llm-eval-control-plane",
     "stars": 2,
-    "updated_at": "2026-09-02T10:54:40Z",
+    "updated_at": "2026-09-02T11:08:46Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
@@ -23,17 +41,53 @@
     "language": "Jupyter Notebook",
     "name": "akash-coded/aws-bedrock-agentcore-strands",
     "stars": 2,
-    "updated_at": "2026-09-02T10:53:37Z",
+    "updated_at": "2026-09-02T11:06:41Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "\u5927\u6a21\u578b\u63a8\u7406\u6848\u5934\u624b\u518c\uff08\u5f00\u6e90\u7248\uff09\uff1a\u7ed9\u5b9a GPU \u7b97\u529b\uff0c\u4e00\u4e2a\u6a21\u578b\u80fd\u625b\u591a\u5c11 QPS\uff1f\u4e09\u5c42\u6a21\u578b \u00d7 \u4e09\u9762\u5899 \u00d7 \u6392\u961f\u8bba \u00d7 \u5f00\u73af\u538b\u6d4b",
+    "id": "shtjww/llm-inference-capacity-handbook",
+    "language": "\u2014",
+    "name": "shtjww/llm-inference-capacity-handbook",
+    "stars": 3,
+    "updated_at": "2026-09-02T11:05:33Z",
+    "url": "https://github.com/shtjww/llm-inference-capacity-handbook"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21742,
-    "updated_at": "2026-09-02T10:58:25Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "mlflow/mlflow",
+    "stars": 27777,
+    "updated_at": "2026-09-02T11:09:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-02T11:03:53Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "id": "Netflix/metaflow",
+    "language": "Python",
+    "name": "Netflix/metaflow",
+    "stars": 10253,
+    "updated_at": "2026-09-02T11:01:38Z",
+    "url": "https://github.com/Netflix/metaflow"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 2,
+    "updated_at": "2026-09-02T11:09:31Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +95,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T10:45:30Z",
+    "updated_at": "2026-09-02T11:00:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21742,
+    "updated_at": "2026-09-02T11:12:35Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -90,15 +153,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34086,
-    "updated_at": "2026-09-02T10:57:02Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7753,
-    "updated_at": "2026-09-02T10:53:01Z",
+    "updated_at": "2026-09-02T11:12:25Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -256,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4758,
+    "stars": 4761,
     "updated_at": "2026-09-02T09:46:03Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -374,7 +428,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1325,
-    "updated_at": "2026-09-02T10:58:02Z",
+    "updated_at": "2026-09-02T11:13:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 11921,
     "updated_at": "2026-09-02T10:53:11Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 69,
-    "updated_at": "2026-09-02T08:26:25Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27777,
-    "updated_at": "2026-09-02T10:54:38Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:57:03Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
-    "id": "RudrenduPaul/hardening-llm-systems-production",
-    "language": "Python",
-    "name": "RudrenduPaul/hardening-llm-systems-production",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:52:26Z",
-    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
-  },
-  {
-    "description": "Statistical testing for LLM evaluations: power analysis, hypothesis testing, and RAG/agent evaluation case studies. Comp",
-    "id": "RudrenduPaul/llm-evals-course",
-    "language": "Jupyter Notebook",
-    "name": "RudrenduPaul/llm-evals-course",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:49:57Z",
-    "url": "https://github.com/RudrenduPaul/llm-evals-course"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:48:36Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
   }
 ]
