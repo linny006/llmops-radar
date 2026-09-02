@@ -1,20 +1,11 @@
 [
   {
-    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:07:27Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34091,
-    "updated_at": "2026-09-02T12:12:56Z",
+    "stars": 34092,
+    "updated_at": "2026-09-02T12:14:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,8 +14,35 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T12:00:31Z",
+    "updated_at": "2026-09-02T12:13:10Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57821,
+    "updated_at": "2026-09-02T12:12:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T12:11:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Turn any reachable Grafana into an AI/LLM observability suite for FinOps by provider sovereignty, agents, and governance",
+    "id": "alebgl77/grafana-llmops-forge",
+    "language": "Python",
+    "name": "alebgl77/grafana-llmops-forge",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:07:27Z",
+    "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-02T12:12:54Z",
+    "updated_at": "2026-09-02T12:14:26Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 421,
-    "updated_at": "2026-09-02T12:09:42Z",
+    "updated_at": "2026-09-02T12:14:46Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57820,
-    "updated_at": "2026-09-02T12:12:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -148,7 +157,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4768,
+    "stars": 4769,
     "updated_at": "2026-09-02T11:27:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T09:17:44Z",
     "url": "https://github.com/vbabchenkov/ai-lab-05-evals"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-02T12:11:08Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c \u0434\u043b\u044f \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439: \u0440\u0430\u0431\u043e\u0442\u0430 \u0441 LLM API \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u2014 \u0442\u043e\u043a\u0435\u043d\u044b, \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c, \u0441\u0442\u0440\u0438\u043c\u0438\u043d\u0433, tool use, \u043a\u044d\u0448\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u043c\u043f\u0442\u0430",
