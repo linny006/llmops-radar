@@ -1,12 +1,39 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57779,
-    "updated_at": "2026-09-02T03:44:12Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-09-02T04:00:18Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 14,
+    "updated_at": "2026-09-02T03:56:53Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:54:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 127,
+    "updated_at": "2026-09-02T04:00:13Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,8 +41,44 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2745,
-    "updated_at": "2026-09-02T03:36:34Z",
+    "updated_at": "2026-09-02T03:53:25Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-02T03:52:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 687,
+    "updated_at": "2026-09-02T03:44:08Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57779,
+    "updated_at": "2026-09-02T03:56:30Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -34,24 +97,6 @@
     "stars": 87,
     "updated_at": "2026-09-02T03:31:30Z",
     "url": "https://github.com/Tako-Research/TakoVM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T03:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-02T03:28:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI/ML & Software Engineering portfolio showcasing LLM systems, Agentic AI, RAG, ML infrastructure, distributed systems, ",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8493,
-    "updated_at": "2026-09-02T03:05:44Z",
+    "updated_at": "2026-09-02T03:48:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1324,
-    "updated_at": "2026-09-02T03:43:24Z",
+    "updated_at": "2026-09-02T03:59:00Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/jchigg2000-git/air-traffic"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 688,
-    "updated_at": "2026-09-02T03:44:08Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21735,
-    "updated_at": "2026-09-02T02:57:53Z",
+    "updated_at": "2026-09-02T03:54:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 5800,
     "updated_at": "2026-09-02T01:06:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T00:53:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "RAGWarrant: evidence-preserving governance and promotion control for RAG policy changes.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:30:06Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 40,
-    "updated_at": "2026-09-01T23:24:52Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1902,
-    "updated_at": "2026-09-01T23:23:02Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "An LLM API gateway that admits requests against a cost it cannot know yet, and refuses to amplify the outages it exists ",
-    "id": "matsumoto1f-creator/llm-gateway",
-    "language": "Python",
-    "name": "matsumoto1f-creator/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:22:51Z",
-    "url": "https://github.com/matsumoto1f-creator/llm-gateway"
   }
 ]
