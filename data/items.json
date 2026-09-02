@@ -1,5 +1,95 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T13:00:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
+    "id": "NicoGrassetto/Cosmopilot",
+    "language": "Python",
+    "name": "NicoGrassetto/Cosmopilot",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:54:31Z",
+    "url": "https://github.com/NicoGrassetto/Cosmopilot"
+  },
+  {
+    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
+    "id": "ashish7802/memora-ai",
+    "language": "\u2014",
+    "name": "ashish7802/memora-ai",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:54:23Z",
+    "url": "https://github.com/ashish7802/memora-ai"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:52:19Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21746,
+    "updated_at": "2026-09-02T12:56:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1905,
+    "updated_at": "2026-09-02T12:50:37Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:49:55Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
+    "id": "MubashirShafique/enterprise-agentic-rag",
+    "language": "Python",
+    "name": "MubashirShafique/enterprise-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:47:58Z",
+    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-02T12:43:48Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34092,
-    "updated_at": "2026-09-02T12:42:16Z",
+    "updated_at": "2026-09-02T12:54:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -22,8 +112,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30010,
-    "updated_at": "2026-09-02T12:37:03Z",
+    "stars": 30011,
+    "updated_at": "2026-09-02T12:59:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -43,33 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T12:32:45Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T12:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-02T12:43:48Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21745,
-    "updated_at": "2026-09-02T12:44:15Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -103,18 +166,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57821,
-    "updated_at": "2026-09-02T12:12:28Z",
+    "stars": 57822,
+    "updated_at": "2026-09-02T12:57:09Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-02T12:44:07Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -122,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-02T12:10:09Z",
+    "updated_at": "2026-09-02T12:58:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7757,
-    "updated_at": "2026-09-02T11:57:49Z",
+    "updated_at": "2026-09-02T12:52:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -153,6 +207,15 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11922,
+    "updated_at": "2026-09-02T11:55:19Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -160,15 +223,6 @@
     "stars": 22,
     "updated_at": "2026-09-02T11:45:45Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:44:39Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -211,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4778,
+    "stars": 4781,
     "updated_at": "2026-09-02T11:27:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -274,7 +328,7 @@
     "id": "Netflix/metaflow",
     "language": "Python",
     "name": "Netflix/metaflow",
-    "stars": 10252,
+    "stars": 10253,
     "updated_at": "2026-09-02T11:01:38Z",
     "url": "https://github.com/Netflix/metaflow"
   },
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 689,
-    "updated_at": "2026-09-02T10:54:28Z",
+    "updated_at": "2026-09-02T12:59:03Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
     "stars": 2362,
-    "updated_at": "2026-09-02T10:15:12Z",
+    "updated_at": "2026-09-02T12:56:00Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
@@ -383,7 +437,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5711,
-    "updated_at": "2026-09-02T10:08:46Z",
+    "updated_at": "2026-09-02T12:58:17Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T10:04:44Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
-    "id": "togettoyou/zke",
-    "language": "Go",
-    "name": "togettoyou/zke",
-    "stars": 101,
-    "updated_at": "2026-09-02T09:58:19Z",
-    "url": "https://github.com/togettoyou/zke"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-09-02T09:54:41Z",
-    "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 126,
-    "updated_at": "2026-09-02T10:10:51Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24755,
-    "updated_at": "2026-09-02T09:50:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:45:08Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-02T09:32:11Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
