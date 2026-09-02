@@ -1,5 +1,95 @@
 [
   {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:59:07Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:56:38Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57843,
+    "updated_at": "2026-09-02T19:00:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 40,
+    "updated_at": "2026-09-02T18:53:35Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7761,
+    "updated_at": "2026-09-02T18:55:07Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Infrastructure-as-code for AI agent workflows",
+    "id": "hensu-project/hensu",
+    "language": "Java",
+    "name": "hensu-project/hensu",
+    "stars": 14,
+    "updated_at": "2026-09-02T18:50:50Z",
+    "url": "https://github.com/hensu-project/hensu"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34107,
+    "updated_at": "2026-09-02T18:50:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T18:49:05Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:45:07Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -18,51 +108,6 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Infrastructure-as-code for AI agent workflows",
-    "id": "hensu-project/hensu",
-    "language": "Java",
-    "name": "hensu-project/hensu",
-    "stars": 14,
-    "updated_at": "2026-09-02T18:41:34Z",
-    "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:39:06Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57842,
-    "updated_at": "2026-09-02T18:43:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7761,
-    "updated_at": "2026-09-02T18:35:44Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34106,
-    "updated_at": "2026-09-02T18:34:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Free project-driven roadmap: DevOps engineer \u2192 AI-native infra. Linux, K8s, Terraform, observability, GitOps, LLM/MLOps ",
     "id": "sandeepk24/devops-to-ai",
     "language": "Python",
@@ -72,33 +117,6 @@
     "url": "https://github.com/sandeepk24/devops-to-ai"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:45:07Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T18:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T18:27:01Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T18:25:08Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:42:03Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "Agentic Runtime",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30013,
-    "updated_at": "2026-09-02T18:44:56Z",
+    "updated_at": "2026-09-02T18:50:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11296,
-    "updated_at": "2026-09-02T18:27:58Z",
+    "updated_at": "2026-09-02T18:57:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21751,
-    "updated_at": "2026-09-02T18:00:27Z",
+    "updated_at": "2026-09-02T18:51:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "ashish7802/memora-ai",
     "stars": 1,
-    "updated_at": "2026-09-02T17:41:46Z",
+    "updated_at": "2026-09-02T18:59:26Z",
     "url": "https://github.com/ashish7802/memora-ai"
   },
   {
@@ -364,7 +373,7 @@
     "id": "AshwinUgale/tracelint",
     "language": "Python",
     "name": "AshwinUgale/tracelint",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-02T16:42:52Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T16:04:33Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2749,
-    "updated_at": "2026-09-02T16:02:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
