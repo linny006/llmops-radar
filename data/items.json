@@ -1,11 +1,38 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-02T16:39:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Validated companion examples for AI agent gateways, observability, and evaluation pipelines.",
+    "id": "MPIsaac-Per/agentinfra-examples",
+    "language": "Python",
+    "name": "MPIsaac-Per/agentinfra-examples",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:37:29Z",
+    "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T16:36:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34100,
-    "updated_at": "2026-09-02T16:35:12Z",
+    "updated_at": "2026-09-02T16:44:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-09-02T16:32:20Z",
+    "updated_at": "2026-09-02T16:44:09Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 3026,
     "updated_at": "2026-09-02T16:30:50Z",
     "url": "https://github.com/ianarawjo/ChainForge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T16:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57836,
-    "updated_at": "2026-09-02T16:34:01Z",
+    "updated_at": "2026-09-02T16:45:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T16:34:51Z",
+    "updated_at": "2026-09-02T16:42:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11295,
-    "updated_at": "2026-09-02T16:16:47Z",
+    "updated_at": "2026-09-02T16:36:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -148,7 +166,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2748,
+    "stars": 2749,
     "updated_at": "2026-09-02T16:02:16Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3530,
-    "updated_at": "2026-09-02T16:29:56Z",
+    "updated_at": "2026-09-02T16:42:54Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -243,15 +261,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Validated companion examples for AI agent gateways, observability, and evaluation pipelines.",
-    "id": "MPIsaac-Per/agentinfra-examples",
-    "language": "Python",
-    "name": "MPIsaac-Per/agentinfra-examples",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:33:07Z",
-    "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7759,
-    "updated_at": "2026-09-02T16:26:41Z",
+    "updated_at": "2026-09-02T16:39:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -293,17 +302,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 423,
-    "updated_at": "2026-09-02T16:34:09Z",
+    "updated_at": "2026-09-02T16:37:50Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-02T16:26:59Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
