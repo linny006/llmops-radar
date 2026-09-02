@@ -1,12 +1,39 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-02T00:08:36Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "name": "BerriAI/litellm",
+    "stars": 57774,
+    "updated_at": "2026-09-02T00:29:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "babaliauskas/evalshift-action",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:26:40Z",
+    "url": "https://github.com/babaliauskas/evalshift-action"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-09-02T00:26:22Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-02T00:25:40Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,8 +41,35 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-02T00:06:14Z",
+    "updated_at": "2026-09-02T00:20:45Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
+    "id": "super-ZXQ/ai-commerce-intelligence-platform",
+    "language": "Jupyter Notebook",
+    "name": "super-ZXQ/ai-commerce-intelligence-platform",
+    "stars": 1,
+    "updated_at": "2026-09-02T00:20:28Z",
+    "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-02T00:08:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Did it actually work? A contract checker for LLM and agent output \u2014 rejects refusals, hedges, wrong-language output, ans",
@@ -27,30 +81,12 @@
     "url": "https://github.com/GXCafe/honto-contract"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-02T00:06:09Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27768,
-    "updated_at": "2026-09-02T00:02:01Z",
+    "updated_at": "2026-09-02T00:29:35Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:58:22Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57772,
-    "updated_at": "2026-09-02T00:15:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8492,
-    "updated_at": "2026-09-02T00:13:37Z",
+    "updated_at": "2026-09-02T00:22:16Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-02T00:02:26Z",
+    "updated_at": "2026-09-02T00:24:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11284,
-    "updated_at": "2026-09-01T23:39:36Z",
+    "updated_at": "2026-09-02T00:16:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-01T22:53:06Z",
+    "updated_at": "2026-09-02T00:28:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:49:34Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:22:26Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:19:58Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:19:42Z",
-    "url": "https://github.com/Kokotpica/surogate"
   }
 ]
