@@ -1,5 +1,86 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:00:06Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57839,
+    "updated_at": "2026-09-02T17:59:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34104,
+    "updated_at": "2026-09-02T17:53:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21750,
+    "updated_at": "2026-09-02T18:00:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T17:48:39Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:47:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-02T17:57:50Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T17:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:56:55Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
     "id": "ashish7802/memora-ai",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/ashish7802/memora-ai"
   },
   {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:42:07Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
+    "name": "Arize-ai/phoenix",
+    "stars": 11297,
+    "updated_at": "2026-09-02T17:55:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -27,33 +108,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34102,
-    "updated_at": "2026-09-02T17:42:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57839,
-    "updated_at": "2026-09-02T17:45:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
     "id": "boundflow/boundflow",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 6,
     "updated_at": "2026-09-02T17:29:24Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21749,
-    "updated_at": "2026-09-02T17:38:47Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T17:26:44Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -97,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T17:21:15Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-09-02T17:44:34Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 424,
-    "updated_at": "2026-09-02T17:34:05Z",
+    "updated_at": "2026-09-02T17:56:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T17:30:03Z",
+    "updated_at": "2026-09-02T17:49:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T16:18:52Z",
     "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11295,
-    "updated_at": "2026-09-02T17:35:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1194,
-    "updated_at": "2026-09-02T16:02:04Z",
+    "updated_at": "2026-09-02T17:54:46Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30012,
-    "updated_at": "2026-09-02T17:33:30Z",
+    "updated_at": "2026-09-02T17:47:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-02T14:59:33Z",
     "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 4,
-    "updated_at": "2026-09-02T14:55:59Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:55:45Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
