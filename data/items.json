@@ -1,21 +1,111 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:41:30Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:41:12Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:34:56Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34108,
+    "updated_at": "2026-09-02T19:44:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:30:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 27781,
+    "updated_at": "2026-09-02T19:32:45Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hosted control plane for multi-provider LLM access. OpenAI- and Anthropic-compatible proxy, encrypted master keys, ",
+    "id": "Nelsonlin0321/llm-gateway",
+    "language": "TypeScript",
+    "name": "Nelsonlin0321/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:31:45Z",
+    "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4898,
-    "updated_at": "2026-09-02T19:30:17Z",
+    "stars": 4899,
+    "updated_at": "2026-09-02T19:31:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T19:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11296,
+    "updated_at": "2026-09-02T19:43:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-02T19:26:41Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:25:27Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 424,
+    "updated_at": "2026-09-02T19:24:16Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57846,
-    "updated_at": "2026-09-02T19:27:32Z",
+    "updated_at": "2026-09-02T19:44:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,33 +144,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27781,
-    "updated_at": "2026-09-02T19:19:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11296,
-    "updated_at": "2026-09-02T19:27:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:16:30Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -88,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T19:13:37Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Self-hosted control plane for multi-provider LLM access. OpenAI- and Anthropic-compatible proxy, encrypted master keys, ",
-    "id": "Nelsonlin0321/llm-gateway",
-    "language": "TypeScript",
-    "name": "Nelsonlin0321/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-09-02T19:29:44Z",
-    "url": "https://github.com/Nelsonlin0321/llm-gateway"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-02T19:26:41Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Free 10-phase roadmap: DevOps \u2192 AI-native infra. Linux, K8s, observability, DevSecOps, platform eng, MLOps, AIOps, agent",
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7761,
-    "updated_at": "2026-09-02T19:19:23Z",
+    "updated_at": "2026-09-02T19:44:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -162,13 +207,13 @@
     "url": "https://github.com/hensu-project/hensu"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34108,
-    "updated_at": "2026-09-02T19:27:59Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "ComposioHQ/composio",
+    "stars": 30014,
+    "updated_at": "2026-09-02T18:50:49Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T19:07:08Z",
+    "updated_at": "2026-09-02T19:40:21Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T18:19:36Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30013,
-    "updated_at": "2026-09-02T18:50:49Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21751,
-    "updated_at": "2026-09-02T19:21:57Z",
+    "updated_at": "2026-09-02T19:43:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -351,24 +387,6 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:25:27Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 424,
-    "updated_at": "2026-09-02T19:24:16Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Runnable reference implementations of five core Braintrust workflows: dataset lifecycle, offline evals, online evals, tr",
     "id": "dpguthrie/braintrust-workflows",
     "language": "Python",
@@ -376,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T17:02:26Z",
     "url": "https://github.com/dpguthrie/braintrust-workflows"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:59:32Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T16:37:29Z",
     "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
-  },
-  {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3026,
-    "updated_at": "2026-09-02T16:30:50Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
   }
 ]
