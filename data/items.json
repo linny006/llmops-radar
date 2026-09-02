@@ -1,5 +1,104 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7744,
+    "updated_at": "2026-09-02T05:59:16Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:57:51Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34077,
+    "updated_at": "2026-09-02T05:52:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "An LLM gateway that proves itself under failure. Virtual keys, budgets enforced before the call, and fault injection as ",
+    "id": "DINAKAR-S/stormdoor",
+    "language": "Python",
+    "name": "DINAKAR-S/stormdoor",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:52:25Z",
+    "url": "https://github.com/DINAKAR-S/stormdoor"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:50:00Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57786,
+    "updated_at": "2026-09-02T05:49:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:47:14Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:46:35Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:46:09Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:45:35Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T05:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -45,15 +144,6 @@
     "url": "https://github.com/harishu652/Class-AI-Agent"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57785,
-    "updated_at": "2026-09-02T05:39:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:30:31Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T05:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
@@ -131,7 +212,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-02T05:28:49Z",
+    "updated_at": "2026-09-02T05:48:54Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11287,
-    "updated_at": "2026-09-02T05:23:40Z",
+    "updated_at": "2026-09-02T05:51:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +347,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8495,
-    "updated_at": "2026-09-02T05:14:08Z",
+    "updated_at": "2026-09-02T05:58:03Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -295,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T05:09:41Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:29:36Z",
-    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T05:26:36Z",
+    "updated_at": "2026-09-02T05:54:50Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-02T04:51:59Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:08:09Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 8,
-    "updated_at": "2026-09-02T04:40:59Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7742,
-    "updated_at": "2026-09-02T05:38:56Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 69,
-    "updated_at": "2026-09-02T04:33:55Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:11:29Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2745,
-    "updated_at": "2026-09-02T04:03:48Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-02T04:01:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 14,
-    "updated_at": "2026-09-02T05:31:55Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
   }
 ]
