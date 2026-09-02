@@ -1,12 +1,39 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-02T10:12:26Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-02T10:15:09Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-02T10:00:15Z",
+    "updated_at": "2026-09-02T10:11:22Z",
     "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-09-02T10:04:44Z",
+    "url": "https://github.com/lisn0/tidal"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34085,
-    "updated_at": "2026-09-02T10:00:23Z",
+    "updated_at": "2026-09-02T10:12:09Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21742,
+    "updated_at": "2026-09-02T10:08:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZKE\uff08Z Kubernetes Engine\uff09\uff1aAI \u539f\u751f\u7684 Kubernetes \u4e91\u64cd\u4f5c\u73af\u5883\uff0c\u684c\u9762\u5f0f\u591a\u96c6\u7fa4\u63a7\u5236\u53f0\u52a0\u53d7\u63a7 AIOps Agent\uff0c\u57fa\u4e8e Server + Agent \u4e0e QUIC/mTLS\uff0c\u9002\u7528\u4e8e\u79c1\u6709\u4e91\u3001\u6df7\u5408\u4e91\u53ca\u8fb9\u7f18\u73af\u5883",
+    "id": "togettoyou/zke",
+    "language": "Go",
+    "name": "togettoyou/zke",
+    "stars": 101,
+    "updated_at": "2026-09-02T09:58:19Z",
+    "url": "https://github.com/togettoyou/zke"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "ArtVsMark/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-09-02T10:00:13Z",
+    "updated_at": "2026-09-02T10:07:34Z",
     "url": "https://github.com/ArtVsMark/claude-code-playbook"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7752,
-    "updated_at": "2026-09-02T09:56:11Z",
+    "updated_at": "2026-09-02T10:15:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 126,
-    "updated_at": "2026-09-02T09:54:12Z",
+    "updated_at": "2026-09-02T10:10:51Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
     "stars": 2362,
-    "updated_at": "2026-09-02T09:52:59Z",
+    "updated_at": "2026-09-02T10:15:12Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57814,
-    "updated_at": "2026-09-02T09:57:47Z",
+    "updated_at": "2026-09-02T10:08:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -103,18 +157,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4739,
+    "stars": 4742,
     "updated_at": "2026-09-02T09:46:03Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T09:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -144,15 +189,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-02T09:31:37Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -180,21 +216,12 @@
     "url": "https://github.com/vbabchenkov/ai-lab-05-evals"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21742,
-    "updated_at": "2026-09-02T09:57:00Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T09:36:27Z",
+    "updated_at": "2026-09-02T10:06:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 7,
-    "updated_at": "2026-09-02T09:36:09Z",
+    "updated_at": "2026-09-02T10:09:16Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30011,
-    "updated_at": "2026-09-02T08:53:37Z",
+    "updated_at": "2026-09-02T10:04:29Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -266,17 +293,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1325,
-    "updated_at": "2026-09-02T09:53:05Z",
+    "updated_at": "2026-09-02T10:12:41Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-02T09:16:58Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -319,7 +337,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27776,
+    "stars": 27777,
     "updated_at": "2026-09-02T08:24:07Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1904,
-    "updated_at": "2026-09-02T09:38:45Z",
+    "updated_at": "2026-09-02T10:13:09Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5710,
-    "updated_at": "2026-09-02T07:03:56Z",
+    "updated_at": "2026-09-02T10:08:46Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8499,
-    "updated_at": "2026-09-02T06:59:41Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 82,
-    "updated_at": "2026-09-02T07:18:58Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
