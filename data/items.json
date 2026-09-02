@@ -1,21 +1,57 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27768,
+    "updated_at": "2026-09-02T01:14:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 35,
-    "updated_at": "2026-09-02T00:59:38Z",
+    "updated_at": "2026-09-02T01:15:25Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-02T01:09:08Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57773,
-    "updated_at": "2026-09-02T00:58:17Z",
+    "stars": 57772,
+    "updated_at": "2026-09-02T01:15:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5800,
+    "updated_at": "2026-09-02T01:06:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T01:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -40,7 +76,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7737,
+    "stars": 7738,
     "updated_at": "2026-09-02T00:49:50Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -52,15 +88,6 @@
     "stars": 76,
     "updated_at": "2026-09-02T00:46:19Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11285,
-    "updated_at": "2026-09-02T00:16:41Z",
+    "updated_at": "2026-09-02T01:07:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T00:06:09Z",
     "url": "https://github.com/GXCafe/honto-contract"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27768,
-    "updated_at": "2026-09-02T00:29:35Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-02T00:39:23Z",
+    "updated_at": "2026-09-02T01:07:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -292,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34058,
+    "stars": 34059,
     "updated_at": "2026-09-01T22:53:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:32:21Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:32:16Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:31:44Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
