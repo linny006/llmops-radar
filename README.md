@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4898 | Python | 2026-09-02 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [GeiserX/LynxPrompt](https://github.com/GeiserX/LynxPrompt) | 45 | TypeScript | 2026-09-02 | Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-02 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57846 | Python | 2026-09-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-02 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27781 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11296 | Python | 2026-09-02 | AI Observability & Evaluation |
-| 8 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-02 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 4898 | Python | 2026-09-02 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 3 | [GeiserX/LynxPrompt](https://github.com/GeiserX/LynxPrompt) | 45 | TypeScript | 2026-09-02 | Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG |
+| 4 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-02 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 57846 | Python | 2026-09-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-02 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27781 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11296 | Python | 2026-09-02 | AI Observability & Evaluation |
+| 9 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-02 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
 | 10 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 5 | Python | 2026-09-02 | Production harness and control plane for accountable AI-assisted software delivery |
 | 11 | [Nelsonlin0321/llm-gateway](https://github.com/Nelsonlin0321/llm-gateway) | 2 | TypeScript | 2026-09-02 | Self-hosted control plane for multi-provider LLM access. OpenAI- and Anthropic-compatible proxy, encrypted master keys,  |
 | 12 | [pom11/hscc](https://github.com/pom11/hscc) | 4 | Python | 2026-09-02 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
