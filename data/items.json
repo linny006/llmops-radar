@@ -1,5 +1,77 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-02T22:44:22Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:42:25Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "OpenAI/Anthropic-compatible API server that impersonates a locally hosted LLM and serves every request by driving the Cl",
+    "id": "amitshaikoren/claude-socket",
+    "language": "TypeScript",
+    "name": "amitshaikoren/claude-socket",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:35:31Z",
+    "url": "https://github.com/amitshaikoren/claude-socket"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:42:07Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 3,
+    "updated_at": "2026-09-02T22:32:19Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11298,
+    "updated_at": "2026-09-02T22:42:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:30:18Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57855,
-    "updated_at": "2026-09-02T22:29:14Z",
+    "updated_at": "2026-09-02T22:43:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,40 +126,22 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T22:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11298,
-    "updated_at": "2026-09-02T22:29:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
     "id": "restrok/exocortex",
     "language": "Python",
     "name": "restrok/exocortex",
     "stars": 0,
-    "updated_at": "2026-09-02T22:11:25Z",
+    "updated_at": "2026-09-02T22:44:21Z",
     "url": "https://github.com/restrok/exocortex"
   },
   {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 3,
-    "updated_at": "2026-09-02T22:08:08Z",
-    "url": "https://github.com/aktasbatuhan/compound"
+    "name": "promptfoo/promptfoo",
+    "stars": 24767,
+    "updated_at": "2026-09-02T22:06:16Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "aimd54/palan",
     "stars": 0,
-    "updated_at": "2026-09-02T22:28:15Z",
+    "updated_at": "2026-09-02T22:39:01Z",
     "url": "https://github.com/aimd54/palan"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 7762,
     "updated_at": "2026-09-02T22:02:51Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:20:44Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21751,
-    "updated_at": "2026-09-02T21:12:29Z",
+    "updated_at": "2026-09-02T22:41:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:30:41Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:29:48Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:29:28Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:28:11Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:27:56Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:25:33Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
