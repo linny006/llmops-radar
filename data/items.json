@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
+    "id": "KewalPra/agent-sdk",
+    "language": "Python",
+    "name": "KewalPra/agent-sdk",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:29:48Z",
+    "url": "https://github.com/KewalPra/agent-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
+    "id": "rsaudio/second-brain",
+    "language": "\u2014",
+    "name": "rsaudio/second-brain",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:29:28Z",
+    "url": "https://github.com/rsaudio/second-brain"
+  },
+  {
+    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
+    "id": "ashish7802/memora-ai",
+    "language": "TypeScript",
+    "name": "ashish7802/memora-ai",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:26:16Z",
+    "url": "https://github.com/ashish7802/memora-ai"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-09-02T20:25:33Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 6,
+    "updated_at": "2026-09-02T20:20:03Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-02T20:19:48Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57847,
+    "updated_at": "2026-09-02T20:27:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T20:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-02T20:08:38Z",
+    "updated_at": "2026-09-02T20:24:09Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-09-02T20:05:08Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57847,
-    "updated_at": "2026-09-02T20:13:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-02T20:02:05Z",
+    "updated_at": "2026-09-02T20:26:44Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Template for AI-assisted development with Work Item contracts, scope guards, change summaries, and review-ready cockpit ",
     "id": "spirex-ds-dev/ai-cockpit-template",
     "language": "Python",
@@ -99,13 +153,13 @@
     "url": "https://github.com/spirex-ds-dev/ai-cockpit-template"
   },
   {
-    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
-    "id": "ashish7802/memora-ai",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ashish7802/memora-ai",
-    "stars": 1,
-    "updated_at": "2026-09-02T19:58:03Z",
-    "url": "https://github.com/ashish7802/memora-ai"
+    "name": "langfuse/langfuse",
+    "stars": 34110,
+    "updated_at": "2026-09-02T19:57:52Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -135,21 +189,12 @@
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34109,
-    "updated_at": "2026-09-02T19:57:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11298,
-    "updated_at": "2026-09-02T20:10:19Z",
+    "updated_at": "2026-09-02T20:27:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -193,7 +238,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4904,
+    "stars": 4908,
     "updated_at": "2026-09-02T19:31:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -230,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-02T19:20:02Z",
+    "updated_at": "2026-09-02T20:21:49Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-02T20:04:39Z",
+    "updated_at": "2026-09-02T20:29:01Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7761,
-    "updated_at": "2026-09-02T20:01:55Z",
+    "updated_at": "2026-09-02T20:20:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 30015,
     "updated_at": "2026-09-02T18:50:49Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:45:07Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T17:57:16Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-02T17:35:22Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
-    "id": "idevelopAI/llm-eval-control-plane",
-    "language": "Python",
-    "name": "idevelopAI/llm-eval-control-plane",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:21:15Z",
-    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:09:59Z",
-    "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:09:39Z",
-    "url": "https://github.com/hpnkv/a11"
   }
 ]
