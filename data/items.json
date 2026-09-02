@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-02T13:06:48Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-02T13:04:06Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
+    "id": "ashish7802/memora-ai",
+    "language": "\u2014",
+    "name": "ashish7802/memora-ai",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:02:21Z",
+    "url": "https://github.com/ashish7802/memora-ai"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-02T13:15:20Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57824,
+    "updated_at": "2026-09-02T13:12:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T13:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T13:00:01Z",
+    "updated_at": "2026-09-02T13:15:08Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2362,
+    "updated_at": "2026-09-02T12:56:00Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "A demo of the beautiful things we can achieve when we combine all of what Microsoft Foundry has to offer.",
@@ -18,15 +81,6 @@
     "url": "https://github.com/NicoGrassetto/Cosmopilot"
   },
   {
-    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
-    "id": "ashish7802/memora-ai",
-    "language": "\u2014",
-    "name": "ashish7802/memora-ai",
-    "stars": 0,
-    "updated_at": "2026-09-02T12:54:23Z",
-    "url": "https://github.com/ashish7802/memora-ai"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -36,12 +90,21 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7758,
+    "updated_at": "2026-09-02T12:52:17Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21746,
-    "updated_at": "2026-09-02T12:56:45Z",
+    "updated_at": "2026-09-02T13:05:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1905,
-    "updated_at": "2026-09-02T12:50:37Z",
+    "updated_at": "2026-09-02T13:13:07Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-02T12:43:48Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34092,
-    "updated_at": "2026-09-02T12:54:27Z",
+    "updated_at": "2026-09-02T13:14:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30011,
-    "updated_at": "2026-09-02T12:59:52Z",
+    "updated_at": "2026-09-02T13:01:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 4,
-    "updated_at": "2026-09-02T12:15:57Z",
+    "updated_at": "2026-09-02T13:14:00Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57822,
-    "updated_at": "2026-09-02T12:57:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -189,21 +225,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7757,
-    "updated_at": "2026-09-02T12:52:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2748,
-    "updated_at": "2026-09-02T12:33:05Z",
+    "updated_at": "2026-09-02T13:10:29Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -265,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4781,
+    "stars": 4783,
     "updated_at": "2026-09-02T11:27:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -405,15 +432,6 @@
     "url": "https://github.com/GetSHIM/shim"
   },
   {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2362,
-    "updated_at": "2026-09-02T12:56:00Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T10:11:22Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5711,
-    "updated_at": "2026-09-02T12:58:17Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-09-02T10:04:44Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
