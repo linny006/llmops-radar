@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57956,
-    "updated_at": "2026-09-03T20:14:53Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T20:28:59Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
     "description": "Agentic Runtime",
@@ -14,26 +14,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T20:04:29Z",
+    "updated_at": "2026-09-03T20:28:01Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T20:01:10Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+    "name": "Arize-ai/phoenix",
+    "stars": 11311,
+    "updated_at": "2026-09-03T20:28:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7785,
-    "updated_at": "2026-09-03T20:01:05Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-03T20:25:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57958,
+    "updated_at": "2026-09-03T20:28:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 7,
+    "updated_at": "2026-09-03T20:24:00Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34161,
+    "updated_at": "2026-09-03T20:27:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-03T20:21:29Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-03T20:00:27Z",
+    "updated_at": "2026-09-03T20:15:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7785,
+    "updated_at": "2026-09-03T20:18:54Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21769,
-    "updated_at": "2026-09-03T20:06:43Z",
+    "updated_at": "2026-09-03T20:19:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -115,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T19:34:39Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34161,
-    "updated_at": "2026-09-03T20:08:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 7,
-    "updated_at": "2026-09-03T19:23:25Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -151,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-09-03T19:19:41Z",
     "url": "https://github.com/bytebeast/check-endpoint"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11311,
-    "updated_at": "2026-09-03T20:04:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-03T18:56:55Z",
+    "updated_at": "2026-09-03T20:30:11Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:28:05Z",
     "url": "https://github.com/sharmadivyanshu/quietfail"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-03T18:26:09Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -439,14 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-03T17:41:21Z",
     "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:39:57Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
