@@ -1,12 +1,57 @@
 [
   {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-03T00:45:09Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:42:03Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57854,
-    "updated_at": "2026-09-03T00:29:59Z",
+    "stars": 57855,
+    "updated_at": "2026-09-03T00:44:45Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
+    "id": "super-ZXQ/ai-commerce-intelligence-platform",
+    "language": "Jupyter Notebook",
+    "name": "super-ZXQ/ai-commerce-intelligence-platform",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:40:09Z",
+    "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-03T00:33:57Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T00:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11298,
-    "updated_at": "2026-09-03T00:29:53Z",
+    "updated_at": "2026-09-03T00:44:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,21 +72,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:26:14Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-03T00:26:02Z",
+    "updated_at": "2026-09-03T00:42:56Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T00:21:40Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-03T00:18:35Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -79,15 +106,6 @@
     "stars": 36,
     "updated_at": "2026-09-03T00:15:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T00:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-02T23:48:27Z",
+    "updated_at": "2026-09-03T00:37:28Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -157,7 +175,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34112,
+    "stars": 34113,
     "updated_at": "2026-09-02T23:39:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -202,7 +220,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7763,
+    "stars": 7762,
     "updated_at": "2026-09-02T23:23:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T20:45:30Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:45:27Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 6,
-    "updated_at": "2026-09-02T20:45:21Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   }
 ]
