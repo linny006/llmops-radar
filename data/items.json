@@ -5,8 +5,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T06:13:42Z",
+    "updated_at": "2026-09-03T06:30:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2738,
+    "updated_at": "2026-09-03T06:30:22Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27785,
+    "updated_at": "2026-09-03T06:28:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:19:51Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57891,
+    "updated_at": "2026-09-03T06:22:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5712,
+    "updated_at": "2026-09-03T06:16:14Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-03T06:16:12Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8505,
+    "updated_at": "2026-09-03T06:26:55Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24771,
-    "updated_at": "2026-09-03T06:14:05Z",
+    "updated_at": "2026-09-03T06:29:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,6 +108,15 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34125,
+    "updated_at": "2026-09-03T06:03:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -43,6 +124,15 @@
     "stars": 4,
     "updated_at": "2026-09-03T06:03:43Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1910,
+    "updated_at": "2026-09-03T06:03:41Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -63,21 +153,12 @@
     "url": "https://github.com/8pig/llm-ops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-03T05:55:54Z",
+    "updated_at": "2026-09-03T06:26:33Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57889,
-    "updated_at": "2026-09-03T06:09:05Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 11299,
     "updated_at": "2026-09-03T05:56:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8503,
-    "updated_at": "2026-09-03T06:13:54Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -140,17 +203,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-03T06:13:38Z",
+    "updated_at": "2026-09-03T06:28:24Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1909,
-    "updated_at": "2026-09-03T06:03:41Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -293,17 +347,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1325,
-    "updated_at": "2026-09-03T06:08:04Z",
+    "updated_at": "2026-09-03T06:19:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34124,
-    "updated_at": "2026-09-03T06:03:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:50:13Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:46:12Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:45:49Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-03T06:05:07Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:41:57Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:41:50Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
