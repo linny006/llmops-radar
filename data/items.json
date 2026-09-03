@@ -5,8 +5,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T04:28:47Z",
+    "updated_at": "2026-09-03T04:44:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11298,
+    "updated_at": "2026-09-03T04:42:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:40:21Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Small cost-aware LLM router for role-tiered OpenAI-compatible and Yandex calls with per-call usage logging.",
+    "id": "krivonosoff161/llm-router",
+    "language": "Python",
+    "name": "krivonosoff161/llm-router",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:39:44Z",
+    "url": "https://github.com/krivonosoff161/llm-router"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1325,
+    "updated_at": "2026-09-03T04:41:22Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2749,
+    "updated_at": "2026-09-03T04:39:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:44:20Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "Clawdlinux/agentic-operator-core",
     "stars": 24,
-    "updated_at": "2026-09-03T04:28:21Z",
+    "updated_at": "2026-09-03T04:43:33Z",
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/mykolapodpriatov/agentbisect"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57880,
-    "updated_at": "2026-09-03T04:20:33Z",
+    "updated_at": "2026-09-03T04:44:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T03:52:07Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2749,
-    "updated_at": "2026-09-03T03:51:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
@@ -288,15 +333,6 @@
     "url": "https://github.com/Life-Experimentalist/CogniGate"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:00:39Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-03T03:05:59Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:04:41Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11923,
-    "updated_at": "2026-09-03T03:05:09Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:49:43Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Evaluate LLM changes before you ship them. Scorers, model comparison, cost tracking, and CI regression gates. No account",
-    "id": "MhmmdFaizal04/llm-eval-lite",
-    "language": "TypeScript",
-    "name": "MhmmdFaizal04/llm-eval-lite",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:45:56Z",
-    "url": "https://github.com/MhmmdFaizal04/llm-eval-lite"
   }
 ]
