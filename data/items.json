@@ -1,12 +1,12 @@
 [
   {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 6,
-    "updated_at": "2026-09-03T16:40:59Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5076,
+    "updated_at": "2026-09-03T16:58:47Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11309,
-    "updated_at": "2026-09-03T16:39:43Z",
+    "updated_at": "2026-09-03T16:58:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 52,
+    "updated_at": "2026-09-03T16:57:48Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:53:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34156,
+    "updated_at": "2026-09-03T16:53:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 v0.1.1 / Simplified Chinese overlay, verified with LiteLLM v1.99.0 on macOS.",
+    "id": "leonathan369-droid/litellm-ui-zh",
+    "language": "JavaScript",
+    "name": "leonathan369-droid/litellm-ui-zh",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:49:35Z",
+    "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 6,
+    "updated_at": "2026-09-03T16:50:31Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57943,
+    "updated_at": "2026-09-03T17:00:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:47:06Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T16:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Shell",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:44:09Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T16:37:01Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:35:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -70,15 +142,6 @@
     "stars": 129,
     "updated_at": "2026-09-03T16:31:47Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 / Simplified Chinese translation overlay with a safe installer and rollback.",
-    "id": "leonathan369-droid/litellm-ui-zh",
-    "language": "JavaScript",
-    "name": "leonathan369-droid/litellm-ui-zh",
-    "stars": 1,
-    "updated_at": "2026-09-03T16:31:42Z",
-    "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -122,17 +185,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7780,
-    "updated_at": "2026-09-03T16:27:58Z",
+    "updated_at": "2026-09-03T16:51:04Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57943,
-    "updated_at": "2026-09-03T16:33:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -153,15 +207,6 @@
     "url": "https://github.com/rehan243/RLHF-LLM-Optimization"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34155,
-    "updated_at": "2026-09-03T16:29:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 1195,
     "updated_at": "2026-09-03T16:15:18Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5075,
-    "updated_at": "2026-09-03T16:09:46Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24787,
-    "updated_at": "2026-09-03T16:42:32Z",
+    "updated_at": "2026-09-03T16:51:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Shell",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:44:09Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -297,21 +324,12 @@
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 52,
-    "updated_at": "2026-09-03T15:35:21Z",
-    "url": "https://github.com/infercrane/infercrane"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3533,
-    "updated_at": "2026-09-03T16:43:34Z",
+    "updated_at": "2026-09-03T16:57:35Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 259,
     "updated_at": "2026-09-03T14:40:43Z",
     "url": "https://github.com/InftyAI/Awesome-LLMOps"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-03T16:31:06Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Run-aware token governance for multi-agent systems.",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 46,
-    "updated_at": "2026-09-03T14:27:02Z",
-    "url": "https://github.com/theagentplane/tokenops"
   }
 ]
