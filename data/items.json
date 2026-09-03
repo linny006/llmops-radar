@@ -1,5 +1,77 @@
 [
   {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:58:32Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:56:28Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2749,
+    "updated_at": "2026-09-03T02:55:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:52:28Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11923,
+    "updated_at": "2026-09-03T02:55:55Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57874,
+    "updated_at": "2026-09-03T02:59:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-03T02:49:43Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T02:46:52Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,24 +90,6 @@
     "url": "https://github.com/MhmmdFaizal04/llm-eval-lite"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T02:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57873,
-    "updated_at": "2026-09-03T02:46:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
     "id": "taishan666/MaxKB4j",
     "language": "Java",
@@ -43,15 +97,6 @@
     "stars": 126,
     "updated_at": "2026-09-03T02:42:09Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:38:40Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Deterministic release-gate evaluation for AI products and Agents",
@@ -90,15 +135,6 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
-    "id": "Life-Experimentalist/CogniGate",
-    "language": "Go",
-    "name": "Life-Experimentalist/CogniGate",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:31:39Z",
-    "url": "https://github.com/Life-Experimentalist/CogniGate"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -108,21 +144,12 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:25:16Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
     "id": "infercrane/infercrane",
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 51,
-    "updated_at": "2026-09-03T02:21:23Z",
+    "updated_at": "2026-09-03T02:58:50Z",
     "url": "https://github.com/infercrane/infercrane"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T02:15:17Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2749,
-    "updated_at": "2026-09-03T02:08:51Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -178,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T01:27:11Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11922,
-    "updated_at": "2026-09-03T02:32:12Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-03T02:38:19Z",
+    "updated_at": "2026-09-03T02:53:56Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -265,7 +274,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7765,
+    "stars": 7766,
     "updated_at": "2026-09-03T00:52:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "aktasbatuhan/compound",
     "stars": 3,
-    "updated_at": "2026-09-03T00:28:06Z",
+    "updated_at": "2026-09-03T02:54:20Z",
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3523,
     "updated_at": "2026-09-02T22:18:17Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
-    "id": "restrok/exocortex",
-    "language": "Python",
-    "name": "restrok/exocortex",
-    "stars": 0,
-    "updated_at": "2026-09-02T23:20:54Z",
-    "url": "https://github.com/restrok/exocortex"
   }
 ]
