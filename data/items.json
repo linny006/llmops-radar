@@ -1,12 +1,30 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57956,
+    "updated_at": "2026-09-03T19:58:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
+    "id": "davidahmann/applied-ai-field-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/applied-ai-field-guide",
+    "stars": 70,
+    "updated_at": "2026-09-03T19:58:35Z",
+    "url": "https://github.com/davidahmann/applied-ai-field-guide"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7783,
-    "updated_at": "2026-09-03T19:42:54Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-03T19:54:12Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +32,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T19:39:26Z",
+    "updated_at": "2026-09-03T19:53:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-03T19:52:07Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-03T19:55:11Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-03T19:49:13Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7783,
+    "updated_at": "2026-09-03T19:45:46Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T19:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "jamjet-labs/jamjet-guardrails",
     "stars": 1,
-    "updated_at": "2026-09-03T19:37:04Z",
+    "updated_at": "2026-09-03T19:50:47Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-03T19:36:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21769,
+    "updated_at": "2026-09-03T19:35:13Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -34,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T19:34:39Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T19:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57955,
-    "updated_at": "2026-09-03T19:43:44Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -76,7 +139,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24791,
+    "stars": 24790,
     "updated_at": "2026-09-03T19:21:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11311,
-    "updated_at": "2026-09-03T19:29:01Z",
+    "updated_at": "2026-09-03T19:56:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -126,13 +189,13 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21768,
-    "updated_at": "2026-09-03T19:35:13Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "VibePod/vibepod-cli",
+    "stars": 144,
+    "updated_at": "2026-09-03T18:58:50Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -189,15 +252,6 @@
     "url": "https://github.com/ashish7802/memora-ai"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-03T19:14:41Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -216,15 +270,6 @@
     "url": "https://github.com/floatsmyboat/inferwatch"
   },
   {
-    "description": "FDE and AI engineering guide for production systems: value, architecture, evals, security, deployment, and operations.",
-    "id": "davidahmann/fde-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/fde-guide",
-    "stars": 70,
-    "updated_at": "2026-09-03T18:32:58Z",
-    "url": "https://github.com/davidahmann/fde-guide"
-  },
-  {
     "description": "Catch LLM agents that fail silently. Drift and silent-failure detection for LangGraph agents \u2014 no ground truth required.",
     "id": "sharmadivyanshu/quietfail",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:28:05Z",
     "url": "https://github.com/sharmadivyanshu/quietfail"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-03T19:39:55Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -274,7 +310,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30036,
+    "stars": 30035,
     "updated_at": "2026-09-03T18:13:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-03T19:36:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T17:39:57Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:39:26Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:39:25Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5104,
-    "updated_at": "2026-09-03T17:39:20Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
