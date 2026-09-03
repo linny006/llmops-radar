@@ -1,12 +1,75 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T05:27:22Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57885,
+    "updated_at": "2026-09-03T05:26:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-03T05:26:03Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T05:14:26Z",
+    "updated_at": "2026-09-03T05:21:17Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "HarnessForge - \u63d2\u4ef6\u4f18\u5148\u3001\u6a21\u578b\u65e0\u5173\u7684\u667a\u80fd\u4f53\u7f16\u6392\u4e0e\u6cbb\u7406\u6846\u67b6 (Plugin-first, model-agnostic agent harness)",
+    "id": "huzjie/harnessforge",
+    "language": "Python",
+    "name": "huzjie/harnessforge",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:17:58Z",
+    "url": "https://github.com/huzjie/harnessforge"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:19:28Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T05:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11299,
+    "updated_at": "2026-09-03T05:27:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
@@ -36,15 +99,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T05:07:53Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -52,24 +106,6 @@
     "stars": 44,
     "updated_at": "2026-09-03T05:03:45Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57883,
-    "updated_at": "2026-09-03T05:11:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T05:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "Clawdlinux/agentic-operator-core",
     "stars": 24,
-    "updated_at": "2026-09-03T05:14:09Z",
+    "updated_at": "2026-09-03T05:16:25Z",
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-03T04:50:12Z",
+    "updated_at": "2026-09-03T05:16:48Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 245,
     "updated_at": "2026-09-03T04:46:17Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11298,
-    "updated_at": "2026-09-03T05:14:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -175,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34121,
+    "stars": 34122,
     "updated_at": "2026-09-03T04:26:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-03T05:10:31Z",
+    "updated_at": "2026-09-03T05:25:05Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24769,
-    "updated_at": "2026-09-03T05:01:06Z",
+    "updated_at": "2026-09-03T05:30:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:28:58Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:27:49Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:27:21Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 51,
-    "updated_at": "2026-09-03T03:25:29Z",
-    "url": "https://github.com/infercrane/infercrane"
   }
 ]
