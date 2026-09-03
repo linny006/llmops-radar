@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-03T18:11:43Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
     "name": "jasonneo99/agent-workflow",
     "stars": 0,
-    "updated_at": "2026-09-03T17:59:41Z",
+    "updated_at": "2026-09-03T18:11:29Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:10:26Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57950,
+    "updated_at": "2026-09-03T18:10:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T18:15:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7781,
+    "updated_at": "2026-09-03T18:01:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T18:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T17:59:06Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7780,
-    "updated_at": "2026-09-03T17:59:03Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -43,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:55:51Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34159,
+    "updated_at": "2026-09-03T17:55:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
@@ -72,24 +126,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:53:58Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34157,
-    "updated_at": "2026-09-03T17:55:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -108,15 +144,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:51:36Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 46,
     "updated_at": "2026-09-03T17:51:23Z",
     "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57948,
-    "updated_at": "2026-09-03T18:00:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
@@ -160,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T17:46:52Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T17:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11309,
-    "updated_at": "2026-09-03T17:35:20Z",
+    "updated_at": "2026-09-03T18:12:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -356,17 +365,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-03T17:56:50Z",
+    "updated_at": "2026-09-03T18:12:53Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T17:08:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -385,6 +385,15 @@
     "stars": 7,
     "updated_at": "2026-09-03T17:05:53Z",
     "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24788,
+    "updated_at": "2026-09-03T17:01:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 v0.1.1 / Simplified Chinese overlay, verified with LiteLLM v1.99.0 on macOS.",
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30035,
-    "updated_at": "2026-09-03T16:33:55Z",
+    "updated_at": "2026-09-03T18:13:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T16:32:02Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 129,
-    "updated_at": "2026-09-03T17:58:31Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
