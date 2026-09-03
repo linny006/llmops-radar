@@ -1,11 +1,119 @@
 [
   {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:12:36Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34139,
+    "updated_at": "2026-09-03T09:15:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:10:48Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T09:14:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T09:05:22Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1326,
+    "updated_at": "2026-09-03T09:14:59Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-03T09:02:57Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24777,
+    "updated_at": "2026-09-03T09:02:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2750,
+    "updated_at": "2026-09-03T09:01:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7772,
+    "updated_at": "2026-09-03T09:01:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-03T09:10:27Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
     "id": "ArtVsMark/Engineering-Incidents-Playbook",
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-03T08:59:46Z",
+    "updated_at": "2026-09-03T09:14:14Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -18,15 +126,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T08:58:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T08:57:38Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34137,
-    "updated_at": "2026-09-03T08:59:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -58,18 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57910,
-    "updated_at": "2026-09-03T08:55:58Z",
+    "stars": 57912,
+    "updated_at": "2026-09-03T09:15:07Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2749,
-    "updated_at": "2026-09-03T08:54:37Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-03T08:54:00Z",
+    "updated_at": "2026-09-03T09:11:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,8 +167,17 @@
     "language": "Go",
     "name": "Clawdlinux/agentic-operator-core",
     "stars": 24,
-    "updated_at": "2026-09-03T08:51:28Z",
+    "updated_at": "2026-09-03T09:10:34Z",
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21759,
+    "updated_at": "2026-09-03T08:50:07Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -108,40 +198,13 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T08:46:38Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21758,
-    "updated_at": "2026-09-03T08:50:07Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24774,
-    "updated_at": "2026-09-03T08:56:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "future-agi/future-agi",
+    "stars": 1910,
+    "updated_at": "2026-09-03T08:42:32Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 128,
-    "updated_at": "2026-09-03T08:38:53Z",
+    "updated_at": "2026-09-03T09:14:49Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -162,31 +225,13 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7771,
-    "updated_at": "2026-09-03T08:56:35Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5002,
+    "stars": 5006,
     "updated_at": "2026-09-03T08:33:02Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T08:44:28Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "8pig/llm-ops",
     "stars": 12,
-    "updated_at": "2026-09-03T07:57:43Z",
+    "updated_at": "2026-09-03T09:14:51Z",
     "url": "https://github.com/8pig/llm-ops"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1326,
-    "updated_at": "2026-09-03T08:46:51Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
     "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
     "id": "theagentplane/tokenops",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 11924,
     "updated_at": "2026-09-03T07:46:56Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:58:33Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
@@ -346,7 +373,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11301,
+    "stars": 11303,
     "updated_at": "2026-09-03T07:24:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -421,32 +448,5 @@
     "stars": 2738,
     "updated_at": "2026-09-03T06:30:22Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:19:51Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5712,
-    "updated_at": "2026-09-03T06:37:43Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-03T06:16:12Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
