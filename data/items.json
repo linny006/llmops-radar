@@ -1,30 +1,93 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7779,
-    "updated_at": "2026-09-03T14:29:52Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T14:42:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3533,
+    "updated_at": "2026-09-03T14:43:04Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 259,
+    "updated_at": "2026-09-03T14:40:43Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57936,
-    "updated_at": "2026-09-03T14:27:14Z",
+    "stars": 57935,
+    "updated_at": "2026-09-03T14:44:04Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7779,
+    "updated_at": "2026-09-03T14:44:12Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-03T14:31:06Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:30:55Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
     "name": "theagentplane/tokenops",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-09-03T14:27:02Z",
     "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
+    "id": "ashishki/telegram-research-agent",
+    "language": "Python",
+    "name": "ashishki/telegram-research-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:25:14Z",
+    "url": "https://github.com/ashishki/telegram-research-agent"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1917,
+    "updated_at": "2026-09-03T14:23:16Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21763,
-    "updated_at": "2026-09-03T14:29:55Z",
+    "updated_at": "2026-09-03T14:36:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34156,
-    "updated_at": "2026-09-03T14:23:10Z",
+    "updated_at": "2026-09-03T14:42:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,33 +113,15 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-03T14:30:20Z",
+    "updated_at": "2026-09-03T14:30:58Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T14:15:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T14:30:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5054,
+    "stars": 5056,
     "updated_at": "2026-09-03T14:13:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -113,7 +158,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2750,
-    "updated_at": "2026-09-03T13:56:43Z",
+    "updated_at": "2026-09-03T14:39:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 427,
-    "updated_at": "2026-09-03T14:02:55Z",
+    "updated_at": "2026-09-03T14:41:39Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -130,8 +175,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30031,
-    "updated_at": "2026-09-03T13:50:02Z",
+    "stars": 30033,
+    "updated_at": "2026-09-03T14:45:02Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 129,
-    "updated_at": "2026-09-03T13:22:00Z",
+    "updated_at": "2026-09-03T14:32:51Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T13:26:12Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-03T13:14:42Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T12:59:53Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1916,
-    "updated_at": "2026-09-03T14:23:16Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Autonomous AI systems, multi-agent orchestration, LLMOps, AgentOps and 24/7 automation.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-03T11:39:48Z",
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-03T11:32:13Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11307,
-    "updated_at": "2026-09-03T13:11:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
-    "id": "ashishki/telegram-research-agent",
-    "language": "Python",
-    "name": "ashishki/telegram-research-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:25:14Z",
-    "url": "https://github.com/ashishki/telegram-research-agent"
   }
 ]
