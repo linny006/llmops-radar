@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T04:13:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:13:50Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 127,
+    "updated_at": "2026-09-03T04:11:53Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57880,
+    "updated_at": "2026-09-03T04:11:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
+    "id": "NakliTechie/ferrule",
+    "language": "Go",
+    "name": "NakliTechie/ferrule",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:07:47Z",
+    "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 14,
+    "updated_at": "2026-09-03T04:04:25Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T04:03:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57879,
-    "updated_at": "2026-09-03T04:00:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
     "id": "Soilbuilding-libraryroutine78/Gozar",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:56:03Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T03:55:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -108,20 +162,11 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T03:49:10Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24768,
+    "stars": 24769,
     "updated_at": "2026-09-03T03:47:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:45:49Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-03T03:32:04Z",
+    "updated_at": "2026-09-03T04:00:39Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T03:24:40Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
-    "id": "NakliTechie/ferrule",
-    "language": "Go",
-    "name": "NakliTechie/ferrule",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:22:16Z",
-    "url": "https://github.com/NakliTechie/ferrule"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T02:33:26Z",
     "url": "https://github.com/akshaymagapu/aisafeguard"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 3,
-    "updated_at": "2026-09-03T02:33:18Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-03T02:40:11Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-03T02:05:23Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
