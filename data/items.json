@@ -1,12 +1,120 @@
 [
   {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T11:14:19Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11925,
+    "updated_at": "2026-09-03T11:12:53Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
+    "id": "NakliTechie/ferrule",
+    "language": "Go",
+    "name": "NakliTechie/ferrule",
+    "stars": 0,
+    "updated_at": "2026-09-03T11:12:32Z",
+    "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2750,
+    "updated_at": "2026-09-03T11:10:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7772,
-    "updated_at": "2026-09-03T10:59:54Z",
+    "updated_at": "2026-09-03T11:10:15Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T11:08:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 245,
+    "updated_at": "2026-09-03T11:13:19Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-09-03T11:06:31Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T11:05:42Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-03T11:11:29Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-03T11:00:41Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T11:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
+    "id": "jochi2018/Soup",
+    "language": "Python",
+    "name": "jochi2018/Soup",
+    "stars": 119,
+    "updated_at": "2026-09-03T10:59:53Z",
+    "url": "https://github.com/jochi2018/Soup"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57924,
-    "updated_at": "2026-09-03T11:00:22Z",
+    "updated_at": "2026-09-03T11:15:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T10:48:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -95,17 +194,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1327,
-    "updated_at": "2026-09-03T10:48:18Z",
+    "updated_at": "2026-09-03T11:13:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T10:47:27Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -126,15 +216,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T10:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34146,
-    "updated_at": "2026-09-03T10:52:27Z",
+    "updated_at": "2026-09-03T11:11:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -234,15 +315,6 @@
     "url": "https://github.com/aimd54/palan"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2750,
-    "updated_at": "2026-09-03T10:35:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -324,20 +396,11 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:43:26Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27790,
+    "stars": 27791,
     "updated_at": "2026-09-03T10:20:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -374,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1911,
-    "updated_at": "2026-09-03T10:55:39Z",
+    "updated_at": "2026-09-03T11:03:52Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 24780,
     "updated_at": "2026-09-03T10:57:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21761,
-    "updated_at": "2026-09-03T10:35:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-03T10:58:34Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-03T09:51:48Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-03T09:50:31Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:48:12Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 15,
-    "updated_at": "2026-09-03T10:08:08Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-03T10:57:30Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
