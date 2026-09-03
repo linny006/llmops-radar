@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T04:13:54Z",
+    "updated_at": "2026-09-03T04:28:47Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
+    "id": "Clawdlinux/agentic-operator-core",
+    "language": "Go",
+    "name": "Clawdlinux/agentic-operator-core",
+    "stars": 24,
+    "updated_at": "2026-09-03T04:28:21Z",
+    "url": "https://github.com/Clawdlinux/agentic-operator-core"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T04:26:54Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:25:12Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "sumitdevgupto/TokenLean",
     "stars": 3,
-    "updated_at": "2026-09-03T04:13:50Z",
+    "updated_at": "2026-09-03T04:23:09Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
+    "id": "mykolapodpriatov/agentbisect",
+    "language": "Python",
+    "name": "mykolapodpriatov/agentbisect",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:22:25Z",
+    "url": "https://github.com/mykolapodpriatov/agentbisect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57880,
-    "updated_at": "2026-09-03T04:11:25Z",
+    "updated_at": "2026-09-03T04:20:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 14,
     "updated_at": "2026-09-03T04:04:25Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T04:03:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T02:45:56Z",
     "url": "https://github.com/MhmmdFaizal04/llm-eval-lite"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 126,
-    "updated_at": "2026-09-03T03:21:14Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Deterministic release-gate evaluation for AI products and Agents",
-    "id": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "language": "Python",
-    "name": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "stars": 1,
-    "updated_at": "2026-09-03T02:37:28Z",
-    "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
-  },
-  {
-    "description": "Open-source LLM safety guardrails: prompt injection protection, PII redaction, toxicity filtering, and OpenAI-compatible",
-    "id": "akshaymagapu/aisafeguard",
-    "language": "Python",
-    "name": "akshaymagapu/aisafeguard",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:33:26Z",
-    "url": "https://github.com/akshaymagapu/aisafeguard"
   }
 ]
