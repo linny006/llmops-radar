@@ -1,12 +1,66 @@
 [
   {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-03T19:25:27Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T19:23:20Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 8,
+    "updated_at": "2026-09-03T19:19:41Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11311,
-    "updated_at": "2026-09-03T19:14:16Z",
+    "updated_at": "2026-09-03T19:26:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T19:22:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T19:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7783,
+    "updated_at": "2026-09-03T19:14:28Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -23,26 +77,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57954,
-    "updated_at": "2026-09-03T19:15:19Z",
+    "updated_at": "2026-09-03T19:23:57Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T19:11:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
-    "id": "bytebeast/check-endpoint",
-    "language": "Python",
-    "name": "bytebeast/check-endpoint",
-    "stars": 8,
-    "updated_at": "2026-09-03T19:10:27Z",
-    "url": "https://github.com/bytebeast/check-endpoint"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -63,31 +99,13 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T19:14:13Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7782,
-    "updated_at": "2026-09-03T19:14:28Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "comet-ml/opik",
+    "stars": 21768,
+    "updated_at": "2026-09-03T19:22:38Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 7,
-    "updated_at": "2026-09-03T19:13:45Z",
+    "updated_at": "2026-09-03T19:23:25Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34161,
-    "updated_at": "2026-09-03T18:41:55Z",
+    "updated_at": "2026-09-03T19:23:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:56:55Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21767,
-    "updated_at": "2026-09-03T18:57:05Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-03T18:28:04Z",
+    "updated_at": "2026-09-03T19:15:44Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24789,
-    "updated_at": "2026-09-03T18:24:44Z",
+    "updated_at": "2026-09-03T19:21:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -436,17 +445,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5100,
+    "stars": 5102,
     "updated_at": "2026-09-03T17:39:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:39:08Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
