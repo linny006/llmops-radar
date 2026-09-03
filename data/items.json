@@ -1,10 +1,73 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-03T17:10:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T17:08:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-03T17:06:45Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57943,
+    "updated_at": "2026-09-03T17:15:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 6,
+    "updated_at": "2026-09-03T17:05:53Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T17:05:30Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T17:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5076,
+    "stars": 5078,
     "updated_at": "2026-09-03T16:58:47Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11309,
-    "updated_at": "2026-09-03T16:58:19Z",
+    "updated_at": "2026-09-03T17:15:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34156,
-    "updated_at": "2026-09-03T16:53:20Z",
+    "updated_at": "2026-09-03T17:14:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -54,24 +117,6 @@
     "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
   },
   {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 6,
-    "updated_at": "2026-09-03T16:50:31Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57943,
-    "updated_at": "2026-09-03T17:00:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T16:47:06Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1919,
-    "updated_at": "2026-09-03T16:29:29Z",
+    "updated_at": "2026-09-03T17:03:39Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T16:28:19Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T16:27:04Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24787,
-    "updated_at": "2026-09-03T16:51:03Z",
+    "updated_at": "2026-09-03T17:01:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T16:00:42Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T15:59:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3533,
-    "updated_at": "2026-09-03T16:57:35Z",
+    "updated_at": "2026-09-03T17:06:20Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T14:51:54Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-03T15:45:44Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
-    "id": "InftyAI/Awesome-LLMOps",
-    "language": "Python",
-    "name": "InftyAI/Awesome-LLMOps",
-    "stars": 259,
-    "updated_at": "2026-09-03T14:40:43Z",
-    "url": "https://github.com/InftyAI/Awesome-LLMOps"
   }
 ]
