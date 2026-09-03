@@ -1,21 +1,30 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7783,
+    "updated_at": "2026-09-03T19:42:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T19:28:54Z",
+    "updated_at": "2026-09-03T19:39:26Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T19:26:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T19:37:04Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -23,8 +32,35 @@
     "language": "JavaScript",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-03T19:25:27Z",
+    "updated_at": "2026-09-03T19:34:39Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T19:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57955,
+    "updated_at": "2026-09-03T19:43:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34161,
+    "updated_at": "2026-09-03T19:29:18Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -36,13 +72,13 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T19:23:20Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24791,
+    "updated_at": "2026-09-03T19:21:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -63,31 +99,13 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7783,
-    "updated_at": "2026-09-03T19:14:28Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 17,
-    "updated_at": "2026-09-03T19:13:41Z",
+    "updated_at": "2026-09-03T19:31:28Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57954,
-    "updated_at": "2026-09-03T19:29:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21768,
-    "updated_at": "2026-09-03T19:22:38Z",
+    "updated_at": "2026-09-03T19:35:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:45:23Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34161,
-    "updated_at": "2026-09-03T19:29:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-03T19:15:44Z",
+    "updated_at": "2026-09-03T19:39:55Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T18:26:09Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24789,
-    "updated_at": "2026-09-03T19:21:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
@@ -392,7 +392,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-09-03T17:42:49Z",
+    "updated_at": "2026-09-03T19:36:41Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
@@ -445,7 +445,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5103,
+    "stars": 5104,
     "updated_at": "2026-09-03T17:39:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   }
