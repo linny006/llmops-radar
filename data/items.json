@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 12,
+    "updated_at": "2026-09-03T11:58:32Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 391,
+    "updated_at": "2026-09-03T11:56:34Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57928,
+    "updated_at": "2026-09-03T11:59:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 81,
+    "updated_at": "2026-09-03T11:56:16Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 40,
+    "updated_at": "2026-09-03T11:51:58Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21761,
+    "updated_at": "2026-09-03T11:58:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T11:54:24Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7773,
+    "updated_at": "2026-09-03T11:59:52Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34146,
+    "updated_at": "2026-09-03T11:56:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T11:46:48Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T11:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -9,31 +108,22 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7772,
-    "updated_at": "2026-09-03T11:43:57Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11924,
-    "updated_at": "2026-09-03T11:42:36Z",
+    "updated_at": "2026-09-03T11:49:02Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34147,
-    "updated_at": "2026-09-03T11:45:11Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1912,
+    "updated_at": "2026-09-03T11:41:35Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Agentic Runtime",
@@ -54,15 +144,6 @@
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T11:39:14Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -79,42 +160,6 @@
     "stars": 3,
     "updated_at": "2026-09-03T11:32:13Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57926,
-    "updated_at": "2026-09-03T11:33:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T11:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1911,
-    "updated_at": "2026-09-03T11:41:35Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T11:26:37Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
@@ -151,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-09-03T11:06:31Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 391,
-    "updated_at": "2026-09-03T11:11:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -248,7 +284,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1327,
-    "updated_at": "2026-09-03T11:36:24Z",
+    "updated_at": "2026-09-03T11:55:18Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 129,
-    "updated_at": "2026-09-03T11:44:25Z",
+    "updated_at": "2026-09-03T11:53:10Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -400,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30029,
+    "stars": 30030,
     "updated_at": "2026-09-03T10:29:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T10:28:33Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-09-03T10:52:53Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-03T10:25:59Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:24:22Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:11:50Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   }
 ]
