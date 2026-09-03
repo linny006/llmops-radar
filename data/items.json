@@ -1,12 +1,57 @@
 [
   {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2362,
+    "updated_at": "2026-09-03T08:14:10Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 259,
+    "updated_at": "2026-09-03T08:14:03Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:13:26Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
     "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
     "id": "NakliTechie/ferrule",
     "language": "Go",
     "name": "NakliTechie/ferrule",
     "stars": 0,
-    "updated_at": "2026-09-03T07:59:45Z",
+    "updated_at": "2026-09-03T08:12:06Z",
     "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7771,
+    "updated_at": "2026-09-03T08:12:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57904,
+    "updated_at": "2026-09-03T08:15:13Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +59,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T07:58:29Z",
+    "updated_at": "2026-09-03T08:11:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 1,
+    "updated_at": "2026-09-03T08:15:04Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2749,
+    "updated_at": "2026-09-03T08:15:15Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1195,
+    "updated_at": "2026-09-03T08:09:23Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-09-03T08:06:15Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34133,
+    "updated_at": "2026-09-03T08:14:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-03T08:04:25Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T08:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -32,7 +140,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 127,
-    "updated_at": "2026-09-03T07:57:10Z",
+    "updated_at": "2026-09-03T08:08:58Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -54,31 +162,13 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34131,
-    "updated_at": "2026-09-03T07:55:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1326,
-    "updated_at": "2026-09-03T07:54:41Z",
+    "updated_at": "2026-09-03T08:09:17Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57903,
-    "updated_at": "2026-09-03T07:53:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
@@ -94,7 +184,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11923,
+    "stars": 11924,
     "updated_at": "2026-09-03T07:46:56Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -106,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:46:30Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7771,
-    "updated_at": "2026-09-03T07:53:58Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T07:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 17,
-    "updated_at": "2026-09-03T07:39:22Z",
+    "updated_at": "2026-09-03T08:04:49Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -167,26 +239,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24772,
-    "updated_at": "2026-09-03T07:58:35Z",
+    "updated_at": "2026-09-03T08:09:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:59:58Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2749,
-    "updated_at": "2026-09-03T07:30:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
@@ -211,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 4995,
+    "stars": 4996,
     "updated_at": "2026-09-03T07:16:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21758,
-    "updated_at": "2026-09-03T07:40:52Z",
+    "updated_at": "2026-09-03T08:13:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -292,7 +346,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27787,
+    "stars": 27788,
     "updated_at": "2026-09-03T06:28:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8505,
-    "updated_at": "2026-09-03T07:40:16Z",
+    "updated_at": "2026-09-03T08:12:04Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T06:54:45Z",
     "url": "https://github.com/jay-tank/casemine"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-03T05:51:54Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-03T05:32:19Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
-    "id": "ashish7802/memora-ai",
-    "language": "TypeScript",
-    "name": "ashish7802/memora-ai",
-    "stars": 1,
-    "updated_at": "2026-09-03T05:30:54Z",
-    "url": "https://github.com/ashish7802/memora-ai"
-  },
-  {
-    "description": "HarnessForge - \u63d2\u4ef6\u4f18\u5148\u3001\u6a21\u578b\u65e0\u5173\u7684\u667a\u80fd\u4f53\u7f16\u6392\u4e0e\u6cbb\u7406\u6846\u67b6 (Plugin-first, model-agnostic agent harness)",
-    "id": "huzjie/harnessforge",
-    "language": "Python",
-    "name": "huzjie/harnessforge",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:17:58Z",
-    "url": "https://github.com/huzjie/harnessforge"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:19:28Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-03T07:51:08Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
