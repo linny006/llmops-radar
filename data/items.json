@@ -1,11 +1,29 @@
 [
   {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:45:23Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:45:13Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 46,
-    "updated_at": "2026-09-03T22:30:16Z",
+    "updated_at": "2026-09-03T22:44:13Z",
     "url": "https://github.com/theagentplane/tokenops"
   },
   {
@@ -13,9 +31,99 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57968,
-    "updated_at": "2026-09-03T22:29:40Z",
+    "stars": 57969,
+    "updated_at": "2026-09-03T22:44:11Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T22:39:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:39:25Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:39:03Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-03T22:36:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-03T22:35:26Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7788,
+    "updated_at": "2026-09-03T22:34:30Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:33:28Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 6,
+    "updated_at": "2026-09-03T22:33:33Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-09-03T22:32:19Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T22:25:23Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-03T22:24:46Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -50,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1195,
-    "updated_at": "2026-09-03T22:24:01Z",
+    "updated_at": "2026-09-03T22:38:06Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -79,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T22:08:20Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-03T22:07:18Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -117,15 +198,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-03T22:02:36Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -149,17 +221,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11312,
-    "updated_at": "2026-09-03T22:25:57Z",
+    "updated_at": "2026-09-03T22:37:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T21:52:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "End2End-Document-Portal \u2192 FastAPI RAG service over PDFs \u2014 LangChain LCEL, FAISS, config-driven model swapping, deployed ",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-03T22:13:48Z",
+    "updated_at": "2026-09-03T22:42:49Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-03T22:24:19Z",
+    "updated_at": "2026-09-03T22:44:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/Jermaine-Anugwom/evalforge-ai"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7787,
-    "updated_at": "2026-09-03T22:23:03Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -349,15 +403,6 @@
     "stars": 70,
     "updated_at": "2026-09-03T19:58:35Z",
     "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:20:55Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T19:07:43Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-09-03T19:11:42Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 144,
-    "updated_at": "2026-09-03T18:58:50Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:41:31Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-09-03T18:41:20Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3533,
-    "updated_at": "2026-09-03T19:09:24Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
