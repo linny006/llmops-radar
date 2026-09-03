@@ -1,21 +1,66 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11311,
+    "updated_at": "2026-09-03T19:14:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-03T19:13:41Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57954,
-    "updated_at": "2026-09-03T19:00:01Z",
+    "updated_at": "2026-09-03T19:15:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7782,
-    "updated_at": "2026-09-03T18:56:35Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T19:11:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
+    "id": "bytebeast/check-endpoint",
+    "language": "Python",
+    "name": "bytebeast/check-endpoint",
+    "stars": 8,
+    "updated_at": "2026-09-03T19:10:27Z",
+    "url": "https://github.com/bytebeast/check-endpoint"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-03T19:07:43Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-09-03T19:11:42Z",
+    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
@@ -23,26 +68,8 @@
     "language": "Python",
     "name": "jamjet-labs/jamjet-guardrails",
     "stars": 1,
-    "updated_at": "2026-09-03T18:59:17Z",
+    "updated_at": "2026-09-03T19:14:13Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11310,
-    "updated_at": "2026-09-03T18:57:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 7,
-    "updated_at": "2026-09-03T18:51:46Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +77,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-03T18:45:32Z",
+    "updated_at": "2026-09-03T19:00:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7782,
+    "updated_at": "2026-09-03T19:14:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 7,
+    "updated_at": "2026-09-03T19:13:45Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -70,15 +115,6 @@
     "stars": 34161,
     "updated_at": "2026-09-03T18:41:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T18:41:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3533,
-    "updated_at": "2026-09-03T18:56:25Z",
+    "updated_at": "2026-09-03T19:09:24Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-03T18:50:21Z",
+    "updated_at": "2026-09-03T19:14:41Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-09-03T18:35:19Z",
     "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-09-03T18:59:12Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -409,7 +436,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5098,
+    "stars": 5100,
     "updated_at": "2026-09-03T17:39:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:39:08Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:36:51Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:36:41Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-03T17:30:26Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
