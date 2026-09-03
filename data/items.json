@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34155,
+    "updated_at": "2026-09-03T13:59:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T13:57:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2750,
+    "updated_at": "2026-09-03T13:56:43Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30030,
+    "updated_at": "2026-09-03T13:50:02Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-03T13:58:02Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
     "id": "ArtVsMark/Engineering-Incidents-Playbook",
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-03T13:45:18Z",
+    "updated_at": "2026-09-03T13:46:38Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run-aware token governance for multi-agent systems.",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 426,
-    "updated_at": "2026-09-03T13:44:18Z",
+    "updated_at": "2026-09-03T13:55:47Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -45,33 +99,6 @@
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-03T13:39:41Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T13:34:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -79,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:26:25Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34154,
-    "updated_at": "2026-09-03T13:44:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2750,
-    "updated_at": "2026-09-03T13:30:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57933,
-    "updated_at": "2026-09-03T13:43:49Z",
+    "updated_at": "2026-09-03T13:50:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-03T13:24:11Z",
+    "updated_at": "2026-09-03T13:51:40Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21763,
-    "updated_at": "2026-09-03T13:30:04Z",
+    "updated_at": "2026-09-03T13:59:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7775,
-    "updated_at": "2026-09-03T13:31:40Z",
+    "updated_at": "2026-09-03T13:50:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 81,
-    "updated_at": "2026-09-03T12:19:14Z",
+    "updated_at": "2026-09-03T13:54:27Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 27795,
     "updated_at": "2026-09-03T12:17:05Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30030,
-    "updated_at": "2026-09-03T12:11:22Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
