@@ -1,12 +1,75 @@
 [
   {
+    "description": "LLM system design interview guide: RAG, KV cache, agents, serving, evals, guardrails. Architectures open live as validat",
+    "id": "neurarch-ai/awesome-llm-system-design",
+    "language": "Python",
+    "name": "neurarch-ai/awesome-llm-system-design",
+    "stars": 10,
+    "updated_at": "2026-09-03T06:59:40Z",
+    "url": "https://github.com/neurarch-ai/awesome-llm-system-design"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T06:43:35Z",
+    "updated_at": "2026-09-03T06:59:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7771,
+    "updated_at": "2026-09-03T06:57:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57896,
+    "updated_at": "2026-09-03T06:56:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-03T06:52:03Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
+    "id": "bosun-ai/swiftide",
+    "language": "Rust",
+    "name": "bosun-ai/swiftide",
+    "stars": 778,
+    "updated_at": "2026-09-03T06:50:15Z",
+    "url": "https://github.com/bosun-ai/swiftide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11923,
+    "updated_at": "2026-09-03T06:53:24Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -16,15 +79,6 @@
     "stars": 127,
     "updated_at": "2026-09-03T06:43:28Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-03T06:36:31Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -45,21 +99,12 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24771,
-    "updated_at": "2026-09-03T06:37:24Z",
+    "updated_at": "2026-09-03T06:57:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 2738,
     "updated_at": "2026-09-03T06:30:22Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57895,
-    "updated_at": "2026-09-03T06:22:57Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8505,
-    "updated_at": "2026-09-03T06:41:13Z",
+    "updated_at": "2026-09-03T06:59:24Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1910,
-    "updated_at": "2026-09-03T06:36:22Z",
+    "updated_at": "2026-09-03T06:59:34Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "jay-tank/casemine",
     "stars": 0,
-    "updated_at": "2026-09-03T05:52:32Z",
+    "updated_at": "2026-09-03T06:54:45Z",
     "url": "https://github.com/jay-tank/casemine"
   },
   {
@@ -212,17 +248,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11299,
-    "updated_at": "2026-09-03T05:56:01Z",
+    "updated_at": "2026-09-03T06:53:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7769,
-    "updated_at": "2026-09-03T06:33:58Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:54:13Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:52:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:52:07Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 3,
-    "updated_at": "2026-09-03T03:51:17Z",
-    "url": "https://github.com/aktasbatuhan/compound"
   }
 ]
