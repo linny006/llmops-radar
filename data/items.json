@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T19:28:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T19:26:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "JavaScript",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T19:25:27Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 7,
+    "updated_at": "2026-09-03T19:23:25Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
@@ -32,26 +59,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11311,
-    "updated_at": "2026-09-03T19:26:03Z",
+    "updated_at": "2026-09-03T19:29:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T19:22:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T19:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57954,
-    "updated_at": "2026-09-03T19:23:57Z",
+    "updated_at": "2026-09-03T19:29:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +117,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 7,
-    "updated_at": "2026-09-03T19:23:25Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34161,
-    "updated_at": "2026-09-03T19:23:29Z",
+    "updated_at": "2026-09-03T19:29:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -445,7 +445,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5102,
+    "stars": 5103,
     "updated_at": "2026-09-03T17:39:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   }
