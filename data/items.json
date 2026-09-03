@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Run-aware token governance for multi-agent systems.",
+    "id": "theagentplane/tokenops",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11311,
-    "updated_at": "2026-09-03T21:00:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "theagentplane/tokenops",
+    "stars": 46,
+    "updated_at": "2026-09-03T21:15:14Z",
+    "url": "https://github.com/theagentplane/tokenops"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T20:58:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-03T21:11:50Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-03T21:11:17Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57965,
-    "updated_at": "2026-09-03T20:58:04Z",
+    "updated_at": "2026-09-03T21:14:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-03T21:07:54Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34163,
+    "updated_at": "2026-09-03T21:11:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent-agnostic evidence-bound memory and handoff side-car for multi-agent systems. Claims carry checksummed excerpts \u2014 v",
+    "id": "rivastava/EvidenceSpine",
+    "language": "Python",
+    "name": "rivastava/EvidenceSpine",
+    "stars": 2,
+    "updated_at": "2026-09-03T21:01:56Z",
+    "url": "https://github.com/rivastava/EvidenceSpine"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-03T21:01:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-09-03T21:01:21Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T21:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11311,
+    "updated_at": "2026-09-03T21:10:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -32,7 +104,7 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 2,
-    "updated_at": "2026-09-03T20:56:28Z",
+    "updated_at": "2026-09-03T21:08:45Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21769,
-    "updated_at": "2026-09-03T20:58:11Z",
+    "updated_at": "2026-09-03T21:10:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-03T20:59:31Z",
+    "updated_at": "2026-09-03T21:14:42Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T20:50:48Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Agent-agnostic evidence-bound memory and handoff side-car for multi-agent systems. Claims carry checksummed excerpts \u2014 v",
-    "id": "rivastava/EvidenceSpine",
-    "language": "Python",
-    "name": "rivastava/EvidenceSpine",
-    "stars": 2,
-    "updated_at": "2026-09-03T20:49:03Z",
-    "url": "https://github.com/rivastava/EvidenceSpine"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,17 +149,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-03T20:49:40Z",
+    "updated_at": "2026-09-03T21:14:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T20:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
@@ -117,13 +171,13 @@
     "url": "https://github.com/Jermaine-Anugwom/evalforge-ai"
   },
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-09-03T20:57:50Z",
-    "url": "https://github.com/GetSHIM/shim"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7786,
+    "updated_at": "2026-09-03T20:39:43Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-03T20:38:10Z",
+    "updated_at": "2026-09-03T21:14:15Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -144,49 +198,13 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-03T20:31:35Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
     "id": "jamjet-labs/jamjet-guardrails",
     "language": "Python",
     "name": "jamjet-labs/jamjet-guardrails",
     "stars": 1,
-    "updated_at": "2026-09-03T20:28:59Z",
+    "updated_at": "2026-09-03T21:15:23Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-03T20:27:53Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34162,
-    "updated_at": "2026-09-03T20:27:48Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7785,
-    "updated_at": "2026-09-03T20:39:43Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:55:51Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
-    "id": "jochi2018/Soup",
-    "language": "Python",
-    "name": "jochi2018/Soup",
-    "stars": 123,
-    "updated_at": "2026-09-03T17:55:02Z",
-    "url": "https://github.com/jochi2018/Soup"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-09-03T17:54:53Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   }
 ]
