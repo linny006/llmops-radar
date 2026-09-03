@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 426,
+    "updated_at": "2026-09-03T12:28:26Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 13,
+    "updated_at": "2026-09-03T12:27:12Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 41,
+    "updated_at": "2026-09-03T12:27:01Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-03T12:26:37Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34149,
+    "updated_at": "2026-09-03T12:29:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 81,
+    "updated_at": "2026-09-03T12:19:14Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-03T12:17:39Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27794,
+    "updated_at": "2026-09-03T12:17:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-03T12:16:07Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T12:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57930,
-    "updated_at": "2026-09-03T12:10:28Z",
+    "updated_at": "2026-09-03T12:21:47Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-03T12:10:28Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -32,17 +113,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7774,
-    "updated_at": "2026-09-03T12:10:07Z",
+    "updated_at": "2026-09-03T12:28:59Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34148,
-    "updated_at": "2026-09-03T12:04:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -50,17 +122,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-03T12:03:55Z",
+    "updated_at": "2026-09-03T12:28:40Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 81,
-    "updated_at": "2026-09-03T12:09:51Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -68,17 +131,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24781,
-    "updated_at": "2026-09-03T12:02:47Z",
+    "updated_at": "2026-09-03T12:21:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T12:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -113,26 +167,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-03T12:05:35Z",
+    "updated_at": "2026-09-03T12:23:49Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Run-aware token governance for multi-agent systems. Cap spend and steer behavior across a whole agent workflow, not per ",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 40,
-    "updated_at": "2026-09-03T12:02:04Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T11:54:24Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -142,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T11:46:48Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27794,
-    "updated_at": "2026-09-03T11:44:34Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -338,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1327,
-    "updated_at": "2026-09-03T12:15:11Z",
+    "updated_at": "2026-09-03T12:23:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T10:41:30Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-09-03T10:40:20Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
-    "id": "Clawdlinux/agentic-operator-core",
-    "language": "Go",
-    "name": "Clawdlinux/agentic-operator-core",
-    "stars": 24,
-    "updated_at": "2026-09-03T10:42:10Z",
-    "url": "https://github.com/Clawdlinux/agentic-operator-core"
-  },
-  {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:37:00Z",
-    "url": "https://github.com/aimd54/palan"
   }
 ]
