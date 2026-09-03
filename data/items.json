@@ -1,20 +1,11 @@
 [
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 6,
-    "updated_at": "2026-09-03T15:48:03Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57941,
-    "updated_at": "2026-09-03T15:48:29Z",
+    "stars": 57942,
+    "updated_at": "2026-09-03T16:00:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -22,9 +13,45 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1918,
-    "updated_at": "2026-09-03T15:47:35Z",
+    "stars": 1917,
+    "updated_at": "2026-09-03T15:58:25Z",
     "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7781,
+    "updated_at": "2026-09-03T15:59:57Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 6,
+    "updated_at": "2026-09-03T15:57:24Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 / Simplified Chinese translation overlay with a safe installer and rollback.",
+    "id": "leonathan369-droid/litellm-ui-zh",
+    "language": "JavaScript",
+    "name": "leonathan369-droid/litellm-ui-zh",
+    "stars": 1,
+    "updated_at": "2026-09-03T15:57:01Z",
+    "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1326,
+    "updated_at": "2026-09-03T15:54:43Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Agentic Runtime",
@@ -32,8 +59,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-03T15:45:24Z",
+    "updated_at": "2026-09-03T15:59:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Shell",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:51:07Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:50:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 4,
+    "updated_at": "2026-09-03T15:50:27Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21765,
+    "updated_at": "2026-09-03T15:49:55Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hosted control plane for multi-provider LLM access. OpenAI- and Anthropic-compatible proxy, encrypted master keys, ",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11308,
-    "updated_at": "2026-09-03T15:48:38Z",
+    "updated_at": "2026-09-03T15:58:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -67,18 +130,18 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3534,
+    "stars": 3533,
     "updated_at": "2026-09-03T15:34:55Z",
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T15:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8508,
+    "updated_at": "2026-09-03T15:33:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -113,17 +176,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34156,
-    "updated_at": "2026-09-03T15:44:05Z",
+    "updated_at": "2026-09-03T15:56:56Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7781,
-    "updated_at": "2026-09-03T15:21:25Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "An automated evaluation pipeline that gates LLM quality on every commit via GitHub Actions, blocking changes that raise ",
@@ -157,7 +211,7 @@
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
-    "stars": 2363,
+    "stars": 2362,
     "updated_at": "2026-09-03T15:14:48Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
@@ -189,6 +243,15 @@
     "url": "https://github.com/ashish7802/memora-ai"
   },
   {
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2738,
+    "updated_at": "2026-09-03T15:07:48Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T15:04:27Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21765,
-    "updated_at": "2026-09-03T15:49:55Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -292,7 +346,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5066,
+    "stars": 5067,
     "updated_at": "2026-09-03T14:13:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -365,7 +419,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 129,
-    "updated_at": "2026-09-03T15:48:58Z",
+    "updated_at": "2026-09-03T15:58:44Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -387,66 +441,12 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Shell",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:10:49Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 4,
-    "updated_at": "2026-09-03T15:50:27Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
     "id": "apache/burr",
     "language": "Python",
     "name": "apache/burr",
-    "stars": 2540,
+    "stars": 2539,
     "updated_at": "2026-09-03T13:03:54Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5576,
-    "updated_at": "2026-09-03T15:32:31Z",
-    "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:59:53Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "Autonomous AI systems, multi-agent orchestration, LLMOps, AgentOps and 24/7 automation.",
-    "id": "GeniusBotsLab/im",
-    "language": "\u2014",
-    "name": "GeniusBotsLab/im",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:58:42Z",
-    "url": "https://github.com/GeniusBotsLab/im"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:57:32Z",
-    "url": "https://github.com/mystxcal/flourite"
   }
 ]
