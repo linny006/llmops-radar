@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 46,
-    "updated_at": "2026-09-03T22:14:30Z",
+    "updated_at": "2026-09-03T22:30:16Z",
     "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 57968,
+    "updated_at": "2026-09-03T22:29:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:25:23Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:24:46Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "simplepractice/langfuse-rb",
+    "language": "Ruby",
+    "name": "simplepractice/langfuse-rb",
+    "stars": 13,
+    "updated_at": "2026-09-03T22:23:05Z",
+    "url": "https://github.com/simplepractice/langfuse-rb"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1195,
+    "updated_at": "2026-09-03T22:24:01Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T22:12:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 57967,
-    "updated_at": "2026-09-03T22:13:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -63,15 +108,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "\ud83e\udea2 Langfuse Ruby SDK - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "simplepractice/langfuse-rb",
-    "language": "Ruby",
-    "name": "simplepractice/langfuse-rb",
-    "stars": 13,
-    "updated_at": "2026-09-03T22:04:41Z",
-    "url": "https://github.com/simplepractice/langfuse-rb"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -90,24 +126,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:58:00Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -117,12 +135,21 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34164,
+    "updated_at": "2026-09-03T21:55:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11312,
-    "updated_at": "2026-09-03T22:13:18Z",
+    "updated_at": "2026-09-03T22:25:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 36,
     "updated_at": "2026-09-03T21:52:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34163,
-    "updated_at": "2026-09-03T21:55:37Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "End2End-Document-Portal \u2192 FastAPI RAG service over PDFs \u2014 LangChain LCEL, FAISS, config-driven model swapping, deployed ",
@@ -180,15 +198,6 @@
     "url": "https://github.com/NabiBukhsh-AI/prag-platform"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1195,
-    "updated_at": "2026-09-03T21:33:53Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
     "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-03T22:13:51Z",
+    "updated_at": "2026-09-03T22:24:19Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7787,
-    "updated_at": "2026-09-03T20:39:43Z",
+    "updated_at": "2026-09-03T22:23:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-03T19:54:12Z",
+    "updated_at": "2026-09-03T22:20:55Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 144,
     "updated_at": "2026-09-03T18:58:50Z",
     "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:45:23Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
