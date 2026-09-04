@@ -1,10 +1,73 @@
 [
   {
+    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:28:17Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-04T06:27:38Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
+    "id": "NakliTechie/ferrule",
+    "language": "Go",
+    "name": "NakliTechie/ferrule",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:25:02Z",
+    "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5171,
+    "updated_at": "2026-09-04T06:23:11Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:18:50Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 v0.1.1 / Simplified Chinese overlay, verified with LiteLLM v1.99.0 on macOS.",
+    "id": "leonathan369-droid/litellm-ui-zh",
+    "language": "JavaScript",
+    "name": "leonathan369-droid/litellm-ui-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:14:43Z",
+    "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2755,
+    "stars": 2756,
     "updated_at": "2026-09-04T06:13:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24802,
-    "updated_at": "2026-09-04T06:06:33Z",
+    "updated_at": "2026-09-04T06:21:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-09-04T06:03:37Z",
+    "updated_at": "2026-09-04T06:28:44Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 36,
     "updated_at": "2026-09-04T06:02:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -90,31 +144,13 @@
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-04T05:48:14Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57990,
-    "updated_at": "2026-09-04T05:47:46Z",
+    "stars": 57989,
+    "updated_at": "2026-09-04T06:28:17Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:45:52Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11317,
-    "updated_at": "2026-09-04T05:30:12Z",
+    "updated_at": "2026-09-04T06:18:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 7791,
     "updated_at": "2026-09-04T05:45:58Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
-    "id": "NakliTechie/ferrule",
-    "language": "Go",
-    "name": "NakliTechie/ferrule",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:16:09Z",
-    "url": "https://github.com/NakliTechie/ferrule"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -270,24 +297,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5168,
-    "updated_at": "2026-09-04T04:29:10Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:23:23Z",
-    "url": "https://github.com/Grace/switchboard"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11927,
-    "updated_at": "2026-09-04T05:38:33Z",
+    "updated_at": "2026-09-04T06:18:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -328,7 +337,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8515,
+    "stars": 8516,
     "updated_at": "2026-09-04T03:38:56Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1920,
-    "updated_at": "2026-09-04T06:09:11Z",
+    "updated_at": "2026-09-04T06:17:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T02:43:31Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3533,
-    "updated_at": "2026-09-04T02:43:14Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
