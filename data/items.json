@@ -1,21 +1,21 @@
 [
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-04T19:43:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:57:47Z",
+    "url": "https://github.com/api-evangelist/raindrop"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58046,
-    "updated_at": "2026-09-04T19:45:26Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:57:26Z",
+    "url": "https://github.com/api-evangelist/qwak"
   },
   {
     "description": "Agentic Runtime",
@@ -23,8 +23,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-04T19:42:57Z",
+    "updated_at": "2026-09-04T19:55:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:56:27Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58047,
+    "updated_at": "2026-09-04T19:56:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:52:11Z",
+    "url": "https://github.com/api-evangelist/phoenix"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -32,8 +59,53 @@
     "language": "TypeScript",
     "name": "nRouterAI/nrouter-sdk",
     "stars": 0,
-    "updated_at": "2026-09-04T19:38:09Z",
+    "updated_at": "2026-09-04T19:49:44Z",
     "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-04T19:48:55Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:48:15Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
+    "id": "redevops-io/RAAAL",
+    "language": "Python",
+    "name": "redevops-io/RAAAL",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:45:52Z",
+    "url": "https://github.com/redevops-io/RAAAL"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-04T19:43:58Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -63,15 +135,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T19:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30049,
-    "updated_at": "2026-09-04T19:36:08Z",
+    "updated_at": "2026-09-04T19:48:41Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11328,
-    "updated_at": "2026-09-04T19:44:58Z",
+    "updated_at": "2026-09-04T19:53:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7805,
-    "updated_at": "2026-09-04T19:44:04Z",
+    "updated_at": "2026-09-04T20:00:14Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1196,
-    "updated_at": "2026-09-04T19:22:58Z",
+    "updated_at": "2026-09-04T19:59:22Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:05:20Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "Python",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:04:33Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24819,
-    "updated_at": "2026-09-04T18:24:52Z",
+    "updated_at": "2026-09-04T19:55:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -319,7 +373,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5259,
+    "stars": 5260,
     "updated_at": "2026-09-04T17:52:55Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8522,
-    "updated_at": "2026-09-04T19:39:05Z",
+    "updated_at": "2026-09-04T19:49:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2759,
     "updated_at": "2026-09-04T17:54:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-04T16:49:36Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 506,
-    "updated_at": "2026-09-04T16:49:21Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-09-04T16:46:59Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1928,
-    "updated_at": "2026-09-04T18:51:51Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 429,
-    "updated_at": "2026-09-04T16:40:44Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:33:58Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   }
 ]
