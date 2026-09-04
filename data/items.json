@@ -1,5 +1,95 @@
 [
   {
+    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:15:11Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1196,
+    "updated_at": "2026-09-04T20:14:13Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7805,
+    "updated_at": "2026-09-04T20:13:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:12:54Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T20:11:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27814,
+    "updated_at": "2026-09-04T20:08:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5262,
+    "updated_at": "2026-09-04T20:06:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58048,
+    "updated_at": "2026-09-04T20:14:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:04:31Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
     "id": "api-evangelist/raindrop",
     "language": "\u2014",
@@ -18,31 +108,13 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T19:55:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-04T19:56:27Z",
+    "updated_at": "2026-09-04T20:06:37Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58047,
-    "updated_at": "2026-09-04T19:56:32Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
@@ -54,13 +126,13 @@
     "url": "https://github.com/api-evangelist/phoenix"
   },
   {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:49:44Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8523,
+    "updated_at": "2026-09-04T19:49:53Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:45:52Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T19:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30049,
-    "updated_at": "2026-09-04T19:48:41Z",
+    "updated_at": "2026-09-04T20:04:26Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -160,24 +223,6 @@
     "stars": 11328,
     "updated_at": "2026-09-04T19:53:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7805,
-    "updated_at": "2026-09-04T20:00:14Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1196,
-    "updated_at": "2026-09-04T19:59:22Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-04T19:42:50Z",
+    "updated_at": "2026-09-04T20:11:21Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:57:35Z",
     "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27813,
-    "updated_at": "2026-09-04T18:51:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
@@ -369,15 +405,6 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5260,
-    "updated_at": "2026-09-04T17:52:55Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -385,15 +412,6 @@
     "stars": 83,
     "updated_at": "2026-09-04T17:49:56Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8522,
-    "updated_at": "2026-09-04T19:49:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-04T18:52:04Z",
+    "updated_at": "2026-09-04T20:14:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:12:36Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2759,
-    "updated_at": "2026-09-04T17:54:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
