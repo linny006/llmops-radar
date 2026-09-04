@@ -4,9 +4,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58032,
-    "updated_at": "2026-09-04T16:21:55Z",
+    "stars": 58033,
+    "updated_at": "2026-09-04T16:29:12Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-04T16:26:09Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T16:22:13Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -16,6 +34,15 @@
     "stars": 5,
     "updated_at": "2026-09-04T16:21:07Z",
     "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27811,
+    "updated_at": "2026-09-04T16:26:47Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
@@ -54,15 +81,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21794,
-    "updated_at": "2026-09-04T16:13:09Z",
+    "updated_at": "2026-09-04T16:27:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34199,
-    "updated_at": "2026-09-04T16:21:05Z",
+    "updated_at": "2026-09-04T16:29:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27811,
-    "updated_at": "2026-09-04T16:19:21Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 428,
-    "updated_at": "2026-09-04T16:00:36Z",
+    "updated_at": "2026-09-04T16:28:50Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T15:10:57Z",
     "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 83,
-    "updated_at": "2026-09-04T15:10:48Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
