@@ -1,5 +1,86 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T19:28:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58045,
+    "updated_at": "2026-09-04T19:28:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:27:48Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11328,
+    "updated_at": "2026-09-04T19:25:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34203,
+    "updated_at": "2026-09-04T19:29:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7805,
+    "updated_at": "2026-09-04T19:22:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1196,
+    "updated_at": "2026-09-04T19:22:58Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:17:15Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -7,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:14:43Z",
     "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T19:13:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -63,30 +135,12 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34203,
-    "updated_at": "2026-09-04T19:03:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T19:02:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-04T19:01:51Z",
+    "updated_at": "2026-09-04T19:23:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -95,17 +149,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30048,
-    "updated_at": "2026-09-04T19:12:21Z",
+    "updated_at": "2026-09-04T19:24:53Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58043,
-    "updated_at": "2026-09-04T19:13:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -117,15 +162,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7805,
-    "updated_at": "2026-09-04T18:58:00Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
     "id": "api-evangelist/comet",
     "language": "\u2014",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:57:35Z",
     "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11328,
-    "updated_at": "2026-09-04T18:52:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -160,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:49:44Z",
     "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21796,
+    "updated_at": "2026-09-04T18:41:52Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
@@ -211,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24820,
+    "stars": 24819,
     "updated_at": "2026-09-04T18:24:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8522,
-    "updated_at": "2026-09-04T19:13:38Z",
+    "updated_at": "2026-09-04T19:27:03Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -306,24 +342,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:32:18Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1196,
-    "updated_at": "2026-09-04T17:29:04Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
     "id": "evelandhq/eveland",
     "language": "TypeScript",
@@ -331,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T17:24:09Z",
     "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21795,
-    "updated_at": "2026-09-04T18:41:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -403,15 +412,6 @@
     "stars": 4,
     "updated_at": "2026-09-04T16:46:59Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-04T16:43:34Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
