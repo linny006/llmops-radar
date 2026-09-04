@@ -1,5 +1,68 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2759,
+    "updated_at": "2026-09-04T11:09:46Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-09-04T11:09:36Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-09-04T11:08:32Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 6,
+    "updated_at": "2026-09-04T11:08:00Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
+    "id": "NabiBukhsh-AI/prag-platform",
+    "language": "Python",
+    "name": "NabiBukhsh-AI/prag-platform",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:05:26Z",
+    "url": "https://github.com/NabiBukhsh-AI/prag-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34189,
+    "updated_at": "2026-09-04T11:13:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T11:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21785,
-    "updated_at": "2026-09-04T10:57:53Z",
+    "updated_at": "2026-09-04T11:12:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -34,33 +97,6 @@
     "stars": 428,
     "updated_at": "2026-09-04T10:55:17Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
-    "id": "NabiBukhsh-AI/prag-platform",
-    "language": "Python",
-    "name": "NabiBukhsh-AI/prag-platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:52:45Z",
-    "url": "https://github.com/NabiBukhsh-AI/prag-platform"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34189,
-    "updated_at": "2026-09-04T10:53:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T10:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-09-04T10:36:11Z",
+    "updated_at": "2026-09-04T11:12:23Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -108,6 +144,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3223,
+    "updated_at": "2026-09-04T10:27:52Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -121,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58014,
+    "stars": 58015,
     "updated_at": "2026-09-04T10:17:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8520,
-    "updated_at": "2026-09-04T10:53:42Z",
+    "updated_at": "2026-09-04T11:05:50Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7794,
-    "updated_at": "2026-09-04T10:57:42Z",
+    "updated_at": "2026-09-04T11:09:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 80,
     "updated_at": "2026-09-04T10:02:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2759,
-    "updated_at": "2026-09-04T10:59:43Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 82,
-    "updated_at": "2026-09-04T10:38:59Z",
+    "updated_at": "2026-09-04T11:06:14Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-04T10:59:20Z",
+    "updated_at": "2026-09-04T11:14:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:30:07Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:29:19Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-04T10:20:27Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:25:48Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:24:42Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
