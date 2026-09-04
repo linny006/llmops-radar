@@ -1,12 +1,57 @@
 [
   {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:44:52Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-04T12:45:28Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34192,
+    "updated_at": "2026-09-04T12:44:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
     "id": "ArtVsMark/Engineering-Incidents-Playbook",
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-04T12:30:29Z",
+    "updated_at": "2026-09-04T12:43:43Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:30:14Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21787,
-    "updated_at": "2026-09-04T12:28:09Z",
+    "updated_at": "2026-09-04T12:44:57Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Meridian Claims: a real multi-agent health-insurance claims-adjudication system (CrewAI + MCP + Langfuse) demonstrating ",
+    "id": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
+    "language": "HTML",
+    "name": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:27:14Z",
+    "url": "https://github.com/ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-09-04T12:28:32Z",
+    "updated_at": "2026-09-04T12:44:03Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30040,
-    "updated_at": "2026-09-04T12:28:00Z",
+    "updated_at": "2026-09-04T12:37:58Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -45,24 +99,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34192,
-    "updated_at": "2026-09-04T12:26:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-04T12:29:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -72,22 +108,22 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T12:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 82,
-    "updated_at": "2026-09-04T12:15:01Z",
+    "updated_at": "2026-09-04T12:32:24Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58019,
+    "updated_at": "2026-09-04T12:08:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-04T12:10:12Z",
+    "updated_at": "2026-09-04T12:33:59Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-09-04T11:54:17Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58018,
-    "updated_at": "2026-09-04T12:08:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7796,
-    "updated_at": "2026-09-04T12:23:44Z",
+    "updated_at": "2026-09-04T12:40:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8521,
-    "updated_at": "2026-09-04T12:18:58Z",
+    "updated_at": "2026-09-04T12:44:56Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -382,7 +409,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5205,
+    "stars": 5207,
     "updated_at": "2026-09-04T09:38:42Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "evelandhq/eveland",
     "stars": 2,
-    "updated_at": "2026-09-04T09:07:50Z",
+    "updated_at": "2026-09-04T12:43:06Z",
     "url": "https://github.com/evelandhq/eveland"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:57:01Z",
     "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:43:59Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24811,
-    "updated_at": "2026-09-04T08:41:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:41:10Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
