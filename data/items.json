@@ -1,5 +1,77 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7790,
+    "updated_at": "2026-09-04T05:00:18Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-04T04:59:54Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-04T04:57:20Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-04T04:56:52Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
+    "id": "NakliTechie/ferrule",
+    "language": "Go",
+    "name": "NakliTechie/ferrule",
+    "stars": 0,
+    "updated_at": "2026-09-04T04:55:38Z",
+    "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-04T04:52:57Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-04T04:53:26Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T04:45:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -14,26 +86,8 @@
     "language": "Java",
     "name": "satya-anguluri/capstead",
     "stars": 10,
-    "updated_at": "2026-09-04T04:43:26Z",
+    "updated_at": "2026-09-04T04:53:42Z",
     "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:42:30Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
-    "id": "NakliTechie/ferrule",
-    "language": "Go",
-    "name": "NakliTechie/ferrule",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:34:03Z",
-    "url": "https://github.com/NakliTechie/ferrule"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -49,25 +103,16 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57988,
+    "stars": 57990,
     "updated_at": "2026-09-04T04:31:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T04:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5162,
+    "stars": 5164,
     "updated_at": "2026-09-04T04:29:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -108,6 +153,15 @@
     "url": "https://github.com/iblai/os"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11317,
+    "updated_at": "2026-09-04T04:16:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -135,15 +189,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11317,
-    "updated_at": "2026-09-04T04:16:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -151,15 +196,6 @@
     "stars": 2754,
     "updated_at": "2026-09-04T04:34:43Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-04T03:39:52Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -261,15 +297,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7790,
-    "updated_at": "2026-09-04T02:51:12Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 3533,
     "updated_at": "2026-09-04T02:43:14Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:31:15Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T01:34:44Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:32:33Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:32:01Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
