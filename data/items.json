@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T12:57:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 18,
+    "updated_at": "2026-09-04T12:56:35Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7798,
+    "updated_at": "2026-09-04T13:00:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:00:10Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
+    "id": "HadirouTamdamba/enterprise-ai-platform",
+    "language": "Python",
+    "name": "HadirouTamdamba/enterprise-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:51:24Z",
+    "url": "https://github.com/HadirouTamdamba/enterprise-ai-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34193,
+    "updated_at": "2026-09-04T13:00:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:49:37Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-04T12:49:19Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-04T12:46:55Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-04T12:59:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
     "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
@@ -9,22 +108,13 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-04T12:45:28Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34192,
-    "updated_at": "2026-09-04T12:44:50Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-04T12:54:32Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-04T12:43:43Z",
+    "updated_at": "2026-09-04T12:53:48Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T12:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21787,
-    "updated_at": "2026-09-04T12:44:57Z",
+    "updated_at": "2026-09-04T12:59:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -72,21 +153,12 @@
     "url": "https://github.com/ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-04T12:44:03Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30040,
-    "updated_at": "2026-09-04T12:37:58Z",
+    "updated_at": "2026-09-04T12:59:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 428,
-    "updated_at": "2026-09-04T12:17:27Z",
+    "updated_at": "2026-09-04T12:59:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/shaikn6/shaikn6"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-04T11:54:17Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Juror-AI/juror",
     "language": "TypeScript",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1921,
-    "updated_at": "2026-09-04T11:47:03Z",
+    "updated_at": "2026-09-04T12:59:29Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/NakliTechie/ferrule"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7796,
-    "updated_at": "2026-09-04T12:40:13Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
     "id": "NabiBukhsh-AI/prag-platform",
     "language": "Python",
@@ -207,21 +261,12 @@
     "url": "https://github.com/NabiBukhsh-AI/prag-platform"
   },
   {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 1,
-    "updated_at": "2026-09-04T11:25:57Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8521,
-    "updated_at": "2026-09-04T12:44:56Z",
+    "updated_at": "2026-09-04T12:47:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 11926,
     "updated_at": "2026-09-04T12:16:59Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 14,
-    "updated_at": "2026-09-04T11:17:03Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "aimd54/palan",
     "stars": 0,
-    "updated_at": "2026-09-04T10:44:38Z",
+    "updated_at": "2026-09-04T12:49:54Z",
     "url": "https://github.com/aimd54/palan"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5207,
     "updated_at": "2026-09-04T09:38:42Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T09:29:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Agentic Incident Commander \u2014 an autonomous reliability control loop that detects, investigates, and safely remediates pr",
-    "id": "umeshkedimi/aic",
-    "language": "Python",
-    "name": "umeshkedimi/aic",
-    "stars": 1,
-    "updated_at": "2026-09-04T09:09:27Z",
-    "url": "https://github.com/umeshkedimi/aic"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:43:06Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
-    "id": "agentic-inquisit/Open-ML-Foundry",
-    "language": "\u2014",
-    "name": "agentic-inquisit/Open-ML-Foundry",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:57:01Z",
-    "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
   }
 ]
