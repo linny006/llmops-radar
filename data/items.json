@@ -1,12 +1,75 @@
 [
   {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:27:03Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7805,
-    "updated_at": "2026-09-04T21:15:02Z",
+    "updated_at": "2026-09-04T21:24:56Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T21:23:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:23:21Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-04T21:23:14Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:20:49Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58050,
+    "updated_at": "2026-09-04T21:25:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 455,
-    "updated_at": "2026-09-04T21:14:20Z",
+    "updated_at": "2026-09-04T21:15:30Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-04T21:05:06Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "JavaScript",
@@ -43,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T21:04:32Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T21:04:16Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T21:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58050,
-    "updated_at": "2026-09-04T21:14:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -95,24 +122,15 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-04T20:39:50Z",
+    "updated_at": "2026-09-04T21:22:16Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
-    "id": "Life-Experimentalist/CogniGate",
-    "language": "Go",
-    "name": "Life-Experimentalist/CogniGate",
-    "stars": 0,
-    "updated_at": "2026-09-04T20:38:55Z",
-    "url": "https://github.com/Life-Experimentalist/CogniGate"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5270,
+    "stars": 5272,
     "updated_at": "2026-09-04T20:38:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11329,
-    "updated_at": "2026-09-04T20:37:01Z",
+    "updated_at": "2026-09-04T21:23:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 16,
-    "updated_at": "2026-09-04T19:48:55Z",
+    "updated_at": "2026-09-04T21:26:10Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T19:17:15Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:14:43Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -439,14 +448,5 @@
     "stars": 50,
     "updated_at": "2026-09-04T18:32:23Z",
     "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "Production-grade RAG document intelligence platform \u2014 FastAPI + React + LangChain + ChromaDB, with HyDE query expansion,",
-    "id": "ishani1813/DocuMind-AI-Document-Intelligence-Platform",
-    "language": "Python",
-    "name": "ishani1813/DocuMind-AI-Document-Intelligence-Platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:30:33Z",
-    "url": "https://github.com/ishani1813/DocuMind-AI-Document-Intelligence-Platform"
   }
 ]
