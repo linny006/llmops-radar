@@ -1,11 +1,65 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-04T01:00:20Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-09-04T00:57:45Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2750,
+    "updated_at": "2026-09-04T00:54:26Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-04T00:48:59Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27797,
+    "updated_at": "2026-09-04T00:48:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:45:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57972,
-    "updated_at": "2026-09-04T00:45:04Z",
+    "updated_at": "2026-09-04T00:59:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T00:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-04T00:45:06Z",
+    "updated_at": "2026-09-04T00:47:47Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-09-04T00:35:58Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
     "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
@@ -171,24 +207,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-04T00:07:47Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27796,
-    "updated_at": "2026-09-04T00:30:32Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11313,
-    "updated_at": "2026-09-04T00:30:02Z",
+    "updated_at": "2026-09-04T00:50:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-03T23:48:18Z",
+    "updated_at": "2026-09-04T00:46:49Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-03T22:47:24Z",
+    "updated_at": "2026-09-04T00:48:46Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T21:08:45Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 1,
-    "updated_at": "2026-09-03T20:50:48Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "An AI-native Internal Developer Platform built live by an agent on Amazon EKS. Pinned, reproducible, GitOps end to end: ",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Shell",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:42:55Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
   }
 ]
