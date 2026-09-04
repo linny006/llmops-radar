@@ -1,21 +1,102 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58051,
-    "updated_at": "2026-09-04T21:57:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-04T21:53:18Z",
+    "updated_at": "2026-09-04T22:13:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 295,
+    "updated_at": "2026-09-04T22:12:03Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58051,
+    "updated_at": "2026-09-04T22:11:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
+    "id": "aktasbatuhan/compound",
+    "language": "TypeScript",
+    "name": "aktasbatuhan/compound",
+    "stars": 5,
+    "updated_at": "2026-09-04T22:11:41Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-09-04T22:09:23Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-04T22:06:50Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-04T22:06:40Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-04T22:05:14Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:11:38Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-04T22:04:37Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:03:59Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-04T21:51:43Z",
+    "updated_at": "2026-09-04T22:02:48Z",
     "url": "https://github.com/Grace/switchboard"
   },
   {
@@ -32,17 +113,17 @@
     "language": "Go",
     "name": "mesedi-ai/mesedi",
     "stars": 0,
-    "updated_at": "2026-09-04T21:50:55Z",
+    "updated_at": "2026-09-04T22:02:44Z",
     "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:52:42Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T22:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -63,31 +144,13 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T21:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7805,
+    "stars": 7806,
     "updated_at": "2026-09-04T21:40:54Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
-    "language": "TypeScript",
-    "name": "aktasbatuhan/compound",
-    "stars": 5,
-    "updated_at": "2026-09-04T21:38:32Z",
-    "url": "https://github.com/aktasbatuhan/compound"
   },
   {
     "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-04T21:55:33Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -153,15 +207,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-04T21:04:32Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -184,7 +229,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5278,
+    "stars": 5280,
     "updated_at": "2026-09-04T20:38:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24820,
-    "updated_at": "2026-09-04T19:55:57Z",
+    "updated_at": "2026-09-04T22:15:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-04T21:29:18Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
     "id": "api-evangelist/log10",
     "language": "\u2014",
@@ -373,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34206,
+    "stars": 34207,
     "updated_at": "2026-09-04T19:31:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:27:48Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-04T19:17:15Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-04T21:46:24Z",
+    "updated_at": "2026-09-04T22:12:22Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:57:35Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1929,
-    "updated_at": "2026-09-04T21:47:48Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:49:44Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
   }
 ]
