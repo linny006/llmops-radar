@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21785,
+    "updated_at": "2026-09-04T10:42:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 69,
+    "updated_at": "2026-09-04T10:37:09Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34188,
-    "updated_at": "2026-09-04T10:26:45Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-04T10:36:11Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-04T10:33:45Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T10:15:29Z",
+    "updated_at": "2026-09-04T10:30:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:29:58Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34188,
+    "updated_at": "2026-09-04T10:43:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11927,
+    "updated_at": "2026-09-04T10:21:19Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58013,
+    "updated_at": "2026-09-04T10:17:51Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -40,7 +103,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30038,
+    "stars": 30039,
     "updated_at": "2026-09-04T10:08:47Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -52,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-04T10:23:54Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58012,
-    "updated_at": "2026-09-04T10:17:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7794,
-    "updated_at": "2026-09-04T10:23:43Z",
+    "updated_at": "2026-09-04T10:44:00Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -162,38 +216,11 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21783,
-    "updated_at": "2026-09-04T10:29:55Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 69,
-    "updated_at": "2026-09-04T09:48:49Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-04T10:24:22Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5191,
+    "stars": 5195,
     "updated_at": "2026-09-04T09:38:42Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 82,
-    "updated_at": "2026-09-04T10:03:38Z",
+    "updated_at": "2026-09-04T10:38:59Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-04T10:26:21Z",
+    "updated_at": "2026-09-04T10:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/evelandhq/eveland"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11928,
-    "updated_at": "2026-09-04T10:21:19Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
     "id": "agentic-inquisit/Open-ML-Foundry",
     "language": "\u2014",
@@ -270,20 +288,11 @@
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:29:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24805,
+    "stars": 24807,
     "updated_at": "2026-09-04T08:41:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:21:39Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:20:43Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
