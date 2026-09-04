@@ -1,21 +1,30 @@
 [
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-04T00:14:58Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-04T00:30:12Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 57971,
-    "updated_at": "2026-09-04T00:14:50Z",
+    "stars": 57972,
+    "updated_at": "2026-09-04T00:27:41Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-04T00:26:34Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Run-aware token governance for multi-agent systems.",
@@ -23,8 +32,89 @@
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 46,
-    "updated_at": "2026-09-04T00:12:35Z",
+    "updated_at": "2026-09-04T00:26:19Z",
     "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-04T00:23:51Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7788,
+    "updated_at": "2026-09-04T00:25:10Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T00:20:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:17:42Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 547,
+    "updated_at": "2026-09-04T00:24:48Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 4,
+    "updated_at": "2026-09-04T00:22:50Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:29:00Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "A production style agentic AI system that resolves Siemens industrial automation support tickets against a real 500 page",
+    "id": "shweta-dataverse/agentic-technical-support-copilot",
+    "language": "Python",
+    "name": "shweta-dataverse/agentic-technical-support-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:12:15Z",
+    "url": "https://github.com/shweta-dataverse/agentic-technical-support-copilot"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T00:10:31Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T00:13:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -72,15 +153,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-04T00:06:23Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -99,30 +171,12 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T00:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:58:35Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11313,
-    "updated_at": "2026-09-04T00:00:09Z",
+    "updated_at": "2026-09-04T00:30:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21771,
-    "updated_at": "2026-09-03T23:47:09Z",
+    "updated_at": "2026-09-04T00:23:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -151,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:46:33Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-03T23:37:21Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 4,
-    "updated_at": "2026-09-03T23:56:15Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-04T00:01:34Z",
+    "updated_at": "2026-09-04T00:27:10Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-04T00:14:52Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -250,15 +277,6 @@
     "stars": 8,
     "updated_at": "2026-09-03T22:55:20Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7789,
-    "updated_at": "2026-09-04T00:00:32Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -319,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34165,
+    "stars": 34166,
     "updated_at": "2026-09-03T21:55:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T20:42:55Z",
     "url": "https://github.com/peopleforrester/packt-agentic-devops"
-  },
-  {
-    "description": "A model-neutral evaluation and regression workbench for operational AI.",
-    "id": "Jermaine-Anugwom/evalforge-ai",
-    "language": "TypeScript",
-    "name": "Jermaine-Anugwom/evalforge-ai",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:42:12Z",
-    "url": "https://github.com/Jermaine-Anugwom/evalforge-ai"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 7,
-    "updated_at": "2026-09-03T20:37:59Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   }
 ]
