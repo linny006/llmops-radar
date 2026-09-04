@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11328,
+    "updated_at": "2026-09-04T18:42:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30048,
+    "updated_at": "2026-09-04T18:45:11Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T18:37:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 69,
+    "updated_at": "2026-09-04T18:37:02Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58042,
+    "updated_at": "2026-09-04T18:36:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:35:30Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 50,
-    "updated_at": "2026-09-04T18:30:22Z",
+    "updated_at": "2026-09-04T18:32:23Z",
     "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27812,
+    "updated_at": "2026-09-04T18:31:02Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Production-grade RAG document intelligence platform \u2014 FastAPI + React + LangChain + ChromaDB, with HyDE query expansion,",
+    "id": "ishani1813/DocuMind-AI-Document-Intelligence-Platform",
+    "language": "Python",
+    "name": "ishani1813/DocuMind-AI-Document-Intelligence-Platform",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:30:33Z",
+    "url": "https://github.com/ishani1813/DocuMind-AI-Document-Intelligence-Platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T18:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -18,24 +99,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11328,
-    "updated_at": "2026-09-04T18:26:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T18:23:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -45,31 +108,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58041,
-    "updated_at": "2026-09-04T18:27:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-04T18:20:34Z",
+    "updated_at": "2026-09-04T18:37:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27812,
-    "updated_at": "2026-09-04T18:19:56Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T18:17:47Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -104,17 +140,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34203,
-    "updated_at": "2026-09-04T18:09:37Z",
+    "updated_at": "2026-09-04T18:42:18Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30046,
-    "updated_at": "2026-09-04T18:29:08Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
@@ -148,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5254,
+    "stars": 5255,
     "updated_at": "2026-09-04T17:52:55Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -166,7 +193,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8523,
+    "stars": 8522,
     "updated_at": "2026-09-04T17:49:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7805,
-    "updated_at": "2026-09-04T18:26:20Z",
+    "updated_at": "2026-09-04T18:41:14Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21795,
-    "updated_at": "2026-09-04T17:27:52Z",
+    "updated_at": "2026-09-04T18:41:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-04T17:52:02Z",
+    "updated_at": "2026-09-04T18:45:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 42,
     "updated_at": "2026-09-04T15:52:22Z",
     "url": "https://github.com/langfuse/langfuse-workshop"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:54:06Z",
-    "url": "https://github.com/memoturn/memoturn"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-04T15:49:04Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-04T15:46:38Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
