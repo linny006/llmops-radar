@@ -1,5 +1,41 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-04T03:54:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
+    "id": "NakliTechie/ferrule",
+    "language": "Go",
+    "name": "NakliTechie/ferrule",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:53:23Z",
+    "url": "https://github.com/NakliTechie/ferrule"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5156,
+    "updated_at": "2026-09-04T03:52:23Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T03:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Shell",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-09-04T03:45:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11317,
+    "updated_at": "2026-09-04T03:45:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 57985,
-    "updated_at": "2026-09-04T03:44:26Z",
+    "updated_at": "2026-09-04T03:55:46Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary \u2014 no config file, ",
-    "id": "NakliTechie/ferrule",
-    "language": "Go",
-    "name": "NakliTechie/ferrule",
-    "stars": 0,
-    "updated_at": "2026-09-04T03:41:12Z",
-    "url": "https://github.com/NakliTechie/ferrule"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -59,7 +95,7 @@
     "language": "Java",
     "name": "satya-anguluri/capstead",
     "stars": 10,
-    "updated_at": "2026-09-04T03:37:29Z",
+    "updated_at": "2026-09-04T03:58:24Z",
     "url": "https://github.com/satya-anguluri/capstead"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-04T03:32:36Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T03:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -196,15 +223,6 @@
     "stars": 3533,
     "updated_at": "2026-09-04T02:43:14Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11316,
-    "updated_at": "2026-09-04T03:45:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-04T01:26:28Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-04T01:23:41Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:22:15Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
