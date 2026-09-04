@@ -1,11 +1,128 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34197,
+    "updated_at": "2026-09-04T14:30:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21788,
+    "updated_at": "2026-09-04T14:27:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T14:27:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems.",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 50,
+    "updated_at": "2026-09-04T14:29:20Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7802,
+    "updated_at": "2026-09-04T14:29:41Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:20:14Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "SOSA\u2122 \u2014 Supervised Orchestrated Secured Agents. A governance framework for production-grade autonomous AI operations.",
+    "id": "MSApps-Mobile/sosa",
+    "language": "Shell",
+    "name": "MSApps-Mobile/sosa",
+    "stars": 2,
+    "updated_at": "2026-09-04T14:19:26Z",
+    "url": "https://github.com/MSApps-Mobile/sosa"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-04T14:19:18Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:17:50Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-04T14:17:35Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T14:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 1,
+    "updated_at": "2026-09-04T14:15:21Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-04T14:14:21Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Meridian Claims: a real multi-agent health-insurance claims-adjudication system (CrewAI + MCP + Langfuse) demonstrating ",
     "id": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
     "language": "HTML",
     "name": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
     "stars": 1,
-    "updated_at": "2026-09-04T14:10:32Z",
+    "updated_at": "2026-09-04T14:29:16Z",
     "url": "https://github.com/ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo"
   },
   {
@@ -16,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T14:09:57Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-04T14:07:27Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T14:07:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -54,30 +153,12 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34196,
-    "updated_at": "2026-09-04T14:15:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-04T14:14:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27808,
-    "updated_at": "2026-09-04T14:03:20Z",
+    "updated_at": "2026-09-04T14:24:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -99,24 +180,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T14:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:59:13Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-09-04T13:57:01Z",
+    "updated_at": "2026-09-04T14:15:56Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -144,21 +207,12 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7801,
-    "updated_at": "2026-09-04T14:05:22Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 25,
-    "updated_at": "2026-09-04T13:52:16Z",
+    "stars": 26,
+    "updated_at": "2026-09-04T14:26:39Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 11,
     "updated_at": "2026-09-04T13:47:11Z",
     "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-04T14:05:00Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "EvalForge \u2014 local-first AI evaluation engineering platform: deterministic graders, TF-IDF evidence retrieval, optional O",
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-04T14:13:45Z",
+    "updated_at": "2026-09-04T14:30:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,17 +293,8 @@
     "language": "Go",
     "name": "NakliTechie/ferrule",
     "stars": 0,
-    "updated_at": "2026-09-04T13:50:08Z",
+    "updated_at": "2026-09-04T14:29:38Z",
     "url": "https://github.com/NakliTechie/ferrule"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21787,
-    "updated_at": "2026-09-04T14:13:19Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -342,15 +378,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 1,
-    "updated_at": "2026-09-04T14:15:21Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
     "description": "Enterprise AI Platform \u2014 build, deploy, monitor and govern AI applications at scale (RAG, Agents, MLOps, LLMOps, Governa",
     "id": "HadirouTamdamba/enterprise-ai-platform",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T11:34:40Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
-    "id": "NabiBukhsh-AI/prag-platform",
-    "language": "Python",
-    "name": "NabiBukhsh-AI/prag-platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:29:54Z",
-    "url": "https://github.com/NabiBukhsh-AI/prag-platform"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8521,
-    "updated_at": "2026-09-04T14:15:20Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 17,
-    "updated_at": "2026-09-04T14:07:40Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
