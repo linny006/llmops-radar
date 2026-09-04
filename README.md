@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 12:00 UTC
+> ⏰ Last updated: 2026-09-04 12:12 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34192 | TypeScript | 2026-09-04 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 2 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 391 | Python | 2026-09-04 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 3 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 82 | Python | 2026-09-04 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
-| 4 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-09-04 | Nagizaaz Shaik — ML & AI Systems Engineer |
-| 5 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-04 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 6 | [genieincodebottle/aiml-companion](https://github.com/genieincodebottle/aiml-companion) | 69 | Jupyter Notebook | 2026-09-04 | AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat |
-| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21785 | Python | 2026-09-04 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [Juror-AI/juror](https://github.com/Juror-AI/juror) | 122 | TypeScript | 2026-09-04 | Cheaper and better Greptile alternative runs on your own github actions. |
-| 10 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 1 | Python | 2026-09-04 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 11 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-04 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 12 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1921 | Python | 2026-09-04 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 13 | [NakliTechie/ferrule](https://github.com/NakliTechie/ferrule) | 0 | Go | 2026-09-04 | A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary — no config file,  |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7796 | Go | 2026-09-04 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 15 | [NabiBukhsh-AI/prag-platform](https://github.com/NabiBukhsh-AI/prag-platform) | 0 | Python | 2026-09-04 | Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin |
-| 16 | [hpnkv/a11](https://github.com/hpnkv/a11) | 1 | C++ | 2026-09-04 | A streaming action runtime for AI agents, model serving, and multimodal APIs |
-| 17 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-09-04 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 18 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8521 | Rust | 2026-09-04 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 19 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58017 | Python | 2026-09-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 28 | TypeScript | 2026-09-04 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34192 | TypeScript | 2026-09-04 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21785 | Python | 2026-09-04 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 5 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 391 | Python | 2026-09-04 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
+| 6 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 82 | Python | 2026-09-04 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
+| 7 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-09-04 | Nagizaaz Shaik — ML & AI Systems Engineer |
+| 8 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-04 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 9 | [genieincodebottle/aiml-companion](https://github.com/genieincodebottle/aiml-companion) | 69 | Jupyter Notebook | 2026-09-04 | AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat |
+| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58018 | Python | 2026-09-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 11 | [Juror-AI/juror](https://github.com/Juror-AI/juror) | 122 | TypeScript | 2026-09-04 | Cheaper and better Greptile alternative runs on your own github actions. |
+| 12 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 1 | Python | 2026-09-04 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 13 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-04 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 14 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1921 | Python | 2026-09-04 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 15 | [NakliTechie/ferrule](https://github.com/NakliTechie/ferrule) | 0 | Go | 2026-09-04 | A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary — no config file,  |
+| 16 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7796 | Go | 2026-09-04 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 17 | [NabiBukhsh-AI/prag-platform](https://github.com/NabiBukhsh-AI/prag-platform) | 0 | Python | 2026-09-04 | Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin |
+| 18 | [hpnkv/a11](https://github.com/hpnkv/a11) | 1 | C++ | 2026-09-04 | A streaming action runtime for AI agents, model serving, and multimodal APIs |
+| 19 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8521 | Rust | 2026-09-04 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 20 | [iblai/os](https://github.com/iblai/os) | 17 | TypeScript | 2026-09-04 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
 | 21 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11926 | Python | 2026-09-04 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
 | 22 | [radicalbit/radicalbit-ai-gateway](https://github.com/radicalbit/radicalbit-ai-gateway) | 14 | Python | 2026-09-04 | Radicalbit AI Gateway |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [evelandhq/eveland](https://github.com/evelandhq/eveland) | 2 | TypeScript | 2026-09-04 | Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets. |
 | 47 | [agentic-inquisit/Open-ML-Foundry](https://github.com/agentic-inquisit/Open-ML-Foundry) | 0 | — | 2026-09-04 | Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments. |
 | 48 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-09-04 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
-| 49 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24810 | TypeScript | 2026-09-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 49 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24811 | TypeScript | 2026-09-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 50 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-09-04 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
 <!-- TRACKER_TABLE_END -->
 

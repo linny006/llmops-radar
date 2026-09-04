@@ -1,12 +1,39 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-04T12:11:27Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34192,
-    "updated_at": "2026-09-04T11:59:01Z",
+    "updated_at": "2026-09-04T12:10:23Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21785,
+    "updated_at": "2026-09-04T12:08:56Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 391,
-    "updated_at": "2026-09-04T11:55:46Z",
+    "updated_at": "2026-09-04T12:10:12Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 82,
-    "updated_at": "2026-09-04T11:54:58Z",
+    "updated_at": "2026-09-04T12:07:13Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -54,22 +81,13 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21785,
-    "updated_at": "2026-09-04T12:00:01Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 58018,
+    "updated_at": "2026-09-04T12:08:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -144,31 +162,13 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-04T11:50:19Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8521,
-    "updated_at": "2026-09-04T11:22:53Z",
+    "updated_at": "2026-09-04T12:01:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58017,
-    "updated_at": "2026-09-04T11:48:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11926,
-    "updated_at": "2026-09-04T11:19:42Z",
+    "updated_at": "2026-09-04T12:03:38Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 428,
-    "updated_at": "2026-09-04T10:55:17Z",
+    "updated_at": "2026-09-04T12:04:19Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30039,
-    "updated_at": "2026-09-04T10:08:47Z",
+    "updated_at": "2026-09-04T12:08:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -383,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-04T11:59:02Z",
+    "updated_at": "2026-09-04T12:08:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -436,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24810,
+    "stars": 24811,
     "updated_at": "2026-09-04T08:41:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
