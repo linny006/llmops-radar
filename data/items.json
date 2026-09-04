@@ -1,30 +1,12 @@
 [
   {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-09-04T20:28:41Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
-    "id": "nRouterAI/nrouter-sdk",
-    "language": "TypeScript",
-    "name": "nRouterAI/nrouter-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-04T20:27:46Z",
-    "url": "https://github.com/nRouterAI/nrouter-sdk"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5264,
-    "updated_at": "2026-09-04T20:25:34Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-04T20:44:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -32,8 +14,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58049,
-    "updated_at": "2026-09-04T20:28:58Z",
+    "updated_at": "2026-09-04T20:45:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-04T20:39:50Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
@@ -41,8 +32,53 @@
     "language": "Go",
     "name": "Life-Experimentalist/CogniGate",
     "stars": 0,
-    "updated_at": "2026-09-04T20:24:21Z",
+    "updated_at": "2026-09-04T20:38:55Z",
     "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5266,
+    "updated_at": "2026-09-04T20:38:41Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:36:15Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-04T20:35:22Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:28:41Z",
+    "url": "https://github.com/api-evangelist/zenml"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -72,15 +108,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
     "id": "api-evangelist/tensorzero",
     "language": "\u2014",
@@ -106,15 +133,6 @@
     "stars": 7805,
     "updated_at": "2026-09-04T20:13:28Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T20:11:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11329,
-    "updated_at": "2026-09-04T20:29:15Z",
+    "updated_at": "2026-09-04T20:37:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-04T19:43:58Z",
+    "updated_at": "2026-09-04T20:43:48Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-04T20:11:21Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
     "id": "api-evangelist/comet",
     "language": "\u2014",
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:03:55Z",
     "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-04T18:02:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
