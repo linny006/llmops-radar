@@ -1,12 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7805,
+    "updated_at": "2026-09-04T21:15:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58050,
-    "updated_at": "2026-09-04T20:59:38Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "SynaLinks/synalinks",
+    "stars": 455,
+    "updated_at": "2026-09-04T21:14:20Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-04T21:11:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-04T21:05:06Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:04:32Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +50,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-04T20:56:43Z",
+    "updated_at": "2026-09-04T21:04:16Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T21:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58050,
+    "updated_at": "2026-09-04T21:14:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T20:51:35Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -67,7 +112,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5267,
+    "stars": 5270,
     "updated_at": "2026-09-04T20:38:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -81,13 +126,13 @@
     "url": "https://github.com/nRouterAI/nrouter-sdk"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
+    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
+    "id": "Machbub/hermes-aux-autoheal",
+    "language": "Python",
+    "name": "Machbub/hermes-aux-autoheal",
     "stars": 1,
-    "updated_at": "2026-09-04T20:35:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "updated_at": "2026-09-04T20:31:44Z",
+    "url": "https://github.com/Machbub/hermes-aux-autoheal"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T20:28:41Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-04T20:21:38Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -142,15 +178,6 @@
     "stars": 1196,
     "updated_at": "2026-09-04T20:17:26Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7805,
-    "updated_at": "2026-09-04T20:55:33Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8523,
-    "updated_at": "2026-09-04T19:49:53Z",
+    "updated_at": "2026-09-04T21:08:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-04T20:58:49Z",
+    "updated_at": "2026-09-04T21:03:02Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-04T19:40:23Z",
+    "updated_at": "2026-09-04T21:11:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -358,6 +385,15 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:57:35Z",
     "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1929,
+    "updated_at": "2026-09-04T18:51:51Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
@@ -373,7 +409,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21796,
+    "stars": 21797,
     "updated_at": "2026-09-04T18:41:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:30:33Z",
     "url": "https://github.com/ishani1813/DocuMind-AI-Document-Intelligence-Platform"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-04T18:25:16Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-04T20:59:48Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
-    "id": "agentic-inquisit/Open-ML-Foundry",
-    "language": "Python",
-    "name": "agentic-inquisit/Open-ML-Foundry",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:03:55Z",
-    "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-04T17:54:26Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
   }
 ]
