@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 05:30 UTC
+> ⏰ Last updated: 2026-09-05 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58065 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [acornops/acornops](https://github.com/acornops/acornops) | 16 | JavaScript | 2026-09-05 | Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen |
+| 1 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-05 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 2 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Shell | 2026-09-05 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [Life-Experimentalist/CogniGate](https://github.com/Life-Experimentalist/CogniGate) | 0 | Go | 2026-09-05 | Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen |
-| 6 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-05 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
-| 8 | [satya-anguluri/capstead](https://github.com/satya-anguluri/capstead) | 10 | Java | 2026-09-05 | Governance & observability for your AI capabilities in Spring Boot — capability registry, versioning, per-capability cos |
-| 9 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-09-05 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
-| 10 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Shell | 2026-09-05 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 11 | [mtuann/llm-updated-papers](https://github.com/mtuann/llm-updated-papers) | 15 | — | 2026-09-05 | Papers related to Large Language Models in all top venues |
-| 12 | [saghosh8/AI-For-DevOps](https://github.com/saghosh8/AI-For-DevOps) | 14 | — | 2026-09-05 | A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A |
-| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27817 | Python | 2026-09-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 14 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-05 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 5 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58065 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 7 | [acornops/acornops](https://github.com/acornops/acornops) | 16 | JavaScript | 2026-09-05 | Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen |
+| 8 | [Life-Experimentalist/CogniGate](https://github.com/Life-Experimentalist/CogniGate) | 0 | Go | 2026-09-05 | Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen |
+| 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-05 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 10 | [satya-anguluri/capstead](https://github.com/satya-anguluri/capstead) | 10 | Java | 2026-09-05 | Governance & observability for your AI capabilities in Spring Boot — capability registry, versioning, per-capability cos |
+| 11 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-09-05 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
+| 12 | [mtuann/llm-updated-papers](https://github.com/mtuann/llm-updated-papers) | 15 | — | 2026-09-05 | Papers related to Large Language Models in all top venues |
+| 13 | [saghosh8/AI-For-DevOps](https://github.com/saghosh8/AI-For-DevOps) | 14 | — | 2026-09-05 | A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A |
+| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27817 | Python | 2026-09-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 15 | [acornops/docs-website](https://github.com/acornops/docs-website) | 1 | MDX | 2026-09-05 | Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes. |
 | 16 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-09-05 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
 | 17 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-09-05 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
