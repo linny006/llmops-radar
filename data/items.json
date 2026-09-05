@@ -1,11 +1,74 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-05T19:43:16Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58111,
+    "updated_at": "2026-09-05T19:44:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-09-05T19:38:56Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 50,
+    "updated_at": "2026-09-05T19:36:49Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
+    "id": "Machbub/hermes-aux-autoheal",
+    "language": "Python",
+    "name": "Machbub/hermes-aux-autoheal",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:36:10Z",
+    "url": "https://github.com/Machbub/hermes-aux-autoheal"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-05T19:34:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:42:11Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T19:30:05Z",
+    "updated_at": "2026-09-05T19:30:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -18,31 +81,13 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-09-05T19:29:40Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58111,
-    "updated_at": "2026-09-05T19:29:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
-    "id": "Machbub/hermes-aux-autoheal",
-    "language": "Python",
-    "name": "Machbub/hermes-aux-autoheal",
-    "stars": 1,
-    "updated_at": "2026-09-05T19:23:25Z",
-    "url": "https://github.com/Machbub/hermes-aux-autoheal"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34231,
+    "updated_at": "2026-09-05T19:20:33Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-05T18:46:54Z",
+    "updated_at": "2026-09-05T19:38:17Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-05T18:49:29Z",
+    "updated_at": "2026-09-05T19:40:28Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-05T19:30:05Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 83,
     "updated_at": "2026-09-05T18:57:23Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-05T17:59:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
@@ -304,15 +331,6 @@
     "stars": 6,
     "updated_at": "2026-09-05T17:21:21Z",
     "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34230,
-    "updated_at": "2026-09-05T19:20:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
@@ -430,23 +448,5 @@
     "stars": 132,
     "updated_at": "2026-09-05T15:55:47Z",
     "url": "https://github.com/sno-ai/llmix"
-  },
-  {
-    "description": "Agentic SRE + FinOps simulator for NVIDIA AI factories\u2014detecting failures, rebalancing GPU workloads, improving token ec",
-    "id": "stmontgo123/nvidia-ai-factory-guardian",
-    "language": "Python",
-    "name": "stmontgo123/nvidia-ai-factory-guardian",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:49:10Z",
-    "url": "https://github.com/stmontgo123/nvidia-ai-factory-guardian"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:49:03Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
