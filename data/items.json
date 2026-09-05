@@ -1,11 +1,38 @@
 [
   {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:16:05Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:15:46Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T05:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58064,
-    "updated_at": "2026-09-05T05:15:16Z",
+    "updated_at": "2026-09-05T05:19:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,17 +59,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-05T05:13:47Z",
+    "updated_at": "2026-09-05T05:18:32Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
-    "id": "Life-Experimentalist/CogniGate",
-    "language": "Go",
-    "name": "Life-Experimentalist/CogniGate",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:05:11Z",
-    "url": "https://github.com/Life-Experimentalist/CogniGate"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -50,7 +68,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-05T05:09:39Z",
+    "updated_at": "2026-09-05T05:16:27Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -72,21 +90,12 @@
     "url": "https://github.com/saghosh8/AI-For-DevOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T05:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27817,
-    "updated_at": "2026-09-05T05:04:34Z",
+    "updated_at": "2026-09-05T05:17:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T04:54:39Z",
+    "updated_at": "2026-09-05T05:16:13Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T00:59:59Z",
     "url": "https://github.com/soonseek/deeptwin"
-  },
-  {
-    "description": "A self-hosted inference node for a quantized LLM: Docker, FastAPI, Redis rate limiting, Traefik and a Cloudflare tunnel.",
-    "id": "UniverseScripts/llmops",
-    "language": "Python",
-    "name": "UniverseScripts/llmops",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:27:08Z",
-    "url": "https://github.com/UniverseScripts/llmops"
   }
 ]
