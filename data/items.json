@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:45:06Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T15:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-09-05T15:43:34Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-05T15:30:19Z",
+    "updated_at": "2026-09-05T15:42:39Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Free 10-phase roadmap: DevOps \u2192 AI-native infra. Linux, K8s, observability, DevSecOps, platform eng, MLOps, AIOps, agent",
+    "id": "sandeepk24/devops-to-ai",
+    "language": "Python",
+    "name": "sandeepk24/devops-to-ai",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:40:25Z",
+    "url": "https://github.com/sandeepk24/devops-to-ai"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -23,8 +41,35 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-05T15:24:52Z",
+    "updated_at": "2026-09-05T15:37:09Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:36:31Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:35:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58089,
+    "updated_at": "2026-09-05T15:38:12Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T15:24:23Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:34:45Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Evidence-driven reliability lab for tool-using AI agents: retries, approvals, durable state, traces, and auditable evalu",
@@ -63,15 +99,6 @@
     "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58088,
-    "updated_at": "2026-09-05T15:31:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
     "id": "intelligent-iterations/ii-llm-lab",
     "language": "TypeScript",
@@ -85,7 +112,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5364,
+    "stars": 5367,
     "updated_at": "2026-09-05T15:08:07Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -153,21 +180,12 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:33:57Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 83,
-    "updated_at": "2026-09-05T15:22:42Z",
+    "updated_at": "2026-09-05T15:41:47Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:10:17Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:05:25Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:04:32Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
   }
 ]
