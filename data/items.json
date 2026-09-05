@@ -1,21 +1,30 @@
 [
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
     "stars": 0,
-    "updated_at": "2026-09-05T22:58:30Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
+    "updated_at": "2026-09-05T23:10:44Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58117,
-    "updated_at": "2026-09-05T22:58:43Z",
+    "stars": 58118,
+    "updated_at": "2026-09-05T23:13:35Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An LLM gateway that can prove what happened.",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-05T23:02:03Z",
+    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T22:45:25Z",
+    "updated_at": "2026-09-05T23:00:29Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:58:30Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T22:40:26Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "An LLM gateway that can prove what happened.",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:36:44Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -167,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-05T22:46:09Z",
+    "updated_at": "2026-09-05T23:09:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T20:57:37Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
-    "id": "Machbub/hermes-aux-autoheal",
-    "language": "Python",
-    "name": "Machbub/hermes-aux-autoheal",
-    "stars": 1,
-    "updated_at": "2026-09-05T20:58:34Z",
-    "url": "https://github.com/Machbub/hermes-aux-autoheal"
   }
 ]
