@@ -1,12 +1,39 @@
 [
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
     "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-05T09:58:21Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "stars": 1,
-    "updated_at": "2026-09-05T09:43:42Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+    "updated_at": "2026-09-05T09:58:13Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-05T09:57:36Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 131,
+    "updated_at": "2026-09-05T09:57:13Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,8 +41,35 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-05T09:42:48Z",
+    "updated_at": "2026-09-05T09:55:13Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-05T09:52:48Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-05T09:46:21Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27818,
+    "updated_at": "2026-09-05T09:46:14Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agentic Runtime",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-05T09:31:21Z",
+    "updated_at": "2026-09-05T09:45:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T09:30:27Z",
+    "updated_at": "2026-09-05T09:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-05T09:43:42Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
     "description": "CI-native continuous evaluation and auto-remediation for LLM applications",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T09:25:05Z",
+    "updated_at": "2026-09-05T09:58:47Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58078,
-    "updated_at": "2026-09-05T09:45:17Z",
+    "updated_at": "2026-09-05T09:58:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
-    "id": "Life-Experimentalist/CogniGate",
-    "language": "Go",
-    "name": "Life-Experimentalist/CogniGate",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:11:03Z",
-    "url": "https://github.com/Life-Experimentalist/CogniGate"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:53:36Z",
     "url": "https://github.com/mloda-ai/mloda-plugin-template"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27818,
-    "updated_at": "2026-09-05T09:35:09Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:28:36Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:28:12Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-05T09:05:47Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:25:25Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:24:36Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:21:13Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   }
 ]
