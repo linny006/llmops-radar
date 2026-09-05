@@ -1,12 +1,84 @@
 [
   {
+    "description": "Local-first evidence-led framework for supervised multi-agent judgment improvement",
+    "id": "soonseek/deeptwin",
+    "language": "Python",
+    "name": "soonseek/deeptwin",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:56:51Z",
+    "url": "https://github.com/soonseek/deeptwin"
+  },
+  {
+    "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
+    "id": "nRouterAI/nrouter-sdk",
+    "language": "TypeScript",
+    "name": "nRouterAI/nrouter-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:54:54Z",
+    "url": "https://github.com/nRouterAI/nrouter-sdk"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7809,
+    "updated_at": "2026-09-05T00:54:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-05T00:44:39Z",
+    "updated_at": "2026-09-05T00:52:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-05T00:53:04Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T00:49:50Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A self-hosted inference node for a quantized LLM: Docker, FastAPI, Redis rate limiting, Traefik and a Cloudflare tunnel.",
+    "id": "UniverseScripts/llmops",
+    "language": "Python",
+    "name": "UniverseScripts/llmops",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:48:29Z",
+    "url": "https://github.com/UniverseScripts/llmops"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T00:46:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T00:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58056,
-    "updated_at": "2026-09-05T00:45:08Z",
+    "updated_at": "2026-09-05T00:52:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,24 +117,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T00:36:16Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-05T00:35:28Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -72,15 +126,6 @@
     "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
-    "description": "A self-hosted inference node for a quantized LLM: Docker, FastAPI, Redis rate limiting, Traefik and a Cloudflare tunnel.",
-    "id": "UniverseScripts/llmops",
-    "language": "Python",
-    "name": "UniverseScripts/llmops",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:33:12Z",
-    "url": "https://github.com/UniverseScripts/llmops"
-  },
-  {
     "description": "A local-first RAG backend: ingest PDF/TXT documents and chat with them using Ollama and ChromaDB. Open-source core logic",
     "id": "UniverseScripts/local-rag-api",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T00:31:09Z",
     "url": "https://github.com/UniverseScripts/local-rag-api"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T00:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T00:26:00Z",
+    "updated_at": "2026-09-05T00:56:53Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T00:24:10Z",
+    "updated_at": "2026-09-05T00:54:47Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-04T23:40:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T23:26:52Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7808,
-    "updated_at": "2026-09-04T23:26:35Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T23:15:32Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:08:39Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-04T23:08:09Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
