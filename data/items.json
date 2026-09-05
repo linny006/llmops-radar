@@ -5,8 +5,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-05T00:29:36Z",
+    "updated_at": "2026-09-05T00:44:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:44:36Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58056,
+    "updated_at": "2026-09-05T00:45:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:37:15Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-05T00:36:22Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T00:36:16Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-05T00:35:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:33:13Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "A self-hosted inference node for a quantized LLM: Docker, FastAPI, Redis rate limiting, Traefik and a Cloudflare tunnel.",
+    "id": "UniverseScripts/llmops",
+    "language": "Python",
+    "name": "UniverseScripts/llmops",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:33:12Z",
+    "url": "https://github.com/UniverseScripts/llmops"
+  },
+  {
+    "description": "A local-first RAG backend: ingest PDF/TXT documents and chat with them using Ollama and ChromaDB. Open-source core logic",
+    "id": "UniverseScripts/local-rag-api",
+    "language": "Python",
+    "name": "UniverseScripts/local-rag-api",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:31:09Z",
+    "url": "https://github.com/UniverseScripts/local-rag-api"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T00:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -34,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T00:24:10Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58055,
-    "updated_at": "2026-09-05T00:29:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T00:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -97,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-09-04T23:59:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-04T23:58:42Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -369,15 +432,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:09:54Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-04T23:08:09Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:17:22Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, r",
-    "id": "zendev-sh/zenflow",
-    "language": "Go",
-    "name": "zendev-sh/zenflow",
-    "stars": 49,
-    "updated_at": "2026-09-04T23:03:23Z",
-    "url": "https://github.com/zendev-sh/zenflow"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-09-04T23:04:26Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:00:44Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-04T22:58:19Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-04T22:58:07Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
