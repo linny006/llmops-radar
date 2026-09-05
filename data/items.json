@@ -1,12 +1,66 @@
 [
   {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:14:38Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-04T23:59:27Z",
+    "updated_at": "2026-09-05T00:15:05Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-05T00:09:32Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T00:06:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30054,
+    "updated_at": "2026-09-05T00:05:26Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
+    "id": "mykolapodpriatov/agentbisect",
+    "language": "Python",
+    "name": "mykolapodpriatov/agentbisect",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:02:44Z",
+    "url": "https://github.com/mykolapodpriatov/agentbisect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T00:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58054,
-    "updated_at": "2026-09-04T23:59:32Z",
+    "updated_at": "2026-09-05T00:06:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-04T23:50:28Z",
+    "updated_at": "2026-09-05T00:01:37Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T23:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
     "id": "Traciewheelless86/sentiment-analysis-nlp-api",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T23:42:59Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-04T23:42:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -333,15 +369,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:11:02Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-04T22:58:07Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-04T22:53:33Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-04T22:51:54Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30053,
-    "updated_at": "2026-09-04T22:46:07Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
