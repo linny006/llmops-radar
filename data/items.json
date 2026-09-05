@@ -1,5 +1,68 @@
 [
   {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T20:28:55Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 7,
+    "updated_at": "2026-09-05T20:28:41Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58111,
+    "updated_at": "2026-09-05T20:28:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open-source LLM gateway \u2014 one OpenAI-compatible API for every provider, in a single fast Go binary. Routing, fallbac",
+    "id": "arbazkhan971/setu",
+    "language": "Go",
+    "name": "arbazkhan971/setu",
+    "stars": 0,
+    "updated_at": "2026-09-05T20:20:57Z",
+    "url": "https://github.com/arbazkhan971/setu"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-05T20:20:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-05T20:18:20Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T20:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -18,15 +81,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-05T20:12:39Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Fraud Detection AI Co-Pilot \u2014 ensemble XGBoost + Isolation Forest with 650+ features, SHAP explainability, UMAP clusteri",
     "id": "rehan243/Sentinel-AI-Fraud-Detection",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T20:10:04Z",
     "url": "https://github.com/rehan243/Sentinel-AI-Fraud-Detection"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58111,
-    "updated_at": "2026-09-05T20:14:56Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -72,30 +117,12 @@
     "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-05T20:00:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-05T20:02:20Z",
+    "updated_at": "2026-09-05T20:15:57Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -135,21 +162,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 7,
-    "updated_at": "2026-09-05T19:48:45Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-05T19:43:16Z",
+    "updated_at": "2026-09-05T20:23:18Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T20:07:45Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-05T19:29:12Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -301,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5394,
+    "stars": 5395,
     "updated_at": "2026-09-05T18:18:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -391,7 +400,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27819,
+    "stars": 27820,
     "updated_at": "2026-09-05T16:53:15Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-05T16:26:04Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11340,
-    "updated_at": "2026-09-05T16:24:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
