@@ -1,5 +1,59 @@
 [
   {
+    "description": "An LLM gateway that can prove what happened.",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:22:02Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-05T22:20:52Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-05T22:29:06Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-05T22:17:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58115,
+    "updated_at": "2026-09-05T22:30:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T22:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One OpenAI-compatible endpoint in front of all your GPU boxes \u2014 health-aware routing, admission control, metering. No pr",
     "id": "raulo987/llmrouter",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58115,
-    "updated_at": "2026-09-05T22:15:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T22:08:34Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "An LLM gateway that can prove what happened.",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:07:59Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -81,24 +117,6 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-05T22:09:52Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T22:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -133,15 +151,6 @@
     "stars": 21814,
     "updated_at": "2026-09-05T21:47:23Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-05T21:47:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -261,15 +270,6 @@
     "url": "https://github.com/effecterelectricalplant87/LLM"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-05T22:11:29Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
     "id": "Rosalyndfaithful716/Guardrail",
     "language": "TypeScript",
@@ -277,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:15:40Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8532,
+    "updated_at": "2026-09-05T21:14:08Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T20:43:59Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-05T20:41:19Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
