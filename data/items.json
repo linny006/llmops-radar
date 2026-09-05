@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-05T14:44:25Z",
+    "updated_at": "2026-09-05T14:58:59Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:55:59Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
+    "id": "intelligent-iterations/ii-llm-lab",
+    "language": "TypeScript",
+    "name": "intelligent-iterations/ii-llm-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:51:41Z",
+    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 2,
+    "updated_at": "2026-09-05T14:49:20Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "Evidence-driven reliability lab for tool-using AI agents: retries, approvals, durable state, traces, and auditable evalu",
+    "id": "SCUliujiacheng/agent-reliability-lab",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:55:13Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:45:52Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -23,8 +77,17 @@
     "language": "Python",
     "name": "SCUliujiacheng/agent-reliability-lab-zh",
     "stars": 0,
-    "updated_at": "2026-09-05T14:42:46Z",
+    "updated_at": "2026-09-05T14:54:59Z",
     "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58086,
+    "updated_at": "2026-09-05T14:40:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T14:33:40Z",
+    "updated_at": "2026-09-05T15:00:19Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -49,18 +112,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5360,
+    "stars": 5361,
     "updated_at": "2026-09-05T14:33:02Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:32:41Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -68,17 +122,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 83,
-    "updated_at": "2026-09-05T14:31:11Z",
+    "updated_at": "2026-09-05T14:46:08Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -162,15 +207,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58085,
-    "updated_at": "2026-09-05T14:40:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:33:17Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:43:35Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T13:02:47Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:00:32Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-05T14:42:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
-    "id": "hxaxd/kochab",
-    "language": "Python",
-    "name": "hxaxd/kochab",
-    "stars": 0,
-    "updated_at": "2026-09-05T12:52:51Z",
-    "url": "https://github.com/hxaxd/kochab"
   }
 ]
