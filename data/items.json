@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T15:45:06Z",
+    "updated_at": "2026-09-05T15:57:01Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:43:34Z",
-    "url": "https://github.com/crewhaus/factory"
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:56:52Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -23,8 +23,71 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-05T15:42:39Z",
+    "updated_at": "2026-09-05T15:55:14Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "sno-ai/llmix",
+    "language": "Python",
+    "name": "sno-ai/llmix",
+    "stars": 132,
+    "updated_at": "2026-09-05T15:55:47Z",
+    "url": "https://github.com/sno-ai/llmix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58090,
+    "updated_at": "2026-09-05T15:59:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
+    "id": "48Nauts-Operator/NautGate",
+    "language": "Python",
+    "name": "48Nauts-Operator/NautGate",
+    "stars": 2,
+    "updated_at": "2026-09-05T15:50:29Z",
+    "url": "https://github.com/48Nauts-Operator/NautGate"
+  },
+  {
+    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:49:41Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Agentic SRE + FinOps simulator for NVIDIA AI factories\u2014detecting failures, rebalancing GPU workloads, improving token ec",
+    "id": "stmontgo123/nvidia-ai-factory-guardian",
+    "language": "Python",
+    "name": "stmontgo123/nvidia-ai-factory-guardian",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:49:10Z",
+    "url": "https://github.com/stmontgo123/nvidia-ai-factory-guardian"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:45:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:49:03Z",
+    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Free 10-phase roadmap: DevOps \u2192 AI-native infra. Linux, K8s, observability, DevSecOps, platform eng, MLOps, AIOps, agent",
@@ -45,33 +108,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:36:31Z",
-    "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:35:12Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58089,
-    "updated_at": "2026-09-05T15:38:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "SCUliujiacheng/agent-reliability-lab",
     "stars": 0,
-    "updated_at": "2026-09-05T15:19:12Z",
+    "updated_at": "2026-09-05T15:58:49Z",
     "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "SCUliujiacheng/agent-reliability-lab-zh",
     "stars": 0,
-    "updated_at": "2026-09-05T15:19:12Z",
+    "updated_at": "2026-09-05T15:58:49Z",
     "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
   },
   {
@@ -130,7 +166,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30064,
+    "stars": 30063,
     "updated_at": "2026-09-05T15:03:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T15:02:07Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
-    "id": "48Nauts-Operator/NautGate",
-    "language": "Python",
-    "name": "48Nauts-Operator/NautGate",
-    "stars": 2,
-    "updated_at": "2026-09-05T14:49:20Z",
-    "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 83,
-    "updated_at": "2026-09-05T15:41:47Z",
+    "updated_at": "2026-09-05T15:53:41Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:15:15Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-09-05T13:12:04Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:11:28Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:10:17Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
