@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T18:12:59Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 214,
+    "updated_at": "2026-09-05T18:09:13Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-05T18:08:43Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
+    "id": "Machbub/hermes-aux-autoheal",
+    "language": "Python",
+    "name": "Machbub/hermes-aux-autoheal",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:09:25Z",
+    "url": "https://github.com/Machbub/hermes-aux-autoheal"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:06:14Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 83,
+    "updated_at": "2026-09-05T18:06:08Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -45,31 +108,13 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T17:55:07Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58104,
-    "updated_at": "2026-09-05T17:52:50Z",
+    "updated_at": "2026-09-05T18:15:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T17:33:58Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
-    "id": "Machbub/hermes-aux-autoheal",
-    "language": "Python",
-    "name": "Machbub/hermes-aux-autoheal",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:38:09Z",
-    "url": "https://github.com/Machbub/hermes-aux-autoheal"
   },
   {
     "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
@@ -175,7 +211,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5384,
+    "stars": 5385,
     "updated_at": "2026-09-05T16:53:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -297,15 +333,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:57:44Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
     "id": "sno-ai/llmix",
     "language": "Python",
@@ -383,17 +410,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-05T17:54:39Z",
+    "updated_at": "2026-09-05T18:08:22Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 83,
-    "updated_at": "2026-09-05T15:53:41Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-05T13:54:35Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:06:39Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:47:25Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   }
 ]
