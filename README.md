@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-05 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 2 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-09-05 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58111 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-05 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 3 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-09-05 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58111 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
 | 6 | [Harshalsharma05/switchyard](https://github.com/Harshalsharma05/switchyard) | 0 | Go | 2026-09-05 | An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability. |
 | 7 | [mesedi-ai/mesedi](https://github.com/mesedi-ai/mesedi) | 0 | Go | 2026-09-05 | Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes — loops |
 | 8 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-09-05 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
