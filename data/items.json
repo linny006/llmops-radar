@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
-    "id": "intelligent-iterations/ii-llm-lab",
-    "language": "TypeScript",
-    "name": "intelligent-iterations/ii-llm-lab",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:14:26Z",
-    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T04:29:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "memoturn/memoturn",
     "stars": 1,
-    "updated_at": "2026-09-05T04:14:26Z",
+    "updated_at": "2026-09-05T04:27:13Z",
     "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:22:04Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58064,
+    "updated_at": "2026-09-05T04:25:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
+    "id": "intelligent-iterations/ii-llm-lab",
+    "language": "TypeScript",
+    "name": "intelligent-iterations/ii-llm-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:14:26Z",
+    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -36,24 +72,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-05T04:02:52Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T04:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T03:58:31Z",
     "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58063,
-    "updated_at": "2026-09-05T04:15:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T03:30:40Z",
+    "updated_at": "2026-09-05T04:22:01Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -104,17 +113,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27817,
-    "updated_at": "2026-09-05T03:52:10Z",
+    "updated_at": "2026-09-05T04:16:05Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:12:58Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
