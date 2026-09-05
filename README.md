@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 11:15 UTC
+> ⏰ Last updated: 2026-09-05 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,14 +43,14 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-05 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 2 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-05 | Temporal workers and clients for wrapping access to different LLMs |
-| 3 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 3 | Python | 2026-09-05 | Drop-in LLM proxy that cuts input tokens 30–70% (54.1% measured, quality-gated) across 27 transparent optimisations — ca |
-| 4 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
-| 5 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34219 | TypeScript | 2026-09-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 6 | [SCUliujiacheng/agent-reliability-lab](https://github.com/SCUliujiacheng/agent-reliability-lab) | 0 | Python | 2026-09-05 | Evidence-driven lab for durable tool-using agents: retries, approvals, traces, exact evals, FastAPI + React. |
-| 7 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-05 | ThakiCloud Tech Blog |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58078 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-05 | Temporal workers and clients for wrapping access to different LLMs |
+| 4 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 3 | Python | 2026-09-05 | Drop-in LLM proxy that cuts input tokens 30–70% (54.1% measured, quality-gated) across 27 transparent optimisations — ca |
+| 5 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
+| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34219 | TypeScript | 2026-09-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 7 | [SCUliujiacheng/agent-reliability-lab](https://github.com/SCUliujiacheng/agent-reliability-lab) | 0 | Python | 2026-09-05 | Evidence-driven lab for durable tool-using agents: retries, approvals, traces, exact evals, FastAPI + React. |
+| 8 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-05 | ThakiCloud Tech Blog |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58078 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 10 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 35 | Python | 2026-09-05 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 11 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-05 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
 | 12 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
