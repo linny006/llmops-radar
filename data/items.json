@@ -1,21 +1,30 @@
 [
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
+    "description": "Evidence-driven reliability lab for tool-using AI agents: retries, approvals, durable state, traces, and auditable evalu",
+    "id": "SCUliujiacheng/agent-reliability-lab",
     "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-05T14:58:59Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "name": "SCUliujiacheng/agent-reliability-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:13:58Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
+    "description": "\u4e2d\u6587\u7248\uff5c\u5de5\u5177\u578b AI Agent \u53ef\u9760\u6027\u5b9e\u9a8c\u5ba4\uff1a\u91cd\u8bd5\u3001\u5ba1\u6279\u3001\u53ef\u6062\u590d\u72b6\u6001\u673a\u4e0e\u53ef\u5ba1\u8ba1\u8bc4\u6d4b",
+    "id": "SCUliujiacheng/agent-reliability-lab-zh",
     "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
+    "name": "SCUliujiacheng/agent-reliability-lab-zh",
     "stars": 0,
-    "updated_at": "2026-09-05T14:55:59Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
+    "updated_at": "2026-09-05T15:13:58Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58088,
+    "updated_at": "2026-09-05T15:13:22Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
@@ -23,8 +32,71 @@
     "language": "TypeScript",
     "name": "intelligent-iterations/ii-llm-lab",
     "stars": 0,
-    "updated_at": "2026-09-05T14:51:41Z",
+    "updated_at": "2026-09-05T15:08:40Z",
     "url": "https://github.com/intelligent-iterations/ii-llm-lab"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:13:32Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5363,
+    "updated_at": "2026-09-05T15:08:07Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:08:06Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-05T15:02:53Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:02:07Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-05T14:58:59Z",
+    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
@@ -36,15 +108,6 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
-    "description": "Evidence-driven reliability lab for tool-using AI agents: retries, approvals, durable state, traces, and auditable evalu",
-    "id": "SCUliujiacheng/agent-reliability-lab",
-    "language": "Python",
-    "name": "SCUliujiacheng/agent-reliability-lab",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:55:13Z",
-    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "JavaScript",
@@ -54,15 +117,6 @@
     "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -70,24 +124,6 @@
     "stars": 8,
     "updated_at": "2026-09-05T14:43:22Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\u4e2d\u6587\u7248\uff5c\u5de5\u5177\u578b AI Agent \u53ef\u9760\u6027\u5b9e\u9a8c\u5ba4\uff1a\u91cd\u8bd5\u3001\u5ba1\u6279\u3001\u53ef\u6062\u590d\u72b6\u6001\u673a\u4e0e\u53ef\u5ba1\u8ba1\u8bc4\u6d4b",
-    "id": "SCUliujiacheng/agent-reliability-lab-zh",
-    "language": "Python",
-    "name": "SCUliujiacheng/agent-reliability-lab-zh",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:54:59Z",
-    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58086,
-    "updated_at": "2026-09-05T14:40:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -106,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T15:00:19Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5361,
-    "updated_at": "2026-09-05T14:33:02Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -333,15 +360,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:17:32Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
     "id": "thesecretrapper786-netizen/catalyst-n1",
     "language": "\u2014",
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:15:15Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-05T13:35:19Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T13:02:55Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-05T13:02:47Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
