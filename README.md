@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 09:12 UTC
+> ⏰ Last updated: 2026-09-05 09:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Life-Experimentalist/CogniGate](https://github.com/Life-Experimentalist/CogniGate) | 0 | Go | 2026-09-05 | Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58074 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-05 | Temporal workers and clients for wrapping access to different LLMs |
-| 5 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-05 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-05 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
-| 8 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-05 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 9 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Shell | 2026-09-05 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 1 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Shell | 2026-09-05 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58075 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [Life-Experimentalist/CogniGate](https://github.com/Life-Experimentalist/CogniGate) | 0 | Go | 2026-09-05 | Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
+| 6 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-05 | Temporal workers and clients for wrapping access to different LLMs |
+| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-05 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 8 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-05 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
+| 9 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-05 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
 | 10 | [mloda-ai/mloda-plugin-template](https://github.com/mloda-ai/mloda-plugin-template) | 1 | Python | 2026-09-05 | Template repository for plugin creation for mloda.ai  |
 | 11 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27818 | Python | 2026-09-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 12 | [evelandhq/eveland](https://github.com/evelandhq/eveland) | 2 | TypeScript | 2026-09-05 | Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets. |
