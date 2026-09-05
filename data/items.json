@@ -1,21 +1,57 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58111,
+    "updated_at": "2026-09-05T19:13:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
+    "id": "Harshalsharma05/switchyard",
+    "language": "Go",
+    "name": "Harshalsharma05/switchyard",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:08:23Z",
+    "url": "https://github.com/Harshalsharma05/switchyard"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:03:53Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-09-05T19:03:43Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T19:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
     "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T18:59:44Z",
+    "updated_at": "2026-09-05T19:03:32Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58110,
-    "updated_at": "2026-09-05T18:57:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T18:54:36Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:52:13Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T18:46:47Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "48Nauts-Operator/NautGate",
     "stars": 2,
-    "updated_at": "2026-09-05T18:29:57Z",
+    "updated_at": "2026-09-05T19:12:45Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-05T18:27:27Z",
+    "updated_at": "2026-09-05T19:02:23Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -175,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5389,
+    "stars": 5391,
     "updated_at": "2026-09-05T18:18:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34230,
-    "updated_at": "2026-09-05T17:19:13Z",
+    "updated_at": "2026-09-05T19:07:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T15:40:25Z",
     "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:24:23Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30068,
-    "updated_at": "2026-09-05T15:03:54Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
