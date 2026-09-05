@@ -1,5 +1,41 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2759,
+    "updated_at": "2026-09-05T12:44:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
+    "id": "jamjet-labs/jamjet-guardrails",
+    "language": "Python",
+    "name": "jamjet-labs/jamjet-guardrails",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:44:51Z",
+    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-05T12:44:04Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:43:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T12:42:54Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2759,
-    "updated_at": "2026-09-05T12:42:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -63,21 +90,12 @@
     "url": "https://github.com/Juror-AI/juror"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21810,
-    "updated_at": "2026-09-05T12:29:47Z",
+    "updated_at": "2026-09-05T12:44:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-05T12:41:43Z",
+    "updated_at": "2026-09-05T12:45:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/Life-Experimentalist/CogniGate"
   },
   {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-09-05T12:37:48Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1933,
     "updated_at": "2026-09-05T10:56:34Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:53:38Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
