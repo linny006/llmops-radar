@@ -1,12 +1,57 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:29:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-05T14:44:25Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T14:43:22Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\u4e2d\u6587\u7248\uff5c\u5de5\u5177\u578b AI Agent \u53ef\u9760\u6027\u5b9e\u9a8c\u5ba4\uff1a\u91cd\u8bd5\u3001\u5ba1\u6279\u3001\u53ef\u6062\u590d\u72b6\u6001\u673a\u4e0e\u53ef\u5ba1\u8ba1\u8bc4\u6d4b",
+    "id": "SCUliujiacheng/agent-reliability-lab-zh",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab-zh",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:42:46Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-05T14:36:42Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:33:40Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5360,
+    "updated_at": "2026-09-05T14:33:02Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -14,17 +59,35 @@
     "language": "JavaScript",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-05T14:18:09Z",
+    "updated_at": "2026-09-05T14:32:41Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5355,
-    "updated_at": "2026-09-05T14:17:31Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "mloda-ai/mloda",
+    "stars": 83,
+    "updated_at": "2026-09-05T14:31:11Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T14:29:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -36,15 +99,6 @@
     "url": "https://github.com/amro/evaling"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
@@ -52,24 +106,6 @@
     "stars": 15,
     "updated_at": "2026-09-05T14:06:42Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:23:41Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T14:04:06Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58085,
-    "updated_at": "2026-09-05T14:26:17Z",
+    "updated_at": "2026-09-05T14:40:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T13:48:11Z",
+    "updated_at": "2026-09-05T14:43:35Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 83,
-    "updated_at": "2026-09-05T14:24:09Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-05T14:22:58Z",
+    "updated_at": "2026-09-05T14:42:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:52:51Z",
     "url": "https://github.com/hxaxd/kochab"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24838,
-    "updated_at": "2026-09-05T12:50:45Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2760,
-    "updated_at": "2026-09-05T12:48:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-05T12:46:46Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
