@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 21:36 UTC
+> ⏰ Last updated: 2026-09-05 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 295 | Python | 2026-09-05 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
+| 1 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-05 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
 | 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58115 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-05 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
-| 4 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 17 | Ruby | 2026-09-05 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-05 | Agentic Runtime |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 295 | Python | 2026-09-05 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
+| 5 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 17 | Ruby | 2026-09-05 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-05 | Agentic Runtime |
 | 7 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-05 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
 | 8 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-09-05 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
 | 9 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-09-05 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |

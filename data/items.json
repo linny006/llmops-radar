@@ -1,5 +1,32 @@
 [
   {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T21:42:39Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58115,
+    "updated_at": "2026-09-05T21:44:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T21:36:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
     "id": "runtm-ai/runtm",
     "language": "Python",
@@ -9,30 +36,12 @@
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58115,
-    "updated_at": "2026-09-05T21:35:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:36:07Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-05T21:33:51Z",
+    "updated_at": "2026-09-05T21:42:43Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 37,
     "updated_at": "2026-09-05T21:31:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
