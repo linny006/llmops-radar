@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58095,
-    "updated_at": "2026-09-05T16:59:48Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:14:48Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T17:14:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -14,8 +23,89 @@
     "language": "Go",
     "name": "mesedi-ai/mesedi",
     "stars": 0,
-    "updated_at": "2026-09-05T16:56:16Z",
+    "updated_at": "2026-09-05T17:14:45Z",
     "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-05T17:14:38Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-05T17:11:39Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T17:09:51Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "An LLM gateway that can prove what happened.",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:09:22Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58097,
+    "updated_at": "2026-09-05T17:12:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:05:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
+    "id": "TheusHen/eleanity",
+    "language": "Python",
+    "name": "TheusHen/eleanity",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:05:08Z",
+    "url": "https://github.com/TheusHen/eleanity"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:00:43Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -36,15 +126,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "An LLM gateway for environments where the model provider is not your choice to make. One OpenAI-compatible endpoint in f",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:53:39Z",
-    "url": "https://github.com/Grace/switchboard"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 27819,
     "updated_at": "2026-09-05T16:53:15Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-05T16:49:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -72,15 +144,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T16:48:08Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
     "id": "m0thermulia/promptgold",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/m0thermulia/promptgold"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T16:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -106,24 +160,6 @@
     "stars": 24840,
     "updated_at": "2026-09-05T16:43:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:41:52Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:41:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -144,15 +180,6 @@
     "url": "https://github.com/intelligent-iterations/ii-llm-lab"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:35:14Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T16:26:04Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-05T16:59:52Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
@@ -207,15 +225,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-05T16:05:50Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -239,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-05T16:02:56Z",
+    "updated_at": "2026-09-05T17:01:32Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:28:20Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:28:13Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
