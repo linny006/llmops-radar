@@ -1,12 +1,75 @@
 [
   {
+    "description": "Run-aware token governance for multi-agent systems.",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 50,
+    "updated_at": "2026-09-05T07:56:29Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 11,
+    "updated_at": "2026-09-05T07:57:49Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:55:59Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
+    "id": "ccarvalho-eng/aludel",
+    "language": "Elixir",
+    "name": "ccarvalho-eng/aludel",
+    "stars": 35,
+    "updated_at": "2026-09-05T07:50:37Z",
+    "url": "https://github.com/ccarvalho-eng/aludel"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-05T07:44:03Z",
+    "updated_at": "2026-09-05T07:48:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24830,
+    "updated_at": "2026-09-05T07:49:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:46:16Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T07:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -16,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T07:42:22Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:44:56Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 11,
-    "updated_at": "2026-09-05T07:42:54Z",
-    "url": "https://github.com/tonquoc0407/capybara"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -50,26 +95,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-05T07:45:03Z",
+    "updated_at": "2026-09-05T07:57:43Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
-    "id": "Life-Experimentalist/CogniGate",
-    "language": "Go",
-    "name": "Life-Experimentalist/CogniGate",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:38:24Z",
-    "url": "https://github.com/Life-Experimentalist/CogniGate"
-  },
-  {
-    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
-    "id": "ccarvalho-eng/aludel",
-    "language": "Elixir",
-    "name": "ccarvalho-eng/aludel",
-    "stars": 35,
-    "updated_at": "2026-09-05T07:36:10Z",
-    "url": "https://github.com/ccarvalho-eng/aludel"
   },
   {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 248,
-    "updated_at": "2026-09-05T07:36:08Z",
+    "updated_at": "2026-09-05T07:47:11Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T07:34:15Z",
     "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T07:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58068,
-    "updated_at": "2026-09-05T07:44:58Z",
+    "updated_at": "2026-09-05T07:58:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -175,7 +193,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11333,
+    "stars": 11334,
     "updated_at": "2026-09-05T06:55:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:09:20Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:08:11Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1190,
-    "updated_at": "2026-09-05T06:07:28Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
   }
 ]
