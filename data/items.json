@@ -1,12 +1,57 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T00:59:48Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-09-05T01:13:05Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-05T01:09:50Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-05T01:09:28Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "pytest for LLM extraction: golden-fixture regression testing that catches silent drift in model, prompt, schema, or sour",
+    "id": "mykolapodpriatov/extract-regress",
+    "language": "Python",
+    "name": "mykolapodpriatov/extract-regress",
+    "stars": 0,
+    "updated_at": "2026-09-05T01:09:26Z",
+    "url": "https://github.com/mykolapodpriatov/extract-regress"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58057,
+    "updated_at": "2026-09-05T01:13:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-05T01:06:33Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +59,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 36,
-    "updated_at": "2026-09-05T00:58:59Z",
+    "updated_at": "2026-09-05T01:04:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T01:01:50Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T01:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first evidence-led framework for supervised multi-agent judgment improvement",
@@ -36,15 +99,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T00:57:05Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
     "id": "nRouterAI/nrouter-sdk",
     "language": "TypeScript",
@@ -63,15 +117,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-05T00:53:04Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "A self-hosted inference node for a quantized LLM: Docker, FastAPI, Redis rate limiting, Traefik and a Cloudflare tunnel.",
     "id": "UniverseScripts/llmops",
     "language": "Python",
@@ -88,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T00:46:08Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:44:36Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58056,
-    "updated_at": "2026-09-05T00:59:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -158,17 +185,8 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T00:59:07Z",
+    "updated_at": "2026-09-05T01:03:16Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T00:54:47Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30054,
-    "updated_at": "2026-09-05T00:05:26Z",
+    "updated_at": "2026-09-05T01:11:12Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T23:17:09Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-04T23:16:55Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:16:42Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
