@@ -1,12 +1,120 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27818,
+    "updated_at": "2026-09-05T10:14:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-05T10:13:07Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
+    "id": "hxaxd/kochab",
+    "language": "Python",
+    "name": "hxaxd/kochab",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:11:36Z",
+    "url": "https://github.com/hxaxd/kochab"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3523,
+    "updated_at": "2026-09-05T10:14:25Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T10:10:46Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:09:17Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-09-05T10:09:49Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
     "name": "sumitdevgupto/TokenLean",
     "stars": 3,
-    "updated_at": "2026-09-05T09:58:21Z",
+    "updated_at": "2026-09-05T10:07:20Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-05T10:05:30Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:02:41Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T10:00:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Portfolio-ready LangGraph commerce agent with Text-to-SQL, RAG, BI dashboards, FastAPI, MySQL, Docker, and reproducible ",
+    "id": "super-ZXQ/ai-commerce-intelligence-platform",
+    "language": "Jupyter Notebook",
+    "name": "super-ZXQ/ai-commerce-intelligence-platform",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:00:32Z",
+    "url": "https://github.com/super-ZXQ/ai-commerce-intelligence-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -36,15 +144,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T09:55:13Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -61,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T09:46:21Z",
     "url": "https://github.com/Life-Experimentalist/CogniGate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27818,
-    "updated_at": "2026-09-05T09:46:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-05T09:45:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T09:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58078,
-    "updated_at": "2026-09-05T09:58:25Z",
+    "updated_at": "2026-09-05T10:11:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T09:07:37Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:59:36Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   },
   {
     "description": "Template repository for plugin creation for mloda.ai ",
@@ -256,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24832,
+    "stars": 24833,
     "updated_at": "2026-09-05T07:49:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -286,15 +349,6 @@
     "stars": 76,
     "updated_at": "2026-09-05T07:38:05Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-05T09:16:15Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:35:56Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:35:21Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:34:51Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:34:18Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:30:03Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:28:48Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:28:36Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   }
 ]
