@@ -1,12 +1,12 @@
 [
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
     "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-05T19:43:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:59:49Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58111,
-    "updated_at": "2026-09-05T19:44:46Z",
+    "updated_at": "2026-09-05T20:00:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-05T19:56:52Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 8,
-    "updated_at": "2026-09-05T19:38:56Z",
+    "updated_at": "2026-09-05T19:54:01Z",
     "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-05T19:58:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
@@ -32,8 +50,44 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 50,
-    "updated_at": "2026-09-05T19:36:49Z",
+    "updated_at": "2026-09-05T19:53:18Z",
     "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:52:27Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 7,
+    "updated_at": "2026-09-05T19:48:45Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T19:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-05T19:43:16Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Machbub/hermes-aux-autoheal"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-05T19:34:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T19:42:11Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T19:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -126,15 +162,6 @@
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:54:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T18:46:47Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-05T19:40:28Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T16:04:05Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
-    "id": "satya-anguluri/capstead",
-    "language": "Java",
-    "name": "satya-anguluri/capstead",
-    "stars": 10,
-    "updated_at": "2026-09-05T16:03:23Z",
-    "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "sno-ai/llmix",
-    "language": "Python",
-    "name": "sno-ai/llmix",
-    "stars": 132,
-    "updated_at": "2026-09-05T15:55:47Z",
-    "url": "https://github.com/sno-ai/llmix"
   }
 ]
