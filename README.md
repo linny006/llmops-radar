@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 17:39 UTC
+> ⏰ Last updated: 2026-09-05 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-05 | An LLM gateway that can prove what happened. |
-| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58102 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-05 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
-| 5 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
-| 8 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-05 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 9 | [aktasbatuhan/compound](https://github.com/aktasbatuhan/compound) | 6 | TypeScript | 2026-09-05 | Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success, |
-| 10 | [mesedi-ai/mesedi](https://github.com/mesedi-ai/mesedi) | 0 | Go | 2026-09-05 | Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes — loops |
-| 11 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 17 | Ruby | 2026-09-05 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 12 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-05 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 1 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-05 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 2 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-05 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-05 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58103 | Python | 2026-09-05 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-05 | An LLM gateway that can prove what happened. |
+| 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 7 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-05 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
+| 8 | [Machbub/hermes-aux-autoheal](https://github.com/Machbub/hermes-aux-autoheal) | 1 | Python | 2026-09-05 | Keep Hermes Agent's auxiliary task routes pointed at models that answer — health probes, hysteresis, and a config writer |
+| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 36 | Go | 2026-09-05 | Agentic Runtime |
+| 10 | [aktasbatuhan/compound](https://github.com/aktasbatuhan/compound) | 6 | TypeScript | 2026-09-05 | Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success, |
+| 11 | [mesedi-ai/mesedi](https://github.com/mesedi-ai/mesedi) | 0 | Go | 2026-09-05 | Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes — loops |
+| 12 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 17 | Ruby | 2026-09-05 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
 | 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 14 | [TheusHen/eleanity](https://github.com/TheusHen/eleanity) | 1 | Python | 2026-09-05 | CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence. |
 | 15 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-09-05 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 16 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 5381 | Python | 2026-09-05 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 16 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 5383 | Python | 2026-09-05 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 | 17 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27819 | Python | 2026-09-05 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 18 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-05 | ThakiCloud Tech Blog |
 | 19 | [m0thermulia/promptgold](https://github.com/m0thermulia/promptgold) | 0 | Python | 2026-09-05 | pytest for prompts — write a test, get a baseline, catch regressions in CI |

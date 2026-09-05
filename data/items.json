@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T17:45:15Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-05T17:41:57Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:39:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58103,
+    "updated_at": "2026-09-05T17:43:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "An LLM gateway that can prove what happened.",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T17:36:56Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58102,
-    "updated_at": "2026-09-05T17:37:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Machbub/hermes-aux-autoheal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -61,15 +79,6 @@
     "stars": 36,
     "updated_at": "2026-09-05T17:23:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-05T17:23:01Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
@@ -97,15 +106,6 @@
     "stars": 17,
     "updated_at": "2026-09-05T17:35:25Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T17:09:51Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -139,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5381,
+    "stars": 5383,
     "updated_at": "2026-09-05T16:53:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
