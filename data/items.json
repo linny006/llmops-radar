@@ -1,5 +1,95 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58107,
+    "updated_at": "2026-09-05T18:45:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
+    "id": "Machbub/hermes-aux-autoheal",
+    "language": "Python",
+    "name": "Machbub/hermes-aux-autoheal",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:43:19Z",
+    "url": "https://github.com/Machbub/hermes-aux-autoheal"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-05T18:41:22Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-05T18:40:54Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-05T18:36:17Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-05T18:33:01Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Python SDK for LLM cost tracking across OpenAI, Anthropic, Gemini and LangChain. Two lines, no code changes.",
+    "id": "agentcost-ai/agentcost-sdk",
+    "language": "Python",
+    "name": "agentcost-ai/agentcost-sdk",
+    "stars": 2,
+    "updated_at": "2026-09-05T18:32:21Z",
+    "url": "https://github.com/agentcost-ai/agentcost-sdk"
+  },
+  {
+    "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
+    "id": "agentcost-ai/agentcost-dashboard",
+    "language": "TypeScript",
+    "name": "agentcost-ai/agentcost-dashboard",
+    "stars": 2,
+    "updated_at": "2026-09-05T18:32:20Z",
+    "url": "https://github.com/agentcost-ai/agentcost-dashboard"
+  },
+  {
+    "description": "FastAPI backend for AgentCost: LLM event ingestion, cost attribution, budgets and analytics.",
+    "id": "agentcost-ai/agentcost-backend",
+    "language": "Python",
+    "name": "agentcost-ai/agentcost-backend",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:32:15Z",
+    "url": "https://github.com/agentcost-ai/agentcost-backend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
     "id": "48Nauts-Operator/NautGate",
     "language": "Python",
@@ -9,15 +99,6 @@
     "url": "https://github.com/48Nauts-Operator/NautGate"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-05T18:29:38Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -25,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-09-05T18:27:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58105,
-    "updated_at": "2026-09-05T18:29:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -49,18 +121,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5387,
+    "stars": 5388,
     "updated_at": "2026-09-05T18:18:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -70,24 +133,6 @@
     "stars": 214,
     "updated_at": "2026-09-05T18:09:13Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-05T18:24:45Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
-    "id": "Machbub/hermes-aux-autoheal",
-    "language": "Python",
-    "name": "Machbub/hermes-aux-autoheal",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:09:25Z",
-    "url": "https://github.com/Machbub/hermes-aux-autoheal"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 83,
-    "updated_at": "2026-09-05T18:25:56Z",
+    "updated_at": "2026-09-05T18:39:55Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-05T17:56:39Z",
+    "updated_at": "2026-09-05T18:41:48Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -157,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7816,
+    "stars": 7817,
     "updated_at": "2026-09-05T17:44:49Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T17:33:58Z",
+    "updated_at": "2026-09-05T18:45:14Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T17:14:45Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-05T18:28:09Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -391,7 +427,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30065,
+    "stars": 30066,
     "updated_at": "2026-09-05T15:03:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T14:45:52Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:28:58Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-09-05T14:19:33Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 15,
-    "updated_at": "2026-09-05T14:06:42Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:57:54Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
   }
 ]
