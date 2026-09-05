@@ -5,16 +5,25 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-05T17:29:43Z",
+    "updated_at": "2026-09-05T17:37:23Z",
     "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:36:56Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58099,
-    "updated_at": "2026-09-05T17:27:33Z",
+    "stars": 58102,
+    "updated_at": "2026-09-05T17:37:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +32,26 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-05T17:30:01Z",
+    "updated_at": "2026-09-05T17:33:58Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Keep Hermes Agent's auxiliary task routes pointed at models that answer \u2014 health probes, hysteresis, and a config writer",
+    "id": "Machbub/hermes-aux-autoheal",
+    "language": "Python",
+    "name": "Machbub/hermes-aux-autoheal",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:38:09Z",
+    "url": "https://github.com/Machbub/hermes-aux-autoheal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -54,15 +81,6 @@
     "url": "https://github.com/aktasbatuhan/compound"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -77,7 +95,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-05T17:23:00Z",
+    "updated_at": "2026-09-05T17:35:25Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/TheusHen/eleanity"
   },
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:00:43Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -130,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5379,
+    "stars": 5381,
     "updated_at": "2026-09-05T16:53:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:33:17Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:29:19Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
