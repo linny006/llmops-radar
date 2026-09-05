@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
+    "id": "intelligent-iterations/ii-llm-lab",
+    "language": "TypeScript",
+    "name": "intelligent-iterations/ii-llm-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:14:26Z",
+    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
+  },
+  {
+    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
+    "id": "memoturn/memoturn",
+    "language": "TypeScript",
+    "name": "memoturn/memoturn",
+    "stars": 1,
+    "updated_at": "2026-09-05T04:14:26Z",
+    "url": "https://github.com/memoturn/memoturn"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-05T04:13:49Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-05T04:05:38Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T04:02:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58063,
-    "updated_at": "2026-09-05T03:57:54Z",
+    "updated_at": "2026-09-05T04:15:11Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source AI engineering platform \u2014 LLM observability, evals, metrics, prompt management, playground, and datasets. Op",
-    "id": "memoturn/memoturn",
-    "language": "TypeScript",
-    "name": "memoturn/memoturn",
-    "stars": 1,
-    "updated_at": "2026-09-05T03:56:58Z",
-    "url": "https://github.com/memoturn/memoturn"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -43,33 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T03:50:22Z",
     "url": "https://github.com/aroraneel/AI-Engineer"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-05T03:46:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
-    "id": "intelligent-iterations/ii-llm-lab",
-    "language": "TypeScript",
-    "name": "intelligent-iterations/ii-llm-lab",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:56:48Z",
-    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -95,7 +113,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-05T03:53:03Z",
+    "updated_at": "2026-09-05T04:12:58Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 76,
     "updated_at": "2026-09-05T02:54:45Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-05T02:56:27Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "nRouter SDK \u2014 one API key for models across six provider clouds (Alibaba US, OpenAI, AWS Bedrock, Azure Foundry, Google ",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1930,
-    "updated_at": "2026-09-05T01:39:51Z",
+    "updated_at": "2026-09-05T04:12:24Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T23:35:51Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:32:30Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
