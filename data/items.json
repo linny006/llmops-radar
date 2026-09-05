@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 36,
+    "updated_at": "2026-09-05T17:59:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
+    "id": "NabiBukhsh-AI/prag-platform",
+    "language": "Python",
+    "name": "NabiBukhsh-AI/prag-platform",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:58:37Z",
+    "url": "https://github.com/NabiBukhsh-AI/prag-platform"
+  },
+  {
+    "description": "Six repeatable failure scenarios for comparing how tool-using agents handle timeouts, rate limits, approvals, and restar",
+    "id": "SCUliujiacheng/agent-reliability-lab",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:57:25Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
+  },
+  {
+    "description": "\u4e2d\u6587\u7248\uff5c\u7528 6 \u4e2a\u56fa\u5b9a\u6545\u969c\u573a\u666f\uff0c\u6bd4\u8f83 Agent \u5728\u8d85\u65f6\u3001\u9650\u6d41\u3001\u5ba1\u6279\u548c\u91cd\u542f\u540e\u7684\u884c\u4e3a\u3002",
+    "id": "SCUliujiacheng/agent-reliability-lab-zh",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab-zh",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:57:24Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:56:39Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-05T17:45:15Z",
+    "updated_at": "2026-09-05T17:55:07Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58104,
+    "updated_at": "2026-09-05T17:52:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7816,
+    "updated_at": "2026-09-05T17:44:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -18,24 +90,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:39:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58103,
-    "updated_at": "2026-09-05T17:43:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "An LLM gateway that can prove what happened.",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T17:37:23Z",
     "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:36:56Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T17:38:09Z",
     "url": "https://github.com/Machbub/hermes-aux-autoheal"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-05T17:23:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
@@ -104,7 +140,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-05T17:35:25Z",
+    "updated_at": "2026-09-05T17:51:43Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -139,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5383,
+    "stars": 5384,
     "updated_at": "2026-09-05T16:53:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -207,6 +243,15 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11339,
+    "updated_at": "2026-09-05T16:24:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Memory-aware LLM gateway \u2014 route Claude Code, Codex and Pi to any model (or a local one) and prove which model actually ",
     "id": "48Nauts-Operator/NautGate",
     "language": "Python",
@@ -214,24 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T16:13:33Z",
     "url": "https://github.com/48Nauts-Operator/NautGate"
-  },
-  {
-    "description": "Evidence-driven reliability lab for tool-using AI agents: retries, approvals, durable state, traces, and auditable evalu",
-    "id": "SCUliujiacheng/agent-reliability-lab",
-    "language": "Python",
-    "name": "SCUliujiacheng/agent-reliability-lab",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:11:33Z",
-    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
-  },
-  {
-    "description": "\u4e2d\u6587\u7248\uff5c\u5de5\u5177\u578b AI Agent \u53ef\u9760\u6027\u5b9e\u9a8c\u5ba4\uff1a\u91cd\u8bd5\u3001\u5ba1\u6279\u3001\u53ef\u6062\u590d\u72b6\u6001\u673a\u4e0e\u53ef\u5ba1\u8ba1\u8bc4\u6d4b",
-    "id": "SCUliujiacheng/agent-reliability-lab-zh",
-    "language": "Python",
-    "name": "SCUliujiacheng/agent-reliability-lab-zh",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:11:31Z",
-    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-05T17:17:02Z",
+    "updated_at": "2026-09-05T17:57:44Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -328,7 +355,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30063,
+    "stars": 30065,
     "updated_at": "2026-09-05T15:03:54Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-05T14:36:42Z",
+    "updated_at": "2026-09-05T17:54:39Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:47:25Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:47:33Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:28:32Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:33:17Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   }
 ]
