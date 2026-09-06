@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T01:25:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58121,
-    "updated_at": "2026-09-06T01:12:58Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-06T01:20:34Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T01:10:53Z",
+    "updated_at": "2026-09-06T01:15:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T01:04:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58121,
+    "updated_at": "2026-09-06T01:28:42Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -72,15 +81,6 @@
     "url": "https://github.com/kogunlowo123/enterprise-agent-platform"
   },
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:41:57Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "An LLM gateway that can prove what happened.",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -113,7 +113,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-06T00:30:40Z",
+    "updated_at": "2026-09-06T01:20:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-06T01:08:38Z",
+    "updated_at": "2026-09-06T01:21:36Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -283,7 +283,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34236,
+    "stars": 34237,
     "updated_at": "2026-09-05T21:48:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -292,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21814,
+    "stars": 21815,
     "updated_at": "2026-09-05T21:47:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
