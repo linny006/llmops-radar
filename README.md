@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 01:00 UTC
+> ⏰ Last updated: 2026-09-06 01:10 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58120 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 3 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
-| 4 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
-| 5 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
-| 7 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 5 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
+| 6 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
+| 7 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 8 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
 | 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-06 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 10 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-06 | An LLM gateway that can prove what happened. |
 | 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-06 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-09-05 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 30 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-05 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
 | 31 | [AshwinUgale/tracelint](https://github.com/AshwinUgale/tracelint) | 7 | Python | 2026-09-05 | A deterministic linter for agent runs — reads the execution trace and flags structural bugs (ignored errors, schema viol |
-| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34235 | TypeScript | 2026-09-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34236 | TypeScript | 2026-09-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
 | 33 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21814 | Python | 2026-09-05 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 34 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 295 | Python | 2026-09-05 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
 | 35 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-05 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
