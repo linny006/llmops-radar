@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:31:11Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T18:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
@@ -16,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-09-06T18:25:47Z",
     "url": "https://github.com/kogunlowo123/enterprise-agent-platform"
+  },
+  {
+    "description": "Cost-aware RAG service on Cloud Run: FastAPI + Chroma + OpenAI, with a 128-case eval gate in CI, content-addressed promp",
+    "id": "ravisinghrajput95/llmops-rag-api",
+    "language": "Python",
+    "name": "ravisinghrajput95/llmops-rag-api",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:24:22Z",
+    "url": "https://github.com/ravisinghrajput95/llmops-rag-api"
   },
   {
     "description": "Agentic Runtime",
@@ -43,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T18:16:03Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T18:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-06T15:04:44Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-06T14:01:52Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:59:20Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
