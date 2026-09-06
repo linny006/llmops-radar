@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T09:14:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5455,
+    "updated_at": "2026-09-06T09:29:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -14,8 +14,26 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T09:14:04Z",
+    "updated_at": "2026-09-06T09:27:27Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T09:19:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T09:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27826,
-    "updated_at": "2026-09-06T09:09:22Z",
+    "updated_at": "2026-09-06T09:27:16Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 80,
     "updated_at": "2026-09-06T09:00:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T09:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Meridian Claims: a real multi-agent health-insurance claims-adjudication system (CrewAI + MCP + Langfuse) demonstrating ",
@@ -94,7 +103,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2762,
+    "stars": 2763,
     "updated_at": "2026-09-06T08:52:52Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58136,
-    "updated_at": "2026-09-06T09:14:38Z",
+    "updated_at": "2026-09-06T09:26:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1940,
-    "updated_at": "2026-09-06T07:43:15Z",
+    "updated_at": "2026-09-06T09:20:22Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -248,17 +257,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T09:12:02Z",
+    "updated_at": "2026-09-06T09:23:07Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5454,
-    "updated_at": "2026-09-06T07:33:54Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
