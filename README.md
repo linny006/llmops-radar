@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 13:44 UTC
+> ⏰ Last updated: 2026-09-06 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-06 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
-| 3 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-06 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 4 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-06 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
-| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
-| 6 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-09-06 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27830 | Python | 2026-09-06 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 9 | [Fortitude-Group/OmnisRouter](https://github.com/Fortitude-Group/OmnisRouter) | 0 | C# | 2026-09-06 | Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-06 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 3 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
+| 4 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-06 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
+| 5 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-06 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
+| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-09-06 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27830 | Python | 2026-09-06 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 10 | [Fortitude-Group/OmnisRouter](https://github.com/Fortitude-Group/OmnisRouter) | 0 | C# | 2026-09-06 | Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi |
 | 11 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-06 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
 | 12 | [leesugwan-dot/cost-doctor-github-app](https://github.com/leesugwan-dot/cost-doctor-github-app) | 1 | Python | 2026-09-06 | Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou |
 | 13 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 3 | Python | 2026-09-06 | Drop-in LLM proxy that cuts input tokens 30–70% (54.1% measured, quality-gated) across 27 transparent optimisations — ca |
