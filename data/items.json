@@ -1,21 +1,66 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58135,
-    "updated_at": "2026-09-06T08:43:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-06T08:42:26Z",
+    "updated_at": "2026-09-06T08:58:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Meridian Claims: a real multi-agent health-insurance claims-adjudication system (CrewAI + MCP + Langfuse) demonstrating ",
+    "id": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
+    "language": "HTML",
+    "name": "ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo",
+    "stars": 2,
+    "updated_at": "2026-09-06T08:57:24Z",
+    "url": "https://github.com/ashishpatel26/CNCF-LLM-Observability-Multi-Agent-Demo"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:55:29Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
+    "id": "routeplane-core/routeplane-ce",
+    "language": "Rust",
+    "name": "routeplane-core/routeplane-ce",
+    "stars": 7,
+    "updated_at": "2026-09-06T08:55:01Z",
+    "url": "https://github.com/routeplane-core/routeplane-ce"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2762,
+    "updated_at": "2026-09-06T08:52:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58136,
+    "updated_at": "2026-09-06T08:59:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T08:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "muhammadwaqar12/tokenprof",
     "stars": 0,
-    "updated_at": "2026-09-06T08:33:41Z",
+    "updated_at": "2026-09-06T08:56:34Z",
     "url": "https://github.com/muhammadwaqar12/tokenprof"
   },
   {
@@ -41,26 +86,8 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T08:43:29Z",
+    "updated_at": "2026-09-06T08:59:48Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T08:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2761,
-    "updated_at": "2026-09-06T08:29:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T08:44:21Z",
+    "updated_at": "2026-09-06T09:00:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -202,18 +229,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5451,
+    "stars": 5452,
     "updated_at": "2026-09-06T07:33:54Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:28:56Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -274,7 +292,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24851,
+    "stars": 24852,
     "updated_at": "2026-09-06T06:37:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-06T08:13:46Z",
+    "updated_at": "2026-09-06T08:49:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T04:55:37Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
-    "id": "dcondrey/misterdev",
-    "language": "Python",
-    "name": "dcondrey/misterdev",
-    "stars": 3,
-    "updated_at": "2026-09-06T04:42:45Z",
-    "url": "https://github.com/dcondrey/misterdev"
-  },
-  {
-    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 22 tracks, 300+ modules, live visualizat",
-    "id": "genieincodebottle/aiml-companion",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/aiml-companion",
-    "stars": 69,
-    "updated_at": "2026-09-06T04:38:20Z",
-    "url": "https://github.com/genieincodebottle/aiml-companion"
   }
 ]
