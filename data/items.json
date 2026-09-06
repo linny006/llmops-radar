@@ -1,5 +1,86 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T10:45:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-06T10:44:38Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27827,
+    "updated_at": "2026-09-06T10:44:30Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-06T10:44:13Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-06T10:43:07Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-06T10:42:38Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T10:40:09Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58143,
+    "updated_at": "2026-09-06T10:36:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T10:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "sumitdevgupto/TokenLean",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T10:25:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Cycles budget and action guard for OpenClaw agents",
     "id": "runcycles/cycles-openclaw-budget-guard",
     "language": "TypeScript",
@@ -43,24 +115,6 @@
     "stars": 7,
     "updated_at": "2026-09-06T10:23:12Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T10:22:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58142,
-    "updated_at": "2026-09-06T10:30:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -94,7 +148,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5460,
+    "stars": 5461,
     "updated_at": "2026-09-06T10:07:05Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3229,
-    "updated_at": "2026-09-06T10:29:03Z",
+    "updated_at": "2026-09-06T10:37:05Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -131,17 +185,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T10:16:45Z",
+    "updated_at": "2026-09-06T10:42:46Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:28:38Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Rechecks a completion claim against the repository itself and holds the workflow when the required proof is missing.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/OnourImpram/mergen"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-06T09:53:34Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -169,15 +205,6 @@
     "stars": 84,
     "updated_at": "2026-09-06T10:12:31Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27827,
-    "updated_at": "2026-09-06T09:56:46Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:59:45Z",
     "url": "https://github.com/Clawdlinux/clawdlinux-website"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:53:20Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:39:39Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-09-06T09:54:26Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   }
 ]
