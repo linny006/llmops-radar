@@ -1,5 +1,86 @@
 [
   {
+    "description": "The reliability layer that makes an LLM pipeline safe to invoice on: 7 deterministic detectors catch confident ASR hallu",
+    "id": "Guillain-RDCDE/Trusted-Transcription",
+    "language": "Python",
+    "name": "Guillain-RDCDE/Trusted-Transcription",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:26:57Z",
+    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:26:28Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 54,
+    "updated_at": "2026-09-06T14:26:13Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:22:06Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-06T14:21:18Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Shell",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:21:52Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T14:21:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27831,
+    "updated_at": "2026-09-06T14:17:59Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T14:11:15Z",
+    "updated_at": "2026-09-06T14:29:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58149,
-    "updated_at": "2026-09-06T14:14:49Z",
+    "updated_at": "2026-09-06T14:21:38Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T14:03:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -54,15 +126,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T13:59:20Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:13:51Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -153,15 +207,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27831,
-    "updated_at": "2026-09-06T13:32:41Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -189,15 +234,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-06T13:19:08Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
     "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
     "id": "routeplane-core/routeplane-ce",
     "language": "Rust",
@@ -216,15 +252,6 @@
     "url": "https://github.com/alymo8/safi-ai"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Shell",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:09:56Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
     "id": "Life-Experimentalist/CogniGate",
     "language": "Go",
@@ -232,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-09-06T13:03:05Z",
     "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "LLM API caching middleware that combines exact-match, semantic, and upstream prefix-cache accounting for OpenAI-compatib",
+    "id": "sscodeai/fusion-cache",
+    "language": "Python",
+    "name": "sscodeai/fusion-cache",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:00:38Z",
+    "url": "https://github.com/sscodeai/fusion-cache"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -283,7 +319,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5473,
+    "stars": 5476,
     "updated_at": "2026-09-06T12:26:17Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:04:14Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:02:40Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:01:06Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-06T10:59:17Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-06T10:58:33Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
