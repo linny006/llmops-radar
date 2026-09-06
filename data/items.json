@@ -1,5 +1,41 @@
 [
   {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-06T10:28:51Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-06T10:27:53Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-06T10:27:13Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T10:25:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Cycles budget and action guard for OpenClaw agents",
     "id": "runcycles/cycles-openclaw-budget-guard",
     "language": "TypeScript",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58142,
-    "updated_at": "2026-09-06T10:25:02Z",
+    "updated_at": "2026-09-06T10:30:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T10:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -67,7 +94,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5458,
+    "stars": 5460,
     "updated_at": "2026-09-06T10:07:05Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3229,
-    "updated_at": "2026-09-06T10:10:49Z",
+    "updated_at": "2026-09-06T10:29:03Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T10:17:03Z",
+    "updated_at": "2026-09-06T10:28:38Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-06T09:44:17Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -178,6 +196,15 @@
     "stars": 8,
     "updated_at": "2026-09-06T09:41:29Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Retrieve, act and ship: hybrid-retrieval RAG with a RAGAS-style evaluation harness, a LangGraph agent with layered guard",
+    "id": "ChuanHe-PhD/genai-platform-lab",
+    "language": "Python",
+    "name": "ChuanHe-PhD/genai-platform-lab",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:16:17Z",
+    "url": "https://github.com/ChuanHe-PhD/genai-platform-lab"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -351,15 +378,6 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-06T07:38:53Z",
-    "url": "https://github.com/laputski/causa-rag"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-06T09:54:26Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:28:35Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:19:36Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
   }
 ]
