@@ -1,12 +1,75 @@
 [
   {
+    "description": "Actively red-team an LLM app for prompt injection: fire a curated OWASP-LLM01 payload battery at a live target (Python c",
+    "id": "jay-tank/hexprobe",
+    "language": "Python",
+    "name": "jay-tank/hexprobe",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:14:56Z",
+    "url": "https://github.com/jay-tank/hexprobe"
+  },
+  {
     "description": "Profile what is consuming your LLM context window, per turn, per tool",
     "id": "muhammadwaqar12/tokenprof",
     "language": "Python",
     "name": "muhammadwaqar12/tokenprof",
     "stars": 0,
-    "updated_at": "2026-09-06T07:56:55Z",
+    "updated_at": "2026-09-06T08:13:32Z",
     "url": "https://github.com/muhammadwaqar12/tokenprof"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T08:12:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-06T08:12:33Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:11:33Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27825,
+    "updated_at": "2026-09-06T08:11:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Dependency-free evaluation harness for support LLM answers, citations, and escalations",
+    "id": "tinyopsstudio/support-llm-evaluation-harness",
+    "language": "Python",
+    "name": "tinyopsstudio/support-llm-evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:05:03Z",
+    "url": "https://github.com/tinyopsstudio/support-llm-evaluation-harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T08:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -18,21 +81,12 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Actively red-team an LLM app for prompt injection: fire a curated OWASP-LLM01 payload battery at a live target (Python c",
-    "id": "jay-tank/hexprobe",
-    "language": "Python",
-    "name": "jay-tank/hexprobe",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:54:10Z",
-    "url": "https://github.com/jay-tank/hexprobe"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58134,
-    "updated_at": "2026-09-06T08:00:21Z",
+    "updated_at": "2026-09-06T08:14:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T07:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T07:38:53Z",
     "url": "https://github.com/laputski/causa-rag"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T08:00:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T07:59:37Z",
+    "updated_at": "2026-09-06T08:10:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -139,18 +175,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5447,
+    "stars": 5448,
     "updated_at": "2026-09-06T07:33:54Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:30:56Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -189,24 +216,6 @@
     "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-06T07:03:01Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27825,
-    "updated_at": "2026-09-06T07:00:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
     "id": "Clawdlinux/clawdlinux-website",
     "language": "JavaScript",
@@ -238,7 +247,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24848,
+    "stars": 24849,
     "updated_at": "2026-09-06T06:37:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-06T07:00:57Z",
+    "updated_at": "2026-09-06T08:13:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:22:58Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:17:03Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
