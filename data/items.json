@@ -1,5 +1,50 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3523,
+    "updated_at": "2026-09-06T16:00:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:55:38Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-09-06T15:55:01Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:59:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -13,7 +58,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58150,
+    "stars": 58152,
     "updated_at": "2026-09-06T15:43:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,15 +117,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-06T15:43:41Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
@@ -88,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T15:31:39Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:40:38Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 511,
-    "updated_at": "2026-09-06T15:07:57Z",
+    "updated_at": "2026-09-06T15:53:06Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -130,7 +148,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5479,
+    "stars": 5480,
     "updated_at": "2026-09-06T15:02:56Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-06T14:50:50Z",
+    "updated_at": "2026-09-06T15:53:17Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "hyeonsangjeon/when-reasoning-pays-off",
     "stars": 4,
-    "updated_at": "2026-09-06T13:47:16Z",
+    "updated_at": "2026-09-06T15:47:36Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3230,
     "updated_at": "2026-09-06T15:29:46Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:46:25Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:33:04Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
   }
 ]
