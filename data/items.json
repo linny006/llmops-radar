@@ -1,11 +1,47 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T02:43:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-06T02:43:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Long-session handoff for Hermes Agent: measure how close a chat is to the token limit that ends it, export the whole ses",
+    "id": "IRDcode/hermes-agent-session-handoff",
+    "language": "Python",
+    "name": "IRDcode/hermes-agent-session-handoff",
+    "stars": 0,
+    "updated_at": "2026-09-06T02:40:40Z",
+    "url": "https://github.com/IRDcode/hermes-agent-session-handoff"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T02:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58121,
-    "updated_at": "2026-09-06T02:24:02Z",
+    "updated_at": "2026-09-06T02:42:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -16,24 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T02:22:44Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T02:16:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T02:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
@@ -189,15 +207,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T23:40:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-06T02:28:30Z",
+    "updated_at": "2026-09-06T02:39:47Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -241,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-09-05T23:10:44Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11341,
+    "updated_at": "2026-09-05T23:01:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34237,
-    "updated_at": "2026-09-05T21:48:15Z",
+    "updated_at": "2026-09-06T02:39:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -319,7 +337,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21815,
+    "stars": 21816,
     "updated_at": "2026-09-05T21:47:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:15:52Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:15:40Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8535,
-    "updated_at": "2026-09-05T21:14:08Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
