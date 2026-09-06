@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58118,
+    "updated_at": "2026-09-06T00:15:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-06T00:14:14Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "An LLM gateway that can prove what happened.",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:11:15Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
     "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
     "name": "lordbasilaiassistant-sudo/company-bench",
     "stars": 3,
-    "updated_at": "2026-09-06T00:00:19Z",
+    "updated_at": "2026-09-06T00:07:24Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-06T00:08:22Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:12:22Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -18,24 +72,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:00:12Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58119,
-    "updated_at": "2026-09-05T23:59:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -43,15 +79,6 @@
     "stars": 8,
     "updated_at": "2026-09-05T23:45:37Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T23:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -86,17 +113,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-05T23:46:16Z",
+    "updated_at": "2026-09-06T00:12:09Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-05T23:31:28Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T23:10:44Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "An LLM gateway that can prove what happened.",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-05T23:02:03Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -169,15 +178,6 @@
     "stars": 547,
     "updated_at": "2026-09-05T22:35:26Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-05T23:55:37Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "One OpenAI-compatible endpoint in front of all your GPU boxes \u2014 health-aware routing, admission control, metering. No pr",
@@ -229,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34237,
+    "stars": 34236,
     "updated_at": "2026-09-05T21:48:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
