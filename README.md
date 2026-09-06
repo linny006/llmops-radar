@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 02:15 UTC
+> ⏰ Last updated: 2026-09-06 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [leesugwan-dot/cost-doctor-github-app](https://github.com/leesugwan-dot/cost-doctor-github-app) | 1 | JavaScript | 2026-09-06 | Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
-| 3 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-09-06 | Enterprise AI Router and Governance System — the AI that governs all AIs |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-06 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-09-06 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-06 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 5 | [leesugwan-dot/cost-doctor-github-app](https://github.com/leesugwan-dot/cost-doctor-github-app) | 1 | JavaScript | 2026-09-06 | Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou |
+| 6 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-09-06 | Enterprise AI Router and Governance System — the AI that governs all AIs |
+| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 8 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-09-06 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
 | 9 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
 | 10 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
 | 11 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
