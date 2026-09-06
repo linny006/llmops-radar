@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:28:56Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 13,
+    "updated_at": "2026-09-06T07:42:21Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:38:53Z",
+    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +23,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-06T07:26:30Z",
+    "updated_at": "2026-09-06T07:36:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Profile what is consuming your LLM context window, per turn, per tool",
+    "id": "muhammadwaqar12/tokenprof",
+    "language": "Python",
+    "name": "muhammadwaqar12/tokenprof",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:36:05Z",
+    "url": "https://github.com/muhammadwaqar12/tokenprof"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:34:26Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1940,
+    "updated_at": "2026-09-06T07:43:15Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3523,
+    "updated_at": "2026-09-06T07:41:26Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5444,
+    "updated_at": "2026-09-06T07:33:54Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:30:56Z",
+    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T07:15:25Z",
+    "updated_at": "2026-09-06T07:30:22Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:28:56Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58133,
-    "updated_at": "2026-09-06T07:29:31Z",
+    "updated_at": "2026-09-06T07:43:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -76,7 +148,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27824,
+    "stars": 27825,
     "updated_at": "2026-09-06T07:00:13Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -153,15 +225,6 @@
     "url": "https://github.com/runcycles/cycles-dashboard"
   },
   {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-06T06:12:20Z",
-    "url": "https://github.com/laputski/causa-rag"
-  },
-  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -205,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:01:31Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5443,
-    "updated_at": "2026-09-06T06:00:47Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-06T07:25:39Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
@@ -320,7 +365,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T07:29:16Z",
+    "updated_at": "2026-09-06T07:38:46Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 547,
     "updated_at": "2026-09-06T04:15:16Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:15:06Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-06T04:13:24Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:11:34Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:08:06Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:07:57Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
