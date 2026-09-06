@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 01:45 UTC
+> ⏰ Last updated: 2026-09-06 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-09-06 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-06 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 6 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 7 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
-| 8 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
-| 9 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 10 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
-| 11 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-06 | An LLM gateway that can prove what happened. |
-| 12 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-06 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 13 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 3 | JavaScript | 2026-09-06 | Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab |
-| 14 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 1 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-06 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [runcycles/cycles-server-events](https://github.com/runcycles/cycles-server-events) | 1 | Java | 2026-09-06 | Signed webhook/event delivery for Cycles — retries, HMAC, replay, audit, governance events |
+| 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-06 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 7 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 8 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
+| 9 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
+| 10 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 11 | [kogunlowo123/enterprise-agent-platform](https://github.com/kogunlowo123/enterprise-agent-platform) | 0 | Python | 2026-09-06 | Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi |
+| 12 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-06 | An LLM gateway that can prove what happened. |
+| 13 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-06 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 14 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 3 | JavaScript | 2026-09-06 | Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab |
 | 15 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-06 | ThakiCloud Tech Blog |
 | 16 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 5 | Python | 2026-09-06 | Production harness and control plane for accountable AI-assisted software delivery |
 | 17 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27821 | Python | 2026-09-06 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-09-05 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
 | 46 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-09-05 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
 | 47 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-09-05 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 48 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8534 | Rust | 2026-09-05 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 48 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8535 | Rust | 2026-09-05 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 49 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-09-05 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
 | 50 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-09-05 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
 <!-- TRACKER_TABLE_END -->
