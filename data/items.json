@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T17:59:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:00:16Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi",
+    "id": "kogunlowo123/enterprise-agent-platform",
+    "language": "Python",
+    "name": "kogunlowo123/enterprise-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:53:12Z",
+    "url": "https://github.com/kogunlowo123/enterprise-agent-platform"
+  },
+  {
+    "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
+    "id": "ArttuAn/ai-gateway",
+    "language": "Shell",
+    "name": "ArttuAn/ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:53:06Z",
+    "url": "https://github.com/ArttuAn/ai-gateway"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
+    "id": "Life-Experimentalist/CogniGate",
+    "language": "Go",
+    "name": "Life-Experimentalist/CogniGate",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:47:45Z",
+    "url": "https://github.com/Life-Experimentalist/CogniGate"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 84,
+    "updated_at": "2026-09-06T17:46:35Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:56:36Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T17:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -27,49 +99,13 @@
     "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 84,
-    "updated_at": "2026-09-06T17:41:23Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T17:40:02Z",
+    "updated_at": "2026-09-06T17:55:00Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:36:35Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T17:31:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T17:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -79,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-06T17:29:46Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:41:28Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 126,
-    "updated_at": "2026-09-06T17:37:48Z",
+    "updated_at": "2026-09-06T17:55:20Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -162,15 +189,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
-    "id": "ArttuAn/ai-gateway",
-    "language": "Shell",
-    "name": "ArttuAn/ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:44:50Z",
-    "url": "https://github.com/ArttuAn/ai-gateway"
-  },
-  {
     "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
     "id": "latere-ai/llmops",
     "language": "Go",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58156,
-    "updated_at": "2026-09-06T17:14:54Z",
+    "updated_at": "2026-09-06T17:54:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "samarthputhraya/Modelpin",
     "stars": 1,
-    "updated_at": "2026-09-06T16:08:18Z",
+    "updated_at": "2026-09-06T17:55:41Z",
     "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 512,
-    "updated_at": "2026-09-06T17:37:03Z",
+    "updated_at": "2026-09-06T17:48:47Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -292,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24861,
+    "stars": 24862,
     "updated_at": "2026-09-06T15:33:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -310,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5490,
+    "stars": 5491,
     "updated_at": "2026-09-06T15:02:56Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T13:53:58Z",
     "url": "https://github.com/runcycles/cycles-openai-agents"
-  },
-  {
-    "description": "When reasoning pays off: chart-backed guidance for reasoning effort, cost, latency, and capacity planning.",
-    "id": "hyeonsangjeon/when-reasoning-pays-off",
-    "language": "Python",
-    "name": "hyeonsangjeon/when-reasoning-pays-off",
-    "stars": 4,
-    "updated_at": "2026-09-06T15:47:36Z",
-    "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 5,
-    "updated_at": "2026-09-06T13:45:47Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
   }
 ]
