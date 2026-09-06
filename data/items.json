@@ -1,21 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58118,
-    "updated_at": "2026-09-06T00:15:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-06T00:14:14Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:27:34Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
     "description": "An LLM gateway that can prove what happened.",
@@ -23,17 +14,44 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-06T00:11:15Z",
+    "updated_at": "2026-09-06T00:25:24Z",
     "url": "https://github.com/Grace/switchboard"
   },
   {
-    "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
-    "id": "lordbasilaiassistant-sudo/company-bench",
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
-    "name": "lordbasilaiassistant-sudo/company-bench",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:07:24Z",
-    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-06T00:24:12Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-06T00:21:28Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58118,
+    "updated_at": "2026-09-06T00:28:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-06T00:29:04Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -41,8 +59,26 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-09-06T00:08:22Z",
+    "updated_at": "2026-09-06T00:16:27Z",
     "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27821,
+    "updated_at": "2026-09-06T00:15:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T00:12:22Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-06T00:12:09Z",
+    "updated_at": "2026-09-06T00:29:39Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-05T23:22:15Z",
+    "updated_at": "2026-09-06T00:18:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-05T22:03:42Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -229,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34236,
+    "stars": 34235,
     "updated_at": "2026-09-05T21:48:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:02:28Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:01:42Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:01:24Z",
-    "url": "https://github.com/rsaudio/second-brain"
   }
 ]
