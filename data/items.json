@@ -1,12 +1,57 @@
 [
   {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:27:22Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:25:29Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:25:29Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T03:20:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58123,
-    "updated_at": "2026-09-06T03:08:04Z",
+    "stars": 58124,
+    "updated_at": "2026-09-06T03:29:31Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T03:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/acornops/docs-website"
   },
   {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:04:59Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
     "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
     "id": "acornops/execution-engine",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T03:04:59Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:04:59Z",
-    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
@@ -81,15 +108,6 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T03:04:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
     "id": "afaryy/cloudai-platform",
     "language": "TypeScript",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T03:01:10Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T03:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -142,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-09-06T02:59:38Z",
     "url": "https://github.com/IRDcode/hermes-agent-session-handoff"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34238,
+    "updated_at": "2026-09-06T02:39:11Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -178,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-09-06T01:35:28Z",
     "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1937,
+    "updated_at": "2026-09-06T01:24:57Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -265,9 +292,18 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27821,
+    "stars": 27822,
     "updated_at": "2026-09-06T00:15:33Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30073,
+    "updated_at": "2026-09-06T00:06:22Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-06T03:07:29Z",
+    "updated_at": "2026-09-06T03:17:16Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -365,7 +401,7 @@
     "language": "JavaScript",
     "name": "Fast-Editor/Lynkr",
     "stars": 547,
-    "updated_at": "2026-09-05T22:35:26Z",
+    "updated_at": "2026-09-06T03:28:02Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34237,
-    "updated_at": "2026-09-06T02:39:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 21818,
     "updated_at": "2026-09-05T21:47:23Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 295,
-    "updated_at": "2026-09-05T21:33:39Z",
-    "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:29:44Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:25:52Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
