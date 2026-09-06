@@ -1,12 +1,21 @@
 [
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
+    "description": "Provider-neutral control plane for running LLM agents inside an enterprise: identity, governance, knowledge, model routi",
+    "id": "kogunlowo123/enterprise-agent-platform",
+    "language": "Python",
+    "name": "kogunlowo123/enterprise-agent-platform",
     "stars": 0,
-    "updated_at": "2026-09-06T20:46:24Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
+    "updated_at": "2026-09-06T20:58:15Z",
+    "url": "https://github.com/kogunlowo123/enterprise-agent-platform"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T20:56:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T20:45:23Z",
+    "updated_at": "2026-09-06T20:49:31Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T20:51:57Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-06T20:46:24Z",
+    "updated_at": "2026-09-06T20:56:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -41,17 +59,8 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-06T20:49:13Z",
+    "updated_at": "2026-09-06T20:55:09Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T20:37:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -131,7 +140,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-06T20:47:41Z",
+    "updated_at": "2026-09-06T20:53:19Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 515,
-    "updated_at": "2026-09-06T20:01:30Z",
+    "updated_at": "2026-09-06T20:59:32Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 85,
-    "updated_at": "2026-09-06T20:11:55Z",
+    "updated_at": "2026-09-06T20:53:21Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -211,7 +220,7 @@
     "id": "runcycles/cycles-server",
     "language": "Java",
     "name": "runcycles/cycles-server",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-09-06T19:36:15Z",
     "url": "https://github.com/runcycles/cycles-server"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:44:13Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:38:16Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
