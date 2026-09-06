@@ -1,11 +1,56 @@
 [
   {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 9,
+    "updated_at": "2026-09-06T05:54:18Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
+    "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
+    "id": "m0thermulia/promptgold",
+    "language": "Python",
+    "name": "m0thermulia/promptgold",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:51:30Z",
+    "url": "https://github.com/m0thermulia/promptgold"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 12,
+    "updated_at": "2026-09-06T05:47:51Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
+    "id": "Janlegenddry/LLMOpsGuide",
+    "language": "TypeScript",
+    "name": "Janlegenddry/LLMOpsGuide",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:45:45Z",
+    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T05:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-06T05:44:41Z",
+    "updated_at": "2026-09-06T05:55:27Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58129,
-    "updated_at": "2026-09-06T05:43:20Z",
+    "updated_at": "2026-09-06T05:53:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8536,
+    "updated_at": "2026-09-06T05:32:05Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agentic Runtime",
@@ -32,17 +86,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-06T05:32:34Z",
+    "updated_at": "2026-09-06T05:53:13Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -70,15 +115,6 @@
     "stars": 80,
     "updated_at": "2026-09-06T05:24:52Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
-    "id": "Janlegenddry/LLMOpsGuide",
-    "language": "CSS",
-    "name": "Janlegenddry/LLMOpsGuide",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:15:16Z",
-    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
   },
   {
     "description": "Async gateway unifying OpenAI, Anthropic, Gemini & Ollama behind one OpenAI-compatible API \u2014 with semantic caching, diff",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-09-06T05:40:32Z",
+    "updated_at": "2026-09-06T05:50:10Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T05:14:15Z",
+    "updated_at": "2026-09-06T05:53:37Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 69,
     "updated_at": "2026-09-06T04:38:20Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8536,
-    "updated_at": "2026-09-06T05:32:05Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-09-06T04:03:32Z",
+    "updated_at": "2026-09-06T05:55:18Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1938,
-    "updated_at": "2026-09-06T03:59:29Z",
+    "updated_at": "2026-09-06T05:45:31Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T03:52:41Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:52:31Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
-    "id": "solomon2773/nora",
-    "language": "TypeScript",
-    "name": "solomon2773/nora",
-    "stars": 50,
-    "updated_at": "2026-09-06T03:51:43Z",
-    "url": "https://github.com/solomon2773/nora"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-06T03:50:19Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
