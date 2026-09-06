@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
+    "id": "ArttuAn/ai-gateway",
+    "language": "Shell",
+    "name": "ArttuAn/ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:44:50Z",
+    "url": "https://github.com/ArttuAn/ai-gateway"
+  },
+  {
+    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
+    "id": "leesugwan-dot/cost-doctor-github-app",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "leesugwan-dot/cost-doctor-github-app",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:43:34Z",
+    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
     "stars": 3,
-    "updated_at": "2026-09-06T16:27:09Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-09-06T16:43:25Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
+    "id": "latere-ai/llmops",
+    "language": "Go",
+    "name": "latere-ai/llmops",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:43:24Z",
+    "url": "https://github.com/latere-ai/llmops"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:43:07Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:42:29Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T16:29:46Z",
+    "updated_at": "2026-09-06T16:45:00Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -23,8 +68,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-06T16:22:30Z",
+    "updated_at": "2026-09-06T16:32:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T16:21:25Z",
+    "updated_at": "2026-09-06T16:40:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-06T16:05:22Z",
+    "updated_at": "2026-09-06T16:36:49Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-06T15:36:42Z",
+    "updated_at": "2026-09-06T16:42:45Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -180,20 +234,11 @@
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
-    "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
-    "id": "ArttuAn/ai-gateway",
-    "language": "Shell",
-    "name": "ArttuAn/ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:10:57Z",
-    "url": "https://github.com/ArttuAn/ai-gateway"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5483,
+    "stars": 5486,
     "updated_at": "2026-09-06T15:02:56Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -279,15 +324,6 @@
     "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:09:05Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
     "id": "avikalpg/byok-relay",
     "language": "JavaScript",
@@ -297,15 +333,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:22:06Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T15:04:44Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-09-06T14:04:40Z",
-    "url": "https://github.com/latere-ai/llmops"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -342,15 +360,6 @@
     "url": "https://github.com/lisn0/tidal"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:55:42Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
     "id": "runcycles/cycles-openai-agents",
     "language": "Python",
@@ -367,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-09-06T15:47:36Z",
     "url": "https://github.com/hyeonsangjeon/when-reasoning-pays-off"
-  },
-  {
-    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
-    "id": "leesugwan-dot/cost-doctor-github-app",
-    "language": "Python",
-    "name": "leesugwan-dot/cost-doctor-github-app",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:46:13Z",
-    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
   },
   {
     "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
