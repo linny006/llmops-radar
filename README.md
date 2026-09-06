@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 01:10 UTC
+> ⏰ Last updated: 2026-09-06 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58121 | Python | 2026-09-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 37 | Go | 2026-09-06 | Agentic Runtime |
 | 4 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
 | 5 | [AAH20/ai-agent-reliability-resilience](https://github.com/AAH20/ai-agent-reliability-resilience) | 0 | Python | 2026-09-06 | AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience |
 | 6 | [afaryy/cloudai-platform](https://github.com/afaryy/cloudai-platform) | 1 | TypeScript | 2026-09-06 | A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti |
