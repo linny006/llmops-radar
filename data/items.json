@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
-    "id": "lordbasilaiassistant-sudo/company-bench",
-    "language": "JavaScript",
-    "name": "lordbasilaiassistant-sudo/company-bench",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:27:34Z",
-    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-06T00:41:57Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "An LLM gateway that can prove what happened.",
@@ -14,8 +14,62 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-06T00:25:24Z",
+    "updated_at": "2026-09-06T00:40:18Z",
     "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-06T00:37:54Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-06T00:34:06Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:33:42Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58119,
+    "updated_at": "2026-09-06T00:40:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-06T00:30:40Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -36,24 +90,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58118,
-    "updated_at": "2026-09-06T00:28:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:29:04Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 27821,
     "updated_at": "2026-09-06T00:15:33Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -140,17 +167,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 125,
-    "updated_at": "2026-09-06T00:29:39Z",
+    "updated_at": "2026-09-06T00:45:10Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-06T00:18:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T22:58:30Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-05T22:40:26Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:07:20Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:02:28Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
