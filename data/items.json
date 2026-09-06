@@ -1,5 +1,41 @@
 [
   {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-06T11:29:33Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-06T11:20:00Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T11:17:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T11:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:13:53Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T11:13:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:11:56Z",
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:11:23Z",
-    "url": "https://github.com/msanket9/stillsane"
   },
   {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:01:06Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:00:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -320,7 +329,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T11:15:26Z",
+    "updated_at": "2026-09-06T11:29:59Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T10:28:51Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-06T10:27:53Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -391,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5462,
+    "stars": 5464,
     "updated_at": "2026-09-06T10:07:05Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3229,
-    "updated_at": "2026-09-06T10:51:01Z",
+    "updated_at": "2026-09-06T11:26:44Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T11:12:55Z",
+    "updated_at": "2026-09-06T11:21:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
