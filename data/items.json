@@ -1,11 +1,47 @@
 [
   {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:08:53Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T23:04:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-06T23:02:38Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T23:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T23:00:04Z",
+    "updated_at": "2026-09-06T23:00:56Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-06T22:51:41Z",
+    "updated_at": "2026-09-06T23:13:30Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 127,
     "updated_at": "2026-09-06T22:49:41Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T22:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -108,15 +135,6 @@
     "url": "https://github.com/MPIsaac-Per/agentinfra-examples"
   },
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:09:38Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58169,
-    "updated_at": "2026-09-06T22:43:58Z",
+    "updated_at": "2026-09-06T23:07:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/routeplane-core/routeplane-ce"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T21:48:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A comprehensive 2026 AI-engineering guide \u2014 complete beginner to job-ready. 17 chapters in 7 parts covering LLM foundati",
     "id": "tonyx1998/modern-ai-guide",
     "language": "TypeScript",
@@ -184,7 +193,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34261,
+    "stars": 34262,
     "updated_at": "2026-09-06T21:43:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T21:21:41Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-06T22:53:09Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-06T22:53:19Z",
+    "updated_at": "2026-09-06T23:14:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
