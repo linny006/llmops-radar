@@ -1,12 +1,12 @@
 [
   {
-    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
-    "id": "renezander030/draftcat",
-    "language": "Go",
-    "name": "renezander030/draftcat",
-    "stars": 9,
-    "updated_at": "2026-09-06T05:54:18Z",
-    "url": "https://github.com/renezander030/draftcat"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5431,
+    "updated_at": "2026-09-06T05:59:48Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "m0thermulia/promptgold",
     "stars": 0,
-    "updated_at": "2026-09-06T05:51:30Z",
+    "updated_at": "2026-09-06T05:59:33Z",
     "url": "https://github.com/m0thermulia/promptgold"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3523,
+    "updated_at": "2026-09-06T05:59:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T05:56:51Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 9,
+    "updated_at": "2026-09-06T05:54:18Z",
+    "url": "https://github.com/renezander030/draftcat"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T05:45:45Z",
     "url": "https://github.com/Janlegenddry/LLMOpsGuide"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58129,
-    "updated_at": "2026-09-06T05:53:05Z",
+    "updated_at": "2026-09-06T05:59:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-06T05:24:52Z",
+    "updated_at": "2026-09-06T05:59:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T05:07:31Z",
     "url": "https://github.com/aAnmol2010/llm-gateway"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5431,
-    "updated_at": "2026-09-06T05:06:16Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T03:53:52Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:52:41Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
   }
 ]
