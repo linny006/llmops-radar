@@ -1,5 +1,113 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:13:56Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-06T19:12:28Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-06T19:11:55Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-09-06T19:08:07Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-06T19:06:39Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-06T19:06:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-06T19:03:42Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:02:30Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell.",
+    "id": "jochi2018/Soup",
+    "language": "Python",
+    "name": "jochi2018/Soup",
+    "stars": 146,
+    "updated_at": "2026-09-06T19:01:47Z",
+    "url": "https://github.com/jochi2018/Soup"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-06T19:01:39Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 1,
+    "updated_at": "2026-09-06T19:00:27Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T19:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58160,
-    "updated_at": "2026-09-06T18:57:54Z",
+    "updated_at": "2026-09-06T19:12:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -86,17 +194,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-06T18:58:25Z",
+    "updated_at": "2026-09-06T19:12:42Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:58:56Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -135,15 +234,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T18:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
     "id": "solomon2773/nora",
     "language": "TypeScript",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:44:13Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-06T18:40:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -297,15 +378,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/Modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/Modelpin",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:58:29Z",
-    "url": "https://github.com/samarthputhraya/Modelpin"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -342,24 +414,6 @@
     "url": "https://github.com/Life-Experimentalist/CogniGate"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 84,
-    "updated_at": "2026-09-06T18:35:34Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-06T18:14:42Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
     "id": "leesugwan-dot/cost-doctor-github-app",
     "language": "Python",
@@ -383,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 126,
-    "updated_at": "2026-09-06T18:01:15Z",
+    "updated_at": "2026-09-06T19:05:13Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T17:18:41Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:09:23Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:05:54Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:51:53Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:46:29Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:43:24Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21832,
-    "updated_at": "2026-09-06T16:36:47Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
