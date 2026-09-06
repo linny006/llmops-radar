@@ -1,12 +1,66 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27824,
+    "updated_at": "2026-09-06T07:00:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Clawdlinux website for AI agent governance, runtime controls, Agent Native Format, and offline-verifiable audit capabili",
+    "id": "Clawdlinux/clawdlinux-website",
+    "language": "JavaScript",
+    "name": "Clawdlinux/clawdlinux-website",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:59:45Z",
+    "url": "https://github.com/Clawdlinux/clawdlinux-website"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58131,
+    "updated_at": "2026-09-06T07:00:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-06T06:45:07Z",
+    "updated_at": "2026-09-06T06:59:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:53:20Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-06T06:53:16Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T06:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -36,15 +90,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T06:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -70,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:19:36Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27824,
-    "updated_at": "2026-09-06T06:31:41Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-09-06T06:13:11Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58129,
-    "updated_at": "2026-09-06T06:43:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
@@ -157,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5435,
+    "stars": 5439,
     "updated_at": "2026-09-06T06:00:47Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T06:45:03Z",
+    "updated_at": "2026-09-06T06:52:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Shell",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-06T06:44:04Z",
+    "updated_at": "2026-09-06T06:57:34Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:04:32Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:04:31Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Production failure modes for LLM agents: symptoms, reproductions, mitigations",
-    "id": "muhammadwaqar12/awesome-agent-failures",
-    "language": "\u2014",
-    "name": "muhammadwaqar12/awesome-agent-failures",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:03:49Z",
-    "url": "https://github.com/muhammadwaqar12/awesome-agent-failures"
   }
 ]
