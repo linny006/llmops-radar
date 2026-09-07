@@ -1,5 +1,68 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7855,
+    "updated_at": "2026-09-07T09:57:59Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-07T09:57:20Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
+    "id": "Tanisha-Katara/cacheeconomics",
+    "language": "Python",
+    "name": "Tanisha-Katara/cacheeconomics",
+    "stars": 7,
+    "updated_at": "2026-09-07T09:55:53Z",
+    "url": "https://github.com/Tanisha-Katara/cacheeconomics"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34286,
+    "updated_at": "2026-09-07T09:52:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58196,
+    "updated_at": "2026-09-07T09:59:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 31,
+    "updated_at": "2026-09-07T09:45:56Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T09:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -9,21 +72,12 @@
     "url": "https://github.com/umutkeltek/switchback"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34285,
-    "updated_at": "2026-09-07T09:43:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27841,
-    "updated_at": "2026-09-07T09:40:10Z",
+    "stars": 27842,
+    "updated_at": "2026-09-07T09:56:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1944,
-    "updated_at": "2026-09-07T09:41:08Z",
+    "updated_at": "2026-09-07T09:46:20Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7855,
-    "updated_at": "2026-09-07T09:45:19Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -72,15 +117,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T09:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -104,7 +140,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1329,
-    "updated_at": "2026-09-07T09:45:12Z",
+    "updated_at": "2026-09-07T09:59:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -117,29 +153,11 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 31,
-    "updated_at": "2026-09-07T09:42:13Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58196,
-    "updated_at": "2026-09-07T09:41:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24882,
+    "stars": 24883,
     "updated_at": "2026-09-07T09:21:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -216,15 +234,6 @@
     "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-07T08:58:19Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
     "id": "laputski/causa-rag",
     "language": "Python",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11928,
-    "updated_at": "2026-09-07T08:50:02Z",
+    "updated_at": "2026-09-07T09:54:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 517,
-    "updated_at": "2026-09-07T09:40:29Z",
+    "updated_at": "2026-09-07T09:57:10Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T08:44:05Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
-    "id": "Tanisha-Katara/cacheeconomics",
-    "language": "Python",
-    "name": "Tanisha-Katara/cacheeconomics",
-    "stars": 7,
-    "updated_at": "2026-09-07T08:42:24Z",
-    "url": "https://github.com/Tanisha-Katara/cacheeconomics"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
