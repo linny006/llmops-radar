@@ -1,5 +1,41 @@
 [
   {
+    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
+    "id": "parag-labs/agent-run-dashboard",
+    "language": "Python",
+    "name": "parag-labs/agent-run-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:05:28Z",
+    "url": "https://github.com/parag-labs/agent-run-dashboard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-07T05:04:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:00:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:00:09Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
     "id": "tonydzi/awesome-verified-agents",
     "language": "\u2014",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T04:55:03Z",
+    "updated_at": "2026-09-07T05:13:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -54,24 +90,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T04:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
-    "id": "parag-labs/agent-run-dashboard",
-    "language": "Python",
-    "name": "parag-labs/agent-run-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:37:34Z",
-    "url": "https://github.com/parag-labs/agent-run-dashboard"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -85,7 +103,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5555,
+    "stars": 5557,
     "updated_at": "2026-09-07T04:30:36Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T04:04:52Z",
+    "updated_at": "2026-09-07T05:12:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T03:56:31Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-07T03:49:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -418,7 +427,7 @@
     "id": "jochi2018/Soup",
     "language": "Python",
     "name": "jochi2018/Soup",
-    "stars": 155,
+    "stars": 156,
     "updated_at": "2026-09-07T01:53:47Z",
     "url": "https://github.com/jochi2018/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T01:51:57Z",
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:51:07Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   }
 ]
