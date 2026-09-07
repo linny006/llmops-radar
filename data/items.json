@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-07T05:41:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 12,
+    "updated_at": "2026-09-07T05:39:45Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27837,
+    "updated_at": "2026-09-07T05:35:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8542,
+    "updated_at": "2026-09-07T05:34:29Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T05:45:19Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1215,
+    "updated_at": "2026-09-07T05:33:27Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -7,6 +70,15 @@
     "stars": 9,
     "updated_at": "2026-09-07T05:28:12Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58180,
+    "updated_at": "2026-09-07T05:27:22Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -18,13 +90,13 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27837,
-    "updated_at": "2026-09-07T05:26:41Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "comet-ml/opik",
+    "stars": 21842,
+    "updated_at": "2026-09-07T05:26:09Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 47,
-    "updated_at": "2026-09-07T05:23:39Z",
+    "updated_at": "2026-09-07T05:41:17Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
     "id": "parag-labs/agent-run-dashboard",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T05:05:28Z",
     "url": "https://github.com/parag-labs/agent-run-dashboard"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-07T05:28:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T05:28:51Z",
+    "updated_at": "2026-09-07T05:34:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -148,7 +202,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5559,
+    "stars": 5561,
     "updated_at": "2026-09-07T04:30:36Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58179,
-    "updated_at": "2026-09-07T05:27:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
     "id": "asale-ai/llm-verify",
     "language": "Rust",
@@ -250,15 +295,6 @@
     "stars": 20,
     "updated_at": "2026-09-07T03:34:28Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 12,
-    "updated_at": "2026-09-07T03:33:41Z",
-    "url": "https://github.com/8pig/llm-ops"
   },
   {
     "description": "Read, draft and run AI for a financial-advice platform: calibrated SoA document intelligence with a human-review router,",
@@ -355,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24874,
+    "stars": 24875,
     "updated_at": "2026-09-07T02:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1943,
-    "updated_at": "2026-09-07T05:16:41Z",
+    "updated_at": "2026-09-07T05:44:16Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 44,
     "updated_at": "2026-09-07T02:16:40Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-07T02:10:48Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Cuda",
-    "name": "alibaba/rtp-llm",
-    "stars": 1326,
-    "updated_at": "2026-09-07T05:16:17Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-07T02:02:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:54:05Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
   }
 ]
