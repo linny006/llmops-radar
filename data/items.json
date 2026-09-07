@@ -1,11 +1,101 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34287,
+    "updated_at": "2026-09-07T10:27:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-07T10:25:37Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The deterministic write gate for agent-managed knowledge graphs. Let LLMs propose graph updates; only validated, version",
+    "id": "kkrlstrm/knowledge-graph-governance",
+    "language": "Python",
+    "name": "kkrlstrm/knowledge-graph-governance",
+    "stars": 4,
+    "updated_at": "2026-09-07T10:23:25Z",
+    "url": "https://github.com/kkrlstrm/knowledge-graph-governance"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-07T10:21:22Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-07T10:20:24Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7858,
+    "updated_at": "2026-09-07T10:27:25Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Shell",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:19:10Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:18:48Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24885,
+    "updated_at": "2026-09-07T10:29:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T10:16:03Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
     "id": "Tanisha-Katara/cacheeconomics",
     "language": "Python",
     "name": "Tanisha-Katara/cacheeconomics",
     "stars": 7,
-    "updated_at": "2026-09-07T10:15:19Z",
+    "updated_at": "2026-09-07T10:18:32Z",
     "url": "https://github.com/Tanisha-Katara/cacheeconomics"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/letsRunback/runback-community"
   },
   {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:12:19Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
@@ -34,24 +115,6 @@
     "stars": 31,
     "updated_at": "2026-09-07T10:10:16Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Shell",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:09:18Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7857,
-    "updated_at": "2026-09-07T10:15:53Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -81,15 +144,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T10:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -108,15 +162,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34286,
-    "updated_at": "2026-09-07T10:08:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
     "id": "umutkeltek/switchback",
     "language": "Rust",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1944,
-    "updated_at": "2026-09-07T09:46:20Z",
+    "updated_at": "2026-09-07T10:20:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1329,
-    "updated_at": "2026-09-07T10:15:53Z",
+    "updated_at": "2026-09-07T10:16:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -185,17 +230,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21845,
-    "updated_at": "2026-09-07T10:14:56Z",
+    "updated_at": "2026-09-07T10:25:37Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24883,
-    "updated_at": "2026-09-07T10:12:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T09:10:53Z",
     "url": "https://github.com/m0thermulia/promptgold"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-07T10:10:24Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Benchmark LLMs head-to-head on your own prompts. ",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11928,
-    "updated_at": "2026-09-07T09:54:01Z",
+    "updated_at": "2026-09-07T10:24:40Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 517,
-    "updated_at": "2026-09-07T10:06:08Z",
+    "updated_at": "2026-09-07T10:26:33Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:29:55Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:29:26Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:29:15Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:27:43Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
