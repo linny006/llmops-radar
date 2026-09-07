@@ -1,12 +1,39 @@
 [
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
+    "description": "Local-first personal AI assistant \u2014 agent loop rebuilt on LangGraph, with memory, evals, and a live dashboard.",
+    "id": "xuyixin617/pikaka-agent",
     "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-07T06:25:57Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
+    "name": "xuyixin617/pikaka-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:43:13Z",
+    "url": "https://github.com/xuyixin617/pikaka-agent"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-07T06:42:23Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5574,
+    "updated_at": "2026-09-07T06:42:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24877,
+    "updated_at": "2026-09-07T06:40:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
@@ -14,17 +41,53 @@
     "language": "Python",
     "name": "MRX-72/llm-red-team-cli",
     "stars": 0,
-    "updated_at": "2026-09-07T06:23:39Z",
+    "updated_at": "2026-09-07T06:39:51Z",
     "url": "https://github.com/MRX-72/llm-red-team-cli"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7849,
+    "updated_at": "2026-09-07T06:39:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24876,
-    "updated_at": "2026-09-07T06:26:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "evelandhq/eveland",
+    "stars": 2,
+    "updated_at": "2026-09-07T06:41:51Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1215,
+    "updated_at": "2026-09-07T06:37:08Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-07T06:41:53Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
@@ -50,17 +113,8 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1328,
-    "updated_at": "2026-09-07T06:25:37Z",
+    "updated_at": "2026-09-07T06:44:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Field notes on shipping LLM features you can trust in production - and the small, tested tools that keep them honest.",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T06:14:03Z",
     "url": "https://github.com/parag-labs/llm-in-production"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7848,
-    "updated_at": "2026-09-07T06:12:45Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Agentic Runtime",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 128,
-    "updated_at": "2026-09-07T06:29:46Z",
+    "updated_at": "2026-09-07T06:44:40Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -115,6 +160,15 @@
     "stars": 69,
     "updated_at": "2026-09-07T06:01:29Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34273,
+    "updated_at": "2026-09-07T05:58:39Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -133,15 +187,6 @@
     "stars": 76,
     "updated_at": "2026-09-07T05:54:14Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5570,
-    "updated_at": "2026-09-07T05:54:04Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -171,15 +216,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1215,
-    "updated_at": "2026-09-07T05:33:27Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -193,7 +229,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58182,
+    "stars": 58184,
     "updated_at": "2026-09-07T05:27:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21843,
-    "updated_at": "2026-09-07T06:29:42Z",
+    "updated_at": "2026-09-07T06:39:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T06:23:28Z",
+    "updated_at": "2026-09-07T06:44:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T04:48:20Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-07T06:27:50Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T03:13:39Z",
     "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-07T05:26:34Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-07T03:12:47Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 2,
-    "updated_at": "2026-09-07T06:24:38Z",
-    "url": "https://github.com/evelandhq/eveland"
   }
 ]
