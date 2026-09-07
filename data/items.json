@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34274,
+    "updated_at": "2026-09-07T07:15:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7853,
-    "updated_at": "2026-09-07T06:59:00Z",
+    "updated_at": "2026-09-07T07:14:27Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:10:13Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T07:07:35Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Offline LLM cost calculator and token calculator with real tokenizers, for PDF, DOCX and PPTX files. Real context-window",
+    "id": "Phantom-VK/NoRefund",
+    "language": "TypeScript",
+    "name": "Phantom-VK/NoRefund",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:06:02Z",
+    "url": "https://github.com/Phantom-VK/NoRefund"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-07T07:05:05Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Local-first personal AI assistant \u2014 agent loop rebuilt on LangGraph, with memory, evals, and a live dashboard.",
+    "id": "xuyixin617/pikaka-agent",
+    "language": "Python",
+    "name": "xuyixin617/pikaka-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:00:41Z",
+    "url": "https://github.com/xuyixin617/pikaka-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-07T07:00:30Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "evelandhq/eveland",
     "stars": 2,
-    "updated_at": "2026-09-07T06:59:14Z",
+    "updated_at": "2026-09-07T07:02:12Z",
     "url": "https://github.com/evelandhq/eveland"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:58:43Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -45,21 +108,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-07T06:56:57Z",
-    "url": "https://github.com/laputski/causa-rag"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T06:57:39Z",
+    "updated_at": "2026-09-07T07:09:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24877,
-    "updated_at": "2026-09-07T06:54:42Z",
+    "updated_at": "2026-09-07T07:06:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -99,24 +153,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Local-first personal AI assistant \u2014 agent loop rebuilt on LangGraph, with memory, evals, and a live dashboard.",
-    "id": "xuyixin617/pikaka-agent",
-    "language": "Python",
-    "name": "xuyixin617/pikaka-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:43:13Z",
-    "url": "https://github.com/xuyixin617/pikaka-agent"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -130,9 +166,18 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5574,
+    "stars": 5578,
     "updated_at": "2026-09-07T06:42:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21844,
+    "updated_at": "2026-09-07T06:39:35Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -167,7 +212,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1328,
-    "updated_at": "2026-09-07T06:53:18Z",
+    "updated_at": "2026-09-07T07:09:38Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 69,
     "updated_at": "2026-09-07T06:01:29Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34274,
-    "updated_at": "2026-09-07T06:58:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -275,17 +311,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58184,
-    "updated_at": "2026-09-07T06:59:34Z",
+    "updated_at": "2026-09-07T07:15:12Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21843,
-    "updated_at": "2026-09-07T06:39:35Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11930,
-    "updated_at": "2026-09-07T06:59:31Z",
+    "updated_at": "2026-09-07T07:02:17Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-09-07T03:34:28Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Read, draft and run AI for a financial-advice platform: calibrated SoA document intelligence with a human-review router,",
-    "id": "ChuanHe-PhD/advice-ai-lab",
-    "language": "Python",
-    "name": "ChuanHe-PhD/advice-ai-lab",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:33:12Z",
-    "url": "https://github.com/ChuanHe-PhD/advice-ai-lab"
-  },
-  {
-    "description": "Retrieve, act and ship: hybrid-retrieval RAG with a RAGAS-style evaluation harness, a LangGraph agent with layered guard",
-    "id": "ChuanHe-PhD/genai-platform-lab",
-    "language": "Python",
-    "name": "ChuanHe-PhD/genai-platform-lab",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:33:10Z",
-    "url": "https://github.com/ChuanHe-PhD/genai-platform-lab"
   }
 ]
