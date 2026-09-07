@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-07T00:44:41Z",
+    "updated_at": "2026-09-07T00:57:23Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Break your agent before your users do. Adversarial testing + CI regression suites for AI agents.",
+    "id": "GauntletVectorLabs/gauntlet",
+    "language": "Python",
+    "name": "GauntletVectorLabs/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-07T00:56:05Z",
+    "url": "https://github.com/GauntletVectorLabs/gauntlet"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:55:22Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-07T00:54:31Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "MLflow\u3067\u5b9f\u8df5\u3059\u308bLLMOps\u2015\u2015\u751f\u6210AI\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u5b9f\u9a13\u7ba1\u7406\u3068\u54c1\u8cea\u4fdd\u8a3c \u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
+    "id": "takaaki-yayoi/mlflow_llmops",
+    "language": "Python",
+    "name": "takaaki-yayoi/mlflow_llmops",
+    "stars": 11,
+    "updated_at": "2026-09-07T00:47:52Z",
+    "url": "https://github.com/takaaki-yayoi/mlflow_llmops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T00:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
@@ -16,15 +61,6 @@
     "stars": 10,
     "updated_at": "2026-09-07T00:44:40Z",
     "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T00:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Offline-first, explainable personalized routing across declared LLM candidates",
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T00:21:27Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-07T00:42:58Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58169,
-    "updated_at": "2026-09-07T00:36:51Z",
+    "updated_at": "2026-09-07T00:53:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-07T00:44:26Z",
+    "updated_at": "2026-09-07T01:00:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24866,
-    "updated_at": "2026-09-06T20:27:03Z",
+    "updated_at": "2026-09-07T00:59:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T20:17:51Z",
     "url": "https://github.com/kkrlstrm/model-eval-gate"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-09-06T20:17:24Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-09-06T20:16:55Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 515,
-    "updated_at": "2026-09-06T21:24:26Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
