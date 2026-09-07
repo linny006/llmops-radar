@@ -1,12 +1,75 @@
 [
   {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 7,
+    "updated_at": "2026-09-07T22:43:46Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:42:54Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58226,
+    "updated_at": "2026-09-07T22:44:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-07T22:40:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 47,
+    "updated_at": "2026-09-07T22:40:43Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
     "name": "ndom91/llama-dash",
     "stars": 17,
-    "updated_at": "2026-09-07T22:27:33Z",
+    "updated_at": "2026-09-07T22:36:53Z",
     "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-07T22:35:39Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -16,24 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T22:26:55Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 47,
-    "updated_at": "2026-09-07T22:23:46Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58226,
-    "updated_at": "2026-09-07T22:29:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -50,7 +95,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-07T22:20:10Z",
+    "updated_at": "2026-09-07T22:30:37Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T22:18:04Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T22:17:15Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T22:15:56Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -117,6 +144,15 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:07:26Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
     "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
     "id": "leesugwan-dot/cost-doctor-github-app",
     "language": "Python",
@@ -144,6 +180,15 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 131,
+    "updated_at": "2026-09-07T21:59:16Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -158,17 +203,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24905,
-    "updated_at": "2026-09-07T22:27:09Z",
+    "updated_at": "2026-09-07T22:34:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:53:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T22:06:03Z",
+    "updated_at": "2026-09-07T22:39:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7867,
-    "updated_at": "2026-09-07T22:25:13Z",
+    "updated_at": "2026-09-07T22:37:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-07T22:23:18Z",
+    "updated_at": "2026-09-07T22:37:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-07T20:01:05Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2365,
-    "updated_at": "2026-09-07T18:40:56Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
-    "id": "zahid23saim/llm-eval-harness",
-    "language": "Python",
-    "name": "zahid23saim/llm-eval-harness",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:40:50Z",
-    "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-07T19:09:12Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\u0428\u043b\u044e\u0437 \u043f\u0435\u0440\u0435\u0434 LLM-\u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440\u0430\u043c\u0438: \u0440\u043e\u0443\u0442\u0438\u043d\u0433, semantic cache, rate limiting, \u0443\u0447\u0451\u0442 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u0438, Prometheus-\u043c\u0435\u0442\u0440\u0438\u043a\u0438 \u0438 \u0442\u0440\u0435\u0439\u0441\u044b",
-    "id": "lpogosu/llm-gateway",
-    "language": "Python",
-    "name": "lpogosu/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:37:47Z",
-    "url": "https://github.com/lpogosu/llm-gateway"
   }
 ]
