@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 132,
-    "updated_at": "2026-09-07T04:28:40Z",
-    "url": "https://github.com/api7/aisix"
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:40:09Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
+    "id": "parag-labs/agent-run-dashboard",
+    "language": "Python",
+    "name": "parag-labs/agent-run-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:37:34Z",
+    "url": "https://github.com/parag-labs/agent-run-dashboard"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T04:29:28Z",
+    "updated_at": "2026-09-07T04:42:39Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-07T04:36:09Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5553,
+    "updated_at": "2026-09-07T04:30:36Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T04:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 132,
+    "updated_at": "2026-09-07T04:35:20Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "solomon2773/nora",
     "stars": 50,
-    "updated_at": "2026-09-07T04:28:27Z",
+    "updated_at": "2026-09-07T04:37:28Z",
     "url": "https://github.com/solomon2773/nora"
   },
   {
@@ -36,24 +81,6 @@
     "url": "https://github.com/AAH20/ai-agent-reliability-resilience"
   },
   {
-    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
-    "id": "parag-labs/agent-run-dashboard",
-    "language": "Python",
-    "name": "parag-labs/agent-run-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:25:05Z",
-    "url": "https://github.com/parag-labs/agent-run-dashboard"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:24:38Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
     "description": "Field notes on shipping LLM features you can trust in production - and the small, tested tools that keep them honest.",
     "id": "parag-labs/llm-in-production",
     "language": "\u2014",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T04:19:55Z",
     "url": "https://github.com/parag-labs/llm-in-production"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T04:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -139,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58177,
+    "stars": 58178,
     "updated_at": "2026-09-07T03:48:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T03:38:26Z",
     "url": "https://github.com/asale-ai/llm-verify"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 5552,
-    "updated_at": "2026-09-07T03:37:24Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -292,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24873,
+    "stars": 24874,
     "updated_at": "2026-09-07T02:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -374,7 +383,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1326,
-    "updated_at": "2026-09-07T04:26:50Z",
+    "updated_at": "2026-09-07T04:33:37Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:46:14Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:44:37Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   }
 ]
