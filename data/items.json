@@ -1,12 +1,39 @@
 [
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
     "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-07T00:20:17Z",
-    "url": "https://github.com/dshakes/distil"
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:29:51Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-07T00:28:25Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-07T00:26:29Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-07T00:21:27Z",
+    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T00:15:25Z",
+    "updated_at": "2026-09-07T00:20:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-07T00:29:59Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -63,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-07T00:00:59Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T23:52:15Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-06T23:44:23Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-07T00:16:42Z",
+    "updated_at": "2026-09-07T00:25:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-06T19:36:15Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:31:49Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
-    "id": "brandonhimpfen/awesome-llmops",
-    "language": "Python",
-    "name": "brandonhimpfen/awesome-llmops",
-    "stars": 17,
-    "updated_at": "2026-09-06T19:24:54Z",
-    "url": "https://github.com/brandonhimpfen/awesome-llmops"
   }
 ]
