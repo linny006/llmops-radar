@@ -1,5 +1,68 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-07T06:25:57Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:23:39Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24876,
+    "updated_at": "2026-09-07T06:26:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:23:06Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:20:44Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Cuda",
+    "name": "alibaba/rtp-llm",
+    "stars": 1328,
+    "updated_at": "2026-09-07T06:25:37Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Field notes on shipping LLM features you can trust in production - and the small, tested tools that keep them honest.",
     "id": "parag-labs/llm-in-production",
     "language": "\u2014",
@@ -9,13 +72,13 @@
     "url": "https://github.com/parag-labs/llm-in-production"
   },
   {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:10:05Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7848,
+    "updated_at": "2026-09-07T06:12:45Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Agentic Runtime",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 128,
-    "updated_at": "2026-09-07T06:02:32Z",
+    "updated_at": "2026-09-07T06:29:46Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 69,
     "updated_at": "2026-09-07T06:01:29Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:00:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
@@ -85,18 +139,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5569,
+    "stars": 5570,
     "updated_at": "2026-09-07T05:54:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-07T05:45:19Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -112,7 +157,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27837,
+    "stars": 27838,
     "updated_at": "2026-09-07T05:35:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8542,
-    "updated_at": "2026-09-07T06:02:25Z",
+    "updated_at": "2026-09-07T06:19:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T05:28:12Z",
+    "updated_at": "2026-09-07T06:22:49Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -148,18 +193,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58180,
+    "stars": 58182,
     "updated_at": "2026-09-07T05:27:22Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7847,
-    "updated_at": "2026-09-07T06:12:45Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21843,
-    "updated_at": "2026-09-07T06:03:20Z",
+    "updated_at": "2026-09-07T06:29:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T06:15:18Z",
+    "updated_at": "2026-09-07T06:23:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -234,21 +270,12 @@
     "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-07T05:29:36Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-07T04:46:29Z",
+    "updated_at": "2026-09-07T06:27:50Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11930,
-    "updated_at": "2026-09-07T04:47:39Z",
+    "updated_at": "2026-09-07T06:24:23Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "evelandhq/eveland",
     "stars": 2,
-    "updated_at": "2026-09-07T03:08:04Z",
+    "updated_at": "2026-09-07T06:24:38Z",
     "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:58:03Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24875,
-    "updated_at": "2026-09-07T02:51:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:47:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
