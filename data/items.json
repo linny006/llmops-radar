@@ -1,5 +1,86 @@
 [
   {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T15:44:36Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-07T15:42:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-07T15:45:02Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-07T15:39:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 433,
+    "updated_at": "2026-09-07T15:44:18Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-07T15:36:16Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Prompts we run in production and a curated reading list for building with LLMs - 35 vetted resources across foundations,",
+    "id": "MTechZilla/llm-toolkit",
+    "language": "\u2014",
+    "name": "MTechZilla/llm-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-07T15:34:00Z",
+    "url": "https://github.com/MTechZilla/llm-toolkit"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-07T15:32:29Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T15:30:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An LLM gateway that can prove what happened.",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -18,15 +99,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-07T15:27:06Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -34,15 +106,6 @@
     "stars": 80,
     "updated_at": "2026-09-07T15:24:55Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-07T15:22:24Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
@@ -61,15 +124,6 @@
     "stars": 24895,
     "updated_at": "2026-09-07T15:21:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-07T15:21:08Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -104,17 +158,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34298,
-    "updated_at": "2026-09-07T15:17:29Z",
+    "updated_at": "2026-09-07T15:39:37Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T15:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Runback Community edition \u2014 agent run capture, deterministic replay, signed audit records, evals. Source-available.",
@@ -135,13 +180,13 @@
     "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 433,
-    "updated_at": "2026-09-07T15:27:28Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "Arize-ai/phoenix",
+    "stars": 11359,
+    "updated_at": "2026-09-07T15:08:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58218,
-    "updated_at": "2026-09-07T15:06:30Z",
+    "updated_at": "2026-09-07T15:33:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/jafeeri/ai-prod-monitor"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-07T15:30:26Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21853,
-    "updated_at": "2026-09-07T15:22:33Z",
+    "updated_at": "2026-09-07T15:44:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7862,
-    "updated_at": "2026-09-07T15:07:49Z",
+    "updated_at": "2026-09-07T15:34:15Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-07T15:30:01Z",
+    "updated_at": "2026-09-07T15:45:04Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -364,7 +400,7 @@
     "id": "genieincodebottle/aiml-companion",
     "language": "Jupyter Notebook",
     "name": "genieincodebottle/aiml-companion",
-    "stars": 69,
+    "stars": 70,
     "updated_at": "2026-09-07T14:11:43Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-07T15:27:54Z",
+    "updated_at": "2026-09-07T15:40:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,17 +419,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-07T15:24:02Z",
+    "updated_at": "2026-09-07T15:37:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-07T13:56:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T14:45:08Z",
+    "updated_at": "2026-09-07T15:43:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-07T13:49:50Z",
     "url": "https://github.com/markoblogo/AGENTS.md_generator"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:34:37Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2768,
-    "updated_at": "2026-09-07T13:31:40Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
-    "id": "intel/enterprise-inference",
-    "language": "Shell",
-    "name": "intel/enterprise-inference",
-    "stars": 4,
-    "updated_at": "2026-09-07T13:30:28Z",
-    "url": "https://github.com/intel/enterprise-inference"
   }
 ]
