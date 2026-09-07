@@ -1,11 +1,92 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3524,
+    "updated_at": "2026-09-07T04:15:19Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:14:59Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:14:48Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7845,
+    "updated_at": "2026-09-07T04:10:17Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
+    "id": "parag-labs/agent-run-dashboard",
+    "language": "Python",
+    "name": "parag-labs/agent-run-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:08:21Z",
+    "url": "https://github.com/parag-labs/agent-run-dashboard"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:15:20Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-07T04:05:08Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-07T04:04:52Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T04:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 132,
-    "updated_at": "2026-09-07T03:57:52Z",
+    "updated_at": "2026-09-07T04:04:18Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -27,31 +108,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:47:33Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T03:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:59:39Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
+    "name": "BerriAI/litellm",
+    "stars": 58177,
+    "updated_at": "2026-09-07T03:48:18Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -76,18 +139,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5548,
+    "stars": 5552,
     "updated_at": "2026-09-07T03:37:24Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
-    "id": "parag-labs/agent-run-dashboard",
-    "language": "Python",
-    "name": "parag-labs/agent-run-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:35:11Z",
-    "url": "https://github.com/parag-labs/agent-run-dashboard"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T03:33:10Z",
     "url": "https://github.com/ChuanHe-PhD/genai-platform-lab"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58176,
-    "updated_at": "2026-09-07T03:48:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1943,
-    "updated_at": "2026-09-07T03:41:52Z",
+    "updated_at": "2026-09-07T04:06:09Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1326,
-    "updated_at": "2026-09-07T03:56:25Z",
+    "updated_at": "2026-09-07T04:12:23Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -337,7 +382,7 @@
     "id": "jochi2018/Soup",
     "language": "Python",
     "name": "jochi2018/Soup",
-    "stars": 154,
+    "stars": 155,
     "updated_at": "2026-09-07T01:53:47Z",
     "url": "https://github.com/jochi2018/Soup"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T01:41:39Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:39:52Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:39:32Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:38:56Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:38:46Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5805,
-    "updated_at": "2026-09-07T01:38:34Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   }
 ]
