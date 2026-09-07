@@ -1,12 +1,75 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-07T01:15:12Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27837,
+    "updated_at": "2026-09-07T01:12:42Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:10:37Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:09:58Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-07T01:08:52Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-07T00:57:23Z",
+    "updated_at": "2026-09-07T01:12:02Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
+    "id": "manas-maheshwari/pgtriage-agent-lab",
+    "language": "TypeScript",
+    "name": "manas-maheshwari/pgtriage-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:08:21Z",
+    "url": "https://github.com/manas-maheshwari/pgtriage-agent-lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T01:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Break your agent before your users do. Adversarial testing + CI regression suites for AI agents.",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 16,
-    "updated_at": "2026-09-07T00:54:31Z",
+    "updated_at": "2026-09-07T01:13:18Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/takaaki-yayoi/mlflow_llmops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T00:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
     "id": "satya-anguluri/capstead",
     "language": "Java",
@@ -61,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-09-07T00:44:40Z",
     "url": "https://github.com/satya-anguluri/capstead"
-  },
-  {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-09-07T00:29:51Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -97,24 +142,6 @@
     "stars": 2540,
     "updated_at": "2026-09-07T00:25:45Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-07T00:21:27Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27837,
-    "updated_at": "2026-09-07T00:32:01Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -328,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34263,
+    "stars": 34264,
     "updated_at": "2026-09-06T21:43:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-07T01:00:17Z",
+    "updated_at": "2026-09-07T01:06:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11346,
     "updated_at": "2026-09-06T20:20:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-09-06T20:17:56Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:17:53Z",
-    "url": "https://github.com/acornops/docs-website"
-  },
-  {
-    "description": "Versioned, eval-backed delegation policy for AI agents\u2014prove what can leave the frontier model, enforce it in runtimes, ",
-    "id": "kkrlstrm/model-eval-gate",
-    "language": "Python",
-    "name": "kkrlstrm/model-eval-gate",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:17:51Z",
-    "url": "https://github.com/kkrlstrm/model-eval-gate"
   }
 ]
