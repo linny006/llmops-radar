@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 132,
+    "updated_at": "2026-09-07T04:28:40Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 3524,
-    "updated_at": "2026-09-07T04:15:19Z",
+    "stars": 3525,
+    "updated_at": "2026-09-07T04:29:28Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 50,
+    "updated_at": "2026-09-07T04:28:27Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience",
+    "id": "AAH20/ai-agent-reliability-resilience",
+    "language": "Python",
+    "name": "AAH20/ai-agent-reliability-resilience",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:27:04Z",
+    "url": "https://github.com/AAH20/ai-agent-reliability-resilience"
+  },
+  {
+    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
+    "id": "parag-labs/agent-run-dashboard",
+    "language": "Python",
+    "name": "parag-labs/agent-run-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:25:05Z",
+    "url": "https://github.com/parag-labs/agent-run-dashboard"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:24:38Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Field notes on shipping LLM features you can trust in production - and the small, tested tools that keep them honest.",
+    "id": "parag-labs/llm-in-production",
+    "language": "\u2014",
+    "name": "parag-labs/llm-in-production",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:19:55Z",
+    "url": "https://github.com/parag-labs/llm-in-production"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T04:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -18,31 +81,13 @@
     "url": "https://github.com/msanket9/stillsane"
   },
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:14:48Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7845,
+    "stars": 7846,
     "updated_at": "2026-09-07T04:10:17Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "a small full-stack dashboard (fastapi + react) for recording ai agent runs and watching cost, tokens, and failures over ",
-    "id": "parag-labs/agent-run-dashboard",
-    "language": "Python",
-    "name": "parag-labs/agent-run-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:08:21Z",
-    "url": "https://github.com/parag-labs/agent-run-dashboard"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-07T04:15:20Z",
+    "updated_at": "2026-09-07T04:22:19Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -70,24 +115,6 @@
     "stars": 9,
     "updated_at": "2026-09-07T04:04:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T04:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 132,
-    "updated_at": "2026-09-07T04:04:18Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11930,
-    "updated_at": "2026-09-07T03:34:46Z",
+    "updated_at": "2026-09-07T04:28:24Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-07T02:41:04Z",
+    "updated_at": "2026-09-07T04:25:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T02:23:48Z",
     "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "Field notes on shipping LLM features you can trust in production - and the small, tested tools that keep them honest.",
-    "id": "parag-labs/llm-in-production",
-    "language": "\u2014",
-    "name": "parag-labs/llm-in-production",
-    "stars": 0,
-    "updated_at": "2026-09-07T02:23:23Z",
-    "url": "https://github.com/parag-labs/llm-in-production"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -356,7 +374,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1326,
-    "updated_at": "2026-09-07T04:12:23Z",
+    "updated_at": "2026-09-07T04:26:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T01:44:37Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:43:16Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:41:39Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
   }
 ]
