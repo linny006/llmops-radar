@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:59:19Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:57:18Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:59:42Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58223,
+    "updated_at": "2026-09-07T18:55:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-07T18:43:22Z",
+    "updated_at": "2026-09-07T18:53:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
+    "id": "Tanisha-Katara/cacheeconomics",
+    "language": "Python",
+    "name": "Tanisha-Katara/cacheeconomics",
+    "stars": 7,
+    "updated_at": "2026-09-07T18:50:57Z",
+    "url": "https://github.com/Tanisha-Katara/cacheeconomics"
+  },
+  {
+    "description": "Andrey Lesnikov \u2014 Senior Infrastructure Engineer. Portfolio: https://justrunme.com/",
+    "id": "justrunme/justrunme",
+    "language": "\u2014",
+    "name": "justrunme/justrunme",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:49:45Z",
+    "url": "https://github.com/justrunme/justrunme"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-07T18:46:47Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T18:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that measures the cost of every request and attributes it to the customer, wo",
@@ -36,13 +108,13 @@
     "url": "https://github.com/zahid23saim/llm-eval-harness"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58223,
-    "updated_at": "2026-09-07T18:44:55Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-07T18:40:11Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T18:35:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:34:31Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "An LLM gateway that can prove what happened.",
@@ -81,24 +144,6 @@
     "url": "https://github.com/Harshalsharma05/switchyard"
   },
   {
-    "description": "Andrey Lesnikov \u2014 Senior Infrastructure Engineer. Portfolio: https://justrunme.com/",
-    "id": "justrunme/justrunme",
-    "language": "\u2014",
-    "name": "justrunme/justrunme",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:31:32Z",
-    "url": "https://github.com/justrunme/justrunme"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T18:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen",
     "id": "Life-Experimentalist/CogniGate",
     "language": "Go",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T18:27:51Z",
     "url": "https://github.com/Life-Experimentalist/CogniGate"
-  },
-  {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:30:37Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7865,
-    "updated_at": "2026-09-07T18:36:37Z",
+    "updated_at": "2026-09-07T19:00:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/ravisinghrajput95/llmops-rag-api"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-07T18:40:11Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -283,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5693,
+    "stars": 5694,
     "updated_at": "2026-09-07T17:40:57Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -342,21 +369,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Local prompt-cache economics for LLM agents: split cache reads/writes from input spend, reconcile dollars to invoices, a",
-    "id": "Tanisha-Katara/cacheeconomics",
-    "language": "Python",
-    "name": "Tanisha-Katara/cacheeconomics",
-    "stars": 7,
-    "updated_at": "2026-09-07T17:22:00Z",
-    "url": "https://github.com/Tanisha-Katara/cacheeconomics"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24901,
-    "updated_at": "2026-09-07T18:44:30Z",
+    "updated_at": "2026-09-07T18:55:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-07T18:27:47Z",
+    "updated_at": "2026-09-07T18:51:54Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:36:14Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27846,
-    "updated_at": "2026-09-07T16:36:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3525,
-    "updated_at": "2026-09-07T18:37:19Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
