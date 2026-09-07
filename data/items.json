@@ -1,5 +1,95 @@
 [
   {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-07T22:14:28Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58226,
+    "updated_at": "2026-09-07T22:14:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:10:38Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:10:06Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-07T22:08:56Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
+    "id": "leesugwan-dot/cost-doctor-github-app",
+    "language": "Python",
+    "name": "leesugwan-dot/cost-doctor-github-app",
+    "stars": 1,
+    "updated_at": "2026-09-07T22:07:03Z",
+    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-07T22:03:08Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:01:15Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-07T22:00:59Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T22:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -9,6 +99,15 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24905,
+    "updated_at": "2026-09-07T22:07:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -16,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T21:53:33Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:56:13Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
@@ -45,15 +135,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
-    "id": "leesugwan-dot/cost-doctor-github-app",
-    "language": "Python",
-    "name": "leesugwan-dot/cost-doctor-github-app",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:52:08Z",
-    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
-  },
-  {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
     "id": "TAIPANBOX/genaryx",
     "language": "Rust",
@@ -72,33 +153,6 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T21:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:41:45Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58226,
-    "updated_at": "2026-09-07T21:59:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:39:13Z",
     "url": "https://github.com/antoniodelia-hash/blast-radius"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:35:50Z",
-    "url": "https://github.com/acblabs/agent-assure"
   },
   {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-07T22:00:18Z",
+    "updated_at": "2026-09-07T22:13:45Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -160,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:19:23Z",
     "url": "https://github.com/IRDcode/hermes-agent-session-handoff"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11363,
+    "updated_at": "2026-09-07T21:12:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -176,17 +230,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T21:12:11Z",
+    "updated_at": "2026-09-07T22:06:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24904,
-    "updated_at": "2026-09-07T21:56:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T21:02:21Z",
     "url": "https://github.com/laputski/causa-rag"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-07T20:44:59Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -221,17 +257,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7867,
-    "updated_at": "2026-09-07T21:50:58Z",
+    "updated_at": "2026-09-07T22:12:23Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:40:47Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-07T21:35:26Z",
+    "updated_at": "2026-09-07T22:00:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 519,
-    "updated_at": "2026-09-07T21:59:49Z",
+    "updated_at": "2026-09-07T22:05:19Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T18:20:45Z",
     "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "AI Runtime Platform \u2014 OpenAI-compatible execution plane on Kubernetes. Case: https://justrunme.com/cases/ai-runtime-exec",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:20:43Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:11:53Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:06:51Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
   }
 ]
