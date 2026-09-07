@@ -1,5 +1,50 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-07T11:42:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7858,
+    "updated_at": "2026-09-07T11:41:45Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21847,
+    "updated_at": "2026-09-07T11:44:26Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-07T11:35:13Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T11:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24891,
-    "updated_at": "2026-09-07T11:24:34Z",
+    "updated_at": "2026-09-07T11:36:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 84,
     "updated_at": "2026-09-07T11:18:24Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2768,
-    "updated_at": "2026-09-07T11:14:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1945,
-    "updated_at": "2026-09-07T10:40:28Z",
+    "updated_at": "2026-09-07T11:38:10Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -166,7 +193,7 @@
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
-    "stars": 135,
+    "stars": 136,
     "updated_at": "2026-09-07T10:36:23Z",
     "url": "https://github.com/api7/aisix"
   },
@@ -198,30 +225,12 @@
     "url": "https://github.com/letsRunback/runback-community"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21846,
-    "updated_at": "2026-09-07T11:23:32Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7858,
-    "updated_at": "2026-09-07T11:20:38Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34288,
-    "updated_at": "2026-09-07T11:26:00Z",
+    "updated_at": "2026-09-07T11:40:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-07T10:11:44Z",
+    "updated_at": "2026-09-07T11:40:27Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1329,
-    "updated_at": "2026-09-07T11:23:06Z",
+    "updated_at": "2026-09-07T11:42:27Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 517,
-    "updated_at": "2026-09-07T11:14:09Z",
+    "updated_at": "2026-09-07T11:32:45Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T08:44:33Z",
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:44:05Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
