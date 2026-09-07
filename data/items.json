@@ -1,5 +1,68 @@
 [
   {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:59:05Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "Regression testing for RAG pipelines: retrieval metrics, hallucination tracking, CI-ready baselines.",
+    "id": "aseydaaksakal/rag-eval",
+    "language": "Python",
+    "name": "aseydaaksakal/rag-eval",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:59:03Z",
+    "url": "https://github.com/aseydaaksakal/rag-eval"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21847,
+    "updated_at": "2026-09-07T11:57:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-07T11:56:35Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-07T11:54:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58203,
+    "updated_at": "2026-09-07T11:53:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T11:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -13,18 +76,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7858,
+    "stars": 7859,
     "updated_at": "2026-09-07T11:41:45Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21847,
-    "updated_at": "2026-09-07T11:44:26Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -34,15 +88,6 @@
     "stars": 20,
     "updated_at": "2026-09-07T11:35:13Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T11:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24891,
-    "updated_at": "2026-09-07T11:36:09Z",
+    "updated_at": "2026-09-07T11:53:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 84,
-    "updated_at": "2026-09-07T11:18:24Z",
+    "updated_at": "2026-09-07T11:54:17Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-07T11:11:08Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
   },
   {
     "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
@@ -153,15 +189,6 @@
     "url": "https://github.com/kkrlstrm/knowledge-graph-governance"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58202,
-    "updated_at": "2026-09-07T10:47:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1945,
-    "updated_at": "2026-09-07T11:38:10Z",
+    "updated_at": "2026-09-07T11:54:20Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 30089,
     "updated_at": "2026-09-07T10:56:15Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-07T10:51:33Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Runback Community edition \u2014 agent run capture, deterministic replay, signed audit records, evals. Source-available.",
@@ -306,15 +324,6 @@
     "url": "https://github.com/evelandhq/eveland"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-07T11:40:27Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
@@ -329,7 +338,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1329,
-    "updated_at": "2026-09-07T11:42:27Z",
+    "updated_at": "2026-09-07T11:59:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-07T09:01:34Z",
+    "updated_at": "2026-09-07T11:57:49Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:45:03Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:44:33Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   }
 ]
