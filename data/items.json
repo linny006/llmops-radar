@@ -1,11 +1,65 @@
 [
   {
+    "description": "Long-session handoff for Hermes Agent: measure how close a chat is to the token limit that ends it, export the whole ses",
+    "id": "IRDcode/hermes-agent-session-handoff",
+    "language": "Python",
+    "name": "IRDcode/hermes-agent-session-handoff",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:15:27Z",
+    "url": "https://github.com/IRDcode/hermes-agent-session-handoff"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:12:30Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-07T21:12:11Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:10:43Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "JavaScript",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:10:43Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:09:34Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-07T20:59:13Z",
+    "updated_at": "2026-09-07T21:09:28Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,35 +68,35 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 1,
-    "updated_at": "2026-09-07T20:59:40Z",
+    "updated_at": "2026-09-07T21:08:56Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
+    "id": "leesugwan-dot/cost-doctor-github-app",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58226,
-    "updated_at": "2026-09-07T20:56:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
+    "name": "leesugwan-dot/cost-doctor-github-app",
     "stars": 1,
-    "updated_at": "2026-09-07T20:55:30Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "updated_at": "2026-09-07T21:04:50Z",
+    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24903,
-    "updated_at": "2026-09-07T20:57:14Z",
+    "stars": 24904,
+    "updated_at": "2026-09-07T21:15:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:02:21Z",
+    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +104,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T20:45:23Z",
+    "updated_at": "2026-09-07T21:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58226,
+    "updated_at": "2026-09-07T21:14:33Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7867,
-    "updated_at": "2026-09-07T20:42:36Z",
+    "updated_at": "2026-09-07T21:10:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -97,33 +160,6 @@
     "stars": 3524,
     "updated_at": "2026-09-07T20:47:05Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "JavaScript",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:36:01Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:34:24Z",
-    "url": "https://github.com/acblabs/agent-assure"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-07T20:59:48Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Live per-phase HTTP timing probe: DNS, TCP, TLS, TTFB, body transfer, and streaming chunk timing (ITL), streamed as each",
@@ -153,15 +189,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
-    "id": "leesugwan-dot/cost-doctor-github-app",
-    "language": "Python",
-    "name": "leesugwan-dot/cost-doctor-github-app",
-    "stars": 1,
-    "updated_at": "2026-09-07T20:02:51Z",
-    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -171,15 +198,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:11:15Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -187,15 +205,6 @@
     "stars": 1066,
     "updated_at": "2026-09-07T20:15:50Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-07T19:53:34Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 519,
-    "updated_at": "2026-09-07T20:41:34Z",
+    "updated_at": "2026-09-07T21:10:38Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -256,8 +265,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34303,
-    "updated_at": "2026-09-07T19:01:18Z",
+    "stars": 34304,
+    "updated_at": "2026-09-07T21:15:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T17:54:08Z",
     "url": "https://github.com/ravisinghrajput95/llmops-rag-api"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-07T17:48:31Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
