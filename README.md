@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-07 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58226 | Python | 2026-09-07 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [appleweiping/FacetRoute](https://github.com/appleweiping/FacetRoute) | 0 | Python | 2026-09-07 | Offline-first, explainable personalized routing across declared LLM candidates |
-| 4 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-09-07 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
-| 5 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-07 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 6 | [leesugwan-dot/cost-doctor-github-app](https://github.com/leesugwan-dot/cost-doctor-github-app) | 1 | Python | 2026-09-07 | Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou |
-| 7 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-07 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 8 | [hdjebar/DSH-DDS](https://github.com/hdjebar/DSH-DDS) | 0 | JavaScript | 2026-09-07 | Container-deployable agent harness on DeepSeek Harness — multi-provider routing, plugin-extensible personas and skills,  |
-| 9 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-07 | ThakiCloud Tech Blog |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-07 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58226 | Python | 2026-09-07 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [appleweiping/FacetRoute](https://github.com/appleweiping/FacetRoute) | 0 | Python | 2026-09-07 | Offline-first, explainable personalized routing across declared LLM candidates |
+| 5 | [acblabs/agent-assure](https://github.com/acblabs/agent-assure) | 0 | Python | 2026-09-07 | Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI  |
+| 6 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-07 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 7 | [leesugwan-dot/cost-doctor-github-app](https://github.com/leesugwan-dot/cost-doctor-github-app) | 1 | Python | 2026-09-07 | Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou |
+| 8 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-07 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 9 | [hdjebar/DSH-DDS](https://github.com/hdjebar/DSH-DDS) | 0 | JavaScript | 2026-09-07 | Container-deployable agent harness on DeepSeek Harness — multi-provider routing, plugin-extensible personas and skills,  |
+| 10 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-07 | ThakiCloud Tech Blog |
 | 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-07 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24905 | TypeScript | 2026-09-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-07 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
