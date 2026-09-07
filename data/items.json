@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-07T11:29:50Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 28 tracks, 400+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 69,
+    "updated_at": "2026-09-07T11:27:30Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24891,
+    "updated_at": "2026-09-07T11:24:34Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Private and hybrid LLM deployment kit with Terraform, Helm, compliance runbooks, and airgapped operating notes.",
+    "id": "KIM3310/llm-onprem-deployment-kit",
+    "language": "HCL",
+    "name": "KIM3310/llm-onprem-deployment-kit",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:24:34Z",
+    "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27843,
+    "updated_at": "2026-09-07T11:28:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 84,
+    "updated_at": "2026-09-07T11:18:24Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T11:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T11:03:18Z",
     "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T11:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24890,
-    "updated_at": "2026-09-07T11:00:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The reliability layer that makes an LLM pipeline safe to invoice on: 7 deterministic detectors catch confident ASR hallu",
@@ -72,15 +117,6 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 84,
-    "updated_at": "2026-09-07T10:54:17Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "The deterministic write gate for agent-managed knowledge graphs. Let LLMs propose graph updates; only validated, version",
     "id": "kkrlstrm/knowledge-graph-governance",
     "language": "Python",
@@ -94,7 +130,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58201,
+    "stars": 58202,
     "updated_at": "2026-09-07T10:47:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -115,15 +151,6 @@
     "stars": 1945,
     "updated_at": "2026-09-07T10:40:28Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27843,
-    "updated_at": "2026-09-07T10:40:13Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21846,
-    "updated_at": "2026-09-07T10:57:08Z",
+    "updated_at": "2026-09-07T11:23:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7858,
-    "updated_at": "2026-09-07T11:15:02Z",
+    "updated_at": "2026-09-07T11:20:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34288,
-    "updated_at": "2026-09-07T11:10:27Z",
+    "updated_at": "2026-09-07T11:26:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -223,6 +250,15 @@
     "stars": 7,
     "updated_at": "2026-09-07T10:18:32Z",
     "url": "https://github.com/Tanisha-Katara/cacheeconomics"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8548,
+    "updated_at": "2026-09-07T10:11:02Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Radicalbit AI Gateway",
@@ -284,7 +320,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1329,
-    "updated_at": "2026-09-07T11:13:03Z",
+    "updated_at": "2026-09-07T11:23:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T08:44:05Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:39:40Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:38:28Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5805,
-    "updated_at": "2026-09-07T08:35:43Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:35:01Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
