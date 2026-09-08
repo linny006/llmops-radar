@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T14:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-09-08T14:00:05Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-08T13:58:53Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:58:26Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-08T13:58:09Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-08T13:50:04Z",
+    "updated_at": "2026-09-08T14:03:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-08T13:59:48Z",
+    "updated_at": "2026-09-08T14:03:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -126,21 +171,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T13:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-08T13:51:20Z",
+    "updated_at": "2026-09-08T14:04:06Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T13:47:23Z",
+    "updated_at": "2026-09-08T14:01:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30093,
-    "updated_at": "2026-09-08T13:24:01Z",
+    "updated_at": "2026-09-08T14:01:33Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7889,
-    "updated_at": "2026-09-08T13:56:38Z",
+    "updated_at": "2026-09-08T14:03:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34346,
-    "updated_at": "2026-09-08T13:59:25Z",
+    "updated_at": "2026-09-08T14:03:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/jafeeri/ai-prod-monitor"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-08T13:58:53Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T13:00:23Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
-    "id": "leesugwan-dot/cost-doctor-github-app",
-    "language": "Python",
-    "name": "leesugwan-dot/cost-doctor-github-app",
-    "stars": 1,
-    "updated_at": "2026-09-08T12:42:56Z",
-    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 16,
-    "updated_at": "2026-09-08T12:41:46Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:00:05Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   }
 ]
