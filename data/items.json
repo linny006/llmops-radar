@@ -1,11 +1,74 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24914,
+    "updated_at": "2026-09-08T04:44:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-08T04:44:25Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 16,
+    "updated_at": "2026-09-08T04:42:43Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:42:01Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3524,
+    "updated_at": "2026-09-08T04:43:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58251,
+    "updated_at": "2026-09-08T04:34:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T04:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
     "id": "neuralnexustech/freeroute",
     "language": "TypeScript",
     "name": "neuralnexustech/freeroute",
     "stars": 0,
-    "updated_at": "2026-09-08T04:28:43Z",
+    "updated_at": "2026-09-08T04:33:59Z",
     "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
@@ -18,20 +81,11 @@
     "url": "https://github.com/Grace/switchboard"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-08T04:23:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27851,
+    "stars": 27850,
     "updated_at": "2026-09-08T04:19:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T04:17:58Z",
+    "updated_at": "2026-09-08T04:41:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58250,
-    "updated_at": "2026-09-08T04:29:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -63,21 +108,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1949,
-    "updated_at": "2026-09-08T04:15:10Z",
+    "updated_at": "2026-09-08T04:41:12Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-09-08T04:14:06Z",
     "url": "https://github.com/hwdsl2/docker-litellm"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3524,
-    "updated_at": "2026-09-08T04:15:52Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7871,
-    "updated_at": "2026-09-08T04:07:09Z",
+    "updated_at": "2026-09-08T04:44:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T04:14:48Z",
+    "updated_at": "2026-09-08T04:42:30Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 16,
-    "updated_at": "2026-09-08T03:40:54Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -205,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:41:34Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24914,
-    "updated_at": "2026-09-08T04:18:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:29:53Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
@@ -275,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T04:10:01Z",
+    "updated_at": "2026-09-08T04:36:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8554,
-    "updated_at": "2026-09-08T03:14:22Z",
+    "updated_at": "2026-09-08T04:35:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
