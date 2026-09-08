@@ -1,12 +1,102 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 77,
+    "updated_at": "2026-09-08T02:15:06Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2769,
-    "updated_at": "2026-09-08T01:59:45Z",
+    "updated_at": "2026-09-08T02:13:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Shell",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:11:34Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
+  },
+  {
+    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
+    "id": "kogunlowo123/rag-research-assistant",
+    "language": "Python",
+    "name": "kogunlowo123/rag-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:11:06Z",
+    "url": "https://github.com/kogunlowo123/rag-research-assistant"
+  },
+  {
+    "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Shell",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:10:57Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-08T02:10:37Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58245,
+    "updated_at": "2026-09-08T02:10:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:06:43Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:10:40Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27849,
+    "updated_at": "2026-09-08T02:00:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -16,15 +106,6 @@
     "stars": 37,
     "updated_at": "2026-09-08T01:59:23Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 77,
-    "updated_at": "2026-09-08T01:59:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
@@ -59,26 +140,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24911,
-    "updated_at": "2026-09-08T01:59:40Z",
+    "updated_at": "2026-09-08T02:07:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Shell",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 0,
-    "updated_at": "2026-09-08T01:50:46Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-08T01:50:29Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -88,42 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T01:53:46Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58243,
-    "updated_at": "2026-09-08T01:55:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27849,
-    "updated_at": "2026-09-08T01:47:35Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
-    "id": "kogunlowo123/01-rag-research-assistant",
-    "language": "Python",
-    "name": "kogunlowo123/01-rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-08T01:48:55Z",
-    "url": "https://github.com/kogunlowo123/01-rag-research-assistant"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T01:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "erjonb19/Security-Constrained-Agent-Runtime",
     "stars": 0,
-    "updated_at": "2026-09-08T01:36:55Z",
+    "updated_at": "2026-09-08T02:02:23Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-08T01:32:21Z",
+    "updated_at": "2026-09-08T02:09:47Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -184,7 +211,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7870,
+    "stars": 7869,
     "updated_at": "2026-09-08T01:09:03Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -202,7 +229,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21858,
+    "stars": 21859,
     "updated_at": "2026-09-08T01:08:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -232,15 +259,6 @@
     "stars": 47,
     "updated_at": "2026-09-08T00:56:28Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T01:57:08Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:03:31Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-08T00:03:24Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:18:05Z",
     "url": "https://github.com/lpogosu/llm-gateway"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:17:51Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
