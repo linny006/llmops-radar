@@ -1,21 +1,48 @@
 [
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1204,
-    "updated_at": "2026-09-08T21:14:57Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "HTML",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-08T21:12:59Z",
+    "updated_at": "2026-09-08T21:29:08Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24934,
+    "updated_at": "2026-09-08T21:28:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1204,
+    "updated_at": "2026-09-08T21:29:58Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 5,
+    "updated_at": "2026-09-08T21:27:43Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-08T21:27:30Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Agentic Runtime",
@@ -23,15 +50,51 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-08T21:11:59Z",
+    "updated_at": "2026-09-08T21:30:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 50,
+    "updated_at": "2026-09-08T21:21:34Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-08T21:18:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58293,
+    "updated_at": "2026-09-08T21:27:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T21:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11380,
+    "stars": 11381,
     "updated_at": "2026-09-08T21:11:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T21:10:38Z",
     "url": "https://github.com/sauloleite/AIPlataform"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 5,
-    "updated_at": "2026-09-08T21:04:56Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -77,35 +131,17 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T21:03:34Z",
+    "updated_at": "2026-09-08T21:15:43Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T21:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34358,
+    "stars": 34359,
     "updated_at": "2026-09-08T20:59:44Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58293,
-    "updated_at": "2026-09-08T21:12:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -115,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-09-08T20:57:46Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 134,
+    "updated_at": "2026-09-08T21:29:42Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
@@ -140,17 +185,8 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-08T21:12:42Z",
+    "updated_at": "2026-09-08T21:26:38Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24934,
-    "updated_at": "2026-09-08T21:14:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T20:42:55Z",
+    "updated_at": "2026-09-08T21:25:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -216,20 +252,11 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 49,
-    "updated_at": "2026-09-08T20:21:17Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27868,
+    "stars": 27869,
     "updated_at": "2026-09-08T20:18:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "Drlinglong/Remis",
     "stars": 26,
-    "updated_at": "2026-09-08T19:58:30Z",
+    "updated_at": "2026-09-08T21:29:21Z",
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T18:31:57Z",
     "url": "https://github.com/Viiotti/local-ai-stack"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/Modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/Modelpin",
-    "stars": 1,
-    "updated_at": "2026-09-08T18:31:13Z",
-    "url": "https://github.com/samarthputhraya/Modelpin"
-  },
-  {
-    "description": "Auto-tuning for vllm. Getting the best performance out of your LLM deployment (vllm+guidellm+optuna)",
-    "id": "InseeFrLab/auto-tuning-vllm",
-    "language": "Python",
-    "name": "InseeFrLab/auto-tuning-vllm",
-    "stars": 4,
-    "updated_at": "2026-09-08T18:30:59Z",
-    "url": "https://github.com/InseeFrLab/auto-tuning-vllm"
-  },
-  {
-    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
-    "id": "ctxmesh/ctxmesh",
-    "language": "Go",
-    "name": "ctxmesh/ctxmesh",
-    "stars": 0,
-    "updated_at": "2026-09-08T18:28:17Z",
-    "url": "https://github.com/ctxmesh/ctxmesh"
   }
 ]
