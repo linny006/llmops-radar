@@ -1,5 +1,95 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-08T20:12:36Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34355,
+    "updated_at": "2026-09-08T20:12:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:11:42Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58294,
+    "updated_at": "2026-09-08T20:15:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Amazon Polly, Transcribe a",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 23,
+    "updated_at": "2026-09-08T20:14:21Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
+    "description": "Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating.",
+    "id": "DiamondEdge1/llm-eval-ci",
+    "language": "Python",
+    "name": "DiamondEdge1/llm-eval-ci",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:06:02Z",
+    "url": "https://github.com/DiamondEdge1/llm-eval-ci"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T20:04:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:02:19Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-08T20:01:22Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
     "id": "Drlinglong/Remis",
     "language": "Python",
@@ -9,39 +99,12 @@
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T19:59:30Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T19:56:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58294,
-    "updated_at": "2026-09-08T20:00:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
     "id": "xdlc-labs/airlock",
     "language": "Go",
     "name": "xdlc-labs/airlock",
     "stars": 8,
-    "updated_at": "2026-09-08T19:48:29Z",
+    "updated_at": "2026-09-08T20:15:01Z",
     "url": "https://github.com/xdlc-labs/airlock"
   },
   {
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T19:48:09Z",
+    "updated_at": "2026-09-08T20:01:07Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T19:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -72,15 +126,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-09-08T19:44:02Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
     "id": "laputski/causa-rag",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T19:43:06Z",
     "url": "https://github.com/laputski/causa-rag"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34354,
-    "updated_at": "2026-09-08T19:37:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T19:38:14Z",
+    "updated_at": "2026-09-08T20:11:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11380,
-    "updated_at": "2026-09-08T19:40:28Z",
+    "updated_at": "2026-09-08T20:05:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30095,
-    "updated_at": "2026-09-08T19:46:31Z",
+    "updated_at": "2026-09-08T20:05:16Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/InseeFrLab/auto-tuning-vllm"
   },
   {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-08T18:29:40Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
     "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
     "id": "ctxmesh/ctxmesh",
     "language": "Go",
@@ -340,15 +367,6 @@
     "stars": 35,
     "updated_at": "2026-09-08T18:18:15Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T19:05:37Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T17:43:05Z",
     "url": "https://github.com/babaliauskas/evalshift-sdk"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-09-08T17:42:01Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 8,
-    "updated_at": "2026-09-08T17:32:18Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
   }
 ]
