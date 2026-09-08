@@ -1,21 +1,75 @@
 [
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-08T02:44:28Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 77,
-    "updated_at": "2026-09-08T02:43:47Z",
+    "updated_at": "2026-09-08T02:57:52Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24913,
+    "updated_at": "2026-09-08T02:59:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58245,
+    "updated_at": "2026-09-08T02:59:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-08T02:47:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:46:49Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Shell",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:45:44Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-08T02:48:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "",
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T02:42:16Z",
     "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Shell",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:41:25Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:42:31Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T02:41:42Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11366,
-    "updated_at": "2026-09-08T02:21:33Z",
+    "updated_at": "2026-09-08T02:58:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -162,30 +189,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58245,
-    "updated_at": "2026-09-08T02:44:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24912,
-    "updated_at": "2026-09-08T02:44:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T02:19:34Z",
+    "updated_at": "2026-09-08T02:57:52Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:23:02Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:21:48Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
