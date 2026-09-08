@@ -1,11 +1,119 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34329,
+    "updated_at": "2026-09-08T09:29:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:28:33Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T09:28:00Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-08T09:29:15Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 228,
+    "updated_at": "2026-09-08T09:26:41Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-08T09:29:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
+    "id": "mohd-faizy/the-ai-stack",
+    "language": "\u2014",
+    "name": "mohd-faizy/the-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:24:49Z",
+    "url": "https://github.com/mohd-faizy/the-ai-stack"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:20:44Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 2,
+    "updated_at": "2026-09-08T09:20:41Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "\u2014",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:18:19Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-08T09:18:18Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58268,
-    "updated_at": "2026-09-08T09:15:12Z",
+    "updated_at": "2026-09-08T09:29:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -18,31 +126,22 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2769,
-    "updated_at": "2026-09-08T09:12:41Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3525,
+    "updated_at": "2026-09-08T09:11:38Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:11:18Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T09:10:05Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24924,
+    "updated_at": "2026-09-08T09:24:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -50,17 +149,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21865,
-    "updated_at": "2026-09-08T09:12:42Z",
+    "updated_at": "2026-09-08T09:25:52Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 228,
-    "updated_at": "2026-09-08T09:11:08Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -79,24 +169,6 @@
     "stars": 38,
     "updated_at": "2026-09-08T09:00:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24922,
-    "updated_at": "2026-09-08T09:10:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11934,
-    "updated_at": "2026-09-08T09:01:08Z",
+    "updated_at": "2026-09-08T09:29:29Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -153,21 +225,12 @@
     "url": "https://github.com/jafeeri/ai-prod-monitor"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34328,
-    "updated_at": "2026-09-08T08:43:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-08T09:03:59Z",
+    "updated_at": "2026-09-08T09:26:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -203,17 +266,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T09:10:27Z",
+    "updated_at": "2026-09-08T09:17:37Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-08T09:07:00Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1949,
-    "updated_at": "2026-09-08T09:08:32Z",
+    "updated_at": "2026-09-08T09:27:54Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -261,31 +315,13 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-08T08:02:14Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 141,
-    "updated_at": "2026-09-08T08:03:45Z",
+    "updated_at": "2026-09-08T09:18:47Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:13:43Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7879,
-    "updated_at": "2026-09-08T07:57:38Z",
+    "updated_at": "2026-09-08T09:19:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T09:04:29Z",
+    "updated_at": "2026-09-08T09:19:47Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 133,
-    "updated_at": "2026-09-08T08:37:30Z",
+    "updated_at": "2026-09-08T09:26:46Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
-    "id": "zahid23saim/llm-eval-harness",
-    "language": "Python",
-    "name": "zahid23saim/llm-eval-harness",
-    "stars": 1,
-    "updated_at": "2026-09-08T07:05:17Z",
-    "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8558,
-    "updated_at": "2026-09-08T07:04:49Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:58:10Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 79,
-    "updated_at": "2026-09-08T06:58:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
