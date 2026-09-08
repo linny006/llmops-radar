@@ -1,5 +1,95 @@
 [
   {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:30:10Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58294,
+    "updated_at": "2026-09-08T20:29:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-08T20:28:22Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11380,
+    "updated_at": "2026-09-08T20:27:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:28:38Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 48,
+    "updated_at": "2026-09-08T20:21:17Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27868,
+    "updated_at": "2026-09-08T20:18:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
+    "id": "xdlc-labs/airlock",
+    "language": "Go",
+    "name": "xdlc-labs/airlock",
+    "stars": 8,
+    "updated_at": "2026-09-08T20:16:15Z",
+    "url": "https://github.com/xdlc-labs/airlock"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Amazon Polly, Transcribe a",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 23,
+    "updated_at": "2026-09-08T20:14:21Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -14,35 +104,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34355,
-    "updated_at": "2026-09-08T20:12:15Z",
+    "updated_at": "2026-09-08T20:29:15Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:11:42Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58294,
-    "updated_at": "2026-09-08T20:15:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic and Cohere compatible APIs, plus Amazon Polly, Transcribe a",
-    "id": "stdapi-ai/stdapi.ai",
-    "language": "Python",
-    "name": "stdapi-ai/stdapi.ai",
-    "stars": 23,
-    "updated_at": "2026-09-08T20:14:21Z",
-    "url": "https://github.com/stdapi-ai/stdapi.ai"
   },
   {
     "description": "Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating.",
@@ -59,7 +122,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-08T20:04:50Z",
+    "updated_at": "2026-09-08T20:27:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
     "id": "Drlinglong/Remis",
     "language": "Python",
@@ -99,21 +153,12 @@
     "url": "https://github.com/Drlinglong/Remis"
   },
   {
-    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
-    "id": "xdlc-labs/airlock",
-    "language": "Go",
-    "name": "xdlc-labs/airlock",
-    "stars": 8,
-    "updated_at": "2026-09-08T20:15:01Z",
-    "url": "https://github.com/xdlc-labs/airlock"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T20:01:07Z",
+    "updated_at": "2026-09-08T20:22:04Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24933,
-    "updated_at": "2026-09-08T19:58:31Z",
+    "updated_at": "2026-09-08T20:28:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -133,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-09-08T19:43:06Z",
     "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
+    "id": "CodesWhat/portkey-admin-mcp",
+    "language": "TypeScript",
+    "name": "CodesWhat/portkey-admin-mcp",
+    "stars": 6,
+    "updated_at": "2026-09-08T19:38:12Z",
+    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
     "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
@@ -171,15 +225,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-08T20:11:00Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -189,15 +234,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11380,
-    "updated_at": "2026-09-08T20:05:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T19:37:20Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Full Portkey Admin API MCP server",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 6,
-    "updated_at": "2026-09-08T19:38:12Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
     "description": "Governed multi-agent runtime for Petri-net workflows, scoped agent permissions, durable state, and replayable execution.",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1962,
-    "updated_at": "2026-09-08T18:32:43Z",
+    "updated_at": "2026-09-08T20:26:36Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7898,
-    "updated_at": "2026-09-08T19:46:00Z",
+    "updated_at": "2026-09-08T20:27:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 35,
     "updated_at": "2026-09-08T18:18:15Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-08T18:05:17Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T18:26:53Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-08T17:43:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
-    "id": "babaliauskas/evalshift-sdk",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:43:05Z",
-    "url": "https://github.com/babaliauskas/evalshift-sdk"
   }
 ]
