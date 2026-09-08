@@ -1,5 +1,77 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58284,
+    "updated_at": "2026-09-08T17:30:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T17:28:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T17:29:31Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:28:14Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-08T17:25:34Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "\u2014",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:17:42Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3525,
+    "updated_at": "2026-09-08T17:17:30Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T17:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
     "id": "sjfakharian/zerospend",
     "language": "JavaScript",
@@ -18,6 +90,15 @@
     "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
+    "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
+    "id": "boundflow/boundflow",
+    "language": "Python",
+    "name": "boundflow/boundflow",
+    "stars": 6,
+    "updated_at": "2026-09-08T17:11:07Z",
+    "url": "https://github.com/boundflow/boundflow"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -32,17 +113,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30093,
-    "updated_at": "2026-09-08T17:10:04Z",
+    "updated_at": "2026-09-08T17:17:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58284,
-    "updated_at": "2026-09-08T17:15:01Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
+    "id": "xdlc-labs/airlock",
+    "language": "Go",
+    "name": "xdlc-labs/airlock",
+    "stars": 8,
+    "updated_at": "2026-09-08T17:09:39Z",
+    "url": "https://github.com/xdlc-labs/airlock"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T17:06:41Z",
+    "updated_at": "2026-09-08T17:19:06Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -63,40 +144,13 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T17:14:51Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
-    "id": "xdlc-labs/airlock",
-    "language": "Go",
-    "name": "xdlc-labs/airlock",
-    "stars": 8,
-    "updated_at": "2026-09-08T17:09:39Z",
-    "url": "https://github.com/xdlc-labs/airlock"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11379,
-    "updated_at": "2026-09-08T17:15:10Z",
+    "updated_at": "2026-09-08T17:29:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T17:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -126,15 +180,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T16:55:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1961,
-    "updated_at": "2026-09-08T16:54:10Z",
+    "updated_at": "2026-09-08T17:19:57Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21873,
-    "updated_at": "2026-09-08T17:03:36Z",
+    "updated_at": "2026-09-08T17:25:39Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The Project for the Course : DS5619 MLOPS",
-    "id": "SreenathKarthick11/Sage-Serve",
-    "language": "\u2014",
-    "name": "SreenathKarthick11/Sage-Serve",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:50:54Z",
-    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 17,
-    "updated_at": "2026-09-08T16:50:12Z",
+    "updated_at": "2026-09-08T17:19:02Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24932,
-    "updated_at": "2026-09-08T17:15:06Z",
+    "updated_at": "2026-09-08T17:29:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -252,6 +288,15 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7895,
+    "updated_at": "2026-09-08T16:25:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -268,15 +313,6 @@
     "stars": 6,
     "updated_at": "2026-09-08T16:20:32Z",
     "url": "https://github.com/becloudready/workshops"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7894,
-    "updated_at": "2026-09-08T16:25:01Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34353,
-    "updated_at": "2026-09-08T16:46:55Z",
+    "updated_at": "2026-09-08T17:23:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1204,
-    "updated_at": "2026-09-08T16:58:54Z",
+    "updated_at": "2026-09-08T17:22:32Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T15:00:05Z",
     "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
-  },
-  {
-    "description": "Run-aware token governance for multi-agent systems.",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 57,
-    "updated_at": "2026-09-08T15:47:33Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:52:56Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:50:13Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:48:09Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   }
 ]
