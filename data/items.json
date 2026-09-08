@@ -1,12 +1,84 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-08T02:44:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 77,
-    "updated_at": "2026-09-08T02:28:40Z",
+    "updated_at": "2026-09-08T02:43:47Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:42:16Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Shell",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:41:25Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:42:31Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
+    "id": "fathomforge/belay",
+    "language": "TypeScript",
+    "name": "fathomforge/belay",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:34:58Z",
+    "url": "https://github.com/fathomforge/belay"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:41:42Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27850,
+    "updated_at": "2026-09-08T02:30:22Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T02:24:34Z",
     "url": "https://github.com/erjonb19/Security-Constrained-Agent-Runtime"
-  },
-  {
-    "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
-    "id": "fathomforge/belay",
-    "language": "TypeScript",
-    "name": "fathomforge/belay",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:23:41Z",
-    "url": "https://github.com/fathomforge/belay"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -45,6 +108,15 @@
     "url": "https://github.com/kogunlowo123/rag-research-assistant"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11366,
+    "updated_at": "2026-09-08T02:21:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -61,33 +133,6 @@
     "stars": 37,
     "updated_at": "2026-09-08T02:19:13Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27851,
-    "updated_at": "2026-09-08T02:30:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:17:38Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -108,15 +153,6 @@
     "url": "https://github.com/peopleforrester/packt-agentic-devops"
   },
   {
-    "description": "Autonomous ad pipeline with the evals as the product. It runs unattended and spends only when its checks pass, and they ",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Shell",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:10:57Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58245,
-    "updated_at": "2026-09-08T02:26:46Z",
+    "updated_at": "2026-09-08T02:44:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24912,
-    "updated_at": "2026-09-08T02:29:38Z",
+    "updated_at": "2026-09-08T02:44:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-08T02:20:37Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -178,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T01:55:08Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:29:29Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21859,
-    "updated_at": "2026-09-08T01:08:16Z",
+    "updated_at": "2026-09-08T02:37:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T01:31:44Z",
+    "updated_at": "2026-09-08T02:35:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:21:48Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Fault-tolerant autonomous market-arbitrage engine featuring a tripartite consensus system (PyTorch DNN, Ollama GGUF, Chr",
-    "id": "Subhrajyoti8520/autonomous_multiagent_engine",
-    "language": "Jupyter Notebook",
-    "name": "Subhrajyoti8520/autonomous_multiagent_engine",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:19:17Z",
-    "url": "https://github.com/Subhrajyoti8520/autonomous_multiagent_engine"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:18:36Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
