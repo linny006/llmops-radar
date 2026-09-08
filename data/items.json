@@ -1,12 +1,48 @@
 [
   {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:00:06Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-08T03:57:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 132,
+    "updated_at": "2026-09-08T03:50:41Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-08T03:42:36Z",
+    "updated_at": "2026-09-08T03:46:38Z",
     "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T03:43:13Z",
+    "updated_at": "2026-09-08T03:52:13Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T03:38:33Z",
+    "updated_at": "2026-09-08T03:49:29Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-08T03:38:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58248,
-    "updated_at": "2026-09-08T03:32:35Z",
+    "updated_at": "2026-09-08T03:57:24Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24914,
-    "updated_at": "2026-09-08T03:43:09Z",
+    "updated_at": "2026-09-08T03:54:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -121,7 +139,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27850,
+    "stars": 27851,
     "updated_at": "2026-09-08T03:27:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "ctxmesh/ctxmesh",
     "stars": 0,
-    "updated_at": "2026-09-08T03:36:42Z",
+    "updated_at": "2026-09-08T03:50:28Z",
     "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
@@ -160,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:19:39Z",
     "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11367,
+    "updated_at": "2026-09-08T03:04:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T02:21:37Z",
     "url": "https://github.com/kogunlowo123/rag-research-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11366,
-    "updated_at": "2026-09-08T03:04:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-07T23:28:44Z",
     "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:28:41Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:28:23Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   }
 ]
