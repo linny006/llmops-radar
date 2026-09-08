@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34342,
+    "updated_at": "2026-09-08T12:26:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-08T12:13:32Z",
+    "updated_at": "2026-09-08T12:24:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Adaptive payment routing (non-stationary bandits) + an LLM agent that diagnoses gateway failures, with the loop closed. ",
+    "id": "ShauryaaSharma/Juspay-Payment-Routing-Optimizer",
+    "language": "Python",
+    "name": "ShauryaaSharma/Juspay-Payment-Routing-Optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:22:52Z",
+    "url": "https://github.com/ShauryaaSharma/Juspay-Payment-Routing-Optimizer"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:21:49Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:20:56Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-08T12:29:57Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2769,
+    "updated_at": "2026-09-08T12:25:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-08T12:15:04Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -23,17 +95,17 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2749,
-    "updated_at": "2026-09-08T12:12:09Z",
+    "updated_at": "2026-09-08T12:27:07Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34340,
-    "updated_at": "2026-09-08T12:09:05Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "promptfoo/promptfoo",
+    "stars": 24927,
+    "updated_at": "2026-09-08T12:09:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 141,
-    "updated_at": "2026-09-08T12:13:13Z",
+    "updated_at": "2026-09-08T12:28:23Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2769,
-    "updated_at": "2026-09-08T12:03:41Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -117,21 +180,12 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5713,
-    "updated_at": "2026-09-08T11:59:42Z",
+    "updated_at": "2026-09-08T12:29:57Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
@@ -157,18 +211,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5764,
+    "stars": 5766,
     "updated_at": "2026-09-08T11:55:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:09:22Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-08T12:03:33Z",
+    "updated_at": "2026-09-08T12:28:59Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T11:41:07Z",
+    "updated_at": "2026-09-08T12:19:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-08T12:11:35Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
@@ -252,7 +288,7 @@
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
-    "description": "Core infrastructure and architectural components for AcruxCore ecosystem services.",
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
     "id": "AcruxCore/AcruxCore",
     "language": "TypeScript",
     "name": "AcruxCore/AcruxCore",
@@ -265,7 +301,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 1952,
+    "stars": 1954,
     "updated_at": "2026-09-08T11:24:57Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -274,7 +310,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58273,
+    "stars": 58274,
     "updated_at": "2026-09-08T11:21:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-08T12:11:23Z",
+    "updated_at": "2026-09-08T12:26:11Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1331,
-    "updated_at": "2026-09-08T12:14:53Z",
+    "updated_at": "2026-09-08T12:28:44Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-08T12:12:27Z",
+    "updated_at": "2026-09-08T12:23:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T11:04:04Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-08T12:15:04Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
@@ -421,32 +448,5 @@
     "stars": 27,
     "updated_at": "2026-09-08T10:27:33Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24925,
-    "updated_at": "2026-09-08T12:09:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 228,
-    "updated_at": "2026-09-08T10:24:11Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5579,
-    "updated_at": "2026-09-08T11:39:26Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
