@@ -1,21 +1,21 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T15:54:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-08T15:40:45Z",
+    "updated_at": "2026-09-08T15:53:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:43:09Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11376,
-    "updated_at": "2026-09-08T15:41:56Z",
+    "updated_at": "2026-09-08T15:52:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -31,18 +31,27 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34351,
-    "updated_at": "2026-09-08T15:43:38Z",
+    "stars": 34352,
+    "updated_at": "2026-09-08T15:49:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:32:50Z",
-    "url": "https://github.com/aimd54/palan"
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:48:30Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-08T15:59:08Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T15:30:29Z",
+    "updated_at": "2026-09-08T15:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-08T15:44:05Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -61,6 +79,33 @@
     "stars": 0,
     "updated_at": "2026-09-08T15:42:39Z",
     "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Stateful conversational AI agent built with LangGraph, SQLite, and Streamlit. Features dynamic ReAct tool-calling loops,",
+    "id": "Mr-Rup/ChatBot-in-LangGraph",
+    "language": "Python",
+    "name": "Mr-Rup/ChatBot-in-LangGraph",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:42:39Z",
+    "url": "https://github.com/Mr-Rup/ChatBot-in-LangGraph"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21869,
+    "updated_at": "2026-09-08T15:33:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:32:50Z",
+    "url": "https://github.com/aimd54/palan"
   },
   {
     "description": "Session-scoped authorization for AI agents. Stops the attack where every call is legitimate and the sequence is not.",
@@ -95,17 +140,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24930,
-    "updated_at": "2026-09-08T15:42:55Z",
+    "updated_at": "2026-09-08T15:57:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T15:13:10Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "m0thermulia/promptgold",
     "stars": 1,
-    "updated_at": "2026-09-08T15:09:46Z",
+    "updated_at": "2026-09-08T15:54:49Z",
     "url": "https://github.com/m0thermulia/promptgold"
   },
   {
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30092,
-    "updated_at": "2026-09-08T15:04:32Z",
+    "updated_at": "2026-09-08T15:58:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 57,
-    "updated_at": "2026-09-08T14:58:23Z",
+    "updated_at": "2026-09-08T15:47:33Z",
     "url": "https://github.com/theagentplane/tokenops"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58279,
-    "updated_at": "2026-09-08T15:44:15Z",
+    "updated_at": "2026-09-08T15:53:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -234,13 +270,13 @@
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21868,
-    "updated_at": "2026-09-08T15:33:33Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "future-agi/future-agi",
+    "stars": 1959,
+    "updated_at": "2026-09-08T14:41:15Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:36:53Z",
     "url": "https://github.com/laputski/causa-rag"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1958,
-    "updated_at": "2026-09-08T14:41:15Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -331,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:21:03Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-08T15:36:17Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-08T15:43:31Z",
+    "updated_at": "2026-09-08T15:52:07Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-08T14:09:32Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:05:57Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:05:45Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
   }
 ]
