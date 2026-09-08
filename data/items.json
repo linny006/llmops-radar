@@ -5,8 +5,80 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-08T03:29:46Z",
+    "updated_at": "2026-09-08T03:42:36Z",
     "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 77,
+    "updated_at": "2026-09-08T03:42:28Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:43:13Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 16,
+    "updated_at": "2026-09-08T03:40:54Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:38:33Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 37,
+    "updated_at": "2026-09-08T03:38:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-08T03:36:34Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58248,
+    "updated_at": "2026-09-08T03:32:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-08T03:29:43Z",
+    "updated_at": "2026-09-08T03:41:34Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24914,
-    "updated_at": "2026-09-08T03:29:43Z",
+    "updated_at": "2026-09-08T03:43:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:29:13Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58246,
-    "updated_at": "2026-09-08T03:28:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -58,9 +121,18 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27851,
+    "stars": 27850,
     "updated_at": "2026-09-08T03:27:01Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
+    "id": "ctxmesh/ctxmesh",
+    "language": "Go",
+    "name": "ctxmesh/ctxmesh",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:36:42Z",
+    "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
     "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
@@ -81,15 +153,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 37,
-    "updated_at": "2026-09-08T03:20:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
     "id": "alinafe82/cognitive-deadlift",
     "language": "Python",
@@ -99,42 +162,6 @@
     "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:23:16Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-08T03:20:08Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-08T03:28:38Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -142,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-09-08T03:02:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 77,
-    "updated_at": "2026-09-08T02:57:52Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:28:23Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 1,
-    "updated_at": "2026-09-07T23:28:02Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:27:38Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   }
 ]
