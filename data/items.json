@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 3,
-    "updated_at": "2026-09-08T16:44:30Z",
+    "updated_at": "2026-09-08T17:00:16Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-08T16:57:33Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -14,8 +23,98 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-08T16:45:11Z",
+    "updated_at": "2026-09-08T16:56:59Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T16:55:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:54:52Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "AI agent cost, node by node, from your OpenTelemetry traces. Thrown-away attempts included.",
+    "id": "katiiab01/Cost-Tree",
+    "language": "Python",
+    "name": "katiiab01/Cost-Tree",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:53:45Z",
+    "url": "https://github.com/katiiab01/Cost-Tree"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21873,
+    "updated_at": "2026-09-08T16:50:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "\u2014",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:50:54Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11379,
+    "updated_at": "2026-09-08T16:57:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58283,
+    "updated_at": "2026-09-08T16:57:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 142,
+    "updated_at": "2026-09-08T16:49:31Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 17,
+    "updated_at": "2026-09-08T16:50:12Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-08T16:46:22Z",
+    "url": "https://github.com/vivek-541/vivek-541"
   },
   {
     "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
@@ -23,17 +122,17 @@
     "language": "Go",
     "name": "xdlc-labs/airlock",
     "stars": 8,
-    "updated_at": "2026-09-08T16:45:14Z",
+    "updated_at": "2026-09-08T16:45:30Z",
     "url": "https://github.com/xdlc-labs/airlock"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24932,
-    "updated_at": "2026-09-08T16:43:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T16:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -45,13 +144,13 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:40:23Z",
-    "url": "https://github.com/Grace/switchboard"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24932,
+    "updated_at": "2026-09-08T16:43:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Observability for RAG and ML pipelines. Traces every stage, shows what was retrieved, what got dropped and why. Python S",
@@ -72,42 +171,6 @@
     "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11379,
-    "updated_at": "2026-09-08T16:32:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21872,
-    "updated_at": "2026-09-08T16:36:36Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T16:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T16:29:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -117,21 +180,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58282,
-    "updated_at": "2026-09-08T16:34:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 438,
-    "updated_at": "2026-09-08T16:24:51Z",
+    "updated_at": "2026-09-08T16:52:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-08T16:11:29Z",
+    "updated_at": "2026-09-08T16:46:08Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34353,
-    "updated_at": "2026-09-08T16:37:40Z",
+    "updated_at": "2026-09-08T16:46:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -225,12 +279,21 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1204,
+    "updated_at": "2026-09-08T16:58:54Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T16:36:20Z",
+    "updated_at": "2026-09-08T16:57:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -261,24 +324,6 @@
     "url": "https://github.com/clayseal/clayseal-capabilities"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-08T16:28:40Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 142,
-    "updated_at": "2026-09-08T16:25:41Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -292,7 +337,7 @@
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-09-08T15:10:31Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1960,
-    "updated_at": "2026-09-08T14:41:15Z",
+    "updated_at": "2026-09-08T16:54:10Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:25:02Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:23:48Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:23:13Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:23:08Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:23:04Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:21:18Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   }
 ]
