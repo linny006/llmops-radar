@@ -1,21 +1,111 @@
 [
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34329,
-    "updated_at": "2026-09-08T09:29:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
     "id": "MRX-72/llm-red-team-cli",
     "language": "Python",
     "name": "MRX-72/llm-red-team-cli",
     "stars": 0,
-    "updated_at": "2026-09-08T09:28:33Z",
+    "updated_at": "2026-09-08T09:44:42Z",
     "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:44:28Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34328,
+    "updated_at": "2026-09-08T09:45:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 7,
+    "updated_at": "2026-09-08T09:42:21Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21865,
+    "updated_at": "2026-09-08T09:41:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:41:27Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 228,
+    "updated_at": "2026-09-08T09:41:19Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58269,
+    "updated_at": "2026-09-08T09:43:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "\u2014",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:33:36Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T09:31:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-08T09:29:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -32,26 +122,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-08T09:29:15Z",
+    "updated_at": "2026-09-08T09:41:36Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 228,
-    "updated_at": "2026-09-08T09:26:41Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2768,
-    "updated_at": "2026-09-08T09:29:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
@@ -81,49 +153,13 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "The Project for the Course : DS5619 MLOPS",
-    "id": "SreenathKarthick11/Sage-Serve",
-    "language": "\u2014",
-    "name": "SreenathKarthick11/Sage-Serve",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:18:19Z",
-    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-09-08T09:18:18Z",
+    "updated_at": "2026-09-08T09:45:18Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58268,
-    "updated_at": "2026-09-08T09:29:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 7,
-    "updated_at": "2026-09-08T09:13:18Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-08T09:11:38Z",
+    "updated_at": "2026-09-08T09:42:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -140,17 +176,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24924,
-    "updated_at": "2026-09-08T09:24:01Z",
+    "updated_at": "2026-09-08T09:40:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21865,
-    "updated_at": "2026-09-08T09:25:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -158,17 +185,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 85,
-    "updated_at": "2026-09-08T09:07:32Z",
+    "updated_at": "2026-09-08T09:45:14Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T09:00:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11934,
-    "updated_at": "2026-09-08T09:29:29Z",
+    "updated_at": "2026-09-08T09:40:58Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-08T09:26:02Z",
+    "updated_at": "2026-09-08T09:44:37Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-08T08:50:05Z",
+    "updated_at": "2026-09-08T09:33:30Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T09:17:37Z",
+    "updated_at": "2026-09-08T09:42:29Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1949,
-    "updated_at": "2026-09-08T09:27:54Z",
+    "updated_at": "2026-09-08T09:31:27Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 141,
-    "updated_at": "2026-09-08T09:18:47Z",
+    "updated_at": "2026-09-08T09:45:08Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-08T09:04:20Z",
+    "updated_at": "2026-09-08T09:39:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T09:19:47Z",
+    "updated_at": "2026-09-08T09:42:03Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T07:24:42Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5578,
-    "updated_at": "2026-09-08T09:13:25Z",
+    "updated_at": "2026-09-08T09:41:46Z",
     "url": "https://github.com/zenml-io/zenml"
-  },
-  {
-    "description": "Point your existing SDK at one URL and reach every LLM vendor \u2014 with real failover, not a try/except. One static Rust bi",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 133,
-    "updated_at": "2026-09-08T09:26:46Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
