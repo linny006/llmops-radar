@@ -1,21 +1,102 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 85,
+    "updated_at": "2026-09-08T09:57:20Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T09:56:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3525,
+    "updated_at": "2026-09-08T09:58:45Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7880,
+    "updated_at": "2026-09-08T09:55:40Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-08T09:55:25Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
     "id": "MRX-72/llm-red-team-cli",
     "language": "Python",
     "name": "MRX-72/llm-red-team-cli",
     "stars": 0,
-    "updated_at": "2026-09-08T09:44:42Z",
+    "updated_at": "2026-09-08T09:54:38Z",
     "url": "https://github.com/MRX-72/llm-red-team-cli"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
     "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:44:28Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-08T09:56:30Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 49,
+    "updated_at": "2026-09-08T09:56:52Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-08T09:53:23Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T09:52:27Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58270,
+    "updated_at": "2026-09-08T09:51:10Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34328,
-    "updated_at": "2026-09-08T09:45:27Z",
+    "updated_at": "2026-09-08T09:58:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,8 +113,26 @@
     "language": "C++",
     "name": "hpnkv/a11",
     "stars": 7,
-    "updated_at": "2026-09-08T09:42:21Z",
+    "updated_at": "2026-09-08T09:50:48Z",
     "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:58:09Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21865,
-    "updated_at": "2026-09-08T09:41:41Z",
+    "updated_at": "2026-09-08T09:56:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -63,15 +162,6 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58269,
-    "updated_at": "2026-09-08T09:43:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The Project for the Course : DS5619 MLOPS",
     "id": "SreenathKarthick11/Sage-Serve",
     "language": "\u2014",
@@ -79,42 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T09:33:36Z",
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T09:31:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2768,
-    "updated_at": "2026-09-08T09:29:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T09:28:00Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -153,40 +207,13 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-08T09:45:18Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3525,
-    "updated_at": "2026-09-08T09:42:42Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24924,
-    "updated_at": "2026-09-08T09:40:50Z",
+    "updated_at": "2026-09-08T09:59:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-08T09:45:14Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11934,
-    "updated_at": "2026-09-08T09:40:58Z",
+    "updated_at": "2026-09-08T09:55:27Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-08T09:44:37Z",
+    "updated_at": "2026-09-08T09:49:22Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-08T09:33:30Z",
+    "updated_at": "2026-09-08T09:55:19Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "laputski/causa-rag",
     "stars": 1,
-    "updated_at": "2026-09-08T08:39:36Z",
+    "updated_at": "2026-09-08T09:59:05Z",
     "url": "https://github.com/laputski/causa-rag"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T09:42:29Z",
+    "updated_at": "2026-09-08T09:51:49Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-09-08T08:56:17Z",
+    "updated_at": "2026-09-08T09:47:07Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -342,15 +369,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7879,
-    "updated_at": "2026-09-08T09:19:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -358,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:56:29Z",
     "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-08T09:39:56Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:14:18Z",
     "url": "https://github.com/ctxmesh/ctxmesh"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5578,
-    "updated_at": "2026-09-08T09:41:46Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
