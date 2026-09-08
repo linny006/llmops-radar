@@ -1,11 +1,128 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T12:43:27Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Free read-only AI/LLM API cost review for GitHub: find token, retry, cache, and model-call signals without uploading sou",
+    "id": "leesugwan-dot/cost-doctor-github-app",
+    "language": "Python",
+    "name": "leesugwan-dot/cost-doctor-github-app",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:42:56Z",
+    "url": "https://github.com/leesugwan-dot/cost-doctor-github-app"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 16,
+    "updated_at": "2026-09-08T12:41:46Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 438,
+    "updated_at": "2026-09-08T12:41:18Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:42:02Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7887,
+    "updated_at": "2026-09-08T12:43:04Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2749,
+    "updated_at": "2026-09-08T12:37:31Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-08T12:33:23Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:33:00Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24928,
+    "updated_at": "2026-09-08T12:31:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 141,
+    "updated_at": "2026-09-08T12:33:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5714,
+    "updated_at": "2026-09-08T12:29:57Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34342,
-    "updated_at": "2026-09-08T12:26:31Z",
+    "updated_at": "2026-09-08T12:44:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -36,13 +153,13 @@
     "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:20:56Z",
-    "url": "https://github.com/crewhaus/factory"
+    "name": "lmnr-ai/lmnr",
+    "stars": 3235,
+    "updated_at": "2026-09-08T12:21:08Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -50,7 +167,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 85,
-    "updated_at": "2026-09-08T12:29:57Z",
+    "updated_at": "2026-09-08T12:40:32Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -61,15 +178,6 @@
     "stars": 2769,
     "updated_at": "2026-09-08T12:25:05Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -90,24 +198,6 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2749,
-    "updated_at": "2026-09-08T12:27:07Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24927,
-    "updated_at": "2026-09-08T12:09:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -117,21 +207,12 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 141,
-    "updated_at": "2026-09-08T12:28:23Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-08T12:12:08Z",
+    "updated_at": "2026-09-08T12:35:46Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -162,15 +243,6 @@
     "url": "https://github.com/murkbyash/llm-reliability"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7887,
-    "updated_at": "2026-09-08T12:02:19Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -178,24 +250,6 @@
     "stars": 7,
     "updated_at": "2026-09-08T12:00:46Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5713,
-    "updated_at": "2026-09-08T12:29:57Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T11:59:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -211,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5766,
+    "stars": 5769,
     "updated_at": "2026-09-08T11:55:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -243,15 +297,6 @@
     "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-08T12:19:57Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T11:43:01Z",
+    "updated_at": "2026-09-08T12:44:45Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1954,
-    "updated_at": "2026-09-08T11:24:57Z",
+    "updated_at": "2026-09-08T12:43:59Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 58274,
     "updated_at": "2026-09-08T11:21:46Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:26:11Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-08T12:23:28Z",
+    "updated_at": "2026-09-08T12:42:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,17 +392,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21867,
-    "updated_at": "2026-09-08T11:31:48Z",
+    "updated_at": "2026-09-08T12:45:01Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 438,
-    "updated_at": "2026-09-08T11:54:33Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-08T10:36:06Z",
     "url": "https://github.com/Tanisha-Katara/cacheeconomics"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-09-08T10:34:34Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop approval, and full agent traces",
-    "id": "BurraRohan/PersonaAI",
-    "language": "Python",
-    "name": "BurraRohan/PersonaAI",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:31:37Z",
-    "url": "https://github.com/BurraRohan/PersonaAI"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-08T10:27:33Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
