@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T08:55:51Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T08:54:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
+    "id": "kogunlowo123/llmops-observability",
+    "language": "Python",
+    "name": "kogunlowo123/llmops-observability",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:56:11Z",
+    "url": "https://github.com/kogunlowo123/llmops-observability"
+  },
+  {
+    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
+    "id": "aktasbatuhan/compound",
+    "language": "HTML",
+    "name": "aktasbatuhan/compound",
+    "stars": 6,
+    "updated_at": "2026-09-08T08:51:45Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11934,
+    "updated_at": "2026-09-08T08:56:50Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
+    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-09-08T08:50:42Z",
+    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-08T08:48:51Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production observability and online evaluation for LLM apps: request tracing, token cost, sampled LLM-as-judge quality s",
     "id": "jafeeri/ai-prod-monitor",
     "language": "Python",
@@ -9,12 +81,21 @@
     "url": "https://github.com/jafeeri/ai-prod-monitor"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34327,
+    "updated_at": "2026-09-08T08:43:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-08T08:42:37Z",
+    "updated_at": "2026-09-08T09:00:05Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1066,
-    "updated_at": "2026-09-08T08:45:24Z",
+    "updated_at": "2026-09-08T08:50:05Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21865,
-    "updated_at": "2026-09-08T08:41:51Z",
+    "updated_at": "2026-09-08T08:48:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 85,
-    "updated_at": "2026-09-08T08:37:56Z",
+    "updated_at": "2026-09-08T08:55:39Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-08T08:37:52Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T08:44:48Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -99,24 +171,6 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T08:34:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34326,
-    "updated_at": "2026-09-08T08:43:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -131,26 +185,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 34,
-    "updated_at": "2026-09-08T08:31:18Z",
+    "updated_at": "2026-09-08T08:56:17Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-08T08:33:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -176,17 +212,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24922,
-    "updated_at": "2026-09-08T08:36:56Z",
+    "updated_at": "2026-09-08T08:58:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11933,
-    "updated_at": "2026-09-08T08:10:23Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -229,7 +256,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7878,
+    "stars": 7879,
     "updated_at": "2026-09-08T07:57:38Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -252,21 +279,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
-    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-08T07:50:47Z",
-    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T08:12:12Z",
+    "updated_at": "2026-09-08T08:59:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -274,7 +292,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58262,
+    "stars": 58264,
     "updated_at": "2026-09-08T07:42:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -382,7 +400,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8557,
+    "stars": 8558,
     "updated_at": "2026-09-08T07:04:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-08T08:44:51Z",
+    "updated_at": "2026-09-08T08:55:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2749,
     "updated_at": "2026-09-08T06:34:34Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T06:32:44Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27853,
-    "updated_at": "2026-09-08T06:31:40Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
