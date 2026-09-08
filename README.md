@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 22:58 UTC
+> ⏰ Last updated: 2026-09-08 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Aptica-Solutions/a-mcp-runmeter](https://github.com/Aptica-Solutions/a-mcp-runmeter) | 0 | Python | 2026-09-08 | MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58300 | Python | 2026-09-08 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [CodesWhat/portkey-admin-mcp](https://github.com/CodesWhat/portkey-admin-mcp) | 6 | TypeScript | 2026-09-08 | Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-08 | Agentic Runtime |
-| 5 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-08 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 6 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-08 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58300 | Python | 2026-09-08 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-08 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [Aptica-Solutions/a-mcp-runmeter](https://github.com/Aptica-Solutions/a-mcp-runmeter) | 0 | Python | 2026-09-08 | MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability |
+| 4 | [CodesWhat/portkey-admin-mcp](https://github.com/CodesWhat/portkey-admin-mcp) | 6 | TypeScript | 2026-09-08 | Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-08 | Agentic Runtime |
+| 6 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-08 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 7 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-08 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 8 | [Grace/switchboard](https://github.com/Grace/switchboard) | 0 | Go | 2026-09-08 |  |
 | 9 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-09-08 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 10 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 6 | Python | 2026-09-08 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
