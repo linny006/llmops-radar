@@ -1,5 +1,158 @@
 [
   {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-09-08T10:15:00Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-08T10:13:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
+    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-09-08T10:13:10Z",
+    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
+  },
+  {
+    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
+    "id": "MRX-72/llm-red-team-cli",
+    "language": "Python",
+    "name": "MRX-72/llm-red-team-cli",
+    "stars": 0,
+    "updated_at": "2026-09-08T10:12:13Z",
+    "url": "https://github.com/MRX-72/llm-red-team-cli"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34330,
+    "updated_at": "2026-09-08T10:15:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 437,
+    "updated_at": "2026-09-08T10:11:48Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T10:07:16Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3525,
+    "updated_at": "2026-09-08T10:15:02Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-08T10:06:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-08T10:09:06Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21865,
+    "updated_at": "2026-09-08T10:14:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 7,
+    "updated_at": "2026-09-08T10:06:22Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-08T10:05:07Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 3,
+    "updated_at": "2026-09-08T10:12:39Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 49,
+    "updated_at": "2026-09-08T10:03:16Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-08T10:14:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T10:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -9,49 +162,13 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-08T09:56:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3525,
-    "updated_at": "2026-09-08T09:58:45Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7880,
+    "stars": 7881,
     "updated_at": "2026-09-08T09:55:40Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2768,
-    "updated_at": "2026-09-08T09:55:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Adversarial test harness for LLM applications. Canary-based, deterministic detection of prompt injection, jailbreaks, en",
-    "id": "MRX-72/llm-red-team-cli",
-    "language": "Python",
-    "name": "MRX-72/llm-red-team-cli",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:54:38Z",
-    "url": "https://github.com/MRX-72/llm-red-team-cli"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -63,15 +180,6 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
-    "id": "zenml-io/mcp-zenml",
-    "language": "Python",
-    "name": "zenml-io/mcp-zenml",
-    "stars": 49,
-    "updated_at": "2026-09-08T09:56:52Z",
-    "url": "https://github.com/zenml-io/mcp-zenml"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -81,67 +189,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-08T09:52:27Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58270,
-    "updated_at": "2026-09-08T09:51:10Z",
+    "stars": 58269,
+    "updated_at": "2026-09-08T10:08:40Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34328,
-    "updated_at": "2026-09-08T09:58:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 7,
-    "updated_at": "2026-09-08T09:50:48Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:45:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:58:09Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21865,
-    "updated_at": "2026-09-08T09:56:17Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T09:33:36Z",
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-08T09:41:36Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24924,
-    "updated_at": "2026-09-08T09:59:19Z",
+    "updated_at": "2026-09-08T10:13:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,17 +284,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11934,
-    "updated_at": "2026-09-08T09:55:27Z",
+    "updated_at": "2026-09-08T10:14:35Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
-    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:50:42Z",
-    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -275,7 +311,7 @@
     "language": "Cuda",
     "name": "alibaba/rtp-llm",
     "stars": 1330,
-    "updated_at": "2026-09-08T09:49:22Z",
+    "updated_at": "2026-09-08T10:07:57Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 1066,
     "updated_at": "2026-09-08T09:55:19Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-08T09:59:05Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T09:51:49Z",
+    "updated_at": "2026-09-08T10:14:45Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1949,
-    "updated_at": "2026-09-08T09:31:27Z",
+    "updated_at": "2026-09-08T10:13:30Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 141,
-    "updated_at": "2026-09-08T09:45:08Z",
+    "updated_at": "2026-09-08T10:02:56Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T09:42:03Z",
+    "updated_at": "2026-09-08T10:08:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T07:35:24Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-08T07:20:01Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 105,
-    "updated_at": "2026-09-08T07:19:12Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
-    "id": "ctxmesh/ctxmesh",
-    "language": "Go",
-    "name": "ctxmesh/ctxmesh",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:14:18Z",
-    "url": "https://github.com/ctxmesh/ctxmesh"
   }
 ]
