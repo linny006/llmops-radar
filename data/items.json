@@ -5,17 +5,62 @@
     "language": "Go",
     "name": "Grace/switchboard",
     "stars": 0,
-    "updated_at": "2026-09-08T03:13:13Z",
+    "updated_at": "2026-09-08T03:29:46Z",
     "url": "https://github.com/Grace/switchboard"
   },
   {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
+    "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-08T03:13:03Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
+    "updated_at": "2026-09-08T03:29:43Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24914,
+    "updated_at": "2026-09-08T03:29:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:29:13Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58246,
+    "updated_at": "2026-09-08T03:28:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2768,
+    "updated_at": "2026-09-08T03:27:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27851,
+    "updated_at": "2026-09-08T03:27:01Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
@@ -23,8 +68,17 @@
     "language": "TypeScript",
     "name": "fathomforge/belay",
     "stars": 0,
-    "updated_at": "2026-09-08T03:08:43Z",
+    "updated_at": "2026-09-08T03:25:02Z",
     "url": "https://github.com/fathomforge/belay"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:21:58Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Agentic Runtime",
@@ -32,8 +86,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 37,
-    "updated_at": "2026-09-08T03:07:27Z",
+    "updated_at": "2026-09-08T03:20:13Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:19:39Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T03:06:39Z",
+    "updated_at": "2026-09-08T03:23:16Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -50,17 +122,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-08T03:04:09Z",
+    "updated_at": "2026-09-08T03:20:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27851,
-    "updated_at": "2026-09-08T03:04:00Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T03:04:17Z",
+    "updated_at": "2026-09-08T03:28:38Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -81,24 +144,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58246,
-    "updated_at": "2026-09-08T02:59:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -108,15 +153,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24913,
-    "updated_at": "2026-09-08T03:14:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -124,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T02:47:53Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:46:49Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
@@ -148,18 +175,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21860,
+    "stars": 21861,
     "updated_at": "2026-09-08T02:37:03Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:41:42Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Capability-based security runtime for AI agents with default-deny tool mediation, policy enforcement, prompt-injection d",
@@ -207,15 +225,6 @@
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2769,
-    "updated_at": "2026-09-08T02:13:11Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
     "id": "peopleforrester/packt-agentic-devops",
     "language": "Shell",
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-08T03:05:29Z",
+    "updated_at": "2026-09-08T03:18:16Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T01:08:27Z",
     "url": "https://github.com/parag-labs/llm-in-production"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-08T01:02:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
