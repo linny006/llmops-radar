@@ -4,9 +4,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58311,
-    "updated_at": "2026-09-09T02:14:26Z",
+    "stars": 58313,
+    "updated_at": "2026-09-09T02:30:00Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:28:41Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +23,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T02:13:33Z",
+    "updated_at": "2026-09-09T02:27:37Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
+    "id": "cbratkovics/chatbot-ai-system",
+    "language": "Python",
+    "name": "cbratkovics/chatbot-ai-system",
+    "stars": 4,
+    "updated_at": "2026-09-09T02:27:34Z",
+    "url": "https://github.com/cbratkovics/chatbot-ai-system"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 547,
+    "updated_at": "2026-09-09T02:26:27Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-09-09T02:26:15Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 3,
+    "updated_at": "2026-09-09T02:28:33Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:27:37Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T02:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -54,15 +117,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:08:34Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-09T02:03:52Z",
+    "updated_at": "2026-09-09T02:24:08Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:11:32Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
     "id": "kensterinvest/tidus",
     "language": "HTML",
@@ -126,15 +171,6 @@
     "url": "https://github.com/kensterinvest/tidus"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T02:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 27872,
     "updated_at": "2026-09-09T02:00:00Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
-    "id": "cbratkovics/chatbot-ai-system",
-    "language": "Python",
-    "name": "cbratkovics/chatbot-ai-system",
-    "stars": 4,
-    "updated_at": "2026-09-09T01:58:07Z",
-    "url": "https://github.com/cbratkovics/chatbot-ai-system"
   },
   {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
@@ -198,6 +225,15 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 18,
+    "updated_at": "2026-09-09T01:11:27Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-09T01:43:19Z",
+    "updated_at": "2026-09-09T02:22:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 126,
-    "updated_at": "2026-09-09T00:41:46Z",
+    "updated_at": "2026-09-09T02:25:42Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T01:57:53Z",
+    "updated_at": "2026-09-09T02:24:33Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T22:28:40Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34367,
-    "updated_at": "2026-09-08T22:28:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:28:34Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:27:39Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-08T22:25:16Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
