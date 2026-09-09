@@ -5,35 +5,8 @@
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-09-09T10:28:43Z",
+    "updated_at": "2026-09-09T10:45:23Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T10:28:29Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "OpenTelemetry-compatible LLM observability lab for traces, budgets, prompt versions, failures and local dashboards.",
-    "id": "prashantyr/llm-observability-lab",
-    "language": "Python",
-    "name": "prashantyr/llm-observability-lab",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:28:15Z",
-    "url": "https://github.com/prashantyr/llm-observability-lab"
-  },
-  {
-    "description": "Deterministic RAG evaluation suite with golden datasets, retrieval metrics, regression reports and CI quality gates.",
-    "id": "prashantyr/rag-evaluation-ci",
-    "language": "\u2014",
-    "name": "prashantyr/rag-evaluation-ci",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:28:03Z",
-    "url": "https://github.com/prashantyr/rag-evaluation-ci"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -41,15 +14,105 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7912,
-    "updated_at": "2026-09-09T10:27:12Z",
+    "updated_at": "2026-09-09T10:43:46Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:40:23Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2781,
+    "updated_at": "2026-09-09T10:40:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T10:44:25Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
+    "language": "Python",
+    "name": "clearml/clearml",
+    "stars": 6860,
+    "updated_at": "2026-09-09T10:38:49Z",
+    "url": "https://github.com/clearml/clearml"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 5863,
+    "updated_at": "2026-09-09T10:38:25Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58354,
+    "updated_at": "2026-09-09T10:35:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deterministic RAG evaluation suite with golden datasets, retrieval metrics, regression reports and CI quality gates.",
+    "id": "prashantyr/rag-evaluation-ci",
+    "language": "Python",
+    "name": "prashantyr/rag-evaluation-ci",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:34:50Z",
+    "url": "https://github.com/prashantyr/rag-evaluation-ci"
+  },
+  {
+    "description": "OpenTelemetry-compatible LLM observability lab for traces, budgets, prompt versions, failures and local dashboards.",
+    "id": "prashantyr/llm-observability-lab",
+    "language": "Python",
+    "name": "prashantyr/llm-observability-lab",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:34:33Z",
+    "url": "https://github.com/prashantyr/llm-observability-lab"
+  },
+  {
+    "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
+    "id": "cbratkovics/chatbot-ai-system",
+    "language": "Python",
+    "name": "cbratkovics/chatbot-ai-system",
+    "stars": 4,
+    "updated_at": "2026-09-09T10:32:26Z",
+    "url": "https://github.com/cbratkovics/chatbot-ai-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24964,
+    "stars": 24965,
     "updated_at": "2026-09-09T10:24:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,24 +133,6 @@
     "stars": 38,
     "updated_at": "2026-09-09T10:19:16Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58353,
-    "updated_at": "2026-09-09T10:17:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T10:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34392,
-    "updated_at": "2026-09-09T10:17:57Z",
+    "updated_at": "2026-09-09T10:42:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 17,
     "updated_at": "2026-09-09T10:04:08Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2781,
-    "updated_at": "2026-09-09T09:53:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21888,
-    "updated_at": "2026-09-09T10:27:11Z",
+    "updated_at": "2026-09-09T10:43:44Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11943,
-    "updated_at": "2026-09-09T10:08:02Z",
+    "updated_at": "2026-09-09T10:44:43Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-09T08:46:56Z",
+    "updated_at": "2026-09-09T10:34:32Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1963,
-    "updated_at": "2026-09-09T10:28:02Z",
+    "updated_at": "2026-09-09T10:44:36Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-09T07:34:40Z",
     "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-09T07:34:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
-    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-09T07:34:23Z",
-    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-09T07:28:26Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 105,
-    "updated_at": "2026-09-09T07:27:41Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
