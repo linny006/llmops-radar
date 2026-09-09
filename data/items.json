@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58313,
-    "updated_at": "2026-09-09T02:30:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 50,
+    "updated_at": "2026-09-09T02:44:32Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 3,
+    "updated_at": "2026-09-09T02:43:46Z",
+    "url": "https://github.com/evelandhq/eveland"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-09T02:28:41Z",
+    "updated_at": "2026-09-09T02:43:37Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -23,8 +32,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T02:27:37Z",
+    "updated_at": "2026-09-09T02:43:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58314,
+    "updated_at": "2026-09-09T02:41:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:39:28Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-09T02:44:34Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
@@ -32,8 +68,35 @@
     "language": "Python",
     "name": "cbratkovics/chatbot-ai-system",
     "stars": 4,
-    "updated_at": "2026-09-09T02:27:34Z",
+    "updated_at": "2026-09-09T02:37:15Z",
     "url": "https://github.com/cbratkovics/chatbot-ai-system"
+  },
+  {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:35:07Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:43:18Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T02:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -54,39 +117,12 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 3,
-    "updated_at": "2026-09-09T02:28:33Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:27:37Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T02:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-09T02:12:24Z",
+    "updated_at": "2026-09-09T02:35:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-09T02:11:49Z",
+    "updated_at": "2026-09-09T02:31:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-09T02:06:30Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:03:58Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -193,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24941,
+    "stars": 24942,
     "updated_at": "2026-09-09T01:41:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-09T02:22:40Z",
+    "updated_at": "2026-09-09T02:37:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 126,
-    "updated_at": "2026-09-09T02:25:42Z",
+    "updated_at": "2026-09-09T02:38:31Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T00:34:00Z",
     "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-09T02:24:33Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T22:30:01Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:29:06Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:28:40Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
   }
 ]
