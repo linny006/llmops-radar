@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34396,
+    "updated_at": "2026-09-09T12:27:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-09-09T12:22:55Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:22:36Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2782,
+    "updated_at": "2026-09-09T12:21:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27881,
+    "updated_at": "2026-09-09T12:19:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T12:19:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:19:29Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-09T12:18:23Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-09T12:16:30Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T12:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The complete AI roadmap for SRE, DevOps, Cloud & Platform engineers \u2014 from AI basics to production AI. No coding require",
+    "id": "anandppatil/ai-for-sre-roadmap",
+    "language": "\u2014",
+    "name": "anandppatil/ai-for-sre-roadmap",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:13:47Z",
+    "url": "https://github.com/anandppatil/ai-for-sre-roadmap"
+  },
+  {
     "description": "Grafana + Prometheus dashboards for self-hosted LLM infrastructure: a LiteLLM gateway dashboard that attributes latency ",
     "id": "tahircengiz/grafana-dashboards",
     "language": "Python",
@@ -18,22 +117,22 @@
     "url": "https://github.com/netszzy/hiagent-builder"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21891,
+    "updated_at": "2026-09-09T12:29:02Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24966,
+    "stars": 24967,
     "updated_at": "2026-09-09T12:10:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-09T12:10:15Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-09-09T12:09:35Z",
+    "updated_at": "2026-09-09T12:28:26Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T12:09:02Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
-    "id": "vitas/evidra-bench",
-    "language": "Go",
-    "name": "vitas/evidra-bench",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:12:54Z",
-    "url": "https://github.com/vitas/evidra-bench"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -99,31 +189,13 @@
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21890,
-    "updated_at": "2026-09-09T12:10:28Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3528,
-    "updated_at": "2026-09-09T12:14:48Z",
+    "updated_at": "2026-09-09T12:22:35Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T12:04:22Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -133,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:01:27Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T12:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34394,
-    "updated_at": "2026-09-09T12:11:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Adaptive payment routing (non-stationary bandits) + an LLM agent that diagnoses gateway failures, with the loop closed. ",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T11:59:30Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-09T11:59:25Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -247,7 +292,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5872,
+    "stars": 5873,
     "updated_at": "2026-09-09T11:53:02Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58358,
-    "updated_at": "2026-09-09T12:12:20Z",
+    "updated_at": "2026-09-09T12:27:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7915,
-    "updated_at": "2026-09-09T11:56:42Z",
+    "updated_at": "2026-09-09T12:25:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 35,
     "updated_at": "2026-09-09T11:57:36Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2782,
-    "updated_at": "2026-09-09T11:40:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 447,
-    "updated_at": "2026-09-09T12:05:45Z",
+    "updated_at": "2026-09-09T12:25:05Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-09T11:21:44Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:15:01Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-09-09T11:13:33Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-09-09T11:08:41Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-09T11:08:05Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
