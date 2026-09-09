@@ -1,21 +1,12 @@
 [
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T15:06:43Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T15:04:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T15:29:04Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Agentic Runtime",
@@ -23,8 +14,71 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T15:12:57Z",
+    "updated_at": "2026-09-09T15:23:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58371,
+    "updated_at": "2026-09-09T15:21:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 13,
+    "updated_at": "2026-09-09T15:21:23Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11389,
+    "updated_at": "2026-09-09T15:19:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21894,
+    "updated_at": "2026-09-09T15:30:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T15:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T15:30:21Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34402,
+    "updated_at": "2026-09-09T15:18:14Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24973,
-    "updated_at": "2026-09-09T14:58:42Z",
+    "updated_at": "2026-09-09T15:20:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -59,17 +113,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T15:14:27Z",
+    "updated_at": "2026-09-09T15:25:42Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21895,
-    "updated_at": "2026-09-09T15:02:57Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -144,15 +189,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11389,
-    "updated_at": "2026-09-09T15:10:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
@@ -167,17 +203,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-09T14:28:09Z",
+    "updated_at": "2026-09-09T15:28:02Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58370,
-    "updated_at": "2026-09-09T15:04:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30109,
-    "updated_at": "2026-09-09T15:05:27Z",
+    "updated_at": "2026-09-09T15:20:40Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11944,
-    "updated_at": "2026-09-09T14:54:35Z",
+    "updated_at": "2026-09-09T15:16:01Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T13:53:11Z",
     "url": "https://github.com/afaryy/cloudai-platform"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T13:52:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:52:01Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3529,
-    "updated_at": "2026-09-09T15:11:51Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
