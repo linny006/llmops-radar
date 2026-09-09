@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1962,
+    "updated_at": "2026-09-09T08:28:59Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T08:26:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
+    "id": "hxaxd/kochab",
+    "language": "Python",
+    "name": "hxaxd/kochab",
+    "stars": 0,
+    "updated_at": "2026-09-09T08:24:00Z",
+    "url": "https://github.com/hxaxd/kochab"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21886,
-    "updated_at": "2026-09-09T08:14:44Z",
+    "updated_at": "2026-09-09T08:30:07Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 7,
+    "updated_at": "2026-09-09T08:22:12Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34386,
+    "updated_at": "2026-09-09T08:29:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T08:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7910,
-    "updated_at": "2026-09-09T08:14:28Z",
+    "updated_at": "2026-09-09T08:24:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T08:11:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -45,13 +90,13 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34386,
-    "updated_at": "2026-09-09T08:13:35Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58343,
+    "updated_at": "2026-09-09T08:08:46Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -90,20 +135,11 @@
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2779,
+    "stars": 2780,
     "updated_at": "2026-09-09T07:57:07Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-09-09T07:52:34Z",
+    "updated_at": "2026-09-09T08:24:00Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58339,
-    "updated_at": "2026-09-09T08:08:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -160,15 +187,6 @@
     "stars": 86,
     "updated_at": "2026-09-09T07:39:00Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1962,
-    "updated_at": "2026-09-09T08:06:55Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -247,8 +265,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24959,
-    "updated_at": "2026-09-09T07:25:03Z",
+    "stars": 24960,
+    "updated_at": "2026-09-09T08:26:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-09T06:02:34Z",
+    "updated_at": "2026-09-09T08:30:04Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -409,7 +427,7 @@
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1218,
+    "stars": 1219,
     "updated_at": "2026-09-09T05:49:43Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11941,
-    "updated_at": "2026-09-09T08:09:54Z",
+    "updated_at": "2026-09-09T08:26:12Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 49,
-    "updated_at": "2026-09-09T05:36:24Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 226,
-    "updated_at": "2026-09-09T05:33:59Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   }
 ]
