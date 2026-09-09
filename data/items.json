@@ -1,5 +1,131 @@
 [
   {
+    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:27:40Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-09T20:26:16Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Kendi donan\u0131m\u0131nda ko\u015fan LLM altyap\u0131s\u0131 i\u00e7in Grafana + Prometheus panolar\u0131: gecikmeyi ve hatay\u0131 istemci / ge\u00e7it / backend ",
+    "id": "tahircengiz/grafana-dashboards",
+    "language": "Python",
+    "name": "tahircengiz/grafana-dashboards",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:26:05Z",
+    "url": "https://github.com/tahircengiz/grafana-dashboards"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-09T20:25:54Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Jupyter Notebook",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-09T20:25:35Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:25:16Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:21:40Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:21:36Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-09T20:20:49Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T20:19:27Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:18:51Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:18:26Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:27:09Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T20:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
@@ -9,12 +135,21 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-09-09T20:13:28Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58386,
-    "updated_at": "2026-09-09T20:11:54Z",
+    "updated_at": "2026-09-09T20:21:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +180,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:08:36Z",
-    "url": "https://github.com/Grace/switchboard"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -70,15 +196,6 @@
     "stars": 23,
     "updated_at": "2026-09-09T20:08:30Z",
     "url": "https://github.com/stdapi-ai/stdapi.ai"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:08:40Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -144,15 +261,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T20:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -171,15 +279,6 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:15:01Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -187,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T19:57:08Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Kendi donan\u0131m\u0131nda ko\u015fan LLM altyap\u0131s\u0131 i\u00e7in Grafana + Prometheus panolar\u0131: gecikmeyi ve hatay\u0131 istemci / ge\u00e7it / backend ",
-    "id": "tahircengiz/grafana-dashboards",
-    "language": "Python",
-    "name": "tahircengiz/grafana-dashboards",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:55:52Z",
-    "url": "https://github.com/tahircengiz/grafana-dashboards"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -293,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11395,
-    "updated_at": "2026-09-09T20:14:25Z",
+    "updated_at": "2026-09-09T20:30:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -310,7 +400,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27887,
+    "stars": 27888,
     "updated_at": "2026-09-09T19:39:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -337,27 +427,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30109,
+    "stars": 30108,
     "updated_at": "2026-09-09T19:33:46Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:29:42Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Catch agent process regressions that final-answer evals miss. Local-first evidence packets and CI gates for governed AI ",
-    "id": "acblabs/agent-assure",
-    "language": "Python",
-    "name": "acblabs/agent-assure",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:27:13Z",
-    "url": "https://github.com/acblabs/agent-assure"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -365,7 +437,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-09T19:25:43Z",
+    "updated_at": "2026-09-09T20:27:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 296,
     "updated_at": "2026-09-09T19:18:31Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Free 10-phase roadmap: DevOps \u2192 AI-native infra. Linux, K8s, observability, DevSecOps, platform eng, MLOps, AIOps, agent",
-    "id": "sandeepk24/devops-to-ai",
-    "language": "Python",
-    "name": "sandeepk24/devops-to-ai",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:17:32Z",
-    "url": "https://github.com/sandeepk24/devops-to-ai"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:16:23Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Reproducible LLM cost optimization under quality and latency constraints",
-    "id": "ArpithKagalkar/inference-budget-lab",
-    "language": "Python",
-    "name": "ArpithKagalkar/inference-budget-lab",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:14:19Z",
-    "url": "https://github.com/ArpithKagalkar/inference-budget-lab"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 18,
-    "updated_at": "2026-09-09T19:39:26Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Jupyter Notebook",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-09T19:05:22Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-09T18:52:26Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21898,
-    "updated_at": "2026-09-09T19:37:25Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-09T19:10:08Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
