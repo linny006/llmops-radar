@@ -1,12 +1,129 @@
 [
   {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 27,
+    "updated_at": "2026-09-09T09:00:06Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-09T08:58:01Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58345,
+    "updated_at": "2026-09-09T08:56:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T09:00:17Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T08:55:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11942,
+    "updated_at": "2026-09-09T08:53:16Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-09T08:51:46Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27880,
+    "updated_at": "2026-09-09T08:49:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21887,
+    "updated_at": "2026-09-09T08:48:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T08:48:26Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34388,
+    "updated_at": "2026-09-09T08:52:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-09T08:46:56Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7910,
-    "updated_at": "2026-09-09T08:43:11Z",
+    "stars": 7912,
+    "updated_at": "2026-09-09T08:45:54Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T08:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -16,15 +133,6 @@
     "stars": 2780,
     "updated_at": "2026-09-09T08:41:24Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34387,
-    "updated_at": "2026-09-09T08:45:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,22 +162,13 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T08:26:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2748,
+    "updated_at": "2026-09-09T08:25:10Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T08:24:00Z",
     "url": "https://github.com/hxaxd/kochab"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21886,
-    "updated_at": "2026-09-09T08:40:04Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -117,24 +207,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58343,
-    "updated_at": "2026-09-09T08:08:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27879,
-    "updated_at": "2026-09-09T08:41:42Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
     "id": "agentcost-ai/agentcost-dashboard",
     "language": "TypeScript",
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "Nelsonlin0321/llm-gateway",
     "stars": 3,
-    "updated_at": "2026-09-09T08:39:00Z",
+    "updated_at": "2026-09-09T08:58:58Z",
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T07:50:08Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T07:39:00Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
@@ -252,21 +315,12 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
-    "id": "project-arbr/arbr-control-plane",
-    "language": "JavaScript",
-    "name": "project-arbr/arbr-control-plane",
-    "stars": 27,
-    "updated_at": "2026-09-09T07:27:28Z",
-    "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 443,
-    "updated_at": "2026-09-09T08:33:24Z",
+    "updated_at": "2026-09-09T08:46:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24960,
-    "updated_at": "2026-09-09T08:44:57Z",
+    "updated_at": "2026-09-09T08:59:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T07:15:42Z",
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
-    "id": "laputski/causa-rag",
-    "language": "Python",
-    "name": "laputski/causa-rag",
-    "stars": 1,
-    "updated_at": "2026-09-09T07:11:30Z",
-    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -369,15 +414,6 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 35,
-    "updated_at": "2026-09-09T07:44:23Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
     "id": "aws-samples/sample-genai-on-eks-starter-kit",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-09T06:00:21Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 85,
-    "updated_at": "2026-09-09T05:57:55Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-09T05:55:36Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1219,
-    "updated_at": "2026-09-09T05:49:43Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Self-hosted LLM observability & evaluation platform for Claude apps \u2014 tracing, cost/latency/token metrics, LLM-as-judge ",
-    "id": "ara-5/Production-LLMOps-Platform",
-    "language": "Python",
-    "name": "ara-5/Production-LLMOps-Platform",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:41:59Z",
-    "url": "https://github.com/ara-5/Production-LLMOps-Platform"
   }
 ]
