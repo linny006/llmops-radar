@@ -1,12 +1,84 @@
 [
   {
+    "description": "Enterprise Model Control Plane for multi-LLM routing, fallback, streaming, policy, identity, cost governance and observa",
+    "id": "kewinall/multi-llm-ai-gateway",
+    "language": "Python",
+    "name": "kewinall/multi-llm-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T04:30:08Z",
+    "url": "https://github.com/kewinall/multi-llm-ai-gateway"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:27:49Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58323,
+    "updated_at": "2026-09-09T04:29:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Golden datasets and an eval harness for LLM intent classification and prompt-injection guardrails. Qwen3.5 0.8B-9B local",
     "id": "nklaveren/ai-onboard",
     "language": "Python",
     "name": "nklaveren/ai-onboard",
     "stars": 0,
-    "updated_at": "2026-09-09T04:14:06Z",
+    "updated_at": "2026-09-09T04:24:34Z",
     "url": "https://github.com/nklaveren/ai-onboard"
+  },
+  {
+    "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
+    "id": "m0thermulia/promptgold",
+    "language": "Python",
+    "name": "m0thermulia/promptgold",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:24:27Z",
+    "url": "https://github.com/m0thermulia/promptgold"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T04:22:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Battle-tested ops patterns for running AI agents in production \u2014 post-change audit, self-healing watchdogs, provider fal",
+    "id": "FindingUN/agent-ops-playbook",
+    "language": "\u2014",
+    "name": "FindingUN/agent-ops-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-09T04:21:34Z",
+    "url": "https://github.com/FindingUN/agent-ops-playbook"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:16:18Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -16,15 +88,6 @@
     "stars": 11384,
     "updated_at": "2026-09-09T04:14:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
-    "id": "m0thermulia/promptgold",
-    "language": "Python",
-    "name": "m0thermulia/promptgold",
-    "stars": 1,
-    "updated_at": "2026-09-09T04:12:01Z",
-    "url": "https://github.com/m0thermulia/promptgold"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -81,33 +144,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T04:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T03:59:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58321,
-    "updated_at": "2026-09-09T04:05:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -115,15 +151,6 @@
     "stars": 5714,
     "updated_at": "2026-09-09T03:53:18Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Enterprise Model Control Plane for multi-LLM routing, fallback, streaming, policy, identity, cost governance and observa",
-    "id": "kewinall/multi-llm-ai-gateway",
-    "language": "Python",
-    "name": "kewinall/multi-llm-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:51:20Z",
-    "url": "https://github.com/kewinall/multi-llm-ai-gateway"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8561,
-    "updated_at": "2026-09-09T03:42:51Z",
+    "updated_at": "2026-09-09T04:22:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -162,21 +189,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:39:11Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-09T03:34:24Z",
+    "updated_at": "2026-09-09T04:22:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T02:55:03Z",
+    "updated_at": "2026-09-09T04:15:51Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-09T04:08:50Z",
+    "updated_at": "2026-09-09T04:27:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-09T00:12:13Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30099,
-    "updated_at": "2026-09-08T23:57:37Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:44:12Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   }
 ]
