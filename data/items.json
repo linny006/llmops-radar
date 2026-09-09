@@ -1,8 +1,53 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T23:14:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A 13-agent production pipeline that wrote, scored, translated and typeset a 29-chapter novel in three languages \u2014 with a",
+    "id": "maksym-donets/the-prompt-pipeline",
+    "language": "Shell",
+    "name": "maksym-donets/the-prompt-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-09T23:12:52Z",
+    "url": "https://github.com/maksym-donets/the-prompt-pipeline"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58391,
+    "updated_at": "2026-09-09T23:14:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T23:04:56Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T23:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "Grace/switchboard",
-    "language": "Go",
+    "language": "\u2014",
     "name": "Grace/switchboard",
     "stars": 0,
     "updated_at": "2026-09-09T23:00:17Z",
@@ -14,26 +59,8 @@
     "language": "Shell",
     "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "stars": 0,
-    "updated_at": "2026-09-09T22:57:37Z",
+    "updated_at": "2026-09-09T23:06:32Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58391,
-    "updated_at": "2026-09-09T22:57:01Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T22:56:32Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T22:55:30Z",
+    "updated_at": "2026-09-09T23:10:28Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T22:48:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -72,13 +90,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T22:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "comet-ml/opik",
+    "stars": 21901,
+    "updated_at": "2026-09-09T23:10:27Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11395,
-    "updated_at": "2026-09-09T22:57:43Z",
+    "updated_at": "2026-09-09T23:13:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-09-09T22:34:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21900,
-    "updated_at": "2026-09-09T22:41:41Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24977,
-    "updated_at": "2026-09-09T22:46:28Z",
+    "updated_at": "2026-09-09T23:11:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -232,6 +241,15 @@
     "stars": 447,
     "updated_at": "2026-09-09T22:50:35Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 2,
+    "updated_at": "2026-09-09T21:55:53Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30110,
-    "updated_at": "2026-09-09T21:15:41Z",
+    "updated_at": "2026-09-09T23:13:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:13:28Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:11:35Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:10:03Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   }
 ]
