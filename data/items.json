@@ -5,16 +5,52 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T03:15:21Z",
+    "updated_at": "2026-09-09T03:28:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:28:04Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "",
+    "id": "Grace/switchboard",
+    "language": "Go",
+    "name": "Grace/switchboard",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:27:55Z",
+    "url": "https://github.com/Grace/switchboard"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T03:25:26Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58318,
-    "updated_at": "2026-09-09T03:14:29Z",
+    "stars": 58320,
+    "updated_at": "2026-09-09T03:29:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T03:09:29Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T03:06:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "",
-    "id": "Grace/switchboard",
-    "language": "Go",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:05:57Z",
-    "url": "https://github.com/Grace/switchboard"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-09T03:12:41Z",
+    "updated_at": "2026-09-09T03:28:29Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
@@ -79,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-09T03:00:13Z",
     "url": "https://github.com/cbratkovics/chatbot-ai-system"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-09T03:00:08Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Runtime control for AI agents - replay any run, prove what happened with tamper-evident evidence, veto what must not hap",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11940,
-    "updated_at": "2026-09-09T02:44:02Z",
+    "updated_at": "2026-09-09T03:24:02Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -157,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34371,
+    "stars": 34374,
     "updated_at": "2026-09-09T02:39:39Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-09T03:12:10Z",
+    "updated_at": "2026-09-09T03:19:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -274,7 +274,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24945,
+    "stars": 24947,
     "updated_at": "2026-09-09T01:41:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -283,8 +283,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11383,
-    "updated_at": "2026-09-09T01:30:36Z",
+    "stars": 11384,
+    "updated_at": "2026-09-09T03:22:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-09T02:52:04Z",
+    "updated_at": "2026-09-09T03:21:16Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -427,7 +427,7 @@
     "id": "Netflix/metaflow",
     "language": "Python",
     "name": "Netflix/metaflow",
-    "stars": 10258,
+    "stars": 10259,
     "updated_at": "2026-09-08T23:04:42Z",
     "url": "https://github.com/Netflix/metaflow"
   },
