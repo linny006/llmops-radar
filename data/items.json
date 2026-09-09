@@ -1,5 +1,86 @@
 [
   {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-09T13:11:57Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21892,
+    "updated_at": "2026-09-09T13:13:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 126,
+    "updated_at": "2026-09-09T13:09:00Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2782,
+    "updated_at": "2026-09-09T13:06:48Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-09T13:04:13Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27882,
+    "updated_at": "2026-09-09T13:03:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34399,
+    "updated_at": "2026-09-09T13:02:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T13:12:08Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Adaptive payment routing (non-stationary bandits) + an LLM agent that diagnoses gateway failures, with the loop closed. ",
     "id": "ShauryaaSharma/Juspay-Payment-Routing-Optimizer",
     "language": "Python",
@@ -7,6 +88,24 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:59:08Z",
     "url": "https://github.com/ShauryaaSharma/Juspay-Payment-Routing-Optimizer"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-09T12:58:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-09T13:12:53Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -31,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5874,
+    "stars": 5876,
     "updated_at": "2026-09-09T12:53:24Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -50,17 +149,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58361,
-    "updated_at": "2026-09-09T12:50:17Z",
+    "updated_at": "2026-09-09T13:13:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2782,
-    "updated_at": "2026-09-09T12:49:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
@@ -70,33 +160,6 @@
     "stars": 2748,
     "updated_at": "2026-09-09T12:46:35Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-09T12:58:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34398,
-    "updated_at": "2026-09-09T13:00:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T12:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -135,15 +198,6 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T12:54:47Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -175,7 +229,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7917,
+    "stars": 7918,
     "updated_at": "2026-09-09T12:25:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:22:36Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27881,
-    "updated_at": "2026-09-09T12:19:58Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:12:11Z",
     "url": "https://github.com/netszzy/hiagent-builder"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21891,
-    "updated_at": "2026-09-09T12:58:29Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:06:45Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 126,
-    "updated_at": "2026-09-09T12:06:36Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-09T11:50:21Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Multi-provider LLM chat service \u2014 FastAPI + Next.js. Automatic failover (OpenAI \u2192 Groq), SSE streaming, response caching",
-    "id": "cbratkovics/chatbot-ai-system",
-    "language": "Python",
-    "name": "cbratkovics/chatbot-ai-system",
-    "stars": 4,
-    "updated_at": "2026-09-09T11:49:08Z",
-    "url": "https://github.com/cbratkovics/chatbot-ai-system"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-09T11:44:56Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-09T11:43:34Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
