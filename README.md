@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SoraVantia/cli-modelarium](https://github.com/SoraVantia/cli-modelarium) | 1 | Python | 2026-09-09 | Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side- |
-| 2 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-09-09 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
-| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7912 | Go | 2026-09-09 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-09 | Agentic Runtime |
-| 5 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3237 | TypeScript | 2026-09-09 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
-| 6 | [siddharthgaur1/openeval](https://github.com/siddharthgaur1/openeval) | 0 | Python | 2026-09-09 | Open-source, self-hostable LLM evaluation & observability platform |
-| 7 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 20 | Python | 2026-09-09 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-09 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [SoraVantia/cli-modelarium](https://github.com/SoraVantia/cli-modelarium) | 1 | Python | 2026-09-09 | Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side- |
+| 3 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-09-09 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
+| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7912 | Go | 2026-09-09 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-09 | Agentic Runtime |
+| 6 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3237 | TypeScript | 2026-09-09 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 7 | [siddharthgaur1/openeval](https://github.com/siddharthgaur1/openeval) | 0 | Python | 2026-09-09 | Open-source, self-hostable LLM evaluation & observability platform |
+| 8 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 20 | Python | 2026-09-09 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
 | 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21889 | Python | 2026-09-09 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 10 | [neuralnexustech/freeroute](https://github.com/neuralnexustech/freeroute) | 0 | TypeScript | 2026-09-09 | Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across  |
 | 11 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2782 | C++ | 2026-09-09 | Community maintained hardware plugin for vLLM on Ascend |
