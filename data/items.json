@@ -1,5 +1,59 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58388,
+    "updated_at": "2026-09-09T21:15:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T21:14:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30109,
+    "updated_at": "2026-09-09T21:13:38Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T21:12:07Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 23,
+    "updated_at": "2026-09-09T21:11:12Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T21:11:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -9,30 +63,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T21:08:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58388,
-    "updated_at": "2026-09-09T21:08:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 7,
-    "updated_at": "2026-09-09T21:06:54Z",
+    "updated_at": "2026-09-09T21:14:08Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
@@ -41,17 +77,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-09T21:05:25Z",
+    "updated_at": "2026-09-09T21:12:34Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
-    "id": "stdapi-ai/stdapi.ai",
-    "language": "Python",
-    "name": "stdapi-ai/stdapi.ai",
-    "stars": 23,
-    "updated_at": "2026-09-09T21:05:13Z",
-    "url": "https://github.com/stdapi-ai/stdapi.ai"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -63,15 +90,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30109,
-    "updated_at": "2026-09-09T21:01:54Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
     "id": "floatsmyboat/inferwatch",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:00:46Z",
     "url": "https://github.com/floatsmyboat/inferwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T21:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -104,17 +113,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24977,
-    "updated_at": "2026-09-09T20:57:10Z",
+    "updated_at": "2026-09-09T21:15:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T21:04:00Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-09-09T20:39:32Z",
+    "updated_at": "2026-09-09T21:14:51Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
