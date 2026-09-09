@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:29:14Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58306,
+    "updated_at": "2026-09-09T01:29:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T01:14:53Z",
+    "updated_at": "2026-09-09T01:27:15Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2774,
+    "updated_at": "2026-09-09T01:23:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24940,
+    "updated_at": "2026-09-09T01:28:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 143,
+    "updated_at": "2026-09-09T01:17:44Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-09T01:16:38Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T01:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -18,21 +81,12 @@
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2772,
-    "updated_at": "2026-09-09T01:09:13Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27872,
-    "updated_at": "2026-09-09T01:09:18Z",
+    "updated_at": "2026-09-09T01:25:41Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -43,42 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T01:07:40Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T01:07:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 143,
-    "updated_at": "2026-09-09T01:06:34Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58306,
-    "updated_at": "2026-09-09T01:13:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24939,
-    "updated_at": "2026-09-09T01:10:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3525,
-    "updated_at": "2026-09-09T01:02:14Z",
+    "updated_at": "2026-09-09T01:28:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "dr-gareth-roberts/insideLLMs",
     "stars": 1,
-    "updated_at": "2026-09-09T00:50:07Z",
+    "updated_at": "2026-09-09T01:27:08Z",
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11382,
-    "updated_at": "2026-09-09T00:22:31Z",
+    "updated_at": "2026-09-09T01:29:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T01:12:55Z",
+    "updated_at": "2026-09-09T01:25:28Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-09-08T22:55:03Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-09T00:32:43Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T22:13:05Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:11:32Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
