@@ -1,11 +1,101 @@
 [
   {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:28:43Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T10:28:29Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OpenTelemetry-compatible LLM observability lab for traces, budgets, prompt versions, failures and local dashboards.",
+    "id": "prashantyr/llm-observability-lab",
+    "language": "Python",
+    "name": "prashantyr/llm-observability-lab",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:28:15Z",
+    "url": "https://github.com/prashantyr/llm-observability-lab"
+  },
+  {
+    "description": "Deterministic RAG evaluation suite with golden datasets, retrieval metrics, regression reports and CI quality gates.",
+    "id": "prashantyr/rag-evaluation-ci",
+    "language": "\u2014",
+    "name": "prashantyr/rag-evaluation-ci",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:28:03Z",
+    "url": "https://github.com/prashantyr/rag-evaluation-ci"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7912,
+    "updated_at": "2026-09-09T10:27:12Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24964,
+    "updated_at": "2026-09-09T10:24:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T10:20:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T10:19:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58353,
+    "updated_at": "2026-09-09T10:17:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3527,
-    "updated_at": "2026-09-09T10:14:08Z",
+    "updated_at": "2026-09-09T10:19:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -16,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T10:12:02Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-09-09T10:15:22Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -45,21 +126,12 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7912,
-    "updated_at": "2026-09-09T10:14:23Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34392,
-    "updated_at": "2026-09-09T10:06:57Z",
+    "updated_at": "2026-09-09T10:17:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -76,36 +148,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30105,
+    "stars": 30107,
     "updated_at": "2026-09-09T10:04:46Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58350,
-    "updated_at": "2026-09-09T10:01:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T10:01:11Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T10:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -121,18 +166,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2780,
+    "stars": 2781,
     "updated_at": "2026-09-09T09:53:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 446,
-    "updated_at": "2026-09-09T10:07:55Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -153,15 +189,6 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T09:49:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -171,21 +198,12 @@
     "url": "https://github.com/psyb0t/aigate"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24964,
-    "updated_at": "2026-09-09T09:43:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21888,
-    "updated_at": "2026-09-09T10:13:09Z",
+    "updated_at": "2026-09-09T10:27:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1963,
-    "updated_at": "2026-09-09T10:02:43Z",
+    "updated_at": "2026-09-09T10:28:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 105,
     "updated_at": "2026-09-09T07:27:41Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 547,
-    "updated_at": "2026-09-09T07:23:46Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8568,
-    "updated_at": "2026-09-09T07:22:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
