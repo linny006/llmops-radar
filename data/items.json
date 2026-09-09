@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T15:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24973,
+    "updated_at": "2026-09-09T14:58:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T14:58:37Z",
+    "updated_at": "2026-09-09T15:04:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -18,12 +36,21 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21895,
+    "updated_at": "2026-09-09T15:02:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 447,
-    "updated_at": "2026-09-09T14:59:45Z",
+    "updated_at": "2026-09-09T15:04:01Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Jupyter Notebook",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-09-09T14:50:19Z",
+    "updated_at": "2026-09-09T15:03:26Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-09T14:49:02Z",
+    "updated_at": "2026-09-09T15:03:51Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T14:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
@@ -95,7 +113,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-09T14:41:04Z",
+    "updated_at": "2026-09-09T15:03:08Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -104,8 +122,26 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-09T14:39:30Z",
+    "updated_at": "2026-09-09T15:03:39Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-09-09T14:36:48Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11389,
+    "updated_at": "2026-09-09T14:35:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58370,
-    "updated_at": "2026-09-09T14:28:08Z",
+    "updated_at": "2026-09-09T15:04:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T14:22:52Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21894,
-    "updated_at": "2026-09-09T14:56:56Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T14:14:38Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24972,
-    "updated_at": "2026-09-09T14:58:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -369,15 +387,6 @@
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11388,
-    "updated_at": "2026-09-09T14:35:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T13:50:25Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 51,
-    "updated_at": "2026-09-09T14:47:32Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   }
 ]
