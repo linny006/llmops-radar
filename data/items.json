@@ -1,12 +1,102 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3527,
+    "updated_at": "2026-09-09T09:44:54Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2780,
+    "updated_at": "2026-09-09T09:38:03Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34391,
-    "updated_at": "2026-09-09T09:28:19Z",
+    "updated_at": "2026-09-09T09:44:33Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21888,
+    "updated_at": "2026-09-09T09:43:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 13,
+    "updated_at": "2026-09-09T09:45:25Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24963,
+    "updated_at": "2026-09-09T09:43:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-09T09:29:17Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open source, self-hosted, production-ready and enterprise-level llm gateway  for multi LLM provider  access. OpenAI- and",
+    "id": "Nelsonlin0321/llm-gateway",
+    "language": "TypeScript",
+    "name": "Nelsonlin0321/llm-gateway",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:29:14Z",
+    "url": "https://github.com/Nelsonlin0321/llm-gateway"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T09:28:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T09:44:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -23,17 +113,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 445,
-    "updated_at": "2026-09-09T09:30:06Z",
+    "updated_at": "2026-09-09T09:43:45Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T09:28:58Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
@@ -63,31 +144,13 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58347,
+    "stars": 58349,
     "updated_at": "2026-09-09T09:05:28Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21887,
-    "updated_at": "2026-09-09T09:27:17Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -97,15 +160,6 @@
     "stars": 27,
     "updated_at": "2026-09-09T09:00:06Z",
     "url": "https://github.com/project-arbr/arbr-control-plane"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T09:28:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -158,17 +212,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7912,
-    "updated_at": "2026-09-09T09:29:11Z",
+    "updated_at": "2026-09-09T09:41:53Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2780,
-    "updated_at": "2026-09-09T08:41:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -234,15 +279,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3526,
-    "updated_at": "2026-09-09T09:27:49Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
     "id": "agentcost-ai/agentcost-dashboard",
     "language": "TypeScript",
@@ -259,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T08:05:44Z",
     "url": "https://github.com/agentcost-ai/agentcost-backend"
-  },
-  {
-    "description": "Open source, self-hosted, production-ready and enterprise-level llm gateway  for multi LLM provider  access. OpenAI- and",
-    "id": "Nelsonlin0321/llm-gateway",
-    "language": "TypeScript",
-    "name": "Nelsonlin0321/llm-gateway",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:29:14Z",
-    "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
     "description": "Cost governance for LLM spend, before it happens - no more surprise bills. AiFinOps validates, tracks, and logs every ca",
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T08:24:00Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-09T09:29:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
@@ -349,15 +367,6 @@
     "stars": 105,
     "updated_at": "2026-09-09T07:27:41Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24960,
-    "updated_at": "2026-09-09T09:26:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T06:40:24Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 94,
-    "updated_at": "2026-09-09T06:07:29Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   }
 ]
