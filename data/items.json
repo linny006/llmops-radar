@@ -1,12 +1,57 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T14:58:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T14:45:02Z",
+    "updated_at": "2026-09-09T14:59:40Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T14:59:45Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2782,
+    "updated_at": "2026-09-09T14:51:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Jupyter Notebook",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-09T14:50:19Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-09T14:49:02Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +59,62 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T14:30:30Z",
+    "updated_at": "2026-09-09T14:45:30Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 23,
+    "updated_at": "2026-09-09T14:44:37Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27884,
+    "updated_at": "2026-09-09T14:59:30Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-09T14:59:46Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-09T14:41:04Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-09T14:39:30Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 523,
+    "updated_at": "2026-09-09T14:31:02Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -31,18 +130,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58369,
+    "stars": 58370,
     "updated_at": "2026-09-09T14:28:08Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
-    "id": "stdapi-ai/stdapi.ai",
-    "language": "Python",
-    "name": "stdapi-ai/stdapi.ai",
-    "stars": 23,
-    "updated_at": "2026-09-09T14:44:37Z",
-    "url": "https://github.com/stdapi-ai/stdapi.ai"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21894,
-    "updated_at": "2026-09-09T14:40:14Z",
+    "updated_at": "2026-09-09T14:56:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,15 +180,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T14:44:28Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T14:17:18Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T14:43:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24972,
-    "updated_at": "2026-09-09T14:40:38Z",
+    "updated_at": "2026-09-09T14:58:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11944,
-    "updated_at": "2026-09-09T14:05:25Z",
+    "updated_at": "2026-09-09T14:54:35Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -259,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T14:03:57Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-09T14:39:30Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3529,
-    "updated_at": "2026-09-09T14:44:32Z",
+    "updated_at": "2026-09-09T14:58:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 51,
-    "updated_at": "2026-09-09T14:00:37Z",
+    "updated_at": "2026-09-09T14:47:32Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27884,
-    "updated_at": "2026-09-09T14:43:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34401,
-    "updated_at": "2026-09-09T14:39:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 522,
-    "updated_at": "2026-09-09T14:31:02Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Golden datasets and an eval harness for LLM intent classification and prompt-injection guardrails. Qwen3.5 0.8B-9B local",
-    "id": "nklaveren/ai-onboard",
-    "language": "Python",
-    "name": "nklaveren/ai-onboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T13:46:08Z",
-    "url": "https://github.com/nklaveren/ai-onboard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7921,
-    "updated_at": "2026-09-09T13:41:17Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3239,
-    "updated_at": "2026-09-09T13:36:13Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:34:37Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
