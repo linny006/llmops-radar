@@ -1,12 +1,39 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24955,
+    "updated_at": "2026-09-09T07:15:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
     "id": "Fast-Editor/Lynkr",
     "language": "JavaScript",
     "name": "Fast-Editor/Lynkr",
     "stars": 547,
-    "updated_at": "2026-09-09T06:59:29Z",
+    "updated_at": "2026-09-09T07:12:56Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 0,
+    "updated_at": "2026-09-09T07:14:37Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T07:11:30Z",
+    "url": "https://github.com/laputski/causa-rag"
   },
   {
     "description": "Agentic Runtime",
@@ -14,17 +41,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-09T06:57:05Z",
+    "updated_at": "2026-09-09T07:11:04Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1204,
+    "updated_at": "2026-09-09T07:11:14Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58335,
+    "updated_at": "2026-09-09T07:15:02Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2776,
-    "updated_at": "2026-09-09T06:56:56Z",
+    "stars": 2777,
+    "updated_at": "2026-09-09T07:05:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-09T07:04:32Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T07:00:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -45,15 +108,6 @@
     "url": "https://github.com/jiawenyao401/agentveto"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24953,
-    "updated_at": "2026-09-09T06:58:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
     "id": "m0thermulia/promptgold",
     "language": "Python",
@@ -68,26 +122,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34379,
-    "updated_at": "2026-09-09T06:54:53Z",
+    "updated_at": "2026-09-09T07:14:30Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:48:31Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source, self-hostable LLM evaluation & observability platform",
+    "id": "siddharthgaur1/openeval",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T06:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "siddharthgaur1/openeval",
+    "stars": 0,
+    "updated_at": "2026-09-09T06:44:32Z",
+    "url": "https://github.com/siddharthgaur1/openeval"
   },
   {
     "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
@@ -106,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T06:40:24Z",
     "url": "https://github.com/vitas/evidra-bench"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1204,
-    "updated_at": "2026-09-09T06:59:47Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58333,
-    "updated_at": "2026-09-09T06:57:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
@@ -241,15 +268,6 @@
     "stars": 11941,
     "updated_at": "2026-09-09T06:55:44Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:00:30Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
     "description": "Radicalbit AI Gateway",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T05:04:38Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:03:31Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
-    "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:02:33Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
   }
 ]
