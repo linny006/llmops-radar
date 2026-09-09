@@ -1,5 +1,68 @@
 [
   {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1204,
+    "updated_at": "2026-09-09T05:44:11Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58328,
+    "updated_at": "2026-09-09T05:45:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted LLM observability & evaluation platform for Claude apps \u2014 tracing, cost/latency/token metrics, LLM-as-judge ",
+    "id": "ara-5/Production-LLMOps-Platform",
+    "language": "Python",
+    "name": "ara-5/Production-LLMOps-Platform",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:41:59Z",
+    "url": "https://github.com/ara-5/Production-LLMOps-Platform"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:39:39Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 49,
+    "updated_at": "2026-09-09T05:36:24Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 226,
+    "updated_at": "2026-09-09T05:33:59Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T05:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -81,15 +144,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Self-hosted LLM observability & evaluation platform for Claude apps \u2014 tracing, cost/latency/token metrics, LLM-as-judge ",
-    "id": "ara-5/Production-LLMOps-Platform",
-    "language": "Python",
-    "name": "ara-5/Production-LLMOps-Platform",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:17:44Z",
-    "url": "https://github.com/ara-5/Production-LLMOps-Platform"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -97,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T05:17:10Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58328,
-    "updated_at": "2026-09-09T05:29:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -315,15 +351,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:53:37Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
-  },
-  {
     "description": "Evaluation framework for testing LLM outputs locally. Define prompt templates and custom scorers, run evals against Open",
     "id": "RitikPatill/llm-eval-harness-lite-1788371242",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 86,
     "updated_at": "2026-09-09T04:06:11Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-09T04:04:38Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:03:34Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:02:06Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   }
 ]
