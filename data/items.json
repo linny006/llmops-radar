@@ -1,21 +1,84 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21893,
+    "updated_at": "2026-09-09T13:27:59Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 447,
+    "updated_at": "2026-09-09T13:27:34Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T13:29:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24969,
+    "updated_at": "2026-09-09T13:22:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 51,
+    "updated_at": "2026-09-09T13:23:22Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58362,
+    "updated_at": "2026-09-09T13:22:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-09T13:12:53Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
     "name": "mesedi-ai/mesedi",
     "stars": 0,
-    "updated_at": "2026-09-09T13:11:57Z",
+    "updated_at": "2026-09-09T13:22:14Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21892,
-    "updated_at": "2026-09-09T13:13:51Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -59,26 +122,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34399,
-    "updated_at": "2026-09-09T13:02:54Z",
+    "updated_at": "2026-09-09T13:26:29Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 447,
-    "updated_at": "2026-09-09T13:12:08Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Adaptive payment routing (non-stationary bandits) + an LLM agent that diagnoses gateway failures, with the loop closed. ",
@@ -99,21 +144,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-09-09T13:12:53Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-09T12:54:45Z",
+    "updated_at": "2026-09-09T13:27:28Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -140,17 +176,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3528,
-    "updated_at": "2026-09-09T12:57:09Z",
+    "updated_at": "2026-09-09T13:29:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58361,
-    "updated_at": "2026-09-09T13:13:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-09-09T12:28:26Z",
+    "updated_at": "2026-09-09T13:23:08Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/netszzy/hiagent-builder"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24968,
-    "updated_at": "2026-09-09T12:10:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
     "id": "justanotheruser82174/cua-lite",
     "language": "Python",
@@ -340,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:01:27Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T12:00:10Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T11:50:51Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
-    "id": "alexejsailer/agentic-nets",
-    "language": "TypeScript",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-09-09T11:50:21Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   }
 ]
