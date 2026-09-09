@@ -1,5 +1,77 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T03:59:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-09T03:59:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:58:08Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58321,
+    "updated_at": "2026-09-09T03:53:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5714,
+    "updated_at": "2026-09-09T03:53:18Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Enterprise Model Control Plane for multi-LLM routing, fallback, streaming, policy, identity, cost governance and observa",
+    "id": "kewinall/multi-llm-ai-gateway",
+    "language": "Python",
+    "name": "kewinall/multi-llm-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:51:20Z",
+    "url": "https://github.com/kewinall/multi-llm-ai-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2775,
+    "updated_at": "2026-09-09T03:46:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T03:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "Go",
@@ -9,21 +81,12 @@
     "url": "https://github.com/Grace/switchboard"
   },
   {
-    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
-    "id": "neuralnexustech/freeroute",
-    "language": "TypeScript",
-    "name": "neuralnexustech/freeroute",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:42:19Z",
-    "url": "https://github.com/neuralnexustech/freeroute"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27873,
-    "updated_at": "2026-09-09T03:40:16Z",
+    "stars": 27874,
+    "updated_at": "2026-09-09T03:50:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-09T03:42:24Z",
+    "updated_at": "2026-09-09T03:56:12Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -54,24 +117,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-09T03:28:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -79,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T03:28:04Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T03:25:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58320,
-    "updated_at": "2026-09-09T03:40:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-09T03:14:21Z",
+    "updated_at": "2026-09-09T03:54:31Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-09T02:54:51Z",
+    "updated_at": "2026-09-09T03:56:11Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-09T03:43:47Z",
+    "updated_at": "2026-09-09T03:47:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-09-09T02:11:47Z",
+    "updated_at": "2026-09-09T03:49:39Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-09-09T02:06:30Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2775,
-    "updated_at": "2026-09-09T02:03:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11384,
-    "updated_at": "2026-09-09T03:22:34Z",
+    "updated_at": "2026-09-09T03:52:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-09T03:31:34Z",
+    "updated_at": "2026-09-09T03:58:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-08T23:58:29Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 440,
-    "updated_at": "2026-09-08T23:19:09Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10259,
-    "updated_at": "2026-09-08T23:04:42Z",
-    "url": "https://github.com/Netflix/metaflow"
   }
 ]
