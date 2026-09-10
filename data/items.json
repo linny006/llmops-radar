@@ -1,20 +1,11 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58396,
-    "updated_at": "2026-09-10T01:14:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "HTML",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-10T01:14:38Z",
+    "updated_at": "2026-09-10T01:30:07Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
@@ -23,8 +14,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-10T01:09:53Z",
+    "updated_at": "2026-09-10T01:25:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-10T01:25:24Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-10T01:23:55Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Measures what actually fits in a local model's context window, splits an oversized prompt into ordered parts that do, ru",
+    "id": "ij-jkl/Pharos",
+    "language": "Python",
+    "name": "ij-jkl/Pharos",
+    "stars": 0,
+    "updated_at": "2026-09-10T01:20:34Z",
+    "url": "https://github.com/ij-jkl/Pharos"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2783,
+    "updated_at": "2026-09-10T01:20:10Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1207,
+    "updated_at": "2026-09-10T01:20:32Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58396,
+    "updated_at": "2026-09-10T01:30:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 35,
+    "updated_at": "2026-09-10T01:20:46Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T01:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -34,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-09-10T01:08:41Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T01:06:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -88,15 +142,6 @@
     "stars": 34408,
     "updated_at": "2026-09-10T00:44:30Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2783,
-    "updated_at": "2026-09-10T00:42:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11397,
-    "updated_at": "2026-09-10T00:25:36Z",
+    "updated_at": "2026-09-10T01:26:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24979,
-    "updated_at": "2026-09-10T01:13:08Z",
+    "updated_at": "2026-09-10T01:30:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -178,24 +223,6 @@
     "stars": 21904,
     "updated_at": "2026-09-10T01:06:11Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Measures what actually fits in a local model's context window, splits an oversized prompt into ordered parts that do, ru",
-    "id": "ij-jkl/Pharos",
-    "language": "Python",
-    "name": "ij-jkl/Pharos",
-    "stars": 0,
-    "updated_at": "2026-09-10T00:07:30Z",
-    "url": "https://github.com/ij-jkl/Pharos"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1207,
-    "updated_at": "2026-09-10T00:37:48Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -414,15 +441,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-09T23:15:50Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
     "description": "A 13-agent production pipeline that wrote, scored, translated and typeset a 29-chapter novel in three languages \u2014 with a",
     "id": "maksym-donets/the-prompt-pipeline",
     "language": "Shell",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T23:12:52Z",
     "url": "https://github.com/maksym-donets/the-prompt-pipeline"
-  },
-  {
-    "description": "",
-    "id": "Grace/switchboard",
-    "language": "\u2014",
-    "name": "Grace/switchboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:00:17Z",
-    "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:06:32Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   }
 ]
