@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-09-10T10:59:35Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
+    "id": "babaliauskas/evalshift-sdk",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-10T10:55:26Z",
+    "url": "https://github.com/babaliauskas/evalshift-sdk"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21915,
+    "updated_at": "2026-09-10T10:59:25Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T10:54:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3530,
-    "updated_at": "2026-09-10T10:48:25Z",
+    "updated_at": "2026-09-10T10:58:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T10:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -67,7 +94,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34434,
+    "stars": 34435,
     "updated_at": "2026-09-10T10:39:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -104,26 +131,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 136,
-    "updated_at": "2026-09-10T10:52:25Z",
+    "updated_at": "2026-09-10T10:58:47Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
-    "id": "babaliauskas/evalshift-sdk",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:35:28Z",
-    "url": "https://github.com/babaliauskas/evalshift-sdk"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-09-10T10:34:39Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
     "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
@@ -166,7 +175,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58428,
+    "stars": 58429,
     "updated_at": "2026-09-10T10:18:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 448,
-    "updated_at": "2026-09-10T10:54:15Z",
+    "updated_at": "2026-09-10T10:59:37Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -256,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 5970,
+    "stars": 5972,
     "updated_at": "2026-09-10T09:59:43Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T09:44:08Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21915,
-    "updated_at": "2026-09-10T10:47:32Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
