@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34420,
+    "updated_at": "2026-09-10T06:44:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-10T06:43:17Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 5,
+    "updated_at": "2026-09-10T06:40:57Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27895,
+    "updated_at": "2026-09-10T06:38:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 85,
+    "updated_at": "2026-09-10T06:36:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "LLM engineering knowledge cards: from Attention to production.",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 1,
+    "updated_at": "2026-09-10T06:32:08Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T06:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24984,
-    "updated_at": "2026-09-10T06:26:49Z",
+    "updated_at": "2026-09-10T06:40:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34418,
-    "updated_at": "2026-09-10T06:16:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 80,
     "updated_at": "2026-09-10T06:16:01Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58415,
-    "updated_at": "2026-09-10T06:30:21Z",
+    "updated_at": "2026-09-10T06:44:42Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 5,
-    "updated_at": "2026-09-10T06:11:59Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -115,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-09-10T06:06:39Z",
     "url": "https://github.com/boundflow/boundflow"
-  },
-  {
-    "description": "LLM engineering knowledge cards: from Attention to production.",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 1,
-    "updated_at": "2026-09-10T06:05:08Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1207,
-    "updated_at": "2026-09-10T06:01:03Z",
+    "updated_at": "2026-09-10T06:41:21Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T05:59:19Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27893,
-    "updated_at": "2026-09-10T06:28:55Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-10T05:16:47Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3530,
-    "updated_at": "2026-09-10T05:59:41Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-10T05:34:46Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
