@@ -1,12 +1,66 @@
 [
   {
+    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
+    "id": "atulkapoor/fde-framework",
+    "language": "Python",
+    "name": "atulkapoor/fde-framework",
+    "stars": 4,
+    "updated_at": "2026-09-10T12:24:02Z",
+    "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:23:15Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34440,
+    "updated_at": "2026-09-10T12:21:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27901,
+    "updated_at": "2026-09-10T12:20:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:19:09Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
     "description": "Deterministic AI agent execution runtime with schema-validated plans, bounded tool use, replay, tracing, RAG, MCP, swarm",
     "id": "axiom-llc/axiom-apex",
     "language": "Python",
     "name": "axiom-llc/axiom-apex",
     "stars": 2,
-    "updated_at": "2026-09-10T12:12:51Z",
+    "updated_at": "2026-09-10T12:18:49Z",
     "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21915,
-    "updated_at": "2026-09-10T12:12:06Z",
+    "updated_at": "2026-09-10T12:27:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34437,
-    "updated_at": "2026-09-10T12:09:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
@@ -59,17 +104,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 137,
-    "updated_at": "2026-09-10T12:14:47Z",
+    "updated_at": "2026-09-10T12:30:07Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T11:58:22Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 4,
-    "updated_at": "2026-09-10T11:58:03Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
   },
   {
     "description": "Runback Community edition \u2014 agent run capture, deterministic replay, signed audit records, evals. Source-available.",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 448,
-    "updated_at": "2026-09-10T12:12:50Z",
+    "updated_at": "2026-09-10T12:28:45Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1970,
-    "updated_at": "2026-09-10T12:07:30Z",
+    "updated_at": "2026-09-10T12:26:33Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-10T12:13:10Z",
+    "updated_at": "2026-09-10T12:26:04Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24992,
-    "updated_at": "2026-09-10T12:06:14Z",
+    "updated_at": "2026-09-10T12:19:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 392,
     "updated_at": "2026-09-10T11:34:11Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:19:58Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:19:34Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 60,
-    "updated_at": "2026-09-10T11:52:46Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   }
 ]
