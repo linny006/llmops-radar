@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 20:51 UTC
+> ⏰ Last updated: 2026-09-10 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 3 | Python | 2026-09-10 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21922 | Python | 2026-09-10 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 3 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-09-10 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
-| 4 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-10 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 5 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-10 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [Mayank-013/production-ai-readiness](https://github.com/Mayank-013/production-ai-readiness) | 0 | Python | 2026-09-10 | Skill that scans an AI app for production gaps and writes a review from your files. Install it, then type /production-ai |
-| 8 | [adarshcod30/CacheLLM](https://github.com/adarshcod30/CacheLLM) | 0 | Python | 2026-09-10 | A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock  |
-| 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30127 | TypeScript | 2026-09-10 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58457 | Python | 2026-09-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 11 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-10 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 12 | [floatsmyboat/inferwatch](https://github.com/floatsmyboat/inferwatch) | 0 | Python | 2026-09-10 | Real-time and historical metrics for locally served LLMs (Ollama and vLLM) — dashboard, HTTP API and MCP server. One pro |
-| 13 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 451 | Python | 2026-09-10 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 14 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-10 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 15 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-10 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 16 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 216 | Python | 2026-09-10 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
-| 17 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-10 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 18 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 7 | Python | 2026-09-10 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
-| 19 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34446 | TypeScript | 2026-09-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11410 | Python | 2026-09-10 | AI Observability & Evaluation |
-| 21 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-10 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 22 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-10 | Agentic Runtime |
-| 23 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-10 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 1 | [IgorGanapolsky/mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards) | 3 | JavaScript | 2026-09-10 | OS-level safeguards layer for AI agent loops — runaway-kill, timeouts & resource limits so coding agents (Claude Code, C |
+| 2 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 3 | Python | 2026-09-10 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58457 | Python | 2026-09-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [boundflow/boundflow](https://github.com/boundflow/boundflow) | 7 | Python | 2026-09-10 | Open-source control plane for AI agents that take real actions: policy-dictated lifecycle controls, approvals, durable e |
+| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-10 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 6 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-10 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-10 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21922 | Python | 2026-09-10 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 10 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-10 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 11 | [Mayank-013/production-ai-readiness](https://github.com/Mayank-013/production-ai-readiness) | 0 | Python | 2026-09-10 | Skill that scans an AI app for production gaps and writes a review from your files. Install it, then type /production-ai |
+| 12 | [adarshcod30/CacheLLM](https://github.com/adarshcod30/CacheLLM) | 0 | Python | 2026-09-10 | A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock  |
+| 13 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30127 | TypeScript | 2026-09-10 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 14 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-10 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 15 | [floatsmyboat/inferwatch](https://github.com/floatsmyboat/inferwatch) | 0 | Python | 2026-09-10 | Real-time and historical metrics for locally served LLMs (Ollama and vLLM) — dashboard, HTTP API and MCP server. One pro |
+| 16 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 451 | Python | 2026-09-10 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 17 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-10 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 18 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-10 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 19 | [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | 216 | Python | 2026-09-10 | A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval- |
+| 20 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-10 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 21 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34446 | TypeScript | 2026-09-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 22 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11410 | Python | 2026-09-10 | AI Observability & Evaluation |
+| 23 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-10 | Agentic Runtime |
 | 24 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-09-10 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
 | 25 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25007 | TypeScript | 2026-09-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 26 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-09-10 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
