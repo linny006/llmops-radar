@@ -1,5 +1,59 @@
 [
   {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 60,
+    "updated_at": "2026-09-10T12:37:57Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2792,
+    "updated_at": "2026-09-10T12:45:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21915,
+    "updated_at": "2026-09-10T12:42:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-09-10T12:40:20Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-10T12:42:48Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
     "id": "atulkapoor/fde-framework",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34440,
-    "updated_at": "2026-09-10T12:21:20Z",
+    "updated_at": "2026-09-10T12:33:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27901,
-    "updated_at": "2026-09-10T12:20:21Z",
+    "updated_at": "2026-09-10T12:37:04Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24994,
+    "updated_at": "2026-09-10T12:19:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -54,15 +117,6 @@
     "url": "https://github.com/axiom-llc/axiom-apex"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "afaryy/cloudai-platform",
     "stars": 1,
-    "updated_at": "2026-09-10T12:08:35Z",
+    "updated_at": "2026-09-10T12:43:33Z",
     "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
@@ -90,21 +144,12 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21915,
-    "updated_at": "2026-09-10T12:27:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 137,
-    "updated_at": "2026-09-10T12:30:07Z",
+    "updated_at": "2026-09-10T12:43:37Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -171,6 +216,15 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5715,
+    "updated_at": "2026-09-10T11:49:30Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
     "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
     "id": "babaliauskas/evalshift-sdk",
     "language": "Python",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 448,
-    "updated_at": "2026-09-10T12:28:45Z",
+    "updated_at": "2026-09-10T12:43:05Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1970,
-    "updated_at": "2026-09-10T12:26:33Z",
+    "updated_at": "2026-09-10T12:39:25Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/bahree/ModelAdaptationBook"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24992,
-    "updated_at": "2026-09-10T12:19:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T11:28:22Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:28:04Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:27:50Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:26:34Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58434,
-    "updated_at": "2026-09-10T11:26:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-10T11:34:11Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
