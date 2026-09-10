@@ -5,8 +5,44 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-10T22:29:40Z",
+    "updated_at": "2026-09-10T22:40:45Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-10T22:38:25Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-10T22:32:29Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-10T22:31:03Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T22:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic AI agent execution runtime with schema-validated plans, bounded tool use, replay, tracing, RAG, MCP, swarm",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58459,
-    "updated_at": "2026-09-10T22:30:19Z",
+    "updated_at": "2026-09-10T22:43:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30128,
-    "updated_at": "2026-09-10T22:26:56Z",
+    "updated_at": "2026-09-10T22:30:48Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -77,17 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11410,
-    "updated_at": "2026-09-10T22:17:27Z",
+    "updated_at": "2026-09-10T22:32:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T22:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34447,
-    "updated_at": "2026-09-10T21:51:24Z",
+    "updated_at": "2026-09-10T22:31:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T21:42:21Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-10T21:36:08Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-10T21:35:42Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-10T21:34:52Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
