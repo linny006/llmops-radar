@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-09-10T01:45:08Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "HTML",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-10T01:30:07Z",
+    "updated_at": "2026-09-10T01:44:55Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
+    "id": "matiaslanza99/SuperStore.SalesDashboard",
+    "language": "CSS",
+    "name": "matiaslanza99/SuperStore.SalesDashboard",
+    "stars": 0,
+    "updated_at": "2026-09-10T01:44:09Z",
+    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
+  },
+  {
+    "description": "Measures what actually fits in a local model's context window, splits an oversized prompt into ordered parts that do, ru",
+    "id": "ij-jkl/Pharos",
+    "language": "Python",
+    "name": "ij-jkl/Pharos",
+    "stars": 0,
+    "updated_at": "2026-09-10T01:43:58Z",
+    "url": "https://github.com/ij-jkl/Pharos"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-10T01:41:47Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-10T01:40:13Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1207,
+    "updated_at": "2026-09-10T01:38:58Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2783,
+    "updated_at": "2026-09-10T01:36:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T01:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -32,35 +104,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-10T01:23:55Z",
+    "updated_at": "2026-09-10T01:30:26Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Measures what actually fits in a local model's context window, splits an oversized prompt into ordered parts that do, ru",
-    "id": "ij-jkl/Pharos",
-    "language": "Python",
-    "name": "ij-jkl/Pharos",
-    "stars": 0,
-    "updated_at": "2026-09-10T01:20:34Z",
-    "url": "https://github.com/ij-jkl/Pharos"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2783,
-    "updated_at": "2026-09-10T01:20:10Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1207,
-    "updated_at": "2026-09-10T01:20:32Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58396,
-    "updated_at": "2026-09-10T01:30:13Z",
+    "updated_at": "2026-09-10T01:45:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -77,17 +122,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 35,
-    "updated_at": "2026-09-10T01:20:46Z",
+    "updated_at": "2026-09-10T01:44:57Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T01:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24979,
-    "updated_at": "2026-09-10T01:30:18Z",
+    "updated_at": "2026-09-10T01:44:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -385,42 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T23:36:42Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:35:57Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
-    "updated_at": "2026-09-09T23:34:52Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-09T23:32:31Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-09T23:30:54Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
