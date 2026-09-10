@@ -1,11 +1,65 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-10T04:44:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Deterministic AI agent execution runtime with schema-validated plans, bounded tool use, replay, tracing, RAG, MCP, swarm",
+    "id": "axiom-llc/axiom-apex",
+    "language": "Python",
+    "name": "axiom-llc/axiom-apex",
+    "stars": 2,
+    "updated_at": "2026-09-10T04:40:16Z",
+    "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock ",
+    "id": "adarshcod30/CacheLLM",
+    "language": "Python",
+    "name": "adarshcod30/CacheLLM",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:39:50Z",
+    "url": "https://github.com/adarshcod30/CacheLLM"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-10T04:39:17Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 5,
+    "updated_at": "2026-09-10T04:35:07Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58408,
-    "updated_at": "2026-09-10T04:29:14Z",
+    "stars": 58409,
+    "updated_at": "2026-09-10T04:44:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -18,31 +72,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-10T04:16:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-10T04:22:27Z",
+    "updated_at": "2026-09-10T04:41:10Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T04:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -54,21 +90,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 5,
-    "updated_at": "2026-09-10T04:03:51Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-10T04:03:29Z",
+    "updated_at": "2026-09-10T04:33:49Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-10T03:37:47Z",
+    "updated_at": "2026-09-10T04:40:39Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3530,
-    "updated_at": "2026-09-10T04:17:50Z",
+    "updated_at": "2026-09-10T04:37:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock ",
-    "id": "adarshcod30/CacheLLM",
-    "language": "Python",
-    "name": "adarshcod30/CacheLLM",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:23:53Z",
-    "url": "https://github.com/adarshcod30/CacheLLM"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "HTML",
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24982,
-    "updated_at": "2026-09-10T04:27:09Z",
+    "updated_at": "2026-09-10T04:44:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27892,
-    "updated_at": "2026-09-10T03:19:34Z",
+    "updated_at": "2026-09-10T04:44:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-10T03:47:10Z",
+    "updated_at": "2026-09-10T04:41:01Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 11399,
     "updated_at": "2026-09-10T04:09:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34415,
-    "updated_at": "2026-09-10T02:47:10Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:39:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
