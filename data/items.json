@@ -1,12 +1,84 @@
 [
   {
+    "description": "A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock ",
+    "id": "adarshcod30/CacheLLM",
+    "language": "Python",
+    "name": "adarshcod30/CacheLLM",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:59:57Z",
+    "url": "https://github.com/adarshcod30/CacheLLM"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2785,
+    "updated_at": "2026-09-10T02:59:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58398,
-    "updated_at": "2026-09-10T02:45:13Z",
+    "stars": 58400,
+    "updated_at": "2026-09-10T02:57:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1966,
+    "updated_at": "2026-09-10T02:56:02Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "LLM engineering knowledge cards: from Attention to production.",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:52:11Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-10T02:59:01Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-10T02:50:35Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11399,
+    "updated_at": "2026-09-10T02:51:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T02:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -14,26 +86,8 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-10T02:44:49Z",
+    "updated_at": "2026-09-10T02:49:06Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "LLM engineering knowledge cards: from Attention to production.",
-    "id": "weicyang/llm-eng-cards",
-    "language": "\u2014",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:42:58Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2783,
-    "updated_at": "2026-09-10T02:40:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T02:39:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-10T02:40:08Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24981,
-    "updated_at": "2026-09-10T02:41:45Z",
+    "updated_at": "2026-09-10T02:55:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 35,
     "updated_at": "2026-09-10T02:41:55Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T02:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -135,15 +171,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "A drop-in semantic cache for OpenAI-compatible LLM APIs. 77% hit rate and 78% cost reduction on a 2,000-request Bedrock ",
-    "id": "adarshcod30/CacheLLM",
-    "language": "Python",
-    "name": "adarshcod30/CacheLLM",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:22:02Z",
-    "url": "https://github.com/adarshcod30/CacheLLM"
-  },
-  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T02:16:04Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:12:09Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "Top LLM Ops Platform (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
@@ -230,17 +248,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34410,
-    "updated_at": "2026-09-10T02:06:33Z",
+    "updated_at": "2026-09-10T02:47:10Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11398,
-    "updated_at": "2026-09-10T02:05:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -396,6 +405,15 @@
     "url": "https://github.com/ij-jkl/Pharos"
   },
   {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2541,
+    "updated_at": "2026-09-10T01:43:34Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-10T01:25:24Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-10T01:30:26Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21905,
-    "updated_at": "2026-09-10T01:06:11Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
