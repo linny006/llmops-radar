@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-11T06:44:51Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 452,
+    "updated_at": "2026-09-11T06:41:01Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:39:12Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2753,
+    "updated_at": "2026-09-11T06:35:47Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34466,
+    "updated_at": "2026-09-11T06:42:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
+    "id": "hwdsl2/docker-litellm",
+    "language": "Shell",
+    "name": "hwdsl2/docker-litellm",
+    "stars": 8,
+    "updated_at": "2026-09-11T06:33:34Z",
+    "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-11T06:32:29Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25012,
+    "updated_at": "2026-09-11T06:37:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T06:31:02Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -7,15 +88,6 @@
     "stars": 2796,
     "updated_at": "2026-09-11T06:30:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34464,
-    "updated_at": "2026-09-11T06:27:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 24-week AI Engineering journey with Python, LLM APIs, MCP servers & production patterns. Streaming clients, multi-prov",
@@ -36,20 +108,11 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2753,
-    "updated_at": "2026-09-11T06:22:19Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58483,
+    "stars": 58486,
     "updated_at": "2026-09-11T06:21:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -67,18 +130,18 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7963,
+    "stars": 7964,
     "updated_at": "2026-09-11T06:15:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dataelement/bisheng",
+    "stars": 11950,
+    "updated_at": "2026-09-11T06:40:18Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
@@ -106,24 +169,6 @@
     "stars": 90,
     "updated_at": "2026-09-11T06:11:43Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25012,
-    "updated_at": "2026-09-11T06:28:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-11T06:09:27Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -157,8 +202,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21928,
-    "updated_at": "2026-09-11T05:44:42Z",
+    "stars": 21929,
+    "updated_at": "2026-09-11T06:40:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-11T05:13:08Z",
     "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:09:50Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-11T05:09:39Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:05:05Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:02:47Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-11T05:02:31Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
