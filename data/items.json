@@ -1,21 +1,30 @@
 [
   {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-11T17:45:08Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7977,
-    "updated_at": "2026-09-11T17:45:04Z",
+    "updated_at": "2026-09-11T17:47:52Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 32,
+    "updated_at": "2026-09-11T17:46:29Z",
+    "url": "https://github.com/maida-ai/maida"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58525,
-    "updated_at": "2026-09-11T17:42:34Z",
+    "updated_at": "2026-09-11T17:46:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25027,
-    "updated_at": "2026-09-11T17:39:43Z",
+    "updated_at": "2026-09-11T17:47:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T17:30:43Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T17:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Generate, preserve, and verify lean AGENTS.md, RUNBOOK.md, and machine-readable repo context for AI coding agents.",
