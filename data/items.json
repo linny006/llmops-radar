@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:59:05Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:57:27Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:55:04Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-09-11T06:54:44Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-11T06:50:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 7,
+    "updated_at": "2026-09-11T06:50:27Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T06:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -7,6 +70,15 @@
     "stars": 8,
     "updated_at": "2026-09-11T06:44:51Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34467,
+    "updated_at": "2026-09-11T07:00:06Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -36,15 +108,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34466,
-    "updated_at": "2026-09-11T06:42:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
     "id": "hwdsl2/docker-litellm",
     "language": "Shell",
@@ -68,17 +131,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25012,
-    "updated_at": "2026-09-11T06:37:06Z",
+    "updated_at": "2026-09-11T06:59:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T06:31:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -112,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58486,
+    "stars": 58487,
     "updated_at": "2026-09-11T06:21:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -130,7 +184,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7964,
+    "stars": 7966,
     "updated_at": "2026-09-11T06:15:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11950,
-    "updated_at": "2026-09-11T06:40:18Z",
+    "updated_at": "2026-09-11T06:47:57Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -364,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6062,
+    "stars": 6063,
     "updated_at": "2026-09-11T05:24:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T05:19:35Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:17:32Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-11T05:17:22Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:17:05Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\u8d85\u957f\u4e0a\u4e0b\u6587 MoE \u63a8\u7406\u5f15\u64ce\u4e0e KV Cache \u667a\u80fd\u7ba1\u7406\u5e73\u53f0\uff08\u7075\u611f\uff1aDeepSeek V4.1-Flash CED \u7ed3\u6784 + 890B/token KV Cache + DeepSelect \u7a00\u758f\u6ce8\u610f\u529b + DeepJIT\uff09",
-    "id": "huzjie/longcache",
-    "language": "Python",
-    "name": "huzjie/longcache",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:17:17Z",
-    "url": "https://github.com/huzjie/longcache"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:15:56Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 4,
-    "updated_at": "2026-09-11T05:13:08Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
   }
 ]
