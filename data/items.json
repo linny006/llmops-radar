@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Generate, preserve, and verify lean AGENTS.md, RUNBOOK.md, and machine-readable repo context for AI coding agents.",
+    "id": "markoblogo/AGENTS.md_generator",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11417,
-    "updated_at": "2026-09-11T17:13:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "markoblogo/AGENTS.md_generator",
+    "stars": 5,
+    "updated_at": "2026-09-11T17:29:14Z",
+    "url": "https://github.com/markoblogo/AGENTS.md_generator"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30135,
+    "updated_at": "2026-09-11T17:28:12Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1213,
+    "updated_at": "2026-09-11T17:29:00Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
+    "id": "tokenpanel/tokenpanel",
+    "language": "TypeScript",
+    "name": "tokenpanel/tokenpanel",
+    "stars": 5,
+    "updated_at": "2026-09-11T17:25:05Z",
+    "url": "https://github.com/tokenpanel/tokenpanel"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-11T17:30:05Z",
+    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +50,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58523,
-    "updated_at": "2026-09-11T17:14:01Z",
+    "updated_at": "2026-09-11T17:29:12Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deterministic, policy-based model-routing service for governed LLM gateways - eliminatory constraints, workload\u2192model-gr",
+    "id": "brunovicco/policy-model-router",
+    "language": "Python",
+    "name": "brunovicco/policy-model-router",
+    "stars": 0,
+    "updated_at": "2026-09-11T17:21:20Z",
+    "url": "https://github.com/brunovicco/policy-model-router"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25028,
+    "updated_at": "2026-09-11T17:26:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11417,
+    "updated_at": "2026-09-11T17:13:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21934,
-    "updated_at": "2026-09-11T17:09:38Z",
+    "updated_at": "2026-09-11T17:17:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,31 +126,13 @@
     "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T17:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34477,
-    "updated_at": "2026-09-11T17:12:00Z",
+    "updated_at": "2026-09-11T17:26:37Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30134,
-    "updated_at": "2026-09-11T17:14:26Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -142,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T17:14:43Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Generate, preserve, and verify lean AGENTS.md, RUNBOOK.md, and machine-readable repo context for AI coding agents.",
-    "id": "markoblogo/AGENTS.md_generator",
-    "language": "Python",
-    "name": "markoblogo/AGENTS.md_generator",
-    "stars": 5,
-    "updated_at": "2026-09-11T16:44:22Z",
-    "url": "https://github.com/markoblogo/AGENTS.md_generator"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-11T16:49:06Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -259,15 +295,6 @@
     "stars": 55,
     "updated_at": "2026-09-11T16:05:36Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25027,
-    "updated_at": "2026-09-11T17:15:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-11T17:07:34Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11950,
-    "updated_at": "2026-09-11T14:36:19Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-11T15:17:43Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2802,
-    "updated_at": "2026-09-11T14:27:54Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
