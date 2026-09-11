@@ -1,12 +1,102 @@
 [
   {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-11T12:57:46Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-11T12:56:29Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2800,
-    "updated_at": "2026-09-11T12:44:28Z",
+    "updated_at": "2026-09-11T12:56:23Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21933,
+    "updated_at": "2026-09-11T12:56:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:55:40Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58508,
+    "updated_at": "2026-09-11T12:55:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
+    "id": "afaryy/cloudai-platform",
+    "language": "TypeScript",
+    "name": "afaryy/cloudai-platform",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:52:44Z",
+    "url": "https://github.com/afaryy/cloudai-platform"
+  },
+  {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:50:35Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-11T12:53:31Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T12:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 528,
+    "updated_at": "2026-09-11T12:44:25Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34474,
-    "updated_at": "2026-09-11T12:44:30Z",
+    "updated_at": "2026-09-11T12:59:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -25,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T12:38:12Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58507,
-    "updated_at": "2026-09-11T12:36:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21932,
-    "updated_at": "2026-09-11T12:45:06Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T12:33:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T12:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25020,
-    "updated_at": "2026-09-11T12:42:46Z",
+    "updated_at": "2026-09-11T12:59:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-11T12:42:57Z",
+    "updated_at": "2026-09-11T12:59:53Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -193,7 +256,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6094,
+    "stars": 6095,
     "updated_at": "2026-09-11T12:10:44Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-09-11T12:43:24Z",
+    "updated_at": "2026-09-11T12:53:35Z",
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 527,
-    "updated_at": "2026-09-11T12:44:25Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-09-11T12:03:26Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "A practical reference framework for building secure, governed, observable, and cost-aware Cloud & AI platform capabiliti",
-    "id": "afaryy/cloudai-platform",
-    "language": "TypeScript",
-    "name": "afaryy/cloudai-platform",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:36:19Z",
-    "url": "https://github.com/afaryy/cloudai-platform"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T11:28:46Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:24:54Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:24:42Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:21:28Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:21:17Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:21:07Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
