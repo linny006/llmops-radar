@@ -1,12 +1,30 @@
 [
   {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "dataagentsai/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "dataagentsai/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-09-11T14:44:47Z",
-    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-11T15:00:07Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Deterministic AI agent execution runtime with schema-validated plans, bounded tool use, replay, tracing, RAG, MCP, swarm",
+    "id": "axiom-llc/axiom-apex",
+    "language": "Python",
+    "name": "axiom-llc/axiom-apex",
+    "stars": 2,
+    "updated_at": "2026-09-11T14:58:32Z",
+    "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25023,
+    "updated_at": "2026-09-11T14:58:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,8 +32,89 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34476,
-    "updated_at": "2026-09-11T14:44:57Z",
+    "updated_at": "2026-09-11T14:58:43Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-09-11T14:58:31Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 65,
+    "updated_at": "2026-09-11T14:56:01Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-11T14:55:34Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7974,
+    "updated_at": "2026-09-11T14:52:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
+    "id": "VenkateshDoijode/promptfoo-cicd-framework",
+    "language": "\u2014",
+    "name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:47:17Z",
+    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-11T14:46:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-11T14:45:48Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T14:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "dataagentsai/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "dataagentsai/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:44:47Z",
+    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -27,15 +126,6 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
-    "id": "VenkateshDoijode/promptfoo-cicd-framework",
-    "language": "\u2014",
-    "name": "VenkateshDoijode/promptfoo-cicd-framework",
-    "stars": 0,
-    "updated_at": "2026-09-11T14:42:50Z",
-    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
-  },
-  {
     "description": "Evidence-grounded AI investigation runtime with validated planning, adaptive execution, observability and evals.",
     "id": "banalasaisathwik/promptql",
     "language": "Python",
@@ -45,39 +135,12 @@
     "url": "https://github.com/banalasaisathwik/promptql"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7974,
-    "updated_at": "2026-09-11T14:41:37Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-11T14:38:05Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-11T14:36:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58512,
-    "updated_at": "2026-09-11T14:39:47Z",
+    "stars": 58513,
+    "updated_at": "2026-09-11T15:00:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -95,26 +158,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-11T14:43:17Z",
+    "updated_at": "2026-09-11T14:53:31Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T14:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25022,
-    "updated_at": "2026-09-11T14:38:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1976,
-    "updated_at": "2026-09-11T14:42:53Z",
+    "updated_at": "2026-09-11T14:58:11Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30133,
-    "updated_at": "2026-09-11T14:45:12Z",
+    "updated_at": "2026-09-11T14:59:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 452,
-    "updated_at": "2026-09-11T14:18:18Z",
+    "updated_at": "2026-09-11T15:00:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 94,
     "updated_at": "2026-09-11T14:09:28Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-11T14:03:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -232,24 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T13:41:10Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-11T14:35:42Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 65,
-    "updated_at": "2026-09-11T14:17:34Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 529,
-    "updated_at": "2026-09-11T14:40:35Z",
+    "updated_at": "2026-09-11T14:54:21Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-11T13:23:13Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:21:41Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:21:10Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
   }
 ]
