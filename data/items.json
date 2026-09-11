@@ -1,5 +1,77 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-11T23:14:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25035,
+    "updated_at": "2026-09-11T23:11:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-11T23:06:26Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A local-first autonomous LLMOps platform for continuous LLM evaluation, failure diagnosis, and self-healing using local ",
+    "id": "srishanthreddy456789/Sentinel",
+    "language": "TypeScript",
+    "name": "srishanthreddy456789/Sentinel",
+    "stars": 0,
+    "updated_at": "2026-09-11T23:04:31Z",
+    "url": "https://github.com/srishanthreddy456789/Sentinel"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1213,
+    "updated_at": "2026-09-11T23:05:05Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27915,
+    "updated_at": "2026-09-11T23:05:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-11T23:00:28Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T23:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-11T22:57:51Z",
+    "updated_at": "2026-09-11T23:15:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-09-11T22:55:45Z",
+    "updated_at": "2026-09-11T23:05:40Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
@@ -59,17 +131,8 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-09-11T22:48:17Z",
+    "updated_at": "2026-09-11T23:08:33Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T22:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -162,15 +225,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-11T22:52:56Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -202,8 +256,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7986,
-    "updated_at": "2026-09-11T22:29:38Z",
+    "stars": 7987,
+    "updated_at": "2026-09-11T23:04:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -270,21 +324,12 @@
     "url": "https://github.com/assevra/assevra"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-11T22:11:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58535,
-    "updated_at": "2026-09-11T22:57:14Z",
+    "updated_at": "2026-09-11T23:11:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -306,15 +351,6 @@
     "url": "https://github.com/Grace/switchboard"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27915,
-    "updated_at": "2026-09-11T22:08:37Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
     "id": "hdjebar/DSH-DDS",
     "language": "HTML",
@@ -331,15 +367,6 @@
     "stars": 1728,
     "updated_at": "2026-09-11T21:57:15Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25035,
-    "updated_at": "2026-09-11T22:53:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -405,15 +432,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
-    "id": "riscoss63/servseal",
-    "language": "Python",
-    "name": "riscoss63/servseal",
-    "stars": 1,
-    "updated_at": "2026-09-11T21:20:46Z",
-    "url": "https://github.com/riscoss63/servseal"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 2543,
     "updated_at": "2026-09-11T21:12:23Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
-    "id": "dcondrey/misterdev",
-    "language": "Python",
-    "name": "dcondrey/misterdev",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:12:16Z",
-    "url": "https://github.com/dcondrey/misterdev"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-09-11T21:09:08Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   }
 ]
