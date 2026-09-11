@@ -1,12 +1,93 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25034,
+    "updated_at": "2026-09-11T21:45:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
+    "id": "ctxmesh/ctxmesh",
+    "language": "Go",
+    "name": "ctxmesh/ctxmesh",
+    "stars": 0,
+    "updated_at": "2026-09-11T21:44:49Z",
+    "url": "https://github.com/ctxmesh/ctxmesh"
+  },
+  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1727,
-    "updated_at": "2026-09-11T21:30:09Z",
+    "updated_at": "2026-09-11T21:44:12Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11416,
+    "updated_at": "2026-09-11T21:44:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58534,
+    "updated_at": "2026-09-11T21:45:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Which LLM to run for a given task, on which API or GPU, with what configuration, backed by evidence. Joins task quality,",
+    "id": "mondegreens/apron",
+    "language": "Python",
+    "name": "mondegreens/apron",
+    "stars": 0,
+    "updated_at": "2026-09-11T21:42:45Z",
+    "url": "https://github.com/mondegreens/apron"
+  },
+  {
+    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
+    "id": "assevra/assevra",
+    "language": "Python",
+    "name": "assevra/assevra",
+    "stars": 2,
+    "updated_at": "2026-09-11T21:40:38Z",
+    "url": "https://github.com/assevra/assevra"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7984,
+    "updated_at": "2026-09-11T21:36:56Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-11T21:32:29Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T21:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -16,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T21:29:09Z",
     "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58534,
-    "updated_at": "2026-09-11T21:29:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7984,
-    "updated_at": "2026-09-11T21:22:37Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
@@ -63,30 +126,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
-    "id": "assevra/assevra",
-    "language": "Python",
-    "name": "assevra/assevra",
-    "stars": 2,
-    "updated_at": "2026-09-11T21:14:49Z",
-    "url": "https://github.com/assevra/assevra"
-  },
-  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-09-11T21:16:29Z",
+    "updated_at": "2026-09-11T21:33:36Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/dcondrey/misterdev"
   },
   {
-    "description": "Which LLM to run for a given task, on which API or GPU, with what configuration, backed by evidence. Joins task quality,",
-    "id": "mondegreens/apron",
-    "language": "Python",
-    "name": "mondegreens/apron",
-    "stars": 0,
-    "updated_at": "2026-09-11T21:09:31Z",
-    "url": "https://github.com/mondegreens/apron"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -142,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T21:07:31Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11416,
-    "updated_at": "2026-09-11T21:25:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -194,7 +221,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-11T21:13:39Z",
+    "updated_at": "2026-09-11T21:40:45Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T20:56:41Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25034,
-    "updated_at": "2026-09-11T21:26:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21940,
-    "updated_at": "2026-09-11T21:15:46Z",
+    "updated_at": "2026-09-11T21:41:46Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:20:05Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1213,
-    "updated_at": "2026-09-11T20:35:13Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
