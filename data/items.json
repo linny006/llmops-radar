@@ -1,11 +1,83 @@
 [
   {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 13,
+    "updated_at": "2026-09-11T06:13:24Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-09-11T06:12:48Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2753,
+    "updated_at": "2026-09-11T06:11:55Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 90,
+    "updated_at": "2026-09-11T06:11:43Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25012,
+    "updated_at": "2026-09-11T06:09:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-11T06:09:27Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-11T06:10:38Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58480,
-    "updated_at": "2026-09-11T05:58:04Z",
+    "stars": 58482,
+    "updated_at": "2026-09-11T06:14:56Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34464,
-    "updated_at": "2026-09-11T05:57:24Z",
+    "updated_at": "2026-09-11T06:06:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
   },
   {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2753,
-    "updated_at": "2026-09-11T05:49:15Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T05:45:49Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T05:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T05:41:28Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-11T05:40:57Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -198,15 +243,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25011,
-    "updated_at": "2026-09-11T05:57:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -229,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6056,
+    "stars": 6058,
     "updated_at": "2026-09-11T05:24:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -256,7 +292,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2795,
+    "stars": 2796,
     "updated_at": "2026-09-11T05:21:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -392,7 +428,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7963,
-    "updated_at": "2026-09-11T05:58:05Z",
+    "updated_at": "2026-09-11T06:12:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 27907,
     "updated_at": "2026-09-11T04:38:48Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 3,
-    "updated_at": "2026-09-11T04:38:14Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11414,
-    "updated_at": "2026-09-11T05:46:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 36,
-    "updated_at": "2026-09-11T04:15:58Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "A drop-in semantic cache for LLM APIs. One proxy routes to OpenAI, Gemini, Groq, Claude, Ollama and Bedrock. 77% hit rat",
-    "id": "adarshcod30/CacheLLM",
-    "language": "Python",
-    "name": "adarshcod30/CacheLLM",
-    "stars": 0,
-    "updated_at": "2026-09-11T04:03:36Z",
-    "url": "https://github.com/adarshcod30/CacheLLM"
   }
 ]
