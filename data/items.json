@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-11T16:14:20Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
     "id": "VenkateshDoijode/promptfoo-cicd-framework",
     "language": "\u2014",
     "name": "VenkateshDoijode/promptfoo-cicd-framework",
     "stars": 0,
-    "updated_at": "2026-09-11T15:58:38Z",
+    "updated_at": "2026-09-11T16:13:13Z",
     "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 452,
+    "updated_at": "2026-09-11T16:09:19Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-11T16:06:52Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34476,
+    "updated_at": "2026-09-11T16:12:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 55,
+    "updated_at": "2026-09-11T16:05:36Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58516,
+    "updated_at": "2026-09-11T16:05:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25027,
+    "updated_at": "2026-09-11T16:13:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T16:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -18,21 +90,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25025,
-    "updated_at": "2026-09-11T15:59:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-11T15:51:33Z",
+    "updated_at": "2026-09-11T16:04:12Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 94,
     "updated_at": "2026-09-11T15:49:01Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T15:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58514,
-    "updated_at": "2026-09-11T15:52:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -81,21 +126,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34476,
-    "updated_at": "2026-09-11T15:58:27Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7976,
-    "updated_at": "2026-09-11T15:57:29Z",
+    "updated_at": "2026-09-11T16:15:26Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-11T15:47:49Z",
+    "updated_at": "2026-09-11T16:12:35Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21933,
-    "updated_at": "2026-09-11T15:59:27Z",
+    "updated_at": "2026-09-11T16:11:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 44,
     "updated_at": "2026-09-11T15:03:24Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-11T15:00:07Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Deterministic AI agent execution runtime with schema-validated plans, bounded tool use, replay, tracing, RAG, MCP, swarm",
@@ -342,15 +369,6 @@
     "url": "https://github.com/1420079678-ctrl/agent-body"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 452,
-    "updated_at": "2026-09-11T15:43:45Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T13:39:22Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Lightweight, zero-dependency Python package to profile LLM prompt tokens with interactive flamegraphs, waste detection, ",
-    "id": "fjjjuv/prompt-flamegraph",
-    "language": "Python",
-    "name": "fjjjuv/prompt-flamegraph",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:36:25Z",
-    "url": "https://github.com/fjjjuv/prompt-flamegraph"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:35:42Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
