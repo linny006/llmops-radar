@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58527,
-    "updated_at": "2026-09-11T19:29:46Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:44:49Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -14,17 +14,71 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-09-11T19:29:43Z",
+    "updated_at": "2026-09-11T19:38:40Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
+    "name": "BerriAI/litellm",
+    "stars": 58528,
+    "updated_at": "2026-09-11T19:43:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-11T19:29:23Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
+    "updated_at": "2026-09-11T19:37:01Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-09-11T19:44:46Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1727,
+    "updated_at": "2026-09-11T19:35:44Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-11T19:43:05Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-11T19:34:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T19:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T19:25:02Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-11T19:24:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11416,
-    "updated_at": "2026-09-11T19:21:06Z",
+    "updated_at": "2026-09-11T19:32:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -72,6 +117,15 @@
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21939,
+    "updated_at": "2026-09-11T19:19:01Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "",
     "id": "Grace/switchboard",
     "language": "\u2014",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T19:18:07Z",
     "url": "https://github.com/Grace/switchboard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T19:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-11T19:28:59Z",
+    "updated_at": "2026-09-11T19:36:20Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -131,17 +176,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25029,
-    "updated_at": "2026-09-11T19:27:45Z",
+    "updated_at": "2026-09-11T19:42:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-11T19:29:32Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7980,
-    "updated_at": "2026-09-11T19:25:43Z",
+    "updated_at": "2026-09-11T19:30:37Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 17,
-    "updated_at": "2026-09-11T19:26:52Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -322,15 +349,6 @@
     "stars": 531,
     "updated_at": "2026-09-11T18:35:08Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21937,
-    "updated_at": "2026-09-11T19:19:01Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -409,7 +427,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6124,
+    "stars": 6125,
     "updated_at": "2026-09-11T18:24:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-11T18:23:23Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 7,
-    "updated_at": "2026-09-11T18:21:34Z",
-    "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:21:01Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
