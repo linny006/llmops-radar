@@ -1,12 +1,102 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:15:25Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11417,
+    "updated_at": "2026-09-11T19:12:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-11T19:08:59Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-11T19:08:41Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Field-tested containment for LLM agents in production: twelve principles from 18 real incidents, with runnable controls ",
+    "id": "antoniodelia-hash/blast-radius",
+    "language": "Python",
+    "name": "antoniodelia-hash/blast-radius",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:08:27Z",
+    "url": "https://github.com/antoniodelia-hash/blast-radius"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-11T19:08:18Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-09-11T19:00:24Z",
+    "updated_at": "2026-09-11T19:14:00Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25029,
+    "updated_at": "2026-09-11T19:10:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:04:01Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-11T19:01:51Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -18,15 +108,6 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
-    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
-    "id": "liuanye9-lab/codex-os-brain",
-    "language": "JavaScript",
-    "name": "liuanye9-lab/codex-os-brain",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:55:45Z",
-    "url": "https://github.com/liuanye9-lab/codex-os-brain"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T18:54:20Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Production harness and control plane for accountable AI-assisted software delivery",
-    "id": "symphos-ai/orcho-core",
-    "language": "Python",
-    "name": "symphos-ai/orcho-core",
-    "stars": 5,
-    "updated_at": "2026-09-11T18:54:56Z",
-    "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
     "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58527,
-    "updated_at": "2026-09-11T18:57:55Z",
+    "updated_at": "2026-09-11T19:12:24Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11417,
-    "updated_at": "2026-09-11T18:53:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -135,24 +198,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Field-tested containment for LLM agents in production: twelve principles from 18 real incidents, with runnable controls ",
-    "id": "antoniodelia-hash/blast-radius",
-    "language": "Python",
-    "name": "antoniodelia-hash/blast-radius",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:45:59Z",
-    "url": "https://github.com/antoniodelia-hash/blast-radius"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T18:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -167,7 +212,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-11T18:50:56Z",
+    "updated_at": "2026-09-11T19:04:33Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21937,
-    "updated_at": "2026-09-11T18:40:28Z",
+    "updated_at": "2026-09-11T19:03:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-09-11T18:32:54Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30135,
+    "updated_at": "2026-09-11T19:15:18Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
@@ -301,7 +355,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6123,
+    "stars": 6124,
     "updated_at": "2026-09-11T18:24:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -328,7 +382,7 @@
     "id": "AshwinUgale/muteval",
     "language": "Python",
     "name": "AshwinUgale/muteval",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-09-11T18:21:34Z",
     "url": "https://github.com/AshwinUgale/muteval"
   },
@@ -347,17 +401,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-11T18:54:24Z",
+    "updated_at": "2026-09-11T19:08:44Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25027,
-    "updated_at": "2026-09-11T18:59:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 453,
-    "updated_at": "2026-09-11T18:16:30Z",
+    "updated_at": "2026-09-11T19:04:07Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -391,7 +436,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8597,
+    "stars": 8598,
     "updated_at": "2026-09-11T18:09:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T18:09:20Z",
     "url": "https://github.com/Subhrajyoti8520/enterprise-rag-evaluation"
-  },
-  {
-    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
-    "id": "Helicone/helicone",
-    "language": "TypeScript",
-    "name": "Helicone/helicone",
-    "stars": 6148,
-    "updated_at": "2026-09-11T18:07:13Z",
-    "url": "https://github.com/Helicone/helicone"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:06:57Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Fault-tolerant autonomous market-arbitrage engine featuring a tripartite consensus system (PyTorch DNN, Ollama GGUF, Chr",
-    "id": "Subhrajyoti8520/autonomous_multiagent_engine",
-    "language": "Python",
-    "name": "Subhrajyoti8520/autonomous_multiagent_engine",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:06:37Z",
-    "url": "https://github.com/Subhrajyoti8520/autonomous_multiagent_engine"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30135,
-    "updated_at": "2026-09-11T18:32:43Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-11T18:04:02Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
