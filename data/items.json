@@ -1,10 +1,73 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25010,
+    "updated_at": "2026-09-11T04:45:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2794,
+    "updated_at": "2026-09-11T04:41:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27907,
+    "updated_at": "2026-09-11T04:38:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
+    "id": "aroraneel/AI-Engineer",
+    "language": "Jupyter Notebook",
+    "name": "aroraneel/AI-Engineer",
+    "stars": 3,
+    "updated_at": "2026-09-11T04:38:14Z",
+    "url": "https://github.com/aroraneel/AI-Engineer"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-11T04:36:38Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58477,
+    "updated_at": "2026-09-11T04:41:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T04:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6051,
+    "stars": 6053,
     "updated_at": "2026-09-11T04:23:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -16,42 +79,6 @@
     "stars": 36,
     "updated_at": "2026-09-11T04:15:58Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T04:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58476,
-    "updated_at": "2026-09-11T04:12:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25010,
-    "updated_at": "2026-09-11T04:24:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "165-day journey from Python & statistics fundamentals to production-grade AI/ML systems \u2014 SQL, classical ML, deep learni",
-    "id": "aroraneel/AI-Engineer",
-    "language": "Jupyter Notebook",
-    "name": "aroraneel/AI-Engineer",
-    "stars": 3,
-    "updated_at": "2026-09-11T04:06:50Z",
-    "url": "https://github.com/aroraneel/AI-Engineer"
   },
   {
     "description": "A drop-in semantic cache for LLM APIs. One proxy routes to OpenAI, Gemini, Groq, Claude, Ollama and Bedrock. 77% hit rat",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11413,
-    "updated_at": "2026-09-11T04:11:46Z",
+    "updated_at": "2026-09-11T04:35:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-11T03:49:00Z",
+    "updated_at": "2026-09-11T04:39:20Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 140,
-    "updated_at": "2026-09-11T04:24:09Z",
+    "updated_at": "2026-09-11T04:44:56Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-11T04:19:15Z",
+    "updated_at": "2026-09-11T04:45:19Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2794,
-    "updated_at": "2026-09-11T03:47:35Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T03:01:44Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-11T03:01:19Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 5,
-    "updated_at": "2026-09-11T03:01:16Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   }
 ]
