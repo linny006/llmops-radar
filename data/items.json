@@ -1,12 +1,84 @@
 [
   {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:26:45Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58470,
+    "updated_at": "2026-09-11T02:30:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3531,
+    "updated_at": "2026-09-11T02:28:52Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1333,
+    "updated_at": "2026-09-11T02:24:50Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-11T02:21:07Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-11T02:14:58Z",
+    "updated_at": "2026-09-11T02:23:51Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-11T02:15:37Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T02:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-11T02:15:23Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -14,26 +86,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2794,
-    "updated_at": "2026-09-11T02:10:24Z",
+    "updated_at": "2026-09-11T02:15:29Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58468,
-    "updated_at": "2026-09-11T02:13:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-09-11T02:08:29Z",
-    "url": "https://github.com/msanket9/stillsane"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -72,15 +126,6 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21924,
-    "updated_at": "2026-09-11T01:52:39Z",
+    "updated_at": "2026-09-11T02:21:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 38,
     "updated_at": "2026-09-11T01:16:39Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-11T01:57:53Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25008,
-    "updated_at": "2026-09-11T01:55:50Z",
+    "updated_at": "2026-09-11T02:15:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T23:48:10Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:45:18Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-10T23:43:25Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-10T23:42:25Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:45:59Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   }
 ]
