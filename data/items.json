@@ -1,5 +1,113 @@
 [
   {
+    "description": "Minimal local GraphRAG stack: PDF \u2192 Neo4j knowledge graph \u2192 Cypher QA. No cloud APIs, $0 per query.",
+    "id": "kaziava/local-graphrag-starter",
+    "language": "Python",
+    "name": "kaziava/local-graphrag-starter",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:29:53Z",
+    "url": "https://github.com/kaziava/local-graphrag-starter"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-11T08:28:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3531,
+    "updated_at": "2026-09-11T08:29:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-11T08:27:08Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2753,
+    "updated_at": "2026-09-11T08:26:10Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:26:56Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-11T08:25:25Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
+    "id": "qiantongtech/qKnow",
+    "language": "Java",
+    "name": "qiantongtech/qKnow",
+    "stars": 277,
+    "updated_at": "2026-09-11T08:28:43Z",
+    "url": "https://github.com/qiantongtech/qKnow"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 452,
+    "updated_at": "2026-09-11T08:27:37Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34470,
+    "updated_at": "2026-09-11T08:29:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25014,
+    "updated_at": "2026-09-11T08:28:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -27,24 +135,6 @@
     "url": "https://github.com/agentcost-ai/agentcost-dashboard"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-11T08:09:33Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34469,
-    "updated_at": "2026-09-11T08:14:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
     "id": "sophie-nguyenthuthuy/llm-pricing-history",
     "language": "Python",
@@ -54,40 +144,22 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-11T08:06:10Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11949,
+    "updated_at": "2026-09-11T08:04:39Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58494,
-    "updated_at": "2026-09-11T08:02:23Z",
+    "stars": 58495,
+    "updated_at": "2026-09-11T08:28:29Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 452,
-    "updated_at": "2026-09-11T08:14:12Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -108,15 +180,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-11T08:04:05Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1974,
-    "updated_at": "2026-09-11T08:09:16Z",
+    "updated_at": "2026-09-11T08:27:18Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -169,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T07:39:07Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2753,
-    "updated_at": "2026-09-11T07:38:34Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3531,
-    "updated_at": "2026-09-11T08:10:24Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1333,
-    "updated_at": "2026-09-11T08:13:51Z",
+    "updated_at": "2026-09-11T08:30:18Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -274,7 +319,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6068,
+    "stars": 6069,
     "updated_at": "2026-09-11T07:28:37Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   },
   {
-    "description": "Minimal local GraphRAG stack: PDF \u2192 Neo4j knowledge graph \u2192 Cypher QA. No cloud APIs, $0 per query.",
-    "id": "kaziava/local-graphrag-starter",
-    "language": "Python",
-    "name": "kaziava/local-graphrag-starter",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:18:10Z",
-    "url": "https://github.com/kaziava/local-graphrag-starter"
-  },
-  {
     "description": "Infrastructure-as-code for AI agent workflows",
     "id": "hensu-project/hensu",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-11T07:17:56Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:17:32Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 4,
-    "updated_at": "2026-09-11T07:16:05Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:15:06Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-11T07:14:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
