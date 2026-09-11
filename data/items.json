@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25034,
-    "updated_at": "2026-09-11T21:45:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
+    "id": "assevra/assevra",
+    "language": "Python",
+    "name": "assevra/assevra",
+    "stars": 2,
+    "updated_at": "2026-09-11T22:00:07Z",
+    "url": "https://github.com/assevra/assevra"
   },
   {
-    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
-    "id": "ctxmesh/ctxmesh",
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-11T21:59:30Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "ctxmesh/ctxmesh",
-    "stars": 0,
-    "updated_at": "2026-09-11T21:44:49Z",
-    "url": "https://github.com/ctxmesh/ctxmesh"
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-11T21:58:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -23,8 +32,53 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1727,
-    "updated_at": "2026-09-11T21:44:12Z",
+    "updated_at": "2026-09-11T21:57:15Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25035,
+    "updated_at": "2026-09-11T21:59:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 6,
+    "updated_at": "2026-09-11T21:47:01Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Jupyter Notebook",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-11T21:46:38Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T21:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
+    "id": "ctxmesh/ctxmesh",
+    "language": "Go",
+    "name": "ctxmesh/ctxmesh",
+    "stars": 0,
+    "updated_at": "2026-09-11T21:47:11Z",
+    "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11416,
-    "updated_at": "2026-09-11T21:44:10Z",
+    "updated_at": "2026-09-11T21:45:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58534,
-    "updated_at": "2026-09-11T21:45:14Z",
+    "updated_at": "2026-09-11T21:59:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,21 +108,12 @@
     "url": "https://github.com/mondegreens/apron"
   },
   {
-    "description": "An open-source reliability scorecard for LLM agents \u2014 measure grounding, safety, PII, and task-completion against fixed ",
-    "id": "assevra/assevra",
-    "language": "Python",
-    "name": "assevra/assevra",
-    "stars": 2,
-    "updated_at": "2026-09-11T21:40:38Z",
-    "url": "https://github.com/assevra/assevra"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7984,
-    "updated_at": "2026-09-11T21:36:56Z",
+    "stars": 7985,
+    "updated_at": "2026-09-11T21:55:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-09-11T21:32:29Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
@@ -225,15 +261,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Jupyter Notebook",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-11T21:02:56Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T21:02:32Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-11T21:01:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -277,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T21:19:35Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-11T20:56:41Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T20:36:23Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21940,
-    "updated_at": "2026-09-11T21:41:46Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
