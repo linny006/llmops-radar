@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6051,
+    "updated_at": "2026-09-11T04:23:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-11T04:15:58Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T04:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25010,
-    "updated_at": "2026-09-11T04:10:43Z",
+    "updated_at": "2026-09-11T04:24:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T04:01:12Z",
     "url": "https://github.com/hxaxd/kochab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T04:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 140,
-    "updated_at": "2026-09-11T04:12:36Z",
+    "updated_at": "2026-09-11T04:24:09Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-11T03:19:38Z",
+    "updated_at": "2026-09-11T04:19:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-11T03:01:16Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-11T02:56:52Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-11T02:54:37Z",
-    "url": "https://github.com/recetariodmix/garak"
   }
 ]
