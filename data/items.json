@@ -1,12 +1,66 @@
 [
   {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:59:10Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58569,
+    "updated_at": "2026-09-12T15:56:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 7994,
-    "updated_at": "2026-09-12T15:41:59Z",
+    "stars": 7995,
+    "updated_at": "2026-09-12T15:58:37Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra",
+    "id": "MubashirShafique/enterprise-agentic-rag",
+    "language": "Python",
+    "name": "MubashirShafique/enterprise-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:55:00Z",
+    "url": "https://github.com/MubashirShafique/enterprise-agentic-rag"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-12T15:53:29Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27920,
+    "updated_at": "2026-09-12T15:50:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T15:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -16,33 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T15:41:51Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
-    "id": "redevops-io/mission-sdk",
-    "language": "Python",
-    "name": "redevops-io/mission-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:41:50Z",
-    "url": "https://github.com/redevops-io/mission-sdk"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-12T15:45:20Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58566,
-    "updated_at": "2026-09-12T15:41:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T15:34:46Z",
     "url": "https://github.com/liuanye9-lab/codex-os-brain"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T15:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-12T15:42:52Z",
+    "updated_at": "2026-09-12T15:52:32Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -112,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6189,
+    "stars": 6190,
     "updated_at": "2026-09-12T14:45:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8601,
-    "updated_at": "2026-09-12T14:31:30Z",
+    "updated_at": "2026-09-12T15:54:34Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3533,
-    "updated_at": "2026-09-12T15:39:42Z",
+    "updated_at": "2026-09-12T15:51:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25045,
-    "updated_at": "2026-09-12T15:39:59Z",
+    "updated_at": "2026-09-12T15:47:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T13:09:21Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
-    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-12T13:06:20Z",
-    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3547,
-    "updated_at": "2026-09-12T13:03:20Z",
-    "url": "https://github.com/truera/trulens"
   }
 ]
