@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 07:30 UTC
+> ⏰ Last updated: 2026-09-12 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2803 | C++ | 2026-09-12 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3531 | TypeScript | 2026-09-12 | The platform for LLM evaluations and AI agent testing |
-| 3 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-12 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 4 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 5 | [samarthputhraya/Modelpin](https://github.com/samarthputhraya/Modelpin) | 1 | Python | 2026-09-12 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-12 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2803 | C++ | 2026-09-12 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3531 | TypeScript | 2026-09-12 | The platform for LLM evaluations and AI agent testing |
+| 5 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 6 | [samarthputhraya/Modelpin](https://github.com/samarthputhraya/Modelpin) | 1 | Python | 2026-09-12 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
 | 7 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-09-12 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 8 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 109 | HTML | 2026-09-12 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
 | 9 | [theagentplane/tokenops](https://github.com/theagentplane/tokenops) | 61 | Python | 2026-09-12 | Run-aware token governance for multi-agent systems. |
@@ -76,7 +76,7 @@ expired items removed — so you can rely on what you see being current.
 | 32 | [rsaudio/second-brain](https://github.com/rsaudio/second-brain) | 1 | — | 2026-09-12 | 🧠 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c |
 | 33 | [StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary) | 2 | Python | 2026-09-12 | ✈️ Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to  |
 | 34 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-09-12 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
-| 35 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30143 | TypeScript | 2026-09-12 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 35 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30144 | TypeScript | 2026-09-12 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 36 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-09-12 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
 | 37 | [lizhuojunx86/traceguard](https://github.com/lizhuojunx86/traceguard) | 2 | Python | 2026-09-12 | Point-in-time correct LLM instrumentation — tracing, version pinning and look-ahead-bias protection for research pipelin |
 | 38 | [ancilis/ancilis](https://github.com/ancilis/ancilis) | 5 | Python | 2026-09-12 | Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri |
@@ -90,8 +90,8 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-12 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
 | 47 | [dataagentsai/ai-assurance-catalog](https://github.com/dataagentsai/ai-assurance-catalog) | 0 | HTML | 2026-09-12 | Test obligations for AI applications, by architecture archetype. A catalog, not a framework. |
 | 48 | [api7/aisix](https://github.com/api7/aisix) | 150 | Rust | 2026-09-12 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 49 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 50 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 1 | Python | 2026-09-12 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 49 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21949 | Python | 2026-09-12 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 50 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-12 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 <!-- TRACKER_TABLE_END -->
 
 ---
