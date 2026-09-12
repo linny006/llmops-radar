@@ -1,5 +1,41 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 17,
+    "updated_at": "2026-09-12T14:26:16Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-12T14:21:50Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-12T14:24:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T14:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
     "id": "royalpinto007/awesome-llm-guardrails",
     "language": "HTML",
@@ -25,24 +61,6 @@
     "stars": 22,
     "updated_at": "2026-09-12T14:10:52Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-12T14:09:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T14:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25045,
-    "updated_at": "2026-09-12T14:14:34Z",
+    "updated_at": "2026-09-12T14:29:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58563,
-    "updated_at": "2026-09-12T13:45:17Z",
+    "updated_at": "2026-09-12T14:29:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -247,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6183,
+    "stars": 6185,
     "updated_at": "2026-09-12T13:23:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 27919,
     "updated_at": "2026-09-12T12:31:58Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-12T12:16:01Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7993,
-    "updated_at": "2026-09-12T14:13:18Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
