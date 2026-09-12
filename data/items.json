@@ -1,19 +1,118 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
+    "id": "Tearfullnex/SpecGuard",
+    "language": "Python",
+    "name": "Tearfullnex/SpecGuard",
+    "stars": 0,
+    "updated_at": "2026-09-12T08:45:02Z",
+    "url": "https://github.com/Tearfullnex/SpecGuard"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-12T08:30:14Z",
+    "updated_at": "2026-09-12T08:44:25Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
+    "id": "matiaslanza99/SuperStore.SalesDashboard",
+    "language": "CSS",
+    "name": "matiaslanza99/SuperStore.SalesDashboard",
+    "stars": 0,
+    "updated_at": "2026-09-12T08:43:59Z",
+    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-12T08:41:35Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-12T08:40:51Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-12T08:40:33Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-12T08:40:01Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 150,
+    "updated_at": "2026-09-12T08:38:58Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 158,
+    "updated_at": "2026-09-12T08:37:58Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58548,
+    "updated_at": "2026-09-12T08:34:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2804,
+    "updated_at": "2026-09-12T08:31:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T08:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6166,
+    "stars": 6167,
     "updated_at": "2026-09-12T08:26:42Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -54,49 +153,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:17:39Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T08:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3531,
-    "updated_at": "2026-09-12T08:17:16Z",
+    "updated_at": "2026-09-12T08:40:08Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 150,
-    "updated_at": "2026-09-12T08:28:51Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58547,
-    "updated_at": "2026-09-12T08:29:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -117,15 +180,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2804,
-    "updated_at": "2026-09-12T08:28:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
     "id": "msanket9/stillsane",
     "language": "Python",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T08:29:44Z",
+    "updated_at": "2026-09-12T08:35:51Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T08:22:00Z",
+    "updated_at": "2026-09-12T08:42:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -306,6 +360,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7991,
+    "updated_at": "2026-09-12T06:48:47Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -340,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T06:41:01Z",
     "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7990,
-    "updated_at": "2026-09-12T06:48:47Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
@@ -394,59 +448,5 @@
     "stars": 30144,
     "updated_at": "2026-09-12T06:36:51Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-12T06:36:13Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-09-12T06:27:34Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri",
-    "id": "ancilis/ancilis",
-    "language": "Python",
-    "name": "ancilis/ancilis",
-    "stars": 5,
-    "updated_at": "2026-09-12T06:25:47Z",
-    "url": "https://github.com/ancilis/ancilis"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-12T06:22:52Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-12T06:20:15Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27918,
-    "updated_at": "2026-09-12T06:20:35Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
