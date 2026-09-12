@@ -1,21 +1,93 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-12T21:14:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-12T21:29:47Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The agent that owns a bad LLM deploy \u2014 where your team already works. Pre-merge impact estimates, evidence-backed regres",
+    "id": "mehmetyz/blast-radius",
+    "language": "TypeScript",
+    "name": "mehmetyz/blast-radius",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:29:33Z",
+    "url": "https://github.com/mehmetyz/blast-radius"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58584,
-    "updated_at": "2026-09-12T21:14:26Z",
+    "stars": 58585,
+    "updated_at": "2026-09-12T21:29:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:23:16Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-12T21:26:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-12T21:21:45Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-12T21:17:58Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:17:25Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:17:05Z",
+    "url": "https://github.com/api-evangelist/qwak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -36,24 +108,6 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-12T21:07:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T21:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval",
     "id": "h00w/agentic-ai",
     "language": "Python",
@@ -61,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-09-12T20:59:06Z",
     "url": "https://github.com/h00w/agentic-ai"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8604,
+    "updated_at": "2026-09-12T20:59:03Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The agent that owns a bad LLM deploy \u2014 where your team already works. Pre-merge impact estimates, evidence-backed regres",
-    "id": "mehmetyz/blast-radius",
-    "language": "TypeScript",
-    "name": "mehmetyz/blast-radius",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:51:31Z",
-    "url": "https://github.com/mehmetyz/blast-radius"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T21:14:43Z",
+    "updated_at": "2026-09-12T21:22:45Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-12T20:52:14Z",
+    "updated_at": "2026-09-12T21:25:34Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T20:41:04Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8603,
-    "updated_at": "2026-09-12T20:59:03Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25048,
-    "updated_at": "2026-09-12T21:14:59Z",
+    "updated_at": "2026-09-12T21:22:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T19:57:22Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-09-12T19:57:06Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-12T19:51:18Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:49:48Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:49:02Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "A zero-Python, production-grade LLM security layer written in Rust.",
-    "id": "Mattral/guardrail-rs",
-    "language": "Rust",
-    "name": "Mattral/guardrail-rs",
-    "stars": 13,
-    "updated_at": "2026-09-12T19:51:51Z",
-    "url": "https://github.com/Mattral/guardrail-rs"
   }
 ]
