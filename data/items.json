@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-12T11:43:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 4,
+    "updated_at": "2026-09-12T11:43:36Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-12T11:27:52Z",
+    "updated_at": "2026-09-12T11:43:02Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
+    "id": "Netis/heron",
+    "language": "Rust",
+    "name": "Netis/heron",
+    "stars": 102,
+    "updated_at": "2026-09-12T11:38:46Z",
+    "url": "https://github.com/Netis/heron"
+  },
+  {
+    "description": "Plan-deterministic AI agent runtime for schema-validated, bounded tool execution with durable effect-ledger recovery, re",
+    "id": "axiom-llc/axiom-apex",
+    "language": "Python",
+    "name": "axiom-llc/axiom-apex",
+    "stars": 2,
+    "updated_at": "2026-09-12T11:31:29Z",
+    "url": "https://github.com/axiom-llc/axiom-apex"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T11:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 158,
-    "updated_at": "2026-09-12T11:26:12Z",
+    "updated_at": "2026-09-12T11:31:56Z",
     "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25042,
+    "updated_at": "2026-09-12T11:43:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34502,
+    "updated_at": "2026-09-12T11:23:46Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -25,15 +88,6 @@
     "stars": 28,
     "updated_at": "2026-09-12T11:23:27Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T11:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27919,
-    "updated_at": "2026-09-12T11:11:53Z",
+    "updated_at": "2026-09-12T11:38:17Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -72,21 +126,12 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-12T11:10:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T11:21:05Z",
+    "updated_at": "2026-09-12T11:34:19Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -108,22 +153,13 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34503,
-    "updated_at": "2026-09-12T11:23:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25041,
-    "updated_at": "2026-09-12T11:24:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
+    "id": "data-gras/savi-sdk",
+    "language": "Python",
+    "name": "data-gras/savi-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-12T10:46:40Z",
+    "url": "https://github.com/data-gras/savi-sdk"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -202,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58556,
+    "stars": 58555,
     "updated_at": "2026-09-12T10:25:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -279,15 +315,6 @@
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
   },
   {
-    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
-    "id": "Netis/heron",
-    "language": "Rust",
-    "name": "Netis/heron",
-    "stars": 102,
-    "updated_at": "2026-09-12T11:05:16Z",
-    "url": "https://github.com/Netis/heron"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T09:34:57Z",
     "url": "https://github.com/theagentplane/control-plane"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 4,
-    "updated_at": "2026-09-12T09:26:45Z",
-    "url": "https://github.com/evelandhq/eveland"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T08:56:11Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-12T08:55:39Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:55:37Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
   }
 ]
