@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 12:59 UTC
+> ⏰ Last updated: 2026-09-12 13:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-12 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 3 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-12 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
-| 4 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-09-12 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 5 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 6179 | Python | 2026-09-12 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 6 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 5 | Python | 2026-09-12 | Production harness and control plane for accountable AI-assisted software delivery |
-| 7 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-12 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-12 | Agentic Runtime |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-12 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 3 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 4 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-12 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
+| 5 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-09-12 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 6 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 6179 | Python | 2026-09-12 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 7 | [symphos-ai/orcho-core](https://github.com/symphos-ai/orcho-core) | 5 | Python | 2026-09-12 | Production harness and control plane for accountable AI-assisted software delivery |
+| 8 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-09-12 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-12 | Agentic Runtime |
 | 10 | [ctxmesh/ctxmesh](https://github.com/ctxmesh/ctxmesh) | 0 | Go | 2026-09-12 | Kubernetes-native control plane for deploying, governing, and observing AI agents — CRDs, guardrails, approvals, evals,  |
 | 11 | [theagentplane/tokenops](https://github.com/theagentplane/tokenops) | 61 | Python | 2026-09-12 | Run-aware token governance for multi-agent systems. |
 | 12 | [Harshalsharma05/switchyard](https://github.com/Harshalsharma05/switchyard) | 0 | Go | 2026-09-12 | An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability. |
