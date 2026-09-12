@@ -1,12 +1,48 @@
 [
   {
+    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
+    "id": "ctxmesh/ctxmesh",
+    "language": "Go",
+    "name": "ctxmesh/ctxmesh",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:44:57Z",
+    "url": "https://github.com/ctxmesh/ctxmesh"
+  },
+  {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 61,
-    "updated_at": "2026-09-12T12:29:42Z",
+    "updated_at": "2026-09-12T12:41:00Z",
     "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
+    "id": "Harshalsharma05/switchyard",
+    "language": "Go",
+    "name": "Harshalsharma05/switchyard",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:32:45Z",
+    "url": "https://github.com/Harshalsharma05/switchyard"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27919,
+    "updated_at": "2026-09-12T12:31:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T12:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T12:27:46Z",
+    "updated_at": "2026-09-12T12:43:37Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-12T12:28:29Z",
+    "updated_at": "2026-09-12T12:44:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -40,8 +76,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6176,
-    "updated_at": "2026-09-12T12:26:25Z",
+    "stars": 6177,
+    "updated_at": "2026-09-12T12:43:34Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T12:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -97,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T12:07:48Z",
     "url": "https://github.com/data-gras/savi-sdk"
-  },
-  {
-    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
-    "id": "ctxmesh/ctxmesh",
-    "language": "Go",
-    "name": "ctxmesh/ctxmesh",
-    "stars": 0,
-    "updated_at": "2026-09-12T12:14:34Z",
-    "url": "https://github.com/ctxmesh/ctxmesh"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27919,
-    "updated_at": "2026-09-12T12:01:56Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -139,7 +148,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58556,
+    "stars": 58557,
     "updated_at": "2026-09-12T11:57:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -162,6 +171,15 @@
     "url": "https://github.com/Netis/heron"
   },
   {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 159,
+    "updated_at": "2026-09-12T11:31:56Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
     "description": "Plan-deterministic AI agent runtime for schema-validated, bounded tool execution with durable effect-ledger recovery, re",
     "id": "axiom-llc/axiom-apex",
     "language": "Python",
@@ -171,21 +189,12 @@
     "url": "https://github.com/axiom-llc/axiom-apex"
   },
   {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 158,
-    "updated_at": "2026-09-12T11:31:56Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25042,
-    "updated_at": "2026-09-12T12:27:17Z",
+    "updated_at": "2026-09-12T12:42:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-12T11:08:21Z",
+    "updated_at": "2026-09-12T12:42:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -360,6 +369,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1985,
+    "updated_at": "2026-09-12T10:00:00Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
     "id": "dataagentsai/ai-assurance-catalog",
     "language": "HTML",
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:58:58Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1984,
-    "updated_at": "2026-09-12T10:00:00Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Shared HTTP control plane for Chronicle traces and TokenOps spend: one SQLite, one UI. Agents never open the database fi",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:08:15Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:03:14Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   }
 ]
