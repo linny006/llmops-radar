@@ -1,12 +1,66 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 7996,
+    "updated_at": "2026-09-12T19:44:38Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:44:09Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-12T19:41:39Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:39:07Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 7,
+    "updated_at": "2026-09-12T19:31:31Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-12T19:30:13Z",
+    "updated_at": "2026-09-12T19:43:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T19:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T19:29:38Z",
+    "updated_at": "2026-09-12T19:45:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58578,
-    "updated_at": "2026-09-12T19:29:02Z",
+    "updated_at": "2026-09-12T19:41:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T19:20:39Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-12T19:30:10Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T19:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11425,
-    "updated_at": "2026-09-12T18:50:51Z",
+    "updated_at": "2026-09-12T19:42:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -142,6 +178,15 @@
     "stars": 107,
     "updated_at": "2026-09-12T18:49:32Z",
     "url": "https://github.com/davidahmann/applied-ai-field-guide"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30147,
+    "updated_at": "2026-09-12T18:46:22Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -252,15 +297,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7996,
-    "updated_at": "2026-09-12T19:30:00Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Enterprise Agentic RAG on PydanticAI docs with LangGraph, NeMo Guardrails, Qdrant, Portkey, Logfire observability, and a",
     "id": "MubashirShafique/enterprise-agentic-rag",
     "language": "Python",
@@ -333,15 +369,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-12T17:10:46Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25046,
-    "updated_at": "2026-09-12T19:25:22Z",
+    "updated_at": "2026-09-12T19:39:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T16:04:19Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
-    "id": "redevops-io/mission-sdk",
-    "language": "Python",
-    "name": "redevops-io/mission-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-12T16:04:16Z",
-    "url": "https://github.com/redevops-io/mission-sdk"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-12T15:41:51Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 151,
-    "updated_at": "2026-09-12T15:15:08Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
