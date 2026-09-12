@@ -1,21 +1,93 @@
 [
   {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:44:59Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-12T18:25:15Z",
+    "updated_at": "2026-09-12T18:44:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:42:48Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-12T18:42:14Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
+    "language": "Python",
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-09-12T18:38:17Z",
+    "url": "https://github.com/maida-ai/maida-assert"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:38:11Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 260,
+    "updated_at": "2026-09-12T18:37:58Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58573,
-    "updated_at": "2026-09-12T18:28:44Z",
+    "stars": 58574,
+    "updated_at": "2026-09-12T18:41:34Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
+    "id": "floatsmyboat/inferwatch",
+    "language": "Python",
+    "name": "floatsmyboat/inferwatch",
+    "stars": 0,
+    "updated_at": "2026-09-12T18:33:02Z",
+    "url": "https://github.com/floatsmyboat/inferwatch"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-09-12T18:32:59Z",
+    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-12T18:22:12Z",
+    "updated_at": "2026-09-12T18:30:22Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 1651,
     "updated_at": "2026-09-12T18:25:39Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-12T18:25:02Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -211,7 +274,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27921,
+    "stars": 27922,
     "updated_at": "2026-09-12T17:10:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -284,7 +347,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8602,
-    "updated_at": "2026-09-12T16:19:02Z",
+    "updated_at": "2026-09-12T18:41:35Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -293,7 +356,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25046,
-    "updated_at": "2026-09-12T18:29:23Z",
+    "updated_at": "2026-09-12T18:42:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-12T16:27:22Z",
+    "updated_at": "2026-09-12T18:33:36Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -373,7 +436,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6202,
+    "stars": 6203,
     "updated_at": "2026-09-12T14:45:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -385,68 +448,5 @@
     "stars": 17,
     "updated_at": "2026-09-12T14:39:18Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:12:54Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
-    "id": "royalpinto007/awesome-agent-evals",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-evals",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:12:52Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-evals"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34507,
-    "updated_at": "2026-09-12T14:11:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3533,
-    "updated_at": "2026-09-12T15:51:56Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-12T13:47:53Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-09-12T13:47:00Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-09-12T13:45:42Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
