@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-12T08:30:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6166,
+    "updated_at": "2026-09-12T08:26:42Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 159,
+    "updated_at": "2026-09-12T08:26:34Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "\ud83e\udea2 Auto-generated Java Client for Langfuse API",
+    "id": "langfuse/langfuse-java",
+    "language": "Java",
+    "name": "langfuse/langfuse-java",
+    "stars": 73,
+    "updated_at": "2026-09-12T08:26:19Z",
+    "url": "https://github.com/langfuse/langfuse-java"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-12T08:24:34Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-12T08:24:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-12T08:17:39Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T08:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3531,
-    "updated_at": "2026-09-12T08:12:12Z",
+    "updated_at": "2026-09-12T08:17:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -14,8 +86,17 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 150,
-    "updated_at": "2026-09-12T08:05:46Z",
+    "updated_at": "2026-09-12T08:28:51Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58547,
+    "updated_at": "2026-09-12T08:29:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
@@ -25,24 +106,6 @@
     "stars": 55,
     "updated_at": "2026-09-12T08:04:46Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T08:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-12T07:59:37Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -59,7 +122,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2804,
-    "updated_at": "2026-09-12T07:56:15Z",
+    "updated_at": "2026-09-12T08:28:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -72,21 +135,12 @@
     "url": "https://github.com/msanket9/stillsane"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58546,
-    "updated_at": "2026-09-12T08:05:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T08:05:42Z",
+    "updated_at": "2026-09-12T08:29:44Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "theagentplane/tokenops",
     "stars": 61,
-    "updated_at": "2026-09-12T07:11:50Z",
+    "updated_at": "2026-09-12T08:21:44Z",
     "url": "https://github.com/theagentplane/tokenops"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T08:12:22Z",
+    "updated_at": "2026-09-12T08:22:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T06:50:34Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6164,
-    "updated_at": "2026-09-12T06:48:40Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -403,50 +448,5 @@
     "stars": 27918,
     "updated_at": "2026-09-12T06:20:35Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-12T06:19:03Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 128,
-    "updated_at": "2026-09-12T06:18:03Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Offline token and cost ledger for tracking model inference spend from normalized JSON records.",
-    "id": "Jdawgboo/inference-cost-ledger",
-    "language": "Python",
-    "name": "Jdawgboo/inference-cost-ledger",
-    "stars": 0,
-    "updated_at": "2026-09-12T06:02:08Z",
-    "url": "https://github.com/Jdawgboo/inference-cost-ledger"
-  },
-  {
-    "description": "Kendi donan\u0131m\u0131nda ko\u015fan LLM altyap\u0131s\u0131 i\u00e7in Grafana + Prometheus panolar\u0131: gecikmeyi ve hatay\u0131 istemci / ge\u00e7it / backend ",
-    "id": "tahircengiz/grafana-dashboards",
-    "language": "Python",
-    "name": "tahircengiz/grafana-dashboards",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:59:03Z",
-    "url": "https://github.com/tahircengiz/grafana-dashboards"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-12T05:36:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
