@@ -1,10 +1,55 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:56:17Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:55:55Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11417,
+    "updated_at": "2026-09-12T03:54:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58538,
+    "updated_at": "2026-09-12T03:52:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T03:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6146,
+    "stars": 6147,
     "updated_at": "2026-09-12T03:45:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -23,26 +68,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25038,
-    "updated_at": "2026-09-12T03:40:17Z",
+    "updated_at": "2026-09-12T03:53:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58538,
-    "updated_at": "2026-09-12T03:40:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T03:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 142,
-    "updated_at": "2026-09-12T02:51:36Z",
+    "updated_at": "2026-09-12T03:58:17Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -194,7 +221,7 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2803,
-    "updated_at": "2026-09-12T02:50:10Z",
+    "updated_at": "2026-09-12T03:57:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -238,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21946,
+    "stars": 21947,
     "updated_at": "2026-09-12T02:48:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -360,15 +387,6 @@
     "url": "https://github.com/hammas159/llm-observability-platform"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11417,
-    "updated_at": "2026-09-12T02:36:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-12T01:48:05Z",
+    "updated_at": "2026-09-12T03:59:34Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T01:43:57Z",
     "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1979,
-    "updated_at": "2026-09-12T02:57:19Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-12T01:40:20Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
