@@ -1,5 +1,86 @@
 [
   {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2543,
+    "updated_at": "2026-09-12T04:14:47Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-12T04:14:45Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58539,
+    "updated_at": "2026-09-12T04:14:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 18,
+    "updated_at": "2026-09-12T04:13:53Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6148,
+    "updated_at": "2026-09-12T04:12:02Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-12T04:05:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-12T04:03:30Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-12T04:01:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T04:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -9,58 +90,13 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
-    "id": "liuanye9-lab/codex-os-brain",
-    "language": "JavaScript",
-    "name": "liuanye9-lab/codex-os-brain",
-    "stars": 1,
-    "updated_at": "2026-09-12T03:55:55Z",
-    "url": "https://github.com/liuanye9-lab/codex-os-brain"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11417,
-    "updated_at": "2026-09-12T03:54:58Z",
+    "updated_at": "2026-09-12T04:15:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58538,
-    "updated_at": "2026-09-12T03:52:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T03:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6147,
-    "updated_at": "2026-09-12T03:45:04Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-12T03:42:03Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25038,
-    "updated_at": "2026-09-12T03:53:34Z",
+    "updated_at": "2026-09-12T04:13:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T03:27:42Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-12T03:24:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 142,
-    "updated_at": "2026-09-12T03:58:17Z",
+    "updated_at": "2026-09-12T04:10:57Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27918,
-    "updated_at": "2026-09-12T03:31:57Z",
+    "updated_at": "2026-09-12T04:04:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T02:12:32Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-12T02:07:57Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 36,
-    "updated_at": "2026-09-12T03:59:34Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
-    "id": "VenkateshDoijode/promptfoo-cicd-framework",
-    "language": "\u2014",
-    "name": "VenkateshDoijode/promptfoo-cicd-framework",
-    "stars": 0,
-    "updated_at": "2026-09-12T01:43:57Z",
-    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
   }
 ]
