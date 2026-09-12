@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 16:09 UTC
+> ⏰ Last updated: 2026-09-12 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-12 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [redevops-io/DataOpsBench](https://github.com/redevops-io/DataOpsBench) | 0 | Python | 2026-09-12 | A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep |
-| 3 | [MubashirShafique/enterprise-agentic-rag](https://github.com/MubashirShafique/enterprise-agentic-rag) | 0 | Python | 2026-09-12 | Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58569 | Python | 2026-09-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-09-12 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
-| 6 | [redevops-io/redevops-demo](https://github.com/redevops-io/redevops-demo) | 0 | Python | 2026-09-12 | Self-demonstrating ReDevOps × AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self |
-| 7 | [redevops-io/mission-sdk](https://github.com/redevops-io/mission-sdk) | 0 | Python | 2026-09-12 | Mission SDK — the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg |
-| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27920 | Python | 2026-09-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-12 | Agentic Runtime |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [MubashirShafique/enterprise-agentic-rag](https://github.com/MubashirShafique/enterprise-agentic-rag) | 0 | Python | 2026-09-12 | Enterprise-grade Agentic RAG system built on Pydantic AI docs ,  features LangGraph orchestration, NeMo Guardrails, Qdra |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [redevops-io/DataOpsBench](https://github.com/redevops-io/DataOpsBench) | 0 | Python | 2026-09-12 | A model- and framework-agnostic benchmark for AI-assisted data operations (the DataOps analogue of TPC-C): diagnose, rep |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58569 | Python | 2026-09-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-09-12 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
+| 7 | [redevops-io/redevops-demo](https://github.com/redevops-io/redevops-demo) | 0 | Python | 2026-09-12 | Self-demonstrating ReDevOps × AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self |
+| 8 | [redevops-io/mission-sdk](https://github.com/redevops-io/mission-sdk) | 0 | Python | 2026-09-12 | Mission SDK — the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg |
+| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27920 | Python | 2026-09-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-12 | Agentic Runtime |
 | 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 7995 | Go | 2026-09-12 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 12 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-12 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 13 | [liuanye9-lab/codex-os-brain](https://github.com/liuanye9-lab/codex-os-brain) | 1 | JavaScript | 2026-09-12 | Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha |
