@@ -1,21 +1,30 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-12T15:24:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "maximhq/bifrost",
+    "stars": 7994,
+    "updated_at": "2026-09-12T15:41:59Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-12T15:41:51Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
     "stars": 0,
-    "updated_at": "2026-09-12T15:29:55Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
+    "updated_at": "2026-09-12T15:41:50Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -23,8 +32,35 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-09-12T15:21:07Z",
+    "updated_at": "2026-09-12T15:45:20Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58566,
+    "updated_at": "2026-09-12T15:41:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-12T15:37:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
+    "id": "liuanye9-lab/codex-os-brain",
+    "language": "JavaScript",
+    "name": "liuanye9-lab/codex-os-brain",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:34:46Z",
+    "url": "https://github.com/liuanye9-lab/codex-os-brain"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-12T15:15:30Z",
+    "updated_at": "2026-09-12T15:30:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:36:53Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -43,15 +88,6 @@
     "stars": 151,
     "updated_at": "2026-09-12T15:15:08Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58564,
-    "updated_at": "2026-09-12T15:08:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
@@ -68,24 +104,15 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-12T15:25:42Z",
+    "updated_at": "2026-09-12T15:42:52Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 7994,
-    "updated_at": "2026-09-12T15:27:39Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6188,
+    "stars": 6189,
     "updated_at": "2026-09-12T14:45:18Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -106,15 +133,6 @@
     "stars": 17,
     "updated_at": "2026-09-12T14:39:18Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
-    "id": "liuanye9-lab/codex-os-brain",
-    "language": "JavaScript",
-    "name": "liuanye9-lab/codex-os-brain",
-    "stars": 1,
-    "updated_at": "2026-09-12T14:21:50Z",
-    "url": "https://github.com/liuanye9-lab/codex-os-brain"
   },
   {
     "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3533,
-    "updated_at": "2026-09-12T15:23:41Z",
+    "updated_at": "2026-09-12T15:39:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25045,
-    "updated_at": "2026-09-12T15:25:20Z",
+    "updated_at": "2026-09-12T15:39:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3547,
     "updated_at": "2026-09-12T13:03:20Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "An LLM API gateway with rate limiting, budget enforcement, multi-provider failover, and full observability.",
-    "id": "Harshalsharma05/switchyard",
-    "language": "Go",
-    "name": "Harshalsharma05/switchyard",
-    "stars": 0,
-    "updated_at": "2026-09-12T13:01:55Z",
-    "url": "https://github.com/Harshalsharma05/switchyard"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1986,
-    "updated_at": "2026-09-12T13:00:23Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
