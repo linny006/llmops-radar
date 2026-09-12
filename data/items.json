@@ -1,12 +1,93 @@
 [
   {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-09-12T06:27:34Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Agents change faster than audits. Ancilis discovers what agents can do, classifies the data they touch, activates the ri",
+    "id": "ancilis/ancilis",
+    "language": "Python",
+    "name": "ancilis/ancilis",
+    "stars": 5,
+    "updated_at": "2026-09-12T06:25:47Z",
+    "url": "https://github.com/ancilis/ancilis"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-12T06:22:52Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-12T06:22:16Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-12T06:20:15Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27918,
+    "updated_at": "2026-09-12T06:20:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-12T06:19:03Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T06:14:28Z",
+    "updated_at": "2026-09-12T06:28:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T06:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58543,
+    "updated_at": "2026-09-12T06:26:17Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -27,24 +108,6 @@
     "url": "https://github.com/Jdawgboo/inference-cost-ledger"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58542,
-    "updated_at": "2026-09-12T06:13:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Kendi donan\u0131m\u0131nda ko\u015fan LLM altyap\u0131s\u0131 i\u00e7in Grafana + Prometheus panolar\u0131: gecikmeyi ve hatay\u0131 istemci / ge\u00e7it / backend ",
     "id": "tahircengiz/grafana-dashboards",
     "language": "Python",
@@ -52,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T05:59:03Z",
     "url": "https://github.com/tahircengiz/grafana-dashboards"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-12T06:00:34Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27918,
-    "updated_at": "2026-09-12T05:44:49Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7990,
-    "updated_at": "2026-09-12T06:06:12Z",
+    "updated_at": "2026-09-12T06:24:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-12T04:30:36Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
     "description": "Native-first, verifier-gated agent harness with a direct CLI, bounded recall, measurable policies, and privacy-safe beha",
     "id": "liuanye9-lab/codex-os-brain",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T04:29:17Z",
     "url": "https://github.com/liuanye9-lab/codex-os-brain"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-12T04:27:58Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-12T04:26:48Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11417,
-    "updated_at": "2026-09-12T04:31:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-12T04:17:02Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
