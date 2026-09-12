@@ -1,11 +1,56 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-12T00:27:00Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-12T00:24:24Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-12T00:19:31Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T00:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25037,
+    "updated_at": "2026-09-12T00:27:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58537,
-    "updated_at": "2026-09-12T00:15:17Z",
+    "updated_at": "2026-09-12T00:28:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,17 +68,8 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 6,
-    "updated_at": "2026-09-12T00:10:49Z",
+    "updated_at": "2026-09-12T00:29:08Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-12T00:12:14Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -72,21 +108,12 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21945,
-    "updated_at": "2026-09-11T23:58:04Z",
+    "updated_at": "2026-09-12T00:16:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -99,21 +126,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25036,
-    "updated_at": "2026-09-12T00:14:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11416,
-    "updated_at": "2026-09-12T00:02:43Z",
+    "updated_at": "2026-09-12T00:29:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 1213,
     "updated_at": "2026-09-11T23:05:05Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
-    "id": "riscoss63/servseal",
-    "language": "Python",
-    "name": "riscoss63/servseal",
-    "stars": 1,
-    "updated_at": "2026-09-11T23:00:28Z",
-    "url": "https://github.com/riscoss63/servseal"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T21:42:45Z",
     "url": "https://github.com/mondegreens/apron"
-  },
-  {
-    "description": "Control plane for enterprise AI security: inline runtime guardrails, automated red teaming with auto-remediation, AI ass",
-    "id": "Bobcatsfan33/AI-Security-Platform",
-    "language": "Python",
-    "name": "Bobcatsfan33/AI-Security-Platform",
-    "stars": 2,
-    "updated_at": "2026-09-11T21:29:09Z",
-    "url": "https://github.com/Bobcatsfan33/AI-Security-Platform"
   }
 ]
