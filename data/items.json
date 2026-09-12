@@ -1,5 +1,50 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25039,
+    "updated_at": "2026-09-12T06:14:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2803,
+    "updated_at": "2026-09-12T06:11:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Offline token and cost ledger for tracking model inference spend from normalized JSON records.",
+    "id": "Jdawgboo/inference-cost-ledger",
+    "language": "Python",
+    "name": "Jdawgboo/inference-cost-ledger",
+    "stars": 0,
+    "updated_at": "2026-09-12T06:02:08Z",
+    "url": "https://github.com/Jdawgboo/inference-cost-ledger"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58542,
+    "updated_at": "2026-09-12T06:13:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kendi donan\u0131m\u0131nda ko\u015fan LLM altyap\u0131s\u0131 i\u00e7in Grafana + Prometheus panolar\u0131: gecikmeyi ve hatay\u0131 istemci / ge\u00e7it / backend ",
     "id": "tahircengiz/grafana-dashboards",
     "language": "Python",
@@ -9,31 +54,13 @@
     "url": "https://github.com/tahircengiz/grafana-dashboards"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25038,
-    "updated_at": "2026-09-12T05:58:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-12T05:54:58Z",
+    "updated_at": "2026-09-12T06:00:34Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T05:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -43,15 +70,6 @@
     "stars": 27918,
     "updated_at": "2026-09-12T05:44:49Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58542,
-    "updated_at": "2026-09-12T05:59:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 7990,
-    "updated_at": "2026-09-12T05:36:04Z",
+    "updated_at": "2026-09-12T06:06:12Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T05:15:31Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2803,
-    "updated_at": "2026-09-12T05:12:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -373,7 +382,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6155,
+    "stars": 6156,
     "updated_at": "2026-09-12T04:42:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-12T04:17:02Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2543,
-    "updated_at": "2026-09-12T04:17:10Z",
-    "url": "https://github.com/apache/burr"
   }
 ]
