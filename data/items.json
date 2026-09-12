@@ -1,5 +1,59 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2803,
+    "updated_at": "2026-09-12T07:28:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3531,
+    "updated_at": "2026-09-12T07:29:39Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:25:57Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-12T07:20:56Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-09-12T07:20:32Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T07:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-12T07:12:38Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
@@ -41,17 +86,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T07:12:34Z",
+    "updated_at": "2026-09-12T07:30:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-12T07:13:33Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T07:01:18Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T07:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -184,8 +211,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58544,
-    "updated_at": "2026-09-12T06:48:56Z",
+    "stars": 58545,
+    "updated_at": "2026-09-12T07:27:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -193,7 +220,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6159,
+    "stars": 6160,
     "updated_at": "2026-09-12T06:48:40Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -351,13 +378,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2803,
-    "updated_at": "2026-09-12T06:11:53Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 128,
+    "updated_at": "2026-09-12T06:18:03Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Offline token and cost ledger for tracking model inference spend from normalized JSON records.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T05:27:25Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 226,
-    "updated_at": "2026-09-12T05:10:13Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
-  },
-  {
-    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 4,
-    "updated_at": "2026-09-12T05:17:53Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 95,
-    "updated_at": "2026-09-12T05:00:08Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
