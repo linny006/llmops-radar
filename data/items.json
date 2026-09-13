@@ -1,21 +1,39 @@
 [
   {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-13T01:29:28Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58594,
-    "updated_at": "2026-09-13T01:27:24Z",
+    "stars": 58595,
+    "updated_at": "2026-09-13T01:42:21Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T01:43:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
+    "stars": 1,
+    "updated_at": "2026-09-13T01:34:26Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-13T01:32:40Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-13T01:15:24Z",
+    "updated_at": "2026-09-13T01:30:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-13T01:29:28Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "GitHub org config, CI workflows, and community health files for Cycles",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T01:09:01Z",
     "url": "https://github.com/h00w/agentic-ai"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T01:08:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25052,
-    "updated_at": "2026-09-13T01:22:00Z",
+    "updated_at": "2026-09-13T01:42:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-12T23:32:21Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
     "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
     "id": "maida-ai/maida",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "runtm-ai/runtm",
     "stars": 297,
-    "updated_at": "2026-09-12T22:39:37Z",
+    "updated_at": "2026-09-13T01:41:55Z",
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:33:56Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-12T22:21:18Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
