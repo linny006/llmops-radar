@@ -1,11 +1,65 @@
 [
   {
+    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
+    "id": "data-gras/savi-sdk",
+    "language": "Python",
+    "name": "data-gras/savi-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:11:54Z",
+    "url": "https://github.com/data-gras/savi-sdk"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:11:10Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58600,
+    "updated_at": "2026-09-13T05:08:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:05:12Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
+    "language": "Python",
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-09-13T05:00:44Z",
+    "url": "https://github.com/maida-ai/maida-assert"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T05:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8605,
-    "updated_at": "2026-09-13T04:58:44Z",
+    "updated_at": "2026-09-13T05:09:18Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -31,18 +85,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34518,
+    "stars": 34519,
     "updated_at": "2026-09-13T04:46:52Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T04:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T04:44:54Z",
+    "updated_at": "2026-09-13T05:14:57Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25054,
-    "updated_at": "2026-09-13T04:56:48Z",
+    "updated_at": "2026-09-13T05:14:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,24 +133,6 @@
     "stars": 530,
     "updated_at": "2026-09-13T04:22:42Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:21:20Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58600,
-    "updated_at": "2026-09-13T04:56:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -284,7 +311,7 @@
     "language": "Go",
     "name": "ctxmesh/ctxmesh",
     "stars": 0,
-    "updated_at": "2026-09-13T05:00:10Z",
+    "updated_at": "2026-09-13T05:03:19Z",
     "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T02:42:47Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "BD Coach \u2014 unified config + self-hostable infra",
-    "id": "icohangar-ops/bd-coach",
-    "language": "Python",
-    "name": "icohangar-ops/bd-coach",
-    "stars": 0,
-    "updated_at": "2026-09-13T02:40:49Z",
-    "url": "https://github.com/icohangar-ops/bd-coach"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-13T02:37:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-09-13T02:25:59Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
