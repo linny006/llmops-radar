@@ -1,11 +1,101 @@
 [
   {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 17,
+    "updated_at": "2026-09-13T17:28:35Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:26:47Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:26:04Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:25:34Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:23:25Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8610,
+    "updated_at": "2026-09-13T17:22:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3565,
+    "updated_at": "2026-09-13T17:22:03Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:17:01Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:15:48Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T17:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-13T17:13:45Z",
+    "updated_at": "2026-09-13T17:25:29Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -14,17 +104,8 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3027,
-    "updated_at": "2026-09-13T17:13:37Z",
+    "updated_at": "2026-09-13T17:18:28Z",
     "url": "https://github.com/ianarawjo/ChainForge"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 17,
-    "updated_at": "2026-09-13T17:13:28Z",
-    "url": "https://github.com/ndom91/llama-dash"
   },
   {
     "description": "Which LLM to run for a given task, on which API or GPU, with what configuration, backed by evidence. Joins task quality,",
@@ -43,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T17:12:49Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-13T17:09:40Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3558,
-    "updated_at": "2026-09-13T17:15:06Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -108,21 +171,12 @@
     "url": "https://github.com/srishanthreddy456789/Sentinel"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T17:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25061,
-    "updated_at": "2026-09-13T17:10:28Z",
+    "updated_at": "2026-09-13T17:26:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:19:36Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -277,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T16:06:53Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8609,
-    "updated_at": "2026-09-13T16:58:00Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T15:54:37Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:53:23Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:46:41Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-13T15:46:22Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34540,
-    "updated_at": "2026-09-13T16:58:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
