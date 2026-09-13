@@ -1,12 +1,30 @@
 [
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:28:58Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 51,
+    "updated_at": "2026-09-13T23:45:08Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-13T23:42:14Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T23:41:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3027,
-    "updated_at": "2026-09-13T23:29:23Z",
+    "updated_at": "2026-09-13T23:38:48Z",
     "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:36:07Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:32:26Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T23:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -34,15 +79,6 @@
     "stars": 17,
     "updated_at": "2026-09-13T23:17:10Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
@@ -72,15 +108,6 @@
     "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
   },
   {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:06:08Z",
-    "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -90,21 +117,12 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T22:59:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T22:57:28Z",
+    "updated_at": "2026-09-13T23:40:42Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25066,
-    "updated_at": "2026-09-13T23:28:08Z",
+    "updated_at": "2026-09-13T23:44:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-13T22:28:10Z",
+    "updated_at": "2026-09-13T23:32:37Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -193,7 +211,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1745,
+    "stars": 1746,
     "updated_at": "2026-09-13T22:26:43Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4768,
-    "updated_at": "2026-09-13T23:16:31Z",
+    "updated_at": "2026-09-13T23:41:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-13T23:15:15Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 58648,
     "updated_at": "2026-09-13T23:17:50Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 7,
-    "updated_at": "2026-09-13T21:14:26Z",
-    "url": "https://github.com/hpnkv/a11"
   }
 ]
