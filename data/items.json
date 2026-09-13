@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-13T12:24:50Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-09-13T12:20:41Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 2,
+    "updated_at": "2026-09-13T12:24:52Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-13T12:26:14Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3533,
+    "updated_at": "2026-09-13T12:26:28Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 1,
+    "updated_at": "2026-09-13T12:19:46Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T12:16:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T12:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "BD Coach \u2014 unified config + self-hostable infra",
     "id": "icohangar-ops/bd-coach",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/icohangar-ops/bd-coach"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3533,
-    "updated_at": "2026-09-13T12:15:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -25,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-09-13T12:12:53Z",
     "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30155,
+    "updated_at": "2026-09-13T12:07:25Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T12:00:41Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T12:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-13T11:58:02Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -225,21 +279,12 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T11:42:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25057,
-    "updated_at": "2026-09-13T12:15:15Z",
+    "updated_at": "2026-09-13T12:29:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 151,
     "updated_at": "2026-09-13T11:17:45Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-13T11:15:30Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-13T11:24:37Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "One endpoint for local and frontier models \u2014 it decides which one you need. Hybrid Ollama + Claude gateway with measured",
-    "id": "ArttuAn/ai-gateway",
-    "language": "Shell",
-    "name": "ArttuAn/ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-13T11:06:24Z",
-    "url": "https://github.com/ArttuAn/ai-gateway"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-09-13T11:05:40Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "CSS",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-13T11:01:53Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
