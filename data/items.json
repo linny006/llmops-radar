@@ -1,12 +1,21 @@
 [
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2369,
+    "updated_at": "2026-09-13T09:29:33Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
     "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 97,
-    "updated_at": "2026-09-13T09:10:29Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-09-13T09:27:54Z",
+    "url": "https://github.com/liam8421/faster-llm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-09-13T09:08:38Z",
+    "updated_at": "2026-09-13T09:27:50Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-13T09:25:32Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-09-13T09:25:22Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T09:21:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-13T09:21:09Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 7,
+    "updated_at": "2026-09-13T09:20:47Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T09:17:16Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 97,
+    "updated_at": "2026-09-13T09:10:29Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-13T09:05:04Z",
+    "updated_at": "2026-09-13T09:26:48Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T08:44:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58610,
-    "updated_at": "2026-09-13T09:14:30Z",
+    "updated_at": "2026-09-13T09:28:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -97,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T08:34:40Z",
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T08:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2369,
-    "updated_at": "2026-09-13T08:41:26Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25057,
-    "updated_at": "2026-09-13T09:13:55Z",
+    "updated_at": "2026-09-13T09:31:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T07:34:16Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-13T07:33:48Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 109,
-    "updated_at": "2026-09-13T07:31:57Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T07:28:03Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-13T07:27:35Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T07:23:01Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
