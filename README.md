@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-13 01:15 UTC
+> ⏰ Last updated: 2026-09-13 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-09-13 | GitHub org config, CI workflows, and community health files for Cycles |
-| 2 | [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) | 3027 | TypeScript | 2026-09-13 | An open-source visual programming environment for battle-testing prompts to LLMs. |
-| 3 | [h00w/agentic-ai](https://github.com/h00w/agentic-ai) | 1 | Python | 2026-09-13 | Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-13 | Agentic Runtime |
-| 5 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-09-13 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58594 | Python | 2026-09-13 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [latere-ai/llmops](https://github.com/latere-ai/llmops) | 1 | Go | 2026-09-13 | Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 13 | Shell | 2026-09-13 | A self-hosted AI platform — inference, tool use, browser automation, image generation, speech synthesis, transcription,  |
-| 10 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-09-13 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
-| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25052 | TypeScript | 2026-09-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 12 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-09-13 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
+| 1 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-09-13 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58594 | Python | 2026-09-13 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-13 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [runcycles/.github](https://github.com/runcycles/.github) | 0 | Shell | 2026-09-13 | GitHub org config, CI workflows, and community health files for Cycles |
+| 5 | [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) | 3027 | TypeScript | 2026-09-13 | An open-source visual programming environment for battle-testing prompts to LLMs. |
+| 6 | [h00w/agentic-ai](https://github.com/h00w/agentic-ai) | 1 | Python | 2026-09-13 | Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-13 | Agentic Runtime |
+| 8 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-09-13 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 9 | [latere-ai/llmops](https://github.com/latere-ai/llmops) | 1 | Go | 2026-09-13 | Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R |
+| 10 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 13 | Shell | 2026-09-13 | A self-hosted AI platform — inference, tool use, browser automation, image generation, speech synthesis, transcription,  |
+| 11 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-09-13 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
+| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25052 | TypeScript | 2026-09-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-13 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 14 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8604 | Rust | 2026-09-13 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 15 | [icohangar-ops/agent-observability](https://github.com/icohangar-ops/agent-observability) | 0 | TypeScript | 2026-09-13 | AgentOps - AI agent observability dashboard for finance (tiered model access & token spend) |
