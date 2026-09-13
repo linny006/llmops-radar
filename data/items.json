@@ -1,12 +1,75 @@
 [
   {
+    "description": "Shared HTTP control plane for Chronicle traces and TokenOps spend: one SQLite, one UI. Agents never open the database fi",
+    "id": "theagentplane/control-plane",
+    "language": "Python",
+    "name": "theagentplane/control-plane",
+    "stars": 3,
+    "updated_at": "2026-09-13T06:59:16Z",
+    "url": "https://github.com/theagentplane/control-plane"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 151,
+    "updated_at": "2026-09-13T06:56:27Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 96,
+    "updated_at": "2026-09-13T06:55:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-13T06:42:39Z",
+    "updated_at": "2026-09-13T06:54:32Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8606,
+    "updated_at": "2026-09-13T06:50:22Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-13T06:50:07Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Provider-neutral AI inference latency measurement and quality-aware execution planning toolkit",
+    "id": "hskapasi/latencyops",
+    "language": "Python",
+    "name": "hskapasi/latencyops",
+    "stars": 0,
+    "updated_at": "2026-09-13T06:50:05Z",
+    "url": "https://github.com/hskapasi/latencyops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T06:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -22,9 +85,18 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8006,
+    "stars": 8005,
     "updated_at": "2026-09-13T06:35:53Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58606,
+    "updated_at": "2026-09-13T06:34:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -45,15 +117,6 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T06:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Scan a project and produce a structured AI supply-chain inventory (an AI manifest): the models, datasets, prompts, provi",
     "id": "jay-tank/modelmuster",
     "language": "Python",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T06:29:52Z",
     "url": "https://github.com/jay-tank/modelmuster"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 151,
-    "updated_at": "2026-09-13T06:22:11Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:19:44Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-13T06:44:38Z",
+    "updated_at": "2026-09-13T06:48:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58606,
-    "updated_at": "2026-09-13T06:34:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source LLM safety guardrails: prompt injection protection, PII redaction, toxicity filtering, and OpenAI-compatible",
     "id": "akshaymagapu/aisafeguard",
     "language": "Python",
@@ -351,15 +387,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8606,
-    "updated_at": "2026-09-13T05:39:42Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-13T06:43:43Z",
+    "updated_at": "2026-09-13T06:55:38Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25055,
-    "updated_at": "2026-09-13T06:39:45Z",
+    "updated_at": "2026-09-13T06:59:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-13T05:00:44Z",
     "url": "https://github.com/maida-ai/maida-assert"
-  },
-  {
-    "description": "Run a 24/7 AI agent on free cloud: watchdogs, memory tuning, browser reapers and hard-won lessons from a real 2 OCPU / 1",
-    "id": "Amz34/selfhosted-agent-stack",
-    "language": "Python",
-    "name": "Amz34/selfhosted-agent-stack",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:52:51Z",
-    "url": "https://github.com/Amz34/selfhosted-agent-stack"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27933,
-    "updated_at": "2026-09-13T04:51:09Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34521,
-    "updated_at": "2026-09-13T04:46:52Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
