@@ -1,5 +1,59 @@
 [
   {
+    "description": "Scan a project and produce a structured AI supply-chain inventory (an AI manifest): the models, datasets, prompts, provi",
+    "id": "jay-tank/modelmuster",
+    "language": "Python",
+    "name": "jay-tank/modelmuster",
+    "stars": 0,
+    "updated_at": "2026-09-13T06:29:52Z",
+    "url": "https://github.com/jay-tank/modelmuster"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T06:28:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 151,
+    "updated_at": "2026-09-13T06:22:11Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-13T06:19:44Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-13T06:17:58Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Instrument any LLM app in 2 lines. Tracing, evaluation, security, and caching for OpenAI, Anthropic, Gemini, LangChain, ",
     "id": "fluiq-AI/fluiq-sdk-typescript",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T06:13:14Z",
     "url": "https://github.com/fluiq-AI/fluiq-sdk"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T06:13:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-13T06:03:01Z",
+    "updated_at": "2026-09-13T06:26:21Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T06:01:50Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T06:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -140,17 +176,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30152,
-    "updated_at": "2026-09-13T05:59:57Z",
+    "updated_at": "2026-09-13T06:25:42Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-13T05:59:05Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25055,
-    "updated_at": "2026-09-13T06:04:04Z",
+    "updated_at": "2026-09-13T06:29:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -391,7 +418,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27931,
+    "stars": 27932,
     "updated_at": "2026-09-13T04:51:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T05:14:57Z",
+    "updated_at": "2026-09-13T06:24:13Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T04:22:56Z",
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
-    "id": "superlinked/VectorHub",
-    "language": "Jupyter Notebook",
-    "name": "superlinked/VectorHub",
-    "stars": 530,
-    "updated_at": "2026-09-13T04:22:42Z",
-    "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:10:52Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-09-13T04:06:52Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
