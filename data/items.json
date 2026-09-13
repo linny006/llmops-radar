@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-13T02:42:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Research-to-production AI model release control plane connecting post-training experiments, baseline/candidate evaluatio",
+    "id": "h00w/model-quality-release-gate",
+    "language": "TypeScript",
+    "name": "h00w/model-quality-release-gate",
+    "stars": 1,
+    "updated_at": "2026-09-13T02:42:29Z",
+    "url": "https://github.com/h00w/model-quality-release-gate"
+  },
+  {
+    "description": "BD Coach \u2014 unified config + self-hostable infra",
+    "id": "icohangar-ops/bd-coach",
     "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 297,
-    "updated_at": "2026-09-13T02:28:18Z",
-    "url": "https://github.com/runtm-ai/runtm"
+    "name": "icohangar-ops/bd-coach",
+    "stars": 0,
+    "updated_at": "2026-09-13T02:40:49Z",
+    "url": "https://github.com/icohangar-ops/bd-coach"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +32,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-13T02:27:55Z",
+    "updated_at": "2026-09-13T02:39:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-13T02:37:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-13T02:31:29Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T02:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 297,
+    "updated_at": "2026-09-13T02:28:18Z",
+    "url": "https://github.com/runtm-ai/runtm"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -63,15 +117,6 @@
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T02:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T02:12:35Z",
+    "updated_at": "2026-09-13T02:42:38Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58596,
-    "updated_at": "2026-09-13T02:26:24Z",
+    "updated_at": "2026-09-13T02:42:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -383,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25052,
-    "updated_at": "2026-09-13T02:20:46Z",
+    "updated_at": "2026-09-13T02:39:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 8604,
     "updated_at": "2026-09-13T02:08:48Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AgentOps - AI agent observability dashboard for finance (tiered model access & token spend)",
-    "id": "icohangar-ops/agent-observability",
-    "language": "TypeScript",
-    "name": "icohangar-ops/agent-observability",
-    "stars": 0,
-    "updated_at": "2026-09-13T00:42:28Z",
-    "url": "https://github.com/icohangar-ops/agent-observability"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27930,
-    "updated_at": "2026-09-13T00:32:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-13T00:29:07Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-13T00:19:54Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
-    "id": "glamcodecrux/n8n-mcp-server",
-    "language": "Python",
-    "name": "glamcodecrux/n8n-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-12T23:53:25Z",
-    "url": "https://github.com/glamcodecrux/n8n-mcp-server"
   }
 ]
