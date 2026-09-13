@@ -1,12 +1,66 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-13T14:43:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-13T14:39:10Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 86,
-    "updated_at": "2026-09-13T14:30:55Z",
+    "updated_at": "2026-09-13T14:38:19Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25059,
+    "updated_at": "2026-09-13T14:36:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "dataagentsai/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "dataagentsai/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:36:04Z",
+    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-13T14:35:24Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Find the cost risks in your AI agent's code \u2014 runaway loops, missing caps, and LLM call-site costs. Local, no signup, MI",
+    "id": "rohan3008/erabot",
+    "language": "Python",
+    "name": "rohan3008/erabot",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:35:14Z",
+    "url": "https://github.com/rohan3008/erabot"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-13T14:30:24Z",
+    "updated_at": "2026-09-13T14:34:46Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -22,7 +76,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6300,
+    "stars": 6303,
     "updated_at": "2026-09-13T14:28:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -34,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:24:55Z",
     "url": "https://github.com/siddharthgaur1/openeval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25058,
-    "updated_at": "2026-09-13T14:23:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-13T14:20:03Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-13T14:18:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:17:20Z",
     "url": "https://github.com/pkchat55/ai-agent-evals-deepeval"
-  },
-  {
-    "description": "Find the cost risks in your AI agent's code \u2014 runaway loops, missing caps, and LLM call-site costs. Local, no signup, MI",
-    "id": "rohan3008/erabot",
-    "language": "Python",
-    "name": "rohan3008/erabot",
-    "stars": 0,
-    "updated_at": "2026-09-13T14:17:04Z",
-    "url": "https://github.com/rohan3008/erabot"
   },
   {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3533,
-    "updated_at": "2026-09-13T14:20:17Z",
+    "updated_at": "2026-09-13T14:40:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11954,
-    "updated_at": "2026-09-13T14:29:37Z",
+    "updated_at": "2026-09-13T14:45:16Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1215,
     "updated_at": "2026-09-13T13:38:41Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T13:36:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T13:36:01Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
