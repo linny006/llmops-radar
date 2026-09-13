@@ -1,5 +1,86 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 87,
+    "updated_at": "2026-09-13T21:28:54Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-13T21:27:36Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
+    "id": "davidahmann/applied-ai-field-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/applied-ai-field-guide",
+    "stars": 107,
+    "updated_at": "2026-09-13T21:27:52Z",
+    "url": "https://github.com/davidahmann/applied-ai-field-guide"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:28:10Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-13T21:27:27Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:19:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8611,
+    "updated_at": "2026-09-13T21:29:16Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T21:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:20:56Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3251,
-    "updated_at": "2026-09-13T21:06:09Z",
+    "updated_at": "2026-09-13T21:24:42Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -36,21 +117,12 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T21:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-13T21:00:06Z",
+    "updated_at": "2026-09-13T21:26:58Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T20:59:56Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-13T21:10:32Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25063,
-    "updated_at": "2026-09-13T21:09:00Z",
+    "updated_at": "2026-09-13T21:19:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-09-13T20:52:11Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 1,
-    "updated_at": "2026-09-13T21:04:23Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:17:35Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T20:14:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4766,
-    "updated_at": "2026-09-13T21:06:07Z",
+    "updated_at": "2026-09-13T21:19:31Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8611,
-    "updated_at": "2026-09-13T20:51:03Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:54:49Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-13T19:54:30Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:49:52Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 7,
-    "updated_at": "2026-09-13T19:49:14Z",
-    "url": "https://github.com/admina-org/admina"
   }
 ]
