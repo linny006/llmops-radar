@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-13T08:28:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58609,
+    "updated_at": "2026-09-13T08:28:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 97,
+    "updated_at": "2026-09-13T08:25:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2369,
+    "updated_at": "2026-09-13T08:25:45Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
     "id": "neuralnexustech/freeroute",
     "language": "TypeScript",
     "name": "neuralnexustech/freeroute",
     "stars": 0,
-    "updated_at": "2026-09-13T08:09:06Z",
+    "updated_at": "2026-09-13T08:22:06Z",
     "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-09-13T08:21:47Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25057,
+    "updated_at": "2026-09-13T08:29:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-13T08:15:59Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T08:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -25,15 +97,6 @@
     "stars": 55,
     "updated_at": "2026-09-13T08:04:58Z",
     "url": "https://github.com/avikalpg/byok-relay"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58609,
-    "updated_at": "2026-09-13T08:14:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T08:00:37Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -324,15 +378,6 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25056,
-    "updated_at": "2026-09-13T08:15:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -396,57 +441,12 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 96,
-    "updated_at": "2026-09-13T07:12:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
     "id": "atulkapoor/fde-framework",
     "language": "Python",
     "name": "atulkapoor/fde-framework",
     "stars": 4,
-    "updated_at": "2026-09-13T08:10:09Z",
+    "updated_at": "2026-09-13T08:24:21Z",
     "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 550,
-    "updated_at": "2026-09-13T07:09:21Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8606,
-    "updated_at": "2026-09-13T07:52:10Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 538,
-    "updated_at": "2026-09-13T07:53:02Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 151,
-    "updated_at": "2026-09-13T06:56:27Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
