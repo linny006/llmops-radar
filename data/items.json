@@ -1,5 +1,50 @@
 [
   {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 7,
+    "updated_at": "2026-09-13T21:14:26Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3251,
+    "updated_at": "2026-09-13T21:06:09Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:00:31Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 7,
+    "updated_at": "2026-09-13T21:00:30Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T21:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-13T20:56:49Z",
+    "updated_at": "2026-09-13T21:10:32Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8024,
+    "updated_at": "2026-09-13T20:56:44Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25063,
-    "updated_at": "2026-09-13T20:55:31Z",
+    "updated_at": "2026-09-13T21:09:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -54,31 +108,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 7,
-    "updated_at": "2026-09-13T20:50:06Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 1,
-    "updated_at": "2026-09-13T20:58:49Z",
+    "updated_at": "2026-09-13T21:04:23Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T20:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -97,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T20:33:07Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:31:42Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -178,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:21:41Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11442,
+    "updated_at": "2026-09-13T20:21:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4766,
-    "updated_at": "2026-09-13T20:45:26Z",
+    "updated_at": "2026-09-13T21:06:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-13T19:49:14Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:47:34Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-13T19:47:23Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-13T19:42:52Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 4,
-    "updated_at": "2026-09-13T19:37:53Z",
-    "url": "https://github.com/runcycles/cycles-server"
   }
 ]
