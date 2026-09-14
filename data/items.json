@@ -1,5 +1,95 @@
 [
   {
+    "description": "DIO: non-invasive LLM gateway that learns per-backend latency online (dual-timescale NLMS) and routes vLLM/Ollama/SGLang",
+    "id": "nisaral/DIO",
+    "language": "Python",
+    "name": "nisaral/DIO",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:45:04Z",
+    "url": "https://github.com/nisaral/DIO"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:44:39Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T11:44:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:40:33Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34583,
+    "updated_at": "2026-09-14T11:40:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 257,
+    "updated_at": "2026-09-14T11:40:05Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1334,
+    "updated_at": "2026-09-14T11:44:28Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8051,
+    "updated_at": "2026-09-14T11:41:35Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 13,
+    "updated_at": "2026-09-14T11:36:07Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:31:02Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
@@ -9,15 +99,6 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34582,
-    "updated_at": "2026-09-14T11:29:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
@@ -25,15 +106,6 @@
     "stars": 27,
     "updated_at": "2026-09-14T11:28:51Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "DIO: non-invasive LLM gateway that learns per-backend latency online (dual-timescale NLMS) and routes vLLM/Ollama/SGLang",
-    "id": "nisaral/DIO",
-    "language": "Python",
-    "name": "nisaral/DIO",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:27:40Z",
-    "url": "https://github.com/nisaral/DIO"
   },
   {
     "description": "\ud83d\udc33\ud83d\udc0d OCI Images for Machine Learning. Best for MLOps, LLMOps, and developing models or work with weights locally.",
@@ -54,20 +126,11 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8050,
-    "updated_at": "2026-09-14T11:23:46Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58687,
+    "stars": 58689,
     "updated_at": "2026-09-14T11:20:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -90,13 +153,13 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4772,
+    "updated_at": "2026-09-14T11:18:44Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -144,15 +207,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T10:59:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
     "id": "8dazo/captor",
     "language": "TypeScript",
@@ -185,7 +239,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 153,
-    "updated_at": "2026-09-14T11:19:37Z",
+    "updated_at": "2026-09-14T11:44:08Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 27946,
     "updated_at": "2026-09-14T10:40:55Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 257,
-    "updated_at": "2026-09-14T11:27:40Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
     "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
@@ -239,17 +284,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 17,
-    "updated_at": "2026-09-14T10:43:31Z",
+    "updated_at": "2026-09-14T11:43:14Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:27:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "stefbartucca-rgb/llmtap",
     "stars": 0,
-    "updated_at": "2026-09-14T10:19:08Z",
+    "updated_at": "2026-09-14T11:35:46Z",
     "url": "https://github.com/stefbartucca-rgb/llmtap"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-14T09:33:04Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:32:28Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Simulate huggingface_hub's agent/<harness> header: registry fetch, env matching, kill switches, exact User-Agent.",
-    "id": "kbipul/harness-tell",
-    "language": "TypeScript",
-    "name": "kbipul/harness-tell",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:31:00Z",
-    "url": "https://github.com/kbipul/harness-tell"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-14T09:30:39Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:28:53Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
