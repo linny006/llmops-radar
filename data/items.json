@@ -1,5 +1,32 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-14T16:27:56Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-14T16:27:05Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T16:26:17Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-14T16:25:17Z",
+    "updated_at": "2026-09-14T16:28:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-14T16:17:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T16:15:38Z",
     "url": "https://github.com/MRX-72/llm-red-team-cli"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T16:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34593,
-    "updated_at": "2026-09-14T16:17:34Z",
+    "updated_at": "2026-09-14T16:30:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58715,
-    "updated_at": "2026-09-14T16:23:49Z",
+    "updated_at": "2026-09-14T16:29:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 392,
     "updated_at": "2026-09-14T14:12:39Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
-    "id": "ctxmesh/ctxmesh",
-    "language": "Go",
-    "name": "ctxmesh/ctxmesh",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:47:03Z",
-    "url": "https://github.com/ctxmesh/ctxmesh"
   }
 ]
