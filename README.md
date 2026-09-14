@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 20:23 UTC
+> ⏰ Last updated: 2026-09-14 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4780 | TypeScript | 2026-09-14 | The platform for LLM evaluations and AI agent testing |
-| 2 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-14 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 3 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-14 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 4 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-14 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-14 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 7 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-14 | ThakiCloud Tech Blog |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58724 | Python | 2026-09-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30170 | TypeScript | 2026-09-14 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-14 | Agentic Runtime |
-| 11 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10264 | Python | 2026-09-14 | Build, Manage and Deploy AI/ML Systems |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25098 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 13 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-14 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 14 | [maida-ai/maida-assert](https://github.com/maida-ai/maida-assert) | 4 | Python | 2026-09-14 | GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR, |
-| 15 | [maida-ai/maida](https://github.com/maida-ai/maida) | 32 | Python | 2026-09-14 | Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression |
-| 16 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1216 | Python | 2026-09-14 | OpenTelemetry Instrumentation for AI Observability |
-| 17 | [vitas/evidra-bench](https://github.com/vitas/evidra-bench) | 0 | Go | 2026-09-14 | Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58726 | Python | 2026-09-14 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [vitas/evidra-bench](https://github.com/vitas/evidra-bench) | 0 | Go | 2026-09-14 | Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-14 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4781 | TypeScript | 2026-09-14 | The platform for LLM evaluations and AI agent testing |
+| 5 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-14 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 6 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-14 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 7 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-14 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 8 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-14 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
+| 9 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-14 | ThakiCloud Tech Blog |
+| 10 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30170 | TypeScript | 2026-09-14 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-14 | Agentic Runtime |
+| 12 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 10264 | Python | 2026-09-14 | Build, Manage and Deploy AI/ML Systems |
+| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25098 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 14 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-14 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 15 | [maida-ai/maida-assert](https://github.com/maida-ai/maida-assert) | 4 | Python | 2026-09-14 | GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR, |
+| 16 | [maida-ai/maida](https://github.com/maida-ai/maida) | 32 | Python | 2026-09-14 | Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression |
+| 17 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1216 | Python | 2026-09-14 | OpenTelemetry Instrumentation for AI Observability |
 | 18 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-09-14 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
 | 19 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-09-14 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
 | 20 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
