@@ -1,5 +1,95 @@
 [
   {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:08:29Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8048,
+    "updated_at": "2026-09-14T10:11:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T10:07:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:10:09Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
+    "id": "kingfs/llm-tracelab",
+    "language": "Go",
+    "name": "kingfs/llm-tracelab",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:04:37Z",
+    "url": "https://github.com/kingfs/llm-tracelab"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34579,
+    "updated_at": "2026-09-14T10:12:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1994,
+    "updated_at": "2026-09-14T10:05:29Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Find the cost risks in your AI agent's code \u2014 runaway loops, missing caps, and LLM call-site costs. Local, no signup, MI",
+    "id": "rohan3008/erabot",
+    "language": "Python",
+    "name": "rohan3008/erabot",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:01:17Z",
+    "url": "https://github.com/rohan3008/erabot"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2369,
+    "updated_at": "2026-09-14T10:00:45Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions",
     "id": "plurai-ai/intellagent",
     "language": "Python",
@@ -18,30 +108,12 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:53:24Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2369,
-    "updated_at": "2026-09-14T09:53:11Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22008,
-    "updated_at": "2026-09-14T09:59:51Z",
+    "updated_at": "2026-09-14T10:10:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -58,7 +130,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6393,
+    "stars": 6396,
     "updated_at": "2026-09-14T09:52:29Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "8dazo/captor",
     "stars": 2,
-    "updated_at": "2026-09-14T09:57:21Z",
+    "updated_at": "2026-09-14T10:15:14Z",
     "url": "https://github.com/8dazo/captor"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-14T09:51:15Z",
+    "updated_at": "2026-09-14T10:11:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -104,17 +176,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58685,
-    "updated_at": "2026-09-14T09:56:09Z",
+    "updated_at": "2026-09-14T10:07:11Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34578,
-    "updated_at": "2026-09-14T09:57:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -126,15 +189,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T09:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -142,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:39:13Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T09:37:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8048,
-    "updated_at": "2026-09-14T09:56:15Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:32:28Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
-    "id": "kingfs/llm-tracelab",
-    "language": "Go",
-    "name": "kingfs/llm-tracelab",
-    "stars": 3,
-    "updated_at": "2026-09-14T09:32:00Z",
-    "url": "https://github.com/kingfs/llm-tracelab"
   },
   {
     "description": "Simulate huggingface_hub's agent/<harness> header: registry fetch, env matching, kill switches, exact User-Agent.",
@@ -392,7 +419,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 153,
-    "updated_at": "2026-09-14T10:00:20Z",
+    "updated_at": "2026-09-14T10:08:19Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T09:09:08Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11960,
-    "updated_at": "2026-09-14T09:50:37Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:06:49Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 460,
-    "updated_at": "2026-09-14T10:00:20Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
