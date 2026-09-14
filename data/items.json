@@ -1,12 +1,84 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 720,
+    "updated_at": "2026-09-14T22:00:03Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:59:08Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58725,
+    "updated_at": "2026-09-14T22:00:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Mine fine-tuning pairs from an agent's own retry-and-correct logs",
+    "id": "kdshpger-png/Millok",
+    "language": "Python",
+    "name": "kdshpger-png/Millok",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:56:25Z",
+    "url": "https://github.com/kdshpger-png/Millok"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-14T21:56:22Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-14T21:43:27Z",
+    "updated_at": "2026-09-14T21:55:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:59:29Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T21:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:45:26Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34600,
-    "updated_at": "2026-09-14T21:40:20Z",
+    "updated_at": "2026-09-14T21:49:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1754,
-    "updated_at": "2026-09-14T21:38:46Z",
+    "updated_at": "2026-09-14T21:50:27Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/vitas/evidra-bench"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T21:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -54,21 +117,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58726,
-    "updated_at": "2026-09-14T21:42:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30170,
-    "updated_at": "2026-09-14T21:28:10Z",
+    "updated_at": "2026-09-14T21:48:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11458,
-    "updated_at": "2026-09-14T21:42:43Z",
+    "updated_at": "2026-09-14T21:51:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -122,17 +176,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22017,
-    "updated_at": "2026-09-14T21:06:52Z",
+    "updated_at": "2026-09-14T21:53:02Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:28:51Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -142,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T20:59:12Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:57:11Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25100,
-    "updated_at": "2026-09-14T21:44:53Z",
+    "updated_at": "2026-09-14T22:00:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -212,17 +248,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4782,
-    "updated_at": "2026-09-14T21:39:50Z",
+    "updated_at": "2026-09-14T21:51:00Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 720,
-    "updated_at": "2026-09-14T21:39:04Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -414,15 +441,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:04:57Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
     "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
     "id": "mviraj/KakeyaFiniteFields",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T19:04:31Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8069,
-    "updated_at": "2026-09-14T21:34:55Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 17,
-    "updated_at": "2026-09-14T18:34:34Z",
-    "url": "https://github.com/ndom91/llama-dash"
   }
 ]
