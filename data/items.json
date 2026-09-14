@@ -1,12 +1,21 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T23:59:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 51,
+    "updated_at": "2026-09-14T00:08:49Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
+    "id": "fathomforge/belay",
+    "language": "TypeScript",
+    "name": "fathomforge/belay",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:08:21Z",
+    "url": "https://github.com/fathomforge/belay"
   },
   {
     "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
@@ -14,8 +23,62 @@
     "language": "HTML",
     "name": "hdjebar/DSH-DDS",
     "stars": 0,
-    "updated_at": "2026-09-13T23:53:23Z",
+    "updated_at": "2026-09-14T00:07:40Z",
     "url": "https://github.com/hdjebar/DSH-DDS"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25067,
+    "updated_at": "2026-09-14T00:10:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without h",
+    "id": "avikalpg/byok-relay",
+    "language": "JavaScript",
+    "name": "avikalpg/byok-relay",
+    "stars": 55,
+    "updated_at": "2026-09-14T00:04:40Z",
+    "url": "https://github.com/avikalpg/byok-relay"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T00:02:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-14T00:00:35Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-13T23:59:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
@@ -27,6 +90,15 @@
     "url": "https://github.com/Mrg77/tfforge"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4769,
+    "updated_at": "2026-09-13T23:51:52Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T23:51:35Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-13T23:51:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -61,24 +124,6 @@
     "stars": 27938,
     "updated_at": "2026-09-13T23:46:30Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 51,
-    "updated_at": "2026-09-13T23:52:41Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -153,15 +198,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25066,
-    "updated_at": "2026-09-13T23:57:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-13T23:32:37Z",
+    "updated_at": "2026-09-14T00:08:53Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T22:12:37Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-13T22:08:36Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -355,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34547,
+    "stars": 34548,
     "updated_at": "2026-09-13T21:57:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T21:53:10Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4768,
-    "updated_at": "2026-09-13T23:51:52Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -430,23 +448,5 @@
     "stars": 87,
     "updated_at": "2026-09-13T23:47:09Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
-    "id": "davidahmann/applied-ai-field-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/applied-ai-field-guide",
-    "stars": 107,
-    "updated_at": "2026-09-13T21:27:52Z",
-    "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 1,
-    "updated_at": "2026-09-13T21:28:10Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   }
 ]
