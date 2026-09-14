@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34560,
+    "updated_at": "2026-09-14T06:27:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2815,
+    "updated_at": "2026-09-14T06:24:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Seven-layer AI governance platform: Keycloak + SPIRE identity, OPA policy-as-code, MLflow eval-gated model promotion, Gu",
+    "id": "ritesh469/ai-governance-platform",
+    "language": "Python",
+    "name": "ritesh469/ai-governance-platform",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:24:34Z",
+    "url": "https://github.com/ritesh469/ai-governance-platform"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25078,
+    "updated_at": "2026-09-14T06:21:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-09-14T06:20:14Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-14T06:15:34Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T06:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "123caiji/AI-LLM-Agent-Learning",
     "stars": 5,
-    "updated_at": "2026-09-14T06:14:48Z",
+    "updated_at": "2026-09-14T06:15:49Z",
     "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
   },
   {
@@ -27,12 +90,21 @@
     "url": "https://github.com/Rodiun/frugon"
   },
   {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-14T06:13:50Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
     "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
     "id": "ctxmesh/ctxmesh",
     "language": "Go",
     "name": "ctxmesh/ctxmesh",
     "stars": 0,
-    "updated_at": "2026-09-14T06:13:18Z",
+    "updated_at": "2026-09-14T06:27:47Z",
     "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
@@ -40,9 +112,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58668,
+    "stars": 58670,
     "updated_at": "2026-09-14T06:11:31Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8034,
+    "updated_at": "2026-09-14T06:11:28Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
@@ -61,24 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-14T06:01:57Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34558,
-    "updated_at": "2026-09-14T06:01:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -121,18 +184,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6376,
+    "stars": 6377,
     "updated_at": "2026-09-14T05:43:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-14T05:40:55Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -247,7 +301,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22004,
+    "stars": 22005,
     "updated_at": "2026-09-14T05:26:06Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T05:25:36Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25076,
-    "updated_at": "2026-09-14T05:39:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -401,52 +446,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8618,
-    "updated_at": "2026-09-14T05:11:24Z",
+    "updated_at": "2026-09-14T06:23:35Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-14T05:11:06Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-14T05:10:48Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-14T05:10:34Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-14T05:09:24Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-14T05:07:17Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
