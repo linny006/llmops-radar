@@ -1,12 +1,39 @@
 [
   {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:43:35Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:43:34Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-14T00:25:53Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
+    "updated_at": "2026-09-14T00:40:01Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:39:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Companion code for the Manning book 'LLM Customization and Fine-Tuning.' Adapt open-weights LLMs end to end: prompting a",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "bahree/ModelAdaptationBook",
     "stars": 13,
-    "updated_at": "2026-09-14T00:25:44Z",
+    "updated_at": "2026-09-14T00:37:45Z",
     "url": "https://github.com/bahree/ModelAdaptationBook"
+  },
+  {
+    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
+    "id": "Mrg77/tfforge",
+    "language": "Go",
+    "name": "Mrg77/tfforge",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:33:59Z",
+    "url": "https://github.com/Mrg77/tfforge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25068,
+    "updated_at": "2026-09-14T00:40:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
+    "id": "hdjebar/DSH-DDS",
+    "language": "HTML",
+    "name": "hdjebar/DSH-DDS",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:25:53Z",
+    "url": "https://github.com/hdjebar/DSH-DDS"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -27,24 +90,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25068,
-    "updated_at": "2026-09-14T00:24:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-14T00:30:26Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -52,6 +97,15 @@
     "stars": 4,
     "updated_at": "2026-09-14T00:21:53Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 146,
+    "updated_at": "2026-09-14T00:19:00Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -63,21 +117,12 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T00:16:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 51,
-    "updated_at": "2026-09-14T00:15:54Z",
+    "updated_at": "2026-09-14T00:37:05Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-09-14T00:13:27Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-14T00:13:12Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Agentic Runtime",
@@ -126,30 +162,12 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T23:59:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "An AI agent that builds, validates & secures Terraform \u2014 with a policy-as-code guard it can't bypass. Built from scratch",
-    "id": "Mrg77/tfforge",
-    "language": "Go",
-    "name": "Mrg77/tfforge",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:52:15Z",
-    "url": "https://github.com/Mrg77/tfforge"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4769,
-    "updated_at": "2026-09-13T23:51:52Z",
+    "updated_at": "2026-09-14T00:43:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27938,
-    "updated_at": "2026-09-13T23:46:30Z",
+    "updated_at": "2026-09-14T00:31:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T22:52:47Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:52:28Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
     "description": "Evaluation-driven, privacy-aware self-optimizing production RAG platform",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T21:48:46Z",
     "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-13T21:46:09Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
