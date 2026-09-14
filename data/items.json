@@ -1,12 +1,75 @@
 [
   {
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
+    "language": "Python",
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-09-14T19:43:21Z",
+    "url": "https://github.com/maida-ai/maida-assert"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 32,
+    "updated_at": "2026-09-14T19:43:13Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58723,
-    "updated_at": "2026-09-14T19:29:32Z",
+    "stars": 58724,
+    "updated_at": "2026-09-14T19:43:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T19:41:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1216,
+    "updated_at": "2026-09-14T19:41:40Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Evidra Bench runs live infrastructure scenarios for AI agents, MCP servers, and AI SRE tools, then shows pass/fail, unsa",
+    "id": "vitas/evidra-bench",
+    "language": "Go",
+    "name": "vitas/evidra-bench",
+    "stars": 0,
+    "updated_at": "2026-09-14T19:37:17Z",
+    "url": "https://github.com/vitas/evidra-bench"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-14T19:35:48Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T19:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-14T19:19:47Z",
+    "updated_at": "2026-09-14T19:42:12Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T19:19:19Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T19:18:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Intelligent multi-model LLM gateway with cost-aware routing, semantic caching, and real-time observability.",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T19:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T19:14:25Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-14T19:11:46Z",
-    "url": "https://github.com/maida-ai/maida"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25098,
-    "updated_at": "2026-09-14T19:18:15Z",
+    "updated_at": "2026-09-14T19:42:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1216,
-    "updated_at": "2026-09-14T19:07:57Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4780,
-    "updated_at": "2026-09-14T19:17:33Z",
+    "updated_at": "2026-09-14T19:44:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8069,
-    "updated_at": "2026-09-14T18:53:33Z",
+    "updated_at": "2026-09-14T19:34:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-14T19:26:55Z",
+    "updated_at": "2026-09-14T19:41:14Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -364,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6441,
+    "stars": 6442,
     "updated_at": "2026-09-14T18:06:19Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -387,20 +414,11 @@
     "url": "https://github.com/ctxmesh/ctxmesh"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-14T19:11:08Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Deterministic health monitoring for LLM conversations. Detects context pressure, drift, repetition and tool anomalies wi",
     "id": "dividehex/context-guard",
     "language": "Rust",
     "name": "dividehex/context-guard",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-14T17:50:18Z",
     "url": "https://github.com/dividehex/context-guard"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T17:43:18Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-14T17:41:03Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:40:56Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   }
 ]
