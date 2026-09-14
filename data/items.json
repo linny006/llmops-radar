@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
+    "description": "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions",
+    "id": "plurai-ai/intellagent",
     "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5814,
-    "updated_at": "2026-09-14T09:45:09Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
+    "name": "plurai-ai/intellagent",
+    "stars": 1257,
+    "updated_at": "2026-09-14T10:00:14Z",
+    "url": "https://github.com/plurai-ai/intellagent"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -14,17 +14,125 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-09-14T09:43:26Z",
+    "updated_at": "2026-09-14T09:56:08Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-14T09:53:24Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2369,
+    "updated_at": "2026-09-14T09:53:11Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22008,
+    "updated_at": "2026-09-14T09:59:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-14T09:52:32Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6393,
+    "updated_at": "2026-09-14T09:52:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 2,
+    "updated_at": "2026-09-14T09:57:21Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-14T09:51:15Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27945,
+    "updated_at": "2026-09-14T09:50:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5814,
+    "updated_at": "2026-09-14T09:51:08Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58685,
+    "updated_at": "2026-09-14T09:56:09Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34577,
-    "updated_at": "2026-09-14T09:39:13Z",
+    "stars": 34578,
+    "updated_at": "2026-09-14T09:57:02Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 102,
+    "updated_at": "2026-09-14T09:45:40Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T09:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -34,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:39:13Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 102,
-    "updated_at": "2026-09-14T09:38:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22008,
-    "updated_at": "2026-09-14T09:45:10Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agentic Runtime",
@@ -68,7 +158,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8048,
-    "updated_at": "2026-09-14T09:36:10Z",
+    "updated_at": "2026-09-14T09:56:15Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -162,15 +252,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T09:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:42:03Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58684,
-    "updated_at": "2026-09-14T09:43:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -216,15 +288,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:24:36Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -232,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-09-14T09:23:56Z",
     "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2369,
-    "updated_at": "2026-09-14T09:23:21Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:21:48Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27945,
-    "updated_at": "2026-09-14T09:40:45Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -315,15 +360,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
-    "id": "8dazo/captor",
-    "language": "TypeScript",
-    "name": "8dazo/captor",
-    "stars": 2,
-    "updated_at": "2026-09-14T09:45:28Z",
-    "url": "https://github.com/8dazo/captor"
-  },
-  {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
     "id": "rozario-1234/end2end_sample",
     "language": "TypeScript",
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 153,
-    "updated_at": "2026-09-14T09:37:12Z",
+    "updated_at": "2026-09-14T10:00:20Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11960,
-    "updated_at": "2026-09-14T09:44:42Z",
+    "updated_at": "2026-09-14T09:50:37Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 460,
-    "updated_at": "2026-09-14T09:42:10Z",
+    "updated_at": "2026-09-14T10:00:20Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
-    "id": "Guillain-RDCDE/Trusted-Transcription",
-    "language": "Python",
-    "name": "Guillain-RDCDE/Trusted-Transcription",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:06:21Z",
-    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:04:35Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-09-14T08:59:29Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6391,
-    "updated_at": "2026-09-14T08:57:54Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
