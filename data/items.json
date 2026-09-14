@@ -1,30 +1,21 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T17:59:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-14T17:58:28Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58720,
-    "updated_at": "2026-09-14T18:00:16Z",
+    "updated_at": "2026-09-14T18:14:47Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T18:14:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
@@ -32,8 +23,80 @@
     "language": "Python",
     "name": "Partha-dev01/Constitutional-AIOps",
     "stars": 1,
-    "updated_at": "2026-09-14T17:47:43Z",
+    "updated_at": "2026-09-14T18:12:16Z",
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:10:53Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:07:07Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:06:36Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6437,
+    "updated_at": "2026-09-14T18:06:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Failure-aware Python runtime for tool-using LLM workflows with bounded recovery, output verification, tracing, and repro",
+    "id": "VaibhavKarsh/llm-recovery-runtime",
+    "language": "Python",
+    "name": "VaibhavKarsh/llm-recovery-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:05:07Z",
+    "url": "https://github.com/VaibhavKarsh/llm-recovery-runtime"
+  },
+  {
+    "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
+    "id": "ctxmesh/ctxmesh",
+    "language": "Go",
+    "name": "ctxmesh/ctxmesh",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:04:07Z",
+    "url": "https://github.com/ctxmesh/ctxmesh"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-14T18:13:47Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
@@ -61,15 +124,6 @@
     "stars": 4779,
     "updated_at": "2026-09-14T17:55:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T17:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -122,17 +176,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25097,
-    "updated_at": "2026-09-14T17:57:50Z",
+    "updated_at": "2026-09-14T18:14:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6435,
-    "updated_at": "2026-09-14T17:32:59Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T17:18:40Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:32:10Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11458,
-    "updated_at": "2026-09-14T16:56:32Z",
+    "updated_at": "2026-09-14T18:07:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34595,
-    "updated_at": "2026-09-14T17:57:00Z",
+    "updated_at": "2026-09-14T18:15:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T16:53:08Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-14T16:52:54Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-14T16:50:37Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-14T16:48:53Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
-    "language": "HTML",
-    "name": "aktasbatuhan/compound",
-    "stars": 8,
-    "updated_at": "2026-09-14T16:45:34Z",
-    "url": "https://github.com/aktasbatuhan/compound"
   }
 ]
