@@ -1,5 +1,86 @@
 [
   {
+    "description": "Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T",
+    "id": "nisaral/DIO",
+    "language": "Python",
+    "name": "nisaral/DIO",
+    "stars": 3,
+    "updated_at": "2026-09-14T12:13:54Z",
+    "url": "https://github.com/nisaral/DIO"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2369,
+    "updated_at": "2026-09-14T12:12:54Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 2,
+    "updated_at": "2026-09-14T12:11:12Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34586,
+    "updated_at": "2026-09-14T12:09:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 153,
+    "updated_at": "2026-09-14T12:08:31Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T12:01:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58694,
+    "updated_at": "2026-09-14T12:08:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T12:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22011,
+    "updated_at": "2026-09-14T12:08:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "LLMOps \u00b7 AI \u539f\u751f\u5e94\u7528\u5f00\u53d1\u5e73\u53f0 | Agent & Workflow \u53ef\u89c6\u5316\u7f16\u6392 \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u591a\u6a21\u578b\u63a5\u5165 \u00b7 \u4e00\u952e\u53d1\u5e03 Web/OpenAPI",
     "id": "8pig/llm-ops",
     "language": "Python",
@@ -23,17 +104,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30166,
-    "updated_at": "2026-09-14T11:59:40Z",
+    "updated_at": "2026-09-14T12:08:53Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
-    "id": "8dazo/captor",
-    "language": "TypeScript",
-    "name": "8dazo/captor",
-    "stars": 2,
-    "updated_at": "2026-09-14T11:55:51Z",
-    "url": "https://github.com/8dazo/captor"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -50,7 +122,7 @@
     "language": "Go",
     "name": "stefbartucca-rgb/llmtap",
     "stars": 0,
-    "updated_at": "2026-09-14T11:54:39Z",
+    "updated_at": "2026-09-14T12:00:50Z",
     "url": "https://github.com/stefbartucca-rgb/llmtap"
   },
   {
@@ -67,8 +139,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8051,
-    "updated_at": "2026-09-14T11:53:02Z",
+    "stars": 8052,
+    "updated_at": "2026-09-14T12:05:41Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 460,
-    "updated_at": "2026-09-14T11:55:59Z",
+    "updated_at": "2026-09-14T12:08:48Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -99,24 +171,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T",
-    "id": "nisaral/DIO",
-    "language": "Python",
-    "name": "nisaral/DIO",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:45:04Z",
-    "url": "https://github.com/nisaral/DIO"
-  },
-  {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
     "id": "TAIPANBOX/genaryx",
     "language": "Rust",
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T11:44:39Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T11:44:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -144,21 +189,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34584,
-    "updated_at": "2026-09-14T11:40:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
     "id": "ferro-labs/ai-gateway",
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 257,
-    "updated_at": "2026-09-14T11:40:05Z",
+    "updated_at": "2026-09-14T12:03:33Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -167,17 +203,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1334,
-    "updated_at": "2026-09-14T11:59:02Z",
+    "updated_at": "2026-09-14T12:15:20Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2369,
-    "updated_at": "2026-09-14T11:30:52Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -198,24 +225,6 @@
     "url": "https://github.com/nekomeowww/oci-ml"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58691,
-    "updated_at": "2026-09-14T11:20:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22011,
-    "updated_at": "2026-09-14T12:00:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4772,
-    "updated_at": "2026-09-14T11:49:08Z",
+    "updated_at": "2026-09-14T12:01:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -238,7 +247,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2818,
+    "stars": 2819,
     "updated_at": "2026-09-14T11:15:08Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -286,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T10:54:17Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 153,
-    "updated_at": "2026-09-14T11:47:40Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -401,7 +401,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-14T10:11:53Z",
+    "updated_at": "2026-09-14T12:12:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -409,7 +409,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5814,
+    "stars": 5815,
     "updated_at": "2026-09-14T09:51:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
