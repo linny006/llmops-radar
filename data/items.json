@@ -1,5 +1,77 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-14T07:59:28Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 110,
+    "updated_at": "2026-09-14T07:58:46Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34569,
+    "updated_at": "2026-09-14T07:59:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8037,
+    "updated_at": "2026-09-14T07:52:48Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-14T07:53:23Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Observability proxy for LLM and AI agent traffic. Point Codex CLI, Claude Code or any SDK at it and get OpenTelemetry tr",
+    "id": "stefbartucca-rgb/llmtap",
+    "language": "Go",
+    "name": "stefbartucca-rgb/llmtap",
+    "stars": 0,
+    "updated_at": "2026-09-14T07:49:26Z",
+    "url": "https://github.com/stefbartucca-rgb/llmtap"
+  },
+  {
+    "description": "Find the cost risks in your AI agent's code \u2014 runaway loops, missing caps, and LLM call-site costs. Local, no signup, MI",
+    "id": "rohan3008/erabot",
+    "language": "Python",
+    "name": "rohan3008/erabot",
+    "stars": 0,
+    "updated_at": "2026-09-14T07:48:50Z",
+    "url": "https://github.com/rohan3008/erabot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T07:46:45Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-09-14T07:45:19Z",
+    "updated_at": "2026-09-14T07:46:48Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -54,24 +126,6 @@
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   },
   {
-    "description": "Observability proxy for LLM and AI agent traffic. Point Codex CLI, Claude Code or any SDK at it and get OpenTelemetry tr",
-    "id": "stefbartucca-rgb/llmtap",
-    "language": "Go",
-    "name": "stefbartucca-rgb/llmtap",
-    "stars": 0,
-    "updated_at": "2026-09-14T07:38:25Z",
-    "url": "https://github.com/stefbartucca-rgb/llmtap"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8036,
-    "updated_at": "2026-09-14T07:38:16Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
     "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
     "language": "\u2014",
@@ -79,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-09-14T07:37:58Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5727,
+    "updated_at": "2026-09-14T07:36:50Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34568,
-    "updated_at": "2026-09-14T07:45:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27941,
-    "updated_at": "2026-09-14T07:46:24Z",
+    "updated_at": "2026-09-14T07:50:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -121,18 +175,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58672,
-    "updated_at": "2026-09-14T07:31:45Z",
+    "stars": 58673,
+    "updated_at": "2026-09-14T07:59:45Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22007,
-    "updated_at": "2026-09-14T07:44:42Z",
+    "updated_at": "2026-09-14T07:52:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4770,
-    "updated_at": "2026-09-14T07:36:52Z",
+    "updated_at": "2026-09-14T07:57:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -391,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25083,
+    "stars": 25084,
     "updated_at": "2026-09-14T07:03:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T06:59:45Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-14T06:57:26Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-14T06:57:15Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5726,
-    "updated_at": "2026-09-14T07:36:50Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-14T06:52:47Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30161,
-    "updated_at": "2026-09-14T06:51:19Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
