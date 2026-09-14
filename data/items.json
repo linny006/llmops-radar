@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11457,
+    "updated_at": "2026-09-14T16:43:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-14T16:36:37Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:35:51Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-14T16:35:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-14T16:34:01Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34594,
+    "updated_at": "2026-09-14T16:33:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "ML platform for voice agents: research to production. Ray, TRL SFT/DPO, PEFT LoRA, feature store, vector and graph RAG, ",
+    "id": "hyperscaleailabs/voice-ml-platform",
+    "language": "Python",
+    "name": "hyperscaleailabs/voice-ml-platform",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:32:51Z",
+    "url": "https://github.com/hyperscaleailabs/voice-ml-platform"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:32:46Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-14T16:32:45Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T16:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58716,
+    "updated_at": "2026-09-14T16:39:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -9,30 +108,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-14T16:27:05Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T16:26:17Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 461,
-    "updated_at": "2026-09-14T16:25:43Z",
+    "updated_at": "2026-09-14T16:44:54Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "ppiova/microsoft-foundry-throttling-samples",
     "stars": 1,
-    "updated_at": "2026-09-14T16:23:27Z",
+    "updated_at": "2026-09-14T16:35:44Z",
     "url": "https://github.com/ppiova/microsoft-foundry-throttling-samples"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-14T16:22:42Z",
+    "updated_at": "2026-09-14T16:33:59Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -76,7 +157,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6426,
+    "stars": 6427,
     "updated_at": "2026-09-14T16:22:23Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -126,15 +207,6 @@
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34593,
-    "updated_at": "2026-09-14T16:30:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T16:05:05Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58715,
-    "updated_at": "2026-09-14T16:29:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-14T15:45:34Z",
+    "updated_at": "2026-09-14T16:31:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22011,
-    "updated_at": "2026-09-14T16:13:07Z",
+    "updated_at": "2026-09-14T16:32:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -252,20 +315,11 @@
     "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11457,
-    "updated_at": "2026-09-14T16:22:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8628,
+    "stars": 8629,
     "updated_at": "2026-09-14T15:33:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -279,20 +333,11 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:56:35Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25097,
+    "stars": 25098,
     "updated_at": "2026-09-14T15:20:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-14T15:11:39Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1216,
-    "updated_at": "2026-09-14T14:15:43Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 7,
-    "updated_at": "2026-09-14T14:15:42Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:28:45Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Production LLM gateway: prompt-injection guardrails, PII redaction, semantic caching, cost-aware model routing, request ",
-    "id": "AYUSHSAINI9876/Pharos",
-    "language": "Python",
-    "name": "AYUSHSAINI9876/Pharos",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:13:56Z",
-    "url": "https://github.com/AYUSHSAINI9876/Pharos"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-14T14:12:39Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
