@@ -1,12 +1,48 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 18,
+    "updated_at": "2026-09-14T04:13:27Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6357,
-    "updated_at": "2026-09-14T03:59:20Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-14T04:13:05Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25076,
+    "updated_at": "2026-09-14T04:12:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:10:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-14T04:08:55Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 101,
-    "updated_at": "2026-09-14T03:58:33Z",
+    "updated_at": "2026-09-14T04:08:45Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 2,
+    "updated_at": "2026-09-14T04:02:46Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8031,
+    "updated_at": "2026-09-14T04:02:14Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
+    "id": "agentic-inquisit/Open-ML-Foundry",
+    "language": "Python",
+    "name": "agentic-inquisit/Open-ML-Foundry",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:01:17Z",
+    "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T04:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6358,
+    "updated_at": "2026-09-14T03:59:20Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Agentic Runtime",
@@ -36,6 +117,15 @@
     "url": "https://github.com/weicyang/llm-eng-cards"
   },
   {
+    "description": "End-to-end LLM execution platform with five specialist agents, durable workflows, human approval gates, Docker-isolated ",
+    "id": "xiyiji/atlas-llm-execution-agent",
+    "language": "Python",
+    "name": "xiyiji/atlas-llm-execution-agent",
+    "stars": 0,
+    "updated_at": "2026-09-14T03:51:49Z",
+    "url": "https://github.com/xiyiji/atlas-llm-execution-agent"
+  },
+  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:46:55Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T03:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -99,15 +180,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
-    "id": "agentic-inquisit/Open-ML-Foundry",
-    "language": "Python",
-    "name": "agentic-inquisit/Open-ML-Foundry",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:56:18Z",
-    "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
-  },
-  {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
     "id": "neuralnexustech/freeroute",
     "language": "TypeScript",
@@ -124,15 +196,6 @@
     "stars": 8617,
     "updated_at": "2026-09-14T03:39:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8030,
-    "updated_at": "2026-09-14T03:38:46Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -166,18 +229,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58659,
+    "stars": 58660,
     "updated_at": "2026-09-14T03:37:21Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25076,
-    "updated_at": "2026-09-14T03:36:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11957,
-    "updated_at": "2026-09-14T03:32:48Z",
+    "updated_at": "2026-09-14T04:11:21Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:15:37Z",
     "url": "https://github.com/hammas159/llm-observability-platform"
-  },
-  {
-    "description": "One entry point for every LLM call: model routing by difficulty, per-tenant budgets and rate limits, fallback chains, ca",
-    "id": "hammas159/llm-gateway",
-    "language": "Python",
-    "name": "hammas159/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:14:59Z",
-    "url": "https://github.com/hammas159/llm-gateway"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:11:08Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:10:51Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Container-deployable agent harness on DeepSeek Harness \u2014 multi-provider routing, plugin-extensible personas and skills, ",
-    "id": "hdjebar/DSH-DDS",
-    "language": "HTML",
-    "name": "hdjebar/DSH-DDS",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:09:25Z",
-    "url": "https://github.com/hdjebar/DSH-DDS"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:08:49Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 51,
-    "updated_at": "2026-09-14T03:06:46Z",
-    "url": "https://github.com/Keesan12/martin-loop"
   }
 ]
