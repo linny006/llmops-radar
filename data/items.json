@@ -1,5 +1,122 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58731,
+    "updated_at": "2026-09-14T23:14:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-14T23:13:47Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:13:18Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:10:29Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-09-14T23:10:02Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "A helm chart to enable the latest AI/ML open source tools in kubernetes.",
+    "id": "blake-hamm/kube-ai-stack",
+    "language": "Go Template",
+    "name": "blake-hamm/kube-ai-stack",
+    "stars": 7,
+    "updated_at": "2026-09-14T23:09:04Z",
+    "url": "https://github.com/blake-hamm/kube-ai-stack"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:04:56Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T23:05:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:03:35Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:02:44Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 1,
+    "updated_at": "2026-09-14T23:01:04Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Durable, replayable incident-response state machine demonstrating LangGraph state, reducers, parallel execution, interru",
+    "id": "brunovicco/stateops",
+    "language": "Python",
+    "name": "brunovicco/stateops",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:01:02Z",
+    "url": "https://github.com/brunovicco/stateops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T23:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
     "id": "Frayagronomist166/LiteRT.js-Mocap",
     "language": "\u2014",
@@ -27,24 +144,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58727,
-    "updated_at": "2026-09-14T22:59:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:58:57Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -63,31 +162,13 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:55:37Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25101,
-    "updated_at": "2026-09-14T22:59:25Z",
+    "updated_at": "2026-09-14T23:04:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:55:07Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T22:54:34Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:59:52Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T22:46:27Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T22:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -333,21 +396,12 @@
     "url": "https://github.com/axiom-llc/axiom-apex"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-14T22:35:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4783,
-    "updated_at": "2026-09-14T22:56:22Z",
+    "updated_at": "2026-09-14T23:14:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-14T22:28:43Z",
+    "updated_at": "2026-09-14T23:14:25Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-14T22:16:11Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-14T22:14:53Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8071,
-    "updated_at": "2026-09-14T22:54:59Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Mine fine-tuning pairs from an agent's own retry-and-correct logs",
-    "id": "kdshpger-png/Millok",
-    "language": "Python",
-    "name": "kdshpger-png/Millok",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:11:07Z",
-    "url": "https://github.com/kdshpger-png/Millok"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1999,
-    "updated_at": "2026-09-14T22:54:04Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8630,
-    "updated_at": "2026-09-14T22:09:39Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "CI/CD pipeline for AI configurations \u2014 eval gates and guarded rollouts for LLM apps.",
-    "id": "sattensil/ld-aic-cicd",
-    "language": "Python",
-    "name": "sattensil/ld-aic-cicd",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:02:03Z",
-    "url": "https://github.com/sattensil/ld-aic-cicd"
   }
 ]
