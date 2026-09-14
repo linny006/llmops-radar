@@ -1,6 +1,114 @@
 [
   {
-    "description": "DIO: non-invasive LLM gateway that learns per-backend latency online (dual-timescale NLMS) and routes vLLM/Ollama/SGLang",
+    "description": "LLMOps \u00b7 AI \u539f\u751f\u5e94\u7528\u5f00\u53d1\u5e73\u53f0 | Agent & Workflow \u53ef\u89c6\u5316\u7f16\u6392 \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u591a\u6a21\u578b\u63a5\u5165 \u00b7 \u4e00\u952e\u53d1\u5e03 Web/OpenAPI",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 13,
+    "updated_at": "2026-09-14T12:00:07Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:00:09Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30166,
+    "updated_at": "2026-09-14T11:59:40Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 2,
+    "updated_at": "2026-09-14T11:55:51Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 18,
+    "updated_at": "2026-09-14T11:55:35Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Observability proxy for LLM and AI agent traffic. Point Codex CLI, Claude Code or any SDK at it and get OpenTelemetry tr",
+    "id": "stefbartucca-rgb/llmtap",
+    "language": "Go",
+    "name": "stefbartucca-rgb/llmtap",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:54:39Z",
+    "url": "https://github.com/stefbartucca-rgb/llmtap"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:53:32Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8051,
+    "updated_at": "2026-09-14T11:53:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:50:35Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 460,
+    "updated_at": "2026-09-14T11:55:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 21,
+    "updated_at": "2026-09-14T11:47:55Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T",
     "id": "nisaral/DIO",
     "language": "Python",
     "name": "nisaral/DIO",
@@ -40,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34583,
+    "stars": 34584,
     "updated_at": "2026-09-14T11:40:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -59,35 +167,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1334,
-    "updated_at": "2026-09-14T11:44:28Z",
+    "updated_at": "2026-09-14T11:59:02Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8051,
-    "updated_at": "2026-09-14T11:41:35Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\u5b66\u4e60\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\uff08\u5927\u6a21\u578b\u5de5\u7a0b\u5316\u3001\u5927\u6a21\u578b\u5e94\u7528\u843d\u5730. \u7acb\u5373\u4e0a\u7ebf\u4f60\u7684agent \u5e94\u7528.",
-    "id": "8pig/llm-ops",
-    "language": "Python",
-    "name": "8pig/llm-ops",
-    "stars": 13,
-    "updated_at": "2026-09-14T11:36:07Z",
-    "url": "https://github.com/8pig/llm-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:31:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
@@ -117,20 +198,11 @@
     "url": "https://github.com/nekomeowww/oci-ml"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30165,
-    "updated_at": "2026-09-14T11:28:12Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58689,
+    "stars": 58691,
     "updated_at": "2026-09-14T11:20:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22011,
-    "updated_at": "2026-09-14T11:19:36Z",
+    "updated_at": "2026-09-14T12:00:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4772,
-    "updated_at": "2026-09-14T11:18:44Z",
+    "updated_at": "2026-09-14T11:49:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-14T11:13:02Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -205,15 +268,6 @@
     "stars": 102,
     "updated_at": "2026-09-14T11:04:16Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
-    "id": "8dazo/captor",
-    "language": "TypeScript",
-    "name": "8dazo/captor",
-    "stars": 2,
-    "updated_at": "2026-09-14T11:29:24Z",
-    "url": "https://github.com/8dazo/captor"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -239,17 +293,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 153,
-    "updated_at": "2026-09-14T11:44:08Z",
+    "updated_at": "2026-09-14T11:47:40Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 18,
-    "updated_at": "2026-09-14T10:46:21Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -297,15 +342,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Observability proxy for LLM and AI agent traffic. Point Codex CLI, Claude Code or any SDK at it and get OpenTelemetry tr",
-    "id": "stefbartucca-rgb/llmtap",
-    "language": "Go",
-    "name": "stefbartucca-rgb/llmtap",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:35:46Z",
-    "url": "https://github.com/stefbartucca-rgb/llmtap"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 1995,
-    "updated_at": "2026-09-14T11:17:36Z",
+    "updated_at": "2026-09-14T11:49:07Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:56:08Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:52:32Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:34:31Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:33:58Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:33:57Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-14T09:33:04Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
