@@ -1,21 +1,21 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-09-14T08:29:09Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4770,
+    "updated_at": "2026-09-14T08:44:39Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 87,
-    "updated_at": "2026-09-14T08:25:59Z",
-    "url": "https://github.com/mloda-ai/mloda"
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions",
+    "id": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/ai-agent-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-09-14T08:44:07Z",
+    "url": "https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -23,8 +23,71 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34573,
-    "updated_at": "2026-09-14T08:28:38Z",
+    "updated_at": "2026-09-14T08:44:06Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-14T08:41:49Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2818,
+    "updated_at": "2026-09-14T08:41:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6387,
+    "updated_at": "2026-09-14T08:41:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 2,
+    "updated_at": "2026-09-14T08:45:20Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-14T08:40:40Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22007,
+    "updated_at": "2026-09-14T08:43:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27943,
+    "updated_at": "2026-09-14T08:34:29Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -32,8 +95,44 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 102,
-    "updated_at": "2026-09-14T08:24:33Z",
+    "updated_at": "2026-09-14T08:33:47Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-14T08:31:56Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T08:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8041,
+    "updated_at": "2026-09-14T08:30:10Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 87,
+    "updated_at": "2026-09-14T08:36:39Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Reference RAG + MCP agent with a Text-to-SQL safety gate and an offline eval harness. Dependency-free, tested.",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 718,
-    "updated_at": "2026-09-14T08:17:50Z",
+    "updated_at": "2026-09-14T08:40:03Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -58,7 +157,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58677,
+    "stars": 58679,
     "updated_at": "2026-09-14T08:17:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,15 +171,6 @@
     "url": "https://github.com/kingfs/llm-tracelab"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
     "id": "superlinked/VectorHub",
     "language": "Jupyter Notebook",
@@ -90,21 +180,12 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-14T08:11:47Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 153,
-    "updated_at": "2026-09-14T08:22:23Z",
+    "updated_at": "2026-09-14T08:30:29Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22007,
-    "updated_at": "2026-09-14T08:12:56Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Observability proxy for LLM and AI agent traffic. Point Codex CLI, Claude Code or any SDK at it and get OpenTelemetry tr",
     "id": "stefbartucca-rgb/llmtap",
     "language": "Go",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T08:03:34Z",
     "url": "https://github.com/stefbartucca-rgb/llmtap"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6384,
-    "updated_at": "2026-09-14T08:01:37Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -178,15 +241,6 @@
     "stars": 110,
     "updated_at": "2026-09-14T07:58:46Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8039,
-    "updated_at": "2026-09-14T08:30:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -268,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T07:33:44Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27941,
-    "updated_at": "2026-09-14T08:25:32Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -387,15 +432,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4770,
-    "updated_at": "2026-09-14T07:57:38Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T07:20:21Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2818,
-    "updated_at": "2026-09-14T07:19:43Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-14T07:18:00Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 460,
-    "updated_at": "2026-09-14T08:30:20Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-14T07:15:11Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
