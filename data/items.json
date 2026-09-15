@@ -1,20 +1,56 @@
 [
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2822,
+    "updated_at": "2026-09-15T03:44:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 4,
+    "updated_at": "2026-09-15T03:43:07Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
+    "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-15T03:20:28Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
+    "updated_at": "2026-09-15T03:42:45Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T03:35:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-15T03:45:15Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58742,
-    "updated_at": "2026-09-15T03:27:51Z",
+    "stars": 58743,
+    "updated_at": "2026-09-15T03:44:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T03:15:29Z",
+    "updated_at": "2026-09-15T03:30:23Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11964,
+    "updated_at": "2026-09-15T03:34:14Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-15T03:20:28Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T03:08:12Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2822,
-    "updated_at": "2026-09-15T03:06:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-09-15T02:51:46Z",
+    "updated_at": "2026-09-15T03:34:52Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25102,
-    "updated_at": "2026-09-15T03:29:33Z",
+    "updated_at": "2026-09-15T03:45:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -328,18 +373,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34613,
+    "stars": 34614,
     "updated_at": "2026-09-15T02:41:21Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T03:07:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -412,41 +448,5 @@
     "stars": 80,
     "updated_at": "2026-09-15T02:18:54Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:10:11Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:09:54Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
-    "id": "aravinda-1402/causeval",
-    "language": "TypeScript",
-    "name": "aravinda-1402/causeval",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:08:18Z",
-    "url": "https://github.com/aravinda-1402/causeval"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 131,
-    "updated_at": "2026-09-15T02:05:20Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
   }
 ]
