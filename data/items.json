@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-15T16:44:06Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:42:26Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-15T16:41:12Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22040,
+    "updated_at": "2026-09-15T16:33:19Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1220,
+    "updated_at": "2026-09-15T16:35:30Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
     "id": "restrok/exocortex",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11471,
-    "updated_at": "2026-09-15T16:28:05Z",
+    "updated_at": "2026-09-15T16:42:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:27:37Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-15T16:27:44Z",
+    "updated_at": "2026-09-15T16:36:22Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -41,8 +86,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34642,
-    "updated_at": "2026-09-15T16:28:30Z",
+    "updated_at": "2026-09-15T16:45:09Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27970,
+    "updated_at": "2026-09-15T16:22:43Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58795,
-    "updated_at": "2026-09-15T16:28:09Z",
+    "updated_at": "2026-09-15T16:41:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T16:20:55Z",
     "url": "https://github.com/mloda-ai/mloda-plugin-template"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22040,
-    "updated_at": "2026-09-15T16:20:22Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T16:18:54Z",
+    "updated_at": "2026-09-15T16:45:04Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-15T16:25:57Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -126,15 +162,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T16:15:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
     "id": "babaliauskas/evalshift-action",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 151,
     "updated_at": "2026-09-15T16:09:28Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1220,
-    "updated_at": "2026-09-15T16:09:02Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -234,15 +252,6 @@
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27969,
-    "updated_at": "2026-09-15T16:22:43Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A runnable four-stage LLM pipeline on Kubernetes (data, SFT, batch inference, serving) with KubeRay + Ray + PyTorch + vL",
     "id": "yuzhiquan/llm-pipeline-on-kubernetes",
     "language": "Python",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1336,
-    "updated_at": "2026-09-15T16:23:41Z",
+    "updated_at": "2026-09-15T16:36:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -319,7 +328,7 @@
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
     "name": "ndom91/llama-dash",
-    "stars": 17,
+    "stars": 18,
     "updated_at": "2026-09-15T15:11:58Z",
     "url": "https://github.com/ndom91/llama-dash"
   },
@@ -328,7 +337,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30191,
+    "stars": 30190,
     "updated_at": "2026-09-15T15:07:05Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 18,
-    "updated_at": "2026-09-15T14:51:35Z",
+    "updated_at": "2026-09-15T16:32:29Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "mesedi-ai/mesedi",
     "stars": 0,
-    "updated_at": "2026-09-15T14:39:05Z",
+    "updated_at": "2026-09-15T16:41:20Z",
     "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
@@ -427,7 +436,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 2006,
+    "stars": 2007,
     "updated_at": "2026-09-15T14:28:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -439,14 +448,5 @@
     "stars": 8640,
     "updated_at": "2026-09-15T14:25:12Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Self-hosted AI gateway and DLP proxy that detects and masks PII, secrets, and confidential data in LLM prompts before th",
-    "id": "kvrishwanth1800-cmd/frostglass",
-    "language": "Python",
-    "name": "kvrishwanth1800-cmd/frostglass",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:54:02Z",
-    "url": "https://github.com/kvrishwanth1800-cmd/frostglass"
   }
 ]
