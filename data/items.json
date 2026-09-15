@@ -1,5 +1,32 @@
 [
   {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 36,
+    "updated_at": "2026-09-15T20:03:50Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T20:03:22Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T20:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -18,15 +45,6 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T19:57:26Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
     "id": "Partha-dev01/Constitutional-AIOps",
     "language": "Python",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58803,
-    "updated_at": "2026-09-15T19:55:48Z",
+    "updated_at": "2026-09-15T20:04:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -72,21 +90,12 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8092,
-    "updated_at": "2026-09-15T19:45:23Z",
+    "updated_at": "2026-09-15T20:00:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -106,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:43:52Z",
     "url": "https://github.com/aravinda-1402/causeval"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34649,
+    "updated_at": "2026-09-15T19:43:16Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25143,
-    "updated_at": "2026-09-15T19:34:55Z",
+    "updated_at": "2026-09-15T20:00:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -175,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6611,
+    "stars": 6612,
     "updated_at": "2026-09-15T19:21:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T19:03:37Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34648,
-    "updated_at": "2026-09-15T19:43:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-15T19:03:31Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2830,
-    "updated_at": "2026-09-15T16:15:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
