@@ -4,9 +4,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58799,
-    "updated_at": "2026-09-15T18:57:09Z",
+    "stars": 58801,
+    "updated_at": "2026-09-15T19:15:09Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-15T19:03:37Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1411,
+    "updated_at": "2026-09-15T19:06:20Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +32,17 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-15T18:55:59Z",
+    "updated_at": "2026-09-15T19:01:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -36,6 +63,24 @@
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8092,
+    "updated_at": "2026-09-15T18:52:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25142,
+    "updated_at": "2026-09-15T18:48:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T18:48:48Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T18:46:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8091,
-    "updated_at": "2026-09-15T18:52:28Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
@@ -76,18 +103,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34646,
-    "updated_at": "2026-09-15T18:41:46Z",
+    "stars": 34647,
+    "updated_at": "2026-09-15T19:03:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25138,
-    "updated_at": "2026-09-15T18:48:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22043,
+    "updated_at": "2026-09-15T19:11:47Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T18:59:04Z",
+    "updated_at": "2026-09-15T19:01:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -139,7 +166,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6604,
+    "stars": 6605,
     "updated_at": "2026-09-15T18:10:34Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T18:59:51Z",
+    "updated_at": "2026-09-15T19:11:55Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -167,17 +194,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8640,
-    "updated_at": "2026-09-15T18:58:47Z",
+    "updated_at": "2026-09-15T19:08:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22042,
-    "updated_at": "2026-09-15T18:27:18Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 2,
-    "updated_at": "2026-09-15T17:38:13Z",
+    "updated_at": "2026-09-15T19:11:12Z",
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:24:11Z",
     "url": "https://github.com/redevops-io/RAAAL"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-15T18:54:13Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "\u5c5e\u4e8e AI \u7684\u9519\u9898\u672c \u00b7 Turn production LLM traces into a regression eval set",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "babaliauskas/evalshift-cli",
     "stars": 4,
-    "updated_at": "2026-09-15T16:16:16Z",
+    "updated_at": "2026-09-15T19:03:31Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
@@ -373,7 +382,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2829,
+    "stars": 2830,
     "updated_at": "2026-09-15T16:15:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "babaliauskas/evalshift-action",
     "stars": 0,
-    "updated_at": "2026-09-15T16:12:38Z",
+    "updated_at": "2026-09-15T19:03:15Z",
     "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 151,
-    "updated_at": "2026-09-15T18:50:43Z",
+    "updated_at": "2026-09-15T19:13:18Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 463,
-    "updated_at": "2026-09-15T18:56:57Z",
+    "updated_at": "2026-09-15T19:12:00Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T15:50:25Z",
     "url": "https://github.com/yuzhiquan/llm-pipeline-on-kubernetes"
-  },
-  {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:33:11Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   }
 ]
