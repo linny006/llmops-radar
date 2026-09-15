@@ -1,12 +1,39 @@
 [
   {
+    "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
+    "id": "kai2055/incident-postmortem-assistant",
+    "language": "Python",
+    "name": "kai2055/incident-postmortem-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-15T18:41:53Z",
+    "url": "https://github.com/kai2055/incident-postmortem-assistant"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58798,
-    "updated_at": "2026-09-15T18:27:13Z",
+    "updated_at": "2026-09-15T18:44:57Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T18:36:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25138,
-    "updated_at": "2026-09-15T18:22:29Z",
+    "updated_at": "2026-09-15T18:38:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,21 +63,12 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T18:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T18:14:58Z",
+    "updated_at": "2026-09-15T18:43:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T18:12:35Z",
+    "updated_at": "2026-09-15T18:43:05Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -76,7 +94,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6600,
+    "stars": 6602,
     "updated_at": "2026-09-15T18:10:34Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -94,8 +112,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34644,
-    "updated_at": "2026-09-15T18:06:38Z",
+    "stars": 34645,
+    "updated_at": "2026-09-15T18:41:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T18:09:17Z",
+    "updated_at": "2026-09-15T18:38:58Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8640,
-    "updated_at": "2026-09-15T17:55:41Z",
+    "updated_at": "2026-09-15T18:38:34Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8090,
-    "updated_at": "2026-09-15T18:24:27Z",
+    "updated_at": "2026-09-15T18:42:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/hpnkv/a11"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T16:06:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T18:18:16Z",
+    "updated_at": "2026-09-15T18:34:12Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 18,
-    "updated_at": "2026-09-15T15:11:58Z",
-    "url": "https://github.com/ndom91/llama-dash"
   }
 ]
