@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11472,
+    "updated_at": "2026-09-15T18:14:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58797,
-    "updated_at": "2026-09-15T17:58:28Z",
+    "updated_at": "2026-09-15T18:12:43Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-15T18:12:35Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Structured tracing and cost accounting for LLM apps, stdlib only",
+    "id": "artemserdyuk392/llmtrace",
+    "language": "Python",
+    "name": "artemserdyuk392/llmtrace",
+    "stars": 0,
+    "updated_at": "2026-09-15T18:11:45Z",
+    "url": "https://github.com/artemserdyuk392/llmtrace"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6600,
+    "updated_at": "2026-09-15T18:10:34Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-15T18:06:39Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34643,
+    "updated_at": "2026-09-15T18:06:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-15T18:09:17Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -18,13 +90,13 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-15T17:59:04Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22042,
+    "updated_at": "2026-09-15T17:46:19Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -34,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:45:54Z",
     "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T17:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-15T17:43:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8090,
-    "updated_at": "2026-09-15T17:40:14Z",
+    "updated_at": "2026-09-15T18:13:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4793,
-    "updated_at": "2026-09-15T17:53:36Z",
+    "updated_at": "2026-09-15T18:08:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T17:23:33Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34642,
-    "updated_at": "2026-09-15T17:53:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11472,
-    "updated_at": "2026-09-15T17:59:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u5c5e\u4e8e AI \u7684\u9519\u9898\u672c \u00b7 Turn production LLM traces into a regression eval set",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25137,
-    "updated_at": "2026-09-15T17:59:30Z",
+    "updated_at": "2026-09-15T18:10:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22040,
-    "updated_at": "2026-09-15T17:46:19Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
     "id": "restrok/exocortex",
     "language": "Python",
@@ -268,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T16:19:46Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-15T17:17:12Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 151,
-    "updated_at": "2026-09-15T17:56:26Z",
+    "updated_at": "2026-09-15T18:09:49Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/yuzhiquan/llm-pipeline-on-kubernetes"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6599,
-    "updated_at": "2026-09-15T15:40:08Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
     "id": "Partha-dev01/Constitutional-AIOps",
     "language": "Python",
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T17:53:52Z",
+    "updated_at": "2026-09-15T18:08:12Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 546,
-    "updated_at": "2026-09-15T17:46:12Z",
+    "updated_at": "2026-09-15T18:11:11Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Deterministic agent effect-execution kernel with bounded tools, durable effects, recovery, replay, tracing, MCP, and mul",
-    "id": "axiom-llc/axiom-apex",
-    "language": "Python",
-    "name": "axiom-llc/axiom-apex",
-    "stars": 2,
-    "updated_at": "2026-09-15T14:54:35Z",
-    "url": "https://github.com/axiom-llc/axiom-apex"
   }
 ]
