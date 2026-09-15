@@ -1,5 +1,59 @@
 [
   {
+    "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
+    "id": "TanbirRamim/callm",
+    "language": "Python",
+    "name": "TanbirRamim/callm",
+    "stars": 0,
+    "updated_at": "2026-09-15T22:14:13Z",
+    "url": "https://github.com/TanbirRamim/callm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11474,
+    "updated_at": "2026-09-15T22:12:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T22:09:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58809,
+    "updated_at": "2026-09-15T22:14:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T22:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-15T22:00:23Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Governed text-to-SQL analytics copilot. Claude-powered LangGraph agent scoped to certified dbt metrics. LLM cannot inven",
     "id": "AaronFChristian/MetricMind",
     "language": "Python",
@@ -9,39 +63,12 @@
     "url": "https://github.com/AaronFChristian/MetricMind"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58809,
-    "updated_at": "2026-09-15T21:58:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11474,
-    "updated_at": "2026-09-15T21:59:20Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T21:53:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
     "name": "gagarin-cloud/gg",
     "stars": 1,
-    "updated_at": "2026-09-15T21:51:53Z",
+    "updated_at": "2026-09-15T22:11:40Z",
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
@@ -52,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T21:51:33Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
-    "id": "TanbirRamim/callm",
-    "language": "Python",
-    "name": "TanbirRamim/callm",
-    "stars": 0,
-    "updated_at": "2026-09-15T21:51:16Z",
-    "url": "https://github.com/TanbirRamim/callm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T21:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T21:57:22Z",
+    "updated_at": "2026-09-15T22:12:43Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 2,
-    "updated_at": "2026-09-15T21:24:16Z",
+    "updated_at": "2026-09-15T22:03:44Z",
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T21:55:54Z",
+    "updated_at": "2026-09-15T22:14:05Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 464,
-    "updated_at": "2026-09-15T21:20:15Z",
+    "updated_at": "2026-09-15T22:10:14Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 108,
     "updated_at": "2026-09-15T19:29:53Z",
     "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-15T22:00:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
