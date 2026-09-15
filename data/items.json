@@ -1,12 +1,84 @@
 [
   {
+    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
+    "id": "msanket9/stillsane",
+    "language": "Python",
+    "name": "msanket9/stillsane",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:13:46Z",
+    "url": "https://github.com/msanket9/stillsane"
+  },
+  {
+    "description": "A drop-in semantic cache for LLM APIs. One proxy routes to OpenAI, Gemini, Groq, Claude, Ollama and Bedrock. 77% hit rat",
+    "id": "adarshcod30/CacheLLM",
+    "language": "Python",
+    "name": "adarshcod30/CacheLLM",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:11:50Z",
+    "url": "https://github.com/adarshcod30/CacheLLM"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6505,
+    "updated_at": "2026-09-15T06:11:33Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58752,
+    "updated_at": "2026-09-15T06:09:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25107,
-    "updated_at": "2026-09-15T05:59:38Z",
+    "stars": 25108,
+    "updated_at": "2026-09-15T06:09:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:09:07Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22026,
+    "updated_at": "2026-09-15T06:12:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2823,
+    "updated_at": "2026-09-15T06:06:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T06:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
@@ -27,21 +99,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "A drop-in semantic cache for LLM APIs. One proxy routes to OpenAI, Gemini, Groq, Claude, Ollama and Bedrock. 77% hit rat",
-    "id": "adarshcod30/CacheLLM",
-    "language": "Python",
-    "name": "adarshcod30/CacheLLM",
-    "stars": 0,
-    "updated_at": "2026-09-15T05:52:09Z",
-    "url": "https://github.com/adarshcod30/CacheLLM"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11464,
-    "updated_at": "2026-09-15T05:50:34Z",
+    "updated_at": "2026-09-15T06:14:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -88,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-15T05:41:02Z",
     "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58750,
-    "updated_at": "2026-09-15T05:59:44Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34619,
-    "updated_at": "2026-09-15T05:59:00Z",
+    "updated_at": "2026-09-15T06:07:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T05:59:23Z",
+    "updated_at": "2026-09-15T06:12:04Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27955,
-    "updated_at": "2026-09-15T05:23:57Z",
+    "updated_at": "2026-09-15T06:14:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22026,
-    "updated_at": "2026-09-15T05:10:57Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8631,
-    "updated_at": "2026-09-15T05:08:01Z",
+    "updated_at": "2026-09-15T06:02:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T04:47:56Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:45:37Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
-    "id": "phantomic12/hx-harness",
-    "language": "Rust",
-    "name": "phantomic12/hx-harness",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:45:13Z",
-    "url": "https://github.com/phantomic12/hx-harness"
-  },
-  {
-    "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
-    "id": "msanket9/stillsane",
-    "language": "Python",
-    "name": "msanket9/stillsane",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:41:59Z",
-    "url": "https://github.com/msanket9/stillsane"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 4,
-    "updated_at": "2026-09-15T04:36:15Z",
-    "url": "https://github.com/evelandhq/eveland"
   }
 ]
