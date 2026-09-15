@@ -1,5 +1,86 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:30:06Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Top Prompt Management Platform (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
+    "id": "ishandutta2007/Awesome-Prompt-Management-Platform",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Prompt-Management-Platform",
+    "stars": 4,
+    "updated_at": "2026-09-15T15:28:35Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34639,
+    "updated_at": "2026-09-15T15:27:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8088,
+    "updated_at": "2026-09-15T15:27:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-15T15:24:45Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A runnable four-stage LLM pipeline on Kubernetes (data, SFT, batch inference, serving) with KubeRay + Ray + PyTorch + vL",
+    "id": "yuzhiquan/llm-pipeline-on-kubernetes",
+    "language": "Python",
+    "name": "yuzhiquan/llm-pipeline-on-kubernetes",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:23:19Z",
+    "url": "https://github.com/yuzhiquan/llm-pipeline-on-kubernetes"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:28:02Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6574,
+    "updated_at": "2026-09-15T15:25:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
     "id": "hpnkv/a11",
     "language": "C++",
@@ -18,15 +99,6 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34638,
-    "updated_at": "2026-09-15T15:13:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
     "id": "restrok/exocortex",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-15T15:15:03Z",
+    "updated_at": "2026-09-15T15:15:37Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
@@ -72,13 +144,13 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T15:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Abilityai/trinity",
+    "stars": 545,
+    "updated_at": "2026-09-15T14:58:49Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22039,
-    "updated_at": "2026-09-15T15:12:41Z",
+    "updated_at": "2026-09-15T15:30:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -126,24 +198,6 @@
     "url": "https://github.com/axiom-llc/axiom-apex"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6572,
-    "updated_at": "2026-09-15T14:54:20Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8088,
-    "updated_at": "2026-09-15T14:51:52Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25130,
-    "updated_at": "2026-09-15T15:03:15Z",
+    "updated_at": "2026-09-15T15:15:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -175,7 +229,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 11968,
+    "stars": 11967,
     "updated_at": "2026-09-15T14:48:14Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -185,17 +239,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11471,
-    "updated_at": "2026-09-15T15:15:00Z",
+    "updated_at": "2026-09-15T15:28:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:46:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 154,
-    "updated_at": "2026-09-15T14:16:48Z",
+    "updated_at": "2026-09-15T15:21:56Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -297,21 +342,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-15T15:02:00Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27968,
-    "updated_at": "2026-09-15T15:05:04Z",
+    "updated_at": "2026-09-15T15:24:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T12:53:27Z",
     "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
-    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
-    "id": "riscoss63/servseal",
-    "language": "Python",
-    "name": "riscoss63/servseal",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:50:55Z",
-    "url": "https://github.com/riscoss63/servseal"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 4,
-    "updated_at": "2026-09-15T12:44:31Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 463,
-    "updated_at": "2026-09-15T15:07:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 69,
-    "updated_at": "2026-09-15T14:01:41Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   }
 ]
