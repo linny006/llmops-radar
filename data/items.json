@@ -1,12 +1,39 @@
 [
   {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
     "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 4,
-    "updated_at": "2026-09-15T12:44:31Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1067,
+    "updated_at": "2026-09-15T12:59:15Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T12:59:08Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58782,
+    "updated_at": "2026-09-15T12:59:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAIOps with Prompt Flow is a \"GenAIOps template and guidance\" to help you build LLM-infused apps using Prompt Flow. It",
+    "id": "microsoft/genaiops-promptflow-template",
+    "language": "Python",
+    "name": "microsoft/genaiops-promptflow-template",
+    "stars": 367,
+    "updated_at": "2026-09-15T12:59:12Z",
+    "url": "https://github.com/microsoft/genaiops-promptflow-template"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -14,8 +41,89 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-15T12:37:54Z",
+    "updated_at": "2026-09-15T12:57:16Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2829,
+    "updated_at": "2026-09-15T12:56:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22037,
+    "updated_at": "2026-09-15T12:55:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34637,
+    "updated_at": "2026-09-15T13:00:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:53:27Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T12:53:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:50:55Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27965,
+    "updated_at": "2026-09-15T13:00:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
+    "id": "tmusser/ai-engineering-skills",
+    "language": "Python",
+    "name": "tmusser/ai-engineering-skills",
+    "stars": 4,
+    "updated_at": "2026-09-15T12:44:31Z",
+    "url": "https://github.com/tmusser/ai-engineering-skills"
   },
   {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
@@ -27,15 +135,6 @@
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34636,
-    "updated_at": "2026-09-15T12:45:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -45,21 +144,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2827,
-    "updated_at": "2026-09-15T12:33:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 463,
-    "updated_at": "2026-09-15T12:33:11Z",
+    "updated_at": "2026-09-15T12:51:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -72,31 +162,13 @@
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T12:32:05Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T12:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22036,
-    "updated_at": "2026-09-15T12:39:30Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 150,
+    "updated_at": "2026-09-15T12:53:02Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -108,15 +180,6 @@
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58781,
-    "updated_at": "2026-09-15T12:43:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -124,15 +187,6 @@
     "stars": 53,
     "updated_at": "2026-09-15T12:23:42Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27965,
-    "updated_at": "2026-09-15T12:45:19Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-15T12:14:15Z",
+    "updated_at": "2026-09-15T12:52:10Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/omeraytug/Wired-Al"
   },
   {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:01:43Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4789,
-    "updated_at": "2026-09-15T12:45:07Z",
+    "updated_at": "2026-09-15T12:58:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -238,7 +283,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6546,
+    "stars": 6551,
     "updated_at": "2026-09-15T11:57:41Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -259,15 +304,6 @@
     "stars": 229,
     "updated_at": "2026-09-15T11:51:57Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T11:48:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "tahircengiz/LLMScale",
     "stars": 0,
-    "updated_at": "2026-09-15T11:18:58Z",
+    "updated_at": "2026-09-15T12:59:50Z",
     "url": "https://github.com/tahircengiz/LLMScale"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T10:44:41Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 36,
-    "updated_at": "2026-09-15T10:43:15Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
-    "id": "alexvervloet/deep-dive-capstone",
-    "language": "Python",
-    "name": "alexvervloet/deep-dive-capstone",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:19:49Z",
-    "url": "https://github.com/alexvervloet/deep-dive-capstone"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 544,
-    "updated_at": "2026-09-15T12:38:59Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3258,
-    "updated_at": "2026-09-15T10:14:03Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
