@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:59:53Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:57:38Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T19:57:26Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:57:01Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58803,
+    "updated_at": "2026-09-15T19:55:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T19:52:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:51:28Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-15T19:56:02Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8092,
+    "updated_at": "2026-09-15T19:45:23Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -18,15 +108,6 @@
     "url": "https://github.com/aravinda-1402/causeval"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58801,
-    "updated_at": "2026-09-15T19:45:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -43,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T19:35:24Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
@@ -103,18 +175,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6609,
+    "stars": 6611,
     "updated_at": "2026-09-15T19:21:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:41:47Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -144,15 +207,6 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T19:01:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8092,
-    "updated_at": "2026-09-15T19:45:23Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
     "id": "kai2055/incident-postmortem-assistant",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3259,
-    "updated_at": "2026-09-15T19:37:46Z",
+    "updated_at": "2026-09-15T19:52:46Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T19:39:09Z",
+    "updated_at": "2026-09-15T19:59:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 8,
     "updated_at": "2026-09-15T18:06:39Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-15T19:44:06Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -396,15 +432,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-15T16:17:04Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
     "id": "babaliauskas/evalshift-cli",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2830,
     "updated_at": "2026-09-15T16:15:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
-    "id": "babaliauskas/evalshift-action",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-action",
-    "stars": 0,
-    "updated_at": "2026-09-15T19:03:15Z",
-    "url": "https://github.com/babaliauskas/evalshift-action"
-  },
-  {
-    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
-    "id": "babaliauskas/evalshift-sdk",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:12:08Z",
-    "url": "https://github.com/babaliauskas/evalshift-sdk"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 151,
-    "updated_at": "2026-09-15T19:13:18Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
