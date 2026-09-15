@@ -1,5 +1,113 @@
 [
   {
+    "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest ",
+    "id": "hermes-labs-ai/quick-gate-python",
+    "language": "Python",
+    "name": "hermes-labs-ai/quick-gate-python",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:14:26Z",
+    "url": "https://github.com/hermes-labs-ai/quick-gate-python"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58804,
+    "updated_at": "2026-09-15T20:13:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-15T20:12:39Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T20:10:22Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-oriented AI knowledge assistant built with TypeScript, exploring RAG, hybrid retrieval, embeddings, evaluatio",
+    "id": "CuneytKukrer/enterprise-ai-knowledge-assistant",
+    "language": "TypeScript",
+    "name": "CuneytKukrer/enterprise-ai-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:08:53Z",
+    "url": "https://github.com/CuneytKukrer/enterprise-ai-knowledge-assistant"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:15:21Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
+    "id": "riscoss63/servseal",
+    "language": "Python",
+    "name": "riscoss63/servseal",
+    "stars": 1,
+    "updated_at": "2026-09-15T20:08:30Z",
+    "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
+    "id": "aravinda-1402/causeval",
+    "language": "TypeScript",
+    "name": "aravinda-1402/causeval",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:14:46Z",
+    "url": "https://github.com/aravinda-1402/causeval"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-15T20:06:31Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1220,
+    "updated_at": "2026-09-15T20:06:44Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
+    "id": "hermes-labs-ai/.github",
+    "language": "Python",
+    "name": "hermes-labs-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:05:56Z",
+    "url": "https://github.com/hermes-labs-ai/.github"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T20:04:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -9,22 +117,13 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T20:03:22Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T20:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8093,
+    "updated_at": "2026-09-15T20:10:56Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,15 +153,6 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58803,
-    "updated_at": "2026-09-15T20:04:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -86,17 +176,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T19:56:02Z",
+    "updated_at": "2026-09-15T20:11:50Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8092,
-    "updated_at": "2026-09-15T20:00:36Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -104,17 +185,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8640,
-    "updated_at": "2026-09-15T19:44:22Z",
+    "updated_at": "2026-09-15T20:09:46Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
-    "id": "aravinda-1402/causeval",
-    "language": "TypeScript",
-    "name": "aravinda-1402/causeval",
-    "stars": 0,
-    "updated_at": "2026-09-15T19:43:52Z",
-    "url": "https://github.com/aravinda-1402/causeval"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 87,
-    "updated_at": "2026-09-15T19:37:22Z",
+    "updated_at": "2026-09-15T20:05:14Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -193,7 +265,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6612,
+    "stars": 6615,
     "updated_at": "2026-09-15T19:21:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -265,8 +337,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11472,
-    "updated_at": "2026-09-15T19:59:00Z",
+    "stars": 11473,
+    "updated_at": "2026-09-15T20:07:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -288,15 +360,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 2,
-    "updated_at": "2026-09-15T19:30:03Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
     "description": "Template repository for plugin creation for mloda.ai ",
     "id": "mloda-ai/mloda-plugin-template",
     "language": "Python",
@@ -306,21 +369,12 @@
     "url": "https://github.com/mloda-ai/mloda-plugin-template"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1220,
-    "updated_at": "2026-09-15T17:32:17Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30189,
-    "updated_at": "2026-09-15T18:29:54Z",
+    "updated_at": "2026-09-15T20:04:58Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T16:49:50Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-15T16:41:12Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1337,
-    "updated_at": "2026-09-15T19:40:45Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
-    "id": "restrok/exocortex",
-    "language": "Python",
-    "name": "restrok/exocortex",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:29:13Z",
-    "url": "https://github.com/restrok/exocortex"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-15T16:36:22Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-15T16:19:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "babaliauskas/evalshift-cli",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-cli",
-    "stars": 4,
-    "updated_at": "2026-09-15T19:03:31Z",
-    "url": "https://github.com/babaliauskas/evalshift-cli"
   }
 ]
