@@ -1,10 +1,55 @@
 [
   {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:44:41Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:43:59Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-15T10:43:15Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25117,
+    "updated_at": "2026-09-15T10:45:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27961,
+    "stars": 27962,
     "updated_at": "2026-09-15T10:26:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34632,
-    "updated_at": "2026-09-15T10:24:58Z",
+    "updated_at": "2026-09-15T10:42:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58778,
-    "updated_at": "2026-09-15T10:22:36Z",
+    "updated_at": "2026-09-15T10:32:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22034,
-    "updated_at": "2026-09-15T10:27:18Z",
+    "updated_at": "2026-09-15T10:43:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T10:19:49Z",
     "url": "https://github.com/alexvervloet/deep-dive-capstone"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T10:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -90,20 +126,11 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:10:11Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6531,
+    "stars": 6534,
     "updated_at": "2026-09-15T10:07:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -124,15 +151,6 @@
     "stars": 22,
     "updated_at": "2026-09-15T10:01:10Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25116,
-    "updated_at": "2026-09-15T10:29:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8082,
-    "updated_at": "2026-09-15T10:15:01Z",
+    "updated_at": "2026-09-15T10:40:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "zenml-io/zenml",
     "stars": 5582,
-    "updated_at": "2026-09-15T10:21:07Z",
+    "updated_at": "2026-09-15T10:34:18Z",
     "url": "https://github.com/zenml-io/zenml"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 544,
-    "updated_at": "2026-09-15T10:29:58Z",
+    "updated_at": "2026-09-15T10:42:21Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 11967,
     "updated_at": "2026-09-15T10:08:07Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
-    "id": "tahircengiz/LLMScale",
-    "language": "TypeScript",
-    "name": "tahircengiz/LLMScale",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:24:19Z",
-    "url": "https://github.com/tahircengiz/LLMScale"
   },
   {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T08:57:36Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-15T08:52:01Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
