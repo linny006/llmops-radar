@@ -1,12 +1,12 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:30:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4792,
+    "updated_at": "2026-09-15T15:42:49Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Top Prompt Management Platform (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
@@ -14,8 +14,26 @@
     "language": "\u2014",
     "name": "ishandutta2007/Awesome-Prompt-Management-Platform",
     "stars": 4,
-    "updated_at": "2026-09-15T15:28:35Z",
+    "updated_at": "2026-09-15T15:42:39Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management-Platform"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 463,
+    "updated_at": "2026-09-15T15:41:42Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6579,
+    "updated_at": "2026-09-15T15:40:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -23,8 +41,71 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34639,
-    "updated_at": "2026-09-15T15:27:57Z",
+    "updated_at": "2026-09-15T15:42:52Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27969,
+    "updated_at": "2026-09-15T15:43:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25131,
+    "updated_at": "2026-09-15T15:33:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:33:11Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 7,
+    "updated_at": "2026-09-15T15:31:43Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2829,
+    "updated_at": "2026-09-15T15:31:33Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:30:06Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-15T15:24:45Z",
+    "updated_at": "2026-09-15T15:37:07Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -59,35 +140,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T15:28:02Z",
+    "updated_at": "2026-09-15T15:35:15Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6574,
-    "updated_at": "2026-09-15T15:25:38Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T15:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 7,
-    "updated_at": "2026-09-15T15:13:53Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58791,
-    "updated_at": "2026-09-15T15:15:26Z",
+    "updated_at": "2026-09-15T15:36:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22039,
-    "updated_at": "2026-09-15T15:30:11Z",
+    "updated_at": "2026-09-15T15:33:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1335,
-    "updated_at": "2026-09-15T14:59:39Z",
+    "updated_at": "2026-09-15T15:42:29Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25130,
-    "updated_at": "2026-09-15T15:15:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11471,
-    "updated_at": "2026-09-15T15:28:10Z",
+    "updated_at": "2026-09-15T15:38:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4790,
-    "updated_at": "2026-09-15T15:08:41Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -340,15 +376,6 @@
     "stars": 2005,
     "updated_at": "2026-09-15T14:28:02Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27968,
-    "updated_at": "2026-09-15T15:24:50Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -421,32 +448,5 @@
     "stars": 1067,
     "updated_at": "2026-09-15T13:18:06Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "GenAIOps with Prompt Flow is a \"GenAIOps template and guidance\" to help you build LLM-infused apps using Prompt Flow. It",
-    "id": "microsoft/genaiops-promptflow-template",
-    "language": "Python",
-    "name": "microsoft/genaiops-promptflow-template",
-    "stars": 367,
-    "updated_at": "2026-09-15T12:59:12Z",
-    "url": "https://github.com/microsoft/genaiops-promptflow-template"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2829,
-    "updated_at": "2026-09-15T12:56:23Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:53:27Z",
-    "url": "https://github.com/csdeepak/HandCode"
   }
 ]
