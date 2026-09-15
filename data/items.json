@@ -1,30 +1,30 @@
 [
   {
-    "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest ",
-    "id": "hermes-labs-ai/quick-gate-python",
-    "language": "Python",
-    "name": "hermes-labs-ai/quick-gate-python",
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T20:14:26Z",
-    "url": "https://github.com/hermes-labs-ai/quick-gate-python"
+    "updated_at": "2026-09-15T20:29:50Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58804,
-    "updated_at": "2026-09-15T20:13:51Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-09-15T20:29:33Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T20:12:39Z",
-    "url": "https://github.com/RedRobotKK/Replay"
+    "updated_at": "2026-09-15T20:28:57Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -32,17 +32,35 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-09-15T20:10:22Z",
+    "updated_at": "2026-09-15T20:22:07Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Production-oriented AI knowledge assistant built with TypeScript, exploring RAG, hybrid retrieval, embeddings, evaluatio",
-    "id": "CuneytKukrer/enterprise-ai-knowledge-assistant",
-    "language": "TypeScript",
-    "name": "CuneytKukrer/enterprise-ai-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-15T20:08:53Z",
-    "url": "https://github.com/CuneytKukrer/enterprise-ai-knowledge-assistant"
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-15T20:19:15Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58804,
+    "updated_at": "2026-09-15T20:29:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T20:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -54,6 +72,42 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
+    "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest ",
+    "id": "hermes-labs-ai/quick-gate-python",
+    "language": "Python",
+    "name": "hermes-labs-ai/quick-gate-python",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:14:26Z",
+    "url": "https://github.com/hermes-labs-ai/quick-gate-python"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-15T20:12:39Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8095,
+    "updated_at": "2026-09-15T20:10:56Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Production-oriented AI knowledge assistant built with TypeScript, exploring RAG, hybrid retrieval, embeddings, evaluatio",
+    "id": "CuneytKukrer/enterprise-ai-knowledge-assistant",
+    "language": "TypeScript",
+    "name": "CuneytKukrer/enterprise-ai-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:08:53Z",
+    "url": "https://github.com/CuneytKukrer/enterprise-ai-knowledge-assistant"
+  },
+  {
     "description": "Behavioural attestation for deployed language models: is the model you serve the model you validated? 1 KB/position fing",
     "id": "riscoss63/servseal",
     "language": "Python",
@@ -61,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-09-15T20:08:30Z",
     "url": "https://github.com/riscoss63/servseal"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11474,
+    "updated_at": "2026-09-15T20:27:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
@@ -99,15 +162,6 @@
     "url": "https://github.com/hermes-labs-ai/.github"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T20:04:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -117,13 +171,13 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8093,
-    "updated_at": "2026-09-15T20:10:56Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25144,
+    "updated_at": "2026-09-15T20:18:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -167,17 +221,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T19:51:28Z",
+    "updated_at": "2026-09-15T20:18:33Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-15T20:11:50Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -193,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34649,
+    "stars": 34650,
     "updated_at": "2026-09-15T19:43:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -243,15 +288,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25143,
-    "updated_at": "2026-09-15T20:00:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -265,7 +301,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6615,
+    "stars": 6616,
     "updated_at": "2026-09-15T19:21:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -333,15 +369,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11473,
-    "updated_at": "2026-09-15T20:07:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Structured tracing and cost accounting for LLM apps, stdlib only",
     "id": "artemserdyuk392/llmtrace",
     "language": "Python",
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30189,
-    "updated_at": "2026-09-15T20:04:58Z",
+    "updated_at": "2026-09-15T20:23:25Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-15T17:08:28Z",
     "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:37:32Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/Modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/Modelpin",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:17:43Z",
-    "url": "https://github.com/samarthputhraya/Modelpin"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:49:50Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   }
 ]
