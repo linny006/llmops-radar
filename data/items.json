@@ -1,11 +1,65 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T20:44:46Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
+    "id": "aravinda-1402/causeval",
+    "language": "TypeScript",
+    "name": "aravinda-1402/causeval",
+    "stars": 0,
+    "updated_at": "2026-09-15T20:42:41Z",
+    "url": "https://github.com/aravinda-1402/causeval"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58806,
+    "updated_at": "2026-09-15T20:40:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25144,
+    "updated_at": "2026-09-15T20:43:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8640,
+    "updated_at": "2026-09-15T20:37:18Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T20:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T20:29:50Z",
+    "updated_at": "2026-09-15T20:41:54Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -23,17 +77,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T20:28:57Z",
+    "updated_at": "2026-09-15T20:44:19Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T20:22:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -43,24 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T20:19:15Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58804,
-    "updated_at": "2026-09-15T20:29:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T20:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "hermes-labs-ai/quick-gate-python",
     "stars": 0,
-    "updated_at": "2026-09-15T20:14:26Z",
+    "updated_at": "2026-09-15T20:42:46Z",
     "url": "https://github.com/hermes-labs-ai/quick-gate-python"
   },
   {
@@ -126,13 +153,13 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
-    "id": "aravinda-1402/causeval",
-    "language": "TypeScript",
-    "name": "aravinda-1402/causeval",
-    "stars": 0,
-    "updated_at": "2026-09-15T20:14:46Z",
-    "url": "https://github.com/aravinda-1402/causeval"
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 464,
+    "updated_at": "2026-09-15T20:07:05Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -169,15 +196,6 @@
     "stars": 36,
     "updated_at": "2026-09-15T20:03:50Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25144,
-    "updated_at": "2026-09-15T20:18:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -221,24 +239,15 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T20:18:33Z",
+    "updated_at": "2026-09-15T20:33:16Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8640,
-    "updated_at": "2026-09-15T20:09:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34650,
+    "stars": 34651,
     "updated_at": "2026-09-15T19:43:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 87,
-    "updated_at": "2026-09-15T20:05:14Z",
+    "updated_at": "2026-09-15T20:44:20Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -301,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6616,
+    "stars": 6617,
     "updated_at": "2026-09-15T19:21:46Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -324,11 +333,20 @@
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
+    "description": "Most eval tools measure your model - this one measures your judge. Calibration against human labels, measured bias detec",
+    "id": "Esammy/LLM-as-a-judge",
+    "language": "Python",
+    "name": "Esammy/LLM-as-a-judge",
+    "stars": 0,
+    "updated_at": "2026-09-15T18:57:30Z",
+    "url": "https://github.com/Esammy/LLM-as-a-judge"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27969,
+    "stars": 27970,
     "updated_at": "2026-09-15T18:56:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3259,
-    "updated_at": "2026-09-15T19:52:46Z",
+    "updated_at": "2026-09-15T20:38:17Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30189,
-    "updated_at": "2026-09-15T20:23:25Z",
+    "updated_at": "2026-09-15T20:44:19Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4793,
-    "updated_at": "2026-09-15T18:22:31Z",
+    "updated_at": "2026-09-15T20:41:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "redevops-io/RAAAL",
     "stars": 0,
-    "updated_at": "2026-09-15T17:24:11Z",
+    "updated_at": "2026-09-15T20:37:51Z",
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:14:03Z",
     "url": "https://github.com/rfioly/trace2eval"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-15T17:10:31Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\u4e2d\u6587 AI/LLM Agent \u7cfb\u7edf\u5b66\u4e60\u77e5\u8bc6\u5e93:15 \u7ae0\u4ece\u4ea4\u4e92\u5165\u53e3\u3001MCP \u534f\u8bae\u3001Agent \u4e3b\u4f53\u5230\u6784\u5efa\u81ea\u5df1\u7684 Agent \u5168\u6d41\u7a0b,\u9644\u771f\u5b9e\u53ef\u8fd0\u884c\u7684 LangGraph \u5b9e\u6218\u9879\u76ee\u3002\u4e2a\u4eba\u5b66\u4e60\u603b\u7ed3,\u6b22\u8fce\u65a7\u6b63\u3002",
-    "id": "123caiji/AI-LLM-Agent-Learning",
-    "language": "Python",
-    "name": "123caiji/AI-LLM-Agent-Learning",
-    "stars": 5,
-    "updated_at": "2026-09-15T17:08:28Z",
-    "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
   }
 ]
