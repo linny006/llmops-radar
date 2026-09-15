@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58799,
+    "updated_at": "2026-09-15T18:57:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T18:55:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27969,
+    "updated_at": "2026-09-15T18:56:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-09-15T18:52:53Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-15T18:48:48Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:46:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8091,
+    "updated_at": "2026-09-15T18:52:28Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems \u2014 with the evaluation framework",
     "id": "kai2055/incident-postmortem-assistant",
     "language": "Python",
@@ -9,31 +72,13 @@
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58798,
-    "updated_at": "2026-09-15T18:44:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T18:36:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T18:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34646,
+    "updated_at": "2026-09-15T18:41:46Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25138,
-    "updated_at": "2026-09-15T18:38:22Z",
+    "updated_at": "2026-09-15T18:48:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T18:43:59Z",
+    "updated_at": "2026-09-15T18:59:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -94,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6602,
+    "stars": 6604,
     "updated_at": "2026-09-15T18:10:34Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -108,21 +153,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34645,
-    "updated_at": "2026-09-15T18:41:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T18:38:58Z",
+    "updated_at": "2026-09-15T18:59:51Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8640,
-    "updated_at": "2026-09-15T18:38:34Z",
+    "updated_at": "2026-09-15T18:58:47Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T17:38:13Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8090,
-    "updated_at": "2026-09-15T18:42:31Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Template repository for plugin creation for mloda.ai ",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-15T17:23:33Z",
+    "updated_at": "2026-09-15T18:54:13Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-09-15T17:08:28Z",
     "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27969,
-    "updated_at": "2026-09-15T17:24:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 151,
-    "updated_at": "2026-09-15T18:23:12Z",
+    "updated_at": "2026-09-15T18:50:43Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 463,
-    "updated_at": "2026-09-15T16:27:06Z",
+    "updated_at": "2026-09-15T18:56:57Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T15:33:11Z",
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:30:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:34:12Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   }
 ]
