@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-15T16:44:06Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:56:49Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "brunovicco/governed-llm-gateway",
     "stars": 0,
-    "updated_at": "2026-09-15T16:42:26Z",
+    "updated_at": "2026-09-15T16:57:45Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58796,
+    "updated_at": "2026-09-15T16:57:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34642,
+    "updated_at": "2026-09-15T16:56:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25134,
+    "updated_at": "2026-09-15T16:49:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8089,
+    "updated_at": "2026-09-15T16:51:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:49:50Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-15T16:53:14Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -27,12 +90,21 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-15T16:36:24Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22040,
-    "updated_at": "2026-09-15T16:33:19Z",
+    "updated_at": "2026-09-15T16:47:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 1220,
     "updated_at": "2026-09-15T16:35:30Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T16:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Long-term neocortex and collective memory system for AI coding assistants via MCP",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11471,
-    "updated_at": "2026-09-15T16:42:30Z",
+    "updated_at": "2026-09-15T16:57:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34642,
-    "updated_at": "2026-09-15T16:45:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 27970,
     "updated_at": "2026-09-15T16:22:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58795,
-    "updated_at": "2026-09-15T16:41:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Template repository for plugin creation for mloda.ai ",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 151,
-    "updated_at": "2026-09-15T16:09:28Z",
+    "updated_at": "2026-09-15T16:53:54Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -193,7 +238,7 @@
     "id": "hpnkv/a11",
     "language": "C++",
     "name": "hpnkv/a11",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-09-15T16:06:13Z",
     "url": "https://github.com/hpnkv/a11"
   },
@@ -225,15 +270,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25133,
-    "updated_at": "2026-09-15T15:59:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -261,15 +297,6 @@
     "url": "https://github.com/yuzhiquan/llm-pipeline-on-kubernetes"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8089,
-    "updated_at": "2026-09-15T15:49:31Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
@@ -283,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6586,
+    "stars": 6590,
     "updated_at": "2026-09-15T15:40:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T15:46:15Z",
+    "updated_at": "2026-09-15T16:54:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 546,
     "updated_at": "2026-09-15T14:58:49Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:58:34Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "Deterministic agent effect-execution kernel with bounded tools, durable effects, recovery, replay, tracing, MCP, and mul",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T14:28:45Z",
     "url": "https://github.com/patibandlavenkatamanideep/evalseal"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2007,
-    "updated_at": "2026-09-15T14:28:02Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8640,
-    "updated_at": "2026-09-15T14:25:12Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
