@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-15T21:27:11Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T21:14:09Z",
+    "updated_at": "2026-09-15T21:29:34Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-09-15T21:25:26Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-15T21:24:16Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58807,
+    "updated_at": "2026-09-15T21:28:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34652,
+    "updated_at": "2026-09-15T21:20:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-15T21:19:26Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-15T21:15:50Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T21:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -18,21 +90,12 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58807,
-    "updated_at": "2026-09-15T21:14:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11474,
-    "updated_at": "2026-09-15T21:11:55Z",
+    "updated_at": "2026-09-15T21:28:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -45,20 +108,11 @@
     "url": "https://github.com/redevops-io/RAAAL"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T21:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27971,
+    "stars": 27972,
     "updated_at": "2026-09-15T21:00:17Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25144,
-    "updated_at": "2026-09-15T20:43:53Z",
+    "updated_at": "2026-09-15T21:22:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-15T21:03:53Z",
+    "updated_at": "2026-09-15T21:24:46Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/hermes-labs-ai/quick-gate-python"
   },
   {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 2,
-    "updated_at": "2026-09-15T20:55:43Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 464,
-    "updated_at": "2026-09-15T20:07:05Z",
+    "updated_at": "2026-09-15T21:20:15Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T19:52:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T20:33:16Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34652,
-    "updated_at": "2026-09-15T19:43:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 87,
-    "updated_at": "2026-09-15T21:02:24Z",
+    "updated_at": "2026-09-15T21:27:00Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T18:16:14Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Structured tracing and cost accounting for LLM apps, stdlib only",
-    "id": "artemserdyuk392/llmtrace",
-    "language": "Python",
-    "name": "artemserdyuk392/llmtrace",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:11:45Z",
-    "url": "https://github.com/artemserdyuk392/llmtrace"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-15T18:06:39Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Template repository for plugin creation for mloda.ai ",
-    "id": "mloda-ai/mloda-plugin-template",
-    "language": "Python",
-    "name": "mloda-ai/mloda-plugin-template",
-    "stars": 1,
-    "updated_at": "2026-09-15T17:37:13Z",
-    "url": "https://github.com/mloda-ai/mloda-plugin-template"
   }
 ]
