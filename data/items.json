@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8640,
+    "updated_at": "2026-09-15T19:44:22Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
+    "id": "aravinda-1402/causeval",
+    "language": "TypeScript",
+    "name": "aravinda-1402/causeval",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:43:52Z",
+    "url": "https://github.com/aravinda-1402/causeval"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58801,
+    "updated_at": "2026-09-15T19:45:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:35:25Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-09-15T19:35:24Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
     "id": "davidahmann/applied-ai-field-guide",
     "language": "JavaScript",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 87,
-    "updated_at": "2026-09-15T19:27:59Z",
+    "updated_at": "2026-09-15T19:37:22Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -32,26 +86,26 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25143,
-    "updated_at": "2026-09-15T19:27:19Z",
+    "updated_at": "2026-09-15T19:34:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6606,
-    "updated_at": "2026-09-15T19:21:46Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22043,
+    "stars": 22044,
     "updated_at": "2026-09-15T19:22:28Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6609,
+    "updated_at": "2026-09-15T19:21:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T19:15:33Z",
+    "updated_at": "2026-09-15T19:41:47Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58801,
-    "updated_at": "2026-09-15T19:29:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -90,12 +126,21 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34648,
+    "updated_at": "2026-09-15T19:43:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
     "stars": 1411,
-    "updated_at": "2026-09-15T19:06:20Z",
+    "updated_at": "2026-09-15T19:31:00Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8092,
-    "updated_at": "2026-09-15T18:52:28Z",
+    "updated_at": "2026-09-15T19:45:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -144,30 +189,12 @@
     "url": "https://github.com/kai2055/incident-postmortem-assistant"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34647,
-    "updated_at": "2026-09-15T19:03:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
-    "id": "aravinda-1402/causeval",
-    "language": "TypeScript",
-    "name": "aravinda-1402/causeval",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:20:43Z",
-    "url": "https://github.com/aravinda-1402/causeval"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3259,
-    "updated_at": "2026-09-15T18:17:14Z",
+    "updated_at": "2026-09-15T19:37:46Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T19:23:54Z",
+    "updated_at": "2026-09-15T19:39:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -212,26 +239,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T19:29:12Z",
+    "updated_at": "2026-09-15T19:44:06Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8640,
-    "updated_at": "2026-09-15T19:08:39Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:45:54Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1337,
-    "updated_at": "2026-09-15T17:41:16Z",
+    "updated_at": "2026-09-15T19:40:45Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 151,
     "updated_at": "2026-09-15T19:13:18Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 10,
-    "updated_at": "2026-09-15T16:06:13Z",
-    "url": "https://github.com/hpnkv/a11"
   }
 ]
