@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 06:43 UTC
+> ⏰ Last updated: 2026-09-15 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rozario-1234/end2end_sample](https://github.com/rozario-1234/end2end_sample) | 1 | TypeScript | 2026-09-15 | 🎤 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions  |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58755 | Python | 2026-09-15 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [KewalPra/agent-sdk](https://github.com/KewalPra/agent-sdk) | 1 | Python | 2026-09-15 | ⚙️ Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat |
-| 4 | [rsaudio/second-brain](https://github.com/rsaudio/second-brain) | 1 | — | 2026-09-15 | 🧠 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c |
-| 5 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 721 | Python | 2026-09-15 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
-| 6 | [StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary) | 2 | Python | 2026-09-15 | ✈️ Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to  |
-| 7 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-09-15 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
-| 8 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-09-15 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
-| 9 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8631 | Rust | 2026-09-15 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2823 | C++ | 2026-09-15 | Community maintained hardware plugin for vLLM on Ascend |
-| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-15 | Agentic Runtime |
-| 12 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 6509 | Python | 2026-09-15 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25108 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 14 | [hxaxd/kochab](https://github.com/hxaxd/kochab) | 0 | Python | 2026-09-15 | Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback. |
-| 15 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4787 | TypeScript | 2026-09-15 | The platform for LLM evaluations and AI agent testing |
-| 16 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-15 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-15 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [rozario-1234/end2end_sample](https://github.com/rozario-1234/end2end_sample) | 1 | TypeScript | 2026-09-15 | 🎤 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions  |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58755 | Python | 2026-09-15 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [KewalPra/agent-sdk](https://github.com/KewalPra/agent-sdk) | 1 | Python | 2026-09-15 | ⚙️ Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat |
+| 5 | [rsaudio/second-brain](https://github.com/rsaudio/second-brain) | 1 | — | 2026-09-15 | 🧠 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c |
+| 6 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 721 | Python | 2026-09-15 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
+| 7 | [StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary) | 2 | Python | 2026-09-15 | ✈️ Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to  |
+| 8 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-09-15 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
+| 9 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-09-15 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
+| 10 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8631 | Rust | 2026-09-15 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 11 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2823 | C++ | 2026-09-15 | Community maintained hardware plugin for vLLM on Ascend |
+| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-15 | Agentic Runtime |
+| 13 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 6510 | Python | 2026-09-15 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25108 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 15 | [hxaxd/kochab](https://github.com/hxaxd/kochab) | 0 | Python | 2026-09-15 | Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback. |
+| 16 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4787 | TypeScript | 2026-09-15 | The platform for LLM evaluations and AI agent testing |
 | 17 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2370 | Rust | 2026-09-15 | Bionic is sovereign AI for the enterprise — ChatGPT-like AI that runs on-premise and can securely work with your sensiti |
 | 18 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-09-15 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
 | 19 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34620 | TypeScript | 2026-09-15 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
