@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58791,
+    "updated_at": "2026-09-15T14:42:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:39:46Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:45:15Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3552,
+    "updated_at": "2026-09-15T14:32:52Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:39:05Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM ",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 456,
+    "updated_at": "2026-09-15T14:32:21Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22039,
-    "updated_at": "2026-09-15T14:27:55Z",
+    "updated_at": "2026-09-15T14:39:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -32,8 +95,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34637,
-    "updated_at": "2026-09-15T14:25:32Z",
+    "updated_at": "2026-09-15T14:45:09Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25129,
+    "updated_at": "2026-09-15T14:37:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Self-hosted AI gateway and DLP proxy that detects and masks PII, secrets, and confidential data in LLM prompts before th",
@@ -63,15 +135,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
     "id": "tahircengiz/LLMScale",
     "language": "TypeScript",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-15T14:13:03Z",
+    "updated_at": "2026-09-15T14:44:33Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -94,27 +157,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30185,
+    "stars": 30186,
     "updated_at": "2026-09-15T14:12:21Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58789,
-    "updated_at": "2026-09-15T14:24:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:10:38Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -130,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6566,
+    "stars": 6568,
     "updated_at": "2026-09-15T14:07:25Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4790,
-    "updated_at": "2026-09-15T14:05:54Z",
+    "updated_at": "2026-09-15T14:43:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,17 +203,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-15T14:05:16Z",
+    "updated_at": "2026-09-15T14:32:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25128,
-    "updated_at": "2026-09-15T14:21:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -225,15 +261,6 @@
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3552,
-    "updated_at": "2026-09-15T13:44:40Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T13:36:27Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:28:51Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Production-oriented AI knowledge assistant built with TypeScript, exploring RAG, hybrid retrieval, embeddings, evaluatio",
@@ -346,7 +364,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8086,
+    "stars": 8087,
     "updated_at": "2026-09-15T12:33:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 150,
-    "updated_at": "2026-09-15T13:48:19Z",
+    "updated_at": "2026-09-15T14:34:15Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -394,6 +412,15 @@
     "stars": 53,
     "updated_at": "2026-09-15T12:23:42Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2765,
+    "updated_at": "2026-09-15T12:15:54Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-15T14:09:53Z",
+    "updated_at": "2026-09-15T14:39:32Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "AI onboarding copilot with RAG, escalation levels, and MLflow LLMOps. FastAPI \u00b7 Streamlit \u00b7 LanceDB.",
-    "id": "omeraytug/Wired-Al",
-    "language": "Python",
-    "name": "omeraytug/Wired-Al",
-    "stars": 4,
-    "updated_at": "2026-09-15T12:04:08Z",
-    "url": "https://github.com/omeraytug/Wired-Al"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:59:03Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:58:31Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   }
 ]
