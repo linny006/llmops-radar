@@ -1,5 +1,59 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4801,
+    "updated_at": "2026-09-16T12:29:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34681,
+    "updated_at": "2026-09-16T12:29:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-09-16T12:27:20Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-16T12:21:55Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58874,
+    "updated_at": "2026-09-16T12:17:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T12:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -16,6 +70,15 @@
     "stars": 2371,
     "updated_at": "2026-09-16T12:06:48Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2836,
+    "updated_at": "2026-09-16T12:04:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -36,21 +99,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T12:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 466,
-    "updated_at": "2026-09-16T12:13:17Z",
+    "updated_at": "2026-09-16T12:29:01Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 3,
     "updated_at": "2026-09-16T11:56:02Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2835,
-    "updated_at": "2026-09-16T12:04:45Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34680,
-    "updated_at": "2026-09-16T12:12:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Monitoring built for LLM applications: cost per feature and per success, latency percentiles that exclude cache hits, gr",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22060,
-    "updated_at": "2026-09-16T12:14:35Z",
+    "updated_at": "2026-09-16T12:29:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T11:43:15Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4801,
-    "updated_at": "2026-09-16T11:39:29Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
@@ -176,17 +203,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8110,
-    "updated_at": "2026-09-16T12:13:56Z",
+    "updated_at": "2026-09-16T12:27:11Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58873,
-    "updated_at": "2026-09-16T12:13:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27982,
-    "updated_at": "2026-09-16T11:19:55Z",
+    "updated_at": "2026-09-16T12:17:37Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T11:02:57Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:02:33Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-16T11:02:19Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
