@@ -1,12 +1,57 @@
 [
   {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-09-16T04:28:23Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+    "description": "Which lines of your LLM system prompt are actually doing anything? 198 measured runs, plus an installable skill that aud",
+    "id": "JashwanthY/llm-prompt-economics",
+    "language": "HTML",
+    "name": "JashwanthY/llm-prompt-economics",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:42:26Z",
+    "url": "https://github.com/JashwanthY/llm-prompt-economics"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-16T04:41:17Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-16T04:40:39Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 52,
+    "updated_at": "2026-09-16T04:39:19Z",
+    "url": "https://github.com/solomon2773/nora"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3029,
+    "updated_at": "2026-09-16T04:41:50Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58839,
+    "updated_at": "2026-09-16T04:45:15Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 102,
-    "updated_at": "2026-09-16T04:28:00Z",
+    "updated_at": "2026-09-16T04:30:27Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T04:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-09-16T04:28:23Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
@@ -27,15 +90,6 @@
     "url": "https://github.com/8dazo/captor"
   },
   {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3029,
-    "updated_at": "2026-09-16T04:26:45Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -43,15 +97,6 @@
     "stars": 38,
     "updated_at": "2026-09-16T04:26:29Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58838,
-    "updated_at": "2026-09-16T04:20:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -68,17 +113,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25152,
-    "updated_at": "2026-09-16T04:30:12Z",
+    "updated_at": "2026-09-16T04:34:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T04:15:17Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-16T04:12:46Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Which lines of your LLM system prompt are actually doing anything? 198 measured runs, plus an installable skill that aud",
-    "id": "JashwanthY/llm-prompt-economics",
-    "language": "HTML",
-    "name": "JashwanthY/llm-prompt-economics",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:09:22Z",
-    "url": "https://github.com/JashwanthY/llm-prompt-economics"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -175,7 +193,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 2012,
+    "stars": 2013,
     "updated_at": "2026-09-16T03:47:46Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T03:05:41Z",
     "url": "https://github.com/yuzhiquan/ray-vllm-on-kubernetes"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-16T03:03:05Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11478,
-    "updated_at": "2026-09-16T03:03:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
