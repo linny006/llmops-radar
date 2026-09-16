@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-16T05:44:18Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-09-16T05:56:23Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 2,
+    "updated_at": "2026-09-16T05:54:37Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-16T05:53:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34669,
+    "updated_at": "2026-09-16T05:52:09Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
@@ -14,35 +41,44 @@
     "language": "TypeScript",
     "name": "8dazo/captor",
     "stars": 1,
-    "updated_at": "2026-09-16T05:44:39Z",
+    "updated_at": "2026-09-16T05:54:31Z",
     "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-16T05:53:11Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T05:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-16T05:52:02Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6644,
+    "stars": 6646,
     "updated_at": "2026-09-16T05:41:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34668,
-    "updated_at": "2026-09-16T05:36:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-09-16T05:34:04Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -61,15 +97,6 @@
     "stars": 27974,
     "updated_at": "2026-09-16T05:32:00Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T05:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A self-balancing 4-bit isomorphic YOalphabet encoding and logical YOconlang designed for human-machine communication ove",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T05:26:07Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-16T05:25:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-16T05:18:52Z",
+    "updated_at": "2026-09-16T05:51:45Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25155,
-    "updated_at": "2026-09-16T05:41:39Z",
+    "updated_at": "2026-09-16T05:55:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58840,
-    "updated_at": "2026-09-16T05:41:29Z",
+    "updated_at": "2026-09-16T05:45:25Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T04:05:36Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-16T05:43:17Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-16T03:55:04Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
