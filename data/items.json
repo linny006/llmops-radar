@@ -1,5 +1,77 @@
 [
   {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1411,
+    "updated_at": "2026-09-16T03:42:50Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
+  },
+  {
+    "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
+    "id": "satya-anguluri/capstead",
+    "language": "Java",
+    "name": "satya-anguluri/capstead",
+    "stars": 10,
+    "updated_at": "2026-09-16T03:39:26Z",
+    "url": "https://github.com/satya-anguluri/capstead"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3029,
+    "updated_at": "2026-09-16T03:40:00Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 102,
+    "updated_at": "2026-09-16T03:38:40Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:37:23Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 723,
+    "updated_at": "2026-09-16T03:42:34Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58835,
+    "updated_at": "2026-09-16T03:44:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T03:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -7,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T03:28:46Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58834,
-    "updated_at": "2026-09-16T03:30:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -43,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T03:25:32Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 723,
-    "updated_at": "2026-09-16T03:24:59Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2011,
-    "updated_at": "2026-09-16T03:21:07Z",
+    "updated_at": "2026-09-16T03:39:36Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "8dazo/captor",
     "stars": 1,
-    "updated_at": "2026-09-16T03:19:41Z",
+    "updated_at": "2026-09-16T03:43:28Z",
     "url": "https://github.com/8dazo/captor"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11971,
-    "updated_at": "2026-09-16T03:17:09Z",
+    "updated_at": "2026-09-16T03:30:51Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T03:15:27Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T03:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -234,15 +279,6 @@
     "url": "https://github.com/ydavidcm9-wq/vigil"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 102,
-    "updated_at": "2026-09-16T03:08:51Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
     "id": "islaagnet27/llm-cost",
     "language": "C++",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-16T03:08:26Z",
+    "updated_at": "2026-09-16T03:36:59Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-16T03:04:09Z",
+    "updated_at": "2026-09-16T03:43:20Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-16T02:56:45Z",
+    "updated_at": "2026-09-16T03:44:48Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -383,7 +419,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34665,
-    "updated_at": "2026-09-16T02:38:59Z",
+    "updated_at": "2026-09-16T03:35:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8641,
-    "updated_at": "2026-09-16T02:34:26Z",
+    "updated_at": "2026-09-16T03:43:42Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 154,
-    "updated_at": "2026-09-16T03:27:14Z",
+    "updated_at": "2026-09-16T03:39:10Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:18:11Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-09-16T02:00:40Z",
-    "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 21,
-    "updated_at": "2026-09-16T01:58:45Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "\u2014",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:53:28Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-16T01:58:22Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
