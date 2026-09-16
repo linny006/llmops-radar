@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:11:00Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1220,
+    "updated_at": "2026-09-16T00:11:54Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-16T00:10:08Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:08:19Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58817,
+    "updated_at": "2026-09-16T00:13:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
+    "id": "TanbirRamim/callm",
+    "language": "Python",
+    "name": "TanbirRamim/callm",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:05:30Z",
+    "url": "https://github.com/TanbirRamim/callm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-16T00:03:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:15:14Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
     "id": "hermes-labs-ai/.github",
     "language": "Python",
@@ -14,26 +95,8 @@
     "language": "Python",
     "name": "runtm-ai/runtm",
     "stars": 296,
-    "updated_at": "2026-09-15T23:58:13Z",
+    "updated_at": "2026-09-16T00:00:34Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:54:08Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-15T23:56:30Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
@@ -52,51 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T23:52:36Z",
     "url": "https://github.com/HarshCodeK/regent"
-  },
-  {
-    "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
-    "id": "TanbirRamim/callm",
-    "language": "Python",
-    "name": "TanbirRamim/callm",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:52:01Z",
-    "url": "https://github.com/TanbirRamim/callm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58815,
-    "updated_at": "2026-09-15T23:57:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-15T23:50:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1220,
-    "updated_at": "2026-09-15T23:59:17Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T23:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-15T23:57:38Z",
+    "updated_at": "2026-09-16T00:14:14Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 2,
-    "updated_at": "2026-09-15T23:52:59Z",
+    "updated_at": "2026-09-16T00:14:20Z",
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-15T23:10:52Z",
+    "updated_at": "2026-09-16T00:05:17Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25147,
-    "updated_at": "2026-09-15T22:40:25Z",
+    "updated_at": "2026-09-16T00:13:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T22:31:52Z",
     "url": "https://github.com/dividehex/context-guard"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8640,
-    "updated_at": "2026-09-15T23:20:19Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8097,
-    "updated_at": "2026-09-15T22:19:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
