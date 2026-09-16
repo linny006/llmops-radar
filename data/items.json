@@ -1,12 +1,93 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-16T06:28:26Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27975,
+    "updated_at": "2026-09-16T06:28:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-16T06:26:36Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 1,
+    "updated_at": "2026-09-16T06:30:13Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4797,
+    "updated_at": "2026-09-16T06:25:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-09-16T06:18:28Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-09-16T06:20:56Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25155,
-    "updated_at": "2026-09-16T06:14:38Z",
+    "stars": 25156,
+    "updated_at": "2026-09-16T06:16:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "LLMOps \u00b7 AI \u539f\u751f\u5e94\u7528\u5f00\u53d1\u5e73\u53f0 | Agent & Workflow \u53ef\u89c6\u5316\u7f16\u6392 \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u591a\u6a21\u578b\u63a5\u5165 \u00b7 \u4e00\u952e\u53d1\u5e03 Web/OpenAPI",
+    "id": "8pig/llm-ops",
+    "language": "Python",
+    "name": "8pig/llm-ops",
+    "stars": 13,
+    "updated_at": "2026-09-16T06:16:26Z",
+    "url": "https://github.com/8pig/llm-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-16T06:14:10Z",
+    "updated_at": "2026-09-16T06:23:33Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -40,8 +121,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58842,
-    "updated_at": "2026-09-16T06:08:16Z",
+    "stars": 58844,
+    "updated_at": "2026-09-16T06:26:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1338,
-    "updated_at": "2026-09-16T06:13:37Z",
+    "updated_at": "2026-09-16T06:26:56Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-16T06:04:12Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
@@ -72,24 +144,6 @@
     "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-09-16T06:03:08Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -97,15 +151,6 @@
     "stars": 34671,
     "updated_at": "2026-09-16T05:52:09Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
-    "id": "8dazo/captor",
-    "language": "TypeScript",
-    "name": "8dazo/captor",
-    "stars": 1,
-    "updated_at": "2026-09-16T05:54:31Z",
-    "url": "https://github.com/8dazo/captor"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -133,15 +178,6 @@
     "stars": 8642,
     "updated_at": "2026-09-16T05:33:07Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27974,
-    "updated_at": "2026-09-16T05:32:00Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A self-balancing 4-bit isomorphic YOalphabet encoding and logical YOconlang designed for human-machine communication ove",
@@ -387,6 +423,15 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 466,
+    "updated_at": "2026-09-16T04:58:54Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T04:56:42Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8102,
-    "updated_at": "2026-09-16T06:09:53Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Which lines of your LLM system prompt are actually doing anything? 198 measured runs, plus an installable skill that aud",
-    "id": "JashwanthY/llm-prompt-economics",
-    "language": "HTML",
-    "name": "JashwanthY/llm-prompt-economics",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:51:10Z",
-    "url": "https://github.com/JashwanthY/llm-prompt-economics"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-16T06:08:42Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-16T04:41:17Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-09-16T04:28:23Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
