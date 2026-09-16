@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 20:15 UTC
+> ⏰ Last updated: 2026-09-16 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58908 | Python | 2026-09-16 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 1 | Python | 2026-09-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58909 | Python | 2026-09-16 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30202 | TypeScript | 2026-09-16 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 3 | [uttej-badwane/terraform-provider-anthropic-enterprise](https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise) | 0 | Go | 2026-09-16 | Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor |
-| 4 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-16 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
-| 5 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-16 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
-| 6 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30202 | TypeScript | 2026-09-16 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-16 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 9 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 10 | [AshwinUgale/muteval](https://github.com/AshwinUgale/muteval) | 7 | Python | 2026-09-16 | Mutation testing for your LLM evals — degrade the system under test and check whether your evals would actually catch a  |
-| 11 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-16 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 12 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1221 | Python | 2026-09-16 | OpenTelemetry Instrumentation for AI Observability |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11493 | Python | 2026-09-16 | AI Observability & Evaluation |
+| 4 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11494 | Python | 2026-09-16 | AI Observability & Evaluation |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 1 | Python | 2026-09-16 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 8 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-09-16 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
+| 9 | [xlabs-club/awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) | 36 | — | 2026-09-16 | A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps |
+| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-16 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 11 | [AshwinUgale/muteval](https://github.com/AshwinUgale/muteval) | 7 | Python | 2026-09-16 | Mutation testing for your LLM evals — degrade the system under test and check whether your evals would actually catch a  |
+| 12 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-16 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 13 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1221 | Python | 2026-09-16 | OpenTelemetry Instrumentation for AI Observability |
 | 14 | [Life-Experimentalist/CogniGate](https://github.com/Life-Experimentalist/CogniGate) | 0 | Go | 2026-09-16 | Self-hosted, multi-tenant LLM gateway. One key, the OpenAI API, and your provider credentials never leave your deploymen |
 | 15 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-09-16 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
 | 16 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 466 | Python | 2026-09-16 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
