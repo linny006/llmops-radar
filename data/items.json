@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
-    "id": "8dazo/captor",
-    "language": "TypeScript",
-    "name": "8dazo/captor",
-    "stars": 1,
-    "updated_at": "2026-09-16T03:14:42Z",
-    "url": "https://github.com/8dazo/captor"
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 2,
+    "updated_at": "2026-09-16T03:28:46Z",
+    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,161 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58834,
-    "updated_at": "2026-09-16T03:14:01Z",
+    "updated_at": "2026-09-16T03:30:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2832,
+    "updated_at": "2026-09-16T03:27:13Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:26:23Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-16T03:25:32Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 723,
+    "updated_at": "2026-09-16T03:24:59Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:24:15Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
+    "id": "phantomic12/hx-harness",
+    "language": "Rust",
+    "name": "phantomic12/hx-harness",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:24:15Z",
+    "url": "https://github.com/phantomic12/hx-harness"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:23:25Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 7,
+    "updated_at": "2026-09-16T03:22:16Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2011,
+    "updated_at": "2026-09-16T03:21:07Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-16T03:21:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27974,
+    "updated_at": "2026-09-16T03:22:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
+    "id": "8dazo/captor",
+    "language": "TypeScript",
+    "name": "8dazo/captor",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:19:41Z",
+    "url": "https://github.com/8dazo/captor"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:18:30Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11971,
+    "updated_at": "2026-09-16T03:17:09Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:16:52Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
+    "id": "retardingforcerightbank635/dm-gateway-bot",
+    "language": "Python",
+    "name": "retardingforcerightbank635/dm-gateway-bot",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:15:27Z",
+    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T03:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -25,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-09-16T03:13:52Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25149,
+    "updated_at": "2026-09-16T03:12:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -63,15 +225,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-16T03:09:44Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -106,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T03:08:26Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
-    "id": "phantomic12/hx-harness",
-    "language": "Rust",
-    "name": "phantomic12/hx-harness",
-    "stars": 0,
-    "updated_at": "2026-09-16T03:06:06Z",
-    "url": "https://github.com/phantomic12/hx-harness"
   },
   {
     "description": "A runnable four-stage LLM pipeline on Kubernetes (data, SFT, batch inference, serving) with KubeRay + Ray + PyTorch + vL",
@@ -171,20 +315,11 @@
     "url": "https://github.com/Tearfullnex/SpecGuard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
     "id": "matiaslanza99/SuperStore.SalesDashboard",
     "language": "CSS",
     "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-16T02:59:55Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
@@ -214,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T02:56:03Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2832,
-    "updated_at": "2026-09-16T02:44:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -256,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34664,
+    "stars": 34665,
     "updated_at": "2026-09-16T02:38:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -275,7 +401,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 154,
-    "updated_at": "2026-09-16T02:23:14Z",
+    "updated_at": "2026-09-16T03:27:14Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -286,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:18:11Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27974,
-    "updated_at": "2026-09-16T02:04:24Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
@@ -315,15 +432,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 723,
-    "updated_at": "2026-09-16T03:11:42Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
     "id": "sandeepk24/learn-devops-playbook",
     "language": "\u2014",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-16T01:58:22Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25148,
-    "updated_at": "2026-09-16T03:12:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:43:29Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
-  },
-  {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3029,
-    "updated_at": "2026-09-16T02:43:51Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:34:58Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:34:36Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-09-16T01:34:07Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:32:45Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:31:55Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:26:40Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:24:53Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:23:25Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 2,
-    "updated_at": "2026-09-16T03:01:03Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   }
 ]
