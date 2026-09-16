@@ -1,21 +1,93 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58826,
-    "updated_at": "2026-09-16T02:29:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2830,
-    "updated_at": "2026-09-16T02:27:13Z",
+    "updated_at": "2026-09-16T02:44:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
+    "id": "phantomic12/hx-harness",
+    "language": "Rust",
+    "name": "phantomic12/hx-harness",
+    "stars": 0,
+    "updated_at": "2026-09-16T02:44:13Z",
+    "url": "https://github.com/phantomic12/hx-harness"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58830,
+    "updated_at": "2026-09-16T02:42:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-16T02:41:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-16T02:41:24Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-16T02:41:09Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34660,
+    "updated_at": "2026-09-16T02:38:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8641,
+    "updated_at": "2026-09-16T02:34:26Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T02:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11476,
+    "updated_at": "2026-09-16T02:27:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -36,15 +108,6 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T02:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -52,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T02:11:37Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
-    "id": "phantomic12/hx-harness",
-    "language": "Rust",
-    "name": "phantomic12/hx-harness",
-    "stars": 0,
-    "updated_at": "2026-09-16T02:28:31Z",
-    "url": "https://github.com/phantomic12/hx-harness"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11475,
-    "updated_at": "2026-09-16T02:27:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25148,
-    "updated_at": "2026-09-16T02:25:47Z",
+    "updated_at": "2026-09-16T02:34:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-16T02:22:57Z",
+    "updated_at": "2026-09-16T02:43:51Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T01:21:50Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8641,
-    "updated_at": "2026-09-16T02:24:37Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22048,
-    "updated_at": "2026-09-16T01:08:04Z",
+    "updated_at": "2026-09-16T02:45:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-16T01:04:37Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:03:04Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 296,
-    "updated_at": "2026-09-16T00:53:10Z",
-    "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34658,
-    "updated_at": "2026-09-16T00:52:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Nine identifier types across five AI providers, classified by what happens on deprecation day.",
-    "id": "kbipul/alias-drift",
-    "language": "TypeScript",
-    "name": "kbipul/alias-drift",
-    "stars": 0,
-    "updated_at": "2026-09-16T00:49:47Z",
-    "url": "https://github.com/kbipul/alias-drift"
   }
 ]
