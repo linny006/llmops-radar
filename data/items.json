@@ -1,12 +1,66 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T01:26:46Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58921,
-    "updated_at": "2026-09-17T01:13:37Z",
+    "updated_at": "2026-09-17T01:29:51Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:19:32Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-17T01:22:01Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2836,
+    "updated_at": "2026-09-17T01:16:54Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-17T01:15:28Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T01:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -18,21 +72,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-17T01:13:23Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27989,
-    "updated_at": "2026-09-17T01:10:21Z",
+    "updated_at": "2026-09-17T01:24:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T01:01:44Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T01:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
@@ -108,21 +144,12 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T00:57:13Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 724,
-    "updated_at": "2026-09-17T01:00:38Z",
+    "updated_at": "2026-09-17T01:16:11Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T00:47:45Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-17T01:10:05Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T00:24:48Z",
     "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34697,
-    "updated_at": "2026-09-17T00:23:38Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:20:21Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
