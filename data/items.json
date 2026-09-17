@@ -1,12 +1,48 @@
 [
   {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-09-17T15:02:21Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-17T15:01:48Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 52,
+    "updated_at": "2026-09-17T15:01:28Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 6749,
-    "updated_at": "2026-09-17T14:59:53Z",
+    "updated_at": "2026-09-17T15:00:53Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T15:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -49,7 +85,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27998,
+    "stars": 27999,
     "updated_at": "2026-09-17T14:57:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T14:58:22Z",
+    "updated_at": "2026-09-17T15:02:53Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22098,
-    "updated_at": "2026-09-17T14:56:29Z",
+    "updated_at": "2026-09-17T15:02:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-17T14:56:00Z",
+    "updated_at": "2026-09-17T15:02:17Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T14:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
     "id": "rozario-1234/end2end_sample",
     "language": "TypeScript",
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 471,
-    "updated_at": "2026-09-17T14:53:23Z",
+    "updated_at": "2026-09-17T15:01:14Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-17T14:31:54Z",
+    "updated_at": "2026-09-17T15:03:02Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 392,
     "updated_at": "2026-09-17T14:57:31Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Single-binary LLM observability: OTLP in, SQLite inside, traces/tokens/cost UI out",
-    "id": "Ray0907/spanbox",
-    "language": "Go",
-    "name": "Ray0907/spanbox",
-    "stars": 1,
-    "updated_at": "2026-09-17T14:09:16Z",
-    "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 70,
-    "updated_at": "2026-09-17T14:08:40Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Self-hosted AI gateway and DLP proxy that detects and masks PII, secrets, and confidential data in LLM prompts before th",
-    "id": "kvrishwanth1800-cmd/frostglass",
-    "language": "Python",
-    "name": "kvrishwanth1800-cmd/frostglass",
-    "stars": 1,
-    "updated_at": "2026-09-17T14:56:05Z",
-    "url": "https://github.com/kvrishwanth1800-cmd/frostglass"
   }
 ]
