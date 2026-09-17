@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58932,
+    "updated_at": "2026-09-17T03:29:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
+    "id": "glamcodecrux/n8n-mcp-server",
+    "language": "Python",
+    "name": "glamcodecrux/n8n-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:29:06Z",
+    "url": "https://github.com/glamcodecrux/n8n-mcp-server"
+  },
+  {
+    "description": "Static gate for biased LLM-as-judge evaluation setups. Flags self-preference bias \u2014 the same model (or family) used as b",
+    "id": "jay-tank/judgeskew",
+    "language": "Python",
+    "name": "jay-tank/judgeskew",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:26:26Z",
+    "url": "https://github.com/jay-tank/judgeskew"
+  },
+  {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:27:55Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T03:11:24Z",
+    "updated_at": "2026-09-17T03:23:48Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58931,
-    "updated_at": "2026-09-17T03:14:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:00:51Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T03:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11975,
-    "updated_at": "2026-09-17T02:52:21Z",
+    "updated_at": "2026-09-17T03:22:28Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25192,
-    "updated_at": "2026-09-17T02:39:40Z",
+    "updated_at": "2026-09-17T03:18:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-17T03:13:16Z",
+    "updated_at": "2026-09-17T03:29:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -391,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34697,
+    "stars": 34698,
     "updated_at": "2026-09-17T02:34:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T02:29:50Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:27:33Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-17T02:27:21Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-17T02:22:53Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
