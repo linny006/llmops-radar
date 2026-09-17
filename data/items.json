@@ -1,21 +1,84 @@
 [
   {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-16T23:56:50Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 7,
+    "updated_at": "2026-09-17T00:13:13Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 58919,
-    "updated_at": "2026-09-17T00:00:00Z",
+    "stars": 58917,
+    "updated_at": "2026-09-17T00:14:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-17T00:08:30Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 724,
+    "updated_at": "2026-09-17T00:07:51Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-17T00:05:34Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-17T00:05:02Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-17T00:02:56Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11500,
+    "updated_at": "2026-09-17T00:04:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T00:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
@@ -36,24 +99,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-16T23:54:25Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T23:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -61,6 +106,15 @@
     "stars": 25,
     "updated_at": "2026-09-16T23:45:02Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25186,
+    "updated_at": "2026-09-17T00:10:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -72,31 +126,13 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11500,
-    "updated_at": "2026-09-16T23:41:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8649,
+    "stars": 8650,
     "updated_at": "2026-09-16T23:37:25Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-16T23:57:24Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-16T23:55:47Z",
+    "updated_at": "2026-09-17T00:14:07Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 7,
-    "updated_at": "2026-09-16T22:41:03Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
     "id": "sandeepk24/learn-devops-playbook",
     "language": "\u2014",
@@ -331,24 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T22:40:40Z",
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25187,
-    "updated_at": "2026-09-16T23:44:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 724,
-    "updated_at": "2026-09-16T22:28:42Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22070,
-    "updated_at": "2026-09-16T22:17:27Z",
+    "updated_at": "2026-09-17T00:07:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,6 +394,15 @@
     "stars": 1,
     "updated_at": "2026-09-16T22:28:54Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34697,
+    "updated_at": "2026-09-16T21:51:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
@@ -409,7 +427,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30205,
+    "stars": 30204,
     "updated_at": "2026-09-16T21:41:55Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 18,
     "updated_at": "2026-09-16T22:01:10Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 10,
-    "updated_at": "2026-09-16T21:35:08Z",
-    "url": "https://github.com/hpnkv/a11"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-16T21:33:24Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
