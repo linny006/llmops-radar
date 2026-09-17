@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58932,
-    "updated_at": "2026-09-17T03:29:59Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "hanyeol/model-compose",
+    "stars": 103,
+    "updated_at": "2026-09-17T03:45:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 154,
+    "updated_at": "2026-09-17T03:44:20Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
@@ -14,17 +23,53 @@
     "language": "Python",
     "name": "glamcodecrux/n8n-mcp-server",
     "stars": 0,
-    "updated_at": "2026-09-17T03:29:06Z",
+    "updated_at": "2026-09-17T03:44:06Z",
     "url": "https://github.com/glamcodecrux/n8n-mcp-server"
   },
   {
-    "description": "Static gate for biased LLM-as-judge evaluation setups. Flags self-preference bias \u2014 the same model (or family) used as b",
-    "id": "jay-tank/judgeskew",
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
-    "name": "jay-tank/judgeskew",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:26:26Z",
-    "url": "https://github.com/jay-tank/judgeskew"
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-17T03:42:04Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58933,
+    "updated_at": "2026-09-17T03:44:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T03:40:22Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27989,
+    "updated_at": "2026-09-17T03:41:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-09-17T03:31:41Z",
+    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "stars": 0,
-    "updated_at": "2026-09-17T03:27:55Z",
+    "updated_at": "2026-09-17T03:31:31Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
   },
   {
@@ -41,17 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T03:15:24Z",
+    "updated_at": "2026-09-17T03:30:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
+    "description": "Static gate for biased LLM-as-judge evaluation setups. Flags self-preference bias - the same model (or family) used as b",
+    "id": "jay-tank/judgeskew",
     "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T03:14:31Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
+    "name": "jay-tank/judgeskew",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:26:26Z",
+    "url": "https://github.com/jay-tank/judgeskew"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T03:23:48Z",
+    "updated_at": "2026-09-17T03:40:30Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-17T03:10:48Z",
+    "updated_at": "2026-09-17T03:31:48Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27989,
-    "updated_at": "2026-09-17T02:55:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11975,
-    "updated_at": "2026-09-17T03:22:28Z",
+    "updated_at": "2026-09-17T03:40:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:10:13Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-17T03:29:00Z",
+    "updated_at": "2026-09-17T03:38:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -418,35 +445,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34698,
+    "stars": 34699,
     "updated_at": "2026-09-17T02:34:43Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:34:40Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-17T02:34:14Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:29:50Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
