@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 551,
+    "updated_at": "2026-09-17T17:44:22Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1776,
+    "updated_at": "2026-09-17T17:43:17Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-17T17:39:49Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11517,
+    "updated_at": "2026-09-17T17:42:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Python",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-17T17:39:10Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
+  },
+  {
+    "description": "A multi-agent arXiv research assistant and the evaluation layer around it: four LangGraph + Claude graph shapes behind a",
+    "id": "kudratsingh/arxiv-research-agent",
+    "language": "Python",
+    "name": "kudratsingh/arxiv-research-agent",
+    "stars": 0,
+    "updated_at": "2026-09-17T17:34:41Z",
+    "url": "https://github.com/kudratsingh/arxiv-research-agent"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 28 tracks, 400+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 70,
+    "updated_at": "2026-09-17T17:32:27Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58999,
+    "updated_at": "2026-09-17T17:44:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T17:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
     "id": "hermes-labs-ai/.github",
     "language": "Python",
@@ -45,6 +126,15 @@
     "url": "https://github.com/Aftabmallick/titanrag"
   },
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-17T17:26:29Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
     "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
     "id": "brunovicco/governed-llm-gateway",
     "language": "Python",
@@ -59,26 +149,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-17T17:24:18Z",
+    "updated_at": "2026-09-17T17:43:39Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11517,
-    "updated_at": "2026-09-17T17:25:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Python",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:30:23Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -86,17 +158,8 @@
     "language": "Go",
     "name": "gagarin-cloud/gg",
     "stars": 1,
-    "updated_at": "2026-09-17T17:22:25Z",
+    "updated_at": "2026-09-17T17:31:59Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1776,
-    "updated_at": "2026-09-17T17:18:51Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -117,49 +180,22 @@
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58999,
-    "updated_at": "2026-09-17T17:24:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-09-17T17:15:32Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8140,
+    "updated_at": "2026-09-17T17:16:42Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28002,
+    "stars": 28003,
     "updated_at": "2026-09-17T17:14:41Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A multi-agent arXiv research assistant and the evaluation layer around it: four LangGraph + Claude graph shapes behind a",
-    "id": "kudratsingh/arxiv-research-agent",
-    "language": "Python",
-    "name": "kudratsingh/arxiv-research-agent",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:13:57Z",
-    "url": "https://github.com/kudratsingh/arxiv-research-agent"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T17:13:52Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8139,
-    "updated_at": "2026-09-17T17:16:42Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T17:22:00Z",
+    "updated_at": "2026-09-17T17:43:57Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T17:10:44Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 551,
-    "updated_at": "2026-09-17T17:20:47Z",
-    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1224,
-    "updated_at": "2026-09-17T17:30:10Z",
+    "updated_at": "2026-09-17T17:36:06Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -328,7 +346,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 473,
+    "stars": 474,
     "updated_at": "2026-09-17T16:56:20Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-17T17:06:46Z",
+    "updated_at": "2026-09-17T17:37:42Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T16:41:44Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-17T16:41:25Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6754,
-    "updated_at": "2026-09-17T16:40:48Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
