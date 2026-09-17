@@ -1,12 +1,93 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 474,
+    "updated_at": "2026-09-17T19:15:48Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Strip noise from terminal output before it reaches an LLM: folds stack traces, collapses repeated log lines, minimizes d",
+    "id": "mkamranr/ctrim",
+    "language": "Rust",
+    "name": "mkamranr/ctrim",
+    "stars": 0,
+    "updated_at": "2026-09-17T19:10:11Z",
+    "url": "https://github.com/mkamranr/ctrim"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-17T19:09:28Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 552,
+    "updated_at": "2026-09-17T19:13:25Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
+    "id": "satyanarayana51115/auto-apply-intelligence-suite",
+    "language": "Python",
+    "name": "satyanarayana51115/auto-apply-intelligence-suite",
+    "stars": 0,
+    "updated_at": "2026-09-17T19:08:00Z",
+    "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-17T19:14:39Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59002,
+    "updated_at": "2026-09-17T19:14:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-17T19:05:00Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T19:00:28Z",
+    "updated_at": "2026-09-17T19:00:55Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-17T19:00:49Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
   },
   {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
@@ -16,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T18:58:36Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-17T19:00:17Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -54,21 +126,12 @@
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
-    "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
-    "id": "satyanarayana51115/auto-apply-intelligence-suite",
-    "language": "Python",
-    "name": "satyanarayana51115/auto-apply-intelligence-suite",
-    "stars": 0,
-    "updated_at": "2026-09-17T18:51:50Z",
-    "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-17T18:54:17Z",
+    "updated_at": "2026-09-17T19:09:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 154,
     "updated_at": "2026-09-17T18:58:50Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59000,
-    "updated_at": "2026-09-17T18:58:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,21 +171,12 @@
     "url": "https://github.com/floatsmyboat/inferwatch"
   },
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-17T18:34:33Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-17T18:53:41Z",
+    "updated_at": "2026-09-17T19:01:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4810,
-    "updated_at": "2026-09-17T18:33:02Z",
+    "updated_at": "2026-09-17T19:04:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25230,
-    "updated_at": "2026-09-17T18:59:36Z",
+    "updated_at": "2026-09-17T19:10:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8654,
-    "updated_at": "2026-09-17T18:18:36Z",
+    "updated_at": "2026-09-17T19:16:26Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -232,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-09-17T18:17:16Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "An LLM gateway and operations dashboard with usage tracking, cost monitoring, and reproducible cloud infrastructure.",
+    "id": "christiankfoury/llmops-platform",
+    "language": "Python",
+    "name": "christiankfoury/llmops-platform",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:15:06Z",
+    "url": "https://github.com/christiankfoury/llmops-platform"
   },
   {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
@@ -265,18 +319,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22097,
+    "stars": 22098,
     "updated_at": "2026-09-17T17:48:56Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 551,
-    "updated_at": "2026-09-17T17:51:23Z",
-    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11518,
-    "updated_at": "2026-09-17T18:45:44Z",
+    "updated_at": "2026-09-17T19:09:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-17T18:55:14Z",
+    "updated_at": "2026-09-17T19:11:40Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-17T18:37:30Z",
+    "updated_at": "2026-09-17T19:02:08Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T17:13:52Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:12:26Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:11:23Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 3,
-    "updated_at": "2026-09-17T17:11:04Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:10:47Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-17T17:10:44Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
