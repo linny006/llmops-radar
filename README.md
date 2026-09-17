@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 05:24 UTC
+> ⏰ Last updated: 2026-09-17 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58937 | Python | 2026-09-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-17 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 3 | [BudEcosystem/simulator](https://github.com/BudEcosystem/simulator) | 2 | Python | 2026-09-17 | Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-17 | Agentic Runtime |
-| 5 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-17 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 163 | Python | 2026-09-17 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
-| 8 | [umars28/llm-platform](https://github.com/umars28/llm-platform) | 0 | Python | 2026-09-17 | Seven components for building and operating LLM systems: hybrid retrieval, evaluation gating, OpenTelemetry tracing, cos |
-| 9 | [nisaral/DIO](https://github.com/nisaral/DIO) | 3 | Python | 2026-09-17 | Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T |
+| 1 | [umars28/llm-platform](https://github.com/umars28/llm-platform) | 0 | Python | 2026-09-17 | Seven components for building and operating LLM systems: hybrid retrieval, evaluation gating, OpenTelemetry tracing, cos |
+| 2 | [nisaral/DIO](https://github.com/nisaral/DIO) | 3 | Python | 2026-09-17 | Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 58937 | Python | 2026-09-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-17 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 6 | [BudEcosystem/simulator](https://github.com/BudEcosystem/simulator) | 2 | Python | 2026-09-17 | Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-17 | Agentic Runtime |
+| 8 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-17 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 9 | [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | 163 | Python | 2026-09-17 | Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi |
 | 10 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-17 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 11 | [memoturn/memoturn](https://github.com/memoturn/memoturn) | 1 | TypeScript | 2026-09-17 | Open-source AI engineering platform — LLM observability, evals, metrics, prompt management, playground, and datasets. Op |
 | 12 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-09-17 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |

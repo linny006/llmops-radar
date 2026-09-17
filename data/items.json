@@ -1,11 +1,38 @@
 [
   {
+    "description": "Seven components for building and operating LLM systems: hybrid retrieval, evaluation gating, OpenTelemetry tracing, cos",
+    "id": "umars28/llm-platform",
+    "language": "Python",
+    "name": "umars28/llm-platform",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:28:09Z",
+    "url": "https://github.com/umars28/llm-platform"
+  },
+  {
+    "description": "Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T",
+    "id": "nisaral/DIO",
+    "language": "Python",
+    "name": "nisaral/DIO",
+    "stars": 3,
+    "updated_at": "2026-09-17T05:26:57Z",
+    "url": "https://github.com/nisaral/DIO"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T05:24:15Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58937,
-    "updated_at": "2026-09-17T05:24:06Z",
+    "updated_at": "2026-09-17T05:30:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-17T05:20:06Z",
+    "updated_at": "2026-09-17T05:27:58Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T05:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
     "id": "VibePod/vibepod-cli",
     "language": "Python",
@@ -61,24 +79,6 @@
     "stars": 163,
     "updated_at": "2026-09-17T05:15:22Z",
     "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Seven components for building and operating LLM systems: hybrid retrieval, evaluation gating, OpenTelemetry tracing, cos",
-    "id": "umars28/llm-platform",
-    "language": "Python",
-    "name": "umars28/llm-platform",
-    "stars": 0,
-    "updated_at": "2026-09-17T05:11:17Z",
-    "url": "https://github.com/umars28/llm-platform"
-  },
-  {
-    "description": "Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online and routes vLLM / SGLang / T",
-    "id": "nisaral/DIO",
-    "language": "Python",
-    "name": "nisaral/DIO",
-    "stars": 3,
-    "updated_at": "2026-09-17T05:09:36Z",
-    "url": "https://github.com/nisaral/DIO"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-17T04:58:07Z",
+    "updated_at": "2026-09-17T05:27:01Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -356,7 +356,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T05:19:09Z",
+    "updated_at": "2026-09-17T05:26:27Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
