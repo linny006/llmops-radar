@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:59:18Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T01:56:34Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58923,
+    "updated_at": "2026-09-17T01:59:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:55:30Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2836,
+    "updated_at": "2026-09-17T01:55:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-17T01:43:50Z",
+    "updated_at": "2026-09-17T01:49:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "stars": 0,
-    "updated_at": "2026-09-17T01:40:23Z",
+    "updated_at": "2026-09-17T01:57:15Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
   },
   {
@@ -25,51 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T01:35:18Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2836,
-    "updated_at": "2026-09-17T01:30:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T01:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T01:26:46Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58921,
-    "updated_at": "2026-09-17T01:44:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-17T01:41:34Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -274,8 +283,8 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4803,
-    "updated_at": "2026-09-17T00:45:33Z",
+    "stars": 4802,
+    "updated_at": "2026-09-17T01:53:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T00:31:20Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:25:22Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
