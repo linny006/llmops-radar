@@ -1,12 +1,147 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8138,
+    "updated_at": "2026-09-17T13:45:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 471,
+    "updated_at": "2026-09-17T13:44:55Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22095,
+    "updated_at": "2026-09-17T13:43:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34725,
+    "updated_at": "2026-09-17T13:42:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-17T13:42:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
     "id": "renezander030/draftcat",
     "language": "Go",
     "name": "renezander030/draftcat",
     "stars": 9,
-    "updated_at": "2026-09-17T13:29:18Z",
+    "updated_at": "2026-09-17T13:42:28Z",
     "url": "https://github.com/renezander030/draftcat"
+  },
+  {
+    "description": "Decision-support tool that recommends the cheapest GenAI refinement level (prompt/RAG/agent/fine-tune) that clears a use",
+    "id": "rupeshpoojary9/genai-refinement-advisor",
+    "language": "Python",
+    "name": "rupeshpoojary9/genai-refinement-advisor",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:41:54Z",
+    "url": "https://github.com/rupeshpoojary9/genai-refinement-advisor"
+  },
+  {
+    "description": "Self-extending multi-agent orchestrator: a meta-agent plans a task DAG, routes steps to a web agent and a typed API agen",
+    "id": "rupeshpoojary9/multi-agent-orchestrator",
+    "language": "Python",
+    "name": "rupeshpoojary9/multi-agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:41:48Z",
+    "url": "https://github.com/rupeshpoojary9/multi-agent-orchestrator"
+  },
+  {
+    "description": "Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a",
+    "id": "limina-ai/limina-python",
+    "language": "Python",
+    "name": "limina-ai/limina-python",
+    "stars": 1,
+    "updated_at": "2026-09-17T13:40:06Z",
+    "url": "https://github.com/limina-ai/limina-python"
+  },
+  {
+    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2371,
+    "updated_at": "2026-09-17T13:37:09Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 4,
+    "updated_at": "2026-09-17T13:39:20Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-09-17T13:36:05Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-17T13:44:04Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4807,
+    "updated_at": "2026-09-17T13:32:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-17T13:31:00Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T13:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -18,31 +153,13 @@
     "url": "https://github.com/isatimur/mash-core"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 4,
-    "updated_at": "2026-09-17T13:27:35Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 471,
-    "updated_at": "2026-09-17T13:26:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34725,
-    "updated_at": "2026-09-17T13:29:51Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "ComposioHQ/composio",
+    "stars": 30217,
+    "updated_at": "2026-09-17T13:23:43Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -50,7 +167,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-17T13:23:35Z",
+    "updated_at": "2026-09-17T13:42:43Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -59,44 +176,8 @@
     "language": "Python",
     "name": "kudratsingh/arxiv-research-agent",
     "stars": 0,
-    "updated_at": "2026-09-17T13:22:15Z",
+    "updated_at": "2026-09-17T13:42:08Z",
     "url": "https://github.com/kudratsingh/arxiv-research-agent"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2371,
-    "updated_at": "2026-09-17T13:21:58Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30216,
-    "updated_at": "2026-09-17T13:23:43Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4805,
-    "updated_at": "2026-09-17T13:20:31Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-17T13:20:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -104,17 +185,8 @@
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2839,
-    "updated_at": "2026-09-17T13:16:08Z",
+    "updated_at": "2026-09-17T13:37:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T13:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -124,15 +196,6 @@
     "stars": 11516,
     "updated_at": "2026-09-17T13:11:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-17T13:21:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -241,24 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T12:49:42Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22094,
-    "updated_at": "2026-09-17T13:26:51Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8137,
-    "updated_at": "2026-09-17T13:22:34Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T12:29:46Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-17T12:29:37Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:27:24Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 18,
-    "updated_at": "2026-09-17T13:29:33Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 161,
-    "updated_at": "2026-09-17T12:24:45Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act transparency live in the",
-    "id": "automatiqa-lab/orchestriq",
-    "language": "\u2014",
-    "name": "automatiqa-lab/orchestriq",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:22:16Z",
-    "url": "https://github.com/automatiqa-lab/orchestriq"
   }
 ]
