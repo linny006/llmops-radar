@@ -1,12 +1,48 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-17T21:29:50Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:29:28Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
     "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
     "id": "satyanarayana51115/auto-apply-intelligence-suite",
     "language": "Python",
     "name": "satyanarayana51115/auto-apply-intelligence-suite",
     "stars": 0,
-    "updated_at": "2026-09-17T21:11:31Z",
+    "updated_at": "2026-09-17T21:28:47Z",
     "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-17T21:28:08Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59008,
+    "updated_at": "2026-09-17T21:28:26Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T21:15:05Z",
+    "updated_at": "2026-09-17T21:23:36Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -23,8 +59,62 @@
     "language": "Python",
     "name": "Root1V/argus-observability-platform",
     "stars": 0,
-    "updated_at": "2026-09-17T21:07:44Z",
+    "updated_at": "2026-09-17T21:23:34Z",
     "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-17T21:27:22Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8143,
+    "updated_at": "2026-09-17T21:22:26Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "VCR cassettes for RubyLLM agent trajectories \u2014 record agent runs as DAGs, replay the canonical path, only pay the LLM fo",
+    "id": "itstheraj/ruby_llm-dagcache",
+    "language": "Ruby",
+    "name": "itstheraj/ruby_llm-dagcache",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:19:28Z",
+    "url": "https://github.com/itstheraj/ruby_llm-dagcache"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 18,
+    "updated_at": "2026-09-17T21:27:39Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-17T21:18:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first AI Quality Engineering platform with LLM providers, RAG, QA agents, data validation, multi-agent workflows, ",
@@ -36,24 +126,6 @@
     "url": "https://github.com/gabrieldevms/applied-ai-engineering-lab"
   },
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-17T21:09:13Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 18,
-    "updated_at": "2026-09-17T21:14:52Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -61,15 +133,6 @@
     "stars": 28,
     "updated_at": "2026-09-17T21:03:06Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -85,7 +148,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8654,
+    "stars": 8655,
     "updated_at": "2026-09-17T20:59:52Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -97,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T20:57:14Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59007,
-    "updated_at": "2026-09-17T21:13:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8142,
-    "updated_at": "2026-09-17T21:15:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 474,
-    "updated_at": "2026-09-17T20:50:59Z",
+    "updated_at": "2026-09-17T21:20:05Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T21:04:49Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-17T21:13:30Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
@@ -212,17 +248,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4811,
-    "updated_at": "2026-09-17T21:12:55Z",
+    "updated_at": "2026-09-17T21:23:07Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-17T20:25:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -421,32 +448,5 @@
     "stars": 209,
     "updated_at": "2026-09-17T19:41:50Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Keras inspired framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 459,
-    "updated_at": "2026-09-17T19:42:42Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-09-17T19:40:11Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-09-17T19:39:57Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
   }
 ]
