@@ -1,21 +1,21 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34727,
-    "updated_at": "2026-09-17T15:58:36Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "sxueck/llm-gateway",
+    "stars": 52,
+    "updated_at": "2026-09-17T16:14:10Z",
+    "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 18,
-    "updated_at": "2026-09-17T16:00:15Z",
-    "url": "https://github.com/AixleHQ/flow"
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 471,
+    "updated_at": "2026-09-17T16:12:42Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -23,8 +23,89 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-17T15:58:03Z",
+    "updated_at": "2026-09-17T16:12:23Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
+    "stars": 1,
+    "updated_at": "2026-09-17T16:11:51Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-09-17T16:11:28Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-17T16:10:00Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-17T16:09:51Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-17T16:07:30Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2841,
+    "updated_at": "2026-09-17T16:06:48Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34727,
+    "updated_at": "2026-09-17T16:13:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T16:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 18,
+    "updated_at": "2026-09-17T16:09:13Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T15:52:39Z",
+    "updated_at": "2026-09-17T16:11:57Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30219,
-    "updated_at": "2026-09-17T15:53:06Z",
+    "updated_at": "2026-09-17T16:02:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T15:56:22Z",
+    "updated_at": "2026-09-17T16:12:43Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T15:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -99,15 +171,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 471,
-    "updated_at": "2026-09-17T15:56:10Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -124,15 +187,6 @@
     "stars": 1341,
     "updated_at": "2026-09-17T15:59:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2841,
-    "updated_at": "2026-09-17T15:30:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -171,15 +225,6 @@
     "url": "https://github.com/patricksardinha/llm-harness"
   },
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-17T15:16:03Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 58995,
-    "updated_at": "2026-09-17T15:59:37Z",
+    "updated_at": "2026-09-17T16:10:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8139,
-    "updated_at": "2026-09-17T15:57:23Z",
+    "updated_at": "2026-09-17T16:07:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22098,
-    "updated_at": "2026-09-17T16:00:09Z",
+    "updated_at": "2026-09-17T16:09:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -315,20 +360,11 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 52,
-    "updated_at": "2026-09-17T15:01:28Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6751,
+    "stars": 6752,
     "updated_at": "2026-09-17T15:00:53Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -340,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T14:58:08Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
-    "id": "Partha-dev01/Constitutional-AIOps",
-    "language": "Python",
-    "name": "Partha-dev01/Constitutional-AIOps",
-    "stars": 1,
-    "updated_at": "2026-09-17T14:58:01Z",
-    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T14:50:47Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-09-17T14:50:13Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-09-17T15:25:05Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-17T14:48:59Z",
-    "url": "https://github.com/niyetbay0304/gateway"
   }
 ]
