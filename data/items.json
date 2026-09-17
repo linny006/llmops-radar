@@ -1,12 +1,84 @@
 [
   {
+    "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
+    "id": "glamcodecrux/n8n-mcp-server",
+    "language": "Python",
+    "name": "glamcodecrux/n8n-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:00:14Z",
+    "url": "https://github.com/glamcodecrux/n8n-mcp-server"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-17T03:59:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 58934,
+    "updated_at": "2026-09-17T03:56:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 8,
+    "updated_at": "2026-09-17T03:53:37Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 103,
-    "updated_at": "2026-09-17T03:45:22Z",
+    "updated_at": "2026-09-17T03:47:46Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source multi-modal fine-tuning. LLMs and vision models, fully local, accelerate edge deployments.",
+    "id": "agentic-inquisit/Open-ML-Foundry",
+    "language": "Python",
+    "name": "agentic-inquisit/Open-ML-Foundry",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:56:23Z",
+    "url": "https://github.com/agentic-inquisit/Open-ML-Foundry"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4803,
+    "updated_at": "2026-09-17T03:46:42Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2836,
+    "updated_at": "2026-09-17T03:45:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -14,17 +86,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 154,
-    "updated_at": "2026-09-17T03:44:20Z",
+    "updated_at": "2026-09-17T03:54:06Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "glamcodecrux / n8n \u306e REST API \u3068 Ollama \u3092 MCP \u7d4c\u7531\u3067\u64cd\u4f5c\u3059\u308b Python \u30b5\u30fc\u30d0\u30fc",
-    "id": "glamcodecrux/n8n-mcp-server",
-    "language": "Python",
-    "name": "glamcodecrux/n8n-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:44:06Z",
-    "url": "https://github.com/glamcodecrux/n8n-mcp-server"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -36,13 +99,13 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 58933,
-    "updated_at": "2026-09-17T03:44:18Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "dataelement/bisheng",
+    "stars": 11976,
+    "updated_at": "2026-09-17T03:53:35Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27989,
-    "updated_at": "2026-09-17T03:41:23Z",
+    "updated_at": "2026-09-17T03:54:08Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:31:31Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T03:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Static gate for biased LLM-as-judge evaluation setups. Flags self-preference bias - the same model (or family) used as b",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T03:40:30Z",
+    "updated_at": "2026-09-17T03:51:10Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:11:01Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-17T03:31:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -270,15 +315,6 @@
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 11975,
-    "updated_at": "2026-09-17T03:40:31Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-17T02:50:10Z",
+    "updated_at": "2026-09-17T03:50:59Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T02:42:04Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-17T02:40:53Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25192,
-    "updated_at": "2026-09-17T03:18:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-17T03:38:34Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34699,
-    "updated_at": "2026-09-17T02:34:43Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
