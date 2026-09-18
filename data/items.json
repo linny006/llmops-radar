@@ -1,21 +1,57 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-18T05:59:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-18T06:14:23Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1224,
+    "updated_at": "2026-09-18T06:14:10Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59040,
-    "updated_at": "2026-09-18T05:57:08Z",
+    "stars": 59044,
+    "updated_at": "2026-09-18T06:11:01Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-18T06:06:26Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-18T06:02:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -25,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-09-18T05:54:38Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "airun measures and optimizes the cost, latency, quality, and reliability of AI workloads.",
+    "id": "sarkarbikram90/airun-profiler",
+    "language": "Python",
+    "name": "sarkarbikram90/airun-profiler",
+    "stars": 3,
+    "updated_at": "2026-09-18T05:54:08Z",
+    "url": "https://github.com/sarkarbikram90/airun-profiler"
   },
   {
     "description": "Deterministic release-gate evaluation for AI products and Agents",
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "kudratsingh/arxiv-research-agent",
     "stars": 0,
-    "updated_at": "2026-09-18T05:58:14Z",
+    "updated_at": "2026-09-18T06:12:02Z",
     "url": "https://github.com/kudratsingh/arxiv-research-agent"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-18T05:51:02Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -70,15 +106,6 @@
     "stars": 36,
     "updated_at": "2026-09-18T05:55:52Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T05:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -117,21 +144,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1224,
-    "updated_at": "2026-09-18T05:54:39Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4813,
-    "updated_at": "2026-09-18T05:48:44Z",
+    "updated_at": "2026-09-18T06:06:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -175,7 +193,7 @@
     "id": "satya-anguluri/capstead",
     "language": "Java",
     "name": "satya-anguluri/capstead",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-09-18T05:07:53Z",
     "url": "https://github.com/satya-anguluri/capstead"
   },
@@ -418,7 +436,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2843,
+    "stars": 2844,
     "updated_at": "2026-09-18T04:24:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T04:21:51Z",
     "url": "https://github.com/neuralnexustech/freeroute"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-18T04:18:56Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-18T04:16:21Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
