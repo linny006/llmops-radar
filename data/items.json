@@ -1,12 +1,57 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-18T21:00:19Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59097,
-    "updated_at": "2026-09-18T20:44:40Z",
+    "updated_at": "2026-09-18T21:00:33Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-18T20:57:09Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4815,
+    "updated_at": "2026-09-18T21:00:34Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-18T20:51:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T20:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-18T20:43:23Z",
+    "updated_at": "2026-09-18T20:54:16Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11536,
-    "updated_at": "2026-09-18T20:43:45Z",
+    "updated_at": "2026-09-18T20:47:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28023,
-    "updated_at": "2026-09-18T20:42:03Z",
+    "updated_at": "2026-09-18T20:55:36Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T20:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8161,
-    "updated_at": "2026-09-18T20:21:53Z",
+    "updated_at": "2026-09-18T20:49:13Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/hensu-project/hensu"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 80,
-    "updated_at": "2026-09-18T20:44:47Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:43:01Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-18T19:40:45Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -349,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:36:43Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4815,
-    "updated_at": "2026-09-18T20:26:07Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:21:43Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-18T19:11:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
