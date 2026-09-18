@@ -4,9 +4,45 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59101,
-    "updated_at": "2026-09-18T21:45:10Z",
+    "stars": 59102,
+    "updated_at": "2026-09-18T21:59:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
+    "id": "aimerdoux/plateau",
+    "language": "Python",
+    "name": "aimerdoux/plateau",
+    "stars": 1,
+    "updated_at": "2026-09-18T21:56:43Z",
+    "url": "https://github.com/aimerdoux/plateau"
+  },
+  {
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 227,
+    "updated_at": "2026-09-18T21:53:29Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4815,
+    "updated_at": "2026-09-18T21:50:54Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T21:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8162,
-    "updated_at": "2026-09-18T21:45:20Z",
+    "updated_at": "2026-09-18T21:59:09Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11536,
-    "updated_at": "2026-09-18T21:43:31Z",
+    "updated_at": "2026-09-18T21:52:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -45,24 +81,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T21:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4815,
-    "updated_at": "2026-09-18T21:31:49Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -72,21 +90,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "A collection of tricks and tools to speed up transformer models",
-    "id": "OpenMachine-ai/transformer-tricks",
-    "language": "TeX",
-    "name": "OpenMachine-ai/transformer-tricks",
-    "stars": 227,
-    "updated_at": "2026-09-18T21:22:10Z",
-    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-18T21:40:52Z",
+    "updated_at": "2026-09-18T21:52:51Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-18T21:18:46Z",
+    "updated_at": "2026-09-18T21:59:07Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 22126,
     "updated_at": "2026-09-18T20:41:19Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
-    "id": "aimerdoux/plateau",
-    "language": "Python",
-    "name": "aimerdoux/plateau",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:21:45Z",
-    "url": "https://github.com/aimerdoux/plateau"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-18T21:28:47Z",
+    "updated_at": "2026-09-18T21:51:36Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
