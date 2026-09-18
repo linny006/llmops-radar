@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-18T14:44:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:41:16Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Git-style receipts for LLM evals: measure variance, capture provenance, detect flaky verdicts, and verify results in CI",
+    "id": "patibandlavenkatamanideep/evalseal",
+    "language": "Python",
+    "name": "patibandlavenkatamanideep/evalseal",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:35:56Z",
+    "url": "https://github.com/patibandlavenkatamanideep/evalseal"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25263,
+    "updated_at": "2026-09-18T14:43:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-18T14:45:24Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-18T14:42:43Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
     "id": "Fortitude-Group/OmnisRouter",
     "language": "C#",
@@ -16,15 +79,6 @@
     "stars": 6794,
     "updated_at": "2026-09-18T14:28:45Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-18T14:28:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 475,
-    "updated_at": "2026-09-18T14:22:44Z",
+    "updated_at": "2026-09-18T14:42:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Go",
     "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "stars": 0,
-    "updated_at": "2026-09-18T14:21:03Z",
+    "updated_at": "2026-09-18T14:45:05Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
   },
   {
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34776,
-    "updated_at": "2026-09-18T14:23:03Z",
+    "updated_at": "2026-09-18T14:45:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-09-18T14:16:00Z",
+    "updated_at": "2026-09-18T14:43:16Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -140,17 +185,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59071,
-    "updated_at": "2026-09-18T14:23:13Z",
+    "updated_at": "2026-09-18T14:39:32Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-18T13:53:48Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Agentic Runtime",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11533,
-    "updated_at": "2026-09-18T14:11:57Z",
+    "updated_at": "2026-09-18T14:30:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -247,7 +283,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8154,
+    "stars": 8155,
     "updated_at": "2026-09-18T13:42:25Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -302,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-18T14:00:50Z",
+    "updated_at": "2026-09-18T14:39:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 87,
-    "updated_at": "2026-09-18T13:14:35Z",
+    "updated_at": "2026-09-18T14:44:37Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T13:03:47Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:03:04Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:01:34Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:59:48Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:58:06Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
