@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 21:15 UTC
+> ⏰ Last updated: 2026-09-18 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 227 | TeX | 2026-09-18 | A collection of tricks and tools to speed up transformer models |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59099 | Python | 2026-09-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-18 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 6 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-18 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. TRUE recursiv |
-| 7 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4815 | TypeScript | 2026-09-18 | The platform for LLM evaluations and AI agent testing |
-| 8 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-18 | Agentic Runtime |
-| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8162 | Go | 2026-09-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 10 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-18 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11536 | Python | 2026-09-18 | AI Observability & Evaluation |
-| 12 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28023 | Python | 2026-09-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4815 | TypeScript | 2026-09-18 | The platform for LLM evaluations and AI agent testing |
+| 2 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-18 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. TRUE recursiv |
+| 3 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 227 | TeX | 2026-09-18 | A collection of tricks and tools to speed up transformer models |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59099 | Python | 2026-09-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-18 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-18 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 8 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28024 | Python | 2026-09-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-18 | Agentic Runtime |
+| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8162 | Go | 2026-09-18 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11536 | Python | 2026-09-18 | AI Observability & Evaluation |
 | 13 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34786 | TypeScript | 2026-09-18 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
 | 14 | [atulkapoor/fde-framework](https://github.com/atulkapoor/fde-framework) | 6 | Python | 2026-09-18 | A framework for Forward Deployed Engineers: from problem statement to a deployable AI project — every decision traced to |
 | 15 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-18 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
