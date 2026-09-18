@@ -1,5 +1,50 @@
 [
   {
+    "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
+    "id": "kingfs/llm-tracelab",
+    "language": "Go",
+    "name": "kingfs/llm-tracelab",
+    "stars": 3,
+    "updated_at": "2026-09-18T02:14:05Z",
+    "url": "https://github.com/kingfs/llm-tracelab"
+  },
+  {
+    "description": "Git-style receipts for LLM evals: measure variance, capture provenance, detect flaky verdicts, and verify results in CI",
+    "id": "patibandlavenkatamanideep/evalseal",
+    "language": "Python",
+    "name": "patibandlavenkatamanideep/evalseal",
+    "stars": 0,
+    "updated_at": "2026-09-18T02:05:50Z",
+    "url": "https://github.com/patibandlavenkatamanideep/evalseal"
+  },
+  {
+    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
+    "id": "floatsmyboat/inferwatch",
+    "language": "Python",
+    "name": "floatsmyboat/inferwatch",
+    "stars": 0,
+    "updated_at": "2026-09-18T02:01:56Z",
+    "url": "https://github.com/floatsmyboat/inferwatch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2841,
+    "updated_at": "2026-09-18T02:01:19Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T02:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59027,
-    "updated_at": "2026-09-18T01:59:20Z",
+    "updated_at": "2026-09-18T02:15:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-18T02:00:23Z",
+    "updated_at": "2026-09-18T02:00:39Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 38,
     "updated_at": "2026-09-18T01:53:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Git-style receipts for LLM evals: measure variance, capture provenance, detect flaky verdicts, and verify results in CI",
-    "id": "patibandlavenkatamanideep/evalseal",
-    "language": "Python",
-    "name": "patibandlavenkatamanideep/evalseal",
-    "stars": 0,
-    "updated_at": "2026-09-18T01:53:00Z",
-    "url": "https://github.com/patibandlavenkatamanideep/evalseal"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T01:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -189,6 +216,15 @@
     "url": "https://github.com/olivaresai/olivares"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30223,
+    "updated_at": "2026-09-18T01:04:29Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T00:56:11Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30222,
-    "updated_at": "2026-09-18T01:04:29Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-18T01:55:43Z",
+    "updated_at": "2026-09-18T02:14:46Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T00:32:20Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-18T00:30:57Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-18T00:30:44Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:28:25Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
