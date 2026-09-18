@@ -1,12 +1,66 @@
 [
   {
+    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Python",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-18T01:29:32Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
+  },
+  {
+    "description": "AI-powered incident investigation platform using LLM agents and automated analysis to accelerate root-cause detection an",
+    "id": "AkshitRampershad/IncidentLab",
+    "language": "Python",
+    "name": "AkshitRampershad/IncidentLab",
+    "stars": 0,
+    "updated_at": "2026-09-18T01:23:19Z",
+    "url": "https://github.com/AkshitRampershad/IncidentLab"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-09-18T01:21:05Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11522,
+    "updated_at": "2026-09-18T01:21:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 2,
+    "updated_at": "2026-09-18T01:18:07Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59024,
-    "updated_at": "2026-09-18T01:14:58Z",
+    "stars": 59025,
+    "updated_at": "2026-09-18T01:30:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-18T01:17:01Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -14,8 +68,17 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-18T01:14:34Z",
+    "updated_at": "2026-09-18T01:28:58Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T01:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28004,
-    "updated_at": "2026-09-18T01:14:33Z",
+    "updated_at": "2026-09-18T01:15:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-18T01:13:30Z",
+    "updated_at": "2026-09-18T01:17:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -52,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-09-18T01:09:24Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22102,
+    "updated_at": "2026-09-18T01:08:22Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T01:00:33Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T01:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -207,15 +270,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 2,
-    "updated_at": "2026-09-18T00:46:16Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
     "id": "thesecretrapper786-netizen/catalyst-n1",
     "language": "\u2014",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-18T01:11:25Z",
+    "updated_at": "2026-09-18T01:26:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22101,
-    "updated_at": "2026-09-18T01:08:22Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-18T00:11:51Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
-    "id": "satyanarayana51115/auto-apply-intelligence-suite",
-    "language": "Python",
-    "name": "satyanarayana51115/auto-apply-intelligence-suite",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:11:03Z",
-    "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-18T00:10:46Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 738,
-    "updated_at": "2026-09-17T23:59:06Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:34:24Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-17T23:52:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
