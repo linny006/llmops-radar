@@ -1,39 +1,57 @@
 [
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-18T05:44:55Z",
-    "url": "https://github.com/olivaresai/olivares"
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-18T05:59:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59037,
-    "updated_at": "2026-09-18T05:44:26Z",
+    "stars": 59040,
+    "updated_at": "2026-09-18T05:57:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-18T05:40:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-18T05:54:38Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Deterministic release-gate evaluation for AI products and Agents",
+    "id": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11525,
-    "updated_at": "2026-09-18T05:36:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
+    "stars": 1,
+    "updated_at": "2026-09-18T05:53:47Z",
+    "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-09-18T05:56:21Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "A multi-agent arXiv research assistant and the evaluation layer around it: four LangGraph + Claude graph shapes behind a",
+    "id": "kudratsingh/arxiv-research-agent",
+    "language": "Python",
+    "name": "kudratsingh/arxiv-research-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:58:14Z",
+    "url": "https://github.com/kudratsingh/arxiv-research-agent"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -41,8 +59,17 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-18T05:34:23Z",
+    "updated_at": "2026-09-18T05:51:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-18T05:55:52Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -50,8 +77,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-18T05:30:29Z",
+    "updated_at": "2026-09-18T05:45:27Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-18T05:58:30Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11527,
+    "updated_at": "2026-09-18T05:36:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent AI system for incident investigation, with a benchmark harness measuring whether multi-agent actually beats ",
@@ -68,17 +113,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8147,
-    "updated_at": "2026-09-18T05:30:12Z",
+    "updated_at": "2026-09-18T05:53:53Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-09-18T05:27:51Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1224,
-    "updated_at": "2026-09-18T05:38:00Z",
+    "updated_at": "2026-09-18T05:54:39Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -95,17 +131,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4813,
-    "updated_at": "2026-09-18T05:25:07Z",
+    "updated_at": "2026-09-18T05:48:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Deterministic release-gate evaluation for AI products and Agents",
-    "id": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "language": "Python",
-    "name": "magicyao2028-pixel/ai-product-agent-evaluation-lab",
-    "stars": 1,
-    "updated_at": "2026-09-18T05:21:42Z",
-    "url": "https://github.com/magicyao2028-pixel/ai-product-agent-evaluation-lab"
   },
   {
     "description": "Agent \u4e0a\u4e0b\u6587\u538b\u7f29\u5f15\u64ce\uff08Java\uff09\u2014\u2014 \u5728\u5de5\u5177\u8f93\u51fa/\u65e5\u5fd7/RAG \u7247\u6bb5\u8fdb\u5165 LLM \u524d\u505a\u786e\u5b9a\u6027\u3001\u53ef\u5ba1\u8ba1\u3001\u5173\u952e\u4fe1\u606f\u96f6\u4e22\u5931\u7684\u538b\u7f29",
@@ -387,24 +414,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-09-18T05:42:29Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 36,
-    "updated_at": "2026-09-18T04:36:53Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-18T04:16:21Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
-    "id": "hwdsl2/docker-litellm",
-    "language": "Shell",
-    "name": "hwdsl2/docker-litellm",
-    "stars": 8,
-    "updated_at": "2026-09-18T04:16:05Z",
-    "url": "https://github.com/hwdsl2/docker-litellm"
   }
 ]
