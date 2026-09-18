@@ -1,21 +1,21 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2850,
-    "updated_at": "2026-09-18T15:59:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "description": "Explore Microsoft Foundry throttling, bounded retries and pacing with Python, C# / .NET 10, a local simulator UI and Bic",
+    "id": "ppiova/microsoft-foundry-throttling-samples",
+    "language": "Python",
+    "name": "ppiova/microsoft-foundry-throttling-samples",
+    "stars": 0,
+    "updated_at": "2026-09-18T16:15:11Z",
+    "url": "https://github.com/ppiova/microsoft-foundry-throttling-samples"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22122,
-    "updated_at": "2026-09-18T15:59:31Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34778,
+    "updated_at": "2026-09-18T16:14:26Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -23,8 +23,107 @@
     "language": "Python",
     "name": "Peter-A-P/compliant-ai-gateway",
     "stars": 0,
-    "updated_at": "2026-09-18T15:55:56Z",
+    "updated_at": "2026-09-18T16:14:25Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-09-18T16:13:16Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59079,
+    "updated_at": "2026-09-18T16:13:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2850,
+    "updated_at": "2026-09-18T16:11:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
+    "id": "jasonneo99/agent-workflow",
+    "language": "TypeScript",
+    "name": "jasonneo99/agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-18T16:09:44Z",
+    "url": "https://github.com/jasonneo99/agent-workflow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-18T16:08:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 476,
+    "updated_at": "2026-09-18T16:07:51Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-09-18T16:07:57Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-18T16:07:09Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22123,
+    "updated_at": "2026-09-18T16:14:28Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 v0.1.2 / Simplified Chinese overlay, verified with LiteLLM v1.101.0 on macOS.",
+    "id": "leonathan369-droid/litellm-ui-zh",
+    "language": "JavaScript",
+    "name": "leonathan369-droid/litellm-ui-zh",
+    "stars": 1,
+    "updated_at": "2026-09-18T16:01:46Z",
+    "url": "https://github.com/leonathan369-droid/litellm-ui-zh"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T16:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 28 tracks, 400+ modules, live visualizat",
@@ -36,21 +135,12 @@
     "url": "https://github.com/genieincodebottle/aiml-companion"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59076,
-    "updated_at": "2026-09-18T15:57:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-18T15:53:53Z",
+    "updated_at": "2026-09-18T16:10:36Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -63,49 +153,13 @@
     "url": "https://github.com/sxueck/llm-gateway"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-18T15:51:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-18T15:51:21Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-18T16:00:22Z",
+    "updated_at": "2026-09-18T16:04:52Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-18T15:49:14Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T15:46:03Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11535,
-    "updated_at": "2026-09-18T15:57:13Z",
+    "updated_at": "2026-09-18T16:10:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T15:45:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 476,
-    "updated_at": "2026-09-18T15:48:13Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -158,17 +203,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25264,
-    "updated_at": "2026-09-18T15:55:14Z",
+    "updated_at": "2026-09-18T16:13:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34776,
-    "updated_at": "2026-09-18T15:55:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-18T15:58:13Z",
+    "updated_at": "2026-09-18T16:12:07Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T15:00:06Z",
     "url": "https://github.com/Gil910/Vigia"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-18T15:59:21Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:58:53Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-18T14:57:29Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:52:21Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   }
 ]
