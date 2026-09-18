@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 00:15 UTC
+> ⏰ Last updated: 2026-09-18 00:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-09-18 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-18 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 3 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-09-18 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 4 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-18 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
-| 5 | [satyanarayana51115/auto-apply-intelligence-suite](https://github.com/satyanarayana51115/auto-apply-intelligence-suite) | 0 | Python | 2026-09-18 | Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera |
-| 6 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-09-18 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59018 | Python | 2026-09-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 8 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 9 | [weicyang/llm-eng-cards](https://github.com/weicyang/llm-eng-cards) | 3 | HTML | 2026-09-18 | A decision-oriented LLM engineering knowledge base — from Attention to production. 291 cards, 36-card path: fundamentals |
-| 10 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-18 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 11 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 7 | Go | 2026-09-18 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59018 | Python | 2026-09-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-09-18 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 4 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-09-18 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 5 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-09-18 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 6 | [jasonneo99/agent-workflow](https://github.com/jasonneo99/agent-workflow) | 0 | TypeScript | 2026-09-18 | Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur |
+| 7 | [satyanarayana51115/auto-apply-intelligence-suite](https://github.com/satyanarayana51115/auto-apply-intelligence-suite) | 0 | Python | 2026-09-18 | Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera |
+| 8 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-09-18 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 80 | Python | 2026-09-18 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 10 | [weicyang/llm-eng-cards](https://github.com/weicyang/llm-eng-cards) | 3 | HTML | 2026-09-18 | A decision-oriented LLM engineering knowledge base — from Attention to production. 291 cards, 36-card path: fundamentals |
+| 11 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-18 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 12 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 7 | Go | 2026-09-18 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
 | 13 | [Peter-A-P/ai-release-gate](https://github.com/Peter-A-P/ai-release-gate) | 0 | Python | 2026-09-18 | No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating, |
 | 14 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | 738 | Python | 2026-09-17 | See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tes |
 | 15 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 38 | Go | 2026-09-17 | Agentic Runtime |
@@ -65,7 +65,7 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [XIAOXUsop/ctxpress](https://github.com/XIAOXUsop/ctxpress) | 0 | Java | 2026-09-17 | Agent 上下文压缩引擎（Java）—— 在工具输出/日志/RAG 片段进入 LLM 前做确定性、可审计、关键信息零丢失的压缩 |
 | 22 | [gagarin-cloud/gg](https://github.com/gagarin-cloud/gg) | 1 | Go | 2026-09-17 | The gagarin CLI — deploy and operate applications on gagarin. Ships the agent skill inside the binary. |
 | 23 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-17 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 24 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11521 | Python | 2026-09-17 | AI Observability & Evaluation |
+| 24 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11522 | Python | 2026-09-17 | AI Observability & Evaluation |
 | 25 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25236 | TypeScript | 2026-09-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 26 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-17 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
 | 27 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-09-17 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
