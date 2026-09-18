@@ -1,12 +1,111 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-18T13:28:47Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
+    "id": "Aftabmallick/titanrag",
+    "language": "JavaScript",
+    "name": "Aftabmallick/titanrag",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:28:12Z",
+    "url": "https://github.com/Aftabmallick/titanrag"
+  },
+  {
+    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
+    "id": "babaliauskas/evalshift-sdk",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:25:47Z",
+    "url": "https://github.com/babaliauskas/evalshift-sdk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59069,
+    "updated_at": "2026-09-18T13:28:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-18T13:22:43Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 70,
+    "updated_at": "2026-09-18T13:21:51Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34774,
-    "updated_at": "2026-09-18T13:15:19Z",
+    "updated_at": "2026-09-18T13:29:37Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:20:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:18:26Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2850,
+    "updated_at": "2026-09-18T13:17:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "babaliauskas/evalshift-cli",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-cli",
+    "stars": 4,
+    "updated_at": "2026-09-18T13:16:58Z",
+    "url": "https://github.com/babaliauskas/evalshift-cli"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T13:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22120,
-    "updated_at": "2026-09-18T13:14:55Z",
+    "updated_at": "2026-09-18T13:22:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 87,
     "updated_at": "2026-09-18T13:14:35Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
-    "id": "Aftabmallick/titanrag",
-    "language": "JavaScript",
-    "name": "Aftabmallick/titanrag",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:13:17Z",
-    "url": "https://github.com/Aftabmallick/titanrag"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -59,7 +149,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 782,
-    "updated_at": "2026-09-18T13:13:58Z",
+    "updated_at": "2026-09-18T13:22:38Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -85,18 +175,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6791,
+    "stars": 6792,
     "updated_at": "2026-09-18T13:09:40Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2849,
-    "updated_at": "2026-09-18T13:08:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -144,24 +225,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59068,
-    "updated_at": "2026-09-18T13:01:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T13:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 475,
-    "updated_at": "2026-09-18T12:57:31Z",
+    "updated_at": "2026-09-18T13:25:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8154,
-    "updated_at": "2026-09-18T13:14:07Z",
+    "updated_at": "2026-09-18T13:26:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-18T12:50:39Z",
+    "updated_at": "2026-09-18T13:15:26Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-18T12:41:45Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-18T12:40:26Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:40:10Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-18T12:30:36Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3266,
-    "updated_at": "2026-09-18T12:28:15Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28017,
-    "updated_at": "2026-09-18T12:28:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-18T12:24:22Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4814,
-    "updated_at": "2026-09-18T13:14:06Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
