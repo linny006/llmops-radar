@@ -1,12 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8147,
-    "updated_at": "2026-09-18T05:30:12Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-18T05:44:55Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59037,
+    "updated_at": "2026-09-18T05:44:26Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +23,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-18T05:29:52Z",
+    "updated_at": "2026-09-18T05:40:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11525,
+    "updated_at": "2026-09-18T05:36:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-18T05:34:23Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T05:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Multi-agent AI system for incident investigation, with a benchmark harness measuring whether multi-agent actually beats ",
+    "id": "AkshitRampershad/IncidentLab",
+    "language": "Python",
+    "name": "AkshitRampershad/IncidentLab",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:30:26Z",
+    "url": "https://github.com/AkshitRampershad/IncidentLab"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8147,
+    "updated_at": "2026-09-18T05:30:12Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1224,
-    "updated_at": "2026-09-18T05:30:23Z",
+    "updated_at": "2026-09-18T05:38:00Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Multi-agent AI system for incident investigation, with a benchmark harness measuring whether multi-agent actually beats ",
-    "id": "AkshitRampershad/IncidentLab",
-    "language": "Python",
-    "name": "AkshitRampershad/IncidentLab",
-    "stars": 0,
-    "updated_at": "2026-09-18T05:30:26Z",
-    "url": "https://github.com/AkshitRampershad/IncidentLab"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -81,24 +126,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T05:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59037,
-    "updated_at": "2026-09-18T05:29:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
     "id": "Masterplanner25/aindy-runtime",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T05:04:37Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-18T05:04:18Z",
-    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-09-18T04:31:25Z",
+    "updated_at": "2026-09-18T05:42:29Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-18T04:16:05Z",
     "url": "https://github.com/hwdsl2/docker-litellm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-18T04:15:07Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2032,
-    "updated_at": "2026-09-18T05:06:36Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
