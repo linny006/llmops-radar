@@ -1,20 +1,20 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-18T14:15:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:29:41Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6793,
-    "updated_at": "2026-09-18T14:14:52Z",
+    "stars": 6794,
+    "updated_at": "2026-09-18T14:28:45Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -23,8 +23,89 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-18T14:13:21Z",
+    "updated_at": "2026-09-18T14:28:54Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
+    "id": "m0thermulia/promptgold",
+    "language": "Python",
+    "name": "m0thermulia/promptgold",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:26:06Z",
+    "url": "https://github.com/m0thermulia/promptgold"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30228,
+    "updated_at": "2026-09-18T14:25:18Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 475,
+    "updated_at": "2026-09-18T14:22:44Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:21:03Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34776,
+    "updated_at": "2026-09-18T14:23:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "babaliauskas/evalshift-action",
+    "language": "Python",
+    "name": "babaliauskas/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:16:19Z",
+    "url": "https://github.com/babaliauskas/evalshift-action"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:16:00Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:15:09Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
@@ -59,35 +140,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59071,
-    "updated_at": "2026-09-18T14:14:49Z",
+    "updated_at": "2026-09-18T14:23:13Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34775,
-    "updated_at": "2026-09-18T14:13:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 475,
-    "updated_at": "2026-09-18T14:14:32Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-18T13:57:39Z",
+    "updated_at": "2026-09-18T14:25:32Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-18T13:56:47Z",
+    "updated_at": "2026-09-18T14:28:13Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22119,
-    "updated_at": "2026-09-18T14:08:54Z",
+    "updated_at": "2026-09-18T14:25:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T13:33:05Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
-    "id": "babaliauskas/evalshift-action",
-    "language": "Python",
-    "name": "babaliauskas/evalshift-action",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:00:37Z",
-    "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
     "description": "Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T12:58:06Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:57:46Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Which lines of your LLM system prompt are actually doing anything? 198 measured runs, plus an installable skill that aud",
-    "id": "JashwanthY/llm-prompt-economics",
-    "language": "HTML",
-    "name": "JashwanthY/llm-prompt-economics",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:57:10Z",
-    "url": "https://github.com/JashwanthY/llm-prompt-economics"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:57:02Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:57:00Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:56:49Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
