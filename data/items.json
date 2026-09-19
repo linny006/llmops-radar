@@ -1,12 +1,84 @@
 [
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
     "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 87,
-    "updated_at": "2026-09-19T16:28:45Z",
-    "url": "https://github.com/mloda-ai/mloda"
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6859,
+    "updated_at": "2026-09-19T16:45:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Evidence-first Medicare Stars agent using Google ADK, Vertex AI, MCP, BigQuery, Cloud Run, guardrails, evaluations, and ",
+    "id": "malex4hire/abyss-medicare-stars-agent",
+    "language": "Python",
+    "name": "malex4hire/abyss-medicare-stars-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:44:48Z",
+    "url": "https://github.com/malex4hire/abyss-medicare-stars-agent"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-19T16:43:39Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-19T16:43:18Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59155,
+    "updated_at": "2026-09-19T16:42:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4819,
+    "updated_at": "2026-09-19T16:41:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-19T16:39:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:38:34Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
+    "description": "Shared HTTP control plane for Chronicle traces and TokenOps spend: one SQLite, one UI. Agents never open the database fi",
+    "id": "theagentplane/control-plane",
+    "language": "Python",
+    "name": "theagentplane/control-plane",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:33:40Z",
+    "url": "https://github.com/theagentplane/control-plane"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T16:28:41Z",
+    "updated_at": "2026-09-19T16:30:21Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 87,
+    "updated_at": "2026-09-19T16:28:45Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -27,15 +108,6 @@
     "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59155,
-    "updated_at": "2026-09-19T16:30:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
     "id": "olivaresai/olivares",
     "language": "Go",
@@ -45,6 +117,15 @@
     "url": "https://github.com/olivaresai/olivares"
   },
   {
+    "description": "Self-hosted starting point for agentic projects: agents built from skills and tools, a storage library over your own tab",
+    "id": "islomkhon/CerebrumKit",
+    "language": "Vue",
+    "name": "islomkhon/CerebrumKit",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:22:30Z",
+    "url": "https://github.com/islomkhon/CerebrumKit"
+  },
+  {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -52,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T16:22:23Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-19T16:21:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-19T16:26:45Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -108,15 +171,6 @@
     "url": "https://github.com/tonydzi/awesome-verified-agents"
   },
   {
-    "description": "Shared HTTP control plane for Chronicle traces and TokenOps spend: one SQLite, one UI. Agents never open the database fi",
-    "id": "theagentplane/control-plane",
-    "language": "Python",
-    "name": "theagentplane/control-plane",
-    "stars": 3,
-    "updated_at": "2026-09-19T16:08:28Z",
-    "url": "https://github.com/theagentplane/control-plane"
-  },
-  {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -153,15 +207,6 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-19T15:51:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
     "id": "api-evangelist/phoenix",
     "language": "\u2014",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T15:48:31Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:47:34Z",
-    "url": "https://github.com/delivstat/swarmkit"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T16:07:45Z",
+    "updated_at": "2026-09-19T16:39:57Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -409,44 +445,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28042,
+    "stars": 28043,
     "updated_at": "2026-09-19T15:19:31Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:18:58Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:18:41Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:18:27Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-19T15:17:23Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
