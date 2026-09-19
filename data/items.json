@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-19T00:45:17Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59109,
-    "updated_at": "2026-09-19T00:30:06Z",
+    "updated_at": "2026-09-19T00:44:51Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:42:11Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:37:21Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 7,
+    "updated_at": "2026-09-19T00:34:39Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:31:59Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T00:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T00:29:32Z",
+    "updated_at": "2026-09-19T00:42:19Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-19T00:23:43Z",
+    "updated_at": "2026-09-19T00:37:10Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T00:23:20Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -95,7 +140,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-18T23:56:19Z",
+    "updated_at": "2026-09-19T00:32:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:26:24Z",
     "url": "https://github.com/DenisMT22/cdc-logement-agent"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-19T00:17:20Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T22:47:46Z",
     "url": "https://github.com/XIAOXUsop/ctxpress"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-18T22:47:36Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-18T22:40:23Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Guardrails, persistent memory, and cost telemetry for Meta Muse Code \u2014 policy enforcement, token/cost tracking, and obse",
-    "id": "dirtysouthalpha/muse-maestro",
-    "language": "JavaScript",
-    "name": "dirtysouthalpha/muse-maestro",
-    "stars": 0,
-    "updated_at": "2026-09-18T22:40:08Z",
-    "url": "https://github.com/dirtysouthalpha/muse-maestro"
-  },
-  {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3030,
-    "updated_at": "2026-09-18T23:39:50Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
   }
 ]
