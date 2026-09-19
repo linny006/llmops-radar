@@ -1,30 +1,21 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6859,
-    "updated_at": "2026-09-19T16:45:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Evidence-first Medicare Stars agent using Google ADK, Vertex AI, MCP, BigQuery, Cloud Run, guardrails, evaluations, and ",
-    "id": "malex4hire/abyss-medicare-stars-agent",
-    "language": "Python",
-    "name": "malex4hire/abyss-medicare-stars-agent",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:44:48Z",
-    "url": "https://github.com/malex4hire/abyss-medicare-stars-agent"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-19T16:43:39Z",
+    "updated_at": "2026-09-19T16:56:24Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Python \u00b7 PSI drift detection \u00b7 cost telemetry \u2014 Monitoring built for LLM applications: cost per feature and per success,",
+    "id": "hammas159/llm-observability-platform",
+    "language": "Python",
+    "name": "hammas159/llm-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:55:20Z",
+    "url": "https://github.com/hammas159/llm-observability-platform"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -32,7 +23,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-19T16:43:18Z",
+    "updated_at": "2026-09-19T16:58:56Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -41,8 +32,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59155,
-    "updated_at": "2026-09-19T16:42:58Z",
+    "updated_at": "2026-09-19T16:55:30Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T16:50:20Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6862,
+    "updated_at": "2026-09-19T16:59:17Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Deployable synthetic Medicare Stars evidence agent: Python 3.11, Google ADK 2.9.2+, Vertex AI Gemini 2.5 Flash, MCP 1.x,",
+    "id": "malex4hire/abyss-medicare-stars-agent",
+    "language": "Python",
+    "name": "malex4hire/abyss-medicare-stars-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:44:48Z",
+    "url": "https://github.com/malex4hire/abyss-medicare-stars-agent"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-09-19T16:38:34Z",
+    "updated_at": "2026-09-19T16:52:46Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T16:33:40Z",
     "url": "https://github.com/theagentplane/control-plane"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T16:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "babaliauskas/evalshift-cli",
     "stars": 4,
-    "updated_at": "2026-09-19T16:28:35Z",
+    "updated_at": "2026-09-19T16:51:46Z",
     "url": "https://github.com/babaliauskas/evalshift-cli"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-19T16:24:22Z",
+    "updated_at": "2026-09-19T16:59:35Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/harishu652/Class-AI-Agent"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-19T16:39:57Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "babaliauskas/evalshift-action",
     "stars": 0,
-    "updated_at": "2026-09-19T15:25:06Z",
+    "updated_at": "2026-09-19T16:51:56Z",
     "url": "https://github.com/babaliauskas/evalshift-action"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T15:21:08Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28043,
-    "updated_at": "2026-09-19T15:19:31Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
