@@ -1,11 +1,29 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59129,
+    "updated_at": "2026-09-19T08:25:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
+    "id": "atulkapoor/fde-framework",
+    "language": "Python",
+    "name": "atulkapoor/fde-framework",
+    "stars": 7,
+    "updated_at": "2026-09-19T08:24:50Z",
+    "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-19T08:13:47Z",
+    "updated_at": "2026-09-19T08:21:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,8 +32,26 @@
     "language": "TypeScript",
     "name": "neuralnexustech/freeroute",
     "stars": 0,
-    "updated_at": "2026-09-19T08:12:31Z",
+    "updated_at": "2026-09-19T08:20:12Z",
     "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-19T08:18:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T08:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4816,
-    "updated_at": "2026-09-19T08:13:50Z",
+    "updated_at": "2026-09-19T08:28:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-09-19T08:10:14Z",
     "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-19T08:08:00Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -72,15 +99,6 @@
     "url": "https://github.com/avikalpg/byok-relay"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T08:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -108,6 +126,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8169,
+    "updated_at": "2026-09-19T07:44:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "LLM evaluation and observability platform: accuracy, hallucination, relevancy, latency, cost and safety metrics across p",
     "id": "aqkprogrammer/llm-eval-platform",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T07:39:56Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59126,
-    "updated_at": "2026-09-19T08:12:38Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -288,15 +306,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 6,
-    "updated_at": "2026-09-19T07:19:43Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T06:58:05Z",
+    "updated_at": "2026-09-19T08:21:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-19T08:10:51Z",
+    "updated_at": "2026-09-19T08:24:06Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-19T06:50:21Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-19T06:20:24Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
