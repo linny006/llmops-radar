@@ -1,5 +1,41 @@
 [
   {
+    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 190,
+    "updated_at": "2026-09-19T02:58:06Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 8,
+    "updated_at": "2026-09-19T02:58:17Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59115,
+    "updated_at": "2026-09-19T02:53:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T02:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
@@ -45,15 +81,6 @@
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59116,
-    "updated_at": "2026-09-19T02:40:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -81,12 +108,21 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34789,
+    "updated_at": "2026-09-19T02:37:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T02:37:02Z",
+    "updated_at": "2026-09-19T02:49:57Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-09-19T02:31:43Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T02:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-19T02:08:13Z",
+    "updated_at": "2026-09-19T02:45:47Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -387,21 +414,12 @@
     "url": "https://github.com/api-evangelist/zenml"
   },
   {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 190,
-    "updated_at": "2026-09-19T02:07:25Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-19T01:40:07Z",
+    "updated_at": "2026-09-19T02:59:04Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T01:29:08Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-09-19T01:23:28Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-09-19T01:23:09Z",
-    "url": "https://github.com/api-evangelist/qwak"
   }
 ]
