@@ -1,12 +1,48 @@
 [
   {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-19T05:00:15Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59120,
+    "updated_at": "2026-09-19T05:15:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-19T05:12:26Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28031,
+    "updated_at": "2026-09-19T05:10:39Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-19T05:10:34Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-19T05:09:46Z",
+    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
@@ -14,17 +50,44 @@
     "language": "Rust",
     "name": "Stravia-AI/StraviaPlatform",
     "stars": 3,
-    "updated_at": "2026-09-19T05:00:21Z",
+    "updated_at": "2026-09-19T05:06:46Z",
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-19T05:05:40Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59120,
-    "updated_at": "2026-09-19T04:55:11Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-19T05:02:26Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T05:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-19T05:00:15Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -36,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T04:51:00Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -54,21 +108,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-19T04:50:52Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T04:47:52Z",
+    "updated_at": "2026-09-19T05:00:39Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -90,33 +135,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28030,
-    "updated_at": "2026-09-19T04:26:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-19T04:25:36Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-19T04:22:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
     "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
     "language": "Python",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 36,
-    "updated_at": "2026-09-19T04:47:41Z",
+    "updated_at": "2026-09-19T05:15:11Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -216,15 +234,6 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-19T04:20:52Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
     "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
@@ -292,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25272,
+    "stars": 25274,
     "updated_at": "2026-09-19T02:39:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -310,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34793,
+    "stars": 34796,
     "updated_at": "2026-09-19T02:37:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-19T02:16:38Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:14:49Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
