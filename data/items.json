@@ -1,5 +1,77 @@
 [
   {
+    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Python",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:44:12Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59116,
+    "updated_at": "2026-09-19T03:42:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-19T03:40:06Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-19T03:39:11Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-19T03:35:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2850,
+    "updated_at": "2026-09-19T03:33:44Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
+    "id": "seaworld008/aiops-system",
+    "language": "Go",
+    "name": "seaworld008/aiops-system",
+    "stars": 1,
+    "updated_at": "2026-09-19T03:32:57Z",
+    "url": "https://github.com/seaworld008/aiops-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T03:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2850,
-    "updated_at": "2026-09-19T03:24:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
     "id": "satyanarayana51115/auto-apply-intelligence-suite",
     "language": "Python",
@@ -25,42 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T03:21:54Z",
     "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-19T03:21:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-19T03:28:28Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T03:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59116,
-    "updated_at": "2026-09-19T03:28:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-19T03:00:54Z",
+    "updated_at": "2026-09-19T03:43:20Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -306,24 +333,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Monitoring built for LLM applications: cost per feature and per success, latency percentiles that exclude cache hits, gr",
-    "id": "hammas159/llm-observability-platform",
-    "language": "Python",
-    "name": "hammas159/llm-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:21:57Z",
-    "url": "https://github.com/hammas159/llm-observability-platform"
-  },
-  {
-    "description": "One entry point for every LLM call: model routing by difficulty, per-tenant budgets and rate limits, fallback chains, ca",
-    "id": "hammas159/llm-gateway",
-    "language": "Python",
-    "name": "hammas159/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:21:42Z",
-    "url": "https://github.com/hammas159/llm-gateway"
-  },
-  {
     "description": "\u5927\u6a21\u578b\u63a8\u7406\u6848\u5934\u624b\u518c\uff08\u5f00\u6e90\u7248\uff09\uff1a\u7ed9\u5b9a GPU \u7b97\u529b\uff0c\u4e00\u4e2a\u6a21\u578b\u80fd\u625b\u591a\u5c11 QPS\uff1f\u4e09\u5c42\u6a21\u578b \u00d7 \u4e09\u9762\u5899 \u00d7 \u6392\u961f\u8bba \u00d7 \u5f00\u73af\u538b\u6d4b",
     "id": "shtjww/llm-inference-capacity-handbook",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-19T01:50:46Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-09-19T01:50:08Z",
-    "url": "https://github.com/api-evangelist/zenml"
   }
 ]
