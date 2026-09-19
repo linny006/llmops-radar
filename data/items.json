@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:13:45Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
+    "id": "stdapi-ai/stdapi.ai",
+    "language": "Python",
+    "name": "stdapi-ai/stdapi.ai",
+    "stars": 24,
+    "updated_at": "2026-09-19T00:13:04Z",
+    "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:07:48Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59109,
+    "updated_at": "2026-09-19T00:14:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:02:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T00:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -54,15 +108,6 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59109,
-    "updated_at": "2026-09-19T00:00:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -70,24 +115,6 @@
     "stars": 36,
     "updated_at": "2026-09-18T23:59:26Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T23:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:54:22Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Agent local d'analyse du logement social (donn\u00e9es r\u00e9elles CDC) : LangGraph, RAG, Ollama, garde-fous anti-hallucination, ",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-18T23:26:12Z",
+    "updated_at": "2026-09-19T00:04:38Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -216,6 +243,15 @@
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
   },
   {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 2,
+    "updated_at": "2026-09-18T23:07:08Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -279,15 +315,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-18T22:59:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8164,
-    "updated_at": "2026-09-18T23:12:15Z",
+    "updated_at": "2026-09-19T00:00:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T22:34:58Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-18T22:17:54Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 190,
-    "updated_at": "2026-09-18T22:15:57Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Note d'analyse du surendettement (donn\u00e9es r\u00e9elles Banque de France) par une cha\u00eene multi-agents locale, avec validation ",
-    "id": "DenisMT22/bdf-surendettement-multiagents",
-    "language": "Python",
-    "name": "DenisMT22/bdf-surendettement-multiagents",
-    "stars": 0,
-    "updated_at": "2026-09-18T22:08:21Z",
-    "url": "https://github.com/DenisMT22/bdf-surendettement-multiagents"
   }
 ]
