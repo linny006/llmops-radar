@@ -1,5 +1,59 @@
 [
   {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 736,
+    "updated_at": "2026-09-19T20:59:03Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-19T20:54:00Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 3,
+    "updated_at": "2026-09-19T20:53:33Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59159,
+    "updated_at": "2026-09-19T21:00:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Infrastructure-as-code for AI agent workflows",
+    "id": "hensu-project/hensu",
+    "language": "Java",
+    "name": "hensu-project/hensu",
+    "stars": 14,
+    "updated_at": "2026-09-19T20:45:50Z",
+    "url": "https://github.com/hensu-project/hensu"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T20:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/olivaresai/olivares"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59159,
-    "updated_at": "2026-09-19T20:45:13Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T20:38:28Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 736,
-    "updated_at": "2026-09-19T20:34:13Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
@@ -54,21 +90,12 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T20:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25292,
-    "updated_at": "2026-09-19T20:27:29Z",
+    "updated_at": "2026-09-19T20:51:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-19T20:45:00Z",
+    "updated_at": "2026-09-19T20:56:16Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-19T20:34:13Z",
+    "updated_at": "2026-09-19T21:00:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-19T19:39:47Z",
+    "updated_at": "2026-09-19T20:56:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T19:35:31Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-19T19:34:51Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T19:19:08Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-19T19:18:41Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 564,
-    "updated_at": "2026-09-19T19:16:42Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
