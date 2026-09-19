@@ -1,5 +1,113 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28035,
+    "updated_at": "2026-09-19T07:44:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM evaluation and observability platform: accuracy, hallucination, relevancy, latency, cost and safety metrics across p",
+    "id": "aqkprogrammer/llm-eval-platform",
+    "language": "Python",
+    "name": "aqkprogrammer/llm-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:43:55Z",
+    "url": "https://github.com/aqkprogrammer/llm-eval-platform"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:40:42Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-19T07:39:56Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:38:39Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:37:43Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4816,
+    "updated_at": "2026-09-19T07:42:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:32:38Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-19T07:32:32Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-19T07:31:13Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-09-19T07:30:49Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T07:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T07:27:42Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "LLM evaluation and observability platform: accuracy, hallucination, relevancy, latency, cost and safety metrics across p",
-    "id": "aqkprogrammer/llm-eval-platform",
-    "language": "Python",
-    "name": "aqkprogrammer/llm-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:26:11Z",
-    "url": "https://github.com/aqkprogrammer/llm-eval-platform"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59125,
-    "updated_at": "2026-09-19T07:30:18Z",
+    "updated_at": "2026-09-19T07:39:13Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -133,24 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T07:16:36Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T07:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-19T07:15:17Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -234,15 +315,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28034,
-    "updated_at": "2026-09-19T07:11:00Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-19T07:24:28Z",
+    "updated_at": "2026-09-19T07:34:34Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -351,51 +423,6 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:46:31Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:45:42Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:44:27Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:43:31Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:38:34Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -403,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T05:37:52Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-19T05:36:40Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
     "description": "High-density agent substrate runtime: suspend/resume sandbox orchestration (10x container density, inspired by Google Ag",
@@ -430,23 +448,5 @@
     "stars": 111,
     "updated_at": "2026-09-19T05:10:34Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-09-19T05:06:46Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:02:26Z",
-    "url": "https://github.com/cognifityai/verdict"
   }
 ]
