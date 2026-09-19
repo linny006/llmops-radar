@@ -1,12 +1,84 @@
 [
   {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-19T23:10:12Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-19T23:00:11Z",
+    "updated_at": "2026-09-19T23:10:08Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-19T23:09:52Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-09-19T23:09:39Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "A framework with a strict protocol core for governed, stateful AI work.",
+    "id": "maridlabsai/jini",
+    "language": "Go",
+    "name": "maridlabsai/jini",
+    "stars": 1,
+    "updated_at": "2026-09-19T23:10:17Z",
+    "url": "https://github.com/maridlabsai/jini"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59163,
+    "updated_at": "2026-09-19T23:10:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 3,
+    "updated_at": "2026-09-19T23:08:09Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 7,
+    "updated_at": "2026-09-19T23:05:24Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T23:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -27,15 +99,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59163,
-    "updated_at": "2026-09-19T22:59:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
     "id": "phantomic12/hx-harness",
     "language": "Rust",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-19T22:49:32Z",
+    "updated_at": "2026-09-19T23:04:11Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T22:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 80,
     "updated_at": "2026-09-19T22:46:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
-    "id": "Fortitude-Group/OmnisRouter",
-    "language": "C#",
-    "name": "Fortitude-Group/OmnisRouter",
-    "stars": 3,
-    "updated_at": "2026-09-19T22:41:30Z",
-    "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -403,50 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-19T21:26:44Z",
     "url": "https://github.com/hensu-project/hensu"
-  },
-  {
-    "description": "Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R",
-    "id": "latere-ai/llmops",
-    "language": "Go",
-    "name": "latere-ai/llmops",
-    "stars": 1,
-    "updated_at": "2026-09-19T21:26:06Z",
-    "url": "https://github.com/latere-ai/llmops"
-  },
-  {
-    "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
-    "id": "satyanarayana51115/auto-apply-intelligence-suite",
-    "language": "Python",
-    "name": "satyanarayana51115/auto-apply-intelligence-suite",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:25:24Z",
-    "url": "https://github.com/satyanarayana51115/auto-apply-intelligence-suite"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:25:15Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-19T21:24:48Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:20:20Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
