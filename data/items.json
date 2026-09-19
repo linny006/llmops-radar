@@ -1,12 +1,84 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:58:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-19T06:58:05Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 27,
-    "updated_at": "2026-09-19T06:41:52Z",
+    "updated_at": "2026-09-19T06:56:19Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:54:07Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-19T06:53:50Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59124,
+    "updated_at": "2026-09-19T06:57:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-19T06:52:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
+    "id": "atulkapoor/fde-framework",
+    "language": "Python",
+    "name": "atulkapoor/fde-framework",
+    "stars": 6,
+    "updated_at": "2026-09-19T06:48:56Z",
+    "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -27,31 +99,13 @@
     "url": "https://github.com/phantomic12/hx-harness"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T06:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
     "id": "olivaresai/olivares",
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-19T06:28:55Z",
+    "updated_at": "2026-09-19T06:50:21Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-19T06:27:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -61,15 +115,6 @@
     "stars": 28,
     "updated_at": "2026-09-19T06:20:24Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59123,
-    "updated_at": "2026-09-19T06:44:57Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T06:12:16Z",
     "url": "https://github.com/AkshitRampershad/IncidentLab"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-19T06:38:44Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Know when your LLM app quietly stops working. Baseline your prompts, run them on a schedule, get alerted when the output",
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T05:36:40Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T05:36:30Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -360,15 +387,6 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-19T05:00:15Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T04:06:11Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Evidence-first AIOps investigation and policy-governed safe automation platform",
-    "id": "seaworld008/aiops-system",
-    "language": "Go",
-    "name": "seaworld008/aiops-system",
-    "stars": 1,
-    "updated_at": "2026-09-19T04:25:50Z",
-    "url": "https://github.com/seaworld008/aiops-system"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T03:59:53Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
   }
 ]
