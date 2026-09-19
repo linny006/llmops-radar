@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-19T07:58:52Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22127,
+    "updated_at": "2026-09-19T07:57:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28035,
-    "updated_at": "2026-09-19T07:44:53Z",
+    "stars": 28036,
+    "updated_at": "2026-09-19T07:58:31Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
+    "id": "neuralnexustech/freeroute",
+    "language": "TypeScript",
+    "name": "neuralnexustech/freeroute",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:52:01Z",
+    "url": "https://github.com/neuralnexustech/freeroute"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T07:45:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM evaluation and observability platform: accuracy, hallucination, relevancy, latency, cost and safety metrics across p",
@@ -34,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-09-19T07:39:56Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59126,
+    "updated_at": "2026-09-19T08:00:08Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T07:30:49Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T07:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T07:22:24Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59125,
-    "updated_at": "2026-09-19T07:39:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-19T06:39:43Z",
+    "updated_at": "2026-09-19T07:49:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -385,15 +412,6 @@
     "stars": 28,
     "updated_at": "2026-09-19T06:20:24Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-19T07:34:34Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Multi-agent AI system for incident investigation, with a benchmark harness measuring whether multi-agent actually beats ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T05:37:52Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "High-density agent substrate runtime: suspend/resume sandbox orchestration (10x container density, inspired by Google Ag",
-    "id": "huzjie/substratforge",
-    "language": "Python",
-    "name": "huzjie/substratforge",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:30:32Z",
-    "url": "https://github.com/huzjie/substratforge"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-19T05:10:34Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
