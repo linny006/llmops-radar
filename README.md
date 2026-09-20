@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-20 14:45 UTC
+> ⏰ Last updated: 2026-09-20 14:48 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2857 | C++ | 2026-09-20 | Community maintained hardware plugin for vLLM on Ascend |
-| 2 | [VenkateshDoijode/promptfoo-cicd-framework](https://github.com/VenkateshDoijode/promptfoo-cicd-framework) | 2 | — | 2026-09-20 | AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp |
-| 3 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-20 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. TRUE recursiv |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59221 | Python | 2026-09-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 7 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11986 | Python | 2026-09-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28054 | Python | 2026-09-20 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 9 | [delivstat/swarmkit](https://github.com/delivstat/swarmkit) | 3 | Python | 2026-09-20 | Open-source runtime for governed multi-agent AI — define agents, tools and human-approval gates as data (YAML), run unde |
+| 1 | [delivstat/swarmkit](https://github.com/delivstat/swarmkit) | 3 | Python | 2026-09-20 | Open-source runtime for governed multi-agent AI — define agents, tools and human-approval gates as data (YAML), run unde |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2857 | C++ | 2026-09-20 | Community maintained hardware plugin for vLLM on Ascend |
+| 4 | [VenkateshDoijode/promptfoo-cicd-framework](https://github.com/VenkateshDoijode/promptfoo-cicd-framework) | 2 | — | 2026-09-20 | AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp |
+| 5 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-20 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. TRUE recursiv |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59221 | Python | 2026-09-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 8 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 11986 | Python | 2026-09-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
+| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28054 | Python | 2026-09-20 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 10 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-20 | Temporal workers and clients for wrapping access to different LLMs |
 | 11 | [poojithdevan4D/InferPilot](https://github.com/poojithdevan4D/InferPilot) | 0 | Python | 2026-09-20 | Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it — oth |
 | 12 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 36 | Python | 2026-09-20 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
