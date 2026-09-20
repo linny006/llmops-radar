@@ -1,5 +1,131 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-20T09:15:21Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Operations center for LLM applications: observability, cost, drift, security monitoring, evaluation and model governance",
+    "id": "kogunlowo123/agentic-ai-platform-ops-center",
+    "language": "Python",
+    "name": "kogunlowo123/agentic-ai-platform-ops-center",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:14:17Z",
+    "url": "https://github.com/kogunlowo123/agentic-ai-platform-ops-center"
+  },
+  {
+    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
+    "id": "kogunlowo123/rag-research-assistant",
+    "language": "Python",
+    "name": "kogunlowo123/rag-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:14:08Z",
+    "url": "https://github.com/kogunlowo123/rag-research-assistant"
+  },
+  {
+    "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
+    "id": "kogunlowo123/llmops-observability",
+    "language": "Python",
+    "name": "kogunlowo123/llmops-observability",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:14:01Z",
+    "url": "https://github.com/kogunlowo123/llmops-observability"
+  },
+  {
+    "description": "Evaluations that fail builds: an LLM evaluation harness with a baseline, exit codes, and a meta-gate that tests whether ",
+    "id": "kogunlowo123/ai-evals-regression-suite",
+    "language": "Python",
+    "name": "kogunlowo123/ai-evals-regression-suite",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:13:50Z",
+    "url": "https://github.com/kogunlowo123/ai-evals-regression-suite"
+  },
+  {
+    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
+    "id": "poojithdevan4D/InferPilot",
+    "language": "Python",
+    "name": "poojithdevan4D/InferPilot",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:13:49Z",
+    "url": "https://github.com/poojithdevan4D/InferPilot"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-20T09:09:01Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8184,
+    "updated_at": "2026-09-20T09:08:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-20T09:06:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-20T09:03:50Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-20T09:01:15Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-20T09:00:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Multi-agent RAG with hybrid search, verified citations and hallucination detection",
+    "id": "kogunlowo123/enterprise-multi-agent-rag",
+    "language": "Python",
+    "name": "kogunlowo123/enterprise-multi-agent-rag",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:00:46Z",
+    "url": "https://github.com/kogunlowo123/enterprise-multi-agent-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T09:00:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -31,7 +157,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4834,
+    "stars": 4835,
     "updated_at": "2026-09-20T08:57:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -81,31 +207,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production harness and control plane for accountable AI-assisted software delivery",
     "id": "symphos-ai/orcho-core",
     "language": "Python",
     "name": "symphos-ai/orcho-core",
     "stars": 5,
-    "updated_at": "2026-09-20T08:50:32Z",
+    "updated_at": "2026-09-20T09:02:51Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-20T08:42:31Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -117,21 +225,12 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-20T08:38:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59200,
-    "updated_at": "2026-09-20T08:53:20Z",
+    "updated_at": "2026-09-20T09:15:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,7 +248,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11986,
-    "updated_at": "2026-09-20T08:56:49Z",
+    "updated_at": "2026-09-20T09:07:34Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -158,7 +257,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T08:27:19Z",
+    "updated_at": "2026-09-20T09:03:53Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T07:24:29Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:24:11Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:23:53Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:22:21Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:21:23Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:19:01Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:16:11Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:14:08Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:13:54Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:13:39Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-20T07:12:30Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:06:18Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
