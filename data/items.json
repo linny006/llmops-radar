@@ -1,12 +1,30 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59165,
-    "updated_at": "2026-09-20T00:43:07Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-20T00:59:24Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-20T00:59:17Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-20T00:56:44Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +32,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 38,
-    "updated_at": "2026-09-20T00:41:05Z",
+    "updated_at": "2026-09-20T00:56:31Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28045,
+    "updated_at": "2026-09-20T00:55:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-20T00:52:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-20T00:52:27Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T00:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59165,
+    "updated_at": "2026-09-20T01:00:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -41,26 +104,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T00:34:52Z",
+    "updated_at": "2026-09-20T00:47:23Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T00:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-20T00:39:32Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "hermes-labs-ai/quick-gate-python",
     "stars": 0,
-    "updated_at": "2026-09-20T00:28:44Z",
+    "updated_at": "2026-09-20T00:46:17Z",
     "url": "https://github.com/hermes-labs-ai/quick-gate-python"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T23:52:14Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T23:51:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 80,
-    "updated_at": "2026-09-20T00:35:56Z",
+    "updated_at": "2026-09-20T00:48:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/developersofik/greenprompt"
   },
   {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-09-19T23:28:43Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T23:24:05Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-19T23:22:59Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-19T23:20:00Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-19T23:18:35Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   }
 ]
