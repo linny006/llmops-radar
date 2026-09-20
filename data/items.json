@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-20T10:45:07Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
+    "id": "poojithdevan4D/InferPilot",
+    "language": "Python",
+    "name": "poojithdevan4D/InferPilot",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:45:04Z",
+    "url": "https://github.com/poojithdevan4D/InferPilot"
+  },
+  {
+    "description": "Calibrated decision layer and risk gate for AI coding agents. Routes yes/no, routing and scoring judgments to the Jev Sy",
+    "id": "RavenRepo/jevengineeringgate",
+    "language": "JavaScript",
+    "name": "RavenRepo/jevengineeringgate",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:43:52Z",
+    "url": "https://github.com/RavenRepo/jevengineeringgate"
+  },
+  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-20T10:29:53Z",
+    "updated_at": "2026-09-20T10:43:47Z",
     "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-20T10:39:21Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 21,
+    "updated_at": "2026-09-20T10:37:43Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-20T10:40:25Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
+    "id": "atulkapoor/fde-framework",
+    "language": "Python",
+    "name": "atulkapoor/fde-framework",
+    "stars": 7,
+    "updated_at": "2026-09-20T10:33:50Z",
+    "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 162,
+    "updated_at": "2026-09-20T10:32:53Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-20T10:30:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T10:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -45,30 +135,12 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
-    "id": "poojithdevan4D/InferPilot",
-    "language": "Python",
-    "name": "poojithdevan4D/InferPilot",
-    "stars": 0,
-    "updated_at": "2026-09-20T10:20:07Z",
-    "url": "https://github.com/poojithdevan4D/InferPilot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T10:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59212,
-    "updated_at": "2026-09-20T10:28:18Z",
+    "updated_at": "2026-09-20T10:40:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-09-20T10:11:49Z",
     "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34842,
+    "updated_at": "2026-09-20T10:05:43Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
@@ -148,7 +229,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4836,
+    "stars": 4837,
     "updated_at": "2026-09-20T09:42:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
@@ -187,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-20T09:37:43Z",
     "url": "https://github.com/jungtaeinn/agentic-geo"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-20T09:36:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "LiteLLM WebUI \u7b80\u4f53\u4e2d\u6587\u8865\u4e01 v0.1.2 / Simplified Chinese overlay, verified with LiteLLM v1.101.0 on macOS.",
@@ -261,15 +333,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-20T09:31:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -315,7 +378,7 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Autonomous Multi-Agent ATS Match & Executive Outreach Engine powered by CrewAI, Gemini 2.0, and LiteLLM. Features intera",
+    "description": "Autonomous Multi-Company ATS Matching & Executive Pitch Engine built with CrewAI, Playwright browser automation, and Str",
     "id": "satyanarayana51115/auto-apply-intelligence-suite",
     "language": "Python",
     "name": "satyanarayana51115/auto-apply-intelligence-suite",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T09:20:30Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-20T09:20:18Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:18:03Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
-    "id": "kogunlowo123/rag-research-assistant",
-    "language": "Python",
-    "name": "kogunlowo123/rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:17:23Z",
-    "url": "https://github.com/kogunlowo123/rag-research-assistant"
-  },
-  {
-    "description": "Operations center for LLM applications: observability, cost, drift, security monitoring, evaluation and model governance",
-    "id": "kogunlowo123/agentic-ai-platform-ops-center",
-    "language": "Python",
-    "name": "kogunlowo123/agentic-ai-platform-ops-center",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:17:19Z",
-    "url": "https://github.com/kogunlowo123/agentic-ai-platform-ops-center"
-  },
-  {
-    "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
-    "id": "kogunlowo123/llmops-observability",
-    "language": "Python",
-    "name": "kogunlowo123/llmops-observability",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:16:51Z",
-    "url": "https://github.com/kogunlowo123/llmops-observability"
-  },
-  {
-    "description": "Evaluations that fail builds: an LLM evaluation harness with a baseline, exit codes, and a meta-gate that tests whether ",
-    "id": "kogunlowo123/ai-evals-regression-suite",
-    "language": "Python",
-    "name": "kogunlowo123/ai-evals-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:16:25Z",
-    "url": "https://github.com/kogunlowo123/ai-evals-regression-suite"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 36,
-    "updated_at": "2026-09-20T09:09:01Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
