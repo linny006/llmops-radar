@@ -1,12 +1,21 @@
 [
   {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
-    "name": "Root1V/argus-observability-platform",
+    "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-09-20T02:12:23Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
+    "updated_at": "2026-09-20T02:28:17Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 80,
+    "updated_at": "2026-09-20T02:27:58Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T02:12:07Z",
+    "updated_at": "2026-09-20T02:27:54Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-20T02:25:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:29:09Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59173,
+    "updated_at": "2026-09-20T02:29:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:22:03Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:19:21Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Multi-agent RAG with hybrid search, verified citations and hallucination detection",
+    "id": "kogunlowo123/enterprise-multi-agent-rag",
+    "language": "Python",
+    "name": "kogunlowo123/enterprise-multi-agent-rag",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:16:11Z",
+    "url": "https://github.com/kogunlowo123/enterprise-multi-agent-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T02:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u5927\u6a21\u578b\u63a8\u7406\u6848\u5934\u624b\u518c\uff08\u5f00\u6e90\u7248\uff09\uff1a\u7ed9\u5b9a GPU \u7b97\u529b\uff0c\u4e00\u4e2a\u6a21\u578b\u80fd\u625b\u591a\u5c11 QPS\uff1f\u4e09\u5c42\u6a21\u578b \u00d7 \u4e09\u9762\u5899 \u00d7 \u6392\u961f\u8bba \u00d7 \u5f00\u73af\u538b\u6d4b",
@@ -27,21 +99,12 @@
     "url": "https://github.com/shtjww/llm-inference-capacity-handbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59172,
-    "updated_at": "2026-09-20T02:14:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T02:05:29Z",
+    "updated_at": "2026-09-20T02:17:50Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-20T02:00:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
     "id": "kensterinvest/tidus",
     "language": "HTML",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T02:00:31Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T02:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T01:23:15Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Professional Applied AI / Agentic AI portfolio for healthcare, insurance, FHIR/HL7, document AI, and LLMOps systems.",
-    "id": "smgpulse007/smgpulse007.github.io",
-    "language": "TypeScript",
-    "name": "smgpulse007/smgpulse007.github.io",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:20:47Z",
-    "url": "https://github.com/smgpulse007/smgpulse007.github.io"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:17:15Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:16:52Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "MLOps & LLMOps skills for Grok Build \u2014 melted from LibreMLOps. Gold Hat. Liquid Gold.",
-    "id": "HermeticOrmus/LibreMLOps-Grok-Build",
-    "language": "\u2014",
-    "name": "HermeticOrmus/LibreMLOps-Grok-Build",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:14:10Z",
-    "url": "https://github.com/HermeticOrmus/LibreMLOps-Grok-Build"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:12:35Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
