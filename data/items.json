@@ -1,12 +1,66 @@
 [
   {
+    "description": "A hands-on journey from system design to production-grade Enterprise AI architecture.",
+    "id": "sunneysood/enterprise-ai-platform-build",
+    "language": "\u2014",
+    "name": "sunneysood/enterprise-ai-platform-build",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:10:17Z",
+    "url": "https://github.com/sunneysood/enterprise-ai-platform-build"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 82,
+    "updated_at": "2026-09-20T20:05:12Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 34,
+    "updated_at": "2026-09-20T20:04:12Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-20T20:03:29Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
     "name": "Peter-A-P/compliant-ai-gateway",
     "stars": 0,
-    "updated_at": "2026-09-20T19:57:50Z",
+    "updated_at": "2026-09-20T20:02:30Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Fastest Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 1,
+    "updated_at": "2026-09-20T20:01:06Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T20:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Arm-optimized edge inference for data center BESS fault detection",
@@ -81,15 +135,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T19:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -121,7 +166,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59238,
+    "stars": 59240,
     "updated_at": "2026-09-20T19:40:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -270,15 +315,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "A hands-on journey from system design to production-grade Enterprise AI architecture.",
-    "id": "sunneysood/enterprise-ai-platform-build",
-    "language": "\u2014",
-    "name": "sunneysood/enterprise-ai-platform-build",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:57:32Z",
-    "url": "https://github.com/sunneysood/enterprise-ai-platform-build"
-  },
-  {
     "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
     "id": "mviraj/KakeyaFiniteFields",
     "language": "JavaScript",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T19:20:48Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-20T19:54:30Z",
-    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T18:45:58Z",
+    "updated_at": "2026-09-20T20:06:37Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -419,34 +446,7 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-09-20T18:35:49Z",
+    "updated_at": "2026-09-20T20:15:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25312,
-    "updated_at": "2026-09-20T18:32:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-09-20T18:33:44Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "AI token economics dashboard for CFOs \u2014 justify ROI on AI spend using industry benchmarks, unit economics, and",
-    "id": "icohangar-ops/tech-economist",
-    "language": "Python",
-    "name": "icohangar-ops/tech-economist",
-    "stars": 0,
-    "updated_at": "2026-09-20T18:27:48Z",
-    "url": "https://github.com/icohangar-ops/tech-economist"
   }
 ]
