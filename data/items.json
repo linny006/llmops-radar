@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59240,
+    "updated_at": "2026-09-20T22:14:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:01:25Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T22:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 161 skills, plugins, MCP serve",
     "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T21:56:51Z",
+    "updated_at": "2026-09-20T22:06:53Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -122,17 +149,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T22:00:25Z",
+    "updated_at": "2026-09-20T22:14:54Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T21:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -180,15 +198,6 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59239,
-    "updated_at": "2026-09-20T21:52:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -196,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-09-20T21:39:52Z",
     "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8196,
+    "updated_at": "2026-09-20T21:37:49Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A framework for Forward Deployed Engineers: from problem statement to a deployable AI project \u2014 every decision traced to",
@@ -265,7 +283,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8682,
+    "stars": 8683,
     "updated_at": "2026-09-20T21:28:25Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -383,7 +401,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-20T21:15:08Z",
+    "updated_at": "2026-09-20T22:11:02Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T20:26:49Z",
     "url": "https://github.com/kogunlowo123/llmops-observability"
-  },
-  {
-    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
-    "id": "kogunlowo123/rag-research-assistant",
-    "language": "Python",
-    "name": "kogunlowo123/rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T20:28:18Z",
-    "url": "https://github.com/kogunlowo123/rag-research-assistant"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:01:24Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
   }
 ]
