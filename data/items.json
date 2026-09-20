@@ -1,21 +1,39 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59212,
+    "updated_at": "2026-09-20T10:13:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:11:49Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "C++",
     "name": "vllm-project/vllm-ascend",
     "stars": 2857,
-    "updated_at": "2026-09-20T09:57:22Z",
+    "updated_at": "2026-09-20T10:00:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59210,
-    "updated_at": "2026-09-20T09:58:24Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T10:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T09:45:43Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T09:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -88,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-09-20T09:42:59Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4836,
+    "updated_at": "2026-09-20T09:42:21Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11987,
-    "updated_at": "2026-09-20T09:45:33Z",
+    "updated_at": "2026-09-20T10:10:12Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T09:00:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Multi-agent RAG with hybrid search, verified citations and hallucination detection",
-    "id": "kogunlowo123/enterprise-multi-agent-rag",
-    "language": "Python",
-    "name": "kogunlowo123/enterprise-multi-agent-rag",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:00:46Z",
-    "url": "https://github.com/kogunlowo123/enterprise-multi-agent-rag"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28051,
-    "updated_at": "2026-09-20T09:00:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
