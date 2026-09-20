@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-09-20T15:13:31Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 157,
+    "updated_at": "2026-09-20T15:10:18Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4840,
+    "updated_at": "2026-09-20T15:08:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-20T15:07:30Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-09-20T15:03:20Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-20T15:02:46Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-20T15:01:16Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59223,
+    "updated_at": "2026-09-20T15:04:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T15:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
     "id": "VenkateshDoijode/promptfoo-cicd-framework",
     "language": "\u2014",
@@ -45,24 +126,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59221,
-    "updated_at": "2026-09-20T14:54:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T14:48:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
     "id": "delivstat/swarmkit",
     "language": "Python",
@@ -81,15 +144,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-20T14:33:36Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11986,
-    "updated_at": "2026-09-20T14:42:52Z",
+    "updated_at": "2026-09-20T15:14:22Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T14:15:19Z",
     "url": "https://github.com/poojithdevan4D/InferPilot"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 36,
-    "updated_at": "2026-09-20T14:08:14Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -324,15 +369,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4838,
-    "updated_at": "2026-09-20T14:38:23Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T13:23:23Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-20T13:22:07Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-20T13:21:54Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:19:51Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-09-20T13:10:18Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   }
 ]
