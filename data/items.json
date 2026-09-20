@@ -1,11 +1,74 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-20T10:29:53Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "CSS",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-20T10:29:50Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-20T10:28:57Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2857,
+    "updated_at": "2026-09-20T10:21:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 6,
+    "updated_at": "2026-09-20T10:24:34Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
+    "id": "poojithdevan4D/InferPilot",
+    "language": "Python",
+    "name": "poojithdevan4D/InferPilot",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:20:07Z",
+    "url": "https://github.com/poojithdevan4D/InferPilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T10:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59212,
-    "updated_at": "2026-09-20T10:13:37Z",
+    "updated_at": "2026-09-20T10:28:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -16,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T10:11:49Z",
     "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2857,
-    "updated_at": "2026-09-20T10:00:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T10:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-20T09:41:15Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
-    "id": "poojithdevan4D/InferPilot",
-    "language": "Python",
-    "name": "poojithdevan4D/InferPilot",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:40:10Z",
-    "url": "https://github.com/poojithdevan4D/InferPilot"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -412,41 +448,5 @@
     "stars": 36,
     "updated_at": "2026-09-20T09:09:01Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8185,
-    "updated_at": "2026-09-20T09:56:06Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-20T09:03:50Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-20T09:01:15Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-20T09:00:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
