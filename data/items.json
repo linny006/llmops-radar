@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-20T20:27:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "A hands-on journey from system design to production-grade Enterprise AI architecture.",
+    "id": "sunneysood/enterprise-ai-platform-build",
+    "language": "\u2014",
+    "name": "sunneysood/enterprise-ai-platform-build",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:27:11Z",
+    "url": "https://github.com/sunneysood/enterprise-ai-platform-build"
+  },
+  {
+    "description": "Operations center for LLM applications: observability, cost, drift, security monitoring, evaluation and model governance",
+    "id": "kogunlowo123/agentic-ai-platform-ops-center",
+    "language": "Python",
+    "name": "kogunlowo123/agentic-ai-platform-ops-center",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:27:03Z",
+    "url": "https://github.com/kogunlowo123/agentic-ai-platform-ops-center"
+  },
+  {
+    "description": "Multi-agent RAG with hybrid search, verified citations and hallucination detection",
+    "id": "kogunlowo123/enterprise-multi-agent-rag",
+    "language": "Python",
+    "name": "kogunlowo123/enterprise-multi-agent-rag",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:26:56Z",
+    "url": "https://github.com/kogunlowo123/enterprise-multi-agent-rag"
+  },
+  {
+    "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
+    "id": "kogunlowo123/llmops-observability",
+    "language": "Python",
+    "name": "kogunlowo123/llmops-observability",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:26:49Z",
+    "url": "https://github.com/kogunlowo123/llmops-observability"
+  },
+  {
+    "description": "Evaluations that fail builds: an LLM evaluation harness with a baseline, exit codes, and a meta-gate that tests whether ",
+    "id": "kogunlowo123/ai-evals-regression-suite",
+    "language": "Python",
+    "name": "kogunlowo123/ai-evals-regression-suite",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:26:45Z",
+    "url": "https://github.com/kogunlowo123/ai-evals-regression-suite"
+  },
+  {
+    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
+    "id": "kogunlowo123/rag-research-assistant",
+    "language": "Python",
+    "name": "kogunlowo123/rag-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:28:18Z",
+    "url": "https://github.com/kogunlowo123/rag-research-assistant"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:20:51Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-20T20:15:23Z",
+    "updated_at": "2026-09-20T20:15:49Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T20:15:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A hands-on journey from system design to production-grade Enterprise AI architecture.",
-    "id": "sunneysood/enterprise-ai-platform-build",
-    "language": "\u2014",
-    "name": "sunneysood/enterprise-ai-platform-build",
-    "stars": 0,
-    "updated_at": "2026-09-20T20:10:17Z",
-    "url": "https://github.com/sunneysood/enterprise-ai-platform-build"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -175,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59240,
+    "stars": 59239,
     "updated_at": "2026-09-20T19:40:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -338,7 +401,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-20T19:16:31Z",
+    "updated_at": "2026-09-20T20:27:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T19:01:22Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:20:34Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
-  },
-  {
-    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
-    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "language": "Go",
-    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "stars": 0,
-    "updated_at": "2026-09-20T18:55:35Z",
-    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
-    "id": "deziss/llm-secure-gateway",
-    "language": "Python",
-    "name": "deziss/llm-secure-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-20T18:51:12Z",
-    "url": "https://github.com/deziss/llm-secure-gateway"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-09-20T18:41:19Z",
-    "url": "https://github.com/maridlabsai/jini"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-20T18:53:53Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-20T20:06:37Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-20T18:47:40Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
