@@ -1,11 +1,74 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-20T20:44:52Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59239,
+    "updated_at": "2026-09-20T20:39:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "BD Coach \u2014 unified config + self-hostable infra",
+    "id": "icohangar-ops/bd-coach",
+    "language": "Python",
+    "name": "icohangar-ops/bd-coach",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:36:33Z",
+    "url": "https://github.com/icohangar-ops/bd-coach"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-20T20:33:03Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-20T20:31:42Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Evaluations that fail builds: an LLM evaluation harness with a baseline, exit codes, and a meta-gate that tests whether ",
+    "id": "kogunlowo123/ai-evals-regression-suite",
+    "language": "Python",
+    "name": "kogunlowo123/ai-evals-regression-suite",
+    "stars": 0,
+    "updated_at": "2026-09-20T20:31:39Z",
+    "url": "https://github.com/kogunlowo123/ai-evals-regression-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T20:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T20:27:26Z",
+    "updated_at": "2026-09-20T20:40:01Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/kogunlowo123/llmops-observability"
   },
   {
-    "description": "Evaluations that fail builds: an LLM evaluation harness with a baseline, exit codes, and a meta-gate that tests whether ",
-    "id": "kogunlowo123/ai-evals-regression-suite",
-    "language": "Python",
-    "name": "kogunlowo123/ai-evals-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-09-20T20:26:45Z",
-    "url": "https://github.com/kogunlowo123/ai-evals-regression-suite"
-  },
-  {
     "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
     "id": "kogunlowo123/rag-research-assistant",
     "language": "Python",
@@ -68,17 +122,8 @@
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-09-20T20:20:51Z",
+    "updated_at": "2026-09-20T20:33:25Z",
     "url": "https://github.com/Soum-Code/agentpulse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T20:15:49Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -106,15 +151,6 @@
     "stars": 34,
     "updated_at": "2026-09-20T20:04:12Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-20T20:03:29Z",
-    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59239,
-    "updated_at": "2026-09-20T19:40:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T19:31:44Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-20T19:30:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-20T19:04:26Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-20T19:03:17Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:01:22Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
   }
 ]
