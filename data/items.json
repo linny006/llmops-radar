@@ -1,5 +1,158 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-20T01:59:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2854,
+    "updated_at": "2026-09-20T01:59:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-09-20T01:56:23Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:55:42Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-20T01:54:18Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
+    "id": "redevops-io/sidekick",
+    "language": "Python",
+    "name": "redevops-io/sidekick",
+    "stars": 10,
+    "updated_at": "2026-09-20T01:53:29Z",
+    "url": "https://github.com/redevops-io/sidekick"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59169,
+    "updated_at": "2026-09-20T01:58:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-20T01:52:59Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:52:27Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-20T01:51:01Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:49:56Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-20T01:49:32Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:49:31Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:48:56Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
+    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "language": "\u2014",
+    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:48:24Z",
+    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
+  },
+  {
+    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
+    "id": "appleweiping/FacetRoute",
+    "language": "Python",
+    "name": "appleweiping/FacetRoute",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:52:38Z",
+    "url": "https://github.com/appleweiping/FacetRoute"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -14,7 +167,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T01:44:01Z",
+    "updated_at": "2026-09-20T01:56:12Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -36,15 +189,6 @@
     "url": "https://github.com/harishu652/Class-AI-Agent"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:44:07Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
     "id": "Healthful-article791/rag-systems-production",
     "language": "\u2014",
@@ -61,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-20T01:39:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2854,
-    "updated_at": "2026-09-20T01:36:50Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -171,24 +306,6 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T01:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59166,
-    "updated_at": "2026-09-20T01:45:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -198,15 +315,6 @@
     "url": "https://github.com/developersofik/greenprompt"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-20T01:28:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -214,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T01:27:01Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-20T01:25:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -259,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T01:23:15Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-20T01:22:07Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Professional Applied AI / Agentic AI portfolio for healthcare, insurance, FHIR/HL7, document AI, and LLMOps systems.",
@@ -358,95 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-20T01:05:34Z",
     "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:56:44Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28045,
-    "updated_at": "2026-09-20T00:55:26Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-20T00:52:03Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Offline-first, explainable personalized routing across declared LLM candidates",
-    "id": "appleweiping/FacetRoute",
-    "language": "Python",
-    "name": "appleweiping/FacetRoute",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:52:27Z",
-    "url": "https://github.com/appleweiping/FacetRoute"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-20T00:39:19Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-20T00:36:39Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "LLM telemetry you can gate on: cost accounting against a versioned price book, multi-window burn-rate error budgets, and",
-    "id": "kogunlowo123/llmops-observability",
-    "language": "Python",
-    "name": "kogunlowo123/llmops-observability",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:25:39Z",
-    "url": "https://github.com/kogunlowo123/llmops-observability"
-  },
-  {
-    "description": "Production-grade RAG service: hybrid retrieval, verified citations, measured grounding, and layered defence against prom",
-    "id": "kogunlowo123/rag-research-assistant",
-    "language": "Python",
-    "name": "kogunlowo123/rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:25:32Z",
-    "url": "https://github.com/kogunlowo123/rag-research-assistant"
-  },
-  {
-    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
-    "id": "hermes-labs-ai/.github",
-    "language": "Python",
-    "name": "hermes-labs-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:20:19Z",
-    "url": "https://github.com/hermes-labs-ai/.github"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-20T00:16:50Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
