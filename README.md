@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 00:29 UTC
+> ⏰ Last updated: 2026-09-21 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-09-21 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
-| 2 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 392 | Python | 2026-09-21 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 3 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 1 | Python | 2026-09-21 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-21 | Agentic Runtime |
-| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-21 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-09-21 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
+| 3 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 392 | Python | 2026-09-21 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
+| 4 | [Masterplanner25/aindy-runtime](https://github.com/Masterplanner25/aindy-runtime) | 1 | Python | 2026-09-21 | Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a  |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-21 | Agentic Runtime |
+| 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-21 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 7 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-09-21 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59245 | Python | 2026-09-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 9 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22167 | Python | 2026-09-21 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
