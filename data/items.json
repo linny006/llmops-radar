@@ -1,12 +1,102 @@
 [
   {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 530,
+    "updated_at": "2026-09-21T08:13:48Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-21T08:12:59Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34877,
-    "updated_at": "2026-09-21T07:58:45Z",
+    "updated_at": "2026-09-21T08:15:05Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 47,
+    "updated_at": "2026-09-21T08:09:43Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2860,
+    "updated_at": "2026-09-21T08:08:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 481,
+    "updated_at": "2026-09-21T08:09:47Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28066,
+    "updated_at": "2026-09-21T08:04:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-09-21T08:03:31Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-21T08:03:11Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 115,
+    "updated_at": "2026-09-21T08:02:15Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T08:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
@@ -36,47 +126,20 @@
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2860,
-    "updated_at": "2026-09-21T07:51:07Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28065,
-    "updated_at": "2026-09-21T08:00:10Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T07:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-21T07:39:55Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25325,
+    "updated_at": "2026-09-21T08:14:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59289,
+    "stars": 59291,
     "updated_at": "2026-09-21T07:37:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22175,
-    "updated_at": "2026-09-21T07:37:19Z",
+    "updated_at": "2026-09-21T08:09:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T07:31:28Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25324,
-    "updated_at": "2026-09-21T07:48:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8207,
-    "updated_at": "2026-09-21T07:14:28Z",
+    "updated_at": "2026-09-21T08:03:40Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11991,
-    "updated_at": "2026-09-21T07:59:14Z",
+    "updated_at": "2026-09-21T08:07:18Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-21T06:47:58Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-21T06:46:48Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1343,
-    "updated_at": "2026-09-21T07:47:52Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:33:29Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
-    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "language": "Go",
-    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "stars": 0,
-    "updated_at": "2026-09-21T06:29:50Z",
-    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-09-21T06:21:43Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Bionic is sovereign AI for the enterprise \u2014 ChatGPT-like AI that runs on-premise and can securely work with your sensiti",
-    "id": "bionic-gpt/bionic-gpt",
-    "language": "Rust",
-    "name": "bionic-gpt/bionic-gpt",
-    "stars": 2371,
-    "updated_at": "2026-09-21T06:20:00Z",
-    "url": "https://github.com/bionic-gpt/bionic-gpt"
   }
 ]
