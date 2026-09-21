@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 485,
+    "updated_at": "2026-09-21T19:00:17Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-21T18:55:47Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59333,
+    "updated_at": "2026-09-21T19:00:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:54:38Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:54:36Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 30,
+    "updated_at": "2026-09-21T18:55:57Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11563,
+    "updated_at": "2026-09-21T18:51:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34905,
-    "updated_at": "2026-09-21T18:42:52Z",
+    "updated_at": "2026-09-21T18:53:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/justanotheruser82174/cua-lite"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59331,
-    "updated_at": "2026-09-21T18:43:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T18:41:29Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11563,
-    "updated_at": "2026-09-21T18:43:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 30,
-    "updated_at": "2026-09-21T18:33:36Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:30:35Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -328,7 +364,7 @@
     "id": "api7/aisix",
     "language": "Rust",
     "name": "api7/aisix",
-    "stars": 158,
+    "stars": 159,
     "updated_at": "2026-09-21T18:00:03Z",
     "url": "https://github.com/api7/aisix"
   },
@@ -355,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6952,
+    "stars": 6953,
     "updated_at": "2026-09-21T17:52:36Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:37:28Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4847,
-    "updated_at": "2026-09-21T17:43:14Z",
+    "updated_at": "2026-09-21T18:48:16Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-21T17:34:25Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8214,
-    "updated_at": "2026-09-21T18:16:44Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-21T18:37:55Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
