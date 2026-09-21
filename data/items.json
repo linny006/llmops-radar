@@ -1,5 +1,77 @@
 [
   {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:29:43Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59335,
+    "updated_at": "2026-09-21T19:30:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-21T19:27:08Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6957,
+    "updated_at": "2026-09-21T19:21:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 30,
+    "updated_at": "2026-09-21T19:21:28Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-21T19:19:10Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-21T19:18:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -9,13 +81,13 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 30,
-    "updated_at": "2026-09-21T19:13:22Z",
-    "url": "https://github.com/overmind-core/overmind"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30272,
+    "updated_at": "2026-09-21T19:21:25Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -23,17 +95,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-21T19:12:43Z",
+    "updated_at": "2026-09-21T19:20:56Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59335,
-    "updated_at": "2026-09-21T19:13:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent \u4e0a\u4e0b\u6587\u538b\u7f29\u5f15\u64ce\uff08Java\uff09\u2014\u2014 \u5728\u5de5\u5177\u8f93\u51fa/\u65e5\u5fd7/RAG \u7247\u6bb5\u8fdb\u5165 LLM \u524d\u505a\u786e\u5b9a\u6027\u3001\u53ef\u5ba1\u8ba1\u3001\u5173\u952e\u4fe1\u606f\u96f6\u4e22\u5931\u7684\u538b\u7f29",
@@ -50,17 +113,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34906,
-    "updated_at": "2026-09-21T19:08:50Z",
+    "updated_at": "2026-09-21T19:28:07Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30272,
-    "updated_at": "2026-09-21T19:14:14Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -81,40 +135,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-21T18:55:47Z",
+    "updated_at": "2026-09-21T19:30:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-21T19:12:12Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-21T19:08:46Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11563,
-    "updated_at": "2026-09-21T19:12:06Z",
+    "updated_at": "2026-09-21T19:21:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-21T19:14:57Z",
+    "updated_at": "2026-09-21T19:21:04Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:34:06Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-21T18:33:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -214,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-09-21T18:31:07Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28081,
+    "updated_at": "2026-09-21T18:30:50Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8690,
-    "updated_at": "2026-09-21T18:16:24Z",
+    "updated_at": "2026-09-21T19:24:08Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22182,
-    "updated_at": "2026-09-21T18:07:09Z",
+    "updated_at": "2026-09-21T19:23:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 159,
-    "updated_at": "2026-09-21T18:00:03Z",
+    "updated_at": "2026-09-21T19:18:54Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6955,
-    "updated_at": "2026-09-21T17:52:36Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
     "id": "JumpMasters/tollgate",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T17:54:39Z",
     "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2049,
-    "updated_at": "2026-09-21T19:11:45Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-21T17:47:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
