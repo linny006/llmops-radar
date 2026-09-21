@@ -1,5 +1,59 @@
 [
   {
+    "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
+    "id": "Rodiun/frugon",
+    "language": "Python",
+    "name": "Rodiun/frugon",
+    "stars": 212,
+    "updated_at": "2026-09-21T06:15:11Z",
+    "url": "https://github.com/Rodiun/frugon"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-09-21T06:13:10Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
+    "id": "gaurav-gandhi-2411/adk-tracegauge",
+    "language": "Python",
+    "name": "gaurav-gandhi-2411/adk-tracegauge",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:07:21Z",
+    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-21T06:07:16Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34867,
+    "updated_at": "2026-09-21T06:01:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T06:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
     "id": "Partha-dev01/Constitutional-AIOps",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:55:59Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,15 +88,6 @@
     "stars": 1070,
     "updated_at": "2026-09-21T05:53:24Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -76,7 +112,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25319,
+    "stars": 25320,
     "updated_at": "2026-09-21T05:39:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T05:34:50Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34867,
-    "updated_at": "2026-09-21T05:34:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-21T04:56:34Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "Framework-agnostic Agent evolution from evals, OTLP traces, and human feedback.",
-    "id": "hxaxd/kochab",
-    "language": "Python",
-    "name": "hxaxd/kochab",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:55:28Z",
-    "url": "https://github.com/hxaxd/kochab"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-21T04:55:23Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-21T05:06:29Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
