@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability",
+    "id": "Aptica-Solutions/a-mcp-runmeter",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T00:29:52Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Aptica-Solutions/a-mcp-runmeter",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:40:21Z",
+    "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59247,
+    "updated_at": "2026-09-21T00:39:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Tiered classification with an LLM in the loop: rules first, model second, and a closed-vocabulary guard so an invented l",
+    "id": "AlfredoFFD/tiered-classifier",
+    "language": "Python",
+    "name": "AlfredoFFD/tiered-classifier",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:37:01Z",
+    "url": "https://github.com/AlfredoFFD/tiered-classifier"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-21T00:36:44Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 157,
+    "updated_at": "2026-09-21T00:41:07Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "Peter-A-P/compliant-ai-gateway",
     "stars": 0,
-    "updated_at": "2026-09-21T00:28:55Z",
+    "updated_at": "2026-09-21T00:32:06Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T00:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22168,
+    "updated_at": "2026-09-21T00:27:55Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -25,15 +79,6 @@
     "stars": 392,
     "updated_at": "2026-09-21T00:25:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-21T00:23:41Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "Agentic Runtime",
@@ -63,22 +108,13 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Modular AI evaluation and agent harness for RAG, agentic AI, LLMOps, observability, guardrails, and AI quality gates.",
+    "id": "AsaifAli/ai-engineering-evaluation-harness",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59245,
-    "updated_at": "2026-09-21T00:09:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22167,
-    "updated_at": "2026-09-21T00:27:55Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "AsaifAli/ai-engineering-evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:05:28Z",
+    "url": "https://github.com/AsaifAli/ai-engineering-evaluation-harness"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28057,
-    "updated_at": "2026-09-20T23:44:53Z",
+    "updated_at": "2026-09-21T00:45:12Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -382,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34857,
+    "stars": 34858,
     "updated_at": "2026-09-20T23:08:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -412,41 +448,5 @@
     "stars": 25314,
     "updated_at": "2026-09-20T23:03:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-20T22:58:42Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 12,
-    "updated_at": "2026-09-20T22:57:45Z",
-    "url": "https://github.com/tonquoc0407/capybara"
-  },
-  {
-    "description": "Personal GitHub profile README showcasing production ML, GenAI/RAG systems, LLM observability, and decision-ready AI wor",
-    "id": "tarekmasryo/tarekmasryo",
-    "language": "\u2014",
-    "name": "tarekmasryo/tarekmasryo",
-    "stars": 1,
-    "updated_at": "2026-09-20T22:44:16Z",
-    "url": "https://github.com/tarekmasryo/tarekmasryo"
-  },
-  {
-    "description": "Ten failure modes from a month of running unattended agents, with the detector for each one",
-    "id": "kemdrixberkeley/agent-failure-modes",
-    "language": "Python",
-    "name": "kemdrixberkeley/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:39:56Z",
-    "url": "https://github.com/kemdrixberkeley/agent-failure-modes"
   }
 ]
