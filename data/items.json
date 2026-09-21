@@ -1,12 +1,57 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-21T20:14:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-21T20:13:28Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59336,
-    "updated_at": "2026-09-21T20:00:05Z",
+    "stars": 59339,
+    "updated_at": "2026-09-21T20:13:23Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4846,
+    "updated_at": "2026-09-21T20:12:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 34,
+    "updated_at": "2026-09-21T20:04:56Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
@@ -54,15 +99,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Modular AI evaluation and agent harness for RAG, agentic AI, LLMOps, observability, guardrails, and AI quality gates.",
     "id": "AsaifAli/ai-engineering-evaluation-harness",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-21T19:32:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -117,20 +144,11 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-21T19:33:14Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6958,
+    "stars": 6959,
     "updated_at": "2026-09-21T19:21:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11562,
-    "updated_at": "2026-09-21T19:57:29Z",
+    "updated_at": "2026-09-21T20:14:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30273,
-    "updated_at": "2026-09-21T19:21:25Z",
+    "updated_at": "2026-09-21T20:04:49Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 485,
-    "updated_at": "2026-09-21T19:14:33Z",
+    "updated_at": "2026-09-21T20:08:12Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -225,13 +243,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4846,
-    "updated_at": "2026-09-21T18:48:16Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 568,
+    "updated_at": "2026-09-21T18:42:16Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-21T19:21:04Z",
+    "updated_at": "2026-09-21T20:11:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 22182,
     "updated_at": "2026-09-21T19:23:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source audit, compliance, and financial governance layer for multi-provider LLM usage \u2014 answering who is responsibl",
-    "id": "ankurngm/AiFinOps",
-    "language": "TypeScript",
-    "name": "ankurngm/AiFinOps",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:05:26Z",
-    "url": "https://github.com/ankurngm/AiFinOps"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:04:52Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
   }
 ]
