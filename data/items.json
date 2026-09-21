@@ -1,12 +1,129 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25333,
+    "updated_at": "2026-09-21T14:29:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-21T14:27:47Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
+    "id": "gaurav-gandhi-2411/adk-tracegauge",
+    "language": "Python",
+    "name": "gaurav-gandhi-2411/adk-tracegauge",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:26:56Z",
+    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 118,
+    "updated_at": "2026-09-21T14:23:47Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22182,
+    "updated_at": "2026-09-21T14:23:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 484,
-    "updated_at": "2026-09-21T14:14:59Z",
+    "updated_at": "2026-09-21T14:25:37Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-21T14:25:06Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:22:24Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2047,
+    "updated_at": "2026-09-21T14:22:51Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-21T14:21:36Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:20:15Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:19:26Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
+    "id": "iraagarg/verdict",
+    "language": "Python",
+    "name": "iraagarg/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:17:27Z",
+    "url": "https://github.com/iraagarg/verdict"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T14:15:39Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -27,21 +144,12 @@
     "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2046,
-    "updated_at": "2026-09-21T14:15:16Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34893,
-    "updated_at": "2026-09-21T14:14:33Z",
+    "updated_at": "2026-09-21T14:30:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11562,
-    "updated_at": "2026-09-21T14:13:29Z",
+    "updated_at": "2026-09-21T14:16:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T14:08:33Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-21T14:14:49Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -149,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30270,
-    "updated_at": "2026-09-21T14:07:52Z",
+    "updated_at": "2026-09-21T14:19:13Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -158,7 +257,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1344,
-    "updated_at": "2026-09-21T14:15:35Z",
+    "updated_at": "2026-09-21T14:16:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:03:26Z",
     "url": "https://github.com/caitlin-leonard/agentic-finance-rag"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Juror-AI/juror",
-    "language": "TypeScript",
-    "name": "Juror-AI/juror",
-    "stars": 118,
-    "updated_at": "2026-09-21T14:03:21Z",
-    "url": "https://github.com/Juror-AI/juror"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -198,21 +288,12 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-21T14:15:12Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-09-21T14:02:25Z",
+    "updated_at": "2026-09-21T14:19:06Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -232,24 +313,6 @@
     "stars": 2863,
     "updated_at": "2026-09-21T14:01:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:12:52Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
   },
   {
     "description": "The open-source agent registry: every agent in your org gets an identity, a privilege set, a kill switch, and a ledger o",
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T13:54:29Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22181,
-    "updated_at": "2026-09-21T14:13:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1070,
-    "updated_at": "2026-09-21T14:03:00Z",
+    "updated_at": "2026-09-21T14:25:39Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T13:31:21Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25333,
-    "updated_at": "2026-09-21T13:30:04Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:27:20Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:21:08Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Open-source local policy, recovery, and audit layer for explicit Codex execution.",
-    "id": "MHW888888/aegisloop",
-    "language": "JavaScript",
-    "name": "MHW888888/aegisloop",
-    "stars": 20,
-    "updated_at": "2026-09-21T13:19:05Z",
-    "url": "https://github.com/MHW888888/aegisloop"
-  },
-  {
-    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
-    "id": "zenml-io/mcp-zenml",
-    "language": "Python",
-    "name": "zenml-io/mcp-zenml",
-    "stars": 49,
-    "updated_at": "2026-09-21T13:16:03Z",
-    "url": "https://github.com/zenml-io/mcp-zenml"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 158,
-    "updated_at": "2026-09-21T14:14:13Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
