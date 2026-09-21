@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 485,
-    "updated_at": "2026-09-21T19:00:17Z",
+    "updated_at": "2026-09-21T19:14:33Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 30,
+    "updated_at": "2026-09-21T19:13:22Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 18,
+    "updated_at": "2026-09-21T19:12:43Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59335,
+    "updated_at": "2026-09-21T19:13:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent \u4e0a\u4e0b\u6587\u538b\u7f29\u5f15\u64ce\uff08Java\uff09\u2014\u2014 \u5728\u5de5\u5177\u8f93\u51fa/\u65e5\u5fd7/RAG \u7247\u6bb5\u8fdb\u5165 LLM \u524d\u505a\u786e\u5b9a\u6027\u3001\u53ef\u5ba1\u8ba1\u3001\u5173\u952e\u4fe1\u606f\u96f6\u4e22\u5931\u7684\u538b\u7f29",
+    "id": "XIAOXUsop/ctxpress",
+    "language": "Java",
+    "name": "XIAOXUsop/ctxpress",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:10:12Z",
+    "url": "https://github.com/XIAOXUsop/ctxpress"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34906,
+    "updated_at": "2026-09-21T19:08:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30272,
+    "updated_at": "2026-09-21T19:14:14Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:03:15Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-21T19:02:25Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -18,21 +99,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59333,
-    "updated_at": "2026-09-21T19:00:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-21T18:54:38Z",
+    "updated_at": "2026-09-21T19:12:12Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -41,17 +113,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-21T18:54:36Z",
+    "updated_at": "2026-09-21T19:08:46Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 30,
-    "updated_at": "2026-09-21T18:55:57Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -59,35 +122,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11563,
-    "updated_at": "2026-09-21T18:51:09Z",
+    "updated_at": "2026-09-21T19:12:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34905,
-    "updated_at": "2026-09-21T18:53:20Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agent \u4e0a\u4e0b\u6587\u538b\u7f29\u5f15\u64ce\uff08Java\uff09\u2014\u2014 \u5728\u5de5\u5177\u8f93\u51fa/\u65e5\u5fd7/RAG \u7247\u6bb5\u8fdb\u5165 LLM \u524d\u505a\u786e\u5b9a\u6027\u3001\u53ef\u5ba1\u8ba1\u3001\u5173\u952e\u4fe1\u606f\u96f6\u4e22\u5931\u7684\u538b\u7f29",
-    "id": "XIAOXUsop/ctxpress",
-    "language": "Java",
-    "name": "XIAOXUsop/ctxpress",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:42:41Z",
-    "url": "https://github.com/XIAOXUsop/ctxpress"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-21T18:37:18Z",
+    "updated_at": "2026-09-21T19:14:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -306,21 +342,12 @@
     "url": "https://github.com/GaBySuGy/agent-guardrails"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-21T18:04:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 392,
-    "updated_at": "2026-09-21T18:43:53Z",
+    "updated_at": "2026-09-21T19:14:26Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -391,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 6953,
+    "stars": 6955,
     "updated_at": "2026-09-21T17:52:36Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2049,
-    "updated_at": "2026-09-21T17:49:06Z",
+    "updated_at": "2026-09-21T19:11:45Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T17:47:49Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30272,
-    "updated_at": "2026-09-21T18:34:43Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-21T17:42:15Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4847,
-    "updated_at": "2026-09-21T18:48:16Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
