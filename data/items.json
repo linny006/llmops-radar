@@ -1,21 +1,48 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34877,
+    "updated_at": "2026-09-21T07:58:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
     "id": "csdeepak/HandCode",
     "language": "Python",
     "name": "csdeepak/HandCode",
     "stars": 0,
-    "updated_at": "2026-09-21T07:44:57Z",
+    "updated_at": "2026-09-21T07:58:41Z",
     "url": "https://github.com/csdeepak/HandCode"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-21T07:57:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34874,
-    "updated_at": "2026-09-21T07:44:50Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-09-21T07:54:12Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2860,
+    "updated_at": "2026-09-21T07:51:07Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28065,
-    "updated_at": "2026-09-21T07:42:33Z",
+    "updated_at": "2026-09-21T08:00:10Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -40,9 +76,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59286,
+    "stars": 59289,
     "updated_at": "2026-09-21T07:37:30Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22175,
+    "updated_at": "2026-09-21T07:37:19Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -95,17 +140,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25324,
-    "updated_at": "2026-09-21T07:31:08Z",
+    "updated_at": "2026-09-21T07:48:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T07:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -135,15 +171,6 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22174,
-    "updated_at": "2026-09-21T07:37:19Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
     "id": "effecterelectricalplant87/LLM",
     "language": "\u2014",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T07:23:03Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-21T07:22:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -247,7 +265,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8205,
+    "stars": 8207,
     "updated_at": "2026-09-21T07:14:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 11991,
-    "updated_at": "2026-09-21T07:06:45Z",
+    "updated_at": "2026-09-21T07:59:14Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1343,
-    "updated_at": "2026-09-21T07:43:55Z",
+    "updated_at": "2026-09-21T07:47:52Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -403,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T06:33:29Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2860,
-    "updated_at": "2026-09-21T06:31:50Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -439,14 +448,5 @@
     "stars": 2371,
     "updated_at": "2026-09-21T06:20:00Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows",
-    "id": "melaya-labs/melaya",
-    "language": "Python",
-    "name": "melaya-labs/melaya",
-    "stars": 4,
-    "updated_at": "2026-09-21T06:19:02Z",
-    "url": "https://github.com/melaya-labs/melaya"
   }
 ]
