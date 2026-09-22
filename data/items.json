@@ -1,10 +1,100 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59404,
+    "updated_at": "2026-09-22T15:42:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 485,
+    "updated_at": "2026-09-22T15:42:13Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T15:37:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30286,
+    "updated_at": "2026-09-22T15:38:39Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34935,
+    "updated_at": "2026-09-22T15:33:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-22T15:45:26Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22195,
+    "updated_at": "2026-09-22T15:39:46Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Enterprise-grade Autonomous RAG & Document Intelligence Hub. Features hybrid BM25 + dense semantic retrieval, zero-hallu",
+    "id": "alphaxt/enterprise-rag-agent",
+    "language": "Python",
+    "name": "alphaxt/enterprise-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:31:58Z",
+    "url": "https://github.com/alphaxt/enterprise-rag-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T15:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 11996,
+    "updated_at": "2026-09-22T15:40:17Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8238,
+    "stars": 8237,
     "updated_at": "2026-09-22T15:27:36Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -18,21 +108,12 @@
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30286,
-    "updated_at": "2026-09-22T15:29:55Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4857,
-    "updated_at": "2026-09-22T15:30:14Z",
+    "updated_at": "2026-09-22T15:42:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:25:15Z",
     "url": "https://github.com/Ort0x36/deprecation-desk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59403,
-    "updated_at": "2026-09-22T15:25:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -90,21 +162,12 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34935,
-    "updated_at": "2026-09-22T15:22:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "OpenAI-compatible LLM gateway with guardrails, 3-level trajectory evals, a human-calibrated judge, OWASP red-team gates ",
     "id": "marcosmatalab/aegis",
     "language": "Python",
     "name": "marcosmatalab/aegis",
     "stars": 0,
-    "updated_at": "2026-09-22T15:22:45Z",
+    "updated_at": "2026-09-22T15:44:03Z",
     "url": "https://github.com/marcosmatalab/aegis"
   },
   {
@@ -112,7 +175,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8698,
+    "stars": 8697,
     "updated_at": "2026-09-22T15:19:35Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -133,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T15:18:38Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T15:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-09-22T15:14:29Z",
+    "updated_at": "2026-09-22T15:38:32Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -270,15 +324,6 @@
     "url": "https://github.com/Furkiozknn/prompt-template-manager"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 485,
-    "updated_at": "2026-09-22T15:26:25Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:54:16Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22195,
-    "updated_at": "2026-09-22T15:26:58Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "sarkarbikram90/airun-profiler",
     "stars": 3,
-    "updated_at": "2026-09-22T14:44:14Z",
+    "updated_at": "2026-09-22T15:33:31Z",
     "url": "https://github.com/sarkarbikram90/airun-profiler"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:41:05Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:40:51Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:38:38Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Enterprise-grade Autonomous RAG & Document Intelligence Hub. Features hybrid BM25 + dense semantic retrieval, zero-hallu",
-    "id": "alphaxt/enterprise-rag-agent",
-    "language": "Python",
-    "name": "alphaxt/enterprise-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:37:43Z",
-    "url": "https://github.com/alphaxt/enterprise-rag-agent"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:37:12Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
