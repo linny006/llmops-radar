@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:58:25Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "airun measures and optimizes the cost, latency, quality, and reliability of AI workloads.",
+    "id": "sarkarbikram90/airun-profiler",
+    "language": "Python",
+    "name": "sarkarbikram90/airun-profiler",
+    "stars": 3,
+    "updated_at": "2026-09-22T12:58:10Z",
+    "url": "https://github.com/sarkarbikram90/airun-profiler"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T12:56:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Async LLM client and RAG evaluation harness \u2014 bounded concurrency, retry with backoff, cost accounting, retrieval metric",
+    "id": "patricksardinha/llm-harness",
+    "language": "Python",
+    "name": "patricksardinha/llm-harness",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:53:15Z",
+    "url": "https://github.com/patricksardinha/llm-harness"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:52:45Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Open-source collector for AI agent traces \u2014 complete episodes, redacted in your VPC, stored as Parquet. By katyar.",
+    "id": "KatyarAILabs/trajectory",
+    "language": "Go",
+    "name": "KatyarAILabs/trajectory",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:51:28Z",
+    "url": "https://github.com/KatyarAILabs/trajectory"
+  },
+  {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
     "id": "yosnap/codeia-cost-guard",
     "language": "Python",
     "name": "yosnap/codeia-cost-guard",
     "stars": 0,
-    "updated_at": "2026-09-22T12:44:09Z",
+    "updated_at": "2026-09-22T12:47:18Z",
     "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8698,
+    "updated_at": "2026-09-22T12:46:52Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T12:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22193,
-    "updated_at": "2026-09-22T12:43:31Z",
+    "updated_at": "2026-09-22T12:58:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34928,
-    "updated_at": "2026-09-22T12:40:02Z",
+    "updated_at": "2026-09-22T13:00:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8236,
-    "updated_at": "2026-09-22T12:35:53Z",
+    "updated_at": "2026-09-22T12:55:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -77,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4857,
-    "updated_at": "2026-09-22T12:40:22Z",
+    "updated_at": "2026-09-22T12:54:03Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-09-22T12:30:47Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T12:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
@@ -113,35 +176,17 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2054,
-    "updated_at": "2026-09-22T12:42:32Z",
+    "updated_at": "2026-09-22T12:53:01Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-22T12:26:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25367,
+    "stars": 25369,
     "updated_at": "2026-09-22T12:25:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8698,
-    "updated_at": "2026-09-22T12:22:20Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -180,15 +225,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:08:13Z",
-    "url": "https://github.com/Josepavese/matrix"
-  },
-  {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
     "id": "peopleforrester/packt-agentic-devops",
     "language": "Python",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "marcosmatalab/aegis",
     "stars": 0,
-    "updated_at": "2026-09-22T12:40:01Z",
+    "updated_at": "2026-09-22T12:48:12Z",
     "url": "https://github.com/marcosmatalab/aegis"
   },
   {
@@ -265,18 +301,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59391,
+    "stars": 59393,
     "updated_at": "2026-09-22T11:39:43Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source collector for AI agent traces \u2014 complete episodes, redacted in your VPC, stored as Parquet. By katyar.",
-    "id": "KatyarAILabs/trajectory",
-    "language": "Go",
-    "name": "KatyarAILabs/trajectory",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:38:40Z",
-    "url": "https://github.com/KatyarAILabs/trajectory"
   },
   {
     "description": "Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T10:55:02Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:54:36Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-22T10:53:47Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-22T10:53:39Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
