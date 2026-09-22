@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28096,
+    "updated_at": "2026-09-22T13:14:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22193,
+    "updated_at": "2026-09-22T13:13:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11575,
+    "updated_at": "2026-09-22T13:11:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2871,
+    "updated_at": "2026-09-22T13:04:36Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 160,
+    "updated_at": "2026-09-22T13:10:25Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34928,
+    "updated_at": "2026-09-22T13:15:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59395,
+    "updated_at": "2026-09-22T13:01:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
     "id": "api-evangelist/agenta",
     "language": "\u2014",
@@ -9,7 +81,7 @@
     "url": "https://github.com/api-evangelist/agenta"
   },
   {
-    "description": "airun measures and optimizes the cost, latency, quality, and reliability of AI workloads.",
+    "description": "An open-source AI infrastructure profiler that connects AI workload telemetry to physical infrastructure behavior and ec",
     "id": "sarkarbikram90/airun-profiler",
     "language": "Python",
     "name": "sarkarbikram90/airun-profiler",
@@ -72,24 +144,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T12:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2871,
-    "updated_at": "2026-09-22T12:43:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -97,24 +151,6 @@
     "stars": 8,
     "updated_at": "2026-09-22T12:42:47Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22193,
-    "updated_at": "2026-09-22T12:58:39Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34928,
-    "updated_at": "2026-09-22T13:00:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source, self-hosted, production-ready and enterprise-level llm gateway  for multi LLM provider  access. OpenAI- and",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4857,
-    "updated_at": "2026-09-22T12:54:03Z",
+    "updated_at": "2026-09-22T13:13:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "marcosmatalab/aegis",
     "stars": 0,
-    "updated_at": "2026-09-22T12:48:12Z",
+    "updated_at": "2026-09-22T13:08:43Z",
     "url": "https://github.com/marcosmatalab/aegis"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:40:07Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59393,
-    "updated_at": "2026-09-22T11:39:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:00:19Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Public portfolio mirror of EvalForge \u2014 local-first AI evaluation engineering (proprietary license). Private working copy",
-    "id": "Kozphy/EvalForge",
-    "language": "Python",
-    "name": "Kozphy/EvalForge",
-    "stars": 1,
-    "updated_at": "2026-09-22T10:59:38Z",
-    "url": "https://github.com/Kozphy/EvalForge"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 21,
-    "updated_at": "2026-09-22T10:58:09Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:55:02Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
   }
 ]
