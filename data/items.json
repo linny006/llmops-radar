@@ -4,9 +4,36 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59419,
-    "updated_at": "2026-09-22T20:28:33Z",
+    "stars": 59420,
+    "updated_at": "2026-09-22T20:44:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:42:08Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Enterprise-grade RAG system focused on retrieval quality, reranking, guardrails, evaluation, and observability.",
+    "id": "vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application",
+    "language": "\u2014",
+    "name": "vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:40:48Z",
+    "url": "https://github.com/vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:40:20Z",
+    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "stdapi-ai/stdapi.ai",
     "stars": 24,
-    "updated_at": "2026-09-22T20:27:03Z",
+    "updated_at": "2026-09-22T20:40:53Z",
     "url": "https://github.com/stdapi-ai/stdapi.ai"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8242,
+    "updated_at": "2026-09-22T20:38:45Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
+    "id": "phantomic12/hx-harness",
+    "language": "Rust",
+    "name": "phantomic12/hx-harness",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:40:06Z",
+    "url": "https://github.com/phantomic12/hx-harness"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 486,
+    "updated_at": "2026-09-22T20:42:36Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11578,
+    "updated_at": "2026-09-22T20:38:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-22T20:43:25Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T20:30:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -27,13 +108,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8242,
-    "updated_at": "2026-09-22T20:26:05Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22199,
+    "updated_at": "2026-09-22T20:26:09Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -41,35 +122,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34944,
-    "updated_at": "2026-09-22T20:24:56Z",
+    "updated_at": "2026-09-22T20:35:13Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-22T20:18:52Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-22T20:27:54Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T20:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -79,15 +133,6 @@
     "stars": 1818,
     "updated_at": "2026-09-22T20:14:21Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11578,
-    "updated_at": "2026-09-22T20:29:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
@@ -180,21 +225,12 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22198,
-    "updated_at": "2026-09-22T20:26:09Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-22T19:34:00Z",
+    "updated_at": "2026-09-22T20:41:58Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 88,
-    "updated_at": "2026-09-22T20:02:43Z",
+    "updated_at": "2026-09-22T20:32:42Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T19:31:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
-    "id": "phantomic12/hx-harness",
-    "language": "Rust",
-    "name": "phantomic12/hx-harness",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:29:34Z",
-    "url": "https://github.com/phantomic12/hx-harness"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -360,15 +387,6 @@
     "url": "https://github.com/rodericklm1/determify"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 486,
-    "updated_at": "2026-09-22T20:19:57Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 573,
     "updated_at": "2026-09-22T18:44:25Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-22T18:44:17Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-22T18:42:44Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
