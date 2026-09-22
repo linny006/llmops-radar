@@ -1,12 +1,30 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-22T05:43:11Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langwatch/langwatch",
+    "stars": 4854,
+    "updated_at": "2026-09-22T06:00:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T05:59:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 0,
+    "updated_at": "2026-09-22T05:59:24Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59365,
-    "updated_at": "2026-09-22T05:45:05Z",
+    "updated_at": "2026-09-22T05:57:09Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-22T05:53:31Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-22T05:52:20Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2868,
+    "updated_at": "2026-09-22T05:49:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-22T05:48:45Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T05:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2050,
-    "updated_at": "2026-09-22T05:43:14Z",
+    "updated_at": "2026-09-22T05:59:51Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -54,30 +117,12 @@
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-22T05:36:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4854,
-    "updated_at": "2026-09-22T05:36:04Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11567,
-    "updated_at": "2026-09-22T05:37:47Z",
+    "updated_at": "2026-09-22T05:59:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T05:34:15Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-22T05:31:29Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T05:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8228,
-    "updated_at": "2026-09-22T05:25:31Z",
+    "updated_at": "2026-09-22T05:52:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28085,
-    "updated_at": "2026-09-22T05:39:23Z",
+    "updated_at": "2026-09-22T05:52:04Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -360,21 +387,12 @@
     "url": "https://github.com/quentincong/watchy"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-22T04:40:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-22T05:36:15Z",
+    "updated_at": "2026-09-22T05:49:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2868,
-    "updated_at": "2026-09-22T04:07:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 34,
     "updated_at": "2026-09-22T03:58:05Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Research-to-production AI model release control plane connecting post-training experiments, baseline/candidate evaluatio",
-    "id": "h00w/model-quality-release-gate",
-    "language": "Python",
-    "name": "h00w/model-quality-release-gate",
-    "stars": 4,
-    "updated_at": "2026-09-22T03:52:21Z",
-    "url": "https://github.com/h00w/model-quality-release-gate"
   }
 ]
