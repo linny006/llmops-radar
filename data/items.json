@@ -1,12 +1,111 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25361,
+    "updated_at": "2026-09-22T09:13:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
     "id": "Josepavese/matrix",
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 0,
-    "updated_at": "2026-09-22T09:00:07Z",
+    "updated_at": "2026-09-22T09:13:11Z",
     "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 88,
+    "updated_at": "2026-09-22T09:12:46Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Async LLM client and RAG evaluation harness \u2014 bounded concurrency, retry with backoff, cost accounting, retrieval metric",
+    "id": "patricksardinha/llm-harness",
+    "language": "Python",
+    "name": "patricksardinha/llm-harness",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:12:01Z",
+    "url": "https://github.com/patricksardinha/llm-harness"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-22T09:13:55Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2870,
+    "updated_at": "2026-09-22T09:07:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34922,
+    "updated_at": "2026-09-22T09:07:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-22T09:07:13Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 2,
+    "updated_at": "2026-09-22T09:01:49Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
+  },
+  {
+    "description": "Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals",
+    "id": "yosrikhiari/AgentOps",
+    "language": "Go",
+    "name": "yosrikhiari/AgentOps",
+    "stars": 1,
+    "updated_at": "2026-09-22T09:00:47Z",
+    "url": "https://github.com/yosrikhiari/AgentOps"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-22T09:00:40Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T09:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
@@ -41,17 +140,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59380,
-    "updated_at": "2026-09-22T08:58:28Z",
+    "updated_at": "2026-09-22T09:15:15Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals",
-    "id": "yosrikhiari/AgentOps",
-    "language": "Go",
-    "name": "yosrikhiari/AgentOps",
-    "stars": 1,
-    "updated_at": "2026-09-22T08:52:46Z",
-    "url": "https://github.com/yosrikhiari/AgentOps"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -61,15 +151,6 @@
     "stars": 4855,
     "updated_at": "2026-09-22T08:57:53Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34921,
-    "updated_at": "2026-09-22T09:00:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agentic Runtime",
@@ -99,31 +180,13 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T08:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-09-22T08:44:52Z",
+    "updated_at": "2026-09-22T09:13:33Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-22T08:41:01Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -131,7 +194,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-22T08:47:51Z",
+    "updated_at": "2026-09-22T09:11:00Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22191,
-    "updated_at": "2026-09-22T08:55:40Z",
+    "updated_at": "2026-09-22T09:15:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25359,
-    "updated_at": "2026-09-22T08:59:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -216,15 +270,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2870,
-    "updated_at": "2026-09-22T08:24:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 460,
     "updated_at": "2026-09-22T08:25:01Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 88,
-    "updated_at": "2026-09-22T08:15:20Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 160,
-    "updated_at": "2026-09-22T08:46:40Z",
+    "updated_at": "2026-09-22T09:02:59Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1347,
-    "updated_at": "2026-09-22T08:59:26Z",
+    "updated_at": "2026-09-22T09:10:56Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 132,
     "updated_at": "2026-09-22T08:59:18Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:15:27Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:14:55Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:14:54Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:14:40Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
