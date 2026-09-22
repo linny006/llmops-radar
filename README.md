@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 08:30 UTC
+> ⏰ Last updated: 2026-09-22 08:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,18 +43,18 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-22 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25356 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-22 | ThakiCloud Tech Blog |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59377 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2870 | C++ | 2026-09-22 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 6 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 460 | Python | 2026-09-22 | Keras based framework for neuro-symbolic LM systems |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34921 | TypeScript | 2026-09-22 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4855 | TypeScript | 2026-09-22 | The platform for LLM evaluations and AI agent testing |
-| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
-| 10 | [yosrikhiari/AgentOps](https://github.com/yosrikhiari/AgentOps) | 1 | Go | 2026-09-22 | Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals |
-| 11 | [akash-coded/aws-bedrock-agentcore-strands](https://github.com/akash-coded/aws-bedrock-agentcore-strands) | 2 | Jupyter Notebook | 2026-09-22 | Free hands-on curriculum for building production AI agents on AWS — Amazon Bedrock, AgentCore, Strands, LangGraph and RA |
-| 12 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22191 | Python | 2026-09-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 13 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34920 | TypeScript | 2026-09-22 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25356 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-22 | ThakiCloud Tech Blog |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59377 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2870 | C++ | 2026-09-22 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 8 | [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) | 460 | Python | 2026-09-22 | Keras based framework for neuro-symbolic LM systems |
+| 9 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4855 | TypeScript | 2026-09-22 | The platform for LLM evaluations and AI agent testing |
+| 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
+| 11 | [yosrikhiari/AgentOps](https://github.com/yosrikhiari/AgentOps) | 1 | Go | 2026-09-22 | Self-hosted LLM operations gateway in one Go binary: OpenAI-compatible router, durable agent tracker, faithfulness evals |
+| 12 | [akash-coded/aws-bedrock-agentcore-strands](https://github.com/akash-coded/aws-bedrock-agentcore-strands) | 2 | Jupyter Notebook | 2026-09-22 | Free hands-on curriculum for building production AI agents on AWS — Amazon Bedrock, AgentCore, Strands, LangGraph and RA |
+| 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22191 | Python | 2026-09-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 14 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 88 | Python | 2026-09-22 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
 | 15 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-09-22 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. TRUE recursiv |
 | 16 | [hamidettefagh/two-gates](https://github.com/hamidettefagh/two-gates) | 0 | JavaScript | 2026-09-22 | A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci |
