@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-22T09:59:10Z",
-    "url": "https://github.com/recetariodmix/garak"
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-22T10:14:54Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -14,8 +14,116 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1070,
-    "updated_at": "2026-09-22T09:58:53Z",
+    "updated_at": "2026-09-22T10:15:00Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:11:43Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-09-22T10:11:08Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22192,
+    "updated_at": "2026-09-22T10:11:36Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Production-grade LiteLLM gateway on Kubernetes: SLO alerts, autoscaling, chaos drills, verified locally with kind",
+    "id": "RosieOh/RoundHouse",
+    "language": "Python",
+    "name": "RosieOh/RoundHouse",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:07:40Z",
+    "url": "https://github.com/RosieOh/RoundHouse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25363,
+    "updated_at": "2026-09-22T10:06:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
+    "id": "sxueck/llm-gateway",
+    "language": "TypeScript",
+    "name": "sxueck/llm-gateway",
+    "stars": 52,
+    "updated_at": "2026-09-22T10:06:18Z",
+    "url": "https://github.com/sxueck/llm-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34924,
+    "updated_at": "2026-09-22T10:13:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 392,
+    "updated_at": "2026-09-22T10:05:15Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:03:16Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59383,
+    "updated_at": "2026-09-22T10:00:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T10:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:59:10Z",
+    "url": "https://github.com/recetariodmix/garak"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -36,6 +144,15 @@
     "url": "https://github.com/ENDEVSOLS/Long-Suite"
   },
   {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1348,
+    "updated_at": "2026-09-22T09:53:52Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -50,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4855,
-    "updated_at": "2026-09-22T09:57:57Z",
+    "updated_at": "2026-09-22T10:06:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,24 +189,6 @@
     "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T09:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 392,
-    "updated_at": "2026-09-22T09:55:54Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T09:44:40Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34924,
-    "updated_at": "2026-09-22T09:56:59Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Your prompts deserve git diff, not a database row. Templates as plain YAML, rendered through Jinja's SandboxedEnvironmen",
@@ -135,15 +225,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59382,
-    "updated_at": "2026-09-22T09:39:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
     "id": "zenml-io/mcp-zenml",
     "language": "Python",
@@ -158,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8235,
-    "updated_at": "2026-09-22T09:57:34Z",
+    "updated_at": "2026-09-22T10:15:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -169,15 +250,6 @@
     "stars": 71,
     "updated_at": "2026-09-22T09:39:48Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22192,
-    "updated_at": "2026-09-22T10:00:18Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -196,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-09-22T09:16:09Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25362,
-    "updated_at": "2026-09-22T09:58:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -234,15 +297,6 @@
     "url": "https://github.com/patricksardinha/llm-harness"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-22T09:20:19Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
     "id": "dr-gareth-roberts/insideLLMs",
     "language": "Python",
@@ -270,15 +324,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
-    "id": "sxueck/llm-gateway",
-    "language": "TypeScript",
-    "name": "sxueck/llm-gateway",
-    "stars": 52,
-    "updated_at": "2026-09-22T09:00:06Z",
-    "url": "https://github.com/sxueck/llm-gateway"
-  },
-  {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
     "id": "akash-coded/aws-bedrock-agentcore-strands",
     "language": "Jupyter Notebook",
@@ -286,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-09-22T08:59:33Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Production-grade LiteLLM gateway on Kubernetes: SLO alerts, autoscaling, chaos drills, verified locally with kind",
-    "id": "RosieOh/RoundHouse",
-    "language": "Python",
-    "name": "RosieOh/RoundHouse",
-    "stars": 0,
-    "updated_at": "2026-09-22T08:53:07Z",
-    "url": "https://github.com/RosieOh/RoundHouse"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -311,7 +347,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-22T09:46:29Z",
+    "updated_at": "2026-09-22T10:11:28Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-22T09:51:55Z",
+    "updated_at": "2026-09-22T10:12:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T07:55:48Z",
     "url": "https://github.com/yosnap/codeia-cost-guard"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 160,
-    "updated_at": "2026-09-22T09:52:00Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 116,
-    "updated_at": "2026-09-22T07:48:20Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:47:30Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1347,
-    "updated_at": "2026-09-22T09:53:52Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
