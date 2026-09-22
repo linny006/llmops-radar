@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 23:27 UTC
+> ⏰ Last updated: 2026-09-22 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 0 | Python | 2026-09-22 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
-| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-22 | ThakiCloud Tech Blog |
-| 3 | [mldogs/prompt-layers](https://github.com/mldogs/prompt-layers) | 0 | Python | 2026-09-22 | Roll out LLM agent prompts without forks or merge conflicts: base prompt + layers, every segment tested before rollout.  |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [YassirCher/reviewlens-ai](https://github.com/YassirCher/reviewlens-ai) | 0 | Python | 2026-09-22 | Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience |
-| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8245 | Go | 2026-09-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59422 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-22 | ThakiCloud Tech Blog |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59423 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 0 | Python | 2026-09-22 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
+| 5 | [mldogs/prompt-layers](https://github.com/mldogs/prompt-layers) | 0 | Python | 2026-09-22 | Roll out LLM agent prompts without forks or merge conflicts: base prompt + layers, every segment tested before rollout.  |
+| 6 | [YassirCher/reviewlens-ai](https://github.com/YassirCher/reviewlens-ai) | 0 | Python | 2026-09-22 | Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience |
+| 7 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8245 | Go | 2026-09-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
 | 8 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-09-22 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
 | 9 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-22 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 10 | [latere-ai/fornax](https://github.com/latere-ai/fornax) | 1 | Go | 2026-09-22 | Run open-weight models on GPUs you control. One Go binary freezes Hugging Face weights, serves OpenAI-, Anthropic- and R |
