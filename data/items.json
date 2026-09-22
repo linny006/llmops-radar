@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 160,
+    "updated_at": "2026-09-22T13:35:59Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8237,
+    "updated_at": "2026-09-22T13:35:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:35:11Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
+    "id": "peopleforrester/packt-agentic-devops",
+    "language": "Python",
+    "name": "peopleforrester/packt-agentic-devops",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:35:08Z",
+    "url": "https://github.com/peopleforrester/packt-agentic-devops"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34930,
+    "updated_at": "2026-09-22T13:38:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30283,
+    "updated_at": "2026-09-22T13:36:58Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59397,
+    "updated_at": "2026-09-22T13:31:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:30:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22193,
-    "updated_at": "2026-09-22T13:28:02Z",
+    "updated_at": "2026-09-22T13:38:30Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8236,
-    "updated_at": "2026-09-22T13:21:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T13:21:51Z",
     "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34927,
-    "updated_at": "2026-09-22T13:28:38Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open-source agent registry: every agent in your org gets an identity, a privilege set, a kill switch, and a ledger o",
@@ -81,15 +135,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -115,24 +160,6 @@
     "stars": 2871,
     "updated_at": "2026-09-22T13:19:49Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 160,
-    "updated_at": "2026-09-22T13:17:52Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59395,
-    "updated_at": "2026-09-22T13:23:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "Nelsonlin0321/llm-gateway",
     "stars": 4,
-    "updated_at": "2026-09-22T12:40:01Z",
+    "updated_at": "2026-09-22T13:35:46Z",
     "url": "https://github.com/Nelsonlin0321/llm-gateway"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 70,
     "updated_at": "2026-09-22T12:37:58Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30283,
-    "updated_at": "2026-09-22T12:37:14Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2054,
-    "updated_at": "2026-09-22T13:19:44Z",
+    "updated_at": "2026-09-22T13:36:15Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Python",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:03:34Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -365,7 +374,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-22T13:28:53Z",
+    "updated_at": "2026-09-22T13:36:18Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:17:41Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:13:02Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
