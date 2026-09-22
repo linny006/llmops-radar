@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 20:45 UTC
+> ⏰ Last updated: 2026-09-22 20:50 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59420 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [Peter-A-P/ai-release-gate](https://github.com/Peter-A-P/ai-release-gate) | 0 | Python | 2026-09-22 | No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating, |
-| 3 | [vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application](https://github.com/vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application) | 0 | — | 2026-09-22 | Enterprise-grade RAG system focused on retrieval quality, reranking, guardrails, evaluation, and observability. |
-| 4 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-09-22 | Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt — no  |
-| 5 | [stdapi-ai/stdapi.ai](https://github.com/stdapi-ai/stdapi.ai) | 24 | Python | 2026-09-22 | Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran |
-| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8242 | Go | 2026-09-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 7 | [phantomic12/hx-harness](https://github.com/phantomic12/hx-harness) | 0 | Rust | 2026-09-22 | An agent harness in Rust — remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API. |
-| 8 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 486 | Python | 2026-09-22 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11578 | Python | 2026-09-22 | AI Observability & Evaluation |
-| 10 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
+| 2 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 3 | [Peter-A-P/ai-release-gate](https://github.com/Peter-A-P/ai-release-gate) | 0 | Python | 2026-09-22 | No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating, |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59420 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application](https://github.com/vardhan9/Enterprise-Grade-Scalable-Advance-RAG-Application) | 0 | Python | 2026-09-22 | Enterprise-grade RAG system focused on retrieval quality, reranking, guardrails, evaluation, and observability. |
+| 6 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 486 | Python | 2026-09-22 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 8 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-09-22 | Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt — no  |
+| 9 | [stdapi-ai/stdapi.ai](https://github.com/stdapi-ai/stdapi.ai) | 24 | Python | 2026-09-22 | Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11579 | Python | 2026-09-22 | AI Observability & Evaluation |
+| 11 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8242 | Go | 2026-09-22 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 12 | [phantomic12/hx-harness](https://github.com/phantomic12/hx-harness) | 0 | Rust | 2026-09-22 | An agent harness in Rust — remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API. |
 | 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22199 | Python | 2026-09-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 14 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34944 | TypeScript | 2026-09-22 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
 | 15 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1818 | Python | 2026-09-22 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
