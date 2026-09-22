@@ -1,12 +1,84 @@
 [
   {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-09-22T09:23:12Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-22T09:22:56Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59381,
+    "updated_at": "2026-09-22T09:28:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2870,
+    "updated_at": "2026-09-22T09:22:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34923,
+    "updated_at": "2026-09-22T09:25:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8234,
+    "updated_at": "2026-09-22T09:29:55Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-22T09:16:09Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25361,
-    "updated_at": "2026-09-22T09:13:43Z",
+    "stars": 25362,
+    "updated_at": "2026-09-22T09:16:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T09:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -41,26 +113,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-22T09:13:55Z",
+    "updated_at": "2026-09-22T09:20:19Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2870,
-    "updated_at": "2026-09-22T09:07:31Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34922,
-    "updated_at": "2026-09-22T09:07:30Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -99,15 +153,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T09:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Lightweight distributed LLM gateway w/ web UI for model mgmt & routing. Supports vibe programming, prompt opt., & optimi",
     "id": "sxueck/llm-gateway",
     "language": "TypeScript",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T08:53:07Z",
     "url": "https://github.com/RosieOh/RoundHouse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59380,
-    "updated_at": "2026-09-22T09:15:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -178,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-09-22T08:46:44Z",
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-09-22T09:13:33Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22191,
-    "updated_at": "2026-09-22T09:15:30Z",
+    "updated_at": "2026-09-22T09:23:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T08:26:47Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8232,
-    "updated_at": "2026-09-22T08:56:50Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Keras based framework for neuro-symbolic LM systems",
@@ -302,7 +320,7 @@
     "language": "Vue",
     "name": "islomkhon/CerebrumKit",
     "stars": 2,
-    "updated_at": "2026-09-22T07:57:07Z",
+    "updated_at": "2026-09-22T09:18:57Z",
     "url": "https://github.com/islomkhon/CerebrumKit"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 160,
-    "updated_at": "2026-09-22T09:02:59Z",
+    "updated_at": "2026-09-22T09:24:30Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -342,21 +360,12 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-22T07:35:08Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1347,
-    "updated_at": "2026-09-22T09:10:56Z",
+    "updated_at": "2026-09-22T09:27:49Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T07:17:34Z",
     "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 132,
-    "updated_at": "2026-09-22T08:59:18Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
   }
 ]
