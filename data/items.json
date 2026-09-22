@@ -1,12 +1,66 @@
 [
   {
+    "description": "Agent \u4e0a\u4e0b\u6587\u538b\u7f29\u5f15\u64ce\uff08Java\uff09\u2014\u2014 \u5728\u5de5\u5177\u8f93\u51fa/\u65e5\u5fd7/RAG \u7247\u6bb5\u8fdb\u5165 LLM \u524d\u505a\u786e\u5b9a\u6027\u3001\u53ef\u5ba1\u8ba1\u3001\u5173\u952e\u4fe1\u606f\u96f6\u4e22\u5931\u7684\u538b\u7f29",
+    "id": "XIAOXUsop/ctxpress",
+    "language": "Java",
+    "name": "XIAOXUsop/ctxpress",
+    "stars": 0,
+    "updated_at": "2026-09-22T04:13:38Z",
+    "url": "https://github.com/XIAOXUsop/ctxpress"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59358,
-    "updated_at": "2026-09-22T03:59:40Z",
+    "stars": 59361,
+    "updated_at": "2026-09-22T04:15:08Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T04:12:43Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-22T04:08:55Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "C++",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2867,
+    "updated_at": "2026-09-22T04:07:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-22T04:05:11Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T04:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28086,
-    "updated_at": "2026-09-22T03:58:53Z",
+    "updated_at": "2026-09-22T04:05:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 34,
     "updated_at": "2026-09-22T03:58:05Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "C++",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2867,
-    "updated_at": "2026-09-22T03:57:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
@@ -54,13 +99,13 @@
     "url": "https://github.com/h00w/model-quality-release-gate"
   },
   {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-22T03:48:02Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4854,
+    "updated_at": "2026-09-22T04:11:38Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval",
@@ -70,24 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T03:47:49Z",
     "url": "https://github.com/h00w/agentic-ai"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-22T03:45:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1346,
-    "updated_at": "2026-09-22T03:59:10Z",
+    "updated_at": "2026-09-22T04:12:33Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-22T03:22:19Z",
+    "updated_at": "2026-09-22T04:03:07Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T02:30:59Z",
     "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 81,
-    "updated_at": "2026-09-22T03:57:46Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4853,
-    "updated_at": "2026-09-22T03:50:45Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3030,
-    "updated_at": "2026-09-22T03:58:25Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
   }
 ]
