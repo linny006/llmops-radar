@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 00:30 UTC
+> ⏰ Last updated: 2026-09-22 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,16 +43,16 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59347 | Python | 2026-09-22 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22184 | Python | 2026-09-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
+| 2 | [cristianodabc/aludel](https://github.com/cristianodabc/aludel) | 37 | Elixir | 2026-09-22 | Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir |
+| 3 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-22 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-22 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [cristianodabc/aludel](https://github.com/cristianodabc/aludel) | 37 | Elixir | 2026-09-22 | Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir |
-| 6 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11566 | Python | 2026-09-22 | AI Observability & Evaluation |
-| 8 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30277 | TypeScript | 2026-09-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 9 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-09-22 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
-| 10 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-09-22 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
-| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-21 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22185 | Python | 2026-09-22 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 39 | Go | 2026-09-22 | Agentic Runtime |
+| 7 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11566 | Python | 2026-09-22 | AI Observability & Evaluation |
+| 9 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30277 | TypeScript | 2026-09-22 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 10 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-09-22 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
+| 11 | [alexvervloet/knowledge-desk](https://github.com/alexvervloet/knowledge-desk) | 1 | Python | 2026-09-22 | Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app:  |
 | 12 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-09-21 | Generative AI proxy, with cost ledger and crash safety baked in. |
 | 13 | [rodericklm1/determify](https://github.com/rodericklm1/determify) | 1 | Python | 2026-09-21 | Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t |
 | 14 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8692 | Rust | 2026-09-21 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [phantomic12/hx-harness](https://github.com/phantomic12/hx-harness) | 0 | Rust | 2026-09-21 | An agent harness in Rust — remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API. |
 | 39 | [Lukaa1507/langchain-runner](https://github.com/Lukaa1507/langchain-runner) | 1 | Python | 2026-09-21 | 🚀 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers |
 | 40 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-09-21 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 41 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 81 | Python | 2026-09-21 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 41 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 81 | Python | 2026-09-22 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 42 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-09-21 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
 | 43 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 4 | Python | 2026-09-21 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 44 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34910 | TypeScript | 2026-09-21 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
