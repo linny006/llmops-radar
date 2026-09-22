@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:15:19Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T18:14:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59413,
+    "updated_at": "2026-09-22T18:11:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-22T18:11:06Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:10:00Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:05:51Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-09-22T18:05:42Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-22T18:05:41Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -18,6 +99,15 @@
     "url": "https://github.com/iblai/os"
   },
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 6998,
+    "updated_at": "2026-09-22T18:11:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "The Project for the Course : DS5619 MLOPS",
     "id": "SreenathKarthick11/Sage-Serve",
     "language": "Jupyter Notebook",
@@ -27,30 +117,12 @@
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-22T17:53:47Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59412,
-    "updated_at": "2026-09-22T18:00:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-22T17:49:47Z",
+    "updated_at": "2026-09-22T18:07:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -81,29 +153,11 @@
     "url": "https://github.com/floatsmyboat/inferwatch"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 6997,
-    "updated_at": "2026-09-22T17:54:57Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T17:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34940,
+    "stars": 34941,
     "updated_at": "2026-09-22T17:44:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -117,21 +171,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-22T17:56:43Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22198,
-    "updated_at": "2026-09-22T17:54:24Z",
+    "updated_at": "2026-09-22T18:12:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,17 +257,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-22T17:08:48Z",
+    "updated_at": "2026-09-22T18:15:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-22T17:08:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25371,
-    "updated_at": "2026-09-22T16:41:19Z",
+    "updated_at": "2026-09-22T18:11:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 486,
-    "updated_at": "2026-09-22T17:45:59Z",
+    "updated_at": "2026-09-22T18:13:54Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11577,
-    "updated_at": "2026-09-22T17:20:27Z",
+    "updated_at": "2026-09-22T18:12:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2056,
-    "updated_at": "2026-09-22T18:00:00Z",
+    "updated_at": "2026-09-22T18:11:24Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T15:23:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "OpenAI-compatible LLM gateway with guardrails, 3-level trajectory evals, a human-calibrated judge, OWASP red-team gates ",
-    "id": "marcosmatalab/aegis",
-    "language": "Python",
-    "name": "marcosmatalab/aegis",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:44:03Z",
-    "url": "https://github.com/marcosmatalab/aegis"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:20:23Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-22T15:18:38Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
-    "id": "poojithdevan4D/InferPilot",
-    "language": "Python",
-    "name": "poojithdevan4D/InferPilot",
-    "stars": 2,
-    "updated_at": "2026-09-22T15:15:12Z",
-    "url": "https://github.com/poojithdevan4D/InferPilot"
   }
 ]
