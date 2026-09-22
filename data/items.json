@@ -1,21 +1,12 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4854,
-    "updated_at": "2026-09-22T06:00:08Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-22T05:59:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-22T06:14:49Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
@@ -23,26 +14,71 @@
     "language": "Python",
     "name": "yosnap/codeia-cost-guard",
     "stars": 0,
-    "updated_at": "2026-09-22T05:59:24Z",
+    "updated_at": "2026-09-22T06:13:06Z",
     "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8228,
+    "updated_at": "2026-09-22T06:12:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25353,
+    "updated_at": "2026-09-22T06:14:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28088,
+    "updated_at": "2026-09-22T06:11:24Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59365,
-    "updated_at": "2026-09-22T05:57:09Z",
+    "stars": 59367,
+    "updated_at": "2026-09-22T06:15:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-22T05:53:31Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-22T06:03:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4854,
+    "updated_at": "2026-09-22T06:04:17Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -72,21 +108,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2050,
-    "updated_at": "2026-09-22T05:59:51Z",
+    "updated_at": "2026-09-22T06:11:55Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11567,
-    "updated_at": "2026-09-22T05:59:28Z",
+    "updated_at": "2026-09-22T06:03:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-09-22T05:34:15Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8693,
+    "updated_at": "2026-09-22T05:30:12Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T05:25:53Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8228,
-    "updated_at": "2026-09-22T05:52:54Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28085,
-    "updated_at": "2026-09-22T05:52:04Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "AI runtime control layer for enforcing spend, tool, and execution policy in production AI apps.",
     "id": "8dazo/captor",
     "language": "TypeScript",
@@ -392,17 +410,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-22T05:49:23Z",
+    "updated_at": "2026-09-22T06:09:10Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8694,
-    "updated_at": "2026-09-22T05:30:12Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Kubernetes-native control plane for deploying, governing, and observing AI agents \u2014 CRDs, guardrails, approvals, evals, ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T04:08:55Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 34,
-    "updated_at": "2026-09-22T03:58:05Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
   }
 ]
