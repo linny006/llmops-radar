@@ -5,8 +5,107 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8271,
-    "updated_at": "2026-09-23T12:30:04Z",
+    "updated_at": "2026-09-23T12:45:05Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-23T12:44:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-09-23T12:44:20Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59469,
+    "updated_at": "2026-09-23T12:43:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Plugins as organs for DeepSeek Harness: nerve impulses route each command, a heartbeat circulates state, reflex arcs fir",
+    "id": "1420079678-ctrl/agent-body",
+    "language": "TypeScript",
+    "name": "1420079678-ctrl/agent-body",
+    "stars": 7,
+    "updated_at": "2026-09-23T12:43:29Z",
+    "url": "https://github.com/1420079678-ctrl/agent-body"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-23T12:41:00Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-23T12:39:40Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22204,
+    "updated_at": "2026-09-23T12:44:10Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 50,
+    "updated_at": "2026-09-23T12:36:01Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4862,
+    "updated_at": "2026-09-23T12:35:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Drop-in safety & quality layer for LLM apps and AI agents: blocks prompt injection, redacts PII, scores agents with a",
+    "id": "marcosmatalab/aegis",
+    "language": "Python",
+    "name": "marcosmatalab/aegis",
+    "stars": 0,
+    "updated_at": "2026-09-23T12:30:57Z",
+    "url": "https://github.com/marcosmatalab/aegis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T12:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -18,20 +117,11 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-23T12:27:17Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
-    "stars": 753,
+    "stars": 754,
     "updated_at": "2026-09-23T12:26:47Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
@@ -40,8 +130,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34965,
-    "updated_at": "2026-09-23T12:24:57Z",
+    "stars": 34966,
+    "updated_at": "2026-09-23T12:40:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -63,30 +153,12 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Organ-based agent plugin platform for DeepSeek Harness - 26 cataloged organs realised by 23 plugins: nerve impulses, a h",
-    "id": "1420079678-ctrl/agent-body",
-    "language": "TypeScript",
-    "name": "1420079678-ctrl/agent-body",
-    "stars": 7,
-    "updated_at": "2026-09-23T12:18:57Z",
-    "url": "https://github.com/1420079678-ctrl/agent-body"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-09-23T12:25:42Z",
-    "url": "https://github.com/Josepavese/matrix"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 88,
-    "updated_at": "2026-09-23T12:18:15Z",
+    "updated_at": "2026-09-23T12:44:16Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -117,49 +189,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22204,
-    "updated_at": "2026-09-23T12:29:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
     "id": "storm-software/mindctl",
     "language": "Go",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-09-23T12:15:40Z",
+    "updated_at": "2026-09-23T12:41:30Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T12:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59467,
-    "updated_at": "2026-09-23T12:28:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-23T12:12:50Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -198,15 +234,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "\ud83d\udee1\ufe0f Drop-in safety & quality layer for LLM apps and AI agents: blocks prompt injection, redacts PII, scores agents with a",
-    "id": "marcosmatalab/aegis",
-    "language": "Python",
-    "name": "marcosmatalab/aegis",
-    "stars": 0,
-    "updated_at": "2026-09-23T11:55:08Z",
-    "url": "https://github.com/marcosmatalab/aegis"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T11:46:28Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4861,
-    "updated_at": "2026-09-23T11:45:47Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T11:23:05Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-09-23T11:23:03Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2059,
-    "updated_at": "2026-09-23T12:14:26Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
