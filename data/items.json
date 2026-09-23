@@ -1,12 +1,129 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8264,
+    "updated_at": "2026-09-23T09:15:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:13:52Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-23T09:13:25Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:12:04Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 487,
+    "updated_at": "2026-09-23T09:11:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Organ-based agent plugin platform for DeepSeek Harness - 26 cataloged organs realised by 23 plugins: nerve impulses, a h",
+    "id": "1420079678-ctrl/agent-body",
+    "language": "TypeScript",
+    "name": "1420079678-ctrl/agent-body",
+    "stars": 7,
+    "updated_at": "2026-09-23T09:05:29Z",
+    "url": "https://github.com/1420079678-ctrl/agent-body"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:04:07Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "\ud83e\udde0  An LLM router that uses built-in logic and the Jev system one model to intelligently route requests to the appropriat",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:03:30Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-23T09:03:18Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22202,
-    "updated_at": "2026-09-23T09:00:23Z",
+    "updated_at": "2026-09-23T09:10:00Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:02:58Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34956,
+    "updated_at": "2026-09-23T09:15:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 50,
+    "updated_at": "2026-09-23T09:05:07Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T09:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -25,42 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T08:59:42Z",
     "url": "https://github.com/instruxi-io/enforcer-governor"
-  },
-  {
-    "description": "\ud83e\udde0  An LLM router that uses built-in logic and the Jev system one model to intelligently route requests to the appropriat",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:59:26Z",
-    "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8263,
-    "updated_at": "2026-09-23T09:00:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34956,
-    "updated_at": "2026-09-23T08:58:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:58:16Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -90,24 +171,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-23T08:55:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:55:16Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
     "id": "akash-coded/aws-bedrock-agentcore-strands",
     "language": "Jupyter Notebook",
@@ -115,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-09-23T08:51:55Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11584,
+    "updated_at": "2026-09-23T08:50:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -131,17 +203,8 @@
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 0,
-    "updated_at": "2026-09-23T08:49:01Z",
+    "updated_at": "2026-09-23T09:04:08Z",
     "url": "https://github.com/Josepavese/matrix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T08:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59455,
-    "updated_at": "2026-09-23T08:55:49Z",
+    "updated_at": "2026-09-23T09:08:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2058,
-    "updated_at": "2026-09-23T08:49:04Z",
+    "updated_at": "2026-09-23T09:07:25Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 162,
-    "updated_at": "2026-09-23T08:31:21Z",
+    "updated_at": "2026-09-23T09:13:16Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T08:19:53Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 50,
-    "updated_at": "2026-09-23T08:53:28Z",
-    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -306,15 +360,6 @@
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 487,
-    "updated_at": "2026-09-23T09:00:10Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
     "id": "Traciewheelless86/sentiment-analysis-nlp-api",
     "language": "Python",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1348,
-    "updated_at": "2026-09-23T08:59:06Z",
+    "updated_at": "2026-09-23T09:14:13Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -382,7 +427,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7022,
+    "stars": 7023,
     "updated_at": "2026-09-23T07:26:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T07:23:38Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:20:56Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-09-23T07:19:30Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:19:28Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-09-23T07:19:28Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Ba",
-    "id": "nano-step/eval-harness",
-    "language": "Shell",
-    "name": "nano-step/eval-harness",
-    "stars": 13,
-    "updated_at": "2026-09-23T07:19:11Z",
-    "url": "https://github.com/nano-step/eval-harness"
   }
 ]
