@@ -1,12 +1,66 @@
 [
   {
+    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
+    "id": "derickturner-hub/multi-agent-fulfillment-engine",
+    "language": "JavaScript",
+    "name": "derickturner-hub/multi-agent-fulfillment-engine",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:15:19Z",
+    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59491,
+    "updated_at": "2026-09-23T21:13:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 89,
+    "updated_at": "2026-09-23T21:13:24Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "Python",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:09:58Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-09-23T20:58:06Z",
+    "updated_at": "2026-09-23T21:09:49Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:07:31Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-23T21:07:18Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Streaming civic-data pipeline: Chicago 311 events \u2192 Kafka \u2192 Claude LLM urgency classification (Langfuse-traced) \u2192 Snowfl",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "tjromack/open311-pipeline",
     "stars": 0,
-    "updated_at": "2026-09-23T20:57:28Z",
+    "updated_at": "2026-09-23T21:07:10Z",
     "url": "https://github.com/tjromack/open311-pipeline"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-23T21:06:11Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -23,8 +86,35 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3571,
-    "updated_at": "2026-09-23T20:56:24Z",
+    "updated_at": "2026-09-23T21:04:38Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-23T21:03:30Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-23T21:02:20Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T21:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -34,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T20:56:22Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
-    "id": "derickturner-hub/multi-agent-fulfillment-engine",
-    "language": "JavaScript",
-    "name": "derickturner-hub/multi-agent-fulfillment-engine",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:54:58Z",
-    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59490,
-    "updated_at": "2026-09-23T20:58:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -70,24 +142,6 @@
     "stars": 34979,
     "updated_at": "2026-09-23T20:58:58Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T20:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:55:38Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8286,
-    "updated_at": "2026-09-23T20:54:36Z",
+    "updated_at": "2026-09-23T21:12:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 8711,
     "updated_at": "2026-09-23T20:08:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "TypeScript",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:08:28Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
@@ -288,15 +333,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 81,
-    "updated_at": "2026-09-23T20:57:34Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
     "id": "Peter-A-P/ai-release-gate",
     "language": "Python",
@@ -311,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-23T20:53:48Z",
+    "updated_at": "2026-09-23T21:02:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11591,
-    "updated_at": "2026-09-23T20:40:45Z",
+    "updated_at": "2026-09-23T21:12:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:59:14Z",
     "url": "https://github.com/guilsa/codex-shell-observer"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2882,
-    "updated_at": "2026-09-23T18:54:59Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28119,
-    "updated_at": "2026-09-23T18:54:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:50:53Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-23T18:51:36Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
