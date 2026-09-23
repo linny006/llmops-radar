@@ -1,39 +1,21 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8262,
-    "updated_at": "2026-09-23T08:15:06Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59449,
-    "updated_at": "2026-09-23T08:14:25Z",
+    "stars": 59452,
+    "updated_at": "2026-09-23T08:29:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 50,
-    "updated_at": "2026-09-23T08:08:14Z",
-    "url": "https://github.com/infercrane/infercrane"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22202,
-    "updated_at": "2026-09-23T08:14:53Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34954,
+    "updated_at": "2026-09-23T08:28:06Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -41,8 +23,98 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2879,
-    "updated_at": "2026-09-23T08:07:47Z",
+    "updated_at": "2026-09-23T08:26:56Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:26:19Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-23T08:26:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22202,
+    "updated_at": "2026-09-23T08:28:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8262,
+    "updated_at": "2026-09-23T08:26:43Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 2,
+    "updated_at": "2026-09-23T08:23:41Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 112,
+    "updated_at": "2026-09-23T08:22:56Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:19:53Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T08:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 162,
+    "updated_at": "2026-09-23T08:13:27Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 50,
+    "updated_at": "2026-09-23T08:26:46Z",
+    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -52,33 +124,6 @@
     "stars": 5744,
     "updated_at": "2026-09-23T08:07:22Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 2,
-    "updated_at": "2026-09-23T08:05:03Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T08:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34952,
-    "updated_at": "2026-09-23T08:02:38Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
@@ -117,15 +162,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:56:38Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 487,
-    "updated_at": "2026-09-23T08:02:44Z",
+    "updated_at": "2026-09-23T08:28:42Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1348,
-    "updated_at": "2026-09-23T08:07:36Z",
+    "updated_at": "2026-09-23T08:18:30Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T07:27:44Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-23T07:27:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -396,15 +423,6 @@
     "url": "https://github.com/bharion1/analytics-dashboard"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 112,
-    "updated_at": "2026-09-23T07:07:52Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
     "id": "sedai194443/langfuse-go",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T07:00:53Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-23T07:00:28Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12003,
-    "updated_at": "2026-09-23T08:15:09Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
