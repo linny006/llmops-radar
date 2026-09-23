@@ -1,21 +1,156 @@
 [
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 394,
+    "updated_at": "2026-09-23T15:29:45Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
+    "id": "rozario-1234/end2end_sample",
+    "language": "TypeScript",
+    "name": "rozario-1234/end2end_sample",
+    "stars": 1,
+    "updated_at": "2026-09-23T15:27:52Z",
+    "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
+    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
+    "id": "KewalPra/agent-sdk",
+    "language": "Python",
+    "name": "KewalPra/agent-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-23T15:26:59Z",
+    "url": "https://github.com/KewalPra/agent-sdk"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
     "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-23T15:14:51Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
+    "name": "api7/aisix",
+    "stars": 162,
+    "updated_at": "2026-09-23T15:26:45Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11586,
+    "updated_at": "2026-09-23T15:30:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
+    "id": "rsaudio/second-brain",
+    "language": "\u2014",
+    "name": "rsaudio/second-brain",
+    "stars": 1,
+    "updated_at": "2026-09-23T15:26:39Z",
+    "url": "https://github.com/rsaudio/second-brain"
+  },
+  {
+    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
+    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "language": "Python",
+    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "stars": 2,
+    "updated_at": "2026-09-23T15:25:09Z",
+    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-23T15:25:07Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59477,
-    "updated_at": "2026-09-23T15:14:35Z",
+    "stars": 59478,
+    "updated_at": "2026-09-23T15:28:45Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-09-23T15:24:58Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-23T15:22:33Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-09-23T15:22:28Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22206,
+    "updated_at": "2026-09-23T15:22:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 18,
+    "updated_at": "2026-09-23T15:21:24Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-23T15:19:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T15:15:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-23T15:15:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -23,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34970,
-    "updated_at": "2026-09-23T15:13:18Z",
+    "updated_at": "2026-09-23T15:29:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -36,31 +171,13 @@
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-23T15:12:21Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22205,
-    "updated_at": "2026-09-23T15:11:52Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 394,
-    "updated_at": "2026-09-23T15:15:17Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25398,
+    "updated_at": "2026-09-23T15:12:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Async LLM client and RAG evaluation harness \u2014 bounded concurrency, retry with backoff, cost accounting, retrieval metric",
@@ -108,31 +225,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T15:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8276,
-    "updated_at": "2026-09-23T14:58:53Z",
+    "updated_at": "2026-09-23T15:27:37Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11586,
-    "updated_at": "2026-09-23T15:14:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -149,7 +248,7 @@
     "language": "Python",
     "name": "ha7n23/careerops-agent-engine",
     "stars": 0,
-    "updated_at": "2026-09-23T14:56:25Z",
+    "updated_at": "2026-09-23T15:17:22Z",
     "url": "https://github.com/ha7n23/careerops-agent-engine"
   },
   {
@@ -160,15 +259,6 @@
     "stars": 88,
     "updated_at": "2026-09-23T14:56:12Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25397,
-    "updated_at": "2026-09-23T15:12:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -205,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-09-23T14:49:06Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-23T14:47:54Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2061,
-    "updated_at": "2026-09-23T15:07:51Z",
+    "updated_at": "2026-09-23T15:25:22Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -329,7 +410,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30293,
-    "updated_at": "2026-09-23T15:06:17Z",
+    "updated_at": "2026-09-23T15:29:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -347,7 +428,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-09-23T15:07:47Z",
+    "updated_at": "2026-09-23T15:23:50Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T13:57:26Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Roll out LLM agent prompts without forks or merge conflicts: base prompt + layers, every segment tested before rollout. ",
-    "id": "mldogs/prompt-layers",
-    "language": "Python",
-    "name": "mldogs/prompt-layers",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:55:12Z",
-    "url": "https://github.com/mldogs/prompt-layers"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:53:30Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:52:35Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:52:02Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:52:01Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:50:35Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:49:46Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-23T13:48:45Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:46:33Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
