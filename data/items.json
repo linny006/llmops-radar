@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
-    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:13:29Z",
-    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Helps ChatGPT keep uploaded files, chat history, instructions, hypotheses, drafts, and model assumptions separate in lon",
+    "id": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59494,
-    "updated_at": "2026-09-23T22:15:25Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:29:21Z",
+    "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -23,8 +14,62 @@
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 0,
-    "updated_at": "2026-09-23T22:08:11Z",
+    "updated_at": "2026-09-23T22:29:35Z",
     "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 298,
+    "updated_at": "2026-09-23T22:25:30Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59494,
+    "updated_at": "2026-09-23T22:30:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:23:44Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Type-safe JEV eval infrastructure for Claude Code and agentic software",
+    "id": "Rikinshah787/evalos",
+    "language": "TypeScript",
+    "name": "Rikinshah787/evalos",
+    "stars": 2,
+    "updated_at": "2026-09-23T22:18:15Z",
+    "url": "https://github.com/Rikinshah787/evalos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T22:16:01Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
+    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:13:29Z",
+    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T22:00:29Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T22:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-23T21:50:00Z",
+    "updated_at": "2026-09-23T22:25:52Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-23T21:23:02Z",
+    "updated_at": "2026-09-23T22:27:48Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 89,
-    "updated_at": "2026-09-23T22:11:34Z",
+    "updated_at": "2026-09-23T22:19:52Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8286,
-    "updated_at": "2026-09-23T21:12:20Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:09:58Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-23T21:09:49Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:07:31Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
   }
 ]
