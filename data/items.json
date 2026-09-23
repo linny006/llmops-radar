@@ -1,12 +1,30 @@
 [
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-23T20:58:06Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Streaming civic-data pipeline: Chicago 311 events \u2192 Kafka \u2192 Claude LLM urgency classification (Langfuse-traced) \u2192 Snowfl",
+    "id": "tjromack/open311-pipeline",
+    "language": "Python",
+    "name": "tjromack/open311-pipeline",
     "stars": 0,
-    "updated_at": "2026-09-23T20:45:15Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+    "updated_at": "2026-09-23T20:57:28Z",
+    "url": "https://github.com/tjromack/open311-pipeline"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3571,
+    "updated_at": "2026-09-23T20:56:24Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
@@ -14,8 +32,17 @@
     "language": "Go",
     "name": "aimd54/palan",
     "stars": 0,
-    "updated_at": "2026-09-23T20:44:23Z",
+    "updated_at": "2026-09-23T20:56:22Z",
     "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
+    "id": "derickturner-hub/multi-agent-fulfillment-engine",
+    "language": "JavaScript",
+    "name": "derickturner-hub/multi-agent-fulfillment-engine",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:54:58Z",
+    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +50,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59490,
-    "updated_at": "2026-09-23T20:45:08Z",
+    "updated_at": "2026-09-23T20:58:41Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-23T20:54:03Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34979,
+    "updated_at": "2026-09-23T20:58:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:55:38Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-23T20:39:27Z",
+    "updated_at": "2026-09-23T20:51:55Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -45,31 +108,13 @@
     "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-23T20:36:23Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Business-agnostic multi-tier local LLM agent platform: grammar-constrained routing, deterministic policy gate, fail-clos",
     "id": "DuqueOM/agent-local",
     "language": "Python",
     "name": "DuqueOM/agent-local",
     "stars": 1,
-    "updated_at": "2026-09-23T20:36:07Z",
+    "updated_at": "2026-09-23T20:48:21Z",
     "url": "https://github.com/DuqueOM/agent-local"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-23T20:31:35Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Self-correcting, auditable RAG (LangGraph) over the U.S. v. Google antitrust record - cloud-agnostic: runs locally, on A",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T20:30:40Z",
     "url": "https://github.com/rodrigo85/langgraph-legal-rag"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T20:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
@@ -144,40 +180,13 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3571,
-    "updated_at": "2026-09-23T20:11:00Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Streaming civic-data pipeline: Chicago 311 events \u2192 Kafka \u2192 Claude LLM urgency classification (Langfuse-traced) \u2192 Snowfl",
-    "id": "tjromack/open311-pipeline",
-    "language": "Python",
-    "name": "tjromack/open311-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:11:58Z",
-    "url": "https://github.com/tjromack/open311-pipeline"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8286,
-    "updated_at": "2026-09-23T20:44:50Z",
+    "updated_at": "2026-09-23T20:54:36Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34977,
-    "updated_at": "2026-09-23T20:32:31Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-23T19:53:14Z",
+    "updated_at": "2026-09-23T20:57:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-23T19:44:24Z",
+    "updated_at": "2026-09-23T20:53:48Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-23T18:51:36Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 18,
-    "updated_at": "2026-09-23T19:45:45Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
