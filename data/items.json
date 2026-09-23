@@ -1,5 +1,77 @@
 [
   {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:30:13Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-23T00:29:18Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59424,
+    "updated_at": "2026-09-23T00:30:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A framework for governing how organisations manage AI context. Vendor-neutral.",
+    "id": "kannanokannan/ContextOps",
+    "language": "\u2014",
+    "name": "kannanokannan/ContextOps",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:27:51Z",
+    "url": "https://github.com/kannanokannan/ContextOps"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:26:03Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 112,
+    "updated_at": "2026-09-23T00:21:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:21:13Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T00:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28106,
-    "updated_at": "2026-09-23T00:11:03Z",
+    "updated_at": "2026-09-23T00:27:23Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59424,
-    "updated_at": "2026-09-23T00:15:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T00:01:43Z",
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T00:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11580,
-    "updated_at": "2026-09-23T00:11:01Z",
+    "updated_at": "2026-09-23T00:28:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-23T00:14:46Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T22:08:46Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:08:11Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:08:04Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:06:07Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:04:55Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:02:40Z",
-    "url": "https://github.com/developersofik/greenprompt"
   }
 ]
