@@ -1,5 +1,95 @@
 [
   {
+    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
+    "id": "floatsmyboat/inferwatch",
+    "language": "Python",
+    "name": "floatsmyboat/inferwatch",
+    "stars": 1,
+    "updated_at": "2026-09-23T20:06:19Z",
+    "url": "https://github.com/floatsmyboat/inferwatch"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 34,
+    "updated_at": "2026-09-23T20:06:14Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-23T20:05:10Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-23T20:04:36Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "quick-gate-python (PyPI: pygate-ci) is a deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest ",
+    "id": "hermes-labs-ai/quick-gate-python",
+    "language": "Python",
+    "name": "hermes-labs-ai/quick-gate-python",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:04:16Z",
+    "url": "https://github.com/hermes-labs-ai/quick-gate-python"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:04:15Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-23T20:04:01Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59489,
+    "updated_at": "2026-09-23T20:06:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
+    "id": "hermes-labs-ai/.github",
+    "language": "Python",
+    "name": "hermes-labs-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:02:13Z",
+    "url": "https://github.com/hermes-labs-ai/.github"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T20:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-correcting, auditable RAG (LangGraph) over the U.S. v. Google antitrust record - cloud-agnostic: runs locally, on A",
     "id": "rodrigo85/langgraph-legal-rag",
     "language": "Python",
@@ -18,21 +108,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59489,
-    "updated_at": "2026-09-23T19:57:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-23T19:56:23Z",
+    "updated_at": "2026-09-23T20:00:34Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T19:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -108,21 +180,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-23T19:43:41Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11591,
-    "updated_at": "2026-09-23T19:59:50Z",
+    "updated_at": "2026-09-23T20:07:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8285,
-    "updated_at": "2026-09-23T19:41:26Z",
+    "updated_at": "2026-09-23T20:03:33Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T19:21:45Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-09-23T19:54:34Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Self-hosted AI gateway for Amazon Bedrock. OpenAI, Anthropic, Cohere and Ollama compatible APIs, plus Amazon Polly, Tran",
@@ -265,7 +319,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28118,
+    "stars": 28119,
     "updated_at": "2026-09-23T18:54:12Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22209,
-    "updated_at": "2026-09-23T19:49:44Z",
+    "updated_at": "2026-09-23T20:05:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:34:39Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:34:39Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:33:13Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:31:06Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:30:09Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:36:03Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
-    "id": "TAIPANBOX/verdryx",
-    "language": "Python",
-    "name": "TAIPANBOX/verdryx",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:24:31Z",
-    "url": "https://github.com/TAIPANBOX/verdryx"
   }
 ]
