@@ -1,12 +1,75 @@
 [
   {
+    "description": "Guide for an end-to-end technical reference for production-grade LLMOps pipelines",
+    "id": "AdolphoIgor/actf-guide",
+    "language": "Makefile",
+    "name": "AdolphoIgor/actf-guide",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:45:21Z",
+    "url": "https://github.com/AdolphoIgor/actf-guide"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-23T22:43:18Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59495,
+    "updated_at": "2026-09-23T22:40:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-23T22:42:37Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "Helps ChatGPT keep uploaded files, chat history, instructions, hypotheses, drafts, and model assumptions separate in lon",
     "id": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
     "language": "Python",
     "name": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
     "stars": 0,
-    "updated_at": "2026-09-23T22:29:21Z",
+    "updated_at": "2026-09-23T22:39:50Z",
     "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:39:35Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-23T22:37:13Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 14,
+    "updated_at": "2026-09-23T22:36:58Z",
+    "url": "https://github.com/psyb0t/aigate"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -14,8 +77,35 @@
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 0,
-    "updated_at": "2026-09-23T22:29:35Z",
+    "updated_at": "2026-09-23T22:35:22Z",
     "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-23T22:32:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-23T22:31:02Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -27,21 +117,12 @@
     "url": "https://github.com/runtm-ai/runtm"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59494,
-    "updated_at": "2026-09-23T22:30:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-23T22:23:44Z",
+    "updated_at": "2026-09-23T22:34:02Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/Rikinshah787/evalos"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T22:16:01Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
     "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
     "language": "Shell",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T22:13:29Z",
     "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-23T22:04:48Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -140,7 +203,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-23T22:25:52Z",
+    "updated_at": "2026-09-23T22:35:38Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T21:44:42Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-23T21:43:18Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -297,15 +351,6 @@
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   },
   {
-    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 14,
-    "updated_at": "2026-09-23T21:31:24Z",
-    "url": "https://github.com/psyb0t/aigate"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
     "id": "Firmancaaa/rest-gateway-1771916753-3",
     "language": "\u2014",
@@ -331,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T21:28:42Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-23T21:27:04Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
@@ -412,41 +448,5 @@
     "stars": 1234,
     "updated_at": "2026-09-23T21:35:05Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:19:31Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
-    "id": "derickturner-hub/multi-agent-fulfillment-engine",
-    "language": "JavaScript",
-    "name": "derickturner-hub/multi-agent-fulfillment-engine",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:18:57Z",
-    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-23T21:17:57Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 89,
-    "updated_at": "2026-09-23T22:19:52Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
