@@ -1,12 +1,111 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59489,
+    "updated_at": "2026-09-23T20:30:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
+    "id": "YassirCher/reviewlens-ai",
+    "language": "Python",
+    "name": "YassirCher/reviewlens-ai",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:29:10Z",
+    "url": "https://github.com/YassirCher/reviewlens-ai"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 490,
+    "updated_at": "2026-09-23T20:26:48Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1234,
+    "updated_at": "2026-09-23T20:27:56Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-23T20:14:32Z",
+    "updated_at": "2026-09-23T20:26:12Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Self-correcting, auditable RAG (LangGraph) over the U.S. v. Google antitrust record - cloud-agnostic: runs locally, on A",
+    "id": "rodrigo85/langgraph-legal-rag",
+    "language": "Python",
+    "name": "rodrigo85/langgraph-legal-rag",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:26:02Z",
+    "url": "https://github.com/rodrigo85/langgraph-legal-rag"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-23T20:25:40Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-23T20:22:52Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:19:50Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:17:20Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22208,
+    "updated_at": "2026-09-23T20:26:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T20:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -41,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8286,
-    "updated_at": "2026-09-23T20:09:21Z",
+    "updated_at": "2026-09-23T20:29:31Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -49,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34978,
+    "stars": 34977,
     "updated_at": "2026-09-23T20:09:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -58,7 +157,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8710,
+    "stars": 8711,
     "updated_at": "2026-09-23T20:08:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T20:08:28Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T20:07:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
@@ -126,15 +216,6 @@
     "url": "https://github.com/hermes-labs-ai/quick-gate-python"
   },
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:04:15Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -144,15 +225,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59489,
-    "updated_at": "2026-09-23T20:14:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
     "id": "hermes-labs-ai/.github",
     "language": "Python",
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T20:02:13Z",
     "url": "https://github.com/hermes-labs-ai/.github"
-  },
-  {
-    "description": "Self-correcting, auditable RAG (LangGraph) over the U.S. v. Google antitrust record - cloud-agnostic: runs locally, on A",
-    "id": "rodrigo85/langgraph-legal-rag",
-    "language": "Python",
-    "name": "rodrigo85/langgraph-legal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:59:21Z",
-    "url": "https://github.com/rodrigo85/langgraph-legal-rag"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:00:34Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
@@ -207,15 +261,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-23T19:57:22Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
     "id": "Peter-A-P/ai-release-gate",
     "language": "Python",
@@ -239,17 +284,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11591,
-    "updated_at": "2026-09-23T20:07:10Z",
+    "updated_at": "2026-09-23T20:28:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
-    "id": "YassirCher/reviewlens-ai",
-    "language": "Python",
-    "name": "YassirCher/reviewlens-ai",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:43:12Z",
-    "url": "https://github.com/YassirCher/reviewlens-ai"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -306,21 +342,12 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-23T19:07:29Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
     "id": "olivaresai/olivares",
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-23T20:13:21Z",
+    "updated_at": "2026-09-23T20:27:11Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 28119,
     "updated_at": "2026-09-23T18:54:12Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22209,
-    "updated_at": "2026-09-23T20:05:45Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:39:40Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 394,
-    "updated_at": "2026-09-23T18:39:28Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
-    "id": "instruxi-io/enforcer-governor",
-    "language": "JavaScript",
-    "name": "instruxi-io/enforcer-governor",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:39:02Z",
-    "url": "https://github.com/instruxi-io/enforcer-governor"
   }
 ]
