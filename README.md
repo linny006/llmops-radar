@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 11:43 UTC
+> ⏰ Last updated: 2026-09-24 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ha7n23/careerops-agent-engine](https://github.com/ha7n23/careerops-agent-engine) | 0 | Python | 2026-09-24 | Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post |
-| 2 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2889 | Python | 2026-09-24 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59538 | Python | 2026-09-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | CSS | 2026-09-24 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
-| 5 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-09-24 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22214 | Python | 2026-09-24 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 7 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-09-24 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
-| 8 | [architsharm/guardrails](https://github.com/architsharm/guardrails) | 3 | Python | 2026-09-24 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [ha7n23/careerops-agent-engine](https://github.com/ha7n23/careerops-agent-engine) | 0 | Python | 2026-09-24 | Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post |
+| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2889 | Python | 2026-09-24 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59538 | Python | 2026-09-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | CSS | 2026-09-24 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 6 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-09-24 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
+| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22214 | Python | 2026-09-24 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 8 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-09-24 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
+| 9 | [architsharm/guardrails](https://github.com/architsharm/guardrails) | 3 | Python | 2026-09-24 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
 | 10 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-24 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
 | 11 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-24 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
 | 12 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 490 | Python | 2026-09-24 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
