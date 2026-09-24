@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59561,
-    "updated_at": "2026-09-24T19:46:15Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8325,
+    "updated_at": "2026-09-24T20:00:06Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
@@ -14,17 +14,8 @@
     "language": "JavaScript",
     "name": "derickturner-hub/multi-agent-fulfillment-engine",
     "stars": 0,
-    "updated_at": "2026-09-24T19:46:04Z",
+    "updated_at": "2026-09-24T20:00:22Z",
     "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -32,8 +23,44 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T19:43:45Z",
+    "updated_at": "2026-09-24T19:58:49Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59562,
+    "updated_at": "2026-09-24T19:59:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-24T19:54:29Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-24T19:51:45Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-24T19:59:28Z",
+    "url": "https://github.com/olivaresai/olivares"
   },
   {
     "description": "Runnable reference implementations of five core Braintrust workflows: dataset lifecycle, offline evals, online evals, tr",
@@ -41,8 +68,26 @@
     "language": "Python",
     "name": "dpguthrie/braintrust-workflows",
     "stars": 0,
-    "updated_at": "2026-09-24T19:41:23Z",
+    "updated_at": "2026-09-24T19:50:09Z",
     "url": "https://github.com/dpguthrie/braintrust-workflows"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T19:47:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22224,
+    "updated_at": "2026-09-24T19:59:06Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T19:38:36Z",
+    "updated_at": "2026-09-24T20:00:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:34:05Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8325,
-    "updated_at": "2026-09-24T19:33:44Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -103,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7118,
+    "stars": 7119,
     "updated_at": "2026-09-24T19:31:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -117,12 +153,21 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
+    "id": "katanemo/plano",
+    "language": "Rust",
+    "name": "katanemo/plano",
+    "stars": 7063,
+    "updated_at": "2026-09-24T19:30:37Z",
+    "url": "https://github.com/katanemo/plano"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-24T19:36:23Z",
+    "updated_at": "2026-09-24T19:59:58Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8718,
-    "updated_at": "2026-09-24T19:40:09Z",
+    "updated_at": "2026-09-24T19:50:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -184,8 +229,8 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 457,
-    "updated_at": "2026-09-24T19:19:36Z",
+    "stars": 459,
+    "updated_at": "2026-09-24T19:50:38Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -297,13 +342,13 @@
     "url": "https://github.com/recordrnase224/brix-protocol"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-24T19:02:49Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "name": "Abilityai/trinity",
+    "stars": 579,
+    "updated_at": "2026-09-24T19:01:32Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11604,
-    "updated_at": "2026-09-24T19:45:23Z",
+    "updated_at": "2026-09-24T19:57:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 49,
     "updated_at": "2026-09-24T18:56:37Z",
     "url": "https://github.com/zenml-io/mcp-zenml"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22223,
-    "updated_at": "2026-09-24T19:47:02Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T18:49:10Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-24T18:59:06Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 491,
-    "updated_at": "2026-09-24T19:46:41Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:47:51Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-24T18:47:28Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
   }
 ]
