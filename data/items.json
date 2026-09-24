@@ -1,29 +1,11 @@
 [
   {
-    "description": "Self-hosted multi-agent AI orchestration with governance built in: one router in, cost tiers and isolated lanes, PII scr",
-    "id": "jgobuilds/ai-control-plane-public",
-    "language": "Python",
-    "name": "jgobuilds/ai-control-plane-public",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:15:19Z",
-    "url": "https://github.com/jgobuilds/ai-control-plane-public"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-24T22:14:32Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T22:14:32Z",
+    "updated_at": "2026-09-24T22:29:37Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
@@ -32,8 +14,71 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-09-24T22:13:15Z",
+    "updated_at": "2026-09-24T22:27:28Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59569,
+    "updated_at": "2026-09-24T22:29:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted multi-agent AI orchestration with governance built in: one router in, cost tiers and isolated lanes, PII scr",
+    "id": "jgobuilds/ai-control-plane-public",
+    "language": "Python",
+    "name": "jgobuilds/ai-control-plane-public",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:20:59Z",
+    "url": "https://github.com/jgobuilds/ai-control-plane-public"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-24T22:23:59Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-24T22:18:56Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 32,
+    "updated_at": "2026-09-24T22:17:11Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T22:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-24T22:26:46Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-24T22:11:50Z",
+    "updated_at": "2026-09-24T22:20:39Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59568,
-    "updated_at": "2026-09-24T22:13:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 394,
     "updated_at": "2026-09-24T22:03:16Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T22:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -166,8 +193,8 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8719,
-    "updated_at": "2026-09-24T21:49:11Z",
+    "stars": 8720,
+    "updated_at": "2026-09-24T22:29:00Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -205,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:33:25Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22225,
+    "updated_at": "2026-09-24T21:33:14Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T21:04:58Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:03:27Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35021,
-    "updated_at": "2026-09-24T21:00:49Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
-    "id": "hermes-labs-ai/.github",
-    "language": "Python",
-    "name": "hermes-labs-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:58:18Z",
-    "url": "https://github.com/hermes-labs-ai/.github"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 166,
-    "updated_at": "2026-09-24T20:54:11Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
   }
 ]
