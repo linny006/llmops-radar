@@ -1,12 +1,48 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59562,
+    "updated_at": "2026-09-24T20:44:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T20:29:00Z",
+    "updated_at": "2026-09-24T20:44:04Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-24T20:43:57Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "LLM gateway control plane: rate/budget enforcement, circuit breakers, fallback and latency-aware routing, canary prompts",
+    "id": "asher0913/ai-gateway-control-plane",
+    "language": "Python",
+    "name": "asher0913/ai-gateway-control-plane",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:43:05Z",
+    "url": "https://github.com/asher0913/ai-gateway-control-plane"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 491,
+    "updated_at": "2026-09-24T20:41:24Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,8 +50,53 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-24T20:29:46Z",
+    "updated_at": "2026-09-24T20:44:38Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-24T20:43:22Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8326,
+    "updated_at": "2026-09-24T20:34:32Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 166,
+    "updated_at": "2026-09-24T20:31:06Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T20:31:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -54,15 +135,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59562,
-    "updated_at": "2026-09-24T20:30:03Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
     "id": "storm-software/mindctl",
     "language": "Go",
@@ -72,15 +144,6 @@
     "url": "https://github.com/storm-software/mindctl"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A collection of tricks and tools to speed up transformer models",
     "id": "OpenMachine-ai/transformer-tricks",
     "language": "TeX",
@@ -88,6 +151,15 @@
     "stars": 229,
     "updated_at": "2026-09-24T20:15:12Z",
     "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 463,
+    "updated_at": "2026-09-24T20:10:53Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -117,15 +189,6 @@
     "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8324,
-    "updated_at": "2026-09-24T20:03:04Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -142,24 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-24T20:20:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-24T20:01:41Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 462,
-    "updated_at": "2026-09-24T20:10:53Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -185,17 +230,8 @@
     "language": "Python",
     "name": "Alpha-W0lf/alphaguard",
     "stars": 0,
-    "updated_at": "2026-09-24T19:40:33Z",
+    "updated_at": "2026-09-24T20:42:50Z",
     "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 81,
-    "updated_at": "2026-09-24T20:16:49Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "katanemo/plano",
     "stars": 7063,
-    "updated_at": "2026-09-24T19:30:37Z",
+    "updated_at": "2026-09-24T20:43:11Z",
     "url": "https://github.com/katanemo/plano"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8718,
-    "updated_at": "2026-09-24T20:00:54Z",
+    "updated_at": "2026-09-24T20:44:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -310,8 +346,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35015,
-    "updated_at": "2026-09-24T19:16:58Z",
+    "stars": 35016,
+    "updated_at": "2026-09-24T20:41:15Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:01:21Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:01:08Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11604,
-    "updated_at": "2026-09-24T20:01:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1234,
-    "updated_at": "2026-09-24T19:19:47Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
-    "id": "zenml-io/mcp-zenml",
-    "language": "Python",
-    "name": "zenml-io/mcp-zenml",
-    "stars": 49,
-    "updated_at": "2026-09-24T18:56:37Z",
-    "url": "https://github.com/zenml-io/mcp-zenml"
   }
 ]
