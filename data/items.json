@@ -1,21 +1,12 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8325,
-    "updated_at": "2026-09-24T20:00:06Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
-    "id": "derickturner-hub/multi-agent-fulfillment-engine",
-    "language": "JavaScript",
-    "name": "derickturner-hub/multi-agent-fulfillment-engine",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:00:22Z",
-    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
+    "description": "A collection of tricks and tools to speed up transformer models",
+    "id": "OpenMachine-ai/transformer-tricks",
+    "language": "TeX",
+    "name": "OpenMachine-ai/transformer-tricks",
+    "stars": 229,
+    "updated_at": "2026-09-24T20:15:12Z",
+    "url": "https://github.com/OpenMachine-ai/transformer-tricks"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T19:58:49Z",
+    "updated_at": "2026-09-24T20:13:54Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:13:25Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 34,
+    "updated_at": "2026-09-24T20:09:56Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -32,8 +41,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59562,
-    "updated_at": "2026-09-24T19:59:12Z",
+    "updated_at": "2026-09-24T20:13:53Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Runnable reference implementations of five core Braintrust workflows: dataset lifecycle, offline evals, online evals, tr",
+    "id": "dpguthrie/braintrust-workflows",
+    "language": "Python",
+    "name": "dpguthrie/braintrust-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:05:17Z",
+    "url": "https://github.com/dpguthrie/braintrust-workflows"
+  },
+  {
+    "description": "Enterprise Multi-Agent AI Fulfillment Engine refactored into a file-backed MAS architecture with single-sourced domain r",
+    "id": "derickturner-hub/multi-agent-fulfillment-engine",
+    "language": "JavaScript",
+    "name": "derickturner-hub/multi-agent-fulfillment-engine",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:04:04Z",
+    "url": "https://github.com/derickturner-hub/multi-agent-fulfillment-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8325,
+    "updated_at": "2026-09-24T20:03:04Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -59,26 +104,17 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-24T19:59:28Z",
+    "updated_at": "2026-09-24T20:01:41Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
-    "description": "Runnable reference implementations of five core Braintrust workflows: dataset lifecycle, offline evals, online evals, tr",
-    "id": "dpguthrie/braintrust-workflows",
-    "language": "Python",
-    "name": "dpguthrie/braintrust-workflows",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:50:09Z",
-    "url": "https://github.com/dpguthrie/braintrust-workflows"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:47:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 462,
+    "updated_at": "2026-09-24T20:10:53Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T20:00:11Z",
+    "updated_at": "2026-09-24T20:13:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 7119,
-    "updated_at": "2026-09-24T19:31:04Z",
+    "updated_at": "2026-09-24T20:00:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8718,
-    "updated_at": "2026-09-24T19:50:31Z",
+    "updated_at": "2026-09-24T20:00:54Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-24T19:19:41Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 459,
-    "updated_at": "2026-09-24T19:50:38Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11604,
-    "updated_at": "2026-09-24T19:57:06Z",
+    "updated_at": "2026-09-24T20:01:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T18:53:22Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:52:41Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-24T18:51:31Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-24T18:49:10Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
