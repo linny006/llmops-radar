@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 26,
+    "updated_at": "2026-09-24T06:14:12Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-09-24T06:12:51Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:14:27Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2885,
+    "updated_at": "2026-09-24T06:12:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8301,
+    "updated_at": "2026-09-24T06:14:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:11:32Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:09:50Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59515,
+    "updated_at": "2026-09-24T06:15:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -18,21 +90,12 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 26,
-    "updated_at": "2026-09-24T06:07:30Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
     "description": "Get up to 50M+ or virtually unlimited free AI tokens daily! Universal OpenAI gateway that pools free-tier models across ",
     "id": "neuralnexustech/freeroute",
     "language": "TypeScript",
     "name": "neuralnexustech/freeroute",
     "stars": 0,
-    "updated_at": "2026-09-24T06:06:16Z",
+    "updated_at": "2026-09-24T06:14:49Z",
     "url": "https://github.com/neuralnexustech/freeroute"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T06:00:41Z",
     "url": "https://github.com/Kozphy/EvalForge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T06:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "mldogs/prompt-layers",
     "stars": 0,
-    "updated_at": "2026-09-24T05:57:56Z",
+    "updated_at": "2026-09-24T06:12:35Z",
     "url": "https://github.com/mldogs/prompt-layers"
   },
   {
@@ -81,20 +135,11 @@
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59514,
-    "updated_at": "2026-09-24T06:08:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34988,
+    "stars": 34989,
     "updated_at": "2026-09-24T05:46:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -115,15 +160,6 @@
     "stars": 28119,
     "updated_at": "2026-09-24T05:57:35Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8301,
-    "updated_at": "2026-09-24T06:08:32Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T06:00:55Z",
+    "updated_at": "2026-09-24T06:13:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T05:00:55Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:59:35Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:58:48Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
-    "id": "Neeeophytee/awesome-ai-workflows",
-    "language": "Shell",
-    "name": "Neeeophytee/awesome-ai-workflows",
-    "stars": 35,
-    "updated_at": "2026-09-24T04:54:54Z",
-    "url": "https://github.com/Neeeophytee/awesome-ai-workflows"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-24T05:03:11Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
