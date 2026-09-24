@@ -1,20 +1,11 @@
 [
   {
-    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
-    "id": "VitaPilot-AI/flakelens",
-    "language": "Python",
-    "name": "VitaPilot-AI/flakelens",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:44:41Z",
-    "url": "https://github.com/VitaPilot-AI/flakelens"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-24T21:44:31Z",
+    "updated_at": "2026-09-24T22:00:18Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -23,7 +14,7 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T21:44:23Z",
+    "updated_at": "2026-09-24T21:59:28Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
@@ -32,7 +23,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-09-24T21:44:14Z",
+    "updated_at": "2026-09-24T21:59:19Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -41,8 +32,107 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-24T21:42:25Z",
+    "updated_at": "2026-09-24T21:58:38Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:57:55Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59568,
+    "updated_at": "2026-09-24T21:59:01Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 491,
+    "updated_at": "2026-09-24T21:56:38Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:55:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 754,
+    "updated_at": "2026-09-24T21:55:29Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:53:58Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T21:53:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 6,
+    "updated_at": "2026-09-24T21:52:33Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8719,
+    "updated_at": "2026-09-24T21:49:11Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
+    "id": "VitaPilot-AI/flakelens",
+    "language": "Python",
+    "name": "VitaPilot-AI/flakelens",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:44:41Z",
+    "url": "https://github.com/VitaPilot-AI/flakelens"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -54,24 +144,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 754,
-    "updated_at": "2026-09-24T21:39:14Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59567,
-    "updated_at": "2026-09-24T21:44:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:35:12Z",
     "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-24T21:35:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -126,15 +189,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T21:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -142,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:30:27Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-09-24T21:30:27Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 491,
-    "updated_at": "2026-09-24T21:38:08Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -311,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-24T21:07:38Z",
+    "updated_at": "2026-09-24T21:47:32Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -346,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35018,
+    "stars": 35019,
     "updated_at": "2026-09-24T21:00:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -369,21 +405,12 @@
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:54:40Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11605,
-    "updated_at": "2026-09-24T21:44:30Z",
+    "updated_at": "2026-09-24T21:59:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-24T21:29:52Z",
+    "updated_at": "2026-09-24T21:56:27Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T21:32:41Z",
+    "updated_at": "2026-09-24T21:52:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8329,
-    "updated_at": "2026-09-24T20:34:32Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-24T20:25:06Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Roll out LLM agent prompts without forks or merge conflicts: base prompt + layers, every segment tested before rollout. ",
-    "id": "mldogs/prompt-layers",
-    "language": "Python",
-    "name": "mldogs/prompt-layers",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:23:27Z",
-    "url": "https://github.com/mldogs/prompt-layers"
   }
 ]
