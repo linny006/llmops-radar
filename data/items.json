@@ -1,12 +1,30 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
+    "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
+    "id": "api-evangelist/braintrust-data",
+    "language": "\u2014",
+    "name": "api-evangelist/braintrust-data",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:15:13Z",
+    "url": "https://github.com/api-evangelist/braintrust-data"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T00:10:39Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3571,
-    "updated_at": "2026-09-23T23:58:30Z",
-    "url": "https://github.com/truera/trulens"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 4,
+    "updated_at": "2026-09-24T00:04:42Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59501,
-    "updated_at": "2026-09-23T23:59:05Z",
+    "updated_at": "2026-09-24T00:15:03Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first JEV evals: turn Cursor and Claude Code agent failures into regression tests.",
+    "id": "Rikinshah787/evalos",
+    "language": "TypeScript",
+    "name": "Rikinshah787/evalos",
+    "stars": 2,
+    "updated_at": "2026-09-24T00:10:00Z",
+    "url": "https://github.com/Rikinshah787/evalos"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T00:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3571,
+    "updated_at": "2026-09-24T00:09:40Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
@@ -27,31 +72,13 @@
     "url": "https://github.com/rodericklm1/determify"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-23T23:51:53Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-23T23:57:25Z",
+    "updated_at": "2026-09-24T00:04:11Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -59,17 +86,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-23T23:45:31Z",
+    "updated_at": "2026-09-24T00:02:24Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Local-first JEV evals: turn Cursor and Claude Code agent failures into regression tests.",
-    "id": "Rikinshah787/evalos",
-    "language": "TypeScript",
-    "name": "Rikinshah787/evalos",
-    "stars": 2,
-    "updated_at": "2026-09-23T23:42:34Z",
-    "url": "https://github.com/Rikinshah787/evalos"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-23T23:28:26Z",
+    "updated_at": "2026-09-24T00:07:32Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/AdolphoIgor/actf-guide"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 4,
-    "updated_at": "2026-09-23T23:40:35Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Helps ChatGPT keep uploaded files, chat history, instructions, hypotheses, drafts, and model assumptions separate in lon",
     "id": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 298,
     "updated_at": "2026-09-23T22:25:30Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
-    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:13:29Z",
-    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
   }
 ]
