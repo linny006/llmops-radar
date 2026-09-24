@@ -1,21 +1,75 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59562,
-    "updated_at": "2026-09-24T20:44:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T20:44:04Z",
+    "updated_at": "2026-09-24T20:59:10Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 166,
+    "updated_at": "2026-09-24T20:54:11Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:54:40Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:57:05Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11605,
+    "updated_at": "2026-09-24T20:57:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59563,
+    "updated_at": "2026-09-24T20:59:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:48:32Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 491,
-    "updated_at": "2026-09-24T20:41:24Z",
+    "updated_at": "2026-09-24T20:58:05Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-24T20:44:38Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T20:43:22Z",
+    "updated_at": "2026-09-24T20:53:20Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -67,18 +112,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8326,
+    "stars": 8327,
     "updated_at": "2026-09-24T20:34:32Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 166,
-    "updated_at": "2026-09-24T20:31:06Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
     "description": "Agentic Runtime",
@@ -88,15 +124,6 @@
     "stars": 38,
     "updated_at": "2026-09-24T20:31:02Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -157,7 +184,7 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 463,
+    "stars": 464,
     "updated_at": "2026-09-24T20:10:53Z",
     "url": "https://github.com/iblai/os"
   },
@@ -193,7 +220,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7120,
+    "stars": 7121,
     "updated_at": "2026-09-24T20:00:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -225,15 +252,6 @@
     "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:42:50Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
     "id": "dataagentsai/ai-assurance-catalog",
     "language": "HTML",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-09-24T19:32:55Z",
+    "updated_at": "2026-09-24T20:58:04Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 16,
-    "updated_at": "2026-09-24T20:16:53Z",
+    "updated_at": "2026-09-24T20:58:31Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T19:03:55Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 579,
-    "updated_at": "2026-09-24T19:01:32Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:01:21Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
