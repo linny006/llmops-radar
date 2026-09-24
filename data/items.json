@@ -1,12 +1,84 @@
 [
   {
+    "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
+    "id": "ha7n23/careerops-agent-engine",
+    "language": "Python",
+    "name": "ha7n23/careerops-agent-engine",
+    "stars": 0,
+    "updated_at": "2026-09-24T11:43:16Z",
+    "url": "https://github.com/ha7n23/careerops-agent-engine"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2889,
+    "updated_at": "2026-09-24T11:41:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59538,
+    "updated_at": "2026-09-24T11:39:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "CSS",
     "name": "cubxxw/blog",
     "stars": 27,
-    "updated_at": "2026-09-24T11:30:18Z",
+    "updated_at": "2026-09-24T11:38:13Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-09-24T11:37:28Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22214,
+    "updated_at": "2026-09-24T11:43:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-09-24T11:32:46Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/guardrails",
+    "language": "Python",
+    "name": "architsharm/guardrails",
+    "stars": 3,
+    "updated_at": "2026-09-24T11:32:16Z",
+    "url": "https://github.com/architsharm/guardrails"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T11:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 490,
-    "updated_at": "2026-09-24T11:27:34Z",
+    "updated_at": "2026-09-24T11:35:19Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 264,
     "updated_at": "2026-09-24T11:27:01Z",
     "url": "https://github.com/InftyAI/Awesome-LLMOps"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22214,
-    "updated_at": "2026-09-24T11:29:48Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2889,
-    "updated_at": "2026-09-24T11:24:11Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -88,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-24T11:22:33Z",
     "url": "https://github.com/h00w/agentic-ai"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59537,
-    "updated_at": "2026-09-24T11:28:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 755,
-    "updated_at": "2026-09-24T10:48:19Z",
+    "updated_at": "2026-09-24T11:39:55Z",
     "url": "https://github.com/mikehasa/agentacct"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 165,
-    "updated_at": "2026-09-24T11:18:11Z",
+    "updated_at": "2026-09-24T11:35:57Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35000,
-    "updated_at": "2026-09-24T11:30:00Z",
+    "updated_at": "2026-09-24T11:41:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -351,13 +387,13 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
-    "id": "ha7n23/careerops-agent-engine",
-    "language": "Python",
-    "name": "ha7n23/careerops-agent-engine",
-    "stars": 0,
-    "updated_at": "2026-09-24T10:45:45Z",
-    "url": "https://github.com/ha7n23/careerops-agent-engine"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25415,
+    "updated_at": "2026-09-24T10:45:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8312,
-    "updated_at": "2026-09-24T11:28:35Z",
+    "updated_at": "2026-09-24T11:31:32Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T10:41:57Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-24T10:40:59Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4869,
-    "updated_at": "2026-09-24T11:04:40Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
-    "id": "Aftabmallick/titanrag",
-    "language": "Python",
-    "name": "Aftabmallick/titanrag",
-    "stars": 3,
-    "updated_at": "2026-09-24T10:34:14Z",
-    "url": "https://github.com/Aftabmallick/titanrag"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-09-24T10:28:06Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
