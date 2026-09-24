@@ -1,12 +1,111 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7083,
+    "updated_at": "2026-09-24T07:44:44Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 89,
+    "updated_at": "2026-09-24T07:42:27Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 116,
+    "updated_at": "2026-09-24T07:41:25Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8303,
+    "updated_at": "2026-09-24T07:44:27Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-24T07:40:47Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-09-24T07:40:37Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-24T07:39:19Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-24T07:37:57Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-24T07:34:52Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI infrastructure learning roadmap: DevOps \u2192 MLOps \u2192 NVIDIA GPU \u2192 networking \u2192 security \u2192 LLMOps \u2192 AI data center",
+    "id": "DucLong06/ai-infra-roadmap",
+    "language": "\u2014",
+    "name": "DucLong06/ai-infra-roadmap",
+    "stars": 0,
+    "updated_at": "2026-09-24T07:32:10Z",
+    "url": "https://github.com/DucLong06/ai-infra-roadmap"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59521,
-    "updated_at": "2026-09-24T07:29:19Z",
+    "stars": 59522,
+    "updated_at": "2026-09-24T07:43:34Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T07:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30301,
-    "updated_at": "2026-09-24T07:30:18Z",
+    "updated_at": "2026-09-24T07:37:02Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -59,17 +158,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22212,
-    "updated_at": "2026-09-24T07:18:16Z",
+    "updated_at": "2026-09-24T07:37:08Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 89,
-    "updated_at": "2026-09-24T07:18:00Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T07:15:57Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T07:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T07:13:24Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8302,
-    "updated_at": "2026-09-24T07:26:06Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -194,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 164,
-    "updated_at": "2026-09-24T07:07:26Z",
+    "updated_at": "2026-09-24T07:43:41Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -365,7 +437,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34992,
-    "updated_at": "2026-09-24T07:17:13Z",
+    "updated_at": "2026-09-24T07:44:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T06:51:25Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:49:20Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1351,
-    "updated_at": "2026-09-24T07:25:00Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2064,
-    "updated_at": "2026-09-24T07:21:37Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-24T06:36:50Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11595,
-    "updated_at": "2026-09-24T07:12:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-24T06:34:11Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-24T06:33:11Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-24T07:23:56Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
