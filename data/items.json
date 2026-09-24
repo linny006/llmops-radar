@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59502,
+    "updated_at": "2026-09-24T00:43:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:43:39Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8712,
+    "updated_at": "2026-09-24T00:39:19Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T00:38:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T00:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise Distributed Continuous Training (CT) and Model Governance Platform",
     "id": "AdolphoIgor/actf-core",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28119,
-    "updated_at": "2026-09-24T00:29:19Z",
+    "updated_at": "2026-09-24T00:31:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -27,13 +72,13 @@
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59502,
-    "updated_at": "2026-09-24T00:30:13Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "comet-ml/opik",
+    "stars": 22209,
+    "updated_at": "2026-09-24T00:24:56Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-24T00:16:53Z",
+    "updated_at": "2026-09-24T00:37:13Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -50,17 +95,8 @@
     "language": "TypeScript",
     "name": "Rikinshah787/evalos",
     "stars": 2,
-    "updated_at": "2026-09-24T00:23:17Z",
+    "updated_at": "2026-09-24T00:43:58Z",
     "url": "https://github.com/Rikinshah787/evalos"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T00:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
@@ -72,21 +108,12 @@
     "url": "https://github.com/api-evangelist/braintrust-data"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-24T00:10:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 4,
-    "updated_at": "2026-09-24T00:04:42Z",
+    "updated_at": "2026-09-24T00:43:43Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-24T00:04:11Z",
+    "updated_at": "2026-09-24T00:31:59Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T00:07:32Z",
+    "updated_at": "2026-09-24T00:36:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8712,
-    "updated_at": "2026-09-23T22:58:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T22:39:50Z",
     "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:07:26Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 14,
-    "updated_at": "2026-09-23T22:36:58Z",
-    "url": "https://github.com/psyb0t/aigate"
   }
 ]
