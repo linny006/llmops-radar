@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59507,
+    "updated_at": "2026-09-24T02:00:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-24T01:58:18Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-24T01:52:52Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2883,
+    "updated_at": "2026-09-24T01:51:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-24T01:50:18Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25404,
-    "updated_at": "2026-09-24T01:45:18Z",
+    "stars": 25406,
+    "updated_at": "2026-09-24T01:58:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T01:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -25,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-09-24T01:40:43Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59505,
-    "updated_at": "2026-09-24T01:44:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -90,15 +135,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2883,
-    "updated_at": "2026-09-24T01:35:35Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28119,
-    "updated_at": "2026-09-24T01:33:23Z",
+    "updated_at": "2026-09-24T01:48:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -135,13 +171,13 @@
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents",
+    "id": "JosueDev-afk/qlora-mlops-pipeline",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T01:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "JosueDev-afk/qlora-mlops-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-24T01:29:40Z",
+    "url": "https://github.com/JosueDev-afk/qlora-mlops-pipeline"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-24T00:53:38Z",
+    "updated_at": "2026-09-24T02:00:19Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8712,
-    "updated_at": "2026-09-24T00:39:19Z",
+    "updated_at": "2026-09-24T01:49:12Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T00:26:54Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22209,
-    "updated_at": "2026-09-24T01:08:19Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Braintrust \u2014 independent third-party profile of a public API surface, by API Evangelist. Braintrust (braintrust.dev) is ",
-    "id": "api-evangelist/braintrust-data",
-    "language": "\u2014",
-    "name": "api-evangelist/braintrust-data",
-    "stars": 0,
-    "updated_at": "2026-09-24T00:15:13Z",
-    "url": "https://github.com/api-evangelist/braintrust-data"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3571,
-    "updated_at": "2026-09-24T00:09:40Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
-    "id": "rodericklm1/determify",
-    "language": "Python",
-    "name": "rodericklm1/determify",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:54:58Z",
-    "url": "https://github.com/rodericklm1/determify"
   }
 ]
