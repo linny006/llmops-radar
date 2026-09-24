@@ -1,11 +1,65 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-24T02:45:13Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-24T02:43:20Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-24T02:42:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59507,
+    "updated_at": "2026-09-24T02:42:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
+    "id": "aktasbatuhan/compound",
+    "language": "HTML",
+    "name": "aktasbatuhan/compound",
+    "stars": 8,
+    "updated_at": "2026-09-24T02:38:48Z",
+    "url": "https://github.com/aktasbatuhan/compound"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T02:37:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
     "id": "KIM3310/enterprise-llm-adoption-kit",
     "language": "Python",
     "name": "KIM3310/enterprise-llm-adoption-kit",
     "stars": 0,
-    "updated_at": "2026-09-24T02:27:45Z",
+    "updated_at": "2026-09-24T02:41:49Z",
     "url": "https://github.com/KIM3310/enterprise-llm-adoption-kit"
   },
   {
@@ -14,8 +68,35 @@
     "language": "HCL",
     "name": "KIM3310/llm-onprem-deployment-kit",
     "stars": 0,
-    "updated_at": "2026-09-24T02:27:41Z",
+    "updated_at": "2026-09-24T02:41:35Z",
     "url": "https://github.com/KIM3310/llm-onprem-deployment-kit"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 754,
+    "updated_at": "2026-09-24T02:35:16Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-09-24T02:31:15Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T02:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -27,21 +108,12 @@
     "url": "https://github.com/storm-software/mindctl"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59506,
-    "updated_at": "2026-09-24T02:30:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-24T02:23:42Z",
+    "updated_at": "2026-09-24T02:31:11Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T02:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
     "id": "peopleforrester/packt-agentic-devops",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25410,
-    "updated_at": "2026-09-24T02:26:33Z",
+    "updated_at": "2026-09-24T02:36:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
-    "language": "HTML",
-    "name": "aktasbatuhan/compound",
-    "stars": 8,
-    "updated_at": "2026-09-24T02:06:33Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -133,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-09-24T02:03:35Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8713,
+    "updated_at": "2026-09-24T01:49:12Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T01:37:29Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 754,
-    "updated_at": "2026-09-24T02:21:32Z",
-    "url": "https://github.com/mikehasa/agentacct"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28119,
-    "updated_at": "2026-09-24T02:08:48Z",
+    "updated_at": "2026-09-24T02:39:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T01:11:08Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-24T01:07:24Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-24T01:04:56Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Local-first JEV evals: turn Cursor and Claude Code agent failures into regression tests.",
-    "id": "Rikinshah787/evalos",
-    "language": "TypeScript",
-    "name": "Rikinshah787/evalos",
-    "stars": 2,
-    "updated_at": "2026-09-24T01:09:32Z",
-    "url": "https://github.com/Rikinshah787/evalos"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-24T01:00:59Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-24T00:58:08Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-09-24T00:55:43Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
   }
 ]
