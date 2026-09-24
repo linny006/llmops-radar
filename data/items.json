@@ -1,5 +1,122 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 81,
+    "updated_at": "2026-09-24T03:45:09Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59510,
+    "updated_at": "2026-09-24T03:42:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28119,
+    "updated_at": "2026-09-24T03:43:39Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1234,
+    "updated_at": "2026-09-24T03:43:28Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25409,
+    "updated_at": "2026-09-24T03:39:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-24T03:39:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Public portfolio mirror of EvalForge \u2014 local-first AI evaluation engineering (proprietary license). Private working copy",
+    "id": "Kozphy/EvalForge",
+    "language": "Python",
+    "name": "Kozphy/EvalForge",
+    "stars": 1,
+    "updated_at": "2026-09-24T03:38:56Z",
+    "url": "https://github.com/Kozphy/EvalForge"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8295,
+    "updated_at": "2026-09-24T03:38:06Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 36,
+    "updated_at": "2026-09-24T03:43:29Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 754,
+    "updated_at": "2026-09-24T03:34:35Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-24T03:33:42Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:31:09Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T03:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
@@ -7,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T03:29:35Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59509,
-    "updated_at": "2026-09-24T03:28:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -63,15 +171,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28119,
-    "updated_at": "2026-09-24T03:25:00Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -113,7 +212,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-24T03:24:45Z",
+    "updated_at": "2026-09-24T03:32:18Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -160,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T03:15:29Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T03:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -225,15 +315,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 754,
-    "updated_at": "2026-09-24T03:20:54Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
     "id": "rozario-1234/end2end_sample",
     "language": "TypeScript",
@@ -259,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T03:04:57Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-09-24T03:04:29Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -324,15 +396,6 @@
     "url": "https://github.com/peopleforrester/packt-agentic-devops"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8295,
-    "updated_at": "2026-09-24T02:55:21Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "LLM governance toolkit with RBAC, evals, audit logging, routing boundaries, and optional data-platform adapters.",
     "id": "KIM3310/enterprise-llm-adoption-kit",
     "language": "Python",
@@ -360,15 +423,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25411,
-    "updated_at": "2026-09-24T03:26:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T02:42:26Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Which host should serve your open model? Run your workload across pinned, verified providers and get one table: success,",
-    "id": "aktasbatuhan/compound",
-    "language": "HTML",
-    "name": "aktasbatuhan/compound",
-    "stars": 8,
-    "updated_at": "2026-09-24T02:38:48Z",
-    "url": "https://github.com/aktasbatuhan/compound"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-24T02:37:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-09-24T02:31:15Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-24T02:24:34Z",
-    "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-24T03:12:31Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 81,
-    "updated_at": "2026-09-24T03:17:52Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
