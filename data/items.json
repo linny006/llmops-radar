@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-24T15:57:30Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-24T15:57:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-24T15:55:49Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T15:55:40Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35009,
+    "updated_at": "2026-09-24T15:59:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI-native desktop localization system for Paradox mods\u2014LLM orchestration, context engineering, structured validation, re",
     "id": "Drlinglong/Remis",
     "language": "Python",
@@ -13,8 +58,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59553,
-    "updated_at": "2026-09-24T15:53:35Z",
+    "stars": 59554,
+    "updated_at": "2026-09-24T15:59:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,48 +72,21 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T15:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
     "name": "mikehasa/agentacct",
     "stars": 755,
-    "updated_at": "2026-09-24T15:44:56Z",
+    "updated_at": "2026-09-24T15:56:57Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35008,
-    "updated_at": "2026-09-24T15:54:35Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-24T15:51:08Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4870,
-    "updated_at": "2026-09-24T15:42:15Z",
+    "stars": 4871,
+    "updated_at": "2026-09-24T16:00:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22219,
-    "updated_at": "2026-09-24T15:54:48Z",
+    "updated_at": "2026-09-24T15:57:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-24T15:29:20Z",
     "url": "https://github.com/kimbeomgyu/budget-guard"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-09-24T15:27:32Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1353,
-    "updated_at": "2026-09-24T15:20:21Z",
+    "updated_at": "2026-09-24T15:58:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T14:53:15Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 394,
-    "updated_at": "2026-09-24T14:50:05Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
