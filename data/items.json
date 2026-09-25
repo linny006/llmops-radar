@@ -1,21 +1,66 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28128,
+    "updated_at": "2026-09-25T04:00:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:59:05Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-25T03:55:44Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-25T03:52:04Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
+    "id": "AnshRoshan/llm-router",
+    "language": "Python",
+    "name": "AnshRoshan/llm-router",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:50:10Z",
+    "url": "https://github.com/AnshRoshan/llm-router"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-25T03:34:46Z",
+    "updated_at": "2026-09-25T03:46:58Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T03:38:02Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59580,
+    "updated_at": "2026-09-25T03:57:28Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-25T03:30:30Z",
+    "updated_at": "2026-09-25T03:46:01Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35027,
+    "updated_at": "2026-09-25T03:35:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T03:55:30Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T03:28:23Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59579,
-    "updated_at": "2026-09-25T03:44:27Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -207,15 +261,6 @@
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-25T03:00:27Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -261,15 +306,6 @@
     "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:58:02Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T02:57:30Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-25T03:42:41Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
@@ -360,15 +387,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28128,
-    "updated_at": "2026-09-25T03:29:49Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "VamsiSudhakaran1/release-gate",
     "stars": 3,
-    "updated_at": "2026-09-25T02:39:05Z",
+    "updated_at": "2026-09-25T03:57:08Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-25T02:30:44Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
-    "id": "davidahmann/applied-ai-field-guide",
-    "language": "JavaScript",
-    "name": "davidahmann/applied-ai-field-guide",
-    "stars": 112,
-    "updated_at": "2026-09-25T02:07:22Z",
-    "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
-    "id": "rodericklm1/determify",
-    "language": "Python",
-    "name": "rodericklm1/determify",
-    "stars": 1,
-    "updated_at": "2026-09-25T01:38:48Z",
-    "url": "https://github.com/rodericklm1/determify"
   }
 ]
