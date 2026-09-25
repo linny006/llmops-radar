@@ -1,21 +1,111 @@
 [
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
     "language": "Python",
-    "name": "cognifityai/verdict",
+    "name": "Alpha-W0lf/alphaguard",
     "stars": 0,
-    "updated_at": "2026-09-25T19:00:12Z",
-    "url": "https://github.com/cognifityai/verdict"
+    "updated_at": "2026-09-25T19:13:35Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T19:13:02Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-25T19:12:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-25T19:10:44Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T19:14:36Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
+    "id": "redevops-io/redevops-rag",
+    "language": "Python",
+    "name": "redevops-io/redevops-rag",
+    "stars": 9,
+    "updated_at": "2026-09-25T19:07:28Z",
+    "url": "https://github.com/redevops-io/redevops-rag"
+  },
+  {
+    "description": "AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience",
+    "id": "AAH20/ai-agent-reliability-resilience",
+    "language": "Python",
+    "name": "AAH20/ai-agent-reliability-resilience",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:07:03Z",
+    "url": "https://github.com/AAH20/ai-agent-reliability-resilience"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 1,
+    "updated_at": "2026-09-25T19:05:59Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59623,
-    "updated_at": "2026-09-25T18:59:35Z",
+    "stars": 59624,
+    "updated_at": "2026-09-25T19:14:14Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11615,
+    "updated_at": "2026-09-25T19:04:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T19:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:00:51Z",
+    "url": "https://github.com/cognifityai/verdict"
   },
   {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
@@ -36,15 +126,6 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T18:59:42Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T18:46:31Z",
     "url": "https://github.com/XIAOXUsop/ctxpress"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-25T18:38:26Z",
+    "updated_at": "2026-09-25T19:09:01Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T18:17:13Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Disha: A production-grade, agentic Personal Intelligence platform. Features multi-agent LangGraph orchestration, India-m",
     "id": "anmolsharma152/Disha",
     "language": "Python",
@@ -304,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T18:16:47Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:16:35Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
     "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-25T18:08:12Z",
     "url": "https://github.com/symphos-ai/orcho-core"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:06:46Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:05:03Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-09-25T18:03:55Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:03:06Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-25T17:57:28Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-25T17:56:54Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
   }
 ]
