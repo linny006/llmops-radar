@@ -1,5 +1,68 @@
 [
   {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:08:22Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-25T17:07:45Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59614,
+    "updated_at": "2026-09-25T17:07:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-25T17:03:14Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:02:22Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Production harness and control plane for accountable AI-assisted software delivery",
+    "id": "symphos-ai/orcho-core",
+    "language": "Python",
+    "name": "symphos-ai/orcho-core",
+    "stars": 5,
+    "updated_at": "2026-09-25T17:01:43Z",
+    "url": "https://github.com/symphos-ai/orcho-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -9,21 +72,12 @@
     "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-25T16:53:02Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-25T16:59:35Z",
+    "updated_at": "2026-09-25T17:03:31Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-25T16:50:49Z",
+    "updated_at": "2026-09-25T17:05:23Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 561,
     "updated_at": "2026-09-25T16:46:06Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59614,
-    "updated_at": "2026-09-25T16:59:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T16:46:02Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Permission-aware RAG with verified citations, evaluated against real models: hybrid retrieval, prompt-injection defences",
@@ -117,6 +153,15 @@
     "url": "https://github.com/Clawdlinux/agentic-operator-core"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2076,
+    "updated_at": "2026-09-25T16:41:34Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -124,15 +169,6 @@
     "stars": 44,
     "updated_at": "2026-09-25T16:41:18Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-25T16:40:35Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4872,
-    "updated_at": "2026-09-25T16:55:58Z",
+    "updated_at": "2026-09-25T17:07:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 23,
     "updated_at": "2026-09-25T16:36:57Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:44:56Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22237,
-    "updated_at": "2026-09-25T16:51:46Z",
+    "updated_at": "2026-09-25T17:05:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 35045,
     "updated_at": "2026-09-25T16:52:24Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failu",
-    "id": "Keesan12/martin-loop",
-    "language": "TypeScript",
-    "name": "Keesan12/martin-loop",
-    "stars": 192,
-    "updated_at": "2026-09-25T16:16:36Z",
-    "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:15:29Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:11:28Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
