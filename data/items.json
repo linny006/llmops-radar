@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59627,
-    "updated_at": "2026-09-25T21:00:07Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T21:14:43Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-09-25T20:57:30Z",
+    "updated_at": "2026-09-25T21:13:44Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:10:44Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59628,
+    "updated_at": "2026-09-25T21:11:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Azure-native agentic AI platform: Microsoft Agent Framework 1.0, Azure AI Foundry, A2A, MCP, AI Search, Document Intelli",
+    "id": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:03:32Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform"
+  },
+  {
+    "description": "Governed control plane for agentic AI: human approval, RBAC/OIDC, evals, tamper-evident audit, policy-as-code, and NIST ",
+    "id": "gburleyiii-ux/governpilot-demo",
+    "language": "JavaScript",
+    "name": "gburleyiii-ux/governpilot-demo",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:00:35Z",
+    "url": "https://github.com/gburleyiii-ux/governpilot-demo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T21:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -72,15 +117,6 @@
     "url": "https://github.com/the-ai-merge/.github"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:56:02Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
     "id": "acr3463/systemprompt-demo",
     "language": "\u2014",
@@ -97,15 +133,6 @@
     "stars": 13,
     "updated_at": "2026-09-25T20:45:28Z",
     "url": "https://github.com/Mattbusel/llm-cpp"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T20:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:44:48Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:44:18Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -306,15 +324,6 @@
     "url": "https://github.com/developersofik/greenprompt"
   },
   {
-    "description": "Azure-native agentic AI platform: Microsoft Agent Framework 1.0, Azure AI Foundry, A2A, MCP, AI Search, Document Intelli",
-    "id": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:24:17Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform"
-  },
-  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 34,
     "updated_at": "2026-09-25T20:12:36Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:11:06Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
