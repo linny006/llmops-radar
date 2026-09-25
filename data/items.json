@@ -1,30 +1,12 @@
 [
   {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-09-25T06:00:07Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59582,
-    "updated_at": "2026-09-25T05:59:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:58:52Z",
-    "url": "https://github.com/veerarakesh56/warden"
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-25T06:15:20Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -32,17 +14,35 @@
     "language": "Jupyter Notebook",
     "name": "akash-coded/aws-bedrock-agentcore-strands",
     "stars": 2,
-    "updated_at": "2026-09-25T05:58:35Z",
+    "updated_at": "2026-09-25T06:13:05Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:11:28Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
     "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 16,
-    "updated_at": "2026-09-25T05:56:13Z",
-    "url": "https://github.com/dshakes/distil"
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:11:09Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59583,
+    "updated_at": "2026-09-25T06:07:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "DSH \u63d2\u4ef6 \u00b7 \u7528 Jev\uff08TypeSafe System One\uff09\u5224\u5b9a\u63a8\u7406\u5f3a\u5ea6\uff1a\u9ed8\u8ba4\u53ea\u5207\u601d\u8003\u5f3a\u5ea6\uff08\u96f6\u7f13\u5b58\u4ee3\u4ef7\uff09\uff0c\u81ea\u52a8\u6a21\u578b\u8def\u7531\u51fa\u5382\u5173\u95ed + \u786c\u95e8\u7981 + \u6210\u672c\u95f8\u3002\u4f5c\u8005 chenshi.ai",
@@ -50,8 +50,71 @@
     "language": "JavaScript",
     "name": "CSlawyer1985/dsh-jev-router",
     "stars": 0,
-    "updated_at": "2026-09-25T05:54:59Z",
+    "updated_at": "2026-09-25T06:06:24Z",
     "url": "https://github.com/CSlawyer1985/dsh-jev-router"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-25T06:06:30Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28129,
+    "updated_at": "2026-09-25T06:05:41Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
+    "id": "VitaPilot-AI/flakelens",
+    "language": "Python",
+    "name": "VitaPilot-AI/flakelens",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:05:35Z",
+    "url": "https://github.com/VitaPilot-AI/flakelens"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:02:29Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T06:00:50Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-09-25T06:00:07Z",
+    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
@@ -81,24 +144,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-25T05:51:53Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T05:51:13Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -117,15 +162,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -135,12 +171,21 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8340,
+    "updated_at": "2026-09-25T05:43:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 44,
-    "updated_at": "2026-09-25T05:45:40Z",
+    "updated_at": "2026-09-25T06:13:07Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-09-25T05:23:18Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28129,
-    "updated_at": "2026-09-25T05:56:44Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T04:33:28Z",
     "url": "https://github.com/JosueDev-afk/qlora-mlops-pipeline"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-25T04:28:27Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:27:15Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
-    "id": "AnshRoshan/llm-router",
-    "language": "Python",
-    "name": "AnshRoshan/llm-router",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:25:51Z",
-    "url": "https://github.com/AnshRoshan/llm-router"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-09-25T04:05:29Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
