@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T03:29:59Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8335,
+    "updated_at": "2026-09-25T03:29:25Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-25T03:28:23Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59579,
+    "updated_at": "2026-09-25T03:28:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:25:21Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-25T03:21:50Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-25T03:21:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Drop-in LLMOps evaluation & observability library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric sc",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "Python",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:18:42Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:18:10Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:17:24Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-09-25T03:16:04Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-25T03:15:37Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T03:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
     "id": "justanotheruser82174/cua-lite",
     "language": "Python",
@@ -45,24 +162,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T03:10:55Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59577,
-    "updated_at": "2026-09-25T03:12:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -99,15 +198,6 @@
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
   },
   {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-25T03:00:32Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-09-25T03:00:27Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 16,
-    "updated_at": "2026-09-25T03:06:33Z",
+    "updated_at": "2026-09-25T03:21:36Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28128,
-    "updated_at": "2026-09-25T03:13:56Z",
+    "updated_at": "2026-09-25T03:29:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -295,6 +376,15 @@
     "stars": 1,
     "updated_at": "2026-09-25T02:45:08Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22229,
+    "updated_at": "2026-09-25T02:44:54Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -333,24 +423,6 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:08:36Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-25T02:39:46Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
     "id": "davidahmann/applied-ai-field-guide",
     "language": "JavaScript",
@@ -358,15 +430,6 @@
     "stars": 112,
     "updated_at": "2026-09-25T02:07:22Z",
     "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-25T01:47:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
@@ -385,68 +448,5 @@
     "stars": 113,
     "updated_at": "2026-09-25T01:36:55Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Drop-in LLMOps evaluation & observability library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric sc",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:09:42Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
-    "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:25:34Z",
-    "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-25T01:17:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
-    "id": "cristianodabc/aludel",
-    "language": "Elixir",
-    "name": "cristianodabc/aludel",
-    "stars": 39,
-    "updated_at": "2026-09-25T01:14:17Z",
-    "url": "https://github.com/cristianodabc/aludel"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:10:26Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22228,
-    "updated_at": "2026-09-25T02:44:54Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-25T03:11:08Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
