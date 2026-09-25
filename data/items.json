@@ -1,5 +1,59 @@
 [
   {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-09-25T20:29:43Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-09-25T20:29:42Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
+    "id": "Anbumani08/agentic-coding-workflow",
+    "language": "HTML",
+    "name": "Anbumani08/agentic-coding-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:29:41Z",
+    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:29:10Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-09-25T20:29:01Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T20:28:50Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4873,
-    "updated_at": "2026-09-25T20:17:08Z",
+    "updated_at": "2026-09-25T20:30:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 59626,
     "updated_at": "2026-09-25T20:28:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T20:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-25T19:16:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-25T19:10:44Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 9,
-    "updated_at": "2026-09-25T19:07:28Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience",
-    "id": "AAH20/ai-agent-reliability-resilience",
-    "language": "Python",
-    "name": "AAH20/ai-agent-reliability-resilience",
-    "stars": 0,
-    "updated_at": "2026-09-25T19:07:03Z",
-    "url": "https://github.com/AAH20/ai-agent-reliability-resilience"
-  },
-  {
-    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
-    "id": "TAIPANBOX/verdryx",
-    "language": "Python",
-    "name": "TAIPANBOX/verdryx",
-    "stars": 1,
-    "updated_at": "2026-09-25T19:05:59Z",
-    "url": "https://github.com/TAIPANBOX/verdryx"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11617,
-    "updated_at": "2026-09-25T20:23:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
