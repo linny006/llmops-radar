@@ -1,5 +1,113 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59627,
+    "updated_at": "2026-09-25T21:00:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T20:57:30Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:55:28Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-25T20:55:00Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-25T20:49:51Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:46:16Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Curated list of tools for running LLMs in production: orchestration, clients, inference, resilience, observability, guar",
+    "id": "Mattbusel/awesome-llm-infra",
+    "language": "\u2014",
+    "name": "Mattbusel/awesome-llm-infra",
+    "stars": 2,
+    "updated_at": "2026-09-25T20:46:00Z",
+    "url": "https://github.com/Mattbusel/awesome-llm-infra"
+  },
+  {
+    "description": "",
+    "id": "the-ai-merge/.github",
+    "language": "Python",
+    "name": "the-ai-merge/.github",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:45:58Z",
+    "url": "https://github.com/the-ai-merge/.github"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T20:56:02Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 0,
+    "updated_at": "2026-09-25T20:45:44Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "26 single-header C++17 libraries for building LLM features into native code: streaming, retries, caching, cost estimatio",
+    "id": "Mattbusel/llm-cpp",
+    "language": "\u2014",
+    "name": "Mattbusel/llm-cpp",
+    "stars": 13,
+    "updated_at": "2026-09-25T20:45:28Z",
+    "url": "https://github.com/Mattbusel/llm-cpp"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T20:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
     "id": "VibePod/vibepod-cli",
     "language": "Python",
@@ -18,6 +126,15 @@
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 494,
+    "updated_at": "2026-09-25T20:45:11Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
     "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
     "language": "\u2014",
@@ -25,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:44:48Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "",
-    "id": "the-ai-merge/.github",
-    "language": "Python",
-    "name": "the-ai-merge/.github",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:44:19Z",
-    "url": "https://github.com/the-ai-merge/.github"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -72,15 +180,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-25T20:38:48Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -115,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:30:44Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T20:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
@@ -171,15 +261,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:40:20Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -211,7 +292,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35049,
+    "stars": 35051,
     "updated_at": "2026-09-25T20:25:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -320,17 +401,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4873,
-    "updated_at": "2026-09-25T20:30:18Z",
+    "updated_at": "2026-09-25T20:53:52Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59626,
-    "updated_at": "2026-09-25T20:44:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -369,15 +441,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 493,
-    "updated_at": "2026-09-25T20:45:11Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:11:06Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:10:44Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:09:32Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T20:45:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-09-25T20:09:28Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:05:30Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:03:16Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-25T20:03:00Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
