@@ -1,5 +1,59 @@
 [
   {
+    "description": "Diff, version and audit LLM outputs in Rust: line diffs with similarity scores, structural JSON diffs, and a content-add",
+    "id": "Mattbusel/llm-diff",
+    "language": "Rust",
+    "name": "Mattbusel/llm-diff",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:13:18Z",
+    "url": "https://github.com/Mattbusel/llm-diff"
+  },
+  {
+    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 14,
+    "updated_at": "2026-09-25T17:12:14Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11613,
+    "updated_at": "2026-09-25T17:12:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:11:31Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Hard USD spend limits for LLM agents in Rust: per-agent and fleet-wide caps, kill switches, and automatic model downgrad",
+    "id": "Mattbusel/llm-budget",
+    "language": "Rust",
+    "name": "Mattbusel/llm-budget",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:10:42Z",
+    "url": "https://github.com/Mattbusel/llm-budget"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:09:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59614,
-    "updated_at": "2026-09-25T17:07:07Z",
+    "updated_at": "2026-09-25T17:15:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/symphos-ai/orcho-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T17:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -70,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-09-25T16:58:01Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T17:03:31Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -130,7 +166,7 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 561,
+    "stars": 562,
     "updated_at": "2026-09-25T16:46:06Z",
     "url": "https://github.com/iblai/os"
   },
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4872,
-    "updated_at": "2026-09-25T17:07:59Z",
+    "updated_at": "2026-09-25T17:14:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -270,21 +306,12 @@
     "url": "https://github.com/redevops-io/sidekick"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11613,
-    "updated_at": "2026-09-25T16:57:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22237,
-    "updated_at": "2026-09-25T17:05:49Z",
+    "updated_at": "2026-09-25T17:13:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T16:20:24Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:18:55Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:17:58Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35045,
-    "updated_at": "2026-09-25T16:52:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
