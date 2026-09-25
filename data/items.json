@@ -1,12 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
+    "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59571,
-    "updated_at": "2026-09-25T02:00:17Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:12:51Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25426,
+    "updated_at": "2026-09-25T02:14:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,8 +23,53 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-25T01:59:25Z",
+    "updated_at": "2026-09-25T02:12:00Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-09-25T02:08:11Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-25T02:04:03Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
+    "id": "davidahmann/applied-ai-field-guide",
+    "language": "JavaScript",
+    "name": "davidahmann/applied-ai-field-guide",
+    "stars": 112,
+    "updated_at": "2026-09-25T02:07:22Z",
+    "url": "https://github.com/davidahmann/applied-ai-field-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T02:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59572,
+    "updated_at": "2026-09-25T02:15:07Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -25,15 +79,6 @@
     "stars": 38,
     "updated_at": "2026-09-25T01:47:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T01:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Yacine-ai-tech/RAGeval",
     "stars": 0,
-    "updated_at": "2026-09-25T01:33:20Z",
+    "updated_at": "2026-09-25T02:13:39Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:45:49Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T00:38:37Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-25T00:32:23Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -421,32 +448,5 @@
     "stars": 2069,
     "updated_at": "2026-09-24T23:57:16Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability",
-    "id": "Aptica-Solutions/a-mcp-runmeter",
-    "language": "Python",
-    "name": "Aptica-Solutions/a-mcp-runmeter",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:57:02Z",
-    "url": "https://github.com/Aptica-Solutions/a-mcp-runmeter"
-  },
-  {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-09-25T00:28:59Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-24T23:53:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
