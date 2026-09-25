@@ -1,12 +1,21 @@
 [
   {
-    "description": "Permission-aware RAG with verified citations, evaluated against real models: hybrid retrieval, prompt-injection defences",
-    "id": "seedyjahateh/atlasops",
-    "language": "TypeScript",
-    "name": "seedyjahateh/atlasops",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:45:54Z",
-    "url": "https://github.com/seedyjahateh/atlasops"
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-25T16:58:01Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-25T16:53:02Z",
+    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-25T16:45:15Z",
+    "updated_at": "2026-09-25T16:59:35Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -23,8 +32,80 @@
     "language": "Jupyter Notebook",
     "name": "akash-coded/aws-bedrock-agentcore-strands",
     "stars": 2,
-    "updated_at": "2026-09-25T16:42:52Z",
+    "updated_at": "2026-09-25T16:51:05Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 1,
+    "updated_at": "2026-09-25T16:49:44Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1236,
+    "updated_at": "2026-09-25T16:49:08Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-09-25T16:47:08Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:50:49Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 561,
+    "updated_at": "2026-09-25T16:46:06Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59614,
+    "updated_at": "2026-09-25T16:59:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T16:46:02Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Permission-aware RAG with verified citations, evaluated against real models: hybrid retrieval, prompt-injection defences",
+    "id": "seedyjahateh/atlasops",
+    "language": "TypeScript",
+    "name": "seedyjahateh/atlasops",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:45:54Z",
+    "url": "https://github.com/seedyjahateh/atlasops"
   },
   {
     "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
@@ -54,24 +135,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:40:26Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59613,
-    "updated_at": "2026-09-25T16:45:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4872,
-    "updated_at": "2026-09-25T16:41:28Z",
+    "updated_at": "2026-09-25T16:55:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11613,
-    "updated_at": "2026-09-25T16:45:58Z",
+    "updated_at": "2026-09-25T16:57:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22237,
-    "updated_at": "2026-09-25T16:31:38Z",
+    "updated_at": "2026-09-25T16:51:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -207,15 +270,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T16:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T16:29:36Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-25T16:29:25Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35045,
-    "updated_at": "2026-09-25T16:36:41Z",
+    "updated_at": "2026-09-25T16:52:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/developersofik/greenprompt"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-25T16:15:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T16:11:28Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 34,
-    "updated_at": "2026-09-25T16:11:01Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1236,
-    "updated_at": "2026-09-25T16:10:27Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:10:04Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:09:18Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   }
 ]
