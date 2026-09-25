@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T06:21:27Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "DSH \u63d2\u4ef6 \u00b7 \u7528 Jev\uff08TypeSafe System One\uff09\u5224\u5b9a\u63a8\u7406\u5f3a\u5ea6\uff1a\u9ed8\u8ba4\u53ea\u5207\u601d\u8003\u5f3a\u5ea6\uff08\u96f6\u7f13\u5b58\u4ee3\u4ef7\uff09\uff0c\u81ea\u52a8\u6a21\u578b\u8def\u7531\u51fa\u5382\u5173\u95ed + \u786c\u95e8\u7981 + \u6210\u672c\u95f8\u3002\u4f5c\u8005 chenshi.ai",
+    "id": "CSlawyer1985/dsh-jev-router",
+    "language": "JavaScript",
+    "name": "CSlawyer1985/dsh-jev-router",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:20:33Z",
+    "url": "https://github.com/CSlawyer1985/dsh-jev-router"
+  },
+  {
+    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
+    "id": "VitaPilot-AI/flakelens",
+    "language": "Python",
+    "name": "VitaPilot-AI/flakelens",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:20:26Z",
+    "url": "https://github.com/VitaPilot-AI/flakelens"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:19:07Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-09-25T06:17:37Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59583,
-    "updated_at": "2026-09-25T06:07:24Z",
+    "updated_at": "2026-09-25T06:20:39Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6 \u00b7 \u7528 Jev\uff08TypeSafe System One\uff09\u5224\u5b9a\u63a8\u7406\u5f3a\u5ea6\uff1a\u9ed8\u8ba4\u53ea\u5207\u601d\u8003\u5f3a\u5ea6\uff08\u96f6\u7f13\u5b58\u4ee3\u4ef7\uff09\uff0c\u81ea\u52a8\u6a21\u578b\u8def\u7531\u51fa\u5382\u5173\u95ed + \u786c\u95e8\u7981 + \u6210\u672c\u95f8\u3002\u4f5c\u8005 chenshi.ai",
-    "id": "CSlawyer1985/dsh-jev-router",
-    "language": "JavaScript",
-    "name": "CSlawyer1985/dsh-jev-router",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:06:24Z",
-    "url": "https://github.com/CSlawyer1985/dsh-jev-router"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -68,17 +113,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28129,
-    "updated_at": "2026-09-25T06:05:41Z",
+    "updated_at": "2026-09-25T06:18:27Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Separate real LLM failures from flaky ones. Repeat-run evals with Wilson confidence intervals. Zero deps.",
-    "id": "VitaPilot-AI/flakelens",
-    "language": "Python",
-    "name": "VitaPilot-AI/flakelens",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:05:35Z",
-    "url": "https://github.com/VitaPilot-AI/flakelens"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:02:29Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T06:00:50Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T06:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -178,15 +196,6 @@
     "stars": 8340,
     "updated_at": "2026-09-25T05:43:01Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-09-25T06:13:07Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T04:36:38Z",
     "url": "https://github.com/asher0913/ai-gateway-control-plane"
-  },
-  {
-    "description": "An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents",
-    "id": "JosueDev-afk/qlora-mlops-pipeline",
-    "language": "Python",
-    "name": "JosueDev-afk/qlora-mlops-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:33:28Z",
-    "url": "https://github.com/JosueDev-afk/qlora-mlops-pipeline"
   }
 ]
