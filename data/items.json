@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-09-25T09:28:40Z",
+    "updated_at": "2026-09-25T09:41:55Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35033,
+    "updated_at": "2026-09-25T09:43:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:43:32Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-25T09:41:15Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
@@ -14,7 +41,7 @@
     "language": "Jupyter Notebook",
     "name": "apache/hamilton",
     "stars": 2599,
-    "updated_at": "2026-09-25T09:30:23Z",
+    "updated_at": "2026-09-25T09:41:10Z",
     "url": "https://github.com/apache/hamilton"
   },
   {
@@ -23,8 +50,62 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-09-25T09:27:48Z",
+    "updated_at": "2026-09-25T09:40:18Z",
     "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Lightweight, CI-first evaluation pipeline and quality gate for RAG systems and AI agents \u2014 golden dataset, deterministic",
+    "id": "FlorianMartins/rag-eval-pipeline",
+    "language": "Python",
+    "name": "FlorianMartins/rag-eval-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:39:40Z",
+    "url": "https://github.com/FlorianMartins/rag-eval-pipeline"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-09-25T09:39:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8352,
+    "updated_at": "2026-09-25T09:38:20Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Personal engineering portfolio: a production-shaped Azure ML/AI platform \u2014 Terraform, Azure Databricks, Unity Catalog, A",
+    "id": "ProfessorBanner/azure-ai-platform",
+    "language": "Python",
+    "name": "ProfessorBanner/azure-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:33:35Z",
+    "url": "https://github.com/ProfessorBanner/azure-ai-platform"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28132,
+    "updated_at": "2026-09-25T09:34:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T09:28:01Z",
     "url": "https://github.com/ha7n23/careerops-agent-engine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35033,
-    "updated_at": "2026-09-25T09:28:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -72,31 +144,13 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28132,
-    "updated_at": "2026-09-25T09:22:30Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Overmind is the platform for continuously improving AI agents. Our developer tools\u2014observability, data preparation, eval",
+    "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 31,
-    "updated_at": "2026-09-25T09:21:10Z",
+    "updated_at": "2026-09-25T09:43:45Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Lightweight, CI-first evaluation pipeline and quality gate for RAG systems and AI agents \u2014 golden dataset, deterministic",
-    "id": "FlorianMartins/rag-eval-pipeline",
-    "language": "Python",
-    "name": "FlorianMartins/rag-eval-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:21:55Z",
-    "url": "https://github.com/FlorianMartins/rag-eval-pipeline"
   },
   {
     "description": "DSH \u63d2\u4ef6 \u00b7 \u7528 Jev\uff08TypeSafe System One\uff09\u5224\u5b9a\u63a8\u7406\u5f3a\u5ea6\uff1a\u9ed8\u8ba4\u53ea\u5207\u601d\u8003\u5f3a\u5ea6\uff08\u96f6\u7f13\u5b58\u4ee3\u4ef7\uff09\uff0c\u81ea\u52a8\u6a21\u578b\u8def\u7531\u51fa\u5382\u5173\u95ed + \u786c\u95e8\u7981 + \u6210\u672c\u95f8\u3002\u4f5c\u8005 chenshi.ai",
@@ -124,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-09-25T09:17:17Z",
     "url": "https://github.com/1420079678-ctrl/agent-body"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T09:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-25T09:02:57Z",
+    "updated_at": "2026-09-25T09:39:04Z",
     "url": "https://github.com/cognifityai/verdict"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T09:01:26Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8351,
-    "updated_at": "2026-09-25T09:20:05Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T08:51:28Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T08:50:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
@@ -418,35 +445,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7160,
+    "stars": 7161,
     "updated_at": "2026-09-25T08:38:33Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-25T08:47:19Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-25T08:36:36Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-09-25T08:36:17Z",
-    "url": "https://github.com/Kokotpica/surogate"
   }
 ]
