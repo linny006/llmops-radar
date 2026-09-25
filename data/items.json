@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-25T00:00:01Z",
+    "updated_at": "2026-09-25T00:15:05Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59570,
+    "updated_at": "2026-09-25T00:14:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T00:13:33Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Enterprise Client Research & Qualification Agent on Databricks Mosaic AI: agentic RAG over public company evidence produ",
+    "id": "kogunlowo123/client-research-qualification-agent",
+    "language": "Python",
+    "name": "kogunlowo123/client-research-qualification-agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:11:44Z",
+    "url": "https://github.com/kogunlowo123/client-research-qualification-agent"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-25T00:09:22Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:03:37Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
+    "id": "fathomforge/belay",
+    "language": "TypeScript",
+    "name": "fathomforge/belay",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:01:32Z",
+    "url": "https://github.com/fathomforge/belay"
+  },
+  {
+    "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
+    "id": "rodericklm1/determify",
+    "language": "Python",
+    "name": "rodericklm1/determify",
+    "stars": 1,
+    "updated_at": "2026-09-25T00:00:35Z",
+    "url": "https://github.com/rodericklm1/determify"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-25T00:00:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T00:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MCP server for LLM and agent run telemetry: cost, tokens, latency, and reliability observability",
@@ -36,24 +117,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59570,
-    "updated_at": "2026-09-24T23:59:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T23:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 81,
-    "updated_at": "2026-09-24T23:58:49Z",
+    "updated_at": "2026-09-25T00:12:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-24T23:59:12Z",
+    "updated_at": "2026-09-25T00:14:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -202,7 +265,7 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 470,
+    "stars": 471,
     "updated_at": "2026-09-24T23:15:37Z",
     "url": "https://github.com/iblai/os"
   },
@@ -225,15 +288,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-24T23:51:47Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22225,
-    "updated_at": "2026-09-24T23:11:48Z",
+    "updated_at": "2026-09-25T00:07:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-09-24T23:07:33Z",
+    "updated_at": "2026-09-25T00:15:22Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T22:55:18Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-24T22:40:46Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 38,
-    "updated_at": "2026-09-24T22:35:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 492,
-    "updated_at": "2026-09-24T22:35:06Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-24T23:17:44Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25424,
-    "updated_at": "2026-09-24T22:23:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Self-hosted multi-agent AI orchestration with governance built in: one router in, cost tiers and isolated lanes, PII scr",
-    "id": "jgobuilds/ai-control-plane-public",
-    "language": "Python",
-    "name": "jgobuilds/ai-control-plane-public",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:20:59Z",
-    "url": "https://github.com/jgobuilds/ai-control-plane-public"
   }
 ]
