@@ -1,12 +1,57 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-25T02:28:18Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
     "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
     "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
     "name": "Yacine-ai-tech/AgentKit",
     "stars": 0,
-    "updated_at": "2026-09-25T02:12:51Z",
+    "updated_at": "2026-09-25T02:27:07Z",
     "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-25T02:25:18Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 16,
+    "updated_at": "2026-09-25T02:24:06Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59573,
+    "updated_at": "2026-09-25T02:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T02:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -18,13 +63,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T02:12:00Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 165,
+    "updated_at": "2026-09-25T02:08:29Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -36,15 +81,6 @@
     "url": "https://github.com/olivaresai/olivares"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-25T02:04:03Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.",
     "id": "davidahmann/applied-ai-field-guide",
     "language": "JavaScript",
@@ -52,24 +88,6 @@
     "stars": 112,
     "updated_at": "2026-09-25T02:07:22Z",
     "url": "https://github.com/davidahmann/applied-ai-field-guide"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T02:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59572,
-    "updated_at": "2026-09-25T02:15:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-25T01:25:04Z",
+    "updated_at": "2026-09-25T02:26:18Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -358,6 +376,15 @@
     "stars": 28127,
     "updated_at": "2026-09-25T01:17:44Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11606,
+    "updated_at": "2026-09-25T00:44:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T00:11:44Z",
     "url": "https://github.com/kogunlowo123/client-research-qualification-agent"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-25T00:29:11Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Spend caps, rate limits and a graceful pause ladder for OpenClaw agents. In-process, zero runtime dependencies, no telem",
-    "id": "fathomforge/belay",
-    "language": "TypeScript",
-    "name": "fathomforge/belay",
-    "stars": 0,
-    "updated_at": "2026-09-25T00:01:32Z",
-    "url": "https://github.com/fathomforge/belay"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2069,
-    "updated_at": "2026-09-24T23:57:16Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
