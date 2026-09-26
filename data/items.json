@@ -1,12 +1,12 @@
 [
   {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-26T22:50:49Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-26T23:14:57Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59672,
-    "updated_at": "2026-09-26T22:59:59Z",
+    "updated_at": "2026-09-26T23:14:20Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-26T23:01:48Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Real-time quality signals for AI agents. Jev-powered evaluation, OpenTelemetry trace enrichment, and quality SLOs.",
+    "id": "alebgl77/openspanguard",
+    "language": "\u2014",
+    "name": "alebgl77/openspanguard",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:00:51Z",
+    "url": "https://github.com/alebgl77/openspanguard"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T22:45:25Z",
+    "updated_at": "2026-09-26T23:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-26T22:50:49Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -36,21 +63,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-26T22:31:39Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25478,
-    "updated_at": "2026-09-26T23:00:02Z",
+    "updated_at": "2026-09-26T23:12:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T22:24:11Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-26T22:22:24Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-26T22:25:27Z",
+    "updated_at": "2026-09-26T23:03:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-26T20:39:05Z",
     "url": "https://github.com/VeraPyuyi/prompt_control_lab"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-26T20:37:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
