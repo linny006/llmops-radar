@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59662,
-    "updated_at": "2026-09-26T15:44:26Z",
+    "updated_at": "2026-09-26T16:00:03Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:58:45Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
+    "id": "instruxi-io/enforcer-governor",
+    "language": "JavaScript",
+    "name": "instruxi-io/enforcer-governor",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:54:48Z",
+    "url": "https://github.com/instruxi-io/enforcer-governor"
+  },
+  {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:54:11Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
+    "id": "labfile0-eng/ai-spend-doctor",
+    "language": "HTML",
+    "name": "labfile0-eng/ai-spend-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:51:59Z",
+    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -14,8 +50,53 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-26T15:41:16Z",
+    "updated_at": "2026-09-26T15:51:44Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-26T15:51:36Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:51:30Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
+    "id": "gatemux-dev/gatemux",
+    "language": "Go",
+    "name": "gatemux-dev/gatemux",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:51:08Z",
+    "url": "https://github.com/gatemux-dev/gatemux"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:46:45Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T15:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -40,8 +121,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7253,
-    "updated_at": "2026-09-26T15:34:10Z",
+    "stars": 7254,
+    "updated_at": "2026-09-26T15:59:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/Scottcjn/ram-coffers"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T15:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -72,15 +144,6 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:19:54Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-26T15:15:43Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-26T15:31:39Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Static scanner that audits agentic codebases for LLM misuse and routes each workload to the cheapest correct execution t",
@@ -126,7 +180,7 @@
     "url": "https://github.com/1420079678-ctrl/agent-body"
   },
   {
-    "description": "LLMOps Pipeline \u2014 dynamic GPU scaling and pipeline visualization for LLM workloads.",
+    "description": "LLMOps pipeline visualizer \u2014 dynamic GPU scaling and the path from prompt to tokens, in one live page.",
     "id": "sourabh7300/llmops-pipelines",
     "language": "HTML",
     "name": "sourabh7300/llmops-pipelines",
@@ -225,20 +279,11 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:00:46Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Fi",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
-    "stars": 334,
+    "stars": 336,
     "updated_at": "2026-09-26T13:55:06Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4877,
-    "updated_at": "2026-09-26T15:38:14Z",
+    "updated_at": "2026-09-26T15:55:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T13:16:49Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-09-26T13:13:49Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:13:16Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:12:01Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:08:28Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:06:08Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
