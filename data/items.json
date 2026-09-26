@@ -1,5 +1,41 @@
 [
   {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-09-26T09:43:53Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T09:34:45Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-26T09:33:43Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T09:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T09:29:20Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25466,
-    "updated_at": "2026-09-26T09:28:37Z",
+    "updated_at": "2026-09-26T09:42:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T09:26:59Z",
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:25:40Z",
-    "url": "https://github.com/storm-software/mindctl"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -117,15 +135,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T09:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59648,
-    "updated_at": "2026-09-26T09:27:12Z",
+    "updated_at": "2026-09-26T09:45:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 83,
     "updated_at": "2026-09-26T08:04:29Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 10,
-    "updated_at": "2026-09-26T08:03:09Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
   }
 ]
