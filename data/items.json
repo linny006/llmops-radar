@@ -1,12 +1,30 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\u5f00\u6e90 AI Agent \u6cbb\u7406\u6280\u80fd\u5e93\uff1a87 \u4e2a\u96f6\u4f9d\u8d56\u6280\u80fd\uff0c\u8ba9\u6bcf\u4e2a AI \u8f93\u51fa\u6709\u7c4d\u00b7\u6709\u8bc1\u00b7\u6709\u95e8\u7981\u3002\u8986\u76d6 AI \u6cbb\u7406 / Agent \u5b89\u5168 / \u5408\u89c4\u81ea\u52a8\u5316 / \u8bb0\u5fc6\u6cbb\u7406\uff0c\u9002\u914d Claude Code \u00b7 Codex \u00b7 Cursor \u00b7 Work",
+    "id": "zhaoxinghua09-cell/agent-skills",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59633,
-    "updated_at": "2026-09-26T00:14:46Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "zhaoxinghua09-cell/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-26T00:29:03Z",
+    "url": "https://github.com/zhaoxinghua09-cell/agent-skills"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-09-26T00:25:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
+    "id": "YassirCher/reviewlens-ai",
+    "language": "Python",
+    "name": "YassirCher/reviewlens-ai",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:25:19Z",
+    "url": "https://github.com/YassirCher/reviewlens-ai"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -14,8 +32,53 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-26T00:10:07Z",
+    "updated_at": "2026-09-26T00:24:05Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-26T00:27:30Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Terminal dashboard and Rust library for LLM spend: turn a JSON log of model calls into live cost per request, per-model ",
+    "id": "Mattbusel/llm-cost-dashboard",
+    "language": "Rust",
+    "name": "Mattbusel/llm-cost-dashboard",
+    "stars": 2,
+    "updated_at": "2026-09-26T00:21:20Z",
+    "url": "https://github.com/Mattbusel/llm-cost-dashboard"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:23:53Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59633,
+    "updated_at": "2026-09-26T00:30:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T00:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -27,15 +90,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T00:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
     "id": "maida-ai/maida-assert",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T23:59:50Z",
     "url": "https://github.com/maida-ai/maida-assert"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-09-25T23:58:18Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-25T23:10:43Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-09-25T23:06:28Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-25T22:50:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 167,
-    "updated_at": "2026-09-25T22:28:56Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-09-25T22:28:33Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "26 single-header C++17 libraries for building LLM features into native code: streaming, retries, caching, cost estimatio",
-    "id": "Mattbusel/llm-cpp",
-    "language": "HTML",
-    "name": "Mattbusel/llm-cpp",
-    "stars": 13,
-    "updated_at": "2026-09-25T22:27:45Z",
-    "url": "https://github.com/Mattbusel/llm-cpp"
   }
 ]
