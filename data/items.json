@@ -1,21 +1,39 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28138,
-    "updated_at": "2026-09-26T01:48:25Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-26T01:59:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T01:46:58Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 115,
+    "updated_at": "2026-09-26T01:58:44Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-26T01:58:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-26T01:55:35Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T01:45:24Z",
+    "updated_at": "2026-09-26T01:49:40Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T01:49:38Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28138,
+    "updated_at": "2026-09-26T01:48:25Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59636,
-    "updated_at": "2026-09-26T01:49:12Z",
+    "updated_at": "2026-09-26T01:57:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-26T01:41:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -373,7 +400,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30323,
+    "stars": 30324,
     "updated_at": "2026-09-26T00:59:48Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T00:25:19Z",
     "url": "https://github.com/YassirCher/reviewlens-ai"
-  },
-  {
-    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-26T00:23:53Z",
-    "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25461,
-    "updated_at": "2026-09-26T00:02:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
-    "id": "maida-ai/maida-assert",
-    "language": "Python",
-    "name": "maida-ai/maida-assert",
-    "stars": 4,
-    "updated_at": "2026-09-25T23:59:50Z",
-    "url": "https://github.com/maida-ai/maida-assert"
   }
 ]
