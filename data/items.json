@@ -1,12 +1,75 @@
 [
   {
-    "description": "An inspectable DeepEval + Jev lab with real recorded evidence, release gates, and drift monitoring.",
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:13:06Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "A hands-on educational lab for DeepEval + Jev: inspect real recorded judgments, explore release gates and drift playback",
     "id": "shyamsridhar123/JudgeJev",
     "language": "Python",
     "name": "shyamsridhar123/JudgeJev",
     "stars": 0,
-    "updated_at": "2026-09-26T12:00:03Z",
+    "updated_at": "2026-09-26T12:12:33Z",
     "url": "https://github.com/shyamsridhar123/JudgeJev"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:12:18Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
+    "id": "Guillain-RDCDE/Trusted-Transcription",
+    "language": "Python",
+    "name": "Guillain-RDCDE/Trusted-Transcription",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:13:03Z",
+    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:10:00Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:02:26Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T12:01:31Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -22,18 +85,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35065,
+    "stars": 35066,
     "updated_at": "2026-09-26T11:53:42Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-26T11:46:44Z",
-    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T11:46:25Z",
     "url": "https://github.com/amareshhebbar/gitgrounded"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T11:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -90,21 +135,12 @@
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:34:11Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59652,
-    "updated_at": "2026-09-26T11:57:12Z",
+    "updated_at": "2026-09-26T12:12:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T11:28:33Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T11:26:39Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T11:13:57Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-26T11:13:01Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-26T10:47:05Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-26T10:46:07Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-26T11:34:24Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
