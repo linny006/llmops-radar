@@ -1,12 +1,120 @@
 [
   {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:15:03Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
+    "id": "labfile0-eng/ai-spend-doctor",
+    "language": "HTML",
+    "name": "labfile0-eng/ai-spend-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:13:33Z",
+    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
+  },
+  {
+    "description": "Local-first agentic reader for ML papers with equation walkthroughs, cited paper chat, research lineage, human-aligned j",
+    "id": "Siris2314/deep-paper-reader",
+    "language": "Python",
+    "name": "Siris2314/deep-paper-reader",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:12:16Z",
+    "url": "https://github.com/Siris2314/deep-paper-reader"
+  },
+  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-26T16:59:57Z",
+    "updated_at": "2026-09-26T17:11:56Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:13:23Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59664,
+    "updated_at": "2026-09-26T17:10:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7263,
+    "updated_at": "2026-09-26T17:10:15Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-09-26T17:09:49Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-26T17:08:44Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
+    "id": "DuqueOM/ml-platform",
+    "language": "Python",
+    "name": "DuqueOM/ml-platform",
+    "stars": 2,
+    "updated_at": "2026-09-26T17:08:17Z",
+    "url": "https://github.com/DuqueOM/ml-platform"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:05:37Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
+    "id": "instruxi-io/enforcer-governor",
+    "language": "JavaScript",
+    "name": "instruxi-io/enforcer-governor",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:09:14Z",
+    "url": "https://github.com/instruxi-io/enforcer-governor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T17:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -27,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7262,
-    "updated_at": "2026-09-26T17:00:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
     "id": "Aditya31398/agentdynamics",
     "language": "Python",
@@ -43,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T16:54:27Z",
     "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
-    "id": "instruxi-io/enforcer-governor",
-    "language": "JavaScript",
-    "name": "instruxi-io/enforcer-governor",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:54:25Z",
-    "url": "https://github.com/instruxi-io/enforcer-governor"
-  },
-  {
-    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
-    "id": "labfile0-eng/ai-spend-doctor",
-    "language": "HTML",
-    "name": "labfile0-eng/ai-spend-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:52:57Z",
-    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
   },
   {
     "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
@@ -72,24 +153,6 @@
     "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-26T16:47:16Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -97,6 +160,15 @@
     "stars": 28141,
     "updated_at": "2026-09-26T16:46:14Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2081,
+    "updated_at": "2026-09-26T16:44:54Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -108,21 +180,12 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:57:03Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-26T16:36:15Z",
+    "updated_at": "2026-09-26T17:12:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/tjromack/open311-pipeline"
   },
   {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:30:22Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
     "description": "Dify with Let's Encrypt Using Docker Compose",
     "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T16:49:50Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59662,
-    "updated_at": "2026-09-26T16:50:11Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
@@ -194,17 +239,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-26T16:53:37Z",
+    "updated_at": "2026-09-26T17:04:26Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
-    "id": "DuqueOM/ml-platform",
-    "language": "Python",
-    "name": "DuqueOM/ml-platform",
-    "stars": 2,
-    "updated_at": "2026-09-26T16:21:44Z",
-    "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
     "description": "Agentic Runtime",
@@ -250,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T16:03:39Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:58:45Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:51:30Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -324,6 +342,15 @@
     "url": "https://github.com/1420079678-ctrl/agent-body"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11627,
+    "updated_at": "2026-09-26T14:51:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLMOps pipeline visualizer \u2014 dynamic GPU scaling and the path from prompt to tokens, in one live page.",
     "id": "sourabh7300/llmops-pipelines",
     "language": "HTML",
@@ -365,7 +392,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-26T16:54:04Z",
+    "updated_at": "2026-09-26T17:13:16Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4877,
     "updated_at": "2026-09-26T16:52:32Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:37:35Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2892,
-    "updated_at": "2026-09-26T13:35:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:33:49Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
