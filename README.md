@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 00:30 UTC
+> ⏰ Last updated: 2026-09-26 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zhaoxinghua09-cell/agent-skills](https://github.com/zhaoxinghua09-cell/agent-skills) | 1 | Python | 2026-09-26 | 开源 AI Agent 治理技能库：87 个零依赖技能，让每个 AI 输出有籍·有证·有门禁。覆盖 AI 治理 / Agent 安全 / 合规自动化 / 记忆治理，适配 Claude Code · Codex · Cursor · Work |
-| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 3 | [YassirCher/reviewlens-ai](https://github.com/YassirCher/reviewlens-ai) | 0 | Python | 2026-09-26 | Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience |
-| 4 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 83 | Python | 2026-09-26 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 6 | [Mattbusel/llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | 2 | Rust | 2026-09-26 | Terminal dashboard and Rust library for LLM spend: turn a JSON log of model calls into live cost per request, per-model  |
-| 7 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-26 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59633 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25461 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 11 | [maida-ai/maida-assert](https://github.com/maida-ai/maida-assert) | 4 | Python | 2026-09-25 | GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR, |
-| 12 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 1 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59634 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [zhaoxinghua09-cell/agent-skills](https://github.com/zhaoxinghua09-cell/agent-skills) | 1 | Python | 2026-09-26 | 开源 AI Agent 治理技能库：87 个零依赖技能，让每个 AI 输出有籍·有证·有门禁。覆盖 AI 治理 / Agent 安全 / 合规自动化 / 记忆治理，适配 Claude Code · Codex · Cursor · Work |
+| 4 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-09-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 5 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [YassirCher/reviewlens-ai](https://github.com/YassirCher/reviewlens-ai) | 0 | Python | 2026-09-26 | Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience |
+| 8 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 83 | Python | 2026-09-26 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 9 | [Mattbusel/llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | 2 | Rust | 2026-09-26 | Terminal dashboard and Rust library for LLM spend: turn a JSON log of model calls into live cost per request, per-model  |
+| 10 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-26 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
+| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25461 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 12 | [maida-ai/maida-assert](https://github.com/maida-ai/maida-assert) | 4 | Python | 2026-09-25 | GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR, |
 | 13 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-25 | ThakiCloud Tech Blog |
 | 14 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 15 | [Alpha-W0lf/alphaguard](https://github.com/Alpha-W0lf/alphaguard) | 0 | Python | 2026-09-25 | Multi-agent financial research: news → RAG → BUY/HOLD/PASS → downside-risk gate → local LLMOps summary |
