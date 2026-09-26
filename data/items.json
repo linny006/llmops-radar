@@ -1,12 +1,30 @@
 [
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-26T03:45:06Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2892,
+    "updated_at": "2026-09-26T03:57:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames stream between components, each runnin",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-26T03:56:20Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Dashboard financiero con Angular, .NET, SQL Server, SignalR y RBAC. Desarrollo asistido por IA con Graphify, RAG local, ",
+    "id": "Sebastian2759/aurea-financial-dashboard-ai",
+    "language": "C#",
+    "name": "Sebastian2759/aurea-financial-dashboard-ai",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:56:14Z",
+    "url": "https://github.com/Sebastian2759/aurea-financial-dashboard-ai"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -14,17 +32,44 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-09-26T03:44:14Z",
+    "updated_at": "2026-09-26T03:55:20Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
     "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2892,
-    "updated_at": "2026-09-26T03:38:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:49:51Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59639,
+    "updated_at": "2026-09-26T03:58:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T03:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-26T03:45:06Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -72,15 +117,6 @@
     "url": "https://github.com/acr3463/systemprompt-demo"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-26T03:35:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
     "id": "Unadventurous-concertina802/arcadia-win-script-execute",
     "language": "HTML",
@@ -117,15 +153,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T03:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T03:25:59Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59638,
-    "updated_at": "2026-09-26T03:41:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-09-26T03:44:45Z",
+    "updated_at": "2026-09-26T03:58:15Z",
     "url": "https://github.com/domondi1/inferrail"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-26T03:14:40Z",
+    "updated_at": "2026-09-26T03:49:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -423,30 +441,12 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Top AI Agent Analytics (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
-    "id": "ishandutta2007/Awesome-AI-Agent-Analytics",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-AI-Agent-Analytics",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:38:06Z",
-    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Analytics"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-26T02:28:12Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
-    "id": "dev-rb-hub/maximinion-ce",
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "dev-rb-hub/maximinion-ce",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:14:45Z",
-    "url": "https://github.com/dev-rb-hub/maximinion-ce"
+    "name": "langfuse/langfuse",
+    "stars": 35054,
+    "updated_at": "2026-09-26T02:39:16Z",
+    "url": "https://github.com/langfuse/langfuse"
   }
 ]
