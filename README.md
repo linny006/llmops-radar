@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 12:15 UTC
+> ⏰ Last updated: 2026-09-26 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 2 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-09-26 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [SreenathKarthick11/Sage-Serve](https://github.com/SreenathKarthick11/Sage-Serve) | 0 | Jupyter Notebook | 2026-09-26 | The Project for the Course : DS5619 MLOPS |
-| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8373 | Go | 2026-09-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 6 | [shyamsridhar123/JudgeJev](https://github.com/shyamsridhar123/JudgeJev) | 0 | Python | 2026-09-26 | A hands-on educational lab for DeepEval + Jev: inspect real recorded judgments, explore release gates and drift playback |
-| 7 | [architsharm/agentfox](https://github.com/architsharm/agentfox) | 3 | Python | 2026-09-26 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
-| 8 | [Guillain-RDCDE/Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription) | 0 | Python | 2026-09-26 | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can inv |
-| 9 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-26 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 10 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 11 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 12 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35067 | TypeScript | 2026-09-26 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 13 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
-| 14 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-26 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
-| 15 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-26 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 16 | [lisn0/tidal](https://github.com/lisn0/tidal) | 0 | Nunjucks | 2026-09-26 | llmcfo |
+| 1 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 2 | [lisn0/tidal](https://github.com/lisn0/tidal) | 0 | Nunjucks | 2026-09-26 | llmcfo |
+| 3 | [shyamsridhar123/JudgeJev](https://github.com/shyamsridhar123/JudgeJev) | 0 | Python | 2026-09-26 | A hands-on educational lab for DeepEval + Jev: inspect real recorded judgments, explore release gates and drift playback |
+| 4 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-26 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
+| 5 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 44 | Ruby | 2026-09-26 | Rails-native LLM cost ledger: track spend by provider, model, and feature with self-hosted storage and budget guardrails |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 8 | [SreenathKarthick11/Sage-Serve](https://github.com/SreenathKarthick11/Sage-Serve) | 0 | Jupyter Notebook | 2026-09-26 | The Project for the Course : DS5619 MLOPS |
+| 9 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8373 | Go | 2026-09-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 10 | [architsharm/agentfox](https://github.com/architsharm/agentfox) | 3 | Python | 2026-09-26 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
+| 11 | [Guillain-RDCDE/Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription) | 0 | Python | 2026-09-26 | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can inv |
+| 12 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 13 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35068 | TypeScript | 2026-09-26 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 14 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 15 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-26 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
+| 16 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 3 | HTML | 2026-09-26 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
 | 17 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-09-26 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
 | 18 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59652 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 19 | [truera/trulens](https://github.com/truera/trulens) | 3573 | Python | 2026-09-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-09-26 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 29 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-09-26 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
 | 30 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-09-26 | Scan AI-generated code for security, performance, and code quality issues before they ship |
-| 31 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25469 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 31 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25470 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 32 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-09-26 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
 | 33 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-09-26 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
 | 34 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
