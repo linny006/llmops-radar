@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:28:12Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Real-time quality signals for AI agents. Jev-powered evaluation, OpenTelemetry trace enrichment, and quality SLOs.",
+    "id": "alebgl77/openspanguard",
+    "language": "TypeScript",
+    "name": "alebgl77/openspanguard",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:29:59Z",
+    "url": "https://github.com/alebgl77/openspanguard"
+  },
+  {
+    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
+    "id": "instruxi-io/enforcer-governor",
+    "language": "JavaScript",
+    "name": "instruxi-io/enforcer-governor",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:27:49Z",
+    "url": "https://github.com/instruxi-io/enforcer-governor"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-26T23:26:36Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterpris",
+    "id": "Scottcjn/ram-coffers",
+    "language": "Python",
+    "name": "Scottcjn/ram-coffers",
+    "stars": 170,
+    "updated_at": "2026-09-26T23:25:58Z",
+    "url": "https://github.com/Scottcjn/ram-coffers"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-26T23:20:37Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-26T23:25:04Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T23:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -14,35 +86,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59672,
-    "updated_at": "2026-09-26T23:14:20Z",
+    "updated_at": "2026-09-26T23:30:15Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-26T23:01:48Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Real-time quality signals for AI agents. Jev-powered evaluation, OpenTelemetry trace enrichment, and quality SLOs.",
-    "id": "alebgl77/openspanguard",
-    "language": "\u2014",
-    "name": "alebgl77/openspanguard",
-    "stars": 0,
-    "updated_at": "2026-09-26T23:00:51Z",
-    "url": "https://github.com/alebgl77/openspanguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T23:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25478,
-    "updated_at": "2026-09-26T23:12:34Z",
+    "updated_at": "2026-09-26T23:28:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-09-26T22:27:24Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-26T22:33:04Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T22:11:48Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-09-26T22:11:50Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -387,15 +414,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-26T21:35:08Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-26T21:09:15Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-26T21:12:29Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
-    "id": "VeraPyuyi/prompt_control_lab",
-    "language": "Python",
-    "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 7,
-    "updated_at": "2026-09-26T20:39:05Z",
-    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
   }
 ]
