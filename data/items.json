@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59666,
+    "updated_at": "2026-09-26T17:29:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T17:24:12Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-26T17:22:47Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt \u2014 no ",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:27:48Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Juror-AI/juror",
+    "language": "TypeScript",
+    "name": "Juror-AI/juror",
+    "stars": 118,
+    "updated_at": "2026-09-26T17:19:56Z",
+    "url": "https://github.com/Juror-AI/juror"
+  },
+  {
+    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
+    "id": "instruxi-io/enforcer-governor",
+    "language": "JavaScript",
+    "name": "instruxi-io/enforcer-governor",
+    "stars": 0,
+    "updated_at": "2026-09-26T17:15:44Z",
+    "url": "https://github.com/instruxi-io/enforcer-governor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T17:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Siris2314/deep-paper-reader"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T17:11:56Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -45,20 +99,11 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59664,
-    "updated_at": "2026-09-26T17:10:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7263,
+    "stars": 7266,
     "updated_at": "2026-09-26T17:10:15Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -68,17 +113,8 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-26T17:09:49Z",
+    "updated_at": "2026-09-26T17:18:37Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-26T17:08:44Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -99,30 +135,12 @@
     "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
-    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
-    "id": "instruxi-io/enforcer-governor",
-    "language": "JavaScript",
-    "name": "instruxi-io/enforcer-governor",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:09:14Z",
-    "url": "https://github.com/instruxi-io/enforcer-governor"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T17:00:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-09-26T16:59:22Z",
+    "updated_at": "2026-09-26T17:21:14Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -157,7 +175,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28141,
+    "stars": 28142,
     "updated_at": "2026-09-26T16:46:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-26T17:12:25Z",
+    "updated_at": "2026-09-26T17:28:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-26T17:04:26Z",
+    "updated_at": "2026-09-26T17:22:14Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-26T17:13:16Z",
+    "updated_at": "2026-09-26T17:30:02Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -427,26 +445,8 @@
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
-    "stars": 344,
+    "stars": 345,
     "updated_at": "2026-09-26T13:55:06Z",
     "url": "https://github.com/Keesan12/martin-loop"
-  },
-  {
-    "description": "Business-agnostic multi-tier local LLM agent platform: grammar-constrained routing, deterministic policy gate, fail-clos",
-    "id": "DuqueOM/agent-local",
-    "language": "Python",
-    "name": "DuqueOM/agent-local",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:54:00Z",
-    "url": "https://github.com/DuqueOM/agent-local"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4877,
-    "updated_at": "2026-09-26T16:52:32Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
