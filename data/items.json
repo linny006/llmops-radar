@@ -1,12 +1,84 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59662,
+    "updated_at": "2026-09-26T16:25:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 15,
+    "updated_at": "2026-09-26T16:24:13Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
+    "id": "gatemux-dev/gatemux",
+    "language": "Go",
+    "name": "gatemux-dev/gatemux",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:22:52Z",
+    "url": "https://github.com/gatemux-dev/gatemux"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7256,
+    "updated_at": "2026-09-26T16:24:34Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:20:10Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-26T16:17:58Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
+    "id": "soit-ai/soit",
+    "language": "Python",
+    "name": "soit-ai/soit",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:16:30Z",
+    "url": "https://github.com/soit-ai/soit"
+  },
+  {
     "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
     "id": "labfile0-eng/ai-spend-doctor",
     "language": "HTML",
     "name": "labfile0-eng/ai-spend-doctor",
     "stars": 0,
-    "updated_at": "2026-09-26T16:14:46Z",
+    "updated_at": "2026-09-26T16:15:34Z",
     "url": "https://github.com/labfile0-eng/ai-spend-doctor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "DuqueOM/ml-platform",
     "stars": 2,
-    "updated_at": "2026-09-26T16:12:32Z",
+    "updated_at": "2026-09-26T16:21:44Z",
     "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
@@ -25,24 +97,6 @@
     "stars": 40,
     "updated_at": "2026-09-26T16:11:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7256,
-    "updated_at": "2026-09-26T16:10:12Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-26T16:09:19Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -68,7 +122,7 @@
     "language": "JavaScript",
     "name": "instruxi-io/enforcer-governor",
     "stars": 0,
-    "updated_at": "2026-09-26T16:07:15Z",
+    "updated_at": "2026-09-26T16:24:54Z",
     "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-26T16:13:23Z",
+    "updated_at": "2026-09-26T16:19:13Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -99,24 +153,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59662,
-    "updated_at": "2026-09-26T16:02:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
     "id": "Alpha-W0lf/alphaguard",
     "language": "Python",
@@ -126,21 +162,12 @@
     "url": "https://github.com/Alpha-W0lf/alphaguard"
   },
   {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:54:11Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-26T15:51:36Z",
+    "updated_at": "2026-09-26T16:15:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T15:51:30Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
-    "id": "gatemux-dev/gatemux",
-    "language": "Go",
-    "name": "gatemux-dev/gatemux",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:51:08Z",
-    "url": "https://github.com/gatemux-dev/gatemux"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -328,7 +346,7 @@
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
-    "stars": 338,
+    "stars": 339,
     "updated_at": "2026-09-26T13:55:06Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T13:25:53Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:20:52Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:20:41Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
