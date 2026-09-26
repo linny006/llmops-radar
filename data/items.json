@@ -1,12 +1,75 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T16:59:57Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28141,
-    "updated_at": "2026-09-26T16:45:12Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:59:22Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:58:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7262,
+    "updated_at": "2026-09-26T17:00:17Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:54:27Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
+    "id": "instruxi-io/enforcer-governor",
+    "language": "JavaScript",
+    "name": "instruxi-io/enforcer-governor",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:54:25Z",
+    "url": "https://github.com/instruxi-io/enforcer-governor"
+  },
+  {
+    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
+    "id": "labfile0-eng/ai-spend-doctor",
+    "language": "HTML",
+    "name": "labfile0-eng/ai-spend-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:52:57Z",
+    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
+  },
+  {
+    "description": "MCP server for education statistics of Canton and City of Zurich (BISTA)",
+    "id": "malkreide/zh-education-mcp",
+    "language": "Python",
+    "name": "malkreide/zh-education-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:50:37Z",
+    "url": "https://github.com/malkreide/zh-education-mcp"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-09-26T16:44:56Z",
+    "updated_at": "2026-09-26T16:47:16Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28141,
+    "updated_at": "2026-09-26T16:46:14Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-26T16:41:04Z",
+    "updated_at": "2026-09-26T16:57:03Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7261,
-    "updated_at": "2026-09-26T16:37:45Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -52,24 +124,6 @@
     "stars": 9,
     "updated_at": "2026-09-26T16:36:15Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T16:36:07Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Enforcer Governor (GVNR): stops AI agents overspending and running dangerous commands before they act. Per-minute spend ",
-    "id": "instruxi-io/enforcer-governor",
-    "language": "JavaScript",
-    "name": "instruxi-io/enforcer-governor",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:45:06Z",
-    "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -90,15 +144,6 @@
     "url": "https://github.com/tjromack/open311-pipeline"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:30:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Shell",
     "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "stars": 0,
-    "updated_at": "2026-09-26T16:28:57Z",
+    "updated_at": "2026-09-26T16:49:50Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59662,
-    "updated_at": "2026-09-26T16:34:54Z",
+    "updated_at": "2026-09-26T16:50:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,17 +194,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-26T16:43:38Z",
+    "updated_at": "2026-09-26T16:53:37Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
-    "id": "labfile0-eng/ai-spend-doctor",
-    "language": "HTML",
-    "name": "labfile0-eng/ai-spend-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:15:34Z",
-    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -279,15 +315,6 @@
     "url": "https://github.com/rodericklm1/determify"
   },
   {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:04:44Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
     "description": "Gates 84.7% of tool-schema prompt tokens away for DeepSeek Harness: plugins declare themselves organs, a nerve impulse r",
     "id": "1420079678-ctrl/agent-body",
     "language": "TypeScript",
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-26T16:45:21Z",
+    "updated_at": "2026-09-26T16:54:04Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -369,20 +396,11 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:02:29Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Fi",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
-    "stars": 341,
+    "stars": 344,
     "updated_at": "2026-09-26T13:55:06Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4877,
-    "updated_at": "2026-09-26T16:41:17Z",
+    "updated_at": "2026-09-26T16:52:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T13:33:49Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:32:54Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:32:44Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   }
 ]
