@@ -1,21 +1,39 @@
 [
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-26T05:54:02Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59643,
-    "updated_at": "2026-09-26T05:59:00Z",
+    "updated_at": "2026-09-26T06:15:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-26T06:14:28Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-26T06:11:09Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 39,
+    "updated_at": "2026-09-26T06:08:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,8 +41,35 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25463,
-    "updated_at": "2026-09-26T05:51:19Z",
+    "updated_at": "2026-09-26T06:09:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-26T06:13:20Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-26T06:06:00Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T06:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Single-binary LLM observability: OTLP in, SQLite inside, traces/tokens/cost UI out",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T05:51:01Z",
     "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-26T05:49:44Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
@@ -59,17 +95,8 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-26T05:46:48Z",
+    "updated_at": "2026-09-26T06:06:49Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T05:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
@@ -79,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-26T05:58:33Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-26T05:56:37Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -193,7 +211,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8366,
+    "stars": 8367,
     "updated_at": "2026-09-26T05:16:46Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -268,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T05:11:50Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 39,
-    "updated_at": "2026-09-26T05:11:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-09-26T04:59:20Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Top AI Agent Analytics (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
-    "id": "ishandutta2007/Awesome-AI-Agent-Analytics",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-AI-Agent-Analytics",
-    "stars": 0,
-    "updated_at": "2026-09-26T04:38:03Z",
-    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Analytics"
   }
 ]
