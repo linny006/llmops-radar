@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59674,
+    "updated_at": "2026-09-26T20:00:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25477,
+    "updated_at": "2026-09-26T19:59:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-26T19:55:07Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-26T19:54:32Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:51:24Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-26T19:53:29Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T19:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -27,15 +90,6 @@
     "url": "https://github.com/instruxi-io/enforcer-governor"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T19:31:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
     "id": "manas-maheshwari/pgtriage-agent-lab",
     "language": "TypeScript",
@@ -54,40 +108,13 @@
     "url": "https://github.com/o11y-one/o11y-one-sdk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59673,
-    "updated_at": "2026-09-26T19:43:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
     "id": "Aditya31398/agentdynamics",
     "language": "Python",
     "name": "Aditya31398/agentdynamics",
     "stars": 0,
-    "updated_at": "2026-09-26T19:20:02Z",
+    "updated_at": "2026-09-26T19:56:07Z",
     "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-26T19:17:48Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-26T19:40:38Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -198,21 +225,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-26T18:26:49Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-26T19:35:41Z",
+    "updated_at": "2026-09-26T19:54:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T17:51:21Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-26T17:41:37Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-26T19:06:08Z",
+    "updated_at": "2026-09-26T19:56:19Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-26T16:07:29Z",
     "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:03:39Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
