@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 02:00 UTC
+> ⏰ Last updated: 2026-09-26 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 113 | Python | 2026-09-26 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 2 | [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) | 115 | Python | 2026-09-26 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 4 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-09-26 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28138 | Python | 2026-09-26 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 8 | [JosueDev-afk/qlora-mlops-pipeline](https://github.com/JosueDev-afk/qlora-mlops-pipeline) | 0 | Python | 2026-09-26 | An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents |
-| 9 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 10 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-09-26 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
-| 11 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-26 | ThakiCloud Tech Blog |
-| 12 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-09-26 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
-| 13 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-09-26 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
-| 14 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-09-26 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
-| 15 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-09-26 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
-| 16 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-26 | Temporal workers and clients for wrapping access to different LLMs |
-| 17 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59636 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59637 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 113 | Python | 2026-09-26 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 6 | [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) | 115 | Python | 2026-09-26 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
+| 7 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 8 | [malkreide/zh-education-mcp](https://github.com/malkreide/zh-education-mcp) | 0 | Python | 2026-09-26 | MCP server for education statistics of Canton and City of Zurich (BISTA) |
+| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28138 | Python | 2026-09-26 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 10 | [JosueDev-afk/qlora-mlops-pipeline](https://github.com/JosueDev-afk/qlora-mlops-pipeline) | 0 | Python | 2026-09-26 | An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents |
+| 11 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-09-26 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
+| 12 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-09-26 | ThakiCloud Tech Blog |
+| 13 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-09-26 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
+| 14 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-09-26 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
+| 15 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-09-26 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
+| 16 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-09-26 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
+| 17 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-26 | Temporal workers and clients for wrapping access to different LLMs |
 | 18 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-09-26 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
 | 19 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-09-26 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 20 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-09-26 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
