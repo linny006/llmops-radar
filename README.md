@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 10:30 UTC
+> ⏰ Last updated: 2026-09-26 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) | 114 | Python | 2026-09-26 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
-| 2 | [suhail39ahmed/foundry-eval-gate](https://github.com/suhail39ahmed/foundry-eval-gate) | 0 | Python | 2026-09-26 | CI eval gate: faithfulness, tool_success, pii_leak checks on agent traces |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25468 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [Stravia-AI/StraviaPlatform](https://github.com/Stravia-AI/StraviaPlatform) | 3 | Rust | 2026-09-26 | Local, self-hosted agent infrastructure — one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode |
-| 6 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2380 | Rust | 2026-09-26 | Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and s |
-| 7 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 7 | Go | 2026-09-26 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
-| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59648 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28139 | Python | 2026-09-26 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 10 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 11 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 12 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-26 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 13 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | JavaScript | 2026-09-26 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
-| 14 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8372 | Go | 2026-09-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 15 | [architsharm/agentfox](https://github.com/architsharm/agentfox) | 3 | Python | 2026-09-26 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
+| 1 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | JavaScript | 2026-09-26 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 2 | [Stravia-AI/StraviaPlatform](https://github.com/Stravia-AI/StraviaPlatform) | 3 | Rust | 2026-09-26 | Local, self-hosted agent infrastructure — one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode |
+| 3 | [architsharm/agentfox](https://github.com/architsharm/agentfox) | 3 | Python | 2026-09-26 | AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants, |
+| 4 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8372 | Go | 2026-09-26 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [ZIZKA-AI-SL/ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) | 114 | Python | 2026-09-26 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
+| 7 | [suhail39ahmed/foundry-eval-gate](https://github.com/suhail39ahmed/foundry-eval-gate) | 0 | Python | 2026-09-26 | CI eval gate: faithfulness, tool_success, pii_leak checks on agent traces |
+| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28140 | Python | 2026-09-26 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25468 | TypeScript | 2026-09-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2380 | Rust | 2026-09-26 | Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and s |
+| 11 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 7 | Go | 2026-09-26 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
+| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59648 | Python | 2026-09-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 13 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-26 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 14 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-26 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 15 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-26 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
 | 16 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-09-26 | A governed, auditable workflow engine for an agent-driven software factory. |
 | 17 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2892 | Python | 2026-09-26 | Community maintained hardware plugin for vLLM on Huawei Ascend |
 | 18 | [melaya-labs/melaya](https://github.com/melaya-labs/melaya) | 5 | Python | 2026-09-26 | Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows |
