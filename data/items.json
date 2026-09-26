@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u6784\u5efa\u751f\u4ea7\u7ea7 AI Agent: \u7528 DeepSeek \u4e0e\u5f00\u6e90\u6846\u67b6\u5f00\u53d1\u53ef\u89c2\u6d4b\u3001\u53ef\u8bc4\u4f30\u7684 Agent | Build Production AI Agents with DeepSeek, LangGraph & Langfuse",
+    "id": "funAgent/build-production-agents",
+    "language": "Astro",
+    "name": "funAgent/build-production-agents",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:56:03Z",
+    "url": "https://github.com/funAgent/build-production-agents"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-26T13:00:19Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it \u2014 oth",
+    "id": "poojithdevan4D/InferPilot",
+    "language": "Python",
+    "name": "poojithdevan4D/InferPilot",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:52:54Z",
+    "url": "https://github.com/poojithdevan4D/InferPilot"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-26T12:51:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4876,
+    "updated_at": "2026-09-26T12:48:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-26T12:47:06Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:46:06Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T12:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -63,24 +135,6 @@
     "url": "https://github.com/storm-software/mindctl"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T12:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-26T12:43:52Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "llmcfo",
     "id": "lisn0/tidal",
     "language": "Nunjucks",
@@ -121,18 +175,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8373,
+    "stars": 8375,
     "updated_at": "2026-09-26T12:13:06Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-26T12:12:18Z",
-    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59652,
-    "updated_at": "2026-09-26T12:42:27Z",
+    "updated_at": "2026-09-26T12:59:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-26T11:08:57Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:07:14Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:06:29Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:06:11Z",
-    "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-26T11:04:59Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-26T11:04:49Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
