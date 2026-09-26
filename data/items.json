@@ -1,11 +1,65 @@
 [
   {
+    "description": "An inspectable DeepEval + Jev lab with real recorded evidence, release gates, and drift monitoring.",
+    "id": "shyamsridhar123/JudgeJev",
+    "language": "Python",
+    "name": "shyamsridhar123/JudgeJev",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:00:03Z",
+    "url": "https://github.com/shyamsridhar123/JudgeJev"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-26T11:58:48Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35065,
+    "updated_at": "2026-09-26T11:53:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-26T11:46:44Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-09-26T11:46:25Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T11:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
     "id": "storm-software/mindctl",
     "language": "Go",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-09-26T11:44:32Z",
+    "updated_at": "2026-09-26T11:47:49Z",
     "url": "https://github.com/storm-software/mindctl"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59652,
-    "updated_at": "2026-09-26T11:42:05Z",
+    "updated_at": "2026-09-26T11:57:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-26T11:32:58Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -81,15 +126,6 @@
     "url": "https://github.com/santiag6001/llm-engineering-platform"
   },
   {
-    "description": "An inspectable DeepEval + Jev lab with real recorded evidence, release gates, and drift monitoring.",
-    "id": "shyamsridhar123/JudgeJev",
-    "language": "Python",
-    "name": "shyamsridhar123/JudgeJev",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:31:13Z",
-    "url": "https://github.com/shyamsridhar123/JudgeJev"
-  },
-  {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
     "id": "Frayagronomist166/LiteRT.js-Mocap",
     "language": "\u2014",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T11:30:37Z",
     "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T11:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
@@ -198,13 +225,13 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-26T11:40:56Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25469,
+    "updated_at": "2026-09-26T11:18:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -421,32 +448,5 @@
     "stars": 27,
     "updated_at": "2026-09-26T11:34:24Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-09-26T10:38:18Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8372,
-    "updated_at": "2026-09-26T10:35:21Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 114,
-    "updated_at": "2026-09-26T10:28:49Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   }
 ]
