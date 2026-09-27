@@ -1,5 +1,77 @@
 [
   {
+    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
+    "id": "dev-rb-hub/maximinion-ce",
+    "language": "TypeScript",
+    "name": "dev-rb-hub/maximinion-ce",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:30:03Z",
+    "url": "https://github.com/dev-rb-hub/maximinion-ce"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59682,
+    "updated_at": "2026-09-27T03:29:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T03:26:16Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Distil an expensive LLM API call on a narrow task into a small local model: capture traffic, curate, LoRA fine-tune with",
+    "id": "B0yko/taskdistill",
+    "language": "Python",
+    "name": "B0yko/taskdistill",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:26:04Z",
+    "url": "https://github.com/B0yko/taskdistill"
+  },
+  {
+    "description": "Enterprise AI Operating System for secure RAG, agentic AI, multi-agent orchestration, knowledge graphs, workflow automat",
+    "id": "HSA-AI/HSAAI",
+    "language": "HTML",
+    "name": "HSA-AI/HSAAI",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:23:43Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents",
+    "id": "JosueDev-afk/qlora-mlops-pipeline",
+    "language": "Python",
+    "name": "JosueDev-afk/qlora-mlops-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:19:53Z",
+    "url": "https://github.com/JosueDev-afk/qlora-mlops-pipeline"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-27T03:17:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T03:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -50,26 +122,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25480,
-    "updated_at": "2026-09-27T03:00:44Z",
+    "updated_at": "2026-09-27T03:26:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
-    "id": "dev-rb-hub/maximinion-ce",
-    "language": "TypeScript",
-    "name": "dev-rb-hub/maximinion-ce",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:02:30Z",
-    "url": "https://github.com/dev-rb-hub/maximinion-ce"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -99,15 +153,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59682,
-    "updated_at": "2026-09-27T03:14:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -115,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-09-27T02:52:25Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-27T02:46:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T02:45:19Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T02:44:44Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -196,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T02:38:09Z",
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Enterprise AI Operating System for secure RAG, AI agents, multi-agent orchestration, knowledge graphs, workflow automati",
-    "id": "HSA-AI/HSAAI",
-    "language": "HTML",
-    "name": "HSA-AI/HSAAI",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:15:16Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T01:58:26Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "HTML",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:55:44Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-27T01:44:59Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
