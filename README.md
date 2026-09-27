@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 15:44 UTC
+> ⏰ Last updated: 2026-09-27 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 7382 | Python | 2026-09-27 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 2 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-27 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 3 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-27 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 4 | [fireflyframework/fireflyframework-agentic](https://github.com/fireflyframework/fireflyframework-agentic) | 4 | Python | 2026-09-27 | In-process Python metaframework on Pydantic AI for production GenAI — composable, protocol-driven layers for agents & mi |
-| 5 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-27 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
-| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-09-27 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 7 | [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) | 3030 | TypeScript | 2026-09-27 | An open-source visual programming environment for battle-testing prompts to LLMs. |
-| 8 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-09-27 | Rust client for Cycles — runtime budget authority for AI agents |
-| 9 | [Ray0907/spanbox](https://github.com/Ray0907/spanbox) | 1 | Go | 2026-09-27 | Single-binary LLM observability: OTLP in, SQLite inside, traces/tokens/cost UI out |
-| 10 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-27 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 7382 | Python | 2026-09-27 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 3 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-09-27 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
+| 4 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 7 | JavaScript | 2026-09-27 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 5 | [fireflyframework/fireflyframework-agentic](https://github.com/fireflyframework/fireflyframework-agentic) | 4 | Python | 2026-09-27 | In-process Python metaframework on Pydantic AI for production GenAI — composable, protocol-driven layers for agents & mi |
+| 6 | [storm-software/mindctl](https://github.com/storm-software/mindctl) | 0 | Go | 2026-09-27 | An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L |
+| 7 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-09-27 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 8 | [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) | 3030 | TypeScript | 2026-09-27 | An open-source visual programming environment for battle-testing prompts to LLMs. |
+| 9 | [runcycles/cycles-client-rust](https://github.com/runcycles/cycles-client-rust) | 1 | Rust | 2026-09-27 | Rust client for Cycles — runtime budget authority for AI agents |
+| 10 | [Ray0907/spanbox](https://github.com/Ray0907/spanbox) | 1 | Go | 2026-09-27 | Single-binary LLM observability: OTLP in, SQLite inside, traces/tokens/cost UI out |
+| 11 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-27 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
 | 12 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-09-27 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
 | 13 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-09-27 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 14 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 7 | Go | 2026-09-27 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
