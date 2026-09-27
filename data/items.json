@@ -2,11 +2,47 @@
   {
     "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
     "id": "QuantumEdu/q-agent",
-    "language": "HTML",
+    "language": "Python",
     "name": "QuantumEdu/q-agent",
     "stars": 0,
-    "updated_at": "2026-09-27T04:43:17Z",
+    "updated_at": "2026-09-27T04:56:44Z",
     "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
+    "id": "AnshRoshan/llm-router",
+    "language": "Python",
+    "name": "AnshRoshan/llm-router",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:56:28Z",
+    "url": "https://github.com/AnshRoshan/llm-router"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25482,
+    "updated_at": "2026-09-27T04:58:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59686,
+    "updated_at": "2026-09-27T05:00:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-27T04:50:27Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-09-27T04:41:06Z",
+    "updated_at": "2026-09-27T04:49:30Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T04:48:44Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Agentic Runtime",
@@ -23,8 +68,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 40,
-    "updated_at": "2026-09-27T04:37:15Z",
+    "updated_at": "2026-09-27T04:46:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-27T04:57:46Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T04:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -34,33 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:35:13Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-27T04:32:20Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
-    "id": "AnshRoshan/llm-router",
-    "language": "Python",
-    "name": "AnshRoshan/llm-router",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:31:23Z",
-    "url": "https://github.com/AnshRoshan/llm-router"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:27:54Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59684,
-    "updated_at": "2026-09-27T04:44:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-09-27T04:23:26Z",
+    "updated_at": "2026-09-27T04:54:46Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-27T04:26:10Z",
+    "updated_at": "2026-09-27T04:57:33Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T04:06:53Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-27T04:31:52Z",
+    "updated_at": "2026-09-27T04:59:45Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-27T04:40:24Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "An automated MLOps pipeline for building datasets and fine-tuning domain-specialized LLMs for task-oriented voice agents",
     "id": "JosueDev-afk/qlora-mlops-pipeline",
     "language": "Python",
@@ -367,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T03:45:53Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25481,
-    "updated_at": "2026-09-27T04:32:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
