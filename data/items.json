@@ -1,12 +1,66 @@
 [
   {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "HTML",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:43:17Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:41:06Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-27T04:37:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:35:13Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-27T04:28:59Z",
+    "updated_at": "2026-09-27T04:32:20Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
+    "id": "AnshRoshan/llm-router",
+    "language": "Python",
+    "name": "AnshRoshan/llm-router",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:31:23Z",
+    "url": "https://github.com/AnshRoshan/llm-router"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T04:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-09-27T04:27:59Z",
+    "updated_at": "2026-09-27T04:31:07Z",
     "url": "https://github.com/storm-software/mindctl"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59684,
-    "updated_at": "2026-09-27T04:29:28Z",
+    "updated_at": "2026-09-27T04:44:37Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:25:40Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-27T04:21:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:15:28Z",
     "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-27T04:30:07Z",
+    "updated_at": "2026-09-27T04:31:52Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-27T03:55:56Z",
+    "updated_at": "2026-09-27T04:40:24Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25481,
-    "updated_at": "2026-09-27T04:18:19Z",
+    "updated_at": "2026-09-27T04:32:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8742,
-    "updated_at": "2026-09-27T03:38:18Z",
+    "updated_at": "2026-09-27T04:42:15Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-27T03:31:37Z",
     "url": "https://github.com/1420079678-ctrl/agent-body"
-  },
-  {
-    "description": "Enterprise AI Operating System for secure RAG, agentic AI, multi-agent orchestration, knowledge graphs, workflow automat",
-    "id": "HSA-AI/HSAAI",
-    "language": "HTML",
-    "name": "HSA-AI/HSAAI",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:56:51Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-27T03:09:42Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "A dedicated laboratory for Generative AI, LangGraph agentic workflows, RAG architectures, and LLMOps experimentation.",
-    "id": "maitraria15-dot/genai_lab",
-    "language": "Python",
-    "name": "maitraria15-dot/genai_lab",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:09:22Z",
-    "url": "https://github.com/maitraria15-dot/genai_lab"
   }
 ]
