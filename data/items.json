@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:15:19Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Single-binary LLM observability: OTLP in, SQLite inside, traces/tokens/cost UI out",
+    "id": "Ray0907/spanbox",
+    "language": "Go",
+    "name": "Ray0907/spanbox",
+    "stars": 1,
+    "updated_at": "2026-09-27T15:11:20Z",
+    "url": "https://github.com/Ray0907/spanbox"
+  },
+  {
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
+    "id": "VenkateshDoijode/promptfoo-cicd-framework",
+    "language": "Python",
+    "name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "stars": 2,
+    "updated_at": "2026-09-27T15:07:28Z",
+    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-09-27T15:07:10Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 92,
+    "updated_at": "2026-09-27T15:05:40Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
     "id": "ArtVsMark/Engineering-Incidents-Playbook",
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-09-27T14:59:22Z",
+    "updated_at": "2026-09-27T15:04:36Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T15:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-27T14:58:57Z",
+    "updated_at": "2026-09-27T15:15:01Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4879,
-    "updated_at": "2026-09-27T14:59:16Z",
+    "updated_at": "2026-09-27T15:14:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 40,
     "updated_at": "2026-09-27T14:46:01Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T14:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "UAICP (Universal Agentic Interoperability Control Protocol): open reliability contract for AI agent workflows with evide",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-09-27T14:43:14Z",
+    "updated_at": "2026-09-27T15:11:14Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25495,
-    "updated_at": "2026-09-27T14:55:08Z",
+    "updated_at": "2026-09-27T15:05:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -257,17 +302,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1355,
-    "updated_at": "2026-09-27T14:44:18Z",
+    "updated_at": "2026-09-27T15:13:13Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:20:45Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -382,7 +418,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59709,
+    "stars": 59710,
     "updated_at": "2026-09-27T12:41:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -412,41 +448,5 @@
     "stars": 30335,
     "updated_at": "2026-09-27T12:36:24Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:34:10Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
-    "id": "sargentfragrant429/AgentAccessManager",
-    "language": "\u2014",
-    "name": "sargentfragrant429/AgentAccessManager",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:33:24Z",
-    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-27T12:31:00Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Pass the prompt, not the payload. Hand the next AI agent a short, checksummed reference to a prompt; the receiver gets t",
-    "id": "UdayaNirogi/promptcapsule",
-    "language": "Python",
-    "name": "UdayaNirogi/promptcapsule",
-    "stars": 2,
-    "updated_at": "2026-09-27T12:28:45Z",
-    "url": "https://github.com/UdayaNirogi/promptcapsule"
   }
 ]
