@@ -1,21 +1,75 @@
 [
   {
-    "description": "A dedicated laboratory for Generative AI, LangGraph agentic workflows, RAG architectures, and LLMOps experimentation.",
-    "id": "maitraria15-dot/GenAI_Lab",
-    "language": "\u2014",
-    "name": "maitraria15-dot/GenAI_Lab",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:59:52Z",
-    "url": "https://github.com/maitraria15-dot/GenAI_Lab"
-  },
-  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
     "name": "soit-ai/soit",
     "stars": 1,
-    "updated_at": "2026-09-27T02:59:01Z",
+    "updated_at": "2026-09-27T03:13:27Z",
     "url": "https://github.com/soit-ai/soit"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-27T03:09:42Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A dedicated laboratory for Generative AI, LangGraph agentic workflows, RAG architectures, and LLMOps experimentation.",
+    "id": "maitraria15-dot/GenAI_Lab",
+    "language": "Python",
+    "name": "maitraria15-dot/GenAI_Lab",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:09:22Z",
+    "url": "https://github.com/maitraria15-dot/GenAI_Lab"
+  },
+  {
+    "description": "\ud83d\udc4b Hello Agent System \u2014 learn enterprise AI agent system design by building every production layer from scratch. 17 bilin",
+    "id": "heaven999b/hello-agent-system",
+    "language": "Python",
+    "name": "heaven999b/hello-agent-system",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:03:57Z",
+    "url": "https://github.com/heaven999b/hello-agent-system"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-27T03:03:24Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25480,
+    "updated_at": "2026-09-27T03:00:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
+    "id": "dev-rb-hub/maximinion-ce",
+    "language": "TypeScript",
+    "name": "dev-rb-hub/maximinion-ce",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:02:30Z",
+    "url": "https://github.com/dev-rb-hub/maximinion-ce"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T03:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59682,
-    "updated_at": "2026-09-27T02:53:43Z",
+    "updated_at": "2026-09-27T03:14:11Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
-    "id": "dev-rb-hub/maximinion-ce",
-    "language": "TypeScript",
-    "name": "dev-rb-hub/maximinion-ce",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:55:38Z",
-    "url": "https://github.com/dev-rb-hub/maximinion-ce"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -70,15 +115,6 @@
     "stars": 44,
     "updated_at": "2026-09-27T02:52:25Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25481,
-    "updated_at": "2026-09-27T02:58:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agentic Runtime",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T02:45:41Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T02:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -130,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35085,
+    "stars": 35086,
     "updated_at": "2026-09-27T02:44:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -151,15 +178,6 @@
     "stars": 2892,
     "updated_at": "2026-09-27T02:40:58Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-27T02:39:52Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -185,7 +203,7 @@
     "language": "HTML",
     "name": "HSA-AI/HSAAI",
     "stars": 0,
-    "updated_at": "2026-09-27T02:30:11Z",
+    "updated_at": "2026-09-27T03:15:16Z",
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-27T02:41:27Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T01:55:44Z",
     "url": "https://github.com/QuantumEdu/q-agent"
-  },
-  {
-    "description": "\ud83d\udc4b Hello Agent System \u2014 learn enterprise AI agent system design by building every production layer from scratch. 17 bilin",
-    "id": "heaven999b/hello-agent-system",
-    "language": "Python",
-    "name": "heaven999b/hello-agent-system",
-    "stars": 1,
-    "updated_at": "2026-09-27T01:49:20Z",
-    "url": "https://github.com/heaven999b/hello-agent-system"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
