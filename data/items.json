@@ -1,12 +1,66 @@
 [
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-27T17:58:57Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T18:13:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-27T18:11:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
+    "id": "iraagarg/verdict",
+    "language": "Python",
+    "name": "iraagarg/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:10:37Z",
+    "url": "https://github.com/iraagarg/verdict"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7390,
+    "updated_at": "2026-09-27T18:08:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59719,
+    "updated_at": "2026-09-27T18:15:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-27T18:14:45Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
+    "id": "idevelopAI/llm-eval-control-plane",
+    "language": "Python",
+    "name": "idevelopAI/llm-eval-control-plane",
+    "stars": 2,
+    "updated_at": "2026-09-27T18:08:40Z",
+    "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -14,8 +68,17 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-27T17:56:31Z",
+    "updated_at": "2026-09-27T18:05:40Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25499,
+    "updated_at": "2026-09-27T18:04:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -23,8 +86,26 @@
     "language": "Go",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-09-27T17:56:30Z",
+    "updated_at": "2026-09-27T18:04:38Z",
     "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T18:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-27T18:08:47Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Agentic Runtime",
@@ -41,17 +122,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-27T17:52:59Z",
+    "updated_at": "2026-09-27T18:15:18Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25498,
-    "updated_at": "2026-09-27T17:59:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Routing and Observability for Reliable AI \u2014 a self-hosted AI gateway.",
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:46:49Z",
     "url": "https://github.com/gauravagarwalgarg/autonomy-loops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T17:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:44:56Z",
-    "url": "https://github.com/iraagarg/verdict"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -117,15 +171,6 @@
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-27T17:42:06Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
     "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "language": "Go",
@@ -133,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:36:02Z",
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T17:35:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59719,
-    "updated_at": "2026-09-27T17:59:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:26:45Z",
     "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-27T17:26:11Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-09-27T17:37:04Z",
+    "updated_at": "2026-09-27T18:02:09Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7390,
-    "updated_at": "2026-09-27T16:55:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8745,
-    "updated_at": "2026-09-27T16:54:50Z",
+    "updated_at": "2026-09-27T18:04:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T16:52:59Z",
     "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "Multi-tenant LLM inference platform on GKE: OpenAI-compatible gateway with circuit-breaker failover (vLLM on spot GPU \u2192 ",
-    "id": "harshit-ojha0324/forge",
-    "language": "Python",
-    "name": "harshit-ojha0324/forge",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:52:40Z",
-    "url": "https://github.com/harshit-ojha0324/forge"
   }
 ]
