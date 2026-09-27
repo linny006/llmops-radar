@@ -1,12 +1,84 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-27T17:58:57Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-27T17:56:31Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-27T17:56:30Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 40,
-    "updated_at": "2026-09-27T17:45:19Z",
+    "updated_at": "2026-09-27T17:52:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-27T17:52:59Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25498,
+    "updated_at": "2026-09-27T17:59:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Routing and Observability for Reliable AI \u2014 a self-hosted AI gateway.",
+    "id": "owlfoundry/owlrora",
+    "language": "Rust",
+    "name": "owlfoundry/owlrora",
+    "stars": 0,
+    "updated_at": "2026-09-27T17:48:35Z",
+    "url": "https://github.com/owlfoundry/owlrora"
+  },
+  {
+    "description": "Production-ready multi-agent orchestration framework for AI agents",
+    "id": "gauravagarwalgarg/autonomy-loops",
+    "language": "Python",
+    "name": "gauravagarwalgarg/autonomy-loops",
+    "stars": 0,
+    "updated_at": "2026-09-27T17:46:49Z",
+    "url": "https://github.com/gauravagarwalgarg/autonomy-loops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T17:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-27T17:39:40Z",
+    "updated_at": "2026-09-27T17:55:54Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-09-27T17:39:37Z",
+    "updated_at": "2026-09-27T17:56:39Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
@@ -72,13 +144,13 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T17:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 59719,
+    "updated_at": "2026-09-27T17:59:10Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -90,24 +162,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-27T17:28:58Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-27T17:28:43Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -117,15 +171,6 @@
     "url": "https://github.com/Root1V/argus-observability-platform"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25498,
-    "updated_at": "2026-09-27T17:37:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T17:26:11Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Routing and Observability for Reliable AI \u2014 a self-hosted AI gateway.",
-    "id": "owlfoundry/owlrora",
-    "language": "Rust",
-    "name": "owlfoundry/owlrora",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:25:23Z",
-    "url": "https://github.com/owlfoundry/owlrora"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -279,15 +315,6 @@
     "url": "https://github.com/Faizullah9181/awesome-agentic-apps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59718,
-    "updated_at": "2026-09-27T17:34:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T16:52:40Z",
     "url": "https://github.com/harshit-ojha0324/forge"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-27T17:25:00Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-27T16:51:59Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-09-27T16:50:55Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
