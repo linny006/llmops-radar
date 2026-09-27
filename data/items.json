@@ -1,21 +1,39 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T05:30:23Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
+    "id": "AnshRoshan/llm-router",
+    "language": "Python",
+    "name": "AnshRoshan/llm-router",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:35Z",
+    "url": "https://github.com/AnshRoshan/llm-router"
+  },
+  {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:16Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59686,
-    "updated_at": "2026-09-27T05:15:13Z",
+    "stars": 59688,
+    "updated_at": "2026-09-27T05:30:01Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-27T05:11:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -23,8 +41,44 @@
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-27T05:11:24Z",
+    "updated_at": "2026-09-27T05:26:11Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:27:57Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-27T05:24:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows",
+    "id": "melaya-labs/melaya",
+    "language": "Python",
+    "name": "melaya-labs/melaya",
+    "stars": 5,
+    "updated_at": "2026-09-27T05:21:41Z",
+    "url": "https://github.com/melaya-labs/melaya"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-27T05:08:41Z",
+    "updated_at": "2026-09-27T05:22:49Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T05:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
@@ -99,31 +144,13 @@
     "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
-    "description": "Cache-aware LLM routing. Scores the (model, backend) pair, keeps sessions sticky so the prompt cache survives, picks TTL",
-    "id": "AnshRoshan/llm-router",
-    "language": "Python",
-    "name": "AnshRoshan/llm-router",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:56:28Z",
-    "url": "https://github.com/AnshRoshan/llm-router"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25482,
-    "updated_at": "2026-09-27T05:07:40Z",
+    "updated_at": "2026-09-27T05:25:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T04:48:44Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:35:13Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:31:07Z",
-    "url": "https://github.com/storm-software/mindctl"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T03:43:08Z",
     "url": "https://github.com/dev-rb-hub/maximinion-ce"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:38:58Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8742,
-    "updated_at": "2026-09-27T04:42:15Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
