@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 11:15 UTC
+> ⏰ Last updated: 2026-09-27 11:19 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | JavaScript | 2026-09-27 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
-| 2 | [Celestra-tech/cortex](https://github.com/Celestra-tech/cortex) | 0 | Python | 2026-09-27 | Open-source infrastructure for building production AI systems with memory, reasoning, knowledge, and multi-model orchest |
-| 3 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-09-27 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
-| 4 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-09-27 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
-| 5 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 7359 | Python | 2026-09-27 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 6 | [labfile0-eng/ai-spend-doctor](https://github.com/labfile0-eng/ai-spend-doctor) | 0 | HTML | 2026-09-27 | Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser |
-| 7 | [Guillain-RDCDE/Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription) | 0 | Python | 2026-09-27 | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can inv |
-| 8 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-09-27 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 7360 | Python | 2026-09-27 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | JavaScript | 2026-09-27 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 4 | [Celestra-tech/cortex](https://github.com/Celestra-tech/cortex) | 0 | Python | 2026-09-27 | Open-source infrastructure for building production AI systems with memory, reasoning, knowledge, and multi-model orchest |
+| 5 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-09-27 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
+| 6 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-09-27 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
+| 7 | [labfile0-eng/ai-spend-doctor](https://github.com/labfile0-eng/ai-spend-doctor) | 0 | HTML | 2026-09-27 | Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser |
+| 8 | [Guillain-RDCDE/Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription) | 0 | Python | 2026-09-27 | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can inv |
+| 9 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-09-27 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
 | 10 | [TAIPANBOX/genaryx](https://github.com/TAIPANBOX/genaryx) | 0 | Rust | 2026-09-27 | Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m |
 | 11 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-09-27 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
 | 12 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-09-27 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-09-27 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
 | 19 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-09-27 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
 | 20 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-09-27 | Opik — independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation |
-| 21 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25490 | TypeScript | 2026-09-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 21 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25491 | TypeScript | 2026-09-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 22 | [jameswniu/autonomous-ads-pipeline-multimodal-evals](https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals) | 1 | Python | 2026-09-27 | An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t |
 | 23 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 7453 | Python | 2026-09-27 | Open-source observability for your GenAI or LLM application, based on OpenTelemetry |
 | 24 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-09-27 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
