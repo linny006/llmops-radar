@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-27T10:28:49Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 755,
+    "updated_at": "2026-09-27T10:27:24Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7358,
+    "updated_at": "2026-09-27T10:26:21Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:24:32Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-09-27T10:23:46Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2894,
+    "updated_at": "2026-09-27T10:22:15Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25489,
+    "updated_at": "2026-09-27T10:27:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:16:07Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25489,
-    "updated_at": "2026-09-27T10:14:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -43,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-09-27T10:12:31Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7357,
-    "updated_at": "2026-09-27T10:12:22Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -108,21 +171,12 @@
     "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
   },
   {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 755,
-    "updated_at": "2026-09-27T10:09:53Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-27T10:06:29Z",
+    "updated_at": "2026-09-27T10:27:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -158,7 +212,7 @@
     "language": "HTML",
     "name": "labfile0-eng/ai-spend-doctor",
     "stars": 0,
-    "updated_at": "2026-09-27T10:03:35Z",
+    "updated_at": "2026-09-27T10:30:03Z",
     "url": "https://github.com/labfile0-eng/ai-spend-doctor"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T10:01:33Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T10:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -333,15 +378,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-27T09:51:17Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59699,
-    "updated_at": "2026-09-27T09:40:09Z",
+    "updated_at": "2026-09-27T10:25:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -383,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4878,
-    "updated_at": "2026-09-27T10:14:13Z",
+    "updated_at": "2026-09-27T10:26:18Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T09:07:51Z",
     "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Distil an expensive LLM API call on a narrow task into a small local model: capture traffic, curate, LoRA fine-tune with",
-    "id": "B0yko/taskdistill",
-    "language": "Python",
-    "name": "B0yko/taskdistill",
-    "stars": 1,
-    "updated_at": "2026-09-27T09:02:58Z",
-    "url": "https://github.com/B0yko/taskdistill"
-  },
-  {
-    "description": "A runtime learning loop for coding agents. Turns Claude Code, Codex and model-router runs into governed, measured change",
-    "id": "kkrlstrm/runtune",
-    "language": "Python",
-    "name": "kkrlstrm/runtune",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:53:35Z",
-    "url": "https://github.com/kkrlstrm/runtune"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2894,
-    "updated_at": "2026-09-27T08:41:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8744,
-    "updated_at": "2026-09-27T09:42:02Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
