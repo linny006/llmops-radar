@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfd5\ufe0f Reproducible development environment for humans and agents",
+    "id": "tensorchord/envd",
+    "language": "Go",
+    "name": "tensorchord/envd",
+    "stars": 2236,
+    "updated_at": "2026-09-27T14:15:14Z",
+    "url": "https://github.com/tensorchord/envd"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-27T14:14:27Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T14:13:24Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
+    "id": "Guillain-RDCDE/Trusted-Transcription",
+    "language": "Python",
+    "name": "Guillain-RDCDE/Trusted-Transcription",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:10:43Z",
+    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-09-27T14:01:09Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T14:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-27T14:00:21Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
     "description": "OpenTelemetry tracing for AI agents: GenAI semantic conventions, MCP trace propagation (2026-07-28 spec), cost per run, ",
     "id": "Zeeshan-szf/agent-observability-otel",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T13:58:33Z",
     "url": "https://github.com/Zeeshan-szf/agent-observability-otel"
-  },
-  {
-    "description": "\ud83c\udfd5\ufe0f Reproducible development environment for humans and agents",
-    "id": "tensorchord/envd",
-    "language": "Go",
-    "name": "tensorchord/envd",
-    "stars": 2236,
-    "updated_at": "2026-09-27T13:55:32Z",
-    "url": "https://github.com/tensorchord/envd"
   },
   {
     "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
@@ -31,18 +85,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7377,
+    "stars": 7378,
     "updated_at": "2026-09-27T13:50:06Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-27T14:00:21Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T13:48:25Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T13:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -81,15 +117,6 @@
     "url": "https://github.com/Aditya31398/agentdynamics"
   },
   {
-    "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
-    "id": "Guillain-RDCDE/Trusted-Transcription",
-    "language": "Python",
-    "name": "Guillain-RDCDE/Trusted-Transcription",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:38:27Z",
-    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
-  },
-  {
     "description": "Terminal trace debugger for AI agents.",
     "id": "tonquoc0407/capybara",
     "language": "Go",
@@ -108,21 +135,12 @@
     "url": "https://github.com/sarkar4777/abenix"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T13:29:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1355,
-    "updated_at": "2026-09-27T13:24:18Z",
+    "updated_at": "2026-09-27T14:11:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -220,7 +238,7 @@
     "id": "traceloop/openllmetry",
     "language": "Python",
     "name": "traceloop/openllmetry",
-    "stars": 7453,
+    "stars": 7454,
     "updated_at": "2026-09-27T12:48:56Z",
     "url": "https://github.com/traceloop/openllmetry"
   },
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25494,
-    "updated_at": "2026-09-27T13:53:30Z",
+    "updated_at": "2026-09-27T14:11:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -331,6 +349,15 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:31:00Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Pass the prompt, not the payload. Hand the next AI agent a short, checksummed reference to a prompt; the receiver gets t",
+    "id": "UdayaNirogi/promptcapsule",
+    "language": "Python",
+    "name": "UdayaNirogi/promptcapsule",
+    "stars": 2,
+    "updated_at": "2026-09-27T12:28:45Z",
+    "url": "https://github.com/UdayaNirogi/promptcapsule"
   },
   {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:15:13Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:14:42Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-27T12:14:38Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:14:27Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
   }
 ]
