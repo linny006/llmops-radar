@@ -1,11 +1,110 @@
 [
   {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:43:57Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:43:49Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-27T10:45:21Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-27T10:43:39Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
+    "id": "clearml/clearml-agent",
+    "language": "Python",
+    "name": "clearml/clearml-agent",
+    "stars": 313,
+    "updated_at": "2026-09-27T10:42:20Z",
+    "url": "https://github.com/clearml/clearml-agent"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:38:47Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7359,
+    "updated_at": "2026-09-27T10:37:56Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2894,
+    "updated_at": "2026-09-27T10:31:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:31:28Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
+    "id": "labfile0-eng/ai-spend-doctor",
+    "language": "HTML",
+    "name": "labfile0-eng/ai-spend-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:31:24Z",
+    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-27T10:28:49Z",
+    "updated_at": "2026-09-27T10:35:21Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -16,15 +115,6 @@
     "stars": 755,
     "updated_at": "2026-09-27T10:27:24Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7358,
-    "updated_at": "2026-09-27T10:26:21Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
@@ -45,21 +135,12 @@
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2894,
-    "updated_at": "2026-09-27T10:22:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25489,
-    "updated_at": "2026-09-27T10:27:40Z",
+    "updated_at": "2026-09-27T10:45:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:16:07Z",
     "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T10:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
@@ -106,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T10:13:23Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-27T10:12:31Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -207,15 +270,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Is your AI bill healthy? Drop your Claude or OpenAI usage file and find out in 30 seconds. Runs entirely in your browser",
-    "id": "labfile0-eng/ai-spend-doctor",
-    "language": "HTML",
-    "name": "labfile0-eng/ai-spend-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:30:03Z",
-    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -277,15 +331,6 @@
     "stars": 40,
     "updated_at": "2026-09-27T09:57:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-27T09:56:45Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -351,15 +396,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-09-27T09:45:56Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-27T09:29:13Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4878,
-    "updated_at": "2026-09-27T10:26:18Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-09-27T09:20:04Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-09-27T09:18:56Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
-    "id": "haomingkoo/haomingkoo",
-    "language": "\u2014",
-    "name": "haomingkoo/haomingkoo",
-    "stars": 0,
-    "updated_at": "2026-09-27T09:07:51Z",
-    "url": "https://github.com/haomingkoo/haomingkoo"
   }
 ]
