@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "tensorchord/envd",
     "stars": 2236,
-    "updated_at": "2026-09-27T14:15:14Z",
+    "updated_at": "2026-09-27T14:25:39Z",
     "url": "https://github.com/tensorchord/envd"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:23:46Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T14:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-27T14:14:27Z",
+    "updated_at": "2026-09-27T14:26:15Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -27,6 +45,15 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25495,
+    "updated_at": "2026-09-27T14:30:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
     "id": "Guillain-RDCDE/Trusted-Transcription",
     "language": "Python",
@@ -36,6 +63,15 @@
     "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
   },
   {
+    "description": "Deterministic golden-output regression testing for LLM agents \u2014 record model and tool calls, replay them offline, fail C",
+    "id": "Tejasdk04/agent-golden-harness",
+    "language": "Python",
+    "name": "Tejasdk04/agent-golden-harness",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:04:03Z",
+    "url": "https://github.com/Tejasdk04/agent-golden-harness"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T14:01:09Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T14:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1355,
-    "updated_at": "2026-09-27T14:11:48Z",
+    "updated_at": "2026-09-27T14:24:23Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25494,
-    "updated_at": "2026-09-27T14:11:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
     "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:17:14Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-27T12:15:14Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-09-27T12:15:13Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
