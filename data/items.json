@@ -1,12 +1,120 @@
 [
   {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-09-27T12:45:18Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-27T12:45:08Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Free check of Claude and OpenAI API usage CSVs: spend spikes, cache and batch use, model price scenarios. The file stays",
+    "id": "labfile0-eng/ai-spend-doctor",
+    "language": "HTML",
+    "name": "labfile0-eng/ai-spend-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-27T12:42:45Z",
+    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-27T12:41:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-27T12:41:18Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25494,
+    "updated_at": "2026-09-27T12:45:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-09-27T12:30:03Z",
+    "updated_at": "2026-09-27T12:39:45Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-27T12:39:10Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7371,
+    "updated_at": "2026-09-27T12:37:26Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-09-27T12:34:10Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-27T12:33:24Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-27T12:31:00Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T12:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
@@ -27,15 +135,6 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "Free check of Claude and OpenAI API usage CSVs: spend spikes, cache and batch use, model price scenarios. The file stays",
-    "id": "labfile0-eng/ai-spend-doctor",
-    "language": "HTML",
-    "name": "labfile0-eng/ai-spend-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:27:18Z",
-    "url": "https://github.com/labfile0-eng/ai-spend-doctor"
-  },
-  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:24:42Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25492,
-    "updated_at": "2026-09-27T12:29:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:17:14Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T12:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -194,7 +275,7 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-09-27T12:07:32Z",
+    "updated_at": "2026-09-27T12:36:14Z",
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
@@ -279,15 +360,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7369,
-    "updated_at": "2026-09-27T12:02:43Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -304,15 +376,6 @@
     "stars": 28148,
     "updated_at": "2026-09-27T12:01:57Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-09-27T11:57:21Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-27T12:21:18Z",
+    "updated_at": "2026-09-27T12:36:31Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-27T11:26:35Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 22,
-    "updated_at": "2026-09-27T11:24:24Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-09-27T11:23:24Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 27,
-    "updated_at": "2026-09-27T11:15:19Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59700,
-    "updated_at": "2026-09-27T11:14:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source infrastructure for building production AI systems with memory, reasoning, knowledge, and multi-model orchest",
-    "id": "Celestra-tech/cortex",
-    "language": "Python",
-    "name": "Celestra-tech/cortex",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:05:01Z",
-    "url": "https://github.com/Celestra-tech/cortex"
-  },
-  {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-09-27T11:12:45Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-09-27T11:07:18Z",
-    "url": "https://github.com/api-evangelist/comet"
   }
 ]
