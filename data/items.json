@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 13,
+    "updated_at": "2026-09-28T10:44:57Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 18,
+    "updated_at": "2026-09-28T10:44:47Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35134,
+    "updated_at": "2026-09-28T10:44:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-28T10:43:52Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
     "id": "saghosh8/AI-For-DevOps",
     "language": "\u2014",
     "name": "saghosh8/AI-For-DevOps",
     "stars": 36,
-    "updated_at": "2026-09-28T10:30:05Z",
+    "updated_at": "2026-09-28T10:41:52Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
+    "id": "sarkar4777/abenix",
+    "language": "Python",
+    "name": "sarkar4777/abenix",
+    "stars": 0,
+    "updated_at": "2026-09-28T10:38:29Z",
+    "url": "https://github.com/sarkar4777/abenix"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2086,
+    "updated_at": "2026-09-28T10:44:42Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-28T10:34:39Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Your prompts deserve git diff, not a database row. Templates as plain YAML, rendered through Jinja's SandboxedEnvironmen",
+    "id": "Furkiozknn/prompt-template-manager",
+    "language": "Python",
+    "name": "Furkiozknn/prompt-template-manager",
+    "stars": 0,
+    "updated_at": "2026-09-28T10:33:58Z",
+    "url": "https://github.com/Furkiozknn/prompt-template-manager"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30347,
+    "updated_at": "2026-09-28T10:36:38Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 115,
+    "updated_at": "2026-09-28T10:32:51Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
+    "id": "mikehasa/agentacct",
+    "language": "Python",
+    "name": "mikehasa/agentacct",
+    "stars": 755,
+    "updated_at": "2026-09-28T10:33:01Z",
+    "url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T10:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T10:29:14Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2086,
-    "updated_at": "2026-09-28T10:29:41Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59771,
-    "updated_at": "2026-09-28T10:26:54Z",
+    "updated_at": "2026-09-28T10:41:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -58,18 +157,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7439,
+    "stars": 7440,
     "updated_at": "2026-09-28T10:26:20Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
-    "id": "sarkar4777/abenix",
-    "language": "Python",
-    "name": "sarkar4777/abenix",
-    "stars": 0,
-    "updated_at": "2026-09-28T10:27:12Z",
-    "url": "https://github.com/sarkar4777/abenix"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22271,
-    "updated_at": "2026-09-28T10:29:51Z",
+    "updated_at": "2026-09-28T10:42:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -99,21 +189,12 @@
     "url": "https://github.com/ha7n23/careerops-agent-engine"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35134,
-    "updated_at": "2026-09-28T10:21:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25524,
-    "updated_at": "2026-09-28T10:27:03Z",
+    "updated_at": "2026-09-28T10:41:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T10:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -158,17 +230,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8418,
-    "updated_at": "2026-09-28T10:30:06Z",
+    "updated_at": "2026-09-28T10:33:01Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30347,
-    "updated_at": "2026-09-28T10:21:07Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4885,
-    "updated_at": "2026-09-28T10:28:17Z",
+    "updated_at": "2026-09-28T10:44:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T09:21:19Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:20:39Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:20:39Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:20:36Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:20:06Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:19:57Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 13,
-    "updated_at": "2026-09-28T10:28:04Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:18:35Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
