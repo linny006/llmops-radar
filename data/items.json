@@ -1,12 +1,39 @@
 [
   {
-    "description": "Know when the APIs, LLMs and MCP servers you depend on go down \u2014 or silently change. Self-hosted API contract & drift mo",
-    "id": "ahmedgcompany-cyber/contractrift",
-    "language": "TypeScript",
-    "name": "ahmedgcompany-cyber/contractrift",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:59:32Z",
-    "url": "https://github.com/ahmedgcompany-cyber/contractrift"
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-28T19:14:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11644,
+    "updated_at": "2026-09-28T19:15:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1238,
+    "updated_at": "2026-09-28T19:15:02Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-09-28T19:13:25Z",
+    "url": "https://github.com/Kushagra1A/openpi"
   },
   {
     "description": "Parametric RAG platform: routes each query between weight-resident, adapter-retrieved and text-retrieved knowledge behin",
@@ -14,8 +41,98 @@
     "language": "Python",
     "name": "NabiBukhsh-AI/prag-platform",
     "stars": 0,
-    "updated_at": "2026-09-28T18:59:11Z",
+    "updated_at": "2026-09-28T19:13:21Z",
     "url": "https://github.com/NabiBukhsh-AI/prag-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59792,
+    "updated_at": "2026-09-28T19:15:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-09-28T19:12:59Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25535,
+    "updated_at": "2026-09-28T19:14:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-09-28T19:10:02Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-28T19:07:15Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-09-28T19:06:10Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-28T19:04:57Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:02:01Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T19:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Know when the APIs, LLMs and MCP servers you depend on go down \u2014 or silently change. Self-hosted API contract & drift mo",
+    "id": "ahmedgcompany-cyber/contractrift",
+    "language": "TypeScript",
+    "name": "ahmedgcompany-cyber/contractrift",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:59:32Z",
+    "url": "https://github.com/ahmedgcompany-cyber/contractrift"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -32,17 +149,8 @@
     "language": "Python",
     "name": "AshwinUgale/muteval",
     "stars": 9,
-    "updated_at": "2026-09-28T18:57:31Z",
+    "updated_at": "2026-09-28T19:13:09Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1238,
-    "updated_at": "2026-09-28T18:56:58Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and routes each brief t",
@@ -81,31 +189,13 @@
     "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11644,
-    "updated_at": "2026-09-28T19:00:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22270,
-    "updated_at": "2026-09-28T18:53:43Z",
+    "updated_at": "2026-09-28T19:00:51Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-28T18:59:04Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
@@ -115,15 +205,6 @@
     "stars": 32,
     "updated_at": "2026-09-28T18:53:35Z",
     "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25535,
-    "updated_at": "2026-09-28T18:59:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -153,21 +234,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 396,
-    "updated_at": "2026-09-28T18:38:56Z",
+    "updated_at": "2026-09-28T19:12:50Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59792,
-    "updated_at": "2026-09-28T18:57:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -225,15 +288,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-28T18:20:20Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
     "id": "sno-ai/llmix",
     "language": "Python",
@@ -248,7 +302,7 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 52,
-    "updated_at": "2026-09-28T18:50:03Z",
+    "updated_at": "2026-09-28T19:07:58Z",
     "url": "https://github.com/infercrane/infercrane"
   },
   {
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4886,
-    "updated_at": "2026-09-28T18:59:49Z",
+    "updated_at": "2026-09-28T19:15:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-28T18:49:05Z",
+    "updated_at": "2026-09-28T19:09:39Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28167,
-    "updated_at": "2026-09-28T17:51:00Z",
+    "updated_at": "2026-09-28T19:10:16Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A pre-charge spend control plane that enforces hard budgets on AI model usage.",
-    "id": "JumpMasters/tollgate",
-    "language": "Python",
-    "name": "JumpMasters/tollgate",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:48:58Z",
-    "url": "https://github.com/JumpMasters/tollgate"
-  },
-  {
-    "description": "The Project for the Course : DS5619 MLOPS",
-    "id": "SreenathKarthick11/Sage-Serve",
-    "language": "Jupyter Notebook",
-    "name": "SreenathKarthick11/Sage-Serve",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:45:47Z",
-    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:45:46Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-09-28T17:47:34Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:42:44Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-09-28T17:31:34Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
