@@ -1,21 +1,102 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8419,
-    "updated_at": "2026-09-28T12:00:11Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Bionic is sovereign Agentic AI for the enterprise \u2014 Runs on-premise and can securely work with your sensitive data and s",
     "id": "bionic-gpt/bionic-gpt",
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
     "stars": 2380,
-    "updated_at": "2026-09-28T11:58:07Z",
+    "updated_at": "2026-09-28T12:14:33Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 36,
+    "updated_at": "2026-09-28T12:13:46Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35137,
+    "updated_at": "2026-09-28T12:15:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-28T12:12:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-09-28T12:10:44Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 92,
+    "updated_at": "2026-09-28T12:09:53Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Telemetry for Cursor's agent, read from Cursor's local state.vscdb. The Cursor sibling of cc-logger and codex-logger.",
+    "id": "kkrlstrm/cursor-logger",
+    "language": "Python",
+    "name": "kkrlstrm/cursor-logger",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:06:00Z",
+    "url": "https://github.com/kkrlstrm/cursor-logger"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-28T12:04:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7448,
+    "updated_at": "2026-09-28T12:02:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T12:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8419,
+    "updated_at": "2026-09-28T12:13:43Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30348,
-    "updated_at": "2026-09-28T11:55:54Z",
+    "updated_at": "2026-09-28T12:13:43Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T11:46:05Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T11:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T11:41:54Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35136,
-    "updated_at": "2026-09-28T11:56:30Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -175,7 +238,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25526,
+    "stars": 25527,
     "updated_at": "2026-09-28T11:36:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59775,
-    "updated_at": "2026-09-28T12:00:01Z",
+    "updated_at": "2026-09-28T12:15:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -360,24 +423,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7445,
-    "updated_at": "2026-09-28T11:15:01Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-28T11:12:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T11:27:43Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22271,
-    "updated_at": "2026-09-28T11:58:19Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:05:07Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:02:49Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 115,
-    "updated_at": "2026-09-28T11:02:47Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-09-28T11:02:35Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
