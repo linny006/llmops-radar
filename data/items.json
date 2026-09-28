@@ -1,21 +1,66 @@
 [
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-28T21:57:42Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 8,
-    "updated_at": "2026-09-28T21:54:38Z",
+    "updated_at": "2026-09-28T22:11:32Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-09-28T22:14:18Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59800,
+    "updated_at": "2026-09-28T22:14:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8422,
+    "updated_at": "2026-09-28T22:11:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11645,
+    "updated_at": "2026-09-28T22:06:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-28T22:01:37Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T22:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
@@ -50,26 +95,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25537,
-    "updated_at": "2026-09-28T21:55:11Z",
+    "updated_at": "2026-09-28T22:11:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59799,
-    "updated_at": "2026-09-28T21:57:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T21:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -97,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T21:48:07Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11645,
-    "updated_at": "2026-09-28T21:59:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8422,
-    "updated_at": "2026-09-28T21:53:39Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-28T21:31:57Z",
+    "updated_at": "2026-09-28T22:05:54Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -216,15 +225,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-28T21:18:08Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "JavaScript",
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30350,
-    "updated_at": "2026-09-28T21:33:18Z",
+    "updated_at": "2026-09-28T22:15:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1238,
-    "updated_at": "2026-09-28T20:36:40Z",
+    "updated_at": "2026-09-28T22:07:43Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 92,
-    "updated_at": "2026-09-28T21:51:20Z",
+    "updated_at": "2026-09-28T22:01:08Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-28T21:51:24Z",
+    "updated_at": "2026-09-28T22:11:16Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -319,7 +319,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22272,
+    "stars": 22273,
     "updated_at": "2026-09-28T20:08:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
