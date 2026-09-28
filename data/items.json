@@ -1,11 +1,74 @@
 [
   {
+    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
+    "id": "storm-software/mindctl",
+    "language": "Go",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-09-28T00:45:02Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 7,
+    "updated_at": "2026-09-28T00:39:40Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59733,
+    "updated_at": "2026-09-28T00:44:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-28T00:37:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Trading Lab: KB-backed paper-trading pipeline \u2014 gap-and-go scanner, guarded Alpaca paper orders (Python)",
+    "id": "Algorythmos-AI/trading-lab",
+    "language": "Python",
+    "name": "Algorythmos-AI/trading-lab",
+    "stars": 0,
+    "updated_at": "2026-09-28T00:34:30Z",
+    "url": "https://github.com/Algorythmos-AI/trading-lab"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-28T00:30:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T00:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-09-28T00:30:25Z",
+    "updated_at": "2026-09-28T00:36:53Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
@@ -18,22 +81,13 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59733,
-    "updated_at": "2026-09-28T00:25:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-28T00:20:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4883,
+    "updated_at": "2026-09-28T00:21:06Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -52,15 +106,6 @@
     "stars": 1860,
     "updated_at": "2026-09-28T00:15:58Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T00:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -99,21 +144,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 7,
-    "updated_at": "2026-09-28T00:07:06Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-28T00:23:24Z",
+    "updated_at": "2026-09-28T00:40:38Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
   },
   {
-    "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
-    "id": "storm-software/mindctl",
-    "language": "Go",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-09-27T23:53:39Z",
-    "url": "https://github.com/storm-software/mindctl"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28154,
-    "updated_at": "2026-09-27T23:45:41Z",
+    "updated_at": "2026-09-28T00:33:08Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Trading Lab: KB-backed paper-trading pipeline \u2014 gap-and-go scanner, guarded Alpaca paper orders (Python)",
-    "id": "Algorythmos-AI/trading-lab",
-    "language": "Python",
-    "name": "Algorythmos-AI/trading-lab",
-    "stars": 0,
-    "updated_at": "2026-09-27T23:38:48Z",
-    "url": "https://github.com/Algorythmos-AI/trading-lab"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
     "id": "GaBySuGy/agent-guardrails",
     "language": "Shell",
@@ -331,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T23:35:50Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-27T23:35:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Top AI Agent Analytics (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-27T23:12:23Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-09-27T23:11:41Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
   }
 ]
