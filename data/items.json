@@ -1,12 +1,93 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25537,
+    "updated_at": "2026-09-28T20:28:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8422,
+    "updated_at": "2026-09-28T20:28:31Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59794,
+    "updated_at": "2026-09-28T20:29:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
     "id": "happy520ai/unified-ai-system",
     "language": "JavaScript",
     "name": "happy520ai/unified-ai-system",
     "stars": 7,
-    "updated_at": "2026-09-28T20:13:26Z",
+    "updated_at": "2026-09-28T20:22:22Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 92,
+    "updated_at": "2026-09-28T20:21:37Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
+    "id": "iraagarg/verdict",
+    "language": "Python",
+    "name": "iraagarg/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-28T20:19:12Z",
+    "url": "https://github.com/iraagarg/verdict"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-09-28T20:17:16Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 9,
+    "updated_at": "2026-09-28T20:16:37Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11645,
+    "updated_at": "2026-09-28T20:18:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T20:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,8 +95,17 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-28T20:13:02Z",
+    "updated_at": "2026-09-28T20:28:40Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30349,
+    "updated_at": "2026-09-28T20:09:47Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -27,13 +117,13 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
     "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30348,
-    "updated_at": "2026-09-28T20:09:47Z",
-    "url": "https://github.com/ComposioHQ/composio"
+    "name": "iblai/os",
+    "stars": 734,
+    "updated_at": "2026-09-28T20:06:03Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -45,15 +135,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59794,
-    "updated_at": "2026-09-28T20:14:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:05:40Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-28T20:00:43Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T20:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -135,15 +198,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25537,
-    "updated_at": "2026-09-28T20:14:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Run Claude Code headlessly as a local inference layer: named experts, multi-turn sessions, measured concurrency. Local a",
     "id": "YashShelar007/convene",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-28T19:52:46Z",
     "url": "https://github.com/YashShelar007/convene"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-09-28T19:59:57Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T19:40:52Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 9,
-    "updated_at": "2026-09-28T20:12:03Z",
-    "url": "https://github.com/AshwinUgale/muteval"
   },
   {
     "description": "Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows",
@@ -306,15 +342,6 @@
     "url": "https://github.com/NabiBukhsh-AI/prag-platform"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11645,
-    "updated_at": "2026-09-28T20:13:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Know when the APIs, LLMs and MCP servers you depend on go down \u2014 or silently change. Self-hosted API contract & drift mo",
     "id": "ahmedgcompany-cyber/contractrift",
     "language": "TypeScript",
@@ -383,7 +410,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 27,
-    "updated_at": "2026-09-28T19:41:56Z",
+    "updated_at": "2026-09-28T20:17:30Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T18:55:18Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-28T18:53:35Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-28T20:11:18Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 92,
-    "updated_at": "2026-09-28T20:12:42Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
