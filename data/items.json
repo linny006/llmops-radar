@@ -1,12 +1,93 @@
 [
   {
+    "description": "Evaluate and compare RAG pipelines and block regressions in CI: hit@k, MRR, nDCG, answer F1, faithfulness, citation vali",
+    "id": "sarathalapad/rag-eval-harness",
+    "language": "Python",
+    "name": "sarathalapad/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-09-28T08:29:40Z",
+    "url": "https://github.com/sarathalapad/rag-eval-harness"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59761,
+    "updated_at": "2026-09-28T08:28:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-09-28T08:28:18Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22266,
-    "updated_at": "2026-09-28T08:15:16Z",
+    "updated_at": "2026-09-28T08:26:43Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
+    "id": "YOalphabet/YOalphabet",
+    "language": "HTML",
+    "name": "YOalphabet/YOalphabet",
+    "stars": 18,
+    "updated_at": "2026-09-28T08:26:41Z",
+    "url": "https://github.com/YOalphabet/YOalphabet"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 531,
+    "updated_at": "2026-09-28T08:19:19Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 171,
+    "updated_at": "2026-09-28T08:29:15Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 15,
+    "updated_at": "2026-09-28T08:16:14Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
+    "id": "aimd54/palan",
+    "language": "Go",
+    "name": "aimd54/palan",
+    "stars": 0,
+    "updated_at": "2026-09-28T08:15:53Z",
+    "url": "https://github.com/aimd54/palan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T08:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Catches an AI's confident mistakes before they reach a client \u2014 what turns an impressive demo into something you can inv",
@@ -27,21 +108,12 @@
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 171,
-    "updated_at": "2026-09-28T08:15:28Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4885,
-    "updated_at": "2026-09-28T08:14:41Z",
+    "updated_at": "2026-09-28T08:30:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -63,31 +135,22 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59759,
-    "updated_at": "2026-09-28T08:03:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T08:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8411,
-    "updated_at": "2026-09-28T07:59:03Z",
+    "updated_at": "2026-09-28T08:19:54Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7433,
+    "updated_at": "2026-09-28T07:58:17Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2896,
-    "updated_at": "2026-09-28T07:38:51Z",
+    "updated_at": "2026-09-28T08:20:51Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T07:36:48Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7432,
-    "updated_at": "2026-09-28T07:58:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -277,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T07:33:53Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 15,
-    "updated_at": "2026-09-28T07:32:56Z",
-    "url": "https://github.com/psyb0t/aigate"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T07:18:11Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-09-28T07:16:45Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
-    "id": "DuqueOM/ml-platform",
-    "language": "Python",
-    "name": "DuqueOM/ml-platform",
-    "stars": 2,
-    "updated_at": "2026-09-28T07:12:07Z",
-    "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35128,
-    "updated_at": "2026-09-28T07:57:36Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-09-28T08:14:53Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-28T07:02:33Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
