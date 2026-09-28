@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Pass the prompt, not the payload. Hand the next AI agent a short, checksummed reference to a prompt; the receiver gets t",
+    "id": "UdayaNirogi/promptcapsule",
     "language": "Python",
-    "name": "linny006/llmops-radar",
+    "name": "UdayaNirogi/promptcapsule",
+    "stars": 2,
+    "updated_at": "2026-09-28T01:11:25Z",
+    "url": "https://github.com/UdayaNirogi/promptcapsule"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
     "stars": 3,
-    "updated_at": "2026-09-28T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "updated_at": "2026-09-28T01:06:49Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-09-28T00:59:04Z",
+    "updated_at": "2026-09-28T01:11:22Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-28T01:02:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T01:01:14Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59733,
-    "updated_at": "2026-09-28T00:56:17Z",
+    "updated_at": "2026-09-28T01:02:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T00:39:40Z",
     "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-28T00:37:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Trading Lab: KB-backed paper-trading pipeline \u2014 gap-and-go scanner, guarded Alpaca paper orders (Python)",
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-28T00:17:06Z",
+    "updated_at": "2026-09-28T01:13:28Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T23:24:38Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25502,
-    "updated_at": "2026-09-27T23:24:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-27T23:12:23Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
