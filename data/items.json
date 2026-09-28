@@ -1,12 +1,75 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8419,
+    "updated_at": "2026-09-28T12:00:11Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Bionic is sovereign Agentic AI for the enterprise \u2014 Runs on-premise and can securely work with your sensitive data and s",
+    "id": "bionic-gpt/bionic-gpt",
+    "language": "Rust",
+    "name": "bionic-gpt/bionic-gpt",
+    "stars": 2380,
+    "updated_at": "2026-09-28T11:58:07Z",
+    "url": "https://github.com/bionic-gpt/bionic-gpt"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1355,
+    "updated_at": "2026-09-28T11:55:52Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-28T11:58:25Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A runtime learning loop for coding agents. Turns Claude Code, Codex, Cursor and model-router runs into governed, measure",
+    "id": "kkrlstrm/runtune",
+    "language": "Python",
+    "name": "kkrlstrm/runtune",
+    "stars": 2,
+    "updated_at": "2026-09-28T11:53:58Z",
+    "url": "https://github.com/kkrlstrm/runtune"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30348,
-    "updated_at": "2026-09-28T11:45:03Z",
+    "updated_at": "2026-09-28T11:55:54Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:46:05Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T11:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35136,
-    "updated_at": "2026-09-28T11:41:03Z",
+    "updated_at": "2026-09-28T11:56:30Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "spanlens/Spanlens",
     "stars": 13,
-    "updated_at": "2026-09-28T11:39:08Z",
+    "updated_at": "2026-09-28T11:55:22Z",
     "url": "https://github.com/spanlens/Spanlens"
   },
   {
@@ -108,6 +171,15 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25526,
+    "updated_at": "2026-09-28T11:36:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
     "id": "amareshhebbar/gitgrounded",
     "language": "Python",
@@ -144,24 +216,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T11:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25525,
-    "updated_at": "2026-09-28T11:36:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59775,
-    "updated_at": "2026-09-28T11:29:27Z",
+    "updated_at": "2026-09-28T12:00:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -310,7 +364,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7444,
+    "stars": 7445,
     "updated_at": "2026-09-28T11:15:01Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22271,
-    "updated_at": "2026-09-28T11:22:26Z",
+    "updated_at": "2026-09-28T11:58:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-28T11:02:35Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
-    "id": "ha7n23/careerops-agent-engine",
-    "language": "Python",
-    "name": "ha7n23/careerops-agent-engine",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:33:50Z",
-    "url": "https://github.com/ha7n23/careerops-agent-engine"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-09-28T10:58:16Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-09-28T10:54:09Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 755,
-    "updated_at": "2026-09-28T10:57:13Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2085,
-    "updated_at": "2026-09-28T11:41:59Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 18,
-    "updated_at": "2026-09-28T10:55:26Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
