@@ -1,5 +1,77 @@
 [
   {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 4,
+    "updated_at": "2026-09-28T07:15:12Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
+    "id": "DuqueOM/ml-platform",
+    "language": "Python",
+    "name": "DuqueOM/ml-platform",
+    "stars": 2,
+    "updated_at": "2026-09-28T07:12:07Z",
+    "url": "https://github.com/DuqueOM/ml-platform"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35127,
+    "updated_at": "2026-09-28T07:11:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-09-28T07:09:41Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
+    "id": "spanlens/Spanlens",
+    "language": "TypeScript",
+    "name": "spanlens/Spanlens",
+    "stars": 13,
+    "updated_at": "2026-09-28T07:09:06Z",
+    "url": "https://github.com/spanlens/Spanlens"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8407,
+    "updated_at": "2026-09-28T07:11:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-28T07:02:33Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T07:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 171,
-    "updated_at": "2026-09-28T06:56:34Z",
+    "updated_at": "2026-09-28T07:07:42Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/maida-ai/maida-assert"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T06:51:51Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
     "id": "aws-samples/sample-genai-on-eks-starter-kit",
     "language": "JavaScript",
@@ -43,15 +106,6 @@
     "stars": 95,
     "updated_at": "2026-09-28T06:53:40Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35126,
-    "updated_at": "2026-09-28T07:00:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -63,12 +117,21 @@
     "url": "https://github.com/overmind-core/overmind"
   },
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7429,
+    "updated_at": "2026-09-28T06:44:44Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-28T06:57:32Z",
+    "updated_at": "2026-09-28T07:14:32Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -124,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-09-28T06:34:59Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11642,
+    "updated_at": "2026-09-28T06:26:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -184,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59753,
+    "stars": 59755,
     "updated_at": "2026-09-28T06:07:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -196,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T06:02:12Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7428,
-    "updated_at": "2026-09-28T06:44:44Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -297,15 +360,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 4,
-    "updated_at": "2026-09-28T06:58:20Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T05:29:37Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Distribute GGUF and safetensors weights through any OCI registry, with signatures verified before a byte moves. Daemonle",
-    "id": "aimd54/palan",
-    "language": "Go",
-    "name": "aimd54/palan",
-    "stars": 0,
-    "updated_at": "2026-09-28T06:27:20Z",
-    "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-28T05:24:15Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-09-28T05:22:53Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-28T05:22:12Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "Omni-Modal Enterprise Hub & Multi-Agent AI Orchestrator running entirely with a local-first footprint across C++, Java, ",
-    "id": "vipin-mo/nexus-ai-hub",
-    "language": "Python",
-    "name": "vipin-mo/nexus-ai-hub",
-    "stars": 0,
-    "updated_at": "2026-09-28T05:21:49Z",
-    "url": "https://github.com/vipin-mo/nexus-ai-hub"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-28T05:21:10Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   }
 ]
