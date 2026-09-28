@@ -1,5 +1,104 @@
 [
   {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 7,
+    "updated_at": "2026-09-28T06:00:20Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
+    "language": "Python",
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-09-28T05:58:44Z",
+    "url": "https://github.com/maida-ai/maida-assert"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-28T05:57:57Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59750,
+    "updated_at": "2026-09-28T05:54:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-28T05:52:47Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-09-28T05:48:02Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Git-style receipts for LLM evals: measure variance, capture provenance, detect flaky verdicts, and verify results in CI",
+    "id": "patibandlavenkatamanideep/evalseal",
+    "language": "Python",
+    "name": "patibandlavenkatamanideep/evalseal",
+    "stars": 2,
+    "updated_at": "2026-09-28T05:51:22Z",
+    "url": "https://github.com/patibandlavenkatamanideep/evalseal"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-09-28T05:46:12Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-09-28T05:46:07Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-09-28T05:45:29Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T05:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 37,
-    "updated_at": "2026-09-28T05:40:47Z",
+    "updated_at": "2026-09-28T05:58:33Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -104,7 +203,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35121,
-    "updated_at": "2026-09-28T05:33:20Z",
+    "updated_at": "2026-09-28T05:56:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -153,15 +252,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T05:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -180,21 +270,12 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-28T05:33:26Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 7424,
-    "updated_at": "2026-09-28T05:26:29Z",
+    "updated_at": "2026-09-28T05:57:53Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T05:26:28Z",
     "url": "https://github.com/aimd54/palan"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-09-28T05:25:23Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -284,7 +356,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 171,
-    "updated_at": "2026-09-28T05:20:06Z",
+    "updated_at": "2026-09-28T05:59:22Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T05:13:24Z",
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
-  },
-  {
-    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
-    "id": "maida-ai/maida-assert",
-    "language": "Python",
-    "name": "maida-ai/maida-assert",
-    "stars": 4,
-    "updated_at": "2026-09-28T05:08:38Z",
-    "url": "https://github.com/maida-ai/maida-assert"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -351,24 +414,6 @@
     "url": "https://github.com/zhaoxinghua09-cell/agent-skills"
   },
   {
-    "description": "Git-style receipts for LLM evals: measure variance, capture provenance, detect flaky verdicts, and verify results in CI",
-    "id": "patibandlavenkatamanideep/evalseal",
-    "language": "Python",
-    "name": "patibandlavenkatamanideep/evalseal",
-    "stars": 2,
-    "updated_at": "2026-09-28T04:59:26Z",
-    "url": "https://github.com/patibandlavenkatamanideep/evalseal"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-28T04:50:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-28T05:42:48Z",
+    "updated_at": "2026-09-28T05:54:50Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T04:31:19Z",
     "url": "https://github.com/data-gras/savi-sdk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59749,
-    "updated_at": "2026-09-28T05:43:43Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2897,
-    "updated_at": "2026-09-28T04:28:29Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
-    "id": "asale-ai/llm-verify",
-    "language": "Rust",
-    "name": "asale-ai/llm-verify",
-    "stars": 4,
-    "updated_at": "2026-09-28T04:26:25Z",
-    "url": "https://github.com/asale-ai/llm-verify"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-28T05:00:18Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1422,
-    "updated_at": "2026-09-28T04:15:51Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
   }
 ]
