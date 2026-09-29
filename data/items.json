@@ -1,11 +1,146 @@
 [
   {
+    "description": "Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one OpenAI",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T19:13:02Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8448,
+    "updated_at": "2026-09-29T19:14:11Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:12:02Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 494,
+    "updated_at": "2026-09-29T19:10:54Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-09-29T19:08:33Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 49,
+    "updated_at": "2026-09-29T19:10:25Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:07:45Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59875,
+    "updated_at": "2026-09-29T19:12:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:05:09Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:04:55Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 772,
+    "updated_at": "2026-09-29T19:04:51Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
+    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:04:29Z",
+    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:04:59Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-29T19:00:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-09-29T18:59:17Z",
+    "updated_at": "2026-09-29T19:00:31Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -14,35 +149,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-29T18:59:11Z",
+    "updated_at": "2026-09-29T19:12:42Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8448,
-    "updated_at": "2026-09-29T18:59:10Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one OpenAI",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T18:57:58Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 494,
-    "updated_at": "2026-09-29T18:57:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -54,15 +162,6 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:56:57Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
     "description": "Checks brand videos against compliance rules with a LangGraph pipeline on Azure. Video Indexer gets the transcript and o",
     "id": "ShubhamNagrare/llmops-multimodel-azure-project",
     "language": "Python",
@@ -72,15 +171,6 @@
     "url": "https://github.com/ShubhamNagrare/llmops-multimodel-azure-project"
   },
   {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 49,
-    "updated_at": "2026-09-29T18:54:57Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -88,42 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T18:53:04Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59874,
-    "updated_at": "2026-09-29T19:00:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-09-29T18:51:48Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:57:20Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T18:46:54Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25560,
-    "updated_at": "2026-09-29T18:58:19Z",
+    "updated_at": "2026-09-29T19:14:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11654,
-    "updated_at": "2026-09-29T18:55:54Z",
+    "updated_at": "2026-09-29T19:05:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -232,6 +286,15 @@
     "stars": 7,
     "updated_at": "2026-09-29T18:35:16Z",
     "url": "https://github.com/KushagraKanaujia/throttle"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30366,
+    "updated_at": "2026-09-29T18:35:11Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -304,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T18:22:42Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
-    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:22:31Z",
-    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-29T18:11:18Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:10:23Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 771,
-    "updated_at": "2026-09-29T18:08:46Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 18,
-    "updated_at": "2026-09-29T18:24:14Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
-    "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1421,
-    "updated_at": "2026-09-29T17:58:27Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-29T17:57:43Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-29T17:56:27Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
