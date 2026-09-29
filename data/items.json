@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "Peter-A-P/ai-release-gate",
     "stars": 0,
-    "updated_at": "2026-09-29T20:59:49Z",
+    "updated_at": "2026-09-29T21:15:20Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:58:43Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +14,17 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-09-29T20:57:42Z",
+    "updated_at": "2026-09-29T21:13:25Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59879,
+    "updated_at": "2026-09-29T21:13:01Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -32,17 +32,62 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-29T20:57:39Z",
+    "updated_at": "2026-09-29T21:12:44Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59877,
-    "updated_at": "2026-09-29T21:00:11Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "brtydse100/litegate",
+    "stars": 5,
+    "updated_at": "2026-09-29T21:05:28Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-29T21:07:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A typed coherence layer for portable organizational AI agents.",
+    "id": "buchk/TypeFerence",
+    "language": "Go",
+    "name": "buchk/TypeFerence",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:01:24Z",
+    "url": "https://github.com/buchk/TypeFerence"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1238,
+    "updated_at": "2026-09-29T21:02:28Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:05:06Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Enterprise AI Operating System for secure RAG, agentic AI, multi-agent orchestration, knowledge graphs, workflow automat",
@@ -50,7 +95,7 @@
     "language": "HTML",
     "name": "HSA-AI/HSAAI",
     "stars": 0,
-    "updated_at": "2026-09-29T20:56:39Z",
+    "updated_at": "2026-09-29T21:09:47Z",
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1238,
-    "updated_at": "2026-09-29T20:49:01Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
     "id": "idevelopAI/llm-eval-control-plane",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T20:45:57Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T20:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -178,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-09-29T20:39:39Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 601,
+    "updated_at": "2026-09-29T20:39:06Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4890,
-    "updated_at": "2026-09-29T20:59:52Z",
+    "updated_at": "2026-09-29T21:11:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8449,
-    "updated_at": "2026-09-29T20:59:15Z",
+    "updated_at": "2026-09-29T21:09:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T20:15:07Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:14:56Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-09-29T20:13:19Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11654,
-    "updated_at": "2026-09-29T20:42:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:12:44Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
