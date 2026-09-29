@@ -1,5 +1,176 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59818,
+    "updated_at": "2026-09-29T04:29:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
+    "id": "montgome753/LLM-Evaluation-Framework",
+    "language": "Python",
+    "name": "montgome753/LLM-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:29:48Z",
+    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:28:32Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
+    "id": "harishu652/Class-AI-Agent",
+    "language": "\u2014",
+    "name": "harishu652/Class-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:25:17Z",
+    "url": "https://github.com/harishu652/Class-AI-Agent"
+  },
+  {
+    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
+    "id": "Healthful-article791/rag-systems-production",
+    "language": "\u2014",
+    "name": "Healthful-article791/rag-systems-production",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:24:35Z",
+    "url": "https://github.com/Healthful-article791/rag-systems-production"
+  },
+  {
+    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
+    "id": "kawaiirashi/llm-retry",
+    "language": "C++",
+    "name": "kawaiirashi/llm-retry",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:20:34Z",
+    "url": "https://github.com/kawaiirashi/llm-retry"
+  },
+  {
+    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
+    "id": "wahhyun/llm-eval",
+    "language": "C++",
+    "name": "wahhyun/llm-eval",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:20:32Z",
+    "url": "https://github.com/wahhyun/llm-eval"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T04:20:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
+    "id": "ashmedanraj/langfuse-eks-production",
+    "language": "\u2014",
+    "name": "ashmedanraj/langfuse-eks-production",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:20:06Z",
+    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
+  },
+  {
+    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
+    "id": "sarrahw23/deploy-guide",
+    "language": "\u2014",
+    "name": "sarrahw23/deploy-guide",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:19:51Z",
+    "url": "https://github.com/sarrahw23/deploy-guide"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25544,
+    "updated_at": "2026-09-29T04:22:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:19:18Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:19:15Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:18:29Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
+    "id": "rvhn/rest-gateway-1771918257-5",
+    "language": "\u2014",
+    "name": "rvhn/rest-gateway-1771918257-5",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:18:26Z",
+    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T04:29:48Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
+    "id": "FawwazAzka/openclaw-docs",
+    "language": "JavaScript",
+    "name": "FawwazAzka/openclaw-docs",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:17:32Z",
+    "url": "https://github.com/FawwazAzka/openclaw-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:15:18Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -126,15 +297,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -158,7 +320,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-29T04:06:39Z",
+    "updated_at": "2026-09-29T04:17:50Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -180,15 +342,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:11:47Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -196,24 +349,6 @@
     "stars": 8,
     "updated_at": "2026-09-29T03:51:01Z",
     "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:48:31Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59817,
-    "updated_at": "2026-09-29T04:07:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -230,26 +365,8 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-09-29T03:40:30Z",
+    "updated_at": "2026-09-29T04:21:05Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:13:42Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T03:37:58Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The Project for the Course : DS5619 MLOPS",
@@ -268,15 +385,6 @@
     "stars": 40,
     "updated_at": "2026-09-29T03:29:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25543,
-    "updated_at": "2026-09-29T04:05:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -340,113 +448,5 @@
     "stars": 22277,
     "updated_at": "2026-09-29T02:47:45Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-29T02:43:31Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35164,
-    "updated_at": "2026-09-29T02:42:32Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:39:00Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28173,
-    "updated_at": "2026-09-29T02:38:52Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:36:19Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:35:44Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:35:21Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:34:51Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
-    "id": "montgome753/LLM-Evaluation-Framework",
-    "language": "Python",
-    "name": "montgome753/LLM-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:30:58Z",
-    "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:29:44Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:26:34Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-29T02:25:49Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
