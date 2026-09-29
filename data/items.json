@@ -1,12 +1,156 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59875,
+    "updated_at": "2026-09-29T19:45:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8448,
-    "updated_at": "2026-09-29T19:29:16Z",
+    "updated_at": "2026-09-29T19:45:23Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-09-29T19:44:39Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:44:27Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:44:09Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 495,
+    "updated_at": "2026-09-29T19:44:04Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "HiveGate \u2014 open-source production runtime for AI agents: REST API, multi-agent teams, OAuth integrations. Built on Agno.",
+    "id": "hivegate-ai/hivegate",
+    "language": "Python",
+    "name": "hivegate-ai/hivegate",
+    "stars": 6,
+    "updated_at": "2026-09-29T19:43:30Z",
+    "url": "https://github.com/hivegate-ai/hivegate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-29T19:43:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:42:13Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:41:43Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11653,
+    "updated_at": "2026-09-29T19:44:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:39:13Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
+    "id": "gatemux-dev/gatemux",
+    "language": "Go",
+    "name": "gatemux-dev/gatemux",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:38:35Z",
+    "url": "https://github.com/gatemux-dev/gatemux"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:44:07Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T19:39:59Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 32,
+    "updated_at": "2026-09-29T19:33:22Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -25,33 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-29T19:28:49Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-29T19:28:49Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T19:28:17Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:27:08Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -81,6 +198,15 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4889,
+    "updated_at": "2026-09-29T19:23:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T19:22:48Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "HiveGate \u2014 open-source production runtime for AI agents: REST API, multi-agent teams, OAuth integrations. Built on Agno.",
-    "id": "hivegate-ai/hivegate",
-    "language": "Python",
-    "name": "hivegate-ai/hivegate",
-    "stars": 6,
-    "updated_at": "2026-09-29T19:21:56Z",
-    "url": "https://github.com/hivegate-ai/hivegate"
   },
   {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
@@ -126,33 +243,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11654,
-    "updated_at": "2026-09-29T19:17:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 495,
-    "updated_at": "2026-09-29T19:10:54Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -169,15 +259,6 @@
     "stars": 49,
     "updated_at": "2026-09-29T19:10:25Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59875,
-    "updated_at": "2026-09-29T19:24:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The Project for the Course : DS5619 MLOPS",
@@ -202,27 +283,18 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 773,
+    "stars": 774,
     "updated_at": "2026-09-29T19:04:51Z",
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:04:59Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-29T19:00:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35206,
+    "updated_at": "2026-09-29T18:59:40Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -243,15 +315,6 @@
     "url": "https://github.com/ShubhamNagrare/llmops-multimodel-azure-project"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:16:54Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25560,
-    "updated_at": "2026-09-29T19:29:32Z",
+    "updated_at": "2026-09-29T19:40:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-29T18:42:47Z",
+    "updated_at": "2026-09-29T19:42:47Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:25:56Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:25:49Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:23:40Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-09-29T18:22:42Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:22:08Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:21:01Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:16:07Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
