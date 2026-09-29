@@ -1,5 +1,104 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25548,
+    "updated_at": "2026-09-29T08:00:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2905,
+    "updated_at": "2026-09-29T07:59:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35180,
+    "updated_at": "2026-09-29T07:58:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 171,
+    "updated_at": "2026-09-29T07:58:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59829,
+    "updated_at": "2026-09-29T07:52:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T07:50:18Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T07:50:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:49:29Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28175,
+    "updated_at": "2026-09-29T07:47:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-09-29T07:47:19Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -18,6 +117,15 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8429,
+    "updated_at": "2026-09-29T07:43:00Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
     "id": "Traciewheelless86/sentiment-analysis-nlp-api",
     "language": "Python",
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T07:42:12Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T07:42:02Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2905,
-    "updated_at": "2026-09-29T07:41:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -135,24 +225,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T07:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 171,
-    "updated_at": "2026-09-29T07:40:40Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -160,15 +232,6 @@
     "stars": 40,
     "updated_at": "2026-09-29T07:28:22Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59827,
-    "updated_at": "2026-09-29T07:28:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-29T07:40:27Z",
+    "updated_at": "2026-09-29T07:52:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -279,15 +342,6 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35177,
-    "updated_at": "2026-09-29T07:19:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -331,24 +385,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T07:14:59Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-29T07:14:52Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T07:09:00Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
@@ -405,15 +441,6 @@
     "url": "https://github.com/Kushagra1A/openpi"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-29T07:00:58Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
     "id": "YOalphabet/YOalphabet",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-29T06:57:04Z",
     "url": "https://github.com/YOalphabet/YOalphabet"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-09-29T06:56:57Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22280,
-    "updated_at": "2026-09-29T07:39:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8428,
-    "updated_at": "2026-09-29T07:43:00Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
