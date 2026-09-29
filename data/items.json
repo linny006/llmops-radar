@@ -1,20 +1,11 @@
 [
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 495,
-    "updated_at": "2026-09-29T21:30:12Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-09-29T21:29:59Z",
+    "updated_at": "2026-09-29T21:44:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -23,8 +14,53 @@
     "language": "Python",
     "name": "Peter-A-P/ai-release-gate",
     "stars": 0,
-    "updated_at": "2026-09-29T21:29:15Z",
+    "updated_at": "2026-09-29T21:43:38Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T21:37:12Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 495,
+    "updated_at": "2026-09-29T21:41:04Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:38:33Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:34:55Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-29T21:29:32Z",
+    "updated_at": "2026-09-29T21:41:02Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -77,26 +113,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-29T21:29:22Z",
+    "updated_at": "2026-09-29T21:31:17Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:30:02Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59879,
-    "updated_at": "2026-09-29T21:30:20Z",
+    "updated_at": "2026-09-29T21:44:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8450,
-    "updated_at": "2026-09-29T21:09:42Z",
+    "updated_at": "2026-09-29T21:31:34Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -158,17 +176,8 @@
     "language": "HTML",
     "name": "HSA-AI/HSAAI",
     "stars": 0,
-    "updated_at": "2026-09-29T21:18:46Z",
+    "updated_at": "2026-09-29T21:44:44Z",
     "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T20:54:41Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 601,
-    "updated_at": "2026-09-29T20:39:06Z",
+    "updated_at": "2026-09-29T21:37:53Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4890,
-    "updated_at": "2026-09-29T21:29:39Z",
+    "updated_at": "2026-09-29T21:42:00Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T20:31:08Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:30:27Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -365,7 +365,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-09-29T21:24:59Z",
+    "updated_at": "2026-09-29T21:31:48Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -378,6 +378,15 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-09-29T20:24:30Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -385,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T20:24:18Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 32,
-    "updated_at": "2026-09-29T20:24:30Z",
-    "url": "https://github.com/maida-ai/maida"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
