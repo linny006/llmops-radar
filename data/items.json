@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59823,
-    "updated_at": "2026-09-29T06:14:10Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T06:29:40Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-09-29T06:14:10Z",
+    "updated_at": "2026-09-29T06:26:39Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T06:26:32Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2904,
-    "updated_at": "2026-09-29T06:13:54Z",
+    "updated_at": "2026-09-29T06:25:27Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22279,
+    "updated_at": "2026-09-29T06:25:22Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 4,
+    "updated_at": "2026-09-29T06:29:22Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T06:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59823,
+    "updated_at": "2026-09-29T06:29:11Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -52,24 +97,6 @@
     "stars": 6,
     "updated_at": "2026-09-29T06:05:13Z",
     "url": "https://github.com/intel/enterprise-inference"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22279,
-    "updated_at": "2026-09-29T06:01:20Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T06:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -108,15 +135,6 @@
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T05:44:56Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
     "id": "Fast-Editor/Lynkr",
     "language": "JavaScript",
@@ -153,15 +171,6 @@
     "url": "https://github.com/labfile0-eng/ai-spend-doctor"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 4,
-    "updated_at": "2026-09-29T05:28:46Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2093,
-    "updated_at": "2026-09-29T06:02:55Z",
+    "updated_at": "2026-09-29T06:25:31Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 30354,
     "updated_at": "2026-09-29T05:06:53Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T05:02:14Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-29T05:19:52Z",
+    "updated_at": "2026-09-29T06:15:55Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -319,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25546,
+    "stars": 25547,
     "updated_at": "2026-09-29T04:22:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
