@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-29 00:58 UTC
+> ⏰ Last updated: 2026-09-29 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30351 | TypeScript | 2026-09-29 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 2 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-29 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 3 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-29 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 4 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-09-29 | Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt — no  |
-| 5 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 8 | JavaScript | 2026-09-29 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
-| 6 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-29 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 7 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-09-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 1 | Python | 2026-09-29 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
-| 10 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 4 | TypeScript | 2026-09-29 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59804 | Python | 2026-09-29 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59804 | Python | 2026-09-29 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-09-29 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30351 | TypeScript | 2026-09-29 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 4 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-29 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 5 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-09-29 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 6 | [domondi1/inferrail](https://github.com/domondi1/inferrail) | 0 | Python | 2026-09-29 | Self-hosted, OpenAI-compatible LLM gateway that turns every request into a payload-free, attributable cost receipt — no  |
+| 7 | [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | 8 | JavaScript | 2026-09-29 | Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2 |
+| 8 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-09-29 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 9 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-09-29 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 10 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 1 | Python | 2026-09-29 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
+| 11 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 4 | TypeScript | 2026-09-29 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
 | 12 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 38 | Python | 2026-09-29 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
 | 13 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-09-29 | Temporal workers and clients for wrapping access to different LLMs |
 | 14 | [B0yko/taskdistill](https://github.com/B0yko/taskdistill) | 17 | Python | 2026-09-29 | Distil an expensive LLM API call on a narrow task into a small local model: capture traffic, curate, LoRA fine-tune with |
