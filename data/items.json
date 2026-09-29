@@ -1,5 +1,77 @@
 [
   {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T13:43:04Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 93,
+    "updated_at": "2026-09-29T13:42:48Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T13:42:19Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:39:14Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-09-29T13:38:03Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
+    "id": "Kingson4Wu/Understanding-LLMs",
+    "language": "Python",
+    "name": "Kingson4Wu/Understanding-LLMs",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:37:31Z",
+    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2095,
+    "updated_at": "2026-09-29T13:38:20Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T13:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-09-29T13:29:49Z",
+    "updated_at": "2026-09-29T13:32:22Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22288,
-    "updated_at": "2026-09-29T13:29:21Z",
+    "updated_at": "2026-09-29T13:43:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T13:25:08Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Azure-native agentic AI platform: Microsoft Agent Framework 1.0, Azure AI Foundry, A2A, MCP, AI Search, Document Intelli",
     "id": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
     "language": "Python",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T13:24:55Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-09-29T13:28:18Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-29T13:28:55Z",
+    "updated_at": "2026-09-29T13:39:24Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -104,17 +158,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-29T13:20:51Z",
+    "updated_at": "2026-09-29T13:34:27Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T13:20:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -124,15 +169,6 @@
     "stars": 35196,
     "updated_at": "2026-09-29T13:21:39Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2094,
-    "updated_at": "2026-09-29T13:19:45Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
@@ -157,7 +193,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 59858,
+    "stars": 59859,
     "updated_at": "2026-09-29T13:15:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -229,25 +265,16 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28181,
+    "stars": 28182,
     "updated_at": "2026-09-29T13:06:57Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T13:04:41Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8438,
+    "stars": 8439,
     "updated_at": "2026-09-29T13:02:29Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -261,15 +288,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:59:52Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
     "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
     "id": "Aditya31398/agentdynamics",
     "language": "Python",
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T12:59:44Z",
     "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 93,
-    "updated_at": "2026-09-29T13:21:51Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-09-29T12:35:47Z",
+    "updated_at": "2026-09-29T13:44:32Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8759,
-    "updated_at": "2026-09-29T12:26:43Z",
+    "updated_at": "2026-09-29T13:41:48Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 755,
     "updated_at": "2026-09-29T12:48:11Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
-    "id": "asadhanif3188/InferOps",
-    "language": "Python",
-    "name": "asadhanif3188/InferOps",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:22:53Z",
-    "url": "https://github.com/asadhanif3188/InferOps"
   }
 ]
