@@ -1,12 +1,75 @@
 [
   {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:00:26Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-09-29T21:44:03Z",
+    "updated_at": "2026-09-29T21:59:32Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
+    "id": "DuqueOM/ml-platform",
+    "language": "Python",
+    "name": "DuqueOM/ml-platform",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:58:37Z",
+    "url": "https://github.com/DuqueOM/ml-platform"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:52:54Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25562,
+    "updated_at": "2026-09-29T22:00:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:47:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-09-29T21:47:57Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T21:57:20Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "Peter-A-P/ai-release-gate",
     "stars": 0,
-    "updated_at": "2026-09-29T21:43:38Z",
+    "updated_at": "2026-09-29T21:45:58Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-29T22:00:08Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -36,15 +117,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:38:33Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
@@ -52,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T21:34:55Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
@@ -86,17 +149,8 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 780,
-    "updated_at": "2026-09-29T21:25:50Z",
+    "updated_at": "2026-09-29T21:55:05Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T21:41:02Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Agentic Runtime",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-29T21:31:17Z",
+    "updated_at": "2026-09-29T21:59:32Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59879,
-    "updated_at": "2026-09-29T21:44:06Z",
+    "updated_at": "2026-09-29T22:00:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8450,
-    "updated_at": "2026-09-29T21:31:34Z",
+    "updated_at": "2026-09-29T21:55:19Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -176,7 +230,7 @@
     "language": "HTML",
     "name": "HSA-AI/HSAAI",
     "stars": 0,
-    "updated_at": "2026-09-29T21:44:44Z",
+    "updated_at": "2026-09-29T21:59:57Z",
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25563,
-    "updated_at": "2026-09-29T21:28:04Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 601,
-    "updated_at": "2026-09-29T21:37:53Z",
+    "updated_at": "2026-09-29T21:55:52Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -297,15 +342,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:35:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4890,
-    "updated_at": "2026-09-29T21:42:00Z",
+    "updated_at": "2026-09-29T21:46:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-09-29T21:31:48Z",
+    "updated_at": "2026-09-29T21:51:43Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T20:22:27Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
-    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:20:29Z",
-    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
-  },
-  {
-    "description": "HiveGate \u2014 open-source production runtime for AI agents: REST API, multi-agent teams, OAuth integrations. Built on Agno.",
-    "id": "hivegate-ai/hivegate",
-    "language": "Python",
-    "name": "hivegate-ai/hivegate",
-    "stars": 6,
-    "updated_at": "2026-09-29T20:18:41Z",
-    "url": "https://github.com/hivegate-ai/hivegate"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:17:37Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Ba",
-    "id": "nano-step/eval-harness",
-    "language": "Shell",
-    "name": "nano-step/eval-harness",
-    "stars": 13,
-    "updated_at": "2026-09-29T20:18:18Z",
-    "url": "https://github.com/nano-step/eval-harness"
   }
 ]
