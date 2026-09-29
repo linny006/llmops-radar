@@ -1,21 +1,12 @@
 [
   {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:43:51Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59819,
-    "updated_at": "2026-09-29T04:44:37Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-29T04:58:45Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "An agent harness in Rust \u2014 remote hosts, isolated sandboxes, model pools with enforced ceilings, one HTTP API.",
@@ -23,8 +14,62 @@
     "language": "Rust",
     "name": "phantomic12/hx-harness",
     "stars": 0,
-    "updated_at": "2026-09-29T04:38:49Z",
+    "updated_at": "2026-09-29T04:54:58Z",
     "url": "https://github.com/phantomic12/hx-harness"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T04:54:37Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:48:05Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59819,
+    "updated_at": "2026-09-29T04:59:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22278,
+    "updated_at": "2026-09-29T04:44:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:43:51Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
     "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
@@ -41,7 +86,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-29T04:45:04Z",
+    "updated_at": "2026-09-29T04:54:43Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -81,15 +126,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:42:10Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:30:40Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -144,6 +171,15 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25545,
+    "updated_at": "2026-09-29T04:22:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
     "id": "kawaiirashi/llm-retry",
     "language": "C++",
@@ -162,15 +198,6 @@
     "url": "https://github.com/wahhyun/llm-eval"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-29T04:20:17Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
     "id": "ashmedanraj/langfuse-eks-production",
     "language": "\u2014",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:19:51Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25544,
-    "updated_at": "2026-09-29T04:22:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:18:26Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:29:48Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
@@ -418,7 +427,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8425,
+    "stars": 8426,
     "updated_at": "2026-09-29T03:41:51Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -439,14 +448,5 @@
     "stars": 40,
     "updated_at": "2026-09-29T03:29:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 8,
-    "updated_at": "2026-09-29T03:28:43Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   }
 ]
