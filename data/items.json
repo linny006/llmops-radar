@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59875,
-    "updated_at": "2026-09-29T19:45:26Z",
+    "updated_at": "2026-09-29T20:00:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8448,
-    "updated_at": "2026-09-29T19:45:23Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:59:18Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:58:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-09-29T19:58:01Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:57:20Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
@@ -23,8 +50,98 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-09-29T19:44:39Z",
+    "updated_at": "2026-09-29T19:56:18Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-09-29T19:55:26Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:58:53Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-29T19:54:11Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one OpenAI",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T19:51:41Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-09-29T19:51:39Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 5,
+    "updated_at": "2026-09-29T19:48:14Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 495,
+    "updated_at": "2026-09-29T19:47:52Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:46:14Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8448,
+    "updated_at": "2026-09-29T19:59:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:45:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -36,22 +153,13 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:44:09Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 495,
-    "updated_at": "2026-09-29T19:44:04Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "Arize-ai/phoenix",
+    "stars": 11654,
+    "updated_at": "2026-09-29T19:58:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HiveGate \u2014 open-source production runtime for AI agents: REST API, multi-agent teams, OAuth integrations. Built on Agno.",
@@ -72,15 +180,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:42:13Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -90,21 +189,12 @@
     "url": "https://github.com/Root1V/argus-observability-platform"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11653,
-    "updated_at": "2026-09-29T19:44:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-29T19:39:13Z",
+    "updated_at": "2026-09-29T19:50:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -117,21 +207,12 @@
     "url": "https://github.com/gatemux-dev/gatemux"
   },
   {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:44:07Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-29T19:39:59Z",
+    "updated_at": "2026-09-29T19:58:24Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 32,
     "updated_at": "2026-09-29T19:33:22Z",
     "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -180,15 +252,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one OpenAI",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T19:25:36Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -203,17 +266,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4889,
-    "updated_at": "2026-09-29T19:23:59Z",
+    "updated_at": "2026-09-29T19:53:22Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:23:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-29T19:17:49Z",
+    "updated_at": "2026-09-29T19:58:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 774,
-    "updated_at": "2026-09-29T19:04:51Z",
+    "updated_at": "2026-09-29T19:55:25Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8763,
-    "updated_at": "2026-09-29T18:41:09Z",
+    "updated_at": "2026-09-29T19:48:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1238,
     "updated_at": "2026-09-29T18:38:11Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Safe, local benchmarking for OpenAI-compatible inference endpoints",
-    "id": "KushagraKanaujia/throttle",
-    "language": "Python",
-    "name": "KushagraKanaujia/throttle",
-    "stars": 7,
-    "updated_at": "2026-09-29T18:35:16Z",
-    "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30366,
-    "updated_at": "2026-09-29T18:35:11Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-29T18:35:09Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:33:20Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:29:36Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:42:47Z",
-    "url": "https://github.com/luetzey/who2be"
   }
 ]
