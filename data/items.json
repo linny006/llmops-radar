@@ -1,5 +1,113 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22288,
+    "updated_at": "2026-09-29T17:13:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T17:13:38Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
+    "id": "Kingson4Wu/Understanding-LLMs",
+    "language": "Python",
+    "name": "Kingson4Wu/Understanding-LLMs",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:12:35Z",
+    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:11:14Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-09-29T17:10:47Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-09-29T17:10:16Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-29T17:10:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59867,
+    "updated_at": "2026-09-29T17:13:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 770,
+    "updated_at": "2026-09-29T17:07:45Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "\u4e2d\u6587 AI/LLM Agent \u7cfb\u7edf\u5b66\u4e60\u77e5\u8bc6\u5e93:15 \u7ae0\u4ece\u4ea4\u4e92\u5165\u53e3\u3001MCP \u534f\u8bae\u3001Agent \u4e3b\u4f53\u5230\u6784\u5efa\u81ea\u5df1\u7684 Agent \u5168\u6d41\u7a0b,\u9644\u771f\u5b9e\u53ef\u8fd0\u884c\u7684 LangGraph \u5b9e\u6218\u9879\u76ee\u3002\u4e2a\u4eba\u5b66\u4e60\u603b\u7ed3,\u6b22\u8fce\u65a7\u6b63\u3002",
+    "id": "123caiji/AI-LLM-Agent-Learning",
+    "language": "Python",
+    "name": "123caiji/AI-LLM-Agent-Learning",
+    "stars": 7,
+    "updated_at": "2026-09-29T17:07:29Z",
+    "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T17:06:27Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T17:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -13,18 +121,9 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8445,
+    "stars": 8447,
     "updated_at": "2026-09-29T16:57:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:56:09Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -36,31 +135,13 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59867,
-    "updated_at": "2026-09-29T17:00:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-29T16:55:43Z",
+    "updated_at": "2026-09-29T17:13:16Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:59:01Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
@@ -72,31 +153,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:53:02Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
     "description": "Enterprise AI Operating System for secure RAG, agentic AI, multi-agent orchestration, knowledge graphs, workflow automat",
     "id": "HSA-AI/HSAAI",
     "language": "HTML",
     "name": "HSA-AI/HSAAI",
     "stars": 0,
-    "updated_at": "2026-09-29T16:52:49Z",
+    "updated_at": "2026-09-29T17:09:10Z",
     "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T16:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 49,
-    "updated_at": "2026-09-29T16:59:46Z",
+    "updated_at": "2026-09-29T17:01:28Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 35201,
     "updated_at": "2026-09-29T16:40:17Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22288,
-    "updated_at": "2026-09-29T16:59:27Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T16:28:41Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T16:24:32Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25555,
-    "updated_at": "2026-09-29T16:59:19Z",
+    "updated_at": "2026-09-29T17:12:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,26 +284,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11653,
-    "updated_at": "2026-09-29T16:54:34Z",
+    "updated_at": "2026-09-29T17:11:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-09-29T16:42:45Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:50:56Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -274,18 +301,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28182,
+    "stars": 28183,
     "updated_at": "2026-09-29T16:06:15Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 770,
-    "updated_at": "2026-09-29T16:27:19Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-09-29T15:58:59Z",
+    "updated_at": "2026-09-29T17:08:21Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-09-29T16:51:26Z",
+    "updated_at": "2026-09-29T17:11:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 599,
-    "updated_at": "2026-09-29T16:59:10Z",
+    "updated_at": "2026-09-29T17:12:27Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-29T15:24:01Z",
     "url": "https://github.com/skwijeratne/agentix-toolkit"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-29T15:34:02Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1356,
-    "updated_at": "2026-09-29T16:59:53Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
