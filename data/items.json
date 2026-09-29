@@ -1,11 +1,74 @@
 [
   {
+    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 8,
+    "updated_at": "2026-09-29T03:30:02Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-29T03:29:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25542,
+    "updated_at": "2026-09-29T03:29:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 8,
+    "updated_at": "2026-09-29T03:28:43Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-29T03:21:47Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2904,
+    "updated_at": "2026-09-29T03:19:48Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T03:15:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
     "id": "AshwinUgale/muteval",
     "language": "Python",
     "name": "AshwinUgale/muteval",
     "stars": 9,
-    "updated_at": "2026-09-29T03:14:47Z",
+    "updated_at": "2026-09-29T03:21:21Z",
     "url": "https://github.com/AshwinUgale/muteval"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "olivaresai/olivares",
     "stars": 7,
-    "updated_at": "2026-09-29T03:14:31Z",
+    "updated_at": "2026-09-29T03:19:41Z",
     "url": "https://github.com/olivaresai/olivares"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T03:09:35Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T03:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -52,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-09-29T02:56:57Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2903,
-    "updated_at": "2026-09-29T02:56:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -90,21 +135,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Public Preview: self-hosted, protocol-first AI gateway and agent control plane for OpenAI, Anthropic, Gemini, MCP and A2",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 8,
-    "updated_at": "2026-09-29T02:40:48Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59815,
-    "updated_at": "2026-09-29T03:12:56Z",
+    "updated_at": "2026-09-29T03:21:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -121,7 +157,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28172,
+    "stars": 28173,
     "updated_at": "2026-09-29T02:38:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "VamsiSudhakaran1/release-gate",
     "stars": 3,
-    "updated_at": "2026-09-29T02:56:36Z",
+    "updated_at": "2026-09-29T03:23:06Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 18,
-    "updated_at": "2026-09-29T02:55:40Z",
+    "updated_at": "2026-09-29T03:27:09Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T02:29:44Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-29T02:26:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -421,32 +448,5 @@
     "stars": 5750,
     "updated_at": "2026-09-29T01:51:02Z",
     "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
-    "id": "hari9618/atlas-agentic-research",
-    "language": "Python",
-    "name": "hari9618/atlas-agentic-research",
-    "stars": 3,
-    "updated_at": "2026-09-29T01:50:33Z",
-    "url": "https://github.com/hari9618/atlas-agentic-research"
-  },
-  {
-    "description": "Production engineering for AI agents \u2014 observability, reliability, incident intelligence, regression testing, and releas",
-    "id": "DevChiniwala/ControlSurface",
-    "language": "Python",
-    "name": "DevChiniwala/ControlSurface",
-    "stars": 0,
-    "updated_at": "2026-09-29T01:49:09Z",
-    "url": "https://github.com/DevChiniwala/ControlSurface"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-29T01:40:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
