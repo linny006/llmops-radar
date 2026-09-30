@@ -1,12 +1,84 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-09-30T19:15:20Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:11:02Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-30T19:10:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59938,
-    "updated_at": "2026-09-30T19:00:06Z",
+    "updated_at": "2026-09-30T19:14:23Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-30T19:11:03Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
+    "id": "Laughing-Man-Studios/FreeReview",
+    "language": "TypeScript",
+    "name": "Laughing-Man-Studios/FreeReview",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:03:24Z",
+    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:01:49Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:00:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 4,
+    "updated_at": "2026-09-30T19:00:25Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -27,6 +99,15 @@
     "url": "https://github.com/YassirCher/reviewlens-ai"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8475,
+    "updated_at": "2026-09-30T19:02:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "HSAAI is a production-ready Enterprise AI Operating System for secure RAG, AI agents, multi-agent orchestration, knowled",
     "id": "HSA-AI/HSAAI",
     "language": "Python",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25595,
-    "updated_at": "2026-09-30T18:56:02Z",
+    "updated_at": "2026-09-30T19:07:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-09-30T18:55:26Z",
+    "updated_at": "2026-09-30T19:06:33Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -85,7 +166,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7820,
+    "stars": 7823,
     "updated_at": "2026-09-30T18:47:43Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -95,26 +176,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 498,
-    "updated_at": "2026-09-30T18:52:28Z",
+    "updated_at": "2026-09-30T19:15:18Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T18:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
-    "id": "Laughing-Man-Studios/FreeReview",
-    "language": "TypeScript",
-    "name": "Laughing-Man-Studios/FreeReview",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:44:05Z",
-    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
   },
   {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
@@ -180,15 +243,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-30T18:59:02Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "A typed coherence layer for portable organizational AI agents.",
     "id": "buchk/TypeFerence",
     "language": "Go",
@@ -198,30 +252,12 @@
     "url": "https://github.com/buchk/TypeFerence"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8474,
-    "updated_at": "2026-09-30T18:56:52Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-30T18:22:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 162,
-    "updated_at": "2026-09-30T18:22:34Z",
+    "updated_at": "2026-09-30T19:08:21Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:57:07Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
     "id": "peopleforrester/packt-agentic-devops",
     "language": "Python",
@@ -324,15 +351,6 @@
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-09-30T19:00:25Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -349,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T17:55:49Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-09-30T18:59:44Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T17:00:36Z",
     "url": "https://github.com/tap222/assay-evals"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22309,
-    "updated_at": "2026-09-30T18:55:56Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
