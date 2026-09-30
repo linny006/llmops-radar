@@ -5,8 +5,116 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8467,
-    "updated_at": "2026-09-30T12:15:04Z",
+    "updated_at": "2026-09-30T12:30:16Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Learn LangGraph",
+    "id": "Chamith-Dilshan/LearnLangGraph",
+    "language": "Python",
+    "name": "Chamith-Dilshan/LearnLangGraph",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:28:43Z",
+    "url": "https://github.com/Chamith-Dilshan/LearnLangGraph"
+  },
+  {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 35 models, 30 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:27:43Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59918,
+    "updated_at": "2026-09-30T12:27:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:26:37Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:26:07Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22304,
+    "updated_at": "2026-09-30T12:28:24Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7774,
+    "updated_at": "2026-09-30T12:22:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:22:17Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:22:02Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-09-30T12:21:02Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28195,
+    "updated_at": "2026-09-30T12:19:38Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T12:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
@@ -27,15 +135,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:11:56Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "CI eval gate: faithfulness, tool_success, pii_leak checks on agent traces",
     "id": "suhail39ahmed/foundry-eval-gate",
     "language": "Python",
@@ -45,15 +144,6 @@
     "url": "https://github.com/suhail39ahmed/foundry-eval-gate"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22304,
-    "updated_at": "2026-09-30T12:14:46Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
     "id": "Ambuj123-lab/agentic-rag-financial-parser",
     "language": "Python",
@@ -61,24 +151,6 @@
     "stars": 108,
     "updated_at": "2026-09-30T12:10:41Z",
     "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7773,
-    "updated_at": "2026-09-30T12:07:28Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-09-30T12:05:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -99,21 +171,12 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T12:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4892,
-    "updated_at": "2026-09-30T12:10:40Z",
+    "updated_at": "2026-09-30T12:30:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-09-30T11:50:32Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59917,
-    "updated_at": "2026-09-30T11:44:46Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -211,7 +265,7 @@
     "id": "iblai/os",
     "language": "TypeScript",
     "name": "iblai/os",
-    "stars": 797,
+    "stars": 798,
     "updated_at": "2026-09-30T11:25:19Z",
     "url": "https://github.com/iblai/os"
   },
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 396,
-    "updated_at": "2026-09-30T11:53:15Z",
+    "updated_at": "2026-09-30T12:20:08Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-30T10:57:08Z",
     "url": "https://github.com/B0yko/taskdistill"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-30T11:46:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Mise en production de LLM open source avec vLLM : dimensionnement GPU, routeur prefix-aware, autoscaling KEDA, SLO Prome",
-    "id": "Zakariakhchiche/vllm-production-serving",
-    "language": "Python",
-    "name": "Zakariakhchiche/vllm-production-serving",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:52:12Z",
-    "url": "https://github.com/Zakariakhchiche/vllm-production-serving"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-30T10:51:24Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:49:48Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:49:34Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:48:34Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
