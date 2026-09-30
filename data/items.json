@@ -1,21 +1,93 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-30T07:53:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25581,
+    "updated_at": "2026-09-30T07:52:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2914,
-    "updated_at": "2026-09-30T07:43:50Z",
+    "updated_at": "2026-09-30T07:50:23Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59900,
+    "updated_at": "2026-09-30T07:50:11Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7727,
-    "updated_at": "2026-09-30T07:41:32Z",
+    "stars": 7728,
+    "updated_at": "2026-09-30T07:49:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-09-30T07:47:59Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4891,
+    "updated_at": "2026-09-30T07:53:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-30T07:46:34Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
+    "id": "Kingson4Wu/Understanding-LLMs",
+    "language": "Python",
+    "name": "Kingson4Wu/Understanding-LLMs",
+    "stars": 0,
+    "updated_at": "2026-09-30T07:46:21Z",
+    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22298,
-    "updated_at": "2026-09-30T07:44:08Z",
+    "updated_at": "2026-09-30T07:46:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -36,13 +108,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25581,
-    "updated_at": "2026-09-30T07:43:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8459,
+    "updated_at": "2026-09-30T07:36:32Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -54,33 +126,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59901,
-    "updated_at": "2026-09-30T07:34:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-09-30T07:40:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8460,
-    "updated_at": "2026-09-30T07:36:32Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
     "id": "Ray0907/spanbox",
     "language": "Go",
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T07:30:41Z",
     "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T07:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Bionic is sovereign Agentic AI for the enterprise \u2014 Runs on-premise and can securely work with your sensitive data and s",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-09-30T07:24:38Z",
+    "updated_at": "2026-09-30T07:48:34Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -157,18 +193,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30368,
+    "stars": 30367,
     "updated_at": "2026-09-30T07:11:58Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-09-30T07:10:29Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -187,24 +214,6 @@
     "stars": 1071,
     "updated_at": "2026-09-30T07:10:48Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-30T07:03:11Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4891,
-    "updated_at": "2026-09-30T07:45:04Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T06:29:46Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-30T06:29:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
