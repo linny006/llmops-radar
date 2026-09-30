@@ -1,5 +1,104 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59940,
+    "updated_at": "2026-09-30T19:45:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 4,
+    "updated_at": "2026-09-30T19:43:51Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
+    "id": "Orlyoxidized462/py-prompt-versioner",
+    "language": "Python",
+    "name": "Orlyoxidized462/py-prompt-versioner",
+    "stars": 1,
+    "updated_at": "2026-09-30T19:43:40Z",
+    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
+  },
+  {
+    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
+    "id": "recordrnase224/brix-protocol",
+    "language": "Python",
+    "name": "recordrnase224/brix-protocol",
+    "stars": 1,
+    "updated_at": "2026-09-30T19:43:08Z",
+    "url": "https://github.com/recordrnase224/brix-protocol"
+  },
+  {
+    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
+    "id": "Impure-platen433/crabllm",
+    "language": "Rust",
+    "name": "Impure-platen433/crabllm",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:43:07Z",
+    "url": "https://github.com/Impure-platen433/crabllm"
+  },
+  {
+    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
+    "id": "Citrous-districtline59/agent-trace",
+    "language": "Python",
+    "name": "Citrous-districtline59/agent-trace",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:42:55Z",
+    "url": "https://github.com/Citrous-districtline59/agent-trace"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8475,
+    "updated_at": "2026-09-30T19:42:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
+    "id": "ydavidcm9-wq/vigil",
+    "language": "JavaScript",
+    "name": "ydavidcm9-wq/vigil",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:40:43Z",
+    "url": "https://github.com/ydavidcm9-wq/vigil"
+  },
+  {
+    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
+    "id": "islaagnet27/llm-cost",
+    "language": "C++",
+    "name": "islaagnet27/llm-cost",
+    "stars": 1,
+    "updated_at": "2026-09-30T19:40:30Z",
+    "url": "https://github.com/islaagnet27/llm-cost"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-30T19:39:55Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:38:12Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -9,13 +108,13 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-30T19:37:20Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11664,
+    "updated_at": "2026-09-30T19:37:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -25,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T19:34:14Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8475,
-    "updated_at": "2026-09-30T19:33:07Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -72,15 +162,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T19:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22310,
-    "updated_at": "2026-09-30T19:36:37Z",
+    "updated_at": "2026-09-30T19:40:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-09-30T19:24:56Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T19:23:39Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59940,
-    "updated_at": "2026-09-30T19:37:56Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4891,
-    "updated_at": "2026-09-30T19:33:17Z",
+    "updated_at": "2026-09-30T19:43:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-09-30T19:37:45Z",
+    "updated_at": "2026-09-30T19:39:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -230,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25596,
-    "updated_at": "2026-09-30T19:35:10Z",
+    "updated_at": "2026-09-30T19:40:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -250,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T18:59:30Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11663,
-    "updated_at": "2026-09-30T19:37:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
@@ -383,7 +437,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 807,
-    "updated_at": "2026-09-30T19:29:51Z",
+    "updated_at": "2026-09-30T19:41:09Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T18:58:28Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
-    "id": "gatemux-dev/gatemux",
-    "language": "Go",
-    "name": "gatemux-dev/gatemux",
-    "stars": 3,
-    "updated_at": "2026-09-30T18:04:29Z",
-    "url": "https://github.com/gatemux-dev/gatemux"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-09-30T18:03:40Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8779,
-    "updated_at": "2026-09-30T18:41:47Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3578,
-    "updated_at": "2026-09-30T18:00:40Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-09-30T18:46:04Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "An AI-native Internal Developer Platform on Amazon EKS, built live by an agent and reproducible on your own cluster. Pin",
-    "id": "peopleforrester/packt-agentic-devops",
-    "language": "Python",
-    "name": "peopleforrester/packt-agentic-devops",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:49:02Z",
-    "url": "https://github.com/peopleforrester/packt-agentic-devops"
   }
 ]
