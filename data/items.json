@@ -1,12 +1,48 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2911,
+    "updated_at": "2026-09-30T01:48:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Datadog for LLM apps, for indie devs. Drop-in Python SDK + free self-host. Latency, cost, hallucination patterns out of ",
+    "id": "anejakartik/tracelens",
+    "language": "Python",
+    "name": "anejakartik/tracelens",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:45:52Z",
+    "url": "https://github.com/anejakartik/tracelens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T01:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM observability and drift detection for AI apps",
     "id": "cognifityai/verdict",
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-09-30T01:45:21Z",
+    "updated_at": "2026-09-30T01:47:08Z",
     "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59882,
+    "updated_at": "2026-09-30T01:47:36Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
@@ -27,21 +63,12 @@
     "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59883,
-    "updated_at": "2026-09-30T01:45:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-09-30T01:41:22Z",
+    "updated_at": "2026-09-30T01:46:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2911,
-    "updated_at": "2026-09-30T01:33:43Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -115,15 +133,6 @@
     "stars": 495,
     "updated_at": "2026-09-30T01:33:25Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T01:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-09-30T01:24:58Z",
+    "updated_at": "2026-09-30T01:46:31Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4891,
-    "updated_at": "2026-09-30T01:45:11Z",
+    "updated_at": "2026-09-30T01:48:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25567,
-    "updated_at": "2026-09-30T01:45:07Z",
+    "updated_at": "2026-09-30T01:48:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T00:35:04Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-09-30T00:33:45Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
   }
 ]
