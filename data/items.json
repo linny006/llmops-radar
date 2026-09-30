@@ -1,5 +1,59 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59946,
+    "updated_at": "2026-09-30T23:44:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:35:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11666,
+    "updated_at": "2026-09-30T23:43:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "HSAAI is a production-ready Enterprise AI Operating System for secure RAG, AI agents, multi-agent orchestration, knowled",
+    "id": "HSA-AI/HSAAI",
+    "language": "Python",
+    "name": "HSA-AI/HSAAI",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:43:11Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-09-30T23:33:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T23:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T23:24:35Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-09-30T23:23:53Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Agentic Runtime",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-30T23:17:15Z",
+    "updated_at": "2026-09-30T23:33:13Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T23:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -108,24 +144,6 @@
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
-    "description": "HSAAI is a production-ready Enterprise AI Operating System for secure RAG, AI agents, multi-agent orchestration, knowled",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:15:45Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59946,
-    "updated_at": "2026-09-30T23:30:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
     "id": "maida-ai/maida",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 31,
     "updated_at": "2026-09-30T23:06:59Z",
     "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11666,
-    "updated_at": "2026-09-30T23:20:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25601,
-    "updated_at": "2026-09-30T22:52:52Z",
+    "updated_at": "2026-09-30T23:41:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -171,21 +180,12 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-09-30T22:48:19Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1240,
-    "updated_at": "2026-09-30T23:22:04Z",
+    "updated_at": "2026-09-30T23:38:58Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -194,8 +194,17 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-30T23:18:01Z",
+    "updated_at": "2026-09-30T23:44:37Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8479,
+    "updated_at": "2026-09-30T22:31:07Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4891,
-    "updated_at": "2026-09-30T22:45:04Z",
+    "updated_at": "2026-09-30T23:42:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T21:36:28Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-09-30T21:36:11Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
   }
 ]
