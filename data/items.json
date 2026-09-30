@@ -1,11 +1,101 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-09-30T23:30:22Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:28:58Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-09-30T23:25:48Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:24:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:23:53Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-09-30T23:23:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval",
+    "id": "h00w/agentic-ai",
+    "language": "Python",
+    "name": "h00w/agentic-ai",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:20:14Z",
+    "url": "https://github.com/h00w/agentic-ai"
+  },
+  {
+    "description": "Automated, production-grade CI/CD evaluation pipeline for Hugging Face chatbots using DeepEval and dynamic JSON test dat",
+    "id": "h00w/PromptPulse",
+    "language": "Python",
+    "name": "h00w/PromptPulse",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:20:03Z",
+    "url": "https://github.com/h00w/PromptPulse"
+  },
+  {
+    "description": "Research-to-production AI model release control plane connecting post-training experiments, baseline/candidate evaluatio",
+    "id": "h00w/model-quality-release-gate",
+    "language": "Python",
+    "name": "h00w/model-quality-release-gate",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:19:55Z",
+    "url": "https://github.com/h00w/model-quality-release-gate"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:17:15Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T23:12:23Z",
+    "updated_at": "2026-09-30T23:15:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "HSA-AI/HSAAI",
     "stars": 1,
-    "updated_at": "2026-09-30T23:11:49Z",
+    "updated_at": "2026-09-30T23:15:45Z",
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
@@ -32,26 +122,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59946,
-    "updated_at": "2026-09-30T23:15:19Z",
+    "updated_at": "2026-09-30T23:30:19Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-09-30T23:08:12Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-09-30T23:07:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
@@ -68,17 +140,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11666,
-    "updated_at": "2026-09-30T23:09:58Z",
+    "updated_at": "2026-09-30T23:20:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-30T22:57:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28203,
+    "updated_at": "2026-09-30T23:02:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25601,
+    "updated_at": "2026-09-30T22:52:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1240,
-    "updated_at": "2026-09-30T22:49:30Z",
+    "updated_at": "2026-09-30T23:22:04Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -113,26 +194,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-30T23:04:43Z",
+    "updated_at": "2026-09-30T23:18:01Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-09-30T22:44:07Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25600,
-    "updated_at": "2026-09-30T22:52:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T22:12:59Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-09-30T22:34:48Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
@@ -364,7 +418,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30375,
+    "stars": 30376,
     "updated_at": "2026-09-30T21:37:10Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-30T21:36:11Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-09-30T21:30:55Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
-    "id": "mikehasa/agentacct",
-    "language": "Python",
-    "name": "mikehasa/agentacct",
-    "stars": 757,
-    "updated_at": "2026-09-30T21:30:20Z",
-    "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 807,
-    "updated_at": "2026-09-30T21:29:14Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-09-30T21:28:51Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-30T21:27:47Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-09-30T21:25:20Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
