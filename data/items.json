@@ -1,12 +1,138 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:14:07Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q",
+    "id": "laputski/causa-rag",
+    "language": "Python",
+    "name": "laputski/causa-rag",
+    "stars": 1,
+    "updated_at": "2026-09-30T13:13:59Z",
+    "url": "https://github.com/laputski/causa-rag"
+  },
+  {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:12:53Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4891,
+    "updated_at": "2026-09-30T13:13:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-09-30T13:13:53Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Claude Code plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, tokens, tool calls ",
+    "id": "glassflow/rius-coding-agents",
+    "language": "Python",
+    "name": "glassflow/rius-coding-agents",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:10:25Z",
+    "url": "https://github.com/glassflow/rius-coding-agents"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8467,
-    "updated_at": "2026-09-30T13:00:10Z",
+    "stars": 8468,
+    "updated_at": "2026-09-30T13:15:14Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-09-30T13:10:15Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-30T13:09:40Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 18,
+    "updated_at": "2026-09-30T13:13:19Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Agent skills for AI architects: MCP, orchestration, model routing, evals. For Claude Code, Cursor, Codex. Install: npx s",
+    "id": "frankxai/skills",
+    "language": "JavaScript",
+    "name": "frankxai/skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T13:07:06Z",
+    "url": "https://github.com/frankxai/skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28194,
+    "updated_at": "2026-09-30T13:08:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7780,
+    "updated_at": "2026-09-30T13:02:10Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11660,
+    "updated_at": "2026-09-30T13:03:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T13:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u5f00\u6e90 AI Agent \u6cbb\u7406\u6280\u80fd\u5e93\uff1a109 \u4e2a\u96f6\u4f9d\u8d56\u6280\u80fd\uff0c\u8ba9\u6bcf\u4e2a AI \u8f93\u51fa\u6709\u7c4d\u00b7\u6709\u8bc1\u00b7\u6709\u95e8\u7981\u3002\u8986\u76d6 AI \u6cbb\u7406 / Agent \u5b89\u5168 / \u5408\u89c4\u81ea\u52a8\u5316 / \u8bb0\u5fc6\u6cbb\u7406\uff0c\u9002\u914d Claude Code \u00b7 Codex \u00b7 Cursor \u00b7 Wor",
@@ -27,21 +153,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Claude Code plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, tokens, tool calls ",
-    "id": "glassflow/rius-coding-agents",
-    "language": "Python",
-    "name": "glassflow/rius-coding-agents",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:58:39Z",
-    "url": "https://github.com/glassflow/rius-coding-agents"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 44,
-    "updated_at": "2026-09-30T12:51:47Z",
+    "updated_at": "2026-09-30T13:08:34Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -52,24 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-30T12:51:07Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4891,
-    "updated_at": "2026-09-30T12:56:49Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
-    "id": "stevecrates489-commits/tokcalc",
-    "language": "TypeScript",
-    "name": "stevecrates489-commits/tokcalc",
-    "stars": 1,
-    "updated_at": "2026-09-30T12:47:27Z",
-    "url": "https://github.com/stevecrates489-commits/tokcalc"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59918,
-    "updated_at": "2026-09-30T12:59:01Z",
+    "updated_at": "2026-09-30T13:12:51Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -97,15 +196,6 @@
     "stars": 9,
     "updated_at": "2026-09-30T12:45:57Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T12:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -131,17 +221,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2100,
-    "updated_at": "2026-09-30T12:57:01Z",
+    "updated_at": "2026-09-30T13:04:30Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 7777,
-    "updated_at": "2026-09-30T12:41:00Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -216,15 +297,6 @@
     "url": "https://github.com/iraagarg/verdict"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:31:24Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Learn LangGraph",
     "id": "Chamith-Dilshan/LearnLangGraph",
     "language": "Python",
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22303,
-    "updated_at": "2026-09-30T12:56:48Z",
+    "updated_at": "2026-09-30T13:01:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -248,7 +320,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3287,
-    "updated_at": "2026-09-30T12:57:36Z",
+    "updated_at": "2026-09-30T13:07:15Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -266,7 +338,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35230,
-    "updated_at": "2026-09-30T12:22:59Z",
+    "updated_at": "2026-09-30T13:14:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T12:22:02Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28194,
-    "updated_at": "2026-09-30T12:57:53Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -333,15 +396,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:50:32Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 38,
-    "updated_at": "2026-09-30T11:44:38Z",
+    "updated_at": "2026-09-30T13:09:47Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-09-30T12:49:24Z",
+    "updated_at": "2026-09-30T13:03:51Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T11:37:11Z",
     "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 799,
-    "updated_at": "2026-09-30T11:25:19Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
-    "id": "ha7n23/careerops-agent-engine",
-    "language": "Python",
-    "name": "ha7n23/careerops-agent-engine",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:19:41Z",
-    "url": "https://github.com/ha7n23/careerops-agent-engine"
-  },
-  {
-    "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
-    "id": "kingfs/Trajecta",
-    "language": "Go",
-    "name": "kingfs/Trajecta",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:16:58Z",
-    "url": "https://github.com/kingfs/Trajecta"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 29,
-    "updated_at": "2026-09-30T11:16:15Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11660,
-    "updated_at": "2026-09-30T11:15:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:14:11Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
   }
 ]
