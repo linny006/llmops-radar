@@ -1,5 +1,77 @@
 [
   {
+    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
+    "id": "iraagarg/verdict",
+    "language": "Python",
+    "name": "iraagarg/verdict",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:59:58Z",
+    "url": "https://github.com/iraagarg/verdict"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-09-30T11:58:12Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8467,
+    "updated_at": "2026-09-30T12:00:08Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4892,
+    "updated_at": "2026-09-30T11:55:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 22,
+    "updated_at": "2026-09-30T11:55:31Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-09-30T11:50:32Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
+    "id": "Ambuj123-lab/agentic-rag-financial-parser",
+    "language": "Python",
+    "name": "Ambuj123-lab/agentic-rag-financial-parser",
+    "stars": 108,
+    "updated_at": "2026-09-30T11:47:50Z",
+    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T11:45:42Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -54,24 +126,6 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8466,
-    "updated_at": "2026-09-30T11:44:33Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OpenAI-compatible LLM API gateway: per-team rate limits & budgets, automatic multi-provider fallback, circuit breakers, ",
     "id": "Robinson904/llm-gateway",
     "language": "Python",
@@ -99,13 +153,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL e",
-    "id": "Ambuj123-lab/agentic-rag-financial-parser",
-    "language": "Python",
-    "name": "Ambuj123-lab/agentic-rag-financial-parser",
-    "stars": 108,
-    "updated_at": "2026-09-30T11:25:17Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 796,
+    "updated_at": "2026-09-30T11:25:19Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Production-style agentic AI backend for evidence-grounded CV tailoring using LangGraph, Gemini, LangSmith, FastAPI, Post",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:19:41Z",
     "url": "https://github.com/ha7n23/careerops-agent-engine"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 795,
-    "updated_at": "2026-09-30T11:25:19Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
@@ -198,15 +243,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
-    "id": "iraagarg/verdict",
-    "language": "Python",
-    "name": "iraagarg/verdict",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:10:34Z",
-    "url": "https://github.com/iraagarg/verdict"
-  },
-  {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
     "id": "Laughing-Man-Studios/FreeReview",
     "language": "TypeScript",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 396,
-    "updated_at": "2026-09-30T11:00:19Z",
+    "updated_at": "2026-09-30T11:53:15Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-30T11:45:23Z",
+    "updated_at": "2026-09-30T11:46:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22303,
-    "updated_at": "2026-09-30T11:27:39Z",
+    "updated_at": "2026-09-30T11:52:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 35231,
     "updated_at": "2026-09-30T10:36:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 49,
-    "updated_at": "2026-09-30T10:37:34Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4892,
-    "updated_at": "2026-09-30T11:38:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 6,
-    "updated_at": "2026-09-30T10:28:05Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-09-30T10:24:22Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
