@@ -1,12 +1,75 @@
 [
   {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-09-30T21:44:43Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
+    "name": "BerriAI/litellm",
+    "stars": 59945,
+    "updated_at": "2026-09-30T22:00:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:57:26Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:56:18Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11666,
+    "updated_at": "2026-09-30T21:55:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25600,
+    "updated_at": "2026-09-30T21:58:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-09-30T21:54:09Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 6,
+    "updated_at": "2026-09-30T21:52:56Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:52:14Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -14,17 +77,53 @@
     "language": "Go",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-09-30T21:44:20Z",
+    "updated_at": "2026-09-30T21:51:53Z",
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:51:20Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
+    "id": "YassirCher/reviewlens-ai",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59945,
-    "updated_at": "2026-09-30T21:43:21Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "YassirCher/reviewlens-ai",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:47:33Z",
+    "url": "https://github.com/YassirCher/reviewlens-ai"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-09-30T21:46:32Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T21:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
+    "id": "Fauniethermal3522/agentic-dart",
+    "language": "Python",
+    "name": "Fauniethermal3522/agentic-dart",
+    "stars": 1,
+    "updated_at": "2026-09-30T21:44:43Z",
+    "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-09-30T21:33:02Z",
+    "updated_at": "2026-09-30T21:55:41Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -142,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T21:30:55Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T21:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
@@ -216,15 +306,6 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25600,
-    "updated_at": "2026-09-30T21:43:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -248,17 +329,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-09-30T21:18:15Z",
+    "updated_at": "2026-09-30T21:46:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11666,
-    "updated_at": "2026-09-30T21:16:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4891,
-    "updated_at": "2026-09-30T21:40:34Z",
+    "updated_at": "2026-09-30T21:59:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -338,17 +410,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-09-30T20:50:43Z",
+    "updated_at": "2026-09-30T21:53:07Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 6,
-    "updated_at": "2026-09-30T20:49:26Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -378,15 +441,6 @@
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-09-30T21:17:45Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 22311,
     "updated_at": "2026-09-30T21:37:01Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
-    "id": "jasonneo99/agent-workflow",
-    "language": "TypeScript",
-    "name": "jasonneo99/agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-30T20:33:03Z",
-    "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-09-30T20:31:27Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1240,
-    "updated_at": "2026-09-30T21:04:48Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in \u2014 not an enterprise upsell. OpenAI-compatible ",
-    "id": "gatemux-dev/gatemux",
-    "language": "Go",
-    "name": "gatemux-dev/gatemux",
-    "stars": 3,
-    "updated_at": "2026-09-30T20:23:31Z",
-    "url": "https://github.com/gatemux-dev/gatemux"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30374,
-    "updated_at": "2026-09-30T21:37:10Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8478,
-    "updated_at": "2026-09-30T21:26:56Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
