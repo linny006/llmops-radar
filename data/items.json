@@ -1,5 +1,77 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-01T16:58:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:57:04Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "dataagentsai/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "dataagentsai/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:56:43Z",
+    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 3,
+    "updated_at": "2026-10-01T16:55:26Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T17:00:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59995,
+    "updated_at": "2026-10-01T16:59:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-01T16:46:29Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T16:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
     "id": "Peter-A-P/ai-release-gate",
     "language": "Python",
@@ -9,22 +81,13 @@
     "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:43:35Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59996,
-    "updated_at": "2026-10-01T16:40:25Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8506,
+    "updated_at": "2026-10-01T16:42:35Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A verified production LLM model migration, and how its method evolved into ModelPromote: blind evaluation, human approva",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-01T16:37:55Z",
+    "updated_at": "2026-10-01T16:54:15Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25622,
-    "updated_at": "2026-10-01T16:36:26Z",
+    "updated_at": "2026-10-01T16:46:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -104,17 +167,8 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-01T16:43:39Z",
+    "updated_at": "2026-10-01T16:46:01Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T16:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:28:58Z",
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
-    "id": "dataagentsai/ai-assurance-catalog",
-    "language": "HTML",
-    "name": "dataagentsai/ai-assurance-catalog",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:28:48Z",
-    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
   },
   {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-01T16:34:07Z",
+    "updated_at": "2026-10-01T17:00:22Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -247,8 +292,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22321,
-    "updated_at": "2026-10-01T16:20:08Z",
+    "stars": 22322,
+    "updated_at": "2026-10-01T16:52:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T16:43:40Z",
+    "updated_at": "2026-10-01T16:57:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8505,
-    "updated_at": "2026-10-01T16:42:35Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T16:07:26Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:06:20Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:04:14Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-01T16:03:57Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:03:40Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
