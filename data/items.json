@@ -1,12 +1,102 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-01T03:12:59Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:12:09Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "HSAAI is a private, sovereign, self-hosted enterprise AI platform for secure RAG, local LLMs, Arabic enterprise AI, mult",
+    "id": "HSA-AI/HSAAI",
+    "language": "Python",
+    "name": "HSA-AI/HSAAI",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:11:08Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-01T03:13:53Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
     "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
     "id": "Kingson4Wu/Understanding-LLMs",
     "language": "Python",
     "name": "Kingson4Wu/Understanding-LLMs",
     "stars": 0,
-    "updated_at": "2026-10-01T02:58:29Z",
+    "updated_at": "2026-10-01T03:04:54Z",
     "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:04:00Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59950,
+    "updated_at": "2026-10-01T03:02:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25602,
+    "updated_at": "2026-10-01T03:01:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-10-01T03:13:16Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-10-01T03:00:41Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T02:58:16Z",
     "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "HSAAI is a private, sovereign, self-hosted enterprise AI platform for secure RAG, local LLMs, Arabic enterprise AI, mult",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:56:23Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -117,15 +198,6 @@
     "url": "https://github.com/ERA-Fathom/langchain-fathom"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59949,
-    "updated_at": "2026-10-01T02:57:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -142,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T02:46:56Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25601,
-    "updated_at": "2026-10-01T02:47:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T02:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -225,15 +279,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-01T02:55:49Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-01T02:37:49Z",
+    "updated_at": "2026-10-01T03:05:58Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T02:32:19Z",
     "url": "https://github.com/wuisabel-gif/Joule"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-01T02:31:54Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -378,15 +414,6 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 31,
-    "updated_at": "2026-10-01T02:58:27Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T02:11:23Z",
     "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
-    "id": "kingfs/Trajecta",
-    "language": "Go",
-    "name": "kingfs/Trajecta",
-    "stars": 3,
-    "updated_at": "2026-10-01T02:07:32Z",
-    "url": "https://github.com/kingfs/Trajecta"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8782,
-    "updated_at": "2026-10-01T02:57:06Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8487,
-    "updated_at": "2026-10-01T02:02:12Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
