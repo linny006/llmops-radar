@@ -1,12 +1,30 @@
 [
   {
-    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
-    "id": "Laughing-Man-Studios/FreeReview",
-    "language": "TypeScript",
-    "name": "Laughing-Man-Studios/FreeReview",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60007,
+    "updated_at": "2026-10-01T22:14:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-01T22:00:05Z",
-    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
+    "updated_at": "2026-10-01T22:10:41Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1243,
+    "updated_at": "2026-10-01T22:11:05Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +32,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-01T21:59:56Z",
+    "updated_at": "2026-10-01T22:06:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T22:15:06Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
+    "id": "Laughing-Man-Studios/FreeReview",
+    "language": "TypeScript",
+    "name": "Laughing-Man-Studios/FreeReview",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:05:38Z",
+    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11674,
+    "updated_at": "2026-10-01T22:03:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-01T22:03:44Z",
+    "url": "https://github.com/yunaremaia/agentcost"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -23,8 +77,17 @@
     "language": "Jupyter Notebook",
     "name": "akash-coded/aws-bedrock-agentcore-strands",
     "stars": 3,
-    "updated_at": "2026-10-01T21:59:09Z",
+    "updated_at": "2026-10-01T22:03:16Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T22:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -34,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-01T21:58:01Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:56:28Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -144,24 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T21:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60007,
-    "updated_at": "2026-10-01T21:58:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -180,21 +216,12 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1243,
-    "updated_at": "2026-10-01T21:43:29Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4898,
-    "updated_at": "2026-10-01T21:53:35Z",
+    "updated_at": "2026-10-01T22:14:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T21:49:43Z",
+    "updated_at": "2026-10-01T22:12:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25629,
-    "updated_at": "2026-10-01T21:58:01Z",
+    "updated_at": "2026-10-01T22:14:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 163,
-    "updated_at": "2026-10-01T21:52:22Z",
+    "updated_at": "2026-10-01T22:14:02Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35286,
-    "updated_at": "2026-10-01T21:58:46Z",
+    "updated_at": "2026-10-01T22:09:27Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:20:12Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:19:52Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-01T21:19:51Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
   }
 ]
