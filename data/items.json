@@ -1,11 +1,83 @@
 [
   {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:45:03Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 7,
+    "updated_at": "2026-10-01T03:43:45Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5847,
+    "updated_at": "2026-10-01T03:42:49Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59949,
+    "updated_at": "2026-10-01T03:44:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
+    "id": "Kingson4Wu/Understanding-LLMs",
+    "language": "Python",
+    "name": "Kingson4Wu/Understanding-LLMs",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:39:02Z",
+    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 18,
+    "updated_at": "2026-10-01T03:34:27Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-10-01T03:30:29Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T03:27:24Z",
+    "updated_at": "2026-10-01T03:33:52Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -18,21 +90,12 @@
     "url": "https://github.com/HSA-AI/HSAAI"
   },
   {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-10-01T03:21:41Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T03:29:58Z",
+    "updated_at": "2026-10-01T03:41:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 8782,
     "updated_at": "2026-10-01T03:19:25Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59949,
-    "updated_at": "2026-10-01T03:26:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T03:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -86,7 +131,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 19,
-    "updated_at": "2026-10-01T03:19:58Z",
+    "updated_at": "2026-10-01T03:33:37Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25602,
-    "updated_at": "2026-10-01T03:01:46Z",
+    "updated_at": "2026-10-01T03:36:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-10-01T03:13:16Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 31,
-    "updated_at": "2026-10-01T03:20:03Z",
-    "url": "https://github.com/maida-ai/maida"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1240,
-    "updated_at": "2026-10-01T02:46:20Z",
+    "updated_at": "2026-10-01T03:38:52Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T02:26:16Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:24:45Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "MLOps & LLMOps skills for Grok Build \u2014 melted from LibreMLOps. Gold Hat. Liquid Gold.",
-    "id": "HermeticOrmus/LibreMLOps-Grok-Build",
-    "language": "Shell",
-    "name": "HermeticOrmus/LibreMLOps-Grok-Build",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:30:12Z",
-    "url": "https://github.com/HermeticOrmus/LibreMLOps-Grok-Build"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:18:15Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:13:10Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   }
 ]
