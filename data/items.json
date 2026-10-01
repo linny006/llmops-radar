@@ -1,12 +1,75 @@
 [
   {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:53:39Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60005,
-    "updated_at": "2026-10-01T20:44:36Z",
+    "updated_at": "2026-10-01T20:53:27Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8788,
+    "updated_at": "2026-10-01T20:50:19Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:48:42Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
+    "id": "sarkar4777/abenix",
+    "language": "Python",
+    "name": "sarkar4777/abenix",
+    "stars": 1,
+    "updated_at": "2026-10-01T20:47:45Z",
+    "url": "https://github.com/sarkar4777/abenix"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 10,
+    "updated_at": "2026-10-01T20:46:59Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-01T20:47:19Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T20:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1243,
-    "updated_at": "2026-10-01T20:44:24Z",
+    "updated_at": "2026-10-01T20:45:57Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -27,30 +90,12 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8788,
-    "updated_at": "2026-10-01T20:40:52Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
-    "id": "sarkar4777/abenix",
-    "language": "Python",
-    "name": "sarkar4777/abenix",
-    "stars": 1,
-    "updated_at": "2026-10-01T20:40:50Z",
-    "url": "https://github.com/sarkar4777/abenix"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 499,
-    "updated_at": "2026-10-01T20:40:23Z",
+    "updated_at": "2026-10-01T20:45:47Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/Zakariakhchiche/vllm-production-serving"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T20:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
     "id": "csdeepak/HandCode",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-01T20:23:46Z",
+    "updated_at": "2026-10-01T20:51:36Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4898,
-    "updated_at": "2026-10-01T20:28:56Z",
+    "updated_at": "2026-10-01T20:50:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22328,
-    "updated_at": "2026-10-01T20:41:58Z",
+    "updated_at": "2026-10-01T20:53:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11674,
-    "updated_at": "2026-10-01T20:44:35Z",
+    "updated_at": "2026-10-01T20:54:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:13:37Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:49:13Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-01T20:40:57Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Synthetic-replica control + observability spine across 16 AI vendors \u2014 policy-as-code, cost drill-down, drift, normalize",
-    "id": "jchigg2000-git/air-traffic",
-    "language": "Go",
-    "name": "jchigg2000-git/air-traffic",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:45:13Z",
-    "url": "https://github.com/jchigg2000-git/air-traffic"
-  },
-  {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-10-01T18:43:28Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
   }
 ]
