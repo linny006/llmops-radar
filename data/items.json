@@ -1,5 +1,50 @@
 [
   {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:58:30Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25628,
+    "updated_at": "2026-10-01T20:56:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T20:57:01Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60005,
+    "updated_at": "2026-10-01T20:59:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T20:54:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
     "id": "Josepavese/matrix",
     "language": "Go",
@@ -9,15 +54,6 @@
     "url": "https://github.com/Josepavese/matrix"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60005,
-    "updated_at": "2026-10-01T20:53:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -25,15 +61,6 @@
     "stars": 8788,
     "updated_at": "2026-10-01T20:50:19Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-01T20:48:42Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
@@ -61,15 +88,6 @@
     "stars": 53,
     "updated_at": "2026-10-01T20:47:19Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T20:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -126,15 +144,6 @@
     "url": "https://github.com/sjfakharian/zerospend"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25627,
-    "updated_at": "2026-10-01T20:32:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -167,7 +176,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-01T20:28:44Z",
+    "updated_at": "2026-10-01T20:55:03Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22328,
-    "updated_at": "2026-10-01T20:53:27Z",
+    "updated_at": "2026-10-01T21:00:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11674,
-    "updated_at": "2026-10-01T20:54:02Z",
+    "updated_at": "2026-10-01T20:56:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -403,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:08:25Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T20:38:05Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
