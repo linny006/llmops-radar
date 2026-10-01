@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-10-01T08:44:19Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59968,
+    "updated_at": "2026-10-01T08:42:27Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-01T08:40:12Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-01T08:36:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-01T08:33:03Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22315,
+    "updated_at": "2026-10-01T08:44:58Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-01T08:30:47Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T08:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 29,
-    "updated_at": "2026-10-01T08:30:19Z",
+    "updated_at": "2026-10-01T08:30:39Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -23,8 +95,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35254,
-    "updated_at": "2026-10-01T08:29:12Z",
+    "updated_at": "2026-10-01T08:39:51Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28207,
+    "updated_at": "2026-10-01T08:28:46Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Governed AI delivery, on rails: PRD review \u2192 tech design \u2192 implementation \u2192 PR. Orchestrates Claude Code & Codex through",
@@ -54,15 +135,6 @@
     "url": "https://github.com/maida-ai/maida"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-01T08:21:20Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -77,17 +149,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8496,
-    "updated_at": "2026-10-01T08:20:34Z",
+    "updated_at": "2026-10-01T08:42:58Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28206,
-    "updated_at": "2026-10-01T08:28:46Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -99,24 +162,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59965,
-    "updated_at": "2026-10-01T08:18:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T08:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -126,24 +171,6 @@
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-01T08:12:37Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:27:15Z",
-    "url": "https://github.com/cognifityai/verdict"
-  },
-  {
     "description": "An OpenAI-compatible LLM gateway that routes traffic to the cheapest model which provably clears a statistical quality f",
     "id": "iraagarg/verdict",
     "language": "Python",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T08:11:53Z",
     "url": "https://github.com/iraagarg/verdict"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:24:31Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Omni-Modal Enterprise Hub & Multi-Agent AI Orchestrator running entirely with a local-first footprint across C++, Java, ",
@@ -178,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T08:12:32Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:00:21Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22315,
-    "updated_at": "2026-10-01T08:29:41Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -230,7 +230,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-01T07:59:40Z",
+    "updated_at": "2026-10-01T08:39:45Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
