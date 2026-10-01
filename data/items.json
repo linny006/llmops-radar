@@ -5,17 +5,53 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-10-01T16:58:41Z",
+    "updated_at": "2026-10-01T17:14:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "veerarakesh56/warden",
+    "name": "mozilla-ai/otari",
+    "stars": 499,
+    "updated_at": "2026-10-01T17:13:51Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 55,
+    "updated_at": "2026-10-01T17:15:28Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 59996,
+    "updated_at": "2026-10-01T17:15:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-01T17:11:31Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
+    "id": "Laughing-Man-Studios/FreeReview",
+    "language": "TypeScript",
+    "name": "Laughing-Man-Studios/FreeReview",
     "stars": 0,
-    "updated_at": "2026-10-01T16:57:04Z",
-    "url": "https://github.com/veerarakesh56/warden"
+    "updated_at": "2026-10-01T17:10:28Z",
+    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
   },
   {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
@@ -23,8 +59,80 @@
     "language": "HTML",
     "name": "dataagentsai/ai-assurance-catalog",
     "stars": 0,
-    "updated_at": "2026-10-01T16:56:43Z",
+    "updated_at": "2026-10-01T17:08:51Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8507,
+    "updated_at": "2026-10-01T17:12:12Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 38,
+    "updated_at": "2026-10-01T17:05:25Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:14:55Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-01T17:03:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-01T17:08:11Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:01:03Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T17:06:40Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -36,24 +144,6 @@
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T17:00:26Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 59995,
-    "updated_at": "2026-10-01T16:59:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Token usage tracker for multi-agent AI sessions",
     "id": "yunaremaia/agentcost",
     "language": "Python",
@@ -63,15 +153,6 @@
     "url": "https://github.com/yunaremaia/agentcost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T16:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
     "id": "Peter-A-P/ai-release-gate",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:43:45Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8506,
-    "updated_at": "2026-10-01T16:42:35Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "A verified production LLM model migration, and how its method evolved into ModelPromote: blind evaluation, human approva",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11674,
-    "updated_at": "2026-10-01T16:42:37Z",
+    "updated_at": "2026-10-01T17:11:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -225,24 +297,6 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-01T17:00:22Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-01T16:25:10Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22322,
-    "updated_at": "2026-10-01T16:52:51Z",
+    "updated_at": "2026-10-01T17:04:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T16:57:51Z",
+    "updated_at": "2026-10-01T17:11:17Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T16:13:56Z",
     "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:13:08Z",
-    "url": "https://github.com/Josepavese/matrix"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:12:23Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:11:28Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:09:07Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-01T16:25:55Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:07:26Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
