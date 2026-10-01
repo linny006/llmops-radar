@@ -1,5 +1,86 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-01T20:14:22Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8788,
+    "updated_at": "2026-10-01T20:14:17Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:13:14Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:11:30Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:08:15Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60005,
+    "updated_at": "2026-10-01T20:14:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
+    "id": "sjfakharian/zerospend",
+    "language": "JavaScript",
+    "name": "sjfakharian/zerospend",
+    "stars": 1,
+    "updated_at": "2026-10-01T20:04:53Z",
+    "url": "https://github.com/sjfakharian/zerospend"
+  },
+  {
+    "description": "\ud83c\udfcb\ufe0f Train your AI agents with measurement, not vibes. Eval harness + scenario rubrics + subagent judges + prompt tourname",
+    "id": "luisroquette-labs/ai-gym",
+    "language": "TypeScript",
+    "name": "luisroquette-labs/ai-gym",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:01:54Z",
+    "url": "https://github.com/luisroquette-labs/ai-gym"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T20:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60005,
-    "updated_at": "2026-10-01T20:00:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
     "id": "YassirCher/reviewlens-ai",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1243,
-    "updated_at": "2026-10-01T19:59:00Z",
+    "updated_at": "2026-10-01T20:14:57Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -99,24 +171,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
-    "id": "sjfakharian/zerospend",
-    "language": "JavaScript",
-    "name": "sjfakharian/zerospend",
-    "stars": 1,
-    "updated_at": "2026-10-01T19:49:45Z",
-    "url": "https://github.com/sjfakharian/zerospend"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:48:21Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
     "id": "domondi1/inferrail",
     "language": "Python",
@@ -124,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:46:40Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T19:45:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8788,
-    "updated_at": "2026-10-01T19:44:20Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
@@ -166,7 +202,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8507,
+    "stars": 8508,
     "updated_at": "2026-10-01T19:36:28Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -203,26 +239,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22327,
-    "updated_at": "2026-10-01T19:57:53Z",
+    "updated_at": "2026-10-01T20:04:43Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:25:08Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:16:49Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-10-01T19:06:17Z",
+    "updated_at": "2026-10-01T20:04:57Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -293,7 +311,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T19:54:34Z",
+    "updated_at": "2026-10-01T20:10:53Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 6,
     "updated_at": "2026-10-01T18:58:15Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-01T18:56:37Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25627,
-    "updated_at": "2026-10-01T19:28:55Z",
+    "updated_at": "2026-10-01T20:07:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T19:53:28Z",
+    "updated_at": "2026-10-01T20:08:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30389,
-    "updated_at": "2026-10-01T18:35:45Z",
+    "updated_at": "2026-10-01T20:06:48Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -418,7 +427,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7955,
+    "stars": 7956,
     "updated_at": "2026-10-01T18:35:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:26:15Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:23:35Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
