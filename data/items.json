@@ -1,11 +1,56 @@
 [
   {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:00:00Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:00:00Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
+    "id": "sarkar4777/abenix",
+    "language": "Python",
+    "name": "sarkar4777/abenix",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:59:43Z",
+    "url": "https://github.com/sarkar4777/abenix"
+  },
+  {
+    "description": "Govern the switch when you change the AI model in production: require approval, activate with read-back confirmation, ve",
+    "id": "Theebban/modelpromote",
+    "language": "TypeScript",
+    "name": "Theebban/modelpromote",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:59:01Z",
+    "url": "https://github.com/Theebban/modelpromote"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:58:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 29,
-    "updated_at": "2026-10-01T15:58:09Z",
+    "updated_at": "2026-10-01T15:58:25Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 25620,
     "updated_at": "2026-10-01T15:55:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:54:10Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T15:47:26Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T15:45:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
@@ -187,15 +214,6 @@
     "stars": 22320,
     "updated_at": "2026-10-01T15:44:57Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:44:38Z",
-    "url": "https://github.com/Josepavese/matrix"
   },
   {
     "description": "Synthetic-replica control + observability spine across 16 AI vendors \u2014 policy-as-code, cost drill-down, drift, normalize",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-01T15:56:22Z",
+    "updated_at": "2026-10-01T16:00:29Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-01T14:59:17Z",
+    "updated_at": "2026-10-01T15:58:43Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-01T15:51:53Z",
     "url": "https://github.com/dativo-io/talon"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:16:41Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T15:50:16Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
