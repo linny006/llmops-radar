@@ -1,20 +1,83 @@
 [
   {
+    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2809,
+    "updated_at": "2026-10-01T06:30:17Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-01T06:29:14Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 40,
+    "updated_at": "2026-10-01T06:24:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28205,
+    "updated_at": "2026-10-01T06:23:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-10-01T06:27:42Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-01T06:14:23Z",
+    "updated_at": "2026-10-01T06:18:58Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-01T06:17:52Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:16:33Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8490,
-    "updated_at": "2026-10-01T06:14:07Z",
+    "stars": 8492,
+    "updated_at": "2026-10-01T06:16:11Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "AwonAziz/llm-drift-monitor",
     "stars": 1,
-    "updated_at": "2026-10-01T06:10:56Z",
+    "updated_at": "2026-10-01T06:15:35Z",
     "url": "https://github.com/AwonAziz/llm-drift-monitor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25605,
+    "updated_at": "2026-10-01T06:14:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T06:03:48Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25604,
-    "updated_at": "2026-10-01T06:14:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4892,
-    "updated_at": "2026-10-01T06:01:04Z",
+    "updated_at": "2026-10-01T06:20:37Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T06:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59949,
-    "updated_at": "2026-10-01T06:08:59Z",
+    "updated_at": "2026-10-01T06:23:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -175,7 +238,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8782,
+    "stars": 8783,
     "updated_at": "2026-10-01T05:54:46Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -252,15 +315,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28205,
-    "updated_at": "2026-10-01T06:13:56Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2102,
-    "updated_at": "2026-10-01T05:51:55Z",
+    "updated_at": "2026-10-01T06:20:51Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/GustavoPFARIA/webpilot-agent"
   },
   {
-    "description": "The Project for the Course : DS5619 MLOPS",
-    "id": "SreenathKarthick11/Sage-Serve",
-    "language": "Jupyter Notebook",
-    "name": "SreenathKarthick11/Sage-Serve",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:26:38Z",
-    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 38,
     "updated_at": "2026-10-01T06:01:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Hands-on experiments on emerging enterprise AI, written up for decision-makers",
-    "id": "jaindivyanshu/ai-leadership-lab",
-    "language": "Python",
-    "name": "jaindivyanshu/ai-leadership-lab",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:22:30Z",
-    "url": "https://github.com/jaindivyanshu/ai-leadership-lab"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:18:11Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 31,
-    "updated_at": "2026-10-01T05:09:49Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-10-01T05:05:21Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
-    "description": "A curated, auto-updating list of open-source guardrails for LLM applications: prompt-injection defense, PII, content saf",
-    "id": "royalpinto007/awesome-llm-guardrails",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:01:30Z",
-    "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
   }
 ]
