@@ -1,5 +1,140 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:14:23Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8490,
+    "updated_at": "2026-10-01T06:14:07Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "LLM drift & quality monitoring: embedding drift, output-quality drift, and LLM-as-judge regression tracking",
+    "id": "AwonAziz/llm-drift-monitor",
+    "language": "Python",
+    "name": "AwonAziz/llm-drift-monitor",
+    "stars": 1,
+    "updated_at": "2026-10-01T06:10:56Z",
+    "url": "https://github.com/AwonAziz/llm-drift-monitor"
+  },
+  {
+    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:06:02Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-01T06:04:09Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:03:48Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25604,
+    "updated_at": "2026-10-01T06:14:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-01T06:03:00Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 5,
+    "updated_at": "2026-10-01T06:04:40Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:01:39Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4892,
+    "updated_at": "2026-10-01T06:01:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
+    "id": "wuisabel-gif/Joule",
+    "language": "Rust",
+    "name": "wuisabel-gif/Joule",
+    "stars": 1,
+    "updated_at": "2026-10-01T06:00:58Z",
+    "url": "https://github.com/wuisabel-gif/Joule"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-01T06:00:58Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:00:56Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T06:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A governed, auditable workflow engine for an agent-driven software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59949,
-    "updated_at": "2026-10-01T05:59:17Z",
+    "updated_at": "2026-10-01T06:08:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-10-01T05:55:46Z",
     "url": "https://github.com/olivaresai/olivares"
-  },
-  {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
-    "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 5,
-    "updated_at": "2026-10-01T06:00:06Z",
-    "url": "https://github.com/brtydse100/litegate"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -131,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28205,
-    "updated_at": "2026-10-01T05:56:16Z",
+    "updated_at": "2026-10-01T06:13:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -151,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T05:45:56Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8490,
-    "updated_at": "2026-10-01T05:40:50Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -196,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T05:38:53Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25604,
-    "updated_at": "2026-10-01T05:38:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
@@ -248,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35249,
-    "updated_at": "2026-10-01T05:33:58Z",
+    "updated_at": "2026-10-01T06:10:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -259,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T05:31:35Z",
     "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
-    "id": "wuisabel-gif/Joule",
-    "language": "Rust",
-    "name": "wuisabel-gif/Joule",
-    "stars": 1,
-    "updated_at": "2026-10-01T06:00:07Z",
-    "url": "https://github.com/wuisabel-gif/Joule"
   },
   {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
@@ -311,7 +401,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 38,
-    "updated_at": "2026-10-01T05:23:38Z",
+    "updated_at": "2026-10-01T06:01:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -331,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T05:18:11Z",
     "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-01T05:15:02Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T05:01:30Z",
     "url": "https://github.com/royalpinto007/awesome-llm-guardrails"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-01T04:58:04Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-01T05:29:06Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-01T04:43:48Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "LLM drift & quality monitoring: embedding drift, output-quality drift, and LLM-as-judge regression tracking",
-    "id": "AwonAziz/llm-drift-monitor",
-    "language": "Python",
-    "name": "AwonAziz/llm-drift-monitor",
-    "stars": 1,
-    "updated_at": "2026-10-01T04:43:19Z",
-    "url": "https://github.com/AwonAziz/llm-drift-monitor"
-  },
-  {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2809,
-    "updated_at": "2026-10-01T04:37:06Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-01T04:32:24Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 40,
-    "updated_at": "2026-10-01T05:19:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-01T04:19:49Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-01T04:14:42Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
