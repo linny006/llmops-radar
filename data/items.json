@@ -1,21 +1,57 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:42:29Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-01T22:41:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Synthetic-replica control + observability spine across 16 AI vendors \u2014 policy-as-code, cost drill-down, drift, normalize",
+    "id": "jchigg2000-git/air-traffic",
+    "language": "Go",
+    "name": "jchigg2000-git/air-traffic",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:41:26Z",
+    "url": "https://github.com/jchigg2000-git/air-traffic"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25629,
+    "updated_at": "2026-10-01T22:40:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-01T22:40:23Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8789,
-    "updated_at": "2026-10-01T22:29:28Z",
+    "updated_at": "2026-10-01T22:36:44Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60008,
-    "updated_at": "2026-10-01T22:29:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
@@ -23,8 +59,71 @@
     "language": "Go",
     "name": "Josepavese/matrix",
     "stars": 0,
-    "updated_at": "2026-10-01T22:27:22Z",
+    "updated_at": "2026-10-01T22:38:43Z",
     "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "MaxiMinion.AI Community Edition - Precision Context Orchestration (MIT)",
+    "id": "dev-rb-hub/maximinion-ce",
+    "language": "TypeScript",
+    "name": "dev-rb-hub/maximinion-ce",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:36:55Z",
+    "url": "https://github.com/dev-rb-hub/maximinion-ce"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-01T22:34:35Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60009,
+    "updated_at": "2026-10-01T22:44:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:32:12Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4899,
+    "updated_at": "2026-10-01T22:32:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:34:49Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T22:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -34,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-10-01T22:24:43Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25629,
-    "updated_at": "2026-10-01T22:30:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -81,33 +171,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:16:06Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-01T22:06:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
     "id": "Laughing-Man-Studios/FreeReview",
     "language": "TypeScript",
@@ -142,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T22:03:16Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-01T21:58:01Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -203,7 +257,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-01T21:50:39Z",
+    "updated_at": "2026-10-01T22:37:18Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -243,6 +297,15 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28217,
+    "updated_at": "2026-10-01T21:43:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
     "id": "harishu652/Class-AI-Agent",
     "language": "\u2014",
@@ -261,21 +324,12 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4898,
-    "updated_at": "2026-10-01T22:26:50Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T22:12:17Z",
+    "updated_at": "2026-10-01T22:35:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T21:29:51Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
-    "id": "VibePod/vibepod-cli",
-    "language": "Python",
-    "name": "VibePod/vibepod-cli",
-    "stars": 172,
-    "updated_at": "2026-10-01T21:27:54Z",
-    "url": "https://github.com/VibePod/vibepod-cli"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:27:51Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-01T21:27:33Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:27:22Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
-    "id": "DuqueOM/ml-platform",
-    "language": "Python",
-    "name": "DuqueOM/ml-platform",
-    "stars": 2,
-    "updated_at": "2026-10-01T21:26:39Z",
-    "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-01T21:26:14Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
