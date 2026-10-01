@@ -1,48 +1,12 @@
 [
   {
-    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
-    "id": "olivaresai/olivares",
-    "language": "Go",
-    "name": "olivaresai/olivares",
-    "stars": 7,
-    "updated_at": "2026-10-01T01:11:56Z",
-    "url": "https://github.com/olivaresai/olivares"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T01:12:06Z",
+    "updated_at": "2026-10-01T01:28:29Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28204,
-    "updated_at": "2026-10-01T01:10:37Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22313,
-    "updated_at": "2026-10-01T01:09:38Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 18,
-    "updated_at": "2026-10-01T01:09:35Z",
-    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -50,8 +14,107 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59948,
-    "updated_at": "2026-10-01T01:14:24Z",
+    "updated_at": "2026-10-01T01:27:08Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22314,
+    "updated_at": "2026-10-01T01:23:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Find LLM calls that may be replaceable with ordinary code: date calculations, file checks, JSON/YAML parsing, text clean",
+    "id": "rodericklm1/determify",
+    "language": "Python",
+    "name": "rodericklm1/determify",
+    "stars": 1,
+    "updated_at": "2026-10-01T01:24:35Z",
+    "url": "https://github.com/rodericklm1/determify"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28204,
+    "updated_at": "2026-10-01T01:22:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Governance & observability for your AI capabilities in Spring Boot \u2014 capability registry, versioning, per-capability cos",
+    "id": "satya-anguluri/capstead",
+    "language": "Java",
+    "name": "satya-anguluri/capstead",
+    "stars": 11,
+    "updated_at": "2026-10-01T01:20:56Z",
+    "url": "https://github.com/satya-anguluri/capstead"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-01T01:20:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-01T01:19:55Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11668,
+    "updated_at": "2026-10-01T01:19:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T01:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-10-01T01:19:35Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
+    "language": "Python",
+    "name": "dshakes/distil",
+    "stars": 18,
+    "updated_at": "2026-10-01T01:17:04Z",
+    "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25602,
+    "updated_at": "2026-10-01T01:07:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T01:01:09Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T01:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -333,15 +387,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11667,
-    "updated_at": "2026-10-01T01:14:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -396,57 +441,12 @@
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
-    "description": "Deterministic execution & token-avoidance scanner for AI agents and codebases. Identifies where LLMs are misapplied to d",
-    "id": "rodericklm1/determify",
-    "language": "Python",
-    "name": "rodericklm1/determify",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:58:33Z",
-    "url": "https://github.com/rodericklm1/determify"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25601,
-    "updated_at": "2026-10-01T01:07:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-01T00:50:42Z",
+    "updated_at": "2026-10-01T01:30:23Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:51:02Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-01T00:57:35Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8481,
-    "updated_at": "2026-09-30T23:48:12Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
