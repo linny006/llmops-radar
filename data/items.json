@@ -1,12 +1,66 @@
 [
   {
-    "description": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & age",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-01T06:40:03Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-10-01T06:41:56Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
     "id": "openlit/openlit",
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2809,
-    "updated_at": "2026-10-01T06:30:17Z",
+    "updated_at": "2026-10-01T06:39:28Z",
     "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 29,
+    "updated_at": "2026-10-01T06:41:04Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35250,
+    "updated_at": "2026-10-01T06:32:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open Source OpenTelemetry-native Observability tool for GenAI and LLMs designed to provide developers with complete capa",
+    "id": "openlit/website",
+    "language": "TypeScript",
+    "name": "openlit/website",
+    "stars": 10,
+    "updated_at": "2026-10-01T06:30:43Z",
+    "url": "https://github.com/openlit/website"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T06:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -32,17 +86,17 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28205,
-    "updated_at": "2026-10-01T06:23:21Z",
+    "updated_at": "2026-10-01T06:37:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
-    "id": "samarthputhraya/Modelpin",
-    "language": "Python",
-    "name": "samarthputhraya/Modelpin",
-    "stars": 1,
-    "updated_at": "2026-10-01T06:27:42Z",
-    "url": "https://github.com/samarthputhraya/Modelpin"
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4893,
+    "updated_at": "2026-10-01T06:20:37Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -90,15 +144,6 @@
     "url": "https://github.com/AwonAziz/llm-drift-monitor"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-01T06:04:09Z",
+    "updated_at": "2026-10-01T06:42:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4892,
-    "updated_at": "2026-10-01T06:20:37Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
     "id": "wuisabel-gif/Joule",
     "language": "Rust",
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T06:00:58Z",
     "url": "https://github.com/wuisabel-gif/Joule"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-01T06:00:58Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 59949,
-    "updated_at": "2026-10-01T06:23:44Z",
+    "updated_at": "2026-10-01T06:44:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8783,
-    "updated_at": "2026-10-01T05:54:46Z",
+    "updated_at": "2026-10-01T06:40:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2102,
-    "updated_at": "2026-10-01T06:20:51Z",
+    "updated_at": "2026-10-01T06:34:19Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -394,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T05:34:54Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35249,
-    "updated_at": "2026-10-01T06:10:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T05:39:22Z",
+    "updated_at": "2026-10-01T06:41:27Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "AI agent that browses any website in a real browser (Playwright + Gemini/Claude/OpenAI), with security enforced in code:",
-    "id": "GustavoPFARIA/webpilot-agent",
-    "language": "Python",
-    "name": "GustavoPFARIA/webpilot-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:26:45Z",
-    "url": "https://github.com/GustavoPFARIA/webpilot-agent"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 38,
-    "updated_at": "2026-10-01T06:01:13Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
