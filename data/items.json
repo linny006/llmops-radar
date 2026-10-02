@@ -1,5 +1,131 @@
 [
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 183,
+    "updated_at": "2026-10-02T15:43:42Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-02T15:43:17Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 29,
+    "updated_at": "2026-10-02T15:43:56Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T15:43:44Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22336,
+    "updated_at": "2026-10-02T15:43:42Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:38:18Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-02T15:44:38Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T15:37:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-02T15:36:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:40:35Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-10-02T15:34:23Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-02T15:33:24Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60042,
+    "updated_at": "2026-10-02T15:44:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T15:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
@@ -27,24 +153,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-10-02T15:27:00Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:26:46Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
     "id": "nixvarghese01/local-ai-platform",
     "language": "Python",
@@ -58,8 +166,8 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4901,
-    "updated_at": "2026-10-02T15:20:30Z",
+    "stars": 4902,
+    "updated_at": "2026-10-02T15:41:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -68,17 +176,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35308,
-    "updated_at": "2026-10-02T15:27:51Z",
+    "updated_at": "2026-10-02T15:30:57Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-02T15:18:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
@@ -95,35 +194,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2105,
-    "updated_at": "2026-10-02T15:16:11Z",
+    "updated_at": "2026-10-02T15:40:14Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T15:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:25:47Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22336,
-    "updated_at": "2026-10-02T15:30:00Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -135,21 +207,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60041,
-    "updated_at": "2026-10-02T15:25:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11681,
-    "updated_at": "2026-10-02T15:25:41Z",
+    "updated_at": "2026-10-02T15:44:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -157,8 +220,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8519,
-    "updated_at": "2026-10-02T15:08:19Z",
+    "stars": 8518,
+    "updated_at": "2026-10-02T15:45:29Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,17 +266,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T15:24:08Z",
+    "updated_at": "2026-10-02T15:31:03Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T14:58:12Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
@@ -230,17 +284,8 @@
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 10,
-    "updated_at": "2026-10-02T14:47:12Z",
+    "updated_at": "2026-10-02T15:31:31Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 29,
-    "updated_at": "2026-10-02T15:17:39Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Agent Skill that cuts AI coding-agent token usage 39.9% \u2014 stops agents re-exploring an already-mapped codebase. Benchmar",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:40:58Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
-    "id": "DominikPinsel/ainsel",
-    "language": "Go",
-    "name": "DominikPinsel/ainsel",
-    "stars": 3,
-    "updated_at": "2026-10-02T15:15:57Z",
-    "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -412,41 +448,5 @@
     "stars": 94,
     "updated_at": "2026-10-02T15:06:15Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:16:56Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Routeplane Community Edition \u2014 a fast, self-hostable, OpenAI-compatible AI gateway (Rust). Apache-2.0.",
-    "id": "routeplane-core/routeplane-ce",
-    "language": "Rust",
-    "name": "routeplane-core/routeplane-ce",
-    "stars": 7,
-    "updated_at": "2026-10-02T14:13:04Z",
-    "url": "https://github.com/routeplane-core/routeplane-ce"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:12:05Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:11:54Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
