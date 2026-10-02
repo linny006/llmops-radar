@@ -1,21 +1,111 @@
 [
   {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1891,
-    "updated_at": "2026-10-02T20:15:14Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
+    "name": "BerriAI/litellm",
+    "stars": 60054,
+    "updated_at": "2026-10-02T20:30:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-02T20:29:50Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T20:29:14Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-02T20:26:11Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 15,
+    "updated_at": "2026-10-02T20:20:52Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-02T20:20:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 3,
+    "updated_at": "2026-10-02T20:18:58Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 10,
+    "updated_at": "2026-10-02T20:19:16Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4905,
+    "updated_at": "2026-10-02T20:18:05Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25651,
-    "updated_at": "2026-10-02T20:14:07Z",
+    "stars": 25652,
+    "updated_at": "2026-10-02T20:16:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T20:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1891,
+    "updated_at": "2026-10-02T20:29:48Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "DuqueOM/ml-platform",
     "stars": 2,
-    "updated_at": "2026-10-02T20:13:54Z",
+    "updated_at": "2026-10-02T20:17:10Z",
     "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
@@ -32,17 +122,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8524,
-    "updated_at": "2026-10-02T20:12:34Z",
+    "updated_at": "2026-10-02T20:16:08Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60054,
-    "updated_at": "2026-10-02T20:12:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11684,
-    "updated_at": "2026-10-02T20:10:28Z",
+    "updated_at": "2026-10-02T20:18:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 6,
-    "updated_at": "2026-10-02T20:15:24Z",
+    "updated_at": "2026-10-02T20:29:19Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-02T20:04:51Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
     "id": "xlabs-club/awesome-x-ops",
     "language": "\u2014",
@@ -115,15 +187,6 @@
     "stars": 34,
     "updated_at": "2026-10-02T20:04:24Z",
     "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:56:10Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4905,
-    "updated_at": "2026-10-02T20:13:52Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -198,15 +252,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:53:51Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "Official Go SDK for the Keel AI control plane",
     "id": "keelapi/keel-go",
     "language": "Go",
@@ -214,24 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T19:44:12Z",
     "url": "https://github.com/keelapi/keel-go"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 3,
-    "updated_at": "2026-10-02T19:42:02Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 10,
-    "updated_at": "2026-10-02T20:06:53Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T19:28:14Z",
+    "updated_at": "2026-10-02T20:19:04Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T19:03:20Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:02:47Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:01:44Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:59:46Z",
-    "url": "https://github.com/toxicwind/ranch"
   }
 ]
