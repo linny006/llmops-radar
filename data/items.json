@@ -1,21 +1,84 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T00:29:53Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 28218,
+    "updated_at": "2026-10-02T00:44:33Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60008,
-    "updated_at": "2026-10-02T00:28:38Z",
+    "stars": 60009,
+    "updated_at": "2026-10-02T00:44:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1655,
+    "updated_at": "2026-10-02T00:40:59Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T00:42:25Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T00:39:38Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11674,
+    "updated_at": "2026-10-02T00:42:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-02T00:36:15Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 164,
+    "updated_at": "2026-10-02T00:45:19Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T00:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
@@ -41,8 +104,17 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-02T00:22:15Z",
+    "updated_at": "2026-10-02T00:38:48Z",
     "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3584,
+    "updated_at": "2026-10-02T00:22:05Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -52,15 +124,6 @@
     "stars": 38,
     "updated_at": "2026-10-02T00:21:44Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-02T00:12:19Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -90,39 +153,12 @@
     "url": "https://github.com/mnemonica-ai/oshepherd"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T00:29:45Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28218,
-    "updated_at": "2026-10-02T00:24:33Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T00:02:20Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4898,
-    "updated_at": "2026-10-02T00:26:18Z",
+    "updated_at": "2026-10-02T00:40:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-02T00:00:06Z",
+    "updated_at": "2026-10-02T00:41:01Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T00:28:30Z",
+    "updated_at": "2026-10-02T00:37:19Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-01T23:14:57Z",
+    "updated_at": "2026-10-02T00:38:04Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:12:02Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-01T23:11:36Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:07:20Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:05:04Z",
-    "url": "https://github.com/recetariodmix/garak"
   }
 ]
