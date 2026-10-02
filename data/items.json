@@ -1,5 +1,113 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-02T23:15:19Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T23:13:56Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60061,
+    "updated_at": "2026-10-02T23:15:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:11:49Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T23:11:19Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:11:00Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "LangChain agent middleware that flags the step where an agent contradicts its own earlier action. Deterministic, no mode",
+    "id": "RightRudderAI/langchain-right-rudder",
+    "language": "Python",
+    "name": "RightRudderAI/langchain-right-rudder",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:10:38Z",
+    "url": "https://github.com/RightRudderAI/langchain-right-rudder"
+  },
+  {
+    "description": "Catch the step where an AI agent contradicts its own earlier decision. CLI and adapters for LangGraph, CrewAI, Letta, Op",
+    "id": "RightRudderAI/right-rudder",
+    "language": "Python",
+    "name": "RightRudderAI/right-rudder",
+    "stars": 1,
+    "updated_at": "2026-10-02T23:10:00Z",
+    "url": "https://github.com/RightRudderAI/right-rudder"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:14:19Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:05:14Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T23:02:29Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T23:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-02T23:00:16Z",
+    "updated_at": "2026-10-02T23:01:27Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -63,15 +171,6 @@
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:50:53Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
     "id": "Karinaclastic11/Drip-Lite-Client",
     "language": "\u2014",
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T22:50:18Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60060,
-    "updated_at": "2026-10-02T22:59:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -115,15 +205,6 @@
     "stars": 8,
     "updated_at": "2026-10-02T22:46:25Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T22:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -216,30 +297,12 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:35:38Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:34:24Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-02T22:43:43Z",
+    "updated_at": "2026-10-02T23:14:52Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T22:14:51Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
     "id": "empiredestroyer/AI-Prompt-Enhancer",
     "language": "\u2014",
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11685,
-    "updated_at": "2026-10-02T22:39:04Z",
+    "updated_at": "2026-10-02T23:04:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 8527,
     "updated_at": "2026-10-02T22:33:23Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 10,
-    "updated_at": "2026-10-02T21:48:11Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-02T21:39:22Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T22:54:19Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25654,
-    "updated_at": "2026-10-02T21:22:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35323,
-    "updated_at": "2026-10-02T21:21:34Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1246,
-    "updated_at": "2026-10-02T21:19:56Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
