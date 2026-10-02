@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60026,
+    "updated_at": "2026-10-02T05:26:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T05:28:35Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28221,
+    "updated_at": "2026-10-02T05:22:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
+    "id": "Ray0907/spanbox",
+    "language": "Go",
+    "name": "Ray0907/spanbox",
+    "stars": 1,
+    "updated_at": "2026-10-02T05:18:39Z",
+    "url": "https://github.com/Ray0907/spanbox"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T05:24:03Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-02T05:15:54Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T05:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
     "id": "Kingson4Wu/Understanding-LLMs",
     "language": "Python",
@@ -18,24 +81,6 @@
     "url": "https://github.com/alexvervloet/knowledge-desk"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-02T05:11:35Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60024,
-    "updated_at": "2026-10-02T05:12:48Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -43,15 +88,6 @@
     "stars": 44,
     "updated_at": "2026-10-02T05:03:39Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T05:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -72,21 +108,12 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
-    "id": "Ray0907/spanbox",
-    "language": "Go",
-    "name": "Ray0907/spanbox",
-    "stars": 1,
-    "updated_at": "2026-10-02T04:49:35Z",
-    "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 164,
-    "updated_at": "2026-10-02T05:14:06Z",
+    "updated_at": "2026-10-02T05:29:52Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1884,
-    "updated_at": "2026-10-02T05:07:27Z",
+    "updated_at": "2026-10-02T05:23:17Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-02T04:30:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -261,15 +279,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T05:09:57Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
     "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
     "language": "\u2014",
@@ -284,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8514,
-    "updated_at": "2026-10-02T04:58:31Z",
+    "updated_at": "2026-10-02T05:21:15Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T04:03:51Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-02T04:00:43Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
