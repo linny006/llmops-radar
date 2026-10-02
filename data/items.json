@@ -5,8 +5,35 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8525,
-    "updated_at": "2026-10-02T21:30:08Z",
+    "updated_at": "2026-10-02T21:44:07Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-02T21:37:22Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-02T21:39:22Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T21:39:54Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60059,
-    "updated_at": "2026-10-02T21:29:42Z",
+    "updated_at": "2026-10-02T21:44:51Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T21:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway that enforces EU data residency. One Rust binary: routing & fallback, budgets",
+    "id": "einfachllm/einfachllm",
+    "language": "Rust",
+    "name": "einfachllm/einfachllm",
+    "stars": 0,
+    "updated_at": "2026-10-02T21:23:48Z",
+    "url": "https://github.com/einfachllm/einfachllm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -31,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25653,
+    "stars": 25654,
     "updated_at": "2026-10-02T21:22:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,24 +97,6 @@
     "stars": 11684,
     "updated_at": "2026-10-02T21:28:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T21:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-02T21:18:50Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 10,
-    "updated_at": "2026-10-02T21:10:51Z",
+    "updated_at": "2026-10-02T21:44:55Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-02T21:00:24Z",
+    "updated_at": "2026-10-02T21:44:45Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 10,
-    "updated_at": "2026-10-02T20:45:06Z",
+    "updated_at": "2026-10-02T21:32:09Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T21:07:08Z",
+    "updated_at": "2026-10-02T21:37:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T19:19:36Z",
     "url": "https://github.com/TanbirRamim/callm"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:19:01Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:18:56Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:17:20Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
