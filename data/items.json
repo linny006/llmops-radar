@@ -1,12 +1,147 @@
 [
   {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:29:10Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-02T09:28:24Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 7985,
+    "updated_at": "2026-10-02T09:29:02Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 5,
+    "updated_at": "2026-10-02T09:30:15Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 9,
+    "updated_at": "2026-10-02T09:29:21Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T09:26:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T09:25:38Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-02T09:22:14Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
     "description": "Demo for the project Earground. RAG-powered AIS/AES analysis tool.",
     "id": "darian16/rag-demo",
     "language": "JavaScript",
     "name": "darian16/rag-demo",
     "stars": 0,
-    "updated_at": "2026-10-02T09:15:00Z",
+    "updated_at": "2026-10-02T09:21:05Z",
     "url": "https://github.com/darian16/rag-demo"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-02T09:29:03Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "nab your agent's silent failures \u2014 verify LLM-agent side effects against real system state, with self-heal. Zero deps.",
+    "id": "jake-garnier/nabit",
+    "language": "Python",
+    "name": "jake-garnier/nabit",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:18:01Z",
+    "url": "https://github.com/jake-garnier/nabit"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:17:56Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 29,
+    "updated_at": "2026-10-02T09:20:02Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:15:28Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35297,
+    "updated_at": "2026-10-02T09:25:12Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -14,17 +149,8 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-02T09:12:48Z",
+    "updated_at": "2026-10-02T09:27:35Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35296,
-    "updated_at": "2026-10-02T09:11:42Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -72,15 +198,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 5,
-    "updated_at": "2026-10-02T09:12:43Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
     "id": "koreaelonmusk/entropy-loop-core",
     "language": "Python",
@@ -88,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-10-02T09:02:54Z",
     "url": "https://github.com/koreaelonmusk/entropy-loop-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T09:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -108,39 +216,12 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 3,
-    "updated_at": "2026-10-02T08:57:37Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 9,
-    "updated_at": "2026-10-02T09:10:23Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T08:55:02Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-02T08:52:33Z",
+    "updated_at": "2026-10-02T09:28:46Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -149,17 +230,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22332,
-    "updated_at": "2026-10-02T08:50:08Z",
+    "updated_at": "2026-10-02T09:28:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:50:23Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-02T08:29:56Z",
+    "updated_at": "2026-10-02T09:16:54Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8516,
-    "updated_at": "2026-10-02T09:12:04Z",
+    "updated_at": "2026-10-02T09:19:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -292,7 +364,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25638,
+    "stars": 25639,
     "updated_at": "2026-10-02T08:02:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T07:46:22Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Spring Boot starter for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-spring-boot-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-boot-starter",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:46:11Z",
-    "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-02T09:12:22Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T07:43:06Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:42:18Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4899,
-    "updated_at": "2026-10-02T09:00:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-02T07:38:58Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:38:10Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:38:08Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
