@@ -1,5 +1,59 @@
 [
   {
+    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
+    "id": "Kingson4Wu/Understanding-LLMs",
+    "language": "Python",
+    "name": "Kingson4Wu/Understanding-LLMs",
+    "stars": 0,
+    "updated_at": "2026-10-02T05:14:33Z",
+    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
+  },
+  {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-10-02T05:12:50Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-02T05:11:35Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60024,
+    "updated_at": "2026-10-02T05:12:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-02T05:03:39Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T05:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -9,30 +63,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
-    "id": "Kingson4Wu/Understanding-LLMs",
-    "language": "Python",
-    "name": "Kingson4Wu/Understanding-LLMs",
-    "stars": 0,
-    "updated_at": "2026-10-02T04:53:00Z",
-    "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60024,
-    "updated_at": "2026-10-02T04:59:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-02T04:50:56Z",
+    "updated_at": "2026-10-02T05:11:41Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 164,
-    "updated_at": "2026-10-02T04:59:58Z",
+    "updated_at": "2026-10-02T05:14:06Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-10-02T04:46:59Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T04:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1884,
-    "updated_at": "2026-10-02T04:44:10Z",
+    "updated_at": "2026-10-02T05:07:27Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T04:36:57Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-02T04:57:45Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T04:27:39Z",
+    "updated_at": "2026-10-02T05:09:57Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T04:00:43Z",
     "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "A quality gate for LLM and agent output: golden sets, schema and source-grounding checks, and regression blocking in CI",
-    "id": "vk86294140-cloud/evalgate",
-    "language": "Python",
-    "name": "vk86294140-cloud/evalgate",
-    "stars": 0,
-    "updated_at": "2026-10-02T03:59:59Z",
-    "url": "https://github.com/vk86294140-cloud/evalgate"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-02T03:59:02Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
