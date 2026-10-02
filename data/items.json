@@ -1,11 +1,74 @@
 [
   {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-02T23:41:59Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LangChain agent middleware that flags the step where an agent contradicts its own earlier action. Deterministic, no mode",
+    "id": "RightRudderAI/langchain-right-rudder",
+    "language": "Python",
+    "name": "RightRudderAI/langchain-right-rudder",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:39:39Z",
+    "url": "https://github.com/RightRudderAI/langchain-right-rudder"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T23:44:43Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-02T23:36:31Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:34:17Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-02T23:33:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T23:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60061,
-    "updated_at": "2026-10-02T23:30:00Z",
+    "updated_at": "2026-10-02T23:45:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -18,21 +81,12 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-02T23:28:13Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
     "id": "CodesWhat/portkey-admin-mcp",
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 6,
-    "updated_at": "2026-10-02T23:27:58Z",
+    "updated_at": "2026-10-02T23:36:10Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
@@ -54,42 +108,6 @@
     "url": "https://github.com/RightRudderAI/right-rudder"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T23:29:51Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-02T23:18:15Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T23:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 10,
-    "updated_at": "2026-10-02T23:15:19Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -104,17 +122,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T23:11:19Z",
+    "updated_at": "2026-10-02T23:42:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LangChain agent middleware that flags the step where an agent contradicts its own earlier action. Deterministic, no mode",
-    "id": "RightRudderAI/langchain-right-rudder",
-    "language": "Python",
-    "name": "RightRudderAI/langchain-right-rudder",
-    "stars": 0,
-    "updated_at": "2026-10-02T23:10:38Z",
-    "url": "https://github.com/RightRudderAI/langchain-right-rudder"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 502,
-    "updated_at": "2026-10-02T23:29:34Z",
+    "updated_at": "2026-10-02T23:30:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-02T22:06:18Z",
     "url": "https://github.com/agentlifylabs/RoBC"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11685,
-    "updated_at": "2026-10-02T23:04:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
