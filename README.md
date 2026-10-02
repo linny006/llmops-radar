@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 18:00 UTC
+> ⏰ Last updated: 2026-10-02 18:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60048 | Python | 2026-10-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-10-02 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
-| 3 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-02 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-02 | Agentic Runtime |
-| 5 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-02 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 6 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-02 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 7 | [wuisabel-gif/Joule](https://github.com/wuisabel-gif/Joule) | 1 | Rust | 2026-10-02 | Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions. |
-| 8 | [Laughing-Man-Studios/FreeReview](https://github.com/Laughing-Man-Studios/FreeReview) | 0 | TypeScript | 2026-10-02 | Advisory AI code review for pull requests using only $0 OpenRouter free models — every finding deterministically anchore |
-| 9 | [MSKazemi/novafabric](https://github.com/MSKazemi/novafabric) | 6 | Python | 2026-10-02 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
-| 10 | [dshakes/distil](https://github.com/dshakes/distil) | 18 | Python | 2026-10-02 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60048 | Python | 2026-10-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-10-02 | Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and |
+| 4 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-02 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-02 | Agentic Runtime |
+| 6 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-02 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
+| 7 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-02 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 8 | [wuisabel-gif/Joule](https://github.com/wuisabel-gif/Joule) | 1 | Rust | 2026-10-02 | Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions. |
+| 9 | [Laughing-Man-Studios/FreeReview](https://github.com/Laughing-Man-Studios/FreeReview) | 0 | TypeScript | 2026-10-02 | Advisory AI code review for pull requests using only $0 OpenRouter free models — every finding deterministically anchore |
+| 10 | [MSKazemi/novafabric](https://github.com/MSKazemi/novafabric) | 6 | Python | 2026-10-02 | Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted |
+| 11 | [dshakes/distil](https://github.com/dshakes/distil) | 18 | Python | 2026-10-02 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
 | 12 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 24 | TypeScript | 2026-10-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
 | 13 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-02 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
 | 14 | [keelapi/keel-go](https://github.com/keelapi/keel-go) | 3 | Go | 2026-10-02 | Official Go SDK for the Keel AI control plane |
