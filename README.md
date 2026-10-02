@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 12:31 UTC
+> ⏰ Last updated: 2026-10-02 12:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 24 | TypeScript | 2026-10-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 2 | [poojithdevan4D/InferPilot](https://github.com/poojithdevan4D/InferPilot) | 3 | Python | 2026-10-02 | Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it — oth |
-| 3 | [josondev/neuronworks-travel-agent](https://github.com/josondev/neuronworks-travel-agent) | 0 | Python | 2026-10-02 | A Travel Agent Built using a MCP server which is deployed in streamlit  |
-| 4 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-02 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 5 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-02 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 6 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-02 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 7 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 4 | Python | 2026-10-02 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
-| 8 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Go | 2026-10-02 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 9 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-10-02 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
-| 10 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-02 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 11 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-10-02 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-02 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 24 | TypeScript | 2026-10-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 4 | [poojithdevan4D/InferPilot](https://github.com/poojithdevan4D/InferPilot) | 3 | Python | 2026-10-02 | Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it — oth |
+| 5 | [josondev/neuronworks-travel-agent](https://github.com/josondev/neuronworks-travel-agent) | 0 | Python | 2026-10-02 | A Travel Agent Built using a MCP server which is deployed in streamlit  |
+| 6 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-02 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 7 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-02 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 8 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 4 | Python | 2026-10-02 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
+| 9 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Go | 2026-10-02 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 10 | [JoniMartin27/lookspan](https://github.com/JoniMartin27/lookspan) | 7 | TypeScript | 2026-10-02 | Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit. |
+| 11 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-02 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 12 | [scttfrdmn/hf-bedrock-map](https://github.com/scttfrdmn/hf-bedrock-map) | 1 | Go | 2026-10-02 | Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF↔Bedrock mapping (US regions) with a free st |
 | 13 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-10-02 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
 | 14 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-02 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
 | 15 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-10-02 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
