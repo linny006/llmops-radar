@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 11:45 UTC
+> ⏰ Last updated: 2026-10-02 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22334 | Python | 2026-10-02 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 2 | [tanveer-arch/promptdrift](https://github.com/tanveer-arch/promptdrift) | 0 | Python | 2026-10-02 | Git-native CI regression testing and behavioral drift monitoring for LLM prompts. |
-| 3 | [rsaudio/second-brain](https://github.com/rsaudio/second-brain) | 1 | — | 2026-10-02 | 🧠 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c |
-| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35301 | TypeScript | 2026-10-02 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 5 | [StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary) | 2 | Python | 2026-10-02 | ✈️ Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to  |
-| 6 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-10-02 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
-| 7 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-10-02 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
-| 8 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 19 | Ruby | 2026-10-02 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 9 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-02 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 10 | Go | 2026-10-02 | A governed, auditable workflow engine for an agent-driven software factory. |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-10-02 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
-| 13 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-02 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 14 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 2107 | Python | 2026-10-02 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
-| 15 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-10-02 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
-| 16 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 24 | TypeScript | 2026-10-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 17 | [akash-coded/aws-bedrock-agentcore-strands](https://github.com/akash-coded/aws-bedrock-agentcore-strands) | 3 | Jupyter Notebook | 2026-10-02 | Free hands-on curriculum for building production AI agents on AWS — Amazon Bedrock, AgentCore, Strands, LangGraph and RA |
-| 18 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-10-02 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
-| 19 | [andrewbakercloudscale/claudecode-cost-usage-panel](https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel) | 1 | Shell | 2026-10-02 | Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions |
-| 20 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Go | 2026-10-02 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 21 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-10-02 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 22 | [YauhenBichel/yserver-local-llm-system](https://github.com/YauhenBichel/yserver-local-llm-system) | 0 | — | 2026-10-02 | yserver: one small computer at home serves open LLMs to Claude Code and my coding tools. The architecture, the flows, th |
-| 23 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-02 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 24 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-02 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 25 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4900 | TypeScript | 2026-10-02 | The platform for LLM evaluations and AI agent testing |
-| 26 | [koreaelonmusk/entropy-loop-core](https://github.com/koreaelonmusk/entropy-loop-core) | 6 | Python | 2026-10-02 | Failure Compiler for AI agents: turn failed outputs into replayable regression cases. |
-| 27 | [TAIPANBOX/genaryx](https://github.com/TAIPANBOX/genaryx) | 0 | Rust | 2026-10-02 | Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m |
-| 28 | [poojithdevan4D/InferPilot](https://github.com/poojithdevan4D/InferPilot) | 3 | Python | 2026-10-02 | Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it — oth |
-| 29 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28232 | Python | 2026-10-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 30 | [Peter-A-P/model-selection-tenth-cost](https://github.com/Peter-A-P/model-selection-tenth-cost) | 0 | Python | 2026-10-02 | Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat |
-| 31 | [gatemux-dev/gatemux](https://github.com/gatemux-dev/gatemux) | 3 | Go | 2026-10-02 | Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in — not an enterprise upsell. OpenAI-compatible  |
-| 32 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60036 | Python | 2026-10-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 33 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 29 | TypeScript | 2026-10-02 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
-| 34 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 4 | Python | 2026-10-02 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
-| 35 | [delivstat/swarmkit](https://github.com/delivstat/swarmkit) | 3 | Python | 2026-10-02 | Open-source runtime for governed multi-agent AI — define agents, tools and human-approval gates as data (YAML), run unde |
-| 36 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 166 | Rust | 2026-10-02 | The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act |
-| 37 | [Peter-A-P/ai-release-gate](https://github.com/Peter-A-P/ai-release-gate) | 0 | Python | 2026-10-02 | No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating, |
-| 38 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-02 | Temporal workers and clients for wrapping access to different LLMs |
-| 39 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-02 | Agentic Runtime |
-| 40 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2381 | Rust | 2026-10-02 | Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and s |
-| 41 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8516 | Go | 2026-10-02 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
-| 42 | [OLG-MAN/ai-engineering-course](https://github.com/OLG-MAN/ai-engineering-course) | 0 | Python | 2026-10-02 | Self-built 13-week AI Engineering course (Oct–Dec 2026): from DevOps/CloudOps to AI Engineer. Plan, notes, labs and chec |
-| 43 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-02 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
-| 44 | [kai2055/incident-postmortem-assistant](https://github.com/kai2055/incident-postmortem-assistant) | 0 | Python | 2026-10-02 | Three-layer RAG system that retrieves, diagnoses, and evaluates engineering post-mortems — with the evaluation framework |
-| 45 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-10-02 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
-| 46 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-02 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 47 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 396 | Python | 2026-10-02 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 48 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 7993 | Python | 2026-10-02 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 49 | [alebgl77/tierdecay](https://github.com/alebgl77/tierdecay) | 1 | JavaScript | 2026-10-02 | Per-repo learning layer for AI coding model routers: learns which task classes can safely run on a cheaper tier. Native  |
-| 50 | [radicalbit/radicalbit-ai-gateway](https://github.com/radicalbit/radicalbit-ai-gateway) | 71 | Python | 2026-10-02 | Radicalbit AI Gateway |
+| 1 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4900 | TypeScript | 2026-10-02 | The platform for LLM evaluations and AI agent testing |
+| 2 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-02 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 3 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Go | 2026-10-02 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 4 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-10-02 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60037 | Python | 2026-10-02 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-10-02 | Scan AI-generated code for security, performance, and code quality issues before they ship |
+| 7 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-02 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 8 | [tensorchord/envd](https://github.com/tensorchord/envd) | 2236 | Go | 2026-10-02 | 🏕️ Reproducible development environment for humans and agents |
+| 9 | [thesecretrapper786-netizen/catalyst-n1](https://github.com/thesecretrapper786-netizen/catalyst-n1) | 1 | — | 2026-10-02 | Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne |
+| 10 | [downpaymentbulbul49/plano_estudos_sre](https://github.com/downpaymentbulbul49/plano_estudos_sre) | 0 | — | 2026-10-02 | Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top |
+| 11 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-02 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 12 | [CodesWhat/portkey-admin-mcp](https://github.com/CodesWhat/portkey-admin-mcp) | 6 | TypeScript | 2026-10-02 | Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance |
+| 13 | [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) | 22 | Python | 2026-10-02 | A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails |
+| 14 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-10-02 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 15 | [redd357magnum-ship-it/-SuperAgent-Hub](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub) | 2 | Python | 2026-10-02 | Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f |
+| 16 | [Firmancaaa/rest-gateway-1771916753-3](https://github.com/Firmancaaa/rest-gateway-1771916753-3) | 0 | — | 2026-10-02 | Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to |
+| 17 | [niyetbay0304/gateway](https://github.com/niyetbay0304/gateway) | 1 | Go | 2026-10-02 | Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a |
+| 18 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-02 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 19 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-02 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
+| 20 | [cubxxw/blog](https://github.com/cubxxw/blog) | 27 | JavaScript | 2026-10-02 | 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some |
+| 21 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-02 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 22 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22334 | Python | 2026-10-02 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 23 | [tanveer-arch/promptdrift](https://github.com/tanveer-arch/promptdrift) | 0 | Python | 2026-10-02 | Git-native CI regression testing and behavioral drift monitoring for LLM prompts. |
+| 24 | [rsaudio/second-brain](https://github.com/rsaudio/second-brain) | 1 | — | 2026-10-02 | 🧠 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c |
+| 25 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35301 | TypeScript | 2026-10-02 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 26 | [StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary) | 2 | Python | 2026-10-02 | ✈️ Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to  |
+| 27 | [drae1712/Agentic-RAG-Anime-Recommender-System](https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System) | 2 | Python | 2026-10-02 | 🎬 Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend |
+| 28 | [mviraj/KakeyaFiniteFields](https://github.com/mviraj/KakeyaFiniteFields) | 0 | JavaScript | 2026-10-02 | 📚 Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical |
+| 29 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 19 | Ruby | 2026-10-02 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
+| 30 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 10 | Go | 2026-10-02 | A governed, auditable workflow engine for an agent-driven software factory. |
+| 31 | [empiredestroyer/AI-Prompt-Enhancer](https://github.com/empiredestroyer/AI-Prompt-Enhancer) | 2 | — | 2026-10-02 | 🚀 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu |
+| 32 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-02 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 33 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 2107 | Python | 2026-10-02 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 34 | [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) | 6 | Python | 2026-10-02 | PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f |
+| 35 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 24 | TypeScript | 2026-10-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 36 | [akash-coded/aws-bedrock-agentcore-strands](https://github.com/akash-coded/aws-bedrock-agentcore-strands) | 3 | Jupyter Notebook | 2026-10-02 | Free hands-on curriculum for building production AI agents on AWS — Amazon Bedrock, AgentCore, Strands, LangGraph and RA |
+| 37 | [tenemos/langwatch](https://github.com/tenemos/langwatch) | 2 | TypeScript | 2026-10-02 | The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨ |
+| 38 | [andrewbakercloudscale/claudecode-cost-usage-panel](https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel) | 1 | Shell | 2026-10-02 | Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions |
+| 39 | [YauhenBichel/yserver-local-llm-system](https://github.com/YauhenBichel/yserver-local-llm-system) | 0 | — | 2026-10-02 | yserver: one small computer at home serves open LLMs to Claude Code and my coding tools. The architecture, the flows, th |
+| 40 | [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) | 2382 | Rust | 2026-10-02 | Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and s |
+| 41 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-02 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 42 | [koreaelonmusk/entropy-loop-core](https://github.com/koreaelonmusk/entropy-loop-core) | 6 | Python | 2026-10-02 | Failure Compiler for AI agents: turn failed outputs into replayable regression cases. |
+| 43 | [TAIPANBOX/genaryx](https://github.com/TAIPANBOX/genaryx) | 0 | Rust | 2026-10-02 | Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m |
+| 44 | [poojithdevan4D/InferPilot](https://github.com/poojithdevan4D/InferPilot) | 3 | Python | 2026-10-02 | Evidence-first diagnosis & optimization for LLM inference (vLLM). Diagnoses only when aligned evidence supports it — oth |
+| 45 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28232 | Python | 2026-10-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 46 | [Peter-A-P/model-selection-tenth-cost](https://github.com/Peter-A-P/model-selection-tenth-cost) | 0 | Python | 2026-10-02 | Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat |
+| 47 | [gatemux-dev/gatemux](https://github.com/gatemux-dev/gatemux) | 3 | Go | 2026-10-02 | Open-source LLM gateway in Go with teams, RBAC, OIDC and budgets built in — not an enterprise upsell. OpenAI-compatible  |
+| 48 | [byte5ai/omadia](https://github.com/byte5ai/omadia) | 29 | TypeScript | 2026-10-02 | Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y |
+| 49 | [Justin0504/federated-agent-audit](https://github.com/Justin0504/federated-agent-audit) | 4 | Python | 2026-10-02 | Privacy audit for multi-agent AI systems (CrewAI · LangGraph · AutoGen) — detect compositional data leaks without the ce |
+| 50 | [delivstat/swarmkit](https://github.com/delivstat/swarmkit) | 3 | Python | 2026-10-02 | Open-source runtime for governed multi-agent AI — define agents, tools and human-approval gates as data (YAML), run unde |
 <!-- TRACKER_TABLE_END -->
 
 ---
