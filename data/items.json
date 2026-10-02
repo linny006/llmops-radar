@@ -1,12 +1,30 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22333,
-    "updated_at": "2026-10-02T10:59:30Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T11:13:48Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "yserver: one small computer at home serves open LLMs to Claude Code and my coding tools. The architecture, the flows, th",
+    "id": "YauhenBichel/yserver-local-llm-system",
+    "language": "\u2014",
+    "name": "YauhenBichel/yserver-local-llm-system",
+    "stars": 0,
+    "updated_at": "2026-10-02T11:11:43Z",
+    "url": "https://github.com/YauhenBichel/yserver-local-llm-system"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-02T11:10:54Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-02T10:57:40Z",
+    "updated_at": "2026-10-02T11:09:12Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-02T11:04:07Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
+    "id": "akash-coded/aws-bedrock-agentcore-strands",
+    "language": "Jupyter Notebook",
+    "name": "akash-coded/aws-bedrock-agentcore-strands",
+    "stars": 3,
+    "updated_at": "2026-10-02T11:02:52Z",
+    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4900,
+    "updated_at": "2026-10-02T11:15:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T11:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22333,
+    "updated_at": "2026-10-02T11:12:22Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35302,
-    "updated_at": "2026-10-02T10:59:07Z",
+    "updated_at": "2026-10-02T11:14:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -94,18 +157,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60034,
+    "stars": 60035,
     "updated_at": "2026-10-02T10:46:02Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T10:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T10:43:59Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "yserver: one small computer at home serves open LLMs to Claude Code and my coding tools. The architecture, the flows, th",
-    "id": "YauhenBichel/yserver-local-llm-system",
-    "language": "\u2014",
-    "name": "YauhenBichel/yserver-local-llm-system",
-    "stars": 0,
-    "updated_at": "2026-10-02T10:55:22Z",
-    "url": "https://github.com/YauhenBichel/yserver-local-llm-system"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -171,15 +216,6 @@
     "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T10:28:17Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -194,17 +230,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-02T10:24:01Z",
+    "updated_at": "2026-10-02T11:13:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4900,
-    "updated_at": "2026-10-02T11:00:19Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Bionic is sovereign Agentic AI for the enterprise \u2014 Runs on-premise and can securely work with your sensitive data and s",
@@ -212,17 +239,8 @@
     "language": "Rust",
     "name": "bionic-gpt/bionic-gpt",
     "stars": 2381,
-    "updated_at": "2026-10-02T10:17:21Z",
+    "updated_at": "2026-10-02T11:11:39Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-02T10:13:20Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -230,7 +248,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8516,
-    "updated_at": "2026-10-02T10:52:51Z",
+    "updated_at": "2026-10-02T11:08:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -301,7 +319,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 7992,
+    "stars": 7993,
     "updated_at": "2026-10-02T09:40:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-02T09:38:51Z",
+    "updated_at": "2026-10-02T11:14:02Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T09:35:29Z",
     "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Free hands-on curriculum for building production AI agents on AWS \u2014 Amazon Bedrock, AgentCore, Strands, LangGraph and RA",
-    "id": "akash-coded/aws-bedrock-agentcore-strands",
-    "language": "Jupyter Notebook",
-    "name": "akash-coded/aws-bedrock-agentcore-strands",
-    "stars": 3,
-    "updated_at": "2026-10-02T09:32:22Z",
-    "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T10:37:54Z",
+    "updated_at": "2026-10-02T11:10:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 38,
     "updated_at": "2026-10-02T10:55:02Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T08:47:32Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
