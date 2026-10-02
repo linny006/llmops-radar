@@ -1,12 +1,111 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:59:41Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60044,
+    "updated_at": "2026-10-02T16:59:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 29,
-    "updated_at": "2026-10-02T16:44:36Z",
+    "updated_at": "2026-10-02T17:00:12Z",
     "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-02T16:56:54Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Series of blog posts and supporting code for D.E. for AI",
+    "id": "madhav692/data-engineering-for-ai",
+    "language": "Python",
+    "name": "madhav692/data-engineering-for-ai",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:55:22Z",
+    "url": "https://github.com/madhav692/data-engineering-for-ai"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-02T16:56:24Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "A curated list of tools, frameworks, benchmarks, and ideas for evaluating AI agents.",
+    "id": "royalpinto007/awesome-agent-evals",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-evals",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:51:50Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-evals"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-02T16:51:31Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
+    "id": "rit2001/traceforge",
+    "language": "Python",
+    "name": "rit2001/traceforge",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:51:04Z",
+    "url": "https://github.com/rit2001/traceforge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T16:45:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-02T16:45:31Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22337,
+    "updated_at": "2026-10-02T16:42:34Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
@@ -27,15 +126,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-02T16:40:08Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
     "id": "sarkar4777/abenix",
     "language": "Python",
@@ -54,15 +144,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "Series of blog posts and supporting code for D.E. for AI",
-    "id": "madhav692/data-engineering-for-ai",
-    "language": "Python",
-    "name": "madhav692/data-engineering-for-ai",
-    "stars": 0,
-    "updated_at": "2026-10-02T16:38:35Z",
-    "url": "https://github.com/madhav692/data-engineering-for-ai"
-  },
-  {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
     "id": "Laughing-Man-Studios/FreeReview",
     "language": "TypeScript",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T16:37:51Z",
     "url": "https://github.com/Laughing-Man-Studios/FreeReview"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60044,
-    "updated_at": "2026-10-02T16:43:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -90,6 +162,15 @@
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25646,
+    "updated_at": "2026-10-02T16:35:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
     "id": "AshwinUgale/tracelint",
     "language": "Python",
@@ -99,20 +180,11 @@
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T16:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 185,
+    "stars": 186,
     "updated_at": "2026-10-02T16:29:09Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -139,7 +211,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8006,
+    "stars": 8007,
     "updated_at": "2026-10-02T16:24:08Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -166,7 +238,7 @@
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
-    "stars": 1244,
+    "stars": 1245,
     "updated_at": "2026-10-02T16:17:32Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
@@ -178,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T16:17:04Z",
     "url": "https://github.com/akash-coded/aws-bedrock-agentcore-strands"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-02T16:15:51Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -216,6 +279,15 @@
     "url": "https://github.com/Arize-ai/arize-skills"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35310,
+    "updated_at": "2026-10-02T16:12:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -223,15 +295,6 @@
     "stars": 24,
     "updated_at": "2026-10-02T16:10:45Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22336,
-    "updated_at": "2026-10-02T16:42:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -252,15 +315,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35309,
-    "updated_at": "2026-10-02T16:12:04Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -279,20 +333,11 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25645,
-    "updated_at": "2026-10-02T16:35:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11682,
+    "stars": 11683,
     "updated_at": "2026-10-02T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T16:44:45Z",
+    "updated_at": "2026-10-02T16:57:04Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8519,
-    "updated_at": "2026-10-02T16:02:48Z",
+    "updated_at": "2026-10-02T16:49:27Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-02T15:34:23Z",
+    "updated_at": "2026-10-02T16:50:35Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T15:17:04Z",
     "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-02T15:12:39Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-10-02T15:04:29Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
-    "id": "DuqueOM/ml-platform",
-    "language": "Python",
-    "name": "DuqueOM/ml-platform",
-    "stars": 2,
-    "updated_at": "2026-10-02T15:03:40Z",
-    "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-02T16:27:35Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Agent Skill that cuts AI coding-agent token usage 39.9% \u2014 stops agents re-exploring an already-mapped codebase. Benchmar",
-    "id": "adityachauhan0/explore-index",
-    "language": "Python",
-    "name": "adityachauhan0/explore-index",
-    "stars": 0,
-    "updated_at": "2026-10-02T16:29:14Z",
-    "url": "https://github.com/adityachauhan0/explore-index"
   }
 ]
