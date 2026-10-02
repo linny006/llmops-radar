@@ -1,12 +1,84 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Go",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:11:57Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-10-02T22:11:40Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:11:12Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-10-02T22:10:36Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-02T21:58:41Z",
+    "updated_at": "2026-10-02T22:08:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "RoBC is an online learning LLM router designed for dynamic production environments. Using Thompson Sampling and semantic",
+    "id": "agentlifylabs/RoBC",
+    "language": "Python",
+    "name": "agentlifylabs/RoBC",
+    "stars": 10,
+    "updated_at": "2026-10-02T22:06:18Z",
+    "url": "https://github.com/agentlifylabs/RoBC"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:04:17Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11685,
+    "updated_at": "2026-10-02T22:00:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T22:00:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60059,
-    "updated_at": "2026-10-02T22:00:11Z",
+    "updated_at": "2026-10-02T22:08:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T21:52:57Z",
     "url": "https://github.com/einfachllm/einfachllm"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:50:17Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -52,24 +115,6 @@
     "stars": 10,
     "updated_at": "2026-10-02T21:48:11Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T21:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Go",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:37:22Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
@@ -112,18 +157,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35322,
+    "stars": 35323,
     "updated_at": "2026-10-02T21:21:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11684,
-    "updated_at": "2026-10-02T21:28:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "Arize-ai/openinference",
+    "stars": 1246,
+    "updated_at": "2026-10-02T21:19:56Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 502,
-    "updated_at": "2026-10-02T21:22:50Z",
+    "updated_at": "2026-10-02T22:10:25Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -180,6 +225,15 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22341,
+    "updated_at": "2026-10-02T20:55:42Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
@@ -205,15 +259,6 @@
     "stars": 10,
     "updated_at": "2026-10-02T21:32:09Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1245,
-    "updated_at": "2026-10-02T21:19:56Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "DominikPinsel/ainsel",
     "stars": 3,
-    "updated_at": "2026-10-02T20:29:50Z",
+    "updated_at": "2026-10-02T22:08:47Z",
     "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-02T21:57:58Z",
+    "updated_at": "2026-10-02T22:11:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:26:24Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:21:39Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:20:59Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:20:45Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:20:23Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:20:21Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
   }
 ]
