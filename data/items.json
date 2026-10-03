@@ -1,5 +1,86 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:45:07Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
+    "id": "Janlegenddry/LLMOpsGuide",
+    "language": "TypeScript",
+    "name": "Janlegenddry/LLMOpsGuide",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:45:00Z",
+    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 503,
+    "updated_at": "2026-10-03T03:42:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 168,
+    "updated_at": "2026-10-03T03:44:03Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:42:08Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:39:04Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T03:36:15Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:32:09Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T03:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Catch the step where an AI agent contradicts its own earlier decision. CLI and adapters for LangGraph, CrewAI, Letta, Op",
     "id": "RightRudderAI/right-rudder",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T03:29:43Z",
     "url": "https://github.com/RightRudderAI/right-rudder"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:29:31Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Terminal trace debugger for AI agents.",
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60063,
-    "updated_at": "2026-10-03T03:29:41Z",
+    "updated_at": "2026-10-03T03:30:32Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T03:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -144,15 +207,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 168,
-    "updated_at": "2026-10-03T03:29:49Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T02:58:15Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T02:53:30Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -268,15 +313,6 @@
     "stars": 1893,
     "updated_at": "2026-10-03T03:01:54Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:36:21Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -369,15 +405,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 503,
-    "updated_at": "2026-10-03T02:19:35Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
     "id": "redd357magnum-ship-it/-SuperAgent-Hub",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T01:51:49Z",
     "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:09:41Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-10-03T01:48:00Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-03T01:45:39Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
   }
 ]
