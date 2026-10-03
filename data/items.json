@@ -1,11 +1,101 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-03T19:13:27Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Detects stale aviation data (CDC + selective re-indexing + freshness SLAs) so a RAG agent flags outdated answers instead",
+    "id": "saravanaprabhu1398-afk/freshness-control-plane",
+    "language": "Makefile",
+    "name": "saravanaprabhu1398-afk/freshness-control-plane",
+    "stars": 0,
+    "updated_at": "2026-10-03T19:10:55Z",
+    "url": "https://github.com/saravanaprabhu1398-afk/freshness-control-plane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60086,
+    "updated_at": "2026-10-03T19:13:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T19:09:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "Python",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-10-03T19:08:34Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-03T19:08:30Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-03T19:13:37Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T19:11:24Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
+    "id": "vansh-09/BNB26_Ballers_Internal_Round",
+    "language": "Python",
+    "name": "vansh-09/BNB26_Ballers_Internal_Round",
+    "stars": 0,
+    "updated_at": "2026-10-03T19:01:59Z",
+    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T19:00:50Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-03T18:59:39Z",
+    "updated_at": "2026-10-03T19:02:37Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -18,31 +108,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
-    "id": "vansh-09/BNB26_Ballers_Internal_Round",
-    "language": "Python",
-    "name": "vansh-09/BNB26_Ballers_Internal_Round",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:57:26Z",
-    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-03T18:59:02Z",
+    "updated_at": "2026-10-03T19:05:02Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Token usage tracker for multi-agent AI sessions",
-    "id": "yunaremaia/agentcost",
-    "language": "Python",
-    "name": "yunaremaia/agentcost",
-    "stars": 2,
-    "updated_at": "2026-10-03T18:59:41Z",
-    "url": "https://github.com/yunaremaia/agentcost"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:54:54Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60086,
-    "updated_at": "2026-10-03T19:00:33Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
@@ -86,26 +149,8 @@
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 3,
-    "updated_at": "2026-10-03T18:46:27Z",
+    "updated_at": "2026-10-03T19:13:25Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "Python",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:44:13Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25675,
-    "updated_at": "2026-10-03T18:54:28Z",
+    "updated_at": "2026-10-03T19:13:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -144,24 +189,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:55:20Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T18:57:50Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:32:32Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T18:30:38Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1899,
-    "updated_at": "2026-10-03T18:18:07Z",
+    "updated_at": "2026-10-03T19:11:17Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T17:58:38Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:56:34Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-10-03T17:56:18Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
