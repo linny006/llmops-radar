@@ -1,5 +1,77 @@
 [
   {
+    "description": "Git-Native LLM Evaluation Engine & Local Benchmark CLI",
+    "id": "caliper-hq/caliper",
+    "language": "Go",
+    "name": "caliper-hq/caliper",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:42:44Z",
+    "url": "https://github.com/caliper-hq/caliper"
+  },
+  {
+    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
+    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "language": "Python",
+    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:41:39Z",
+    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:41:23Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-03T13:38:48Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T13:35:39Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:35:09Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
+    "id": "DuqueOM/ml-platform",
+    "language": "Python",
+    "name": "DuqueOM/ml-platform",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:35:34Z",
+    "url": "https://github.com/DuqueOM/ml-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T13:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
     "id": "valteresj2/agent-hangar",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:26:54Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 10,
-    "updated_at": "2026-10-03T13:29:38Z",
+    "updated_at": "2026-10-03T13:42:38Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T13:22:11Z",
+    "updated_at": "2026-10-03T13:33:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T13:17:48Z",
     "url": "https://github.com/deziss/llm-secure-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -144,6 +198,15 @@
     "url": "https://github.com/billbz99/finguard-orchestrator"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35335,
+    "updated_at": "2026-10-03T13:05:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Internal LLM gateway: routes each request to the cheapest adequate model (Claude, Azure OpenAI or a local open-weight mo",
     "id": "flam7791/governed-llm-gateway",
     "language": "Python",
@@ -171,15 +234,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T12:53:04Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used, files changed, tes",
     "id": "mikehasa/agentacct",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 762,
     "updated_at": "2026-10-03T12:59:48Z",
     "url": "https://github.com/mikehasa/agentacct"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:54:49Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T12:14:02Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:14:02Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:28:34Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
-    "id": "renezander030/draftcat",
-    "language": "Go",
-    "name": "renezander030/draftcat",
-    "stars": 9,
-    "updated_at": "2026-10-03T12:14:04Z",
-    "url": "https://github.com/renezander030/draftcat"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-03T12:11:46Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "LLM-agnostic AI guardrail decision API in Go. Checks prompts and responses against YAML policies and returns PASSED, BLO",
-    "id": "alpkeskin/jev-guardrail",
-    "language": "Go",
-    "name": "alpkeskin/jev-guardrail",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:10:24Z",
-    "url": "https://github.com/alpkeskin/jev-guardrail"
   }
 ]
