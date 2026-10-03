@@ -1,12 +1,84 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-03T13:15:05Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:12:00Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
     "description": "Token usage tracker for multi-agent AI sessions",
     "id": "yunaremaia/agentcost",
     "language": "Python",
     "name": "yunaremaia/agentcost",
     "stars": 2,
-    "updated_at": "2026-10-03T12:59:09Z",
+    "updated_at": "2026-10-03T13:10:56Z",
     "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
+    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:09:34Z",
+    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:08:23Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:08:15Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:06:46Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-03T13:11:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T13:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Internal LLM gateway: routes each request to the cheapest adequate model (Claude, Azure OpenAI or a local open-weight mo",
@@ -27,21 +99,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:55:25Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T12:55:21Z",
+    "updated_at": "2026-10-03T13:09:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/urellai22/Claude-Red"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T12:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
     "id": "sarkar4777/abenix",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T12:40:52Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:58:52Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "DominikPinsel/ainsel",
     "stars": 3,
-    "updated_at": "2026-10-03T12:18:45Z",
+    "updated_at": "2026-10-03T13:11:30Z",
     "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
-    "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claudecode-cost-usage-panel",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:10:42Z",
-    "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
-  },
-  {
     "description": "LLM-agnostic AI guardrail decision API in Go. Checks prompts and responses against YAML policies and returns PASSED, BLO",
     "id": "alpkeskin/jev-guardrail",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-03T11:54:33Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a",
-    "id": "limina-ai/limina-python",
-    "language": "Python",
-    "name": "limina-ai/limina-python",
-    "stars": 1,
-    "updated_at": "2026-10-03T11:46:20Z",
-    "url": "https://github.com/limina-ai/limina-python"
-  },
-  {
-    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 15,
-    "updated_at": "2026-10-03T11:43:28Z",
-    "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-03T11:40:52Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T11:45:58Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   }
 ]
