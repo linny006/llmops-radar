@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-03 12:00 UTC
+> ⏰ Last updated: 2026-10-03 12:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-10-03 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
-| 2 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-03 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 3 | [soit-ai/soit](https://github.com/soit-ai/soit) | 1 | Python | 2026-10-03 | Governed Agent Runtime for Enterprise AI Systems — build, execute, observe, and govern AI agents with permissions, secre |
-| 4 | [limina-ai/limina-python](https://github.com/limina-ai/limina-python) | 1 | Python | 2026-10-03 | Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-03 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [Lo3okSky/LLM_course](https://github.com/Lo3okSky/LLM_course) | 3 | Jupyter Notebook | 2026-10-03 | 🐙 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr |
+| 3 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-03 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 4 | [soit-ai/soit](https://github.com/soit-ai/soit) | 1 | Python | 2026-10-03 | Governed Agent Runtime for Enterprise AI Systems — build, execute, observe, and govern AI agents with permissions, secre |
+| 5 | [limina-ai/limina-python](https://github.com/limina-ai/limina-python) | 1 | Python | 2026-10-03 | Python SDK for AI agent observability, deterministic evaluation, and CI/CD regression testing. Trace failures, compare a |
 | 6 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-03 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
 | 7 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 15 | Shell | 2026-10-03 | A self-hosted AI platform — inference, tool use, browser automation, image generation, speech synthesis, transcription,  |
 | 8 | [Amz34/awesome-agent-infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) | 0 | Python | 2026-10-03 | A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads. |
