@@ -1,5 +1,77 @@
 [
   {
+    "description": "Which LLM to run for a given task, on which API or GPU, with what configuration, backed by evidence. Joins task quality,",
+    "id": "mondegreens/apron",
+    "language": "Python",
+    "name": "mondegreens/apron",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:29:51Z",
+    "url": "https://github.com/mondegreens/apron"
+  },
+  {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-03T06:29:34Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
+    "id": "Janlegenddry/LLMOpsGuide",
+    "language": "TypeScript",
+    "name": "Janlegenddry/LLMOpsGuide",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:27:59Z",
+    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
+  },
+  {
+    "description": "nab your agent's silent failures \u2014 verify LLM-agent side effects against real system state, with self-heal. Zero deps.",
+    "id": "jake-garnier/nabit",
+    "language": "Python",
+    "name": "jake-garnier/nabit",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:20:03Z",
+    "url": "https://github.com/jake-garnier/nabit"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-03T06:19:39Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:18:20Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T06:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-03T06:15:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
     "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60069,
-    "updated_at": "2026-10-03T06:13:44Z",
+    "updated_at": "2026-10-03T06:30:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-03T06:11:08Z",
+    "updated_at": "2026-10-03T06:22:32Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -50,17 +122,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-03T06:09:53Z",
+    "updated_at": "2026-10-03T06:29:06Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T06:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -68,17 +131,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8528,
-    "updated_at": "2026-10-03T06:03:33Z",
+    "updated_at": "2026-10-03T06:29:45Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-03T06:15:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T05:52:36Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
-    "id": "Janlegenddry/LLMOpsGuide",
-    "language": "TypeScript",
-    "name": "Janlegenddry/LLMOpsGuide",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:49:29Z",
-    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 503,
-    "updated_at": "2026-10-03T05:46:46Z",
+    "updated_at": "2026-10-03T06:30:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -324,24 +369,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-03T05:31:26Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Which LLM to run for a given task, on which API or GPU, with what configuration, backed by evidence. Joins task quality,",
-    "id": "mondegreens/apron",
-    "language": "Python",
-    "name": "mondegreens/apron",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:12:03Z",
-    "url": "https://github.com/mondegreens/apron"
-  },
-  {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
     "id": "rozario-1234/end2end_sample",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-03T05:20:41Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-10-03T05:11:03Z",
-    "url": "https://github.com/soit-ai/soit"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-10-03T05:09:51Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:07:33Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
   }
 ]
