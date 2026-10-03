@@ -1,30 +1,30 @@
 [
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4909,
-    "updated_at": "2026-10-03T14:30:08Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:44:50Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
-    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:29:04Z",
-    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+    "name": "mlflow/mlflow",
+    "stars": 28244,
+    "updated_at": "2026-10-03T14:43:01Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Policy-aware security gateway for LLM and agent workflows",
-    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
     "language": "Python",
-    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:28:21Z",
-    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:42:55Z",
+    "url": "https://github.com/musokean/forge"
   },
   {
     "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
@@ -32,8 +32,80 @@
     "language": "JavaScript",
     "name": "Ambuj123-lab/agentic-ai-workspace",
     "stars": 1,
-    "updated_at": "2026-10-03T14:26:55Z",
+    "updated_at": "2026-10-03T14:41:27Z",
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-03T14:40:15Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T14:45:10Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
+    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "language": "Python",
+    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:36:30Z",
+    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "Governed multi-agent research platform on MCP \u2014 policy-as-code authorization, tenant isolation, evidence-backed claims, ",
+    "id": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:34:14Z",
+    "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60078,
+    "updated_at": "2026-10-03T14:31:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T14:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4909,
+    "updated_at": "2026-10-03T14:45:21Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:34:07Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -43,33 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T14:28:38Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-03T14:25:56Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-03T14:24:01Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T14:29:30Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Governed AI agents that actually do the work - in the cloud or on your own machine - across business systems, real brows",
@@ -90,15 +135,6 @@
     "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
   },
   {
-    "description": "Governed multi-agent research platform on MCP \u2014 policy-as-code authorization, tenant isolation, evidence-backed claims, ",
-    "id": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
-    "language": "Python",
-    "name": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:18:56Z",
-    "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T14:17:59Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T14:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -205,24 +232,6 @@
     "stars": 7,
     "updated_at": "2026-10-03T13:42:44Z",
     "url": "https://github.com/caliper-hq/caliper"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60078,
-    "updated_at": "2026-10-03T13:34:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28244,
-    "updated_at": "2026-10-03T14:24:41Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -310,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35335,
+    "stars": 35336,
     "updated_at": "2026-10-03T13:05:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T12:25:45Z",
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
-    "id": "soit-ai/soit",
-    "language": "Python",
-    "name": "soit-ai/soit",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:25:18Z",
-    "url": "https://github.com/soit-ai/soit"
   }
 ]
