@@ -1,12 +1,84 @@
 [
   {
+    "description": "Counts every token so you do not have to. Reads your Claude Code transcripts, shows where the tokens went, fixes what mo",
+    "id": "mdmudassirahmed/scrooge",
+    "language": "Python",
+    "name": "mdmudassirahmed/scrooge",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:00:14Z",
+    "url": "https://github.com/mdmudassirahmed/scrooge"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:57:52Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "evalshift/evalshift-action",
+    "language": "Python",
+    "name": "evalshift/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:55:17Z",
+    "url": "https://github.com/evalshift/evalshift-action"
+  },
+  {
     "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
     "id": "Bobcatsfan33/Pharos",
     "language": "TypeScript",
     "name": "Bobcatsfan33/Pharos",
     "stars": 3,
-    "updated_at": "2026-10-03T20:44:38Z",
+    "updated_at": "2026-10-03T20:59:38Z",
     "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "evalshift/evalshift-cli",
+    "language": "Python",
+    "name": "evalshift/evalshift-cli",
+    "stars": 5,
+    "updated_at": "2026-10-03T20:51:39Z",
+    "url": "https://github.com/evalshift/evalshift-cli"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-03T20:51:01Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 609,
+    "updated_at": "2026-10-03T20:59:59Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Claude Code keeps the receipts. Read them before you buy a plugin. Measure where your tokens go, then fix what moves the",
+    "id": "mdmudassirahmed/receipts",
+    "language": "Python",
+    "name": "mdmudassirahmed/receipts",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:47:22Z",
+    "url": "https://github.com/mdmudassirahmed/receipts"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T20:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60090,
-    "updated_at": "2026-10-03T20:44:25Z",
+    "updated_at": "2026-10-03T20:59:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-03T20:42:09Z",
+    "updated_at": "2026-10-03T20:46:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -41,17 +113,8 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-03T20:39:45Z",
+    "updated_at": "2026-10-03T20:57:05Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
-    "id": "evalshift/evalshift-action",
-    "language": "Python",
-    "name": "evalshift/evalshift-action",
-    "stars": 0,
-    "updated_at": "2026-10-03T20:36:54Z",
-    "url": "https://github.com/evalshift/evalshift-action"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25677,
-    "updated_at": "2026-10-03T20:36:46Z",
+    "updated_at": "2026-10-03T20:59:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 1899,
     "updated_at": "2026-10-03T20:30:26Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T20:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-03T20:41:55Z",
+    "updated_at": "2026-10-03T20:56:38Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-03T20:12:38Z",
+    "updated_at": "2026-10-03T20:56:21Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 503,
-    "updated_at": "2026-10-03T20:00:00Z",
+    "updated_at": "2026-10-03T20:55:18Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -220,7 +274,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 242,
+    "stars": 243,
     "updated_at": "2026-10-03T19:57:55Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -391,62 +445,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30422,
+    "stars": 30421,
     "updated_at": "2026-10-03T19:01:27Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:58:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-03T19:23:10Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
-    "id": "nixvarghese01/local-ai-platform",
-    "language": "Python",
-    "name": "nixvarghese01/local-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:52:45Z",
-    "url": "https://github.com/nixvarghese01/local-ai-platform"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-03T18:49:18Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:38:53Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-10-03T18:33:07Z",
-    "url": "https://github.com/runcycles/cycles-docs"
   }
 ]
