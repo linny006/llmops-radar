@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:44:34Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "A self-hosted AI platform \u2014 inference, tool use, browser automation, image generation, speech synthesis, transcription, ",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 15,
+    "updated_at": "2026-10-03T11:43:28Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:40:52Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:44:01Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-10-03T11:40:06Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:38:00Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-03T11:33:42Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T11:33:24Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Evidence-driven skill evolution for Hermes Agent \u2014 reports, dry-run proposals, candidate search, and guarded apply",
+    "id": "pingchesu/hermes-curator-evolver",
+    "language": "Python",
+    "name": "pingchesu/hermes-curator-evolver",
+    "stars": 41,
+    "updated_at": "2026-10-03T11:33:13Z",
+    "url": "https://github.com/pingchesu/hermes-curator-evolver"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T11:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -45,13 +135,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
+    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
+    "id": "flyer103/router",
+    "language": "Rust",
+    "name": "flyer103/router",
     "stars": 0,
-    "updated_at": "2026-10-03T11:27:29Z",
-    "url": "https://github.com/veerarakesh56/warden"
+    "updated_at": "2026-10-03T11:28:15Z",
+    "url": "https://github.com/flyer103/router"
   },
   {
     "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
@@ -79,15 +169,6 @@
     "stars": 119,
     "updated_at": "2026-10-03T11:17:54Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T11:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T10:50:12Z",
     "url": "https://github.com/musokean/forge"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T10:50:12Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T10:23:17Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-03T10:22:46Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-03T10:21:34Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-03T10:19:22Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-10-03T10:17:50Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28241,
-    "updated_at": "2026-10-03T10:13:11Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-03T10:03:03Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Minimal Python agent harness with a local Ollama model: makes the model-tool loop visible.",
-    "id": "albeus/ai-agents-miniagent",
-    "language": "Python",
-    "name": "albeus/ai-agents-miniagent",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:57:28Z",
-    "url": "https://github.com/albeus/ai-agents-miniagent"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8532,
-    "updated_at": "2026-10-03T09:51:23Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
