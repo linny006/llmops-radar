@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-10-03T11:00:07Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-10-03T10:58:46Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60078,
+    "updated_at": "2026-10-03T10:52:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-03T10:50:53Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:50:12Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T10:50:12Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:49:46Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Evidence-backed improvement proposals for AI agents.",
+    "id": "vittorfp/agent-change-proposals",
+    "language": "Python",
+    "name": "vittorfp/agent-change-proposals",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:49:28Z",
+    "url": "https://github.com/vittorfp/agent-change-proposals"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:47:49Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-03T10:47:04Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:46:02Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T10:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -9,21 +117,12 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-03T10:44:22Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
     "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
     "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 2,
-    "updated_at": "2026-10-03T10:44:54Z",
+    "updated_at": "2026-10-03T10:46:14Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T10:42:34Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Evidence-backed improvement proposals for AI agents.",
-    "id": "vittorfp/agent-change-proposals",
-    "language": "Python",
-    "name": "vittorfp/agent-change-proposals",
-    "stars": 0,
-    "updated_at": "2026-10-03T10:42:24Z",
-    "url": "https://github.com/vittorfp/agent-change-proposals"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -153,15 +243,6 @@
     "url": "https://github.com/melaya-labs/melaya"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T10:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -196,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T10:33:56Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-03T10:25:13Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -270,15 +342,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T10:10:45Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
     "id": "Lo3okSky/LLM_course",
     "language": "Jupyter Notebook",
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T10:02:41Z",
     "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60077,
-    "updated_at": "2026-10-03T10:27:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Minimal Python agent harness with a local Ollama model: makes the model-tool loop visible.",
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 608,
-    "updated_at": "2026-10-03T10:43:15Z",
+    "updated_at": "2026-10-03T10:57:43Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T09:10:40Z",
     "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4908,
-    "updated_at": "2026-10-03T10:38:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-10-03T09:11:37Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:51:31Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:49:34Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
-    "description": "Automated, production-grade CI/CD evaluation pipeline for Hugging Face chatbots using DeepEval and dynamic JSON test dat",
-    "id": "h00w/PromptPulse",
-    "language": "Python",
-    "name": "h00w/PromptPulse",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:44:52Z",
-    "url": "https://github.com/h00w/PromptPulse"
-  },
-  {
-    "description": "Research-to-production AI model release control plane connecting post-training experiments, baseline/candidate evaluatio",
-    "id": "h00w/model-quality-release-gate",
-    "language": "Python",
-    "name": "h00w/model-quality-release-gate",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:44:46Z",
-    "url": "https://github.com/h00w/model-quality-release-gate"
   }
 ]
