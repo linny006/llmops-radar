@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60063,
-    "updated_at": "2026-10-03T04:14:37Z",
+    "updated_at": "2026-10-03T04:28:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T04:28:12Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:22:17Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-03T04:18:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:16:34Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T04:16:18Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T04:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Terminal trace debugger for AI agents.",
@@ -45,15 +99,6 @@
     "url": "https://github.com/stevecrates489-commits/tokcalc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T04:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
     "id": "gmaheshraju/Hands-on-AgenticAI",
     "language": "JavaScript",
@@ -90,15 +135,6 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-03T03:51:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-03T03:45:07Z",
+    "updated_at": "2026-10-03T04:30:07Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 168,
-    "updated_at": "2026-10-03T04:13:27Z",
+    "updated_at": "2026-10-03T04:22:21Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T03:36:15Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -207,15 +234,6 @@
     "url": "https://github.com/api-evangelist/evidently"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:14:14Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -259,15 +277,6 @@
     "stars": 11687,
     "updated_at": "2026-10-03T03:05:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:46:08Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T02:18:38Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T02:30:12Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
