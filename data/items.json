@@ -1,5 +1,68 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:45:04Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-10-03T21:41:36Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60091,
+    "updated_at": "2026-10-03T21:45:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-10-03T21:38:42Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-03T21:37:21Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-03T21:33:59Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T21:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
     "id": "Ambuj123-lab/agentic-ai-workspace",
     "language": "JavaScript",
@@ -7,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T21:30:07Z",
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60090,
-    "updated_at": "2026-10-03T21:30:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
@@ -36,15 +90,6 @@
     "url": "https://github.com/csdeepak/HandCode"
   },
   {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 3,
-    "updated_at": "2026-10-03T21:21:43Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-03T21:17:11Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T21:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Counts every token so you do not have to. Reads your Claude Code transcripts, shows where the tokens went, fixes what mo",
@@ -149,7 +185,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-03T21:24:08Z",
+    "updated_at": "2026-10-03T21:35:09Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-03T20:25:45Z",
+    "updated_at": "2026-10-03T21:44:59Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 10,
-    "updated_at": "2026-10-03T21:10:16Z",
+    "updated_at": "2026-10-03T21:45:01Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-03T21:29:44Z",
+    "updated_at": "2026-10-03T21:37:59Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -301,7 +337,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 245,
+    "stars": 246,
     "updated_at": "2026-10-03T19:57:55Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "DominikPinsel/ainsel",
     "stars": 3,
-    "updated_at": "2026-10-03T21:26:50Z",
+    "updated_at": "2026-10-03T21:38:57Z",
     "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T19:45:40Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11694,
-    "updated_at": "2026-10-03T19:15:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A local-first engineering framework for governed AI services: reference architecture, patterns, standards as CI checks, ",
-    "id": "flam7791/ai-engineering-framework",
-    "language": "Python",
-    "name": "flam7791/ai-engineering-framework",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:15:35Z",
-    "url": "https://github.com/flam7791/ai-engineering-framework"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-03T19:13:27Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "Python",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:08:34Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
   }
 ]
