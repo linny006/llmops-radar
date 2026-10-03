@@ -1,12 +1,30 @@
 [
   {
-    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
     "stars": 1,
-    "updated_at": "2026-10-03T08:58:17Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
+    "updated_at": "2026-10-03T09:15:11Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 608,
+    "updated_at": "2026-10-03T09:15:04Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-10-03T09:12:45Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
     "description": "Agentic Runtime",
@@ -14,17 +32,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-03T08:57:12Z",
+    "updated_at": "2026-10-03T09:12:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "musokean/forge",
+    "name": "BerriAI/litellm",
+    "stars": 60073,
+    "updated_at": "2026-10-03T09:12:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-03T09:10:45Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Autonomous infrastructure operations with a constitution it cannot break. Dual LLM agents propose fixes that must clear ",
+    "id": "Partha-dev01/Constitutional-AIOps",
+    "language": "Python",
+    "name": "Partha-dev01/Constitutional-AIOps",
     "stars": 1,
-    "updated_at": "2026-10-03T08:55:43Z",
-    "url": "https://github.com/musokean/forge"
+    "updated_at": "2026-10-03T09:10:40Z",
+    "url": "https://github.com/Partha-dev01/Constitutional-AIOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T09:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-10-03T09:11:37Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -72,31 +126,13 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-03T08:48:07Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28241,
+    "stars": 28240,
     "updated_at": "2026-10-03T08:47:55Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T08:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automated, production-grade CI/CD evaluation pipeline for Hugging Face chatbots using DeepEval and dynamic JSON test dat",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-03T08:44:01Z",
+    "updated_at": "2026-10-03T09:06:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8529,
-    "updated_at": "2026-10-03T09:00:04Z",
+    "updated_at": "2026-10-03T09:15:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T08:42:10Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60072,
-    "updated_at": "2026-10-03T08:53:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 94,
-    "updated_at": "2026-10-03T08:42:28Z",
+    "updated_at": "2026-10-03T09:03:42Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 121,
     "updated_at": "2026-10-03T08:17:17Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 608,
-    "updated_at": "2026-10-03T08:57:55Z",
-    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 503,
-    "updated_at": "2026-10-03T07:29:59Z",
+    "updated_at": "2026-10-03T09:03:37Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T07:23:19Z",
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-10-03T07:22:15Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
-    "id": "deziss/llm-secure-gateway",
-    "language": "Python",
-    "name": "deziss/llm-secure-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:22:05Z",
-    "url": "https://github.com/deziss/llm-secure-gateway"
   }
 ]
