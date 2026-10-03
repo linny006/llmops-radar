@@ -1,5 +1,95 @@
 [
   {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-03T15:15:10Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T15:14:59Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-03T15:14:22Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T15:13:58Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
+    "id": "vansh-09/BNB26_Ballers_Internal_Round",
+    "language": "Python",
+    "name": "vansh-09/BNB26_Ballers_Internal_Round",
+    "stars": 0,
+    "updated_at": "2026-10-03T15:11:36Z",
+    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-03T15:10:34Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-10-03T15:10:21Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-03T15:05:05Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-03T15:01:12Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T15:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -31,8 +121,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60078,
-    "updated_at": "2026-10-03T14:55:17Z",
+    "stars": 60079,
+    "updated_at": "2026-10-03T15:12:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,15 +133,6 @@
     "stars": 41,
     "updated_at": "2026-10-03T14:54:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-03T14:53:55Z",
-    "url": "https://github.com/musokean/forge"
   },
   {
     "description": "",
@@ -72,30 +153,12 @@
     "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-03T14:45:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T14:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-03T14:48:56Z",
+    "updated_at": "2026-10-03T15:06:17Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 28244,
     "updated_at": "2026-10-03T14:43:01Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T14:55:32Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4909,
-    "updated_at": "2026-10-03T14:58:56Z",
+    "updated_at": "2026-10-03T15:09:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:17:59Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -202,7 +247,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30418,
+    "stars": 30419,
     "updated_at": "2026-10-03T13:59:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 10,
-    "updated_at": "2026-10-03T14:48:39Z",
+    "updated_at": "2026-10-03T15:07:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/Root1V/argus-observability-platform"
   },
   {
-    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
-    "id": "vansh-09/BNB26_Ballers_Internal_Round",
-    "language": "Python",
-    "name": "vansh-09/BNB26_Ballers_Internal_Round",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:18:38Z",
-    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
-  },
-  {
     "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
     "id": "deziss/llm-secure-gateway",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T13:17:48Z",
     "url": "https://github.com/deziss/llm-secure-gateway"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:12:00Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Token usage tracker for multi-agent AI sessions",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:37:58Z",
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:32:21Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:30:38Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:29:14Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   }
 ]
