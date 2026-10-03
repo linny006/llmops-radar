@@ -1,5 +1,68 @@
 [
   {
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-03T09:43:50Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 94,
+    "updated_at": "2026-10-03T09:40:02Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-03T09:39:38Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "nab your agent's silent failures \u2014 verify LLM-agent side effects against real system state, with self-heal. Zero deps.",
+    "id": "jake-garnier/nabit",
+    "language": "Python",
+    "name": "jake-garnier/nabit",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:36:00Z",
+    "url": "https://github.com/jake-garnier/nabit"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-03T09:32:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-03T09:31:18Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T09:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Live cost/usage panel + auto-split Ghostty launcher for Claude Code CLI sessions",
     "id": "andrewbakercloudscale/claudecode-cost-usage-panel",
     "language": "Shell",
@@ -14,35 +77,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-03T09:29:07Z",
+    "updated_at": "2026-10-03T09:35:49Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-03T09:28:24Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-03T09:22:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 94,
-    "updated_at": "2026-10-03T09:21:33Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -63,21 +99,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T09:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 608,
-    "updated_at": "2026-10-03T09:27:39Z",
+    "updated_at": "2026-10-03T09:42:12Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60074,
-    "updated_at": "2026-10-03T09:23:08Z",
+    "updated_at": "2026-10-03T09:45:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4908,
-    "updated_at": "2026-10-03T09:00:42Z",
+    "updated_at": "2026-10-03T09:44:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T09:11:37Z",
     "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "nab your agent's silent failures \u2014 verify LLM-agent side effects against real system state, with self-heal. Zero deps.",
-    "id": "jake-garnier/nabit",
-    "language": "Python",
-    "name": "jake-garnier/nabit",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:55:19Z",
-    "url": "https://github.com/jake-garnier/nabit"
   },
   {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T08:49:34Z",
     "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-03T08:48:46Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -214,15 +223,6 @@
     "stars": 8529,
     "updated_at": "2026-10-03T09:29:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Token usage tracker for multi-agent AI sessions",
-    "id": "yunaremaia/agentcost",
-    "language": "Python",
-    "name": "yunaremaia/agentcost",
-    "stars": 2,
-    "updated_at": "2026-10-03T08:37:06Z",
-    "url": "https://github.com/yunaremaia/agentcost"
   },
   {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
