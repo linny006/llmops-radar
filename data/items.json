@@ -1,5 +1,95 @@
 [
   {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:28:47Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28243,
+    "updated_at": "2026-10-03T13:28:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:26:54Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:26:49Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-03T13:29:38Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4909,
+    "updated_at": "2026-10-03T13:22:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:18:42Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
+    "id": "vansh-09/BNB26_Ballers_Internal_Round",
+    "language": "Python",
+    "name": "vansh-09/BNB26_Ballers_Internal_Round",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:18:38Z",
+    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
+  },
+  {
+    "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
+    "id": "deziss/llm-secure-gateway",
+    "language": "Python",
+    "name": "deziss/llm-secure-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:17:48Z",
+    "url": "https://github.com/deziss/llm-secure-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T13:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -41,17 +131,8 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-03T13:08:23Z",
+    "updated_at": "2026-10-03T13:19:59Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:08:15Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
@@ -61,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T13:06:46Z",
     "url": "https://github.com/billbz99/finguard-orchestrator"
-  },
-  {
-    "description": "A governed, auditable workflow engine for an agent-driven software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 10,
-    "updated_at": "2026-10-03T13:11:29Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Internal LLM gateway: routes each request to the cheapest adequate model (Claude, Azure OpenAI or a local open-weight mo",
@@ -97,15 +160,6 @@
     "stars": 29,
     "updated_at": "2026-10-03T12:58:16Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4909,
-    "updated_at": "2026-10-03T13:09:13Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Agentic Runtime",
@@ -243,15 +297,6 @@
     "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   },
   {
-    "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
-    "id": "deziss/llm-secure-gateway",
-    "language": "Python",
-    "name": "deziss/llm-secure-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:25:37Z",
-    "url": "https://github.com/deziss/llm-secure-gateway"
-  },
-  {
     "description": "Governed Agent Runtime for Enterprise AI Systems \u2014 build, execute, observe, and govern AI agents with permissions, secre",
     "id": "soit-ai/soit",
     "language": "Python",
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:22:49Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28242,
-    "updated_at": "2026-10-03T12:22:42Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-03T12:59:22Z",
+    "updated_at": "2026-10-03T13:28:34Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:10:24Z",
     "url": "https://github.com/alpkeskin/jev-guardrail"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:10:17Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Reference deployment of a governed AI stack: LLM gateway, MCP evidence server and multi-agent service as hardened contai",
-    "id": "flam7791/governed-ai-platform",
-    "language": "Python",
-    "name": "flam7791/governed-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:00:51Z",
-    "url": "https://github.com/flam7791/governed-ai-platform"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-03T11:55:25Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-03T11:54:33Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
