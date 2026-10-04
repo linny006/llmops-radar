@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 13:29 UTC
+> ⏰ Last updated: 2026-10-04 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 4 | Python | 2026-10-04 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
-| 2 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-04 | Temporal workers and clients for wrapping access to different LLMs |
-| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-04 | Agentic Runtime |
-| 4 | [csdeepak/HandCode](https://github.com/csdeepak/HandCode) | 0 | Python | 2026-10-04 | HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a  |
-| 5 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 0 | Python | 2026-10-04 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35364 | TypeScript | 2026-10-04 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [tmusser/ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills) | 4 | Python | 2026-10-04 | Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve |
+| 3 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-04 | Temporal workers and clients for wrapping access to different LLMs |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-04 | Agentic Runtime |
+| 5 | [csdeepak/HandCode](https://github.com/csdeepak/HandCode) | 0 | Python | 2026-10-04 | HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a  |
+| 6 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 0 | Python | 2026-10-04 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35364 | TypeScript | 2026-10-04 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
 | 8 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-10-04 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
 | 9 | [Chris0Jeky/llm-release-gate](https://github.com/Chris0Jeky/llm-release-gate) | 0 | Python | 2026-10-04 | An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from |
 | 10 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 8546 | Go | 2026-10-04 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
