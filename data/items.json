@@ -1,12 +1,102 @@
 [
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-04T11:29:52Z",
-    "url": "https://github.com/srjn45/warden"
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-04T11:45:23Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
+    "id": "yunaremaia/agent-call-graph",
+    "language": "Python",
+    "name": "yunaremaia/agent-call-graph",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:42:59Z",
+    "url": "https://github.com/yunaremaia/agent-call-graph"
+  },
+  {
+    "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 27,
+    "updated_at": "2026-10-04T11:42:50Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:41:46Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8097,
+    "updated_at": "2026-10-04T11:45:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:41:52Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:39:48Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Evaluation-driven, privacy-aware self-optimizing production RAG platform",
+    "id": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:39:15Z",
+    "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
+  },
+  {
+    "description": "A local-first engineering framework for governed AI services: reference architecture, patterns, standards as CI checks, ",
+    "id": "flam7791/ai-engineering-framework",
+    "language": "Python",
+    "name": "flam7791/ai-engineering-framework",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:37:42Z",
+    "url": "https://github.com/flam7791/ai-engineering-framework"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-04T11:36:01Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Series of blog posts and supporting code for D.E. for AI",
+    "id": "madhav692/data-engineering-for-ai",
+    "language": "Python",
+    "name": "madhav692/data-engineering-for-ai",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:35:23Z",
+    "url": "https://github.com/madhav692/data-engineering-for-ai"
   },
   {
     "description": "Governed multi-agent research platform on MCP \u2014 policy-as-code authorization, tenant isolation, evidence-backed claims, ",
@@ -14,8 +104,26 @@
     "language": "Python",
     "name": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
     "stars": 0,
-    "updated_at": "2026-10-04T11:30:25Z",
+    "updated_at": "2026-10-04T11:34:20Z",
     "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:30:46Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-04T11:29:52Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
@@ -27,22 +135,13 @@
     "url": "https://github.com/Prathamg042004/tokensave"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:26:43Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8097,
-    "updated_at": "2026-10-04T11:26:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "BerriAI/litellm",
+    "stars": 60119,
+    "updated_at": "2026-10-04T11:27:35Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Reference deployment of a governed AI stack: LLM gateway, MCP evidence server and multi-agent service as hardened contai",
@@ -63,24 +162,6 @@
     "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-04T11:30:20Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:20:50Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
     "description": "Policy-aware security gateway for LLM and agent workflows",
     "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
     "language": "Python",
@@ -99,15 +180,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
     "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
     "language": "Python",
@@ -117,15 +189,6 @@
     "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
   },
   {
-    "description": "Evaluation-driven, privacy-aware self-optimizing production RAG platform",
-    "id": "Yash-Chindam/self-optimizing-production-rag-platform",
-    "language": "Python",
-    "name": "Yash-Chindam/self-optimizing-production-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:26:07Z",
-    "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T11:28:36Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Static analysis of AI agent session logs \u2014 detect wasteful tool call patterns, circular reasoning, and budget anomalies ",
-    "id": "yunaremaia/agent-call-graph",
-    "language": "Python",
-    "name": "yunaremaia/agent-call-graph",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:05:51Z",
-    "url": "https://github.com/yunaremaia/agent-call-graph"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T10:59:28Z",
     "url": "https://github.com/HermeticOrmus/LibreMLOps-Claude-Code"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-04T10:58:13Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "samarthputhraya/Modelpin",
     "stars": 1,
-    "updated_at": "2026-10-04T11:28:52Z",
+    "updated_at": "2026-10-04T11:38:17Z",
     "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T11:17:11Z",
+    "updated_at": "2026-10-04T11:31:08Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -297,31 +342,13 @@
     "url": "https://github.com/flam7791/governed-llm-gateway"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60118,
-    "updated_at": "2026-10-04T11:27:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25694,
-    "updated_at": "2026-10-04T11:18:51Z",
+    "updated_at": "2026-10-04T11:42:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A local-first engineering framework for governed AI services: reference architecture, patterns, standards as CI checks, ",
-    "id": "flam7791/ai-engineering-framework",
-    "language": "Python",
-    "name": "flam7791/ai-engineering-framework",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:32:55Z",
-    "url": "https://github.com/flam7791/ai-engineering-framework"
   },
   {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
@@ -338,7 +365,7 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-10-04T10:25:34Z",
+    "updated_at": "2026-10-04T11:31:12Z",
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-04T11:30:38Z",
+    "updated_at": "2026-10-04T11:36:00Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2108,
-    "updated_at": "2026-10-04T09:35:48Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:21:12Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:18:59Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
   }
 ]
