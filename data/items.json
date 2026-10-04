@@ -1,12 +1,48 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-04T04:43:05Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-04T04:41:19Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-04T04:30:20Z",
+    "updated_at": "2026-10-04T04:37:40Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-04T04:32:09Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T04:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8543,
-    "updated_at": "2026-10-04T04:30:00Z",
+    "updated_at": "2026-10-04T04:39:08Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:28:07Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -43,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-10-04T04:25:56Z",
     "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60104,
+    "updated_at": "2026-10-04T04:44:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T04:23:22Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:23:17Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T04:16:41Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T04:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -324,15 +342,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60101,
-    "updated_at": "2026-10-04T04:25:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T03:08:34Z",
     "url": "https://github.com/iambiniyam/ai-infra-roadmap"
-  },
-  {
-    "description": "Production-grade Agentic AI workspace using Next.js, FastAPI, LangGraph ReAct, and Model Context Protocol (MCP) tool orc",
-    "id": "Ambuj123-lab/agentic-ai-workspace",
-    "language": "JavaScript",
-    "name": "Ambuj123-lab/agentic-ai-workspace",
-    "stars": 1,
-    "updated_at": "2026-10-04T03:06:39Z",
-    "url": "https://github.com/Ambuj123-lab/agentic-ai-workspace"
   }
 ]
