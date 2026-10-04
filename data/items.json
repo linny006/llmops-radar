@@ -1,12 +1,111 @@
 [
   {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-10-04T12:00:02Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-04T11:45:23Z",
+    "updated_at": "2026-10-04T11:59:18Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8099,
+    "updated_at": "2026-10-04T11:58:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 6,
+    "updated_at": "2026-10-04T11:57:37Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
+    "id": "liam8421/faster-llm",
+    "language": "Python",
+    "name": "liam8421/faster-llm",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:57:31Z",
+    "url": "https://github.com/liam8421/faster-llm"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:56:49Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
+    "id": "recetariodmix/garak",
+    "language": "Python",
+    "name": "recetariodmix/garak",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:55:17Z",
+    "url": "https://github.com/recetariodmix/garak"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 7,
+    "updated_at": "2026-10-04T11:55:08Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
+    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
+    "id": "Bobcatsfan33/Pharos",
+    "language": "TypeScript",
+    "name": "Bobcatsfan33/Pharos",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:51:53Z",
+    "url": "https://github.com/Bobcatsfan33/Pharos"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-10-04T11:50:15Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 22,
+    "updated_at": "2026-10-04T11:47:04Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "yunaremaia/agent-call-graph",
     "stars": 0,
-    "updated_at": "2026-10-04T11:42:59Z",
+    "updated_at": "2026-10-04T12:00:19Z",
     "url": "https://github.com/yunaremaia/agent-call-graph"
   },
   {
@@ -25,33 +124,6 @@
     "stars": 27,
     "updated_at": "2026-10-04T11:42:50Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:41:46Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8097,
-    "updated_at": "2026-10-04T11:45:12Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The trust control plane for enterprise AI agents \u2014 real-time policy verdicts in under 800ms and litigation-grade evidenc",
-    "id": "Bobcatsfan33/Pharos",
-    "language": "TypeScript",
-    "name": "Bobcatsfan33/Pharos",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:41:52Z",
-    "url": "https://github.com/Bobcatsfan33/Pharos"
   },
   {
     "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "madhav692/data-engineering-for-ai",
     "stars": 0,
-    "updated_at": "2026-10-04T11:35:23Z",
+    "updated_at": "2026-10-04T11:56:36Z",
     "url": "https://github.com/madhav692/data-engineering-for-ai"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T11:34:20Z",
     "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:30:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "Prathamg042004/tokensave",
     "stars": 1,
-    "updated_at": "2026-10-04T11:29:20Z",
+    "updated_at": "2026-10-04T11:51:36Z",
     "url": "https://github.com/Prathamg042004/tokensave"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
     "stars": 0,
-    "updated_at": "2026-10-04T11:20:13Z",
+    "updated_at": "2026-10-04T12:00:01Z",
     "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T11:31:08Z",
+    "updated_at": "2026-10-04T11:55:17Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -347,7 +410,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25694,
-    "updated_at": "2026-10-04T11:42:17Z",
+    "updated_at": "2026-10-04T11:58:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T10:16:58Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "Empirical agent skill optimization and benchmark harness. Evaluates AI agent instructions against deterministic test sui",
-    "id": "Jaswanth1902/SkillForge",
-    "language": "Python",
-    "name": "Jaswanth1902/SkillForge",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:04:02Z",
-    "url": "https://github.com/Jaswanth1902/SkillForge"
-  },
-  {
-    "description": "Ultra-lightweight token budget and loop circuit breaker for AI agents. Sub-millisecond guards against infinite agent loo",
-    "id": "Jaswanth1902/dwel",
-    "language": "Python",
-    "name": "Jaswanth1902/dwel",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:03:56Z",
-    "url": "https://github.com/Jaswanth1902/dwel"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2919,
-    "updated_at": "2026-10-04T09:55:41Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:51:43Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-10-04T09:41:49Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3297,
-    "updated_at": "2026-10-04T09:39:07Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:36:00Z",
-    "url": "https://github.com/delivstat/swarmkit"
   }
 ]
