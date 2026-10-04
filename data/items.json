@@ -1,5 +1,86 @@
 [
   {
+    "description": "Enterprise multimodal RAG QA for cosmetics | FastAPI \u00b7 Qdrant/Elasticsearch \u00b7 BGE/CLIP \u00b7 Qwen/vLLM \u00b7 RBAC \u00b7 audit \u00b7 obse",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:59:16Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
+    "id": "vansh-09/BNB26_Ballers_Internal_Round",
+    "language": "Python",
+    "name": "vansh-09/BNB26_Ballers_Internal_Round",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:57:47Z",
+    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:57:01Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:55:16Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:54:13Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60107,
+    "updated_at": "2026-10-04T05:59:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T05:55:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:53:39Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
     "id": "stevecrates489-commits/tokcalc",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T05:41:30Z",
     "url": "https://github.com/rupeshkumarbs/agentic-reliability-lab"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:39:52Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-10-04T05:34:20Z",
+    "updated_at": "2026-10-04T05:52:03Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
@@ -70,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T05:31:24Z",
     "url": "https://github.com/Mattbusel/llm-budget"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T05:28:08Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
@@ -153,15 +207,6 @@
     "url": "https://github.com/Mattbusel/llm-diff"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:35:32Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
     "id": "flyer103/vadis",
     "language": "Rust",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T05:34:00Z",
+    "updated_at": "2026-10-04T05:56:03Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T05:01:09Z",
     "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60106,
-    "updated_at": "2026-10-04T05:45:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
@@ -239,8 +275,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25686,
-    "updated_at": "2026-10-04T05:45:16Z",
+    "updated_at": "2026-10-04T05:57:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11700,
+    "updated_at": "2026-10-04T04:47:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -257,17 +302,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8543,
-    "updated_at": "2026-10-04T05:35:19Z",
+    "updated_at": "2026-10-04T05:58:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "An open-source, self-hostable flight recorder and debugger for AI agents. Records execution traces, localizes the earlie",
-    "id": "vansh-09/BNB26_Ballers_Internal_Round",
-    "language": "Python",
-    "name": "vansh-09/BNB26_Ballers_Internal_Round",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:28:07Z",
-    "url": "https://github.com/vansh-09/BNB26_Ballers_Internal_Round"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1900,
-    "updated_at": "2026-10-04T05:43:27Z",
+    "updated_at": "2026-10-04T05:59:49Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T04:09:46Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:09:45Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:09:38Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-04T04:09:13Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:07:37Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
