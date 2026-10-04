@@ -1,11 +1,92 @@
 [
   {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-10-04T16:30:10Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-04T16:28:41Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-04T16:27:50Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-04T16:27:34Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T16:22:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Evidence-backed improvement proposals for AI agents.",
+    "id": "vittorfp/agent-change-proposals",
+    "language": "Python",
+    "name": "vittorfp/agent-change-proposals",
+    "stars": 0,
+    "updated_at": "2026-10-04T16:22:06Z",
+    "url": "https://github.com/vittorfp/agent-change-proposals"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8120,
+    "updated_at": "2026-10-04T16:20:36Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
+    "id": "Janlegenddry/LLMOpsGuide",
+    "language": "JavaScript",
+    "name": "Janlegenddry/LLMOpsGuide",
+    "stars": 0,
+    "updated_at": "2026-10-04T16:18:12Z",
+    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T16:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
     "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 2,
-    "updated_at": "2026-10-04T16:13:31Z",
+    "updated_at": "2026-10-04T16:17:10Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-04T16:15:17Z",
+    "updated_at": "2026-10-04T16:29:14Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4913,
-    "updated_at": "2026-10-04T16:07:13Z",
+    "updated_at": "2026-10-04T16:16:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8120,
-    "updated_at": "2026-10-04T16:05:22Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T16:05:10Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T16:04:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -115,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T16:00:42Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T16:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60122,
-    "updated_at": "2026-10-04T16:01:03Z",
+    "updated_at": "2026-10-04T16:19:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-04T15:46:35Z",
+    "updated_at": "2026-10-04T16:29:08Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T15:33:37Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
-    "id": "Janlegenddry/LLMOpsGuide",
-    "language": "JavaScript",
-    "name": "Janlegenddry/LLMOpsGuide",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:24:37Z",
-    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
   },
   {
     "description": "Series of blog posts and supporting code for D.E. for AI",
@@ -283,7 +328,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 331,
+    "stars": 332,
     "updated_at": "2026-10-04T15:23:25Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -333,15 +378,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "An open source workflow engine for agent-driven software factories.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 10,
-    "updated_at": "2026-10-04T16:01:05Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -378,15 +414,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-04T14:55:57Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-04T14:32:04Z",
+    "updated_at": "2026-10-04T16:30:11Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:31:43Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:29:48Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
-    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "language": "HTML",
-    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:29:21Z",
-    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
-  },
-  {
-    "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
-    "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "language": "\u2014",
-    "name": "Conflictofinteresteddy300/FlowLens-AgentOps",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:28:54Z",
-    "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   }
 ]
