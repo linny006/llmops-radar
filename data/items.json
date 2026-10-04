@@ -1,12 +1,57 @@
 [
   {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-04T21:45:12Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-04T21:44:12Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-04T21:29:45Z",
+    "updated_at": "2026-10-04T21:43:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:42:07Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
+    "id": "yunaremaia/agent-call-graph",
+    "language": "Python",
+    "name": "yunaremaia/agent-call-graph",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:41:48Z",
+    "url": "https://github.com/yunaremaia/agent-call-graph"
+  },
+  {
+    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
+    "id": "homayoun-safarpour/homi-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/homi-gate",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:41:01Z",
+    "url": "https://github.com/homayoun-safarpour/homi-gate"
   },
   {
     "description": "How to run LLM agents in production, learned from the times they broke",
@@ -14,8 +59,17 @@
     "language": "\u2014",
     "name": "redikultsev/awesome-agents-in-production",
     "stars": 0,
-    "updated_at": "2026-10-04T21:26:55Z",
+    "updated_at": "2026-10-04T21:36:43Z",
     "url": "https://github.com/redikultsev/awesome-agents-in-production"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:35:55Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-04T21:28:59Z",
+    "updated_at": "2026-10-04T21:44:43Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -32,8 +86,44 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-04T21:24:43Z",
+    "updated_at": "2026-10-04T21:38:45Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25703,
+    "updated_at": "2026-10-04T21:33:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-04T21:33:05Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:30:26Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise multimodal RAG QA for cosmetics knowledge: hybrid BM25/BGE/CLIP retrieval, reranking, evidence gating, RBAC, ",
@@ -54,21 +144,12 @@
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60128,
-    "updated_at": "2026-10-04T21:07:10Z",
+    "stars": 60129,
+    "updated_at": "2026-10-04T21:39:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
-    "id": "homayoun-safarpour/homi-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/homi-gate",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:03:59Z",
-    "url": "https://github.com/homayoun-safarpour/homi-gate"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -97,15 +169,6 @@
     "stars": 24,
     "updated_at": "2026-10-04T21:02:59Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:09:02Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 49,
-    "updated_at": "2026-10-04T20:52:00Z",
+    "updated_at": "2026-10-04T21:42:02Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -160,24 +223,6 @@
     "stars": 9,
     "updated_at": "2026-10-04T20:50:53Z",
     "url": "https://github.com/AshwinUgale/muteval"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-04T20:44:19Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:24:53Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
@@ -243,15 +288,6 @@
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
-    "description": "An open source workflow engine for agent-driven software factories.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 10,
-    "updated_at": "2026-10-04T21:30:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
     "id": "Traciewheelless86/sentiment-analysis-nlp-api",
     "language": "Python",
@@ -274,8 +310,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22374,
-    "updated_at": "2026-10-04T20:28:38Z",
+    "stars": 22375,
+    "updated_at": "2026-10-04T21:40:13Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T20:15:06Z",
     "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:14:37Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:14:26Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:14:16Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:13:03Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
