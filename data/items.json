@@ -1,11 +1,128 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:15:15Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
+    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "language": "Python",
+    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:14:27Z",
+    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8543,
+    "updated_at": "2026-10-04T06:13:44Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Zero-dependency regression tester for LLM prompts: assertions, baselines, offline mock mode, CI exit codes.",
+    "id": "Waqas-Ai-Engineer/prompt-regression-guard",
+    "language": "Python",
+    "name": "Waqas-Ai-Engineer/prompt-regression-guard",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:12:56Z",
+    "url": "https://github.com/Waqas-Ai-Engineer/prompt-regression-guard"
+  },
+  {
+    "description": "Governed multi-agent research platform on MCP \u2014 policy-as-code authorization, tenant isolation, evidence-backed claims, ",
+    "id": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:12:25Z",
+    "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
+  },
+  {
+    "description": "Portable, self-contained snapshot of a complete Claude Code setup \u2014 36 specialist agents, 162 skills, plugins, MCP serve",
+    "id": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "language": "Python",
+    "name": "build-with-dhiraj/ai-workflow-framework-portability-kit",
+    "stars": 5,
+    "updated_at": "2026-10-04T06:09:30Z",
+    "url": "https://github.com/build-with-dhiraj/ai-workflow-framework-portability-kit"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-04T06:09:07Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:06:07Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-04T06:02:06Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Ground truth for enterprise AI \u2014 discover, operate and govern every agent, session, model and MCP already running on you",
+    "id": "olivaresai/olivares",
+    "language": "Go",
+    "name": "olivaresai/olivares",
+    "stars": 7,
+    "updated_at": "2026-10-04T06:12:13Z",
+    "url": "https://github.com/olivaresai/olivares"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-10-04T06:01:08Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Open-source European platform for verified AI context: prompts, guardrails, datasets and evals, each with its source and",
+    "id": "contexte-tech/contextetech",
+    "language": "Python",
+    "name": "contexte-tech/contextetech",
+    "stars": 1,
+    "updated_at": "2026-10-04T06:00:45Z",
+    "url": "https://github.com/contexte-tech/contextetech"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T06:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise multimodal RAG QA for cosmetics | FastAPI \u00b7 Qdrant/Elasticsearch \u00b7 BGE/CLIP \u00b7 Qwen/vLLM \u00b7 RBAC \u00b7 audit \u00b7 obse",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-04T05:59:16Z",
+    "updated_at": "2026-10-04T06:12:28Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -27,15 +144,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:55:16Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60107,
-    "updated_at": "2026-10-04T05:59:38Z",
+    "updated_at": "2026-10-04T06:11:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,24 +169,6 @@
     "stars": 41,
     "updated_at": "2026-10-04T05:55:50Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Policy-aware security gateway for LLM and agent workflows",
-    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "language": "Python",
-    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:53:39Z",
-    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
@@ -106,24 +196,6 @@
     "stars": 5,
     "updated_at": "2026-10-04T05:36:55Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-04T05:36:49Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-04T05:52:03Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
@@ -212,7 +284,7 @@
     "language": "Rust",
     "name": "flyer103/vadis",
     "stars": 0,
-    "updated_at": "2026-10-04T05:10:59Z",
+    "updated_at": "2026-10-04T06:02:13Z",
     "url": "https://github.com/flyer103/vadis"
   },
   {
@@ -248,7 +320,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T05:56:03Z",
+    "updated_at": "2026-10-04T06:11:22Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25686,
-    "updated_at": "2026-10-04T05:57:28Z",
+    "updated_at": "2026-10-04T06:09:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T04:41:19Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8543,
-    "updated_at": "2026-10-04T05:58:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1900,
-    "updated_at": "2026-10-04T05:59:49Z",
+    "updated_at": "2026-10-04T06:01:54Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T04:15:00Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Curated list of tools, standards, and platforms for LLM and AI-agent observability: OpenTelemetry GenAI conventions, tra",
-    "id": "anhermon/awesome-agent-observability",
-    "language": "\u2014",
-    "name": "anhermon/awesome-agent-observability",
-    "stars": 37,
-    "updated_at": "2026-10-04T04:14:49Z",
-    "url": "https://github.com/anhermon/awesome-agent-observability"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:13:45Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
-    "id": "Janlegenddry/LLMOpsGuide",
-    "language": "JavaScript",
-    "name": "Janlegenddry/LLMOpsGuide",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:13:42Z",
-    "url": "https://github.com/Janlegenddry/LLMOpsGuide"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-04T05:20:54Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:12:17Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:10:15Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:09:46Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
   }
 ]
