@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 07:43 UTC
+> ⏰ Last updated: 2026-10-04 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [charliechenye/OpenEvalGate](https://github.com/charliechenye/OpenEvalGate) | 1 | Python | 2026-10-04 | GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc |
-| 2 | [vittorfp/agent-change-proposals](https://github.com/vittorfp/agent-change-proposals) | 0 | Python | 2026-10-04 | Evidence-backed improvement proposals for AI agents. |
-| 3 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-04 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60112 | Python | 2026-10-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [charliechenye/OpenEvalGate](https://github.com/charliechenye/OpenEvalGate) | 1 | Python | 2026-10-04 | GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc |
+| 3 | [vittorfp/agent-change-proposals](https://github.com/vittorfp/agent-change-proposals) | 0 | Python | 2026-10-04 | Evidence-backed improvement proposals for AI agents. |
+| 4 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-04 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60112 | Python | 2026-10-04 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 6 | [renezander030/draftcat](https://github.com/renezander030/draftcat) | 9 | Go | 2026-10-04 | Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved. |
 | 7 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-04 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
 | 8 | [urellai22/Claude-Red](https://github.com/urellai22/Claude-Red) | 0 | Python | 2026-10-04 | Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories. |
