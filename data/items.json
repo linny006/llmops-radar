@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T17:27:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-grade Terraform for Azure API Management as a centralized AI Gateway in front of Microsoft Foundry models, wi",
+    "id": "zuman88/foundry-ai-gateway-accelerator",
+    "language": "HCL",
+    "name": "zuman88/foundry-ai-gateway-accelerator",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:23:48Z",
+    "url": "https://github.com/zuman88/foundry-ai-gateway-accelerator"
+  },
+  {
+    "description": "Dependabot for AI models \u2014 replay your app's scenarios across a model migration and catch real behavioral regressions be",
+    "id": "samarthputhraya/Modelpin",
+    "language": "Python",
+    "name": "samarthputhraya/Modelpin",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:24:47Z",
+    "url": "https://github.com/samarthputhraya/Modelpin"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:22:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-04T17:22:51Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 94,
+    "updated_at": "2026-10-04T17:21:32Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:20:16Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:16:04Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 18,
     "updated_at": "2026-10-04T17:14:35Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60124,
+    "updated_at": "2026-10-04T17:24:22Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -72,39 +153,12 @@
     "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
   },
   {
-    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-04T17:12:01Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60123,
-    "updated_at": "2026-10-04T17:13:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T17:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-04T17:14:12Z",
+    "updated_at": "2026-10-04T17:29:25Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 8121,
     "updated_at": "2026-10-04T16:53:48Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T16:49:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -198,15 +243,6 @@
     "url": "https://github.com/Prathamg042004/tokensave"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-04T16:37:30Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Kingson4Wu/Understanding-LLMs"
   },
   {
-    "description": "Production-grade Terraform for Azure API Management as a centralized AI Gateway in front of Microsoft Foundry models, wi",
-    "id": "zuman88/foundry-ai-gateway-accelerator",
-    "language": "HCL",
-    "name": "zuman88/foundry-ai-gateway-accelerator",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:34:02Z",
-    "url": "https://github.com/zuman88/foundry-ai-gateway-accelerator"
-  },
-  {
     "description": "An open source workflow engine for agent-driven software factories.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-04T16:47:36Z",
+    "updated_at": "2026-10-04T17:20:18Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 2,
-    "updated_at": "2026-10-04T16:17:10Z",
+    "updated_at": "2026-10-04T17:24:46Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T15:33:37Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Series of blog posts and supporting code for D.E. for AI",
-    "id": "madhav692/data-engineering-for-ai",
-    "language": "Python",
-    "name": "madhav692/data-engineering-for-ai",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:24:10Z",
-    "url": "https://github.com/madhav692/data-engineering-for-ai"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2919,
-    "updated_at": "2026-10-04T15:23:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 333,
-    "updated_at": "2026-10-04T15:23:25Z",
-    "url": "https://github.com/overmind-core/overmind"
   }
 ]
