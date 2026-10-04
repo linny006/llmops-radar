@@ -1,21 +1,66 @@
 [
   {
-    "description": "Stateful AI agent rehearsal and outcome verification \u2014 inject failures, verify final state, block regressions.",
-    "id": "zyvorai/verixa",
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
     "language": "Python",
-    "name": "zyvorai/verixa",
+    "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-04T05:14:58Z",
-    "url": "https://github.com/zyvorai/verixa"
+    "updated_at": "2026-10-04T05:29:28Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T05:28:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
     "id": "Lazaro549/ai-evaluation-platform",
-    "language": "Python",
+    "language": "TypeScript",
     "name": "Lazaro549/ai-evaluation-platform",
     "stars": 1,
-    "updated_at": "2026-10-04T05:13:27Z",
+    "updated_at": "2026-10-04T05:22:57Z",
     "url": "https://github.com/Lazaro549/ai-evaluation-platform"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:23:43Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Stateful AI agent rehearsal and outcome verification \u2014 inject failures, verify final state, block regressions.",
+    "id": "zyvorai/verixa",
+    "language": "Python",
+    "name": "zyvorai/verixa",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:18:09Z",
+    "url": "https://github.com/zyvorai/verixa"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:15:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:15:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -63,15 +108,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:11:33Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
     "id": "flyer103/vadis",
     "language": "Rust",
@@ -103,18 +139,9 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8801,
+    "stars": 8803,
     "updated_at": "2026-10-04T05:03:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:02:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -122,17 +149,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T05:07:09Z",
+    "updated_at": "2026-10-04T05:25:02Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:02:16Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "Understanding LLMs for Software Engineers: a systems-first, bilingual guide to LLM principles, mechanisms, and boundarie",
@@ -167,17 +185,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60106,
-    "updated_at": "2026-10-04T05:11:13Z",
+    "updated_at": "2026-10-04T05:30:14Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T05:12:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25686,
-    "updated_at": "2026-10-04T05:10:23Z",
+    "updated_at": "2026-10-04T05:26:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-04T04:12:59Z",
+    "updated_at": "2026-10-04T05:20:54Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T04:00:37Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:00:00Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
   }
 ]
