@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T14:59:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 10,
+    "updated_at": "2026-10-04T14:56:27Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-04T14:55:34Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:55:14Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Azure-native agentic AI platform: Microsoft Agent Framework 1.0, Azure AI Foundry, A2A, MCP, AI Search, Document Intelli",
+    "id": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-azure-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:49:00Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T14:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -27,21 +81,12 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T14:39:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-04T14:44:37Z",
+    "updated_at": "2026-10-04T14:52:51Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-04T14:44:12Z",
+    "updated_at": "2026-10-04T14:55:57Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:31:43Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T14:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 39,
-    "updated_at": "2026-10-04T14:16:38Z",
+    "updated_at": "2026-10-04T14:57:32Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T13:56:00Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-04T13:55:43Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-10-04T13:55:17Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:52:08Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:51:12Z",
-    "url": "https://github.com/liam8421/faster-llm"
   }
 ]
